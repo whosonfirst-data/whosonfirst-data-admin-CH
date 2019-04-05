@@ -1,0 +1,84 @@
+{
+  "id": 1125830045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.46252,47.25132,8.46252,47.25132",
+    "geom:latitude":47.25132,
+    "geom:longitude":8.46252,
+    "gn:gn_country":"CH",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":5,
+    "gn:population":5,
+    "iso:country":"CH",
+    "lbl:latitude":47.25132,
+    "lbl:longitude":8.46252,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CH",
+    "qs_pg:gn_country":"CH",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":6290534,
+    "qs_pg:gn_pop":5,
+    "qs_pg:name":"Sunnenberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":617340,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        404569137,
+        85633051,
+        102062775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6290534,
+        "qs_pg:id":617340
+    },
+    "wof:country":"CH",
+    "wof:created":1497292458,
+    "wof:geomhash":"1dacae9ba5c6102c0ec3bed8360cd6fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062775,
+            "localadmin_id":404569137,
+            "locality_id":1125830045,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":1125830045,
+    "wof:lastmodified":1534379253,
+    "wof:name":"Sunnenberg",
+    "wof:parent_id":404569137,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[
+        1126028995
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.46252,
+    47.25132,
+    8.46252,
+    47.25132
+],
+  "geometry": {"coordinates":[8.46252,47.25132],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1125831931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.52426,47.29191,8.52426,47.29191",
+    "geom:latitude":47.29191,
+    "geom:longitude":8.52426,
+    "gn:gn_country":"CH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":60,
+    "gn:population":60,
+    "iso:country":"CH",
+    "lbl:latitude":47.29191,
+    "lbl:longitude":8.52426,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CH",
+    "qs_pg:gn_country":"CH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6292889,
+    "qs_pg:gn_pop":60,
+    "qs_pg:name":"Waldi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":619280,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        404570117,
+        85633051,
+        102062825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6292889,
+        "qs_pg:id":619280
+    },
+    "wof:country":"CH",
+    "wof:created":1497292538,
+    "wof:geomhash":"90b032bfe2fd9dcd11a1f47d4b555862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062825,
+            "localadmin_id":404570117,
+            "locality_id":1125831931,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":1125831931,
+    "wof:lastmodified":1534379253,
+    "wof:name":"Waldi",
+    "wof:parent_id":404570117,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[
+        1125813907
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.52426,
+    47.29191,
+    8.52426,
+    47.29191
+],
+  "geometry": {"coordinates":[8.52426,47.29191],"type":"Point"}
+}

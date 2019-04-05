@@ -1,0 +1,83 @@
+{
+  "id": 1125811695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.79266,47.30779,8.79266,47.30779",
+    "geom:latitude":47.30779,
+    "geom:longitude":8.79266,
+    "gn:gn_country":"CH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":14,
+    "iso:country":"CH",
+    "lbl:latitude":47.30779,
+    "lbl:longitude":8.79266,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CH",
+    "qs_pg:gn_country":"CH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6292220,
+    "qs_pg:gn_pop":14,
+    "qs_pg:name":"Allenberg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":618734,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        404568687,
+        85633051,
+        102062967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6292220,
+        "qs_pg:id":618734
+    },
+    "wof:country":"CH",
+    "wof:created":1497291681,
+    "wof:geomhash":"675318d08daa967d2dfef6c4bd6d1183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062967,
+            "localadmin_id":404568687,
+            "locality_id":1125811695,
+            "region_id":85682309
+        }
+    ],
+    "wof:id":1125811695,
+    "wof:lastmodified":1534379253,
+    "wof:name":"Allenberg",
+    "wof:parent_id":404568687,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ch",
+    "wof:superseded_by":[
+        1125813773
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.79266,
+    47.30779,
+    8.79266,
+    47.30779
+],
+  "geometry": {"coordinates":[8.79266,47.30779],"type":"Point"}
+}
