@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001967,
-    "geom:area_square_m":16411967.078541,
+    "geom:area_square_m":16411967.078542,
     "geom:bbox":"7.6547241211,47.543923797,7.71416259766,47.6106072902",
     "geom:latitude":47.576795,
     "geom:longitude":7.683277,
@@ -127,7 +127,11 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        404328853,
+        85633051,
+        102062895,
+        85682297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,17 +146,20 @@
     "wof:geomhash":"5931d44dff82dcd2e3356af0be93cb98",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "county_id":-1,
+            "county_id":102062895,
+            "localadmin_id":404328853,
+            "locality_id":-1,
             "neighbourhood_id":85799823,
-            "region_id":-1
+            "region_id":85682297
         }
     ],
     "wof:id":85799823,
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1505342430,
+    "wof:lastmodified":1559008444,
     "wof:name":"Bettingen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
