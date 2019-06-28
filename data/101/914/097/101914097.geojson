@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001737,
-    "geom:area_square_m":14503905.99249,
+    "geom:area_square_m":14503905.992492,
     "geom:bbox":"7.5242255,47.4923658021,7.58891363534,47.5650613168",
     "geom:latitude":47.529391,
     "geom:longitude":7.559413,
@@ -23,17 +23,11 @@
     "name:aka_x_preferred":[
         "Basel"
     ],
-    "name:alb_x_preferred":[
-        "Basel"
-    ],
     "name:amh_x_preferred":[
         "\u1263\u12dd\u120d"
     ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0632\u0644"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0566\u0565\u056c"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0627\u0632\u0644"
@@ -44,14 +38,14 @@
     "name:azb_x_preferred":[
         "\u0628\u0627\u0632\u0644"
     ],
-    "name:baq_x_preferred":[
-        "Basilea"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0437\u0435\u043b\u044c"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u099c\u09c7\u09b2"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f54\u0f0b\u0f66\u0f7a\u0f63\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Basel"
@@ -65,11 +59,11 @@
     "name:cat_x_preferred":[
         "Basilea"
     ],
+    "name:ces_x_preferred":[
+        "Basilej"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0430\u0437\u0435\u043b\u044c"
-    ],
-    "name:chi_x_preferred":[
-        "\u5df4\u585e\u723e"
     ],
     "name:chi_x_variant":[
         "\u5df4\u585e\u5c14",
@@ -81,8 +75,8 @@
     "name:ckb_x_preferred":[
         "\u0628\u0627\u0632\u0644"
     ],
-    "name:cze_x_preferred":[
-        "Basilej"
+    "name:cym_x_preferred":[
+        "Basel"
     ],
     "name:dan_x_preferred":[
         "Basel"
@@ -96,8 +90,8 @@
     "name:deu_x_variant":[
         "Basle"
     ],
-    "name:dut_x_preferred":[
-        "Bazel"
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Basel"
@@ -108,13 +102,16 @@
     "name:est_x_preferred":[
         "Basel"
     ],
+    "name:eus_x_preferred":[
+        "Basilea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0632\u0644"
+    ],
     "name:fin_x_preferred":[
         "Basel"
     ],
     "name:fra_x_preferred":[
-        "B\u00e2le"
-    ],
-    "name:fre_x_preferred":[
         "B\u00e2le"
     ],
     "name:frp_x_preferred":[
@@ -126,12 +123,6 @@
     "name:fry_x_preferred":[
         "Basel"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10d6\u10d4\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Basel"
-    ],
     "name:gla_x_preferred":[
         "Basel"
     ],
@@ -140,9 +131,6 @@
     ],
     "name:glg_x_preferred":[
         "Basilea"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Basel"
@@ -165,8 +153,8 @@
     "name:hun_x_preferred":[
         "B\u00e1zel"
     ],
-    "name:ice_x_preferred":[
-        "Basel"
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0566\u0565\u056c"
     ],
     "name:ido_x_preferred":[
         "Basel"
@@ -178,6 +166,9 @@
         "Basel"
     ],
     "name:ind_x_preferred":[
+        "Basel"
+    ],
+    "name:isl_x_preferred":[
         "Basel"
     ],
     "name:ita_x_preferred":[
@@ -194,6 +185,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cbe\u0cb8\u0cc6\u0cb2\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d6\u10d4\u10da\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u0437\u0435\u043b\u044c"
@@ -219,17 +213,17 @@
     "name:ltz_x_preferred":[
         "Basel"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u0437\u0435\u043b"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u093e\u0938\u0932"
     ],
-    "name:may_x_preferred":[
-        "Basel"
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0437\u0435\u043b"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0430\u0437\u0435\u043b\u044c \u0445\u043e\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Basel"
     ],
     "name:nan_x_preferred":[
         "Basel"
@@ -249,6 +243,9 @@
     "name:nld_x_preferred":[
         "Basel"
     ],
+    "name:nld_x_variant":[
+        "Bazel"
+    ],
     "name:nno_x_preferred":[
         "Basel"
     ],
@@ -263,9 +260,6 @@
     ],
     "name:oss_x_preferred":[
         "\u0411\u0430\u0437\u0435\u043b\u044c"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0632\u0644"
     ],
     "name:pms_x_preferred":[
         "Basilea"
@@ -286,7 +280,7 @@
     "name:roh_x_preferred":[
         "Basilea"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Basel"
     ],
     "name:rus_x_preferred":[
@@ -301,7 +295,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dd0\u0dc3\u0dd9\u0dbd\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bazilej"
     ],
     "name:slv_x_preferred":[
@@ -309,6 +303,9 @@
     ],
     "name:spa_x_preferred":[
         "Basilea"
+    ],
+    "name:sqi_x_preferred":[
+        "Basel"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u0437\u0435\u043b"
@@ -337,9 +334,6 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e40\u0e0b\u0e34\u0e25"
     ],
-    "name:tib_x_preferred":[
-        "\u0f54\u0f0b\u0f66\u0f7a\u0f63\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Basel"
     ],
@@ -364,9 +358,6 @@
     "name:war_x_preferred":[
         "Basel"
     ],
-    "name:wel_x_preferred":[
-        "Basel"
-    ],
     "name:wuu_x_preferred":[
         "\u767d\u624d\u5c14"
     ],
@@ -374,6 +365,9 @@
         "\u05d1\u05d0\u05d6\u05e2\u05dc"
     ],
     "name:yue_x_preferred":[
+        "\u5df4\u585e\u723e"
+    ],
+    "name:zho_x_preferred":[
         "\u5df4\u585e\u723e"
     ],
     "qs:a0":"Schweiz#Suisse#Svizzera#Svizra",
@@ -433,7 +427,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527688584,
+    "wof:lastmodified":1561745826,
     "wof:name":"Basel",
     "wof:parent_id":404571475,
     "wof:placetype":"locality",

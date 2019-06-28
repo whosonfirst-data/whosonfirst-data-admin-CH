@@ -27,9 +27,6 @@
     "name:afr_x_preferred":[
         "Kanton Aargau"
     ],
-    "name:alb_x_preferred":[
-        "Kantoni Aargau"
-    ],
     "name:als_x_preferred":[
         "Kanton Aargau"
     ],
@@ -39,17 +36,11 @@
     "name:arg_x_preferred":[
         "Cant\u00f3n d'Argovia"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u0563\u0561\u0578\u0582"
-    ],
     "name:ast_x_preferred":[
         "Cant\u00f3n d'Argovia"
     ],
     "name:azb_x_preferred":[
         "\u0622\u0631\u06af\u0627\u0648"
-    ],
-    "name:baq_x_preferred":[
-        "Argovia"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0442\u043e\u043d \u0410\u0430\u0440\u0433\u0430\u0443"
@@ -78,16 +69,10 @@
     "name:ces_x_preferred":[
         "Aargau"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u9ad8\u5dde"
-    ],
     "name:chv_x_preferred":[
         "\u0410\u0440\u0433\u0430\u0443"
     ],
     "name:cym_x_preferred":[
-        "Aargau"
-    ],
-    "name:cze_x_preferred":[
         "Aargau"
     ],
     "name:dan_x_preferred":[
@@ -99,11 +84,11 @@
     "name:deu_x_variant":[
         "Aargau"
     ],
-    "name:dut_x_preferred":[
-        "Aargau"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bd\u03c4\u03cc\u03bd\u03b9 \u03c4\u03bf\u03c5 \u0386\u03b1\u03c1\u03b3\u03ba\u03b1\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b1\u03c1\u03b3\u03ba\u03b1\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Aargau"
@@ -123,6 +108,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0646\u062a\u0648\u0646 \u0622\u0631\u06af\u0627\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0622\u0631\u06af\u0627\u0648"
+    ],
     "name:fin_x_preferred":[
         "Aargau"
     ],
@@ -131,28 +119,17 @@
     ],
     "name:fra_x_variant":[
         "Argovie",
-        "Canton d\u2019Argovie"
-    ],
-    "name:fre_x_preferred":[
+        "Canton d\u2019Argovie",
         "canton d'Argovie"
     ],
     "name:frp_x_preferred":[
         "Argovia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d0\u10e0\u10d2\u10d0\u10e3\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kanton Aargau"
     ],
     "name:gla_x_preferred":[
         "Aargau"
     ],
     "name:glg_x_preferred":[
         "Argovia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b1\u03c1\u03b3\u03ba\u03b1\u03bf\u03c5"
     ],
     "name:gsw_x_preferred":[
         "Kanton Aargou"
@@ -175,8 +152,8 @@
     "name:hun_x_preferred":[
         "Aargau kanton"
     ],
-    "name:ice_x_preferred":[
-        "Aargau"
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0563\u0561\u0578\u0582"
     ],
     "name:ile_x_preferred":[
         "Canton de Aargau"
@@ -232,14 +209,11 @@
     "name:lmo_x_preferred":[
         "Canton Argovia"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0440\u0433\u0430\u0443"
-    ],
     "name:mar_x_preferred":[
         "\u0906\u0930\u094d\u0917\u093e\u0909"
     ],
-    "name:may_x_preferred":[
-        "Aargau"
+    "name:mkd_x_preferred":[
+        "\u0410\u0440\u0433\u0430\u0443"
     ],
     "name:msa_x_preferred":[
         "Aargau"
@@ -265,9 +239,6 @@
     "name:pdc_x_preferred":[
         "Canton Aargau"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0622\u0631\u06af\u0627\u0648"
-    ],
     "name:pms_x_preferred":[
         "Canton d'Arg\u00f2via"
     ],
@@ -289,9 +260,6 @@
     "name:ron_x_preferred":[
         "Cantonul Argovia"
     ],
-    "name:rum_x_preferred":[
-        "Cantonul Argovia"
-    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0433\u0430\u0443"
     ],
@@ -305,9 +273,6 @@
         "\u0d86\u0dbb\u0dca\u0d9c\u0dde"
     ],
     "name:slk_x_preferred":[
-        "Aargau"
-    ],
-    "name:slo_x_preferred":[
         "Aargau"
     ],
     "name:slv_x_preferred":[
@@ -359,9 +324,6 @@
         "Aargau"
     ],
     "name:war_x_preferred":[
-        "Aargau"
-    ],
-    "name:wel_x_preferred":[
         "Aargau"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -489,7 +451,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1553550720,
+    "wof:lastmodified":1561745805,
     "wof:name":"Aargau",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

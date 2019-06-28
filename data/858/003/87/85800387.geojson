@@ -23,8 +23,11 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
-    "name:chi_x_preferred":[
-        "\u4e4c\u5951"
+    "name:cym_x_preferred":[
+        "Ouchy"
+    ],
+    "name:deu_x_preferred":[
+        "Sous-Gare/Ouchy"
     ],
     "name:eng_x_preferred":[
         "Ouchy"
@@ -32,10 +35,7 @@
     "name:fra_x_preferred":[
         "Ouchy"
     ],
-    "name:fre_x_preferred":[
-        "Sous-Gare/Ouchy"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Sous-Gare/Ouchy"
     ],
     "name:heb_x_preferred":[
@@ -47,8 +47,8 @@
     "name:rus_x_preferred":[
         "\u0423\u0448\u0438"
     ],
-    "name:wel_x_preferred":[
-        "Ouchy"
+    "name:zho_x_preferred":[
+        "\u4e4c\u5951"
     ],
     "src:geom":"mz",
     "src:geom_alt":[
@@ -93,7 +93,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1553814900,
+    "wof:lastmodified":1561745818,
     "wof:name":"Ouchy",
     "wof:parent_id":101748449,
     "wof:placetype":"neighbourhood",

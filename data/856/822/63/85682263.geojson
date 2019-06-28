@@ -24,9 +24,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
-    "name:alb_x_preferred":[
-        "Kantoni Zug"
-    ],
     "name:als_x_preferred":[
         "Zug"
     ],
@@ -35,9 +32,6 @@
     ],
     "name:arg_x_preferred":[
         "Cant\u00f3n de Zug"
-    ],
-    "name:baq_x_preferred":[
-        "Zug kantonamendua"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0426\u0443\u0433"
@@ -70,16 +64,10 @@
     "name:che_x_preferred":[
         "\u0426\u0443\u0433"
     ],
-    "name:chi_x_preferred":[
-        "\u695a\u683c\u5dde"
-    ],
     "name:chv_x_preferred":[
         "\u0426\u0443\u0433"
     ],
     "name:cym_x_preferred":[
-        "Zug"
-    ],
-    "name:cze_x_preferred":[
         "Zug"
     ],
     "name:dan_x_preferred":[
@@ -91,8 +79,8 @@
     "name:deu_x_variant":[
         "Kanton Zug"
     ],
-    "name:dut_x_preferred":[
-        "Zug"
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bd\u03c4\u03bf\u03bd \u03bf\u03c6 \u0396\u03ac\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Zug"
@@ -109,8 +97,14 @@
     "name:eus_x_preferred":[
         "Zug"
     ],
+    "name:eus_x_variant":[
+        "Zug kantonamendua"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u0648\u06af"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0632\u0648\u06af"
     ],
     "name:fin_x_preferred":[
         "Zug"
@@ -119,28 +113,17 @@
         "Zoug"
     ],
     "name:fra_x_variant":[
-        "Canton de Zoug"
-    ],
-    "name:fre_x_preferred":[
+        "Canton de Zoug",
         "canton de Zoug"
     ],
     "name:frp_x_preferred":[
         "Tsoug"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10e3\u10d2\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kanton Zug"
     ],
     "name:gla_x_preferred":[
         "Zug"
     ],
     "name:glg_x_preferred":[
         "Cant\u00f3n de Zug"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03bd\u03c4\u03bf\u03bd \u03bf\u03c6 \u0396\u03ac\u03b3\u03ba"
     ],
     "name:gsw_x_preferred":[
         "Kanton Zoog"
@@ -190,6 +173,9 @@
     "name:kan_x_preferred":[
         "\u0c9d\u0c97\u0ccd \u0c95\u0ccd\u0caf\u0cbe\u0c82\u0c9f\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10e3\u10d2\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0426\u0443\u0433"
     ],
@@ -217,13 +203,13 @@
     "name:lmo_x_preferred":[
         "Zug"
     ],
-    "name:mac_x_preferred":[
-        "\u0426\u0443\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u094d\u0938\u0941\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0426\u0443\u0433"
+    ],
+    "name:msa_x_preferred":[
         "Canton of Zug"
     ],
     "name:nan_x_preferred":[
@@ -243,9 +229,6 @@
     ],
     "name:oci_x_preferred":[
         "Canton de Zug"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0632\u0648\u06af"
     ],
     "name:pms_x_preferred":[
         "Zug"
@@ -268,7 +251,7 @@
     "name:ron_x_preferred":[
         "Zug"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Cantonul Zug"
     ],
     "name:rus_x_preferred":[
@@ -286,9 +269,6 @@
     "name:slk_x_preferred":[
         "Zug"
     ],
-    "name:slo_x_preferred":[
-        "Zug"
-    ],
     "name:slv_x_preferred":[
         "Zug"
     ],
@@ -300,6 +280,9 @@
     ],
     "name:sqi_x_preferred":[
         "Zug"
+    ],
+    "name:sqi_x_variant":[
+        "Kantoni Zug"
     ],
     "name:srp_x_preferred":[
         "\u0426\u0443\u0433"
@@ -343,14 +326,14 @@
     "name:war_x_preferred":[
         "Zug"
     ],
-    "name:wel_x_preferred":[
-        "Zug"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Zug"
     ],
     "name:zho_x_preferred":[
         "\u695a\u683c"
+    ],
+    "name:zho_x_variant":[
+        "\u695a\u683c\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CHE",
@@ -471,7 +454,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1553550703,
+    "wof:lastmodified":1561745816,
     "wof:name":"Zug",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

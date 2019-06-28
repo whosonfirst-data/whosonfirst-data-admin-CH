@@ -24,9 +24,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
-    "name:alb_x_preferred":[
-        "Kantoni Fribourg"
-    ],
     "name:als_x_preferred":[
         "Freiburg im \u00dcechtland"
     ],
@@ -38,9 +35,6 @@
     ],
     "name:ast_x_preferred":[
         "Cant\u00f3n de Friburgu"
-    ],
-    "name:baq_x_preferred":[
-        "Friburgo kantonamendua"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0424\u0440\u044b\u0431\u0443\u0440"
@@ -73,13 +67,7 @@
     "name:che_x_preferred":[
         "\u0424\u0440\u0438\u0431\u0443\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u91cc\u5821\u5dde"
-    ],
     "name:cym_x_preferred":[
-        "Fribourg"
-    ],
-    "name:cze_x_preferred":[
         "Fribourg"
     ],
     "name:dan_x_preferred":[
@@ -93,8 +81,8 @@
         "Freiburg",
         "Staat Freiburg"
     ],
-    "name:dut_x_preferred":[
-        "Fribourg"
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bd\u03c4\u03bf\u03bd \u03bf\u03c6 \u03a6\u03c1\u03af\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Fribourg"
@@ -111,8 +99,14 @@
     "name:eus_x_preferred":[
         "Friburgo"
     ],
+    "name:eus_x_variant":[
+        "Friburgo kantonamendua"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u06cc\u0628\u0648\u0631\u06af"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0641\u0631\u06cc\u0628\u0648\u0631\u06af"
     ],
     "name:fin_x_preferred":[
         "Fribourg"
@@ -125,17 +119,8 @@
         "\u00c9tat de Fribourg",
         "Etat de Fribourg"
     ],
-    "name:fre_x_preferred":[
-        "Canton de Fribourg"
-    ],
     "name:frp_x_preferred":[
         "Frib\u00f4rg"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10e0\u10d8\u10d1\u10e3\u10e0\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kanton Freiburg"
     ],
     "name:gla_x_preferred":[
         "Fribourg"
@@ -145,9 +130,6 @@
     ],
     "name:glg_x_preferred":[
         "Friburgo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03bd\u03c4\u03bf\u03bd \u03bf\u03c6 \u03a6\u03c1\u03af\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"
     ],
     "name:gsw_x_preferred":[
         "Kanton Fryb\u00f9rg"
@@ -168,9 +150,6 @@
         "Fribourg"
     ],
     "name:hun_x_preferred":[
-        "Fribourg"
-    ],
-    "name:ice_x_preferred":[
         "Fribourg"
     ],
     "name:ile_x_preferred":[
@@ -206,6 +185,9 @@
     "name:kat_x_preferred":[
         "\u10e4\u10e0\u10d8\u10d1\u10e3\u10e0\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10e4\u10e0\u10d8\u10d1\u10e3\u10e0\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0424\u0440\u0438\u0431\u0443\u0440"
     ],
@@ -236,13 +218,13 @@
     "name:ltz_x_preferred":[
         "Fribourg"
     ],
-    "name:mac_x_preferred":[
-        "\u0424\u0440\u0438\u0431\u0443\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u092b\u094d\u0930\u093f\u092c\u094b\u0930\u094d\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0424\u0440\u0438\u0431\u0443\u0440"
+    ],
+    "name:msa_x_preferred":[
         "Fribourg"
     ],
     "name:nan_x_preferred":[
@@ -266,9 +248,6 @@
     "name:oci_x_preferred":[
         "Canton de Friborg"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0641\u0631\u06cc\u0628\u0648\u0631\u06af"
-    ],
     "name:pms_x_preferred":[
         "Friborgh"
     ],
@@ -290,7 +269,7 @@
     "name:ron_x_preferred":[
         "Fribourg"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Cantonul Fribourg"
     ],
     "name:rus_x_preferred":[
@@ -308,9 +287,6 @@
     "name:slk_x_preferred":[
         "Fribourg"
     ],
-    "name:slo_x_preferred":[
-        "Fribourg"
-    ],
     "name:slv_x_preferred":[
         "Fribourg"
     ],
@@ -322,6 +298,9 @@
     ],
     "name:sqi_x_preferred":[
         "Fribourg"
+    ],
+    "name:sqi_x_variant":[
+        "Kantoni Fribourg"
     ],
     "name:srp_x_preferred":[
         "\u0424\u0440\u0438\u0431\u0443\u0440/\u0424\u0440\u0430\u0458\u0431\u0443\u0440\u0433"
@@ -365,14 +344,14 @@
     "name:war_x_preferred":[
         "Fribourg"
     ],
-    "name:wel_x_preferred":[
-        "Fribourg"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Fribourg"
     ],
     "name:zho_x_preferred":[
         "\u5f17\u91cc\u5821"
+    ],
+    "name:zho_x_variant":[
+        "\u5f17\u91cc\u5821\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CHE",
@@ -493,7 +472,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1553550751,
+    "wof:lastmodified":1561745809,
     "wof:name":"Fribourg",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

@@ -61,9 +61,6 @@
     "name:bak_x_preferred":[
         "\u041c\u0430\u0440\u0442"
     ],
-    "name:baq_x_preferred":[
-        "March barrutia"
-    ],
     "name:bar_x_preferred":[
         "Meaz"
     ],
@@ -139,6 +136,9 @@
     "name:deu_x_preferred":[
         "M\u00e4rz"
     ],
+    "name:deu_x_variant":[
+        "Bezirk March"
+    ],
     "name:diq_x_preferred":[
         "Adar"
     ],
@@ -147,9 +147,6 @@
     ],
     "name:dsb_x_preferred":[
         "P\u00f3zymski"
-    ],
-    "name:dut_x_preferred":[
-        "March"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03ac\u03c1\u03c4\u03b9\u03bf\u03c2"
@@ -169,6 +166,9 @@
     "name:eus_x_preferred":[
         "Martxo"
     ],
+    "name:eus_x_variant":[
+        "March barrutia"
+    ],
     "name:ewe_x_preferred":[
         "Tedoxe"
     ],
@@ -181,13 +181,16 @@
     "name:fas_x_preferred":[
         "\u0645\u0627\u0631\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u0628\u062e\u0634 \u0645\u0631\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Maaliskuu"
     ],
     "name:fra_x_preferred":[
         "Mars"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "district de March"
     ],
     "name:frp_x_preferred":[
@@ -207,9 +210,6 @@
     ],
     "name:gan_x_preferred":[
         "\u4e09\u6708"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk March"
     ],
     "name:gla_x_preferred":[
         "Am M\u00e0rt"
@@ -448,6 +448,9 @@
     "name:nld_x_preferred":[
         "Maart"
     ],
+    "name:nld_x_variant":[
+        "March"
+    ],
     "name:nno_x_preferred":[
         "M\u00e5naden mars"
     ],
@@ -477,9 +480,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a3e\u0a30\u0a1a"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u062e\u0634 \u0645\u0631\u06a9"
     ],
     "name:pih_x_preferred":[
         "Maach"
@@ -703,7 +703,7 @@
         }
     ],
     "wof:id":102062927,
-    "wof:lastmodified":1555220296,
+    "wof:lastmodified":1561745799,
     "wof:name":"March",
     "wof:parent_id":85682305,
     "wof:placetype":"county",

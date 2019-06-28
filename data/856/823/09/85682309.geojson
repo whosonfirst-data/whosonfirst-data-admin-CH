@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.206042,
-    "geom:area_square_m":1724086558.372892,
+    "geom:area_square_m":1724086558.372887,
     "geom:bbox":"8.35769346253,47.1594358741,8.98495120804,47.6944698165",
     "geom:latitude":47.412895,
     "geom:longitude":8.655056,
@@ -27,23 +27,14 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
-    "name:alb_x_preferred":[
-        "Kantoni Cyrih"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0648\u0646 \u0632\u064a\u0648\u0631\u064a\u062e"
     ],
     "name:arg_x_preferred":[
         "Cant\u00f3n de Z\u00farich"
     ],
-    "name:arm_x_preferred":[
-        "\u0551\u0575\u0578\u0582\u0580\u056b\u056d"
-    ],
     "name:ast_x_preferred":[
         "Cant\u00f3n de Z\u00farich"
-    ],
-    "name:baq_x_preferred":[
-        "Z\u00fcrich kantonamendua"
     ],
     "name:bel_x_preferred":[
         "\u043a\u0430\u043d\u0442\u043e\u043d \u0426\u044e\u0440\u044b\u0445"
@@ -63,14 +54,14 @@
     "name:cat_x_preferred":[
         "Cant\u00f3 de Zuric"
     ],
-    "name:chi_x_preferred":[
-        "\u82cf\u9ece\u4e16\u5dde"
+    "name:ces_x_preferred":[
+        "Curych"
     ],
     "name:chv_x_preferred":[
         "\u0426\u044e\u0440\u0438\u0445"
     ],
-    "name:cze_x_preferred":[
-        "Curych"
+    "name:cym_x_preferred":[
+        "Z\u00fcrich"
     ],
     "name:dan_x_preferred":[
         "Kanton Z\u00fcrich"
@@ -81,8 +72,8 @@
     "name:deu_x_variant":[
         "Z\u00fcrich"
     ],
-    "name:dut_x_preferred":[
-        "Z\u00fcrich"
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bd\u03c4\u03bf\u03bd \u03bf\u03c6 \u0396\u03c5\u03c1\u03af\u03c7\u03b7"
     ],
     "name:eng_x_preferred":[
         "Canton of Zurich"
@@ -97,6 +88,12 @@
     "name:est_x_preferred":[
         "Z\u00fcrichi kanton"
     ],
+    "name:eus_x_preferred":[
+        "Z\u00fcrich kantonamendua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0632\u0648\u0631\u06cc\u062e"
+    ],
     "name:fin_x_preferred":[
         "Z\u00fcrich"
     ],
@@ -104,28 +101,17 @@
         "Canton de Zurich"
     ],
     "name:fra_x_variant":[
-        "Zurich"
-    ],
-    "name:fre_x_preferred":[
+        "Zurich",
         "canton de Zurich"
     ],
     "name:frp_x_preferred":[
         "Tsurique"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10d8\u10e3\u10e0\u10d8\u10ee\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kanton Z\u00fcrich"
     ],
     "name:gla_x_preferred":[
         "Z\u00fcrich"
     ],
     "name:glg_x_preferred":[
         "Cant\u00f3n de Z\u00faric"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03bd\u03c4\u03bf\u03bd \u03bf\u03c6 \u0396\u03c5\u03c1\u03af\u03c7\u03b7"
     ],
     "name:gsw_x_preferred":[
         "Kanton Z\u00fcri"
@@ -145,8 +131,8 @@
     "name:hun_x_preferred":[
         "Z\u00fcrich kanton"
     ],
-    "name:ice_x_preferred":[
-        "Z\u00fcrich"
+    "name:hye_x_preferred":[
+        "\u0551\u0575\u0578\u0582\u0580\u056b\u056d"
     ],
     "name:ile_x_preferred":[
         "Canton de Z\u00farich"
@@ -156,6 +142,9 @@
     ],
     "name:ind_x_preferred":[
         "Kanton Z\u00fcrich"
+    ],
+    "name:isl_x_preferred":[
+        "Z\u00fcrich"
     ],
     "name:ita_x_preferred":[
         "Canton Zurigo"
@@ -171,6 +160,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9c\u0cc1\u0cb0\u0cbf\u0c9a\u0ccd \u0c95\u0ccd\u0caf\u0cbe\u0c82\u0c9f\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d8\u10e3\u10e0\u10d8\u10ee\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0426\u044e\u0440\u0438\u0445"
@@ -196,17 +188,20 @@
     "name:lmo_x_preferred":[
         "Canton Z\u00fcrigh"
     ],
-    "name:mac_x_preferred":[
-        "\u0426\u0438\u0440\u0438\u0445"
-    ],
     "name:mar_x_preferred":[
         "\u091d\u094d\u092f\u0941\u0930\u093f\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0426\u0438\u0440\u0438\u0445"
+    ],
+    "name:msa_x_preferred":[
         "Canton of Zurich"
     ],
     "name:nan_x_preferred":[
         "Z\u00fcrich Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Z\u00fcrich"
     ],
     "name:nno_x_preferred":[
         "Kantonen Z\u00fcrich"
@@ -216,9 +211,6 @@
     ],
     "name:oci_x_preferred":[
         "Canton de Zuric"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0632\u0648\u0631\u06cc\u062e"
     ],
     "name:pnb_x_preferred":[
         "\u0632\u06cc\u0648\u0631\u0686"
@@ -235,7 +227,7 @@
     "name:roh_x_variant":[
         "Turitg"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cantonul Z\u00fcrich"
     ],
     "name:rus_x_preferred":[
@@ -250,7 +242,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd6\u0dbb\u0dd2\u0da0\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Z\u00fcrich"
     ],
     "name:slv_x_preferred":[
@@ -258,6 +250,9 @@
     ],
     "name:spa_x_preferred":[
         "Z\u00farich"
+    ],
+    "name:sqi_x_preferred":[
+        "Kantoni Cyrih"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043d\u0442\u043e\u043d \u0426\u0438\u0440\u0438\u0445"
@@ -301,11 +296,11 @@
     "name:war_x_preferred":[
         "Z\u00fcrich"
     ],
-    "name:wel_x_preferred":[
-        "Z\u00fcrich"
-    ],
     "name:yue_x_preferred":[
         "\u8607\u9ece\u4e16\u5dde"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u9ece\u4e16\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CHE",
@@ -425,7 +420,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1553814870,
+    "wof:lastmodified":1561745807,
     "wof:name":"Z\u00fcrich",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

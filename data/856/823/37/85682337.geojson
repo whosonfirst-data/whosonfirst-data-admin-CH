@@ -27,17 +27,11 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
-    "name:alb_x_preferred":[
-        "Thurgau"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0648\u0646 \u062a\u0648\u0631\u063a\u0627\u0648"
     ],
     "name:arg_x_preferred":[
         "Cant\u00f3n de Turgovia"
-    ],
-    "name:baq_x_preferred":[
-        "Turgovia"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0442\u043e\u043d \u0422\u0443\u0440\u0433\u0430\u0443"
@@ -57,10 +51,10 @@
     "name:cat_x_preferred":[
         "Turg\u00f2via"
     ],
-    "name:chi_x_preferred":[
-        "\u5716\u723e\u9ad8\u5dde"
+    "name:ces_x_preferred":[
+        "Thurgau"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Thurgau"
     ],
     "name:dan_x_preferred":[
@@ -72,8 +66,8 @@
     "name:deu_x_variant":[
         "Thurgau"
     ],
-    "name:dut_x_preferred":[
-        "Thurgau"
+    "name:ell_x_preferred":[
+        "\u0398\u03ad\u03c1\u03b3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Thurgau"
@@ -84,6 +78,12 @@
     "name:est_x_preferred":[
         "Thurgau kanton"
     ],
+    "name:eus_x_preferred":[
+        "Turgovia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u062a\u0648\u0631\u06af\u0627\u0648"
+    ],
     "name:fin_x_preferred":[
         "Thurgau"
     ],
@@ -91,28 +91,17 @@
         "Canton de Thurgovie"
     ],
     "name:fra_x_variant":[
-        "Thurgovie"
-    ],
-    "name:fre_x_preferred":[
+        "Thurgovie",
         "canton de Thurgovie"
     ],
     "name:frp_x_preferred":[
         "Turgovia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10e3\u10e0\u10d2\u10d0\u10e3\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kanton Thurgau"
     ],
     "name:gla_x_preferred":[
         "Thurgau"
     ],
     "name:glg_x_preferred":[
         "Turgovia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0398\u03ad\u03c1\u03b3\u03ba\u03bf"
     ],
     "name:gsw_x_preferred":[
         "Kanton Thurgau"
@@ -132,9 +121,6 @@
     "name:hun_x_preferred":[
         "Thurgau kanton"
     ],
-    "name:ice_x_preferred":[
-        "Thurgau"
-    ],
     "name:ile_x_preferred":[
         "Canton de Thurgau"
     ],
@@ -143,6 +129,9 @@
     ],
     "name:ind_x_preferred":[
         "Kanton Thurgau"
+    ],
+    "name:isl_x_preferred":[
+        "Thurgau"
     ],
     "name:ita_x_preferred":[
         "Canton Turgovia"
@@ -155,6 +144,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca4\u0cc1\u0cb0\u0ccd\u0c97\u0ccc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10e3\u10e0\u10d2\u10d0\u10e3\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0422\u0443\u0440\u0433\u0430\u0443"
@@ -177,17 +169,20 @@
     "name:lmo_x_preferred":[
         "Canton T\u00fcrgovia"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0443\u0440\u0433\u0430\u0443"
-    ],
     "name:mar_x_preferred":[
         "\u0925\u0941\u0930\u094d\u0917\u093e\u0909"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0422\u0443\u0440\u0433\u0430\u0443"
+    ],
+    "name:msa_x_preferred":[
         "St. Thurgau"
     ],
     "name:nan_x_preferred":[
         "Thurgau Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Thurgau"
     ],
     "name:nno_x_preferred":[
         "Thurgau"
@@ -197,9 +192,6 @@
     ],
     "name:oci_x_preferred":[
         "Canton de Turg\u00f2via"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u062a\u0648\u0631\u06af\u0627\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u06be\u0631\u06af\u0627\u0648"
@@ -216,7 +208,7 @@
     "name:roh_x_variant":[
         "Turgovia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cantonul Turgovia"
     ],
     "name:rus_x_preferred":[
@@ -231,7 +223,7 @@
     "name:sin_x_preferred":[
         "\u0dad\u0dd4\u0dbb\u0dca\u0d9c\u0dde"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Thurgau"
     ],
     "name:slv_x_preferred":[
@@ -242,6 +234,9 @@
     ],
     "name:spa_x_preferred":[
         "Turgovia"
+    ],
+    "name:sqi_x_preferred":[
+        "Thurgau"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043d\u0442\u043e\u043d \u0422\u0443\u0440\u0433\u0430\u0443"
@@ -282,8 +277,8 @@
     "name:war_x_preferred":[
         "Thurgau"
     ],
-    "name:wel_x_preferred":[
-        "Thurgau"
+    "name:zho_x_preferred":[
+        "\u5716\u723e\u9ad8\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CHE",
@@ -404,7 +399,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1553550753,
+    "wof:lastmodified":1561745809,
     "wof:name":"Thurgau",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
