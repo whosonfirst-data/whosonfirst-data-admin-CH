@@ -25,14 +25,8 @@
     "name:ast_x_preferred":[
         "Distritu de Pf\u00e4ffikon"
     ],
-    "name:baq_x_preferred":[
-        "Pf\u00e4ffikon barrutia"
-    ],
     "name:cat_x_preferred":[
         "Districte de Pf\u00e4ffikon"
-    ],
-    "name:chi_x_preferred":[
-        "\u666e\u8cbb\u83f2\u5b54\u5340"
     ],
     "name:chv_x_preferred":[
         "\u041f\u0444\u0435\u0444\u0444\u0438\u043a\u043e\u043d"
@@ -40,8 +34,8 @@
     "name:deu_x_preferred":[
         "Pf\u00e4ffikon"
     ],
-    "name:dut_x_preferred":[
-        "Pf\u00e4ffikon"
+    "name:deu_x_variant":[
+        "Bezirk Pf\u00e4ffikon"
     ],
     "name:eng_x_preferred":[
         "Pf\u00e4ffikon"
@@ -52,14 +46,17 @@
     "name:epo_x_preferred":[
         "Pf\u00e4ffikon"
     ],
+    "name:eus_x_preferred":[
+        "Pf\u00e4ffikon barrutia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u067e\u0641\u0641\u06cc\u06a9\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Pf\u00e4ffikon"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "district de Pf\u00e4ffikon"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Pf\u00e4ffikon"
     ],
     "name:gsw_x_preferred":[
         "Pf\u00e4ffikon"
@@ -85,9 +82,6 @@
     "name:nno_x_preferred":[
         "Distriktet Pf\u00e4ffikon"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u062e\u0634 \u067e\u0641\u0641\u06cc\u06a9\u0648\u0646"
-    ],
     "name:pol_x_preferred":[
         "Pf\u00e4ffikon"
     ],
@@ -108,6 +102,9 @@
     ],
     "name:war_x_preferred":[
         "Pf\u00e4ffikon"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u8cbb\u83f2\u5b54\u5340"
     ],
     "qs:a0":"Switzerland",
     "qs:a1":"Z\u00c3\u00bcrich",
@@ -142,7 +139,7 @@
         }
     ],
     "wof:id":102062779,
-    "wof:lastmodified":1555220293,
+    "wof:lastmodified":1561745795,
     "wof:name":"Pf\u00e4ffikon",
     "wof:parent_id":85682309,
     "wof:placetype":"county",
