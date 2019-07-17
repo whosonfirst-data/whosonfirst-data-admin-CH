@@ -2,8 +2,9 @@
   "id": 102062845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2019-07-17",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-07-17",
     "geom:area":0.072489,
     "geom:area_square_m":616037338.843955,
     "geom:bbox":"9.03897118311,46.3818404564,9.61251231778,46.8119915391",
@@ -15,7 +16,7 @@
     "mps:latitude":46.580885,
     "mps:longitude":9.402005,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:als_x_preferred":[
         "Hinterrhein"
     ],
@@ -131,12 +132,14 @@
         }
     ],
     "wof:id":102062845,
-    "wof:lastmodified":1561745791,
+    "wof:lastmodified":1563396750,
     "wof:name":"Hinterrhein",
     "wof:parent_id":85682255,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394137069
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
