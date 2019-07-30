@@ -3,8 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-30",
     "edtf:inception":"uuuu",
     "geom:area":0.012494,
+    "geom:area_square_m":105458043.873951,
     "geom:bbox":"6.71670122927,46.8679010969,6.89962423414,47.0137828915",
     "geom:latitude":46.949957,
     "geom:longitude":6.799445,
@@ -14,7 +16,7 @@
     "mps:latitude":46.961744,
     "mps:longitude":6.813281,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Neuch\u00c3\u00a2tel",
     "qs:a1_lc":"24",
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":102062939,
-    "wof:lastmodified":1527636910,
+    "wof:lastmodified":1564522295,
     "wof:name":"Boudry",
     "wof:parent_id":85682359,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394237543
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

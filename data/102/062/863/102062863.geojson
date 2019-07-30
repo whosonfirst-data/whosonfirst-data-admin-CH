@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-30",
     "edtf:inception":"uuuu",
     "geom:area":0.001741,
-    "geom:area_square_m":14567074.390184,
+    "geom:area_square_m":14567074.390182,
     "geom:bbox":"9.50821012234,47.3930789953,9.6184031042,47.4436905046",
     "geom:latitude":47.416906,
     "geom:longitude":9.557461,
@@ -15,7 +16,7 @@
     "mps:latitude":47.417026,
     "mps:longitude":9.539487,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:als_x_preferred":[
         "Oberegg"
     ],
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":102062863,
-    "wof:lastmodified":1527636932,
+    "wof:lastmodified":1564522294,
     "wof:name":"Oberegg",
     "wof:parent_id":85682275,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394237541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
