@@ -2,10 +2,11 @@
   "id": 404570793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000744,
-    "geom:area_square_m":6348169.091359,
+    "geom:area_square_m":6348169.091358,
     "geom:bbox":"8.88388623041,46.387939203,8.92909747699,46.4188565905",
     "geom:latitude":46.402987,
     "geom:longitude":8.906831,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.402504,
     "lbl:longitude":8.907178,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Ticino",
     "qs:a1_lc":"21",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404570793,
-    "wof:lastmodified":1497047673,
+    "wof:lastmodified":1564701784,
     "wof:name":"Sobrio",
     "wof:parent_id":102062931,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254111
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

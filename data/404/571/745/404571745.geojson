@@ -2,10 +2,11 @@
   "id": 404571745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000461,
-    "geom:area_square_m":3888349.599864,
+    "geom:area_square_m":3888349.599865,
     "geom:bbox":"6.88167619261,47.0292991395,6.91752333852,47.0532385776",
     "geom:latitude":47.042795,
     "geom:longitude":6.901633,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.042704,
     "lbl:longitude":6.904616,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Neuch\u00e2tel",
     "qs:a1_lc":"24",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"83288a4d1d01bbaf67bcb7e52bef328b",
+    "wof:geomhash":"b2fa93c21c6e034dd95412625b1a3201",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404571745,
-    "wof:lastmodified":1479929213,
+    "wof:lastmodified":1564701792,
     "wof:name":"Fontaines (Ne)",
     "wof:parent_id":102062785,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254123
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

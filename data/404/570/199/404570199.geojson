@@ -2,10 +2,11 @@
   "id": 404570199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000977,
-    "geom:area_square_m":8256838.992207,
+    "geom:area_square_m":8256838.992208,
     "geom:bbox":"6.86387794249,46.8466081423,6.92100566576,46.8872891072",
     "geom:latitude":46.86809,
     "geom:longitude":6.890412,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.874643,
     "lbl:longitude":6.890845,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Fribourg",
     "qs:a1_lc":"10",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404570199,
-    "wof:lastmodified":1497044284,
+    "wof:lastmodified":1564701778,
     "wof:name":"Vernay",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254193
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,8 +2,9 @@
   "id": 404569631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.00127,
     "geom:area_square_m":10761497.444793,
     "geom:bbox":"9.20792496334,46.7061662533,9.28427812262,46.7394567129",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.725223,
     "lbl:longitude":9.239471,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"433dcbfbed82eb4382a5a31859d71bb9",
+    "wof:geomhash":"483d2effb13400cee44311e1c9906e5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404569631,
-    "wof:lastmodified":1479926197,
+    "wof:lastmodified":1564701771,
     "wof:name":"Pitasch",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254103
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

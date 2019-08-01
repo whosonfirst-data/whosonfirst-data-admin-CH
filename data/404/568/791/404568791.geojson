@@ -2,8 +2,9 @@
   "id": 404568791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001975,
     "geom:area_square_m":16725496.988236,
     "geom:bbox":"9.30757496182,46.7425381164,9.38032312883,46.8091988128",
@@ -13,7 +14,7 @@
     "lbl:latitude":46.778021,
     "lbl:longitude":9.335954,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404568791,
-    "wof:lastmodified":1507751268,
+    "wof:lastmodified":1564701764,
     "wof:name":"Versam",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

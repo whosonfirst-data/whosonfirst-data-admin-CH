@@ -2,10 +2,11 @@
   "id": 404328887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000188,
-    "geom:area_square_m":1583632.871703,
+    "geom:area_square_m":1583632.871704,
     "geom:bbox":"7.50176989947,47.1350112,7.52975496568,47.1508762929",
     "geom:latitude":47.142325,
     "geom:longitude":7.513756,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.140224,
     "lbl:longitude":7.513972,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Solothurn",
     "qs:a1_lc":"11",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404328887,
-    "wof:lastmodified":1497047623,
+    "wof:lastmodified":1564701747,
     "wof:name":"Kyburg-Buchegg",
     "wof:parent_id":102062823,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254001
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

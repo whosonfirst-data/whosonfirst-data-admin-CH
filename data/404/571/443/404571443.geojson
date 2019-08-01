@@ -2,8 +2,9 @@
   "id": 404571443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000535,
     "geom:area_square_m":4517736.999987,
     "geom:bbox":"6.84186863621,46.9559196675,6.87479001207,46.9841250429",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.969939,
     "lbl:longitude":6.858444,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Neuch\u00e2tel",
     "qs:a1_lc":"24",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404571443,
-    "wof:lastmodified":1497050051,
+    "wof:lastmodified":1564701790,
     "wof:name":"Colombier (Ne)",
     "wof:parent_id":102062939,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254113
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

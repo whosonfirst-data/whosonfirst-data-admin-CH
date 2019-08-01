@@ -2,8 +2,9 @@
   "id": 404573267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000198,
     "geom:area_square_m":1676373.704306,
     "geom:bbox":"6.82514289477,46.6670887383,6.84670444547,46.6833946606",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.674821,
     "lbl:longitude":6.835659,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Vaud",
     "qs:a1_lc":"22",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404573267,
-    "wof:lastmodified":1497044212,
+    "wof:lastmodified":1564701800,
     "wof:name":"Chesalles-Sur-Moudon",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253987
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

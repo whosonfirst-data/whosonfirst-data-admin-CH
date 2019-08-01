@@ -2,10 +2,11 @@
   "id": 404568427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.002845,
-    "geom:area_square_m":24135487.984973,
+    "geom:area_square_m":24135487.984977,
     "geom:bbox":"9.15313215181,46.6564984522,9.24776981979,46.7254705348",
     "geom:latitude":46.688734,
     "geom:longitude":9.200921,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.697818,
     "lbl:longitude":9.201629,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404568427,
-    "wof:lastmodified":1497047354,
+    "wof:lastmodified":1564701759,
     "wof:name":"Suraua",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254047
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

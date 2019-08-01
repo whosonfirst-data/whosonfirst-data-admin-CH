@@ -2,8 +2,9 @@
   "id": 404570501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.00087,
     "geom:area_square_m":7246001.630602,
     "geom:bbox":"8.74444763838,47.6095098229,8.78981477565,47.6488172727",
@@ -13,7 +14,7 @@
     "lbl:latitude":47.628583,
     "lbl:longitude":8.764303,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Z\u00fcrich",
     "qs:a1_lc":"1",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404570501,
-    "wof:lastmodified":1507751276,
+    "wof:lastmodified":1564701782,
     "wof:name":"Waltalingen",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254219
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

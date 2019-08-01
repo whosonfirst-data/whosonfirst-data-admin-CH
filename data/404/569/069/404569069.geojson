@@ -2,10 +2,11 @@
   "id": 404569069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001594,
-    "geom:area_square_m":13488412.664673,
+    "geom:area_square_m":13488412.664668,
     "geom:bbox":"9.13299885331,46.7810822337,9.17571526213,46.8618291253",
     "geom:latitude":46.815156,
     "geom:longitude":9.154546,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.798393,
     "lbl:longitude":9.15841,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404569069,
-    "wof:lastmodified":1497042685,
+    "wof:lastmodified":1564701766,
     "wof:name":"Siat",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254103
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

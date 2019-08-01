@@ -2,10 +2,11 @@
   "id": 404568379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.002981,
-    "geom:area_square_m":25016400.6304,
+    "geom:area_square_m":25016400.630398,
     "geom:bbox":"8.53545192987,47.2215433885,8.63323948934,47.2761238091",
     "geom:latitude":47.25102,
     "geom:longitude":8.588799,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.254462,
     "lbl:longitude":8.597637,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Z\u00fcrich",
     "qs:a1_lc":"1",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404568379,
-    "wof:lastmodified":1497043167,
+    "wof:lastmodified":1564701759,
     "wof:name":"Horgen",
     "wof:parent_id":102062825,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254109
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

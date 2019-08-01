@@ -2,10 +2,11 @@
   "id": 404328207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.003509,
-    "geom:area_square_m":29475388.857024,
+    "geom:area_square_m":29475388.857023,
     "geom:bbox":"8.13312153721,47.1666629172,8.22478575364,47.258748797",
     "geom:latitude":47.203783,
     "geom:longitude":8.183971,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.203201,
     "lbl:longitude":8.18326,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Luzern",
     "qs:a1_lc":"3",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404328207,
-    "wof:lastmodified":1497047628,
+    "wof:lastmodified":1564701745,
     "wof:name":"Berom\u00fcnster",
     "wof:parent_id":102062797,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254059
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

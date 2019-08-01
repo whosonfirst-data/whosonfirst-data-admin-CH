@@ -2,8 +2,9 @@
   "id": 404573255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000205,
     "geom:area_square_m":1730438.732781,
     "geom:bbox":"6.86394530435,46.9687504298,6.8946402009,46.9834789617",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.97616,
     "lbl:longitude":6.876324,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Neuch\u00e2tel",
     "qs:a1_lc":"24",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404573255,
-    "wof:lastmodified":1497044842,
+    "wof:lastmodified":1564701800,
     "wof:name":"Auvernier",
     "wof:parent_id":102062939,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254113
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

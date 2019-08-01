@@ -2,8 +2,9 @@
   "id": 404568947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001754,
     "geom:area_square_m":14708395.702231,
     "geom:bbox":"7.2416889177,47.2841692889,7.33751239303,47.3145155791",
@@ -13,7 +14,7 @@
     "lbl:latitude":47.298807,
     "lbl:longitude":7.278411,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Jura",
     "qs:a1_lc":"26",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404568947,
-    "wof:lastmodified":1507751269,
+    "wof:lastmodified":1564701765,
     "wof:name":"Soulce",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254195
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

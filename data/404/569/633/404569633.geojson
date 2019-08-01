@@ -2,8 +2,9 @@
   "id": 404569633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001272,
     "geom:area_square_m":10737895.372908,
     "geom:bbox":"6.77225444772,46.9152744226,6.83964605746,46.9500834706",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.927529,
     "lbl:longitude":6.804185,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Neuch\u00e2tel",
     "qs:a1_lc":"24",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404569633,
-    "wof:lastmodified":1497044843,
+    "wof:lastmodified":1564701772,
     "wof:name":"Bevaix",
     "wof:parent_id":102062939,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254061
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,10 +2,11 @@
   "id": 404567909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.007094,
-    "geom:area_square_m":60330182.860659,
+    "geom:area_square_m":60330182.860657,
     "geom:bbox":"9.24292223912,46.4967426911,9.37331827271,46.586957959",
     "geom:latitude":46.542519,
     "geom:longitude":9.313373,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.540247,
     "lbl:longitude":9.318637,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "Spl\u00fcgen GR"
     ],
@@ -84,12 +85,14 @@
         }
     ],
     "wof:id":404567909,
-    "wof:lastmodified":1504301914,
+    "wof:lastmodified":1564701751,
     "wof:name":"Spl\u00fcgen",
     "wof:parent_id":102062845,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254091
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

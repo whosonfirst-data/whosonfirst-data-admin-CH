@@ -2,10 +2,11 @@
   "id": 404567905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.00723,
-    "geom:area_square_m":61231107.763204,
+    "geom:area_square_m":61231107.763214,
     "geom:bbox":"10.1420763776,46.6956144805,10.2263308571,46.8566997402",
     "geom:latitude":46.76996,
     "geom:longitude":10.185315,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.770614,
     "lbl:longitude":10.189466,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404567905,
-    "wof:lastmodified":1497043363,
+    "wof:lastmodified":1564701751,
     "wof:name":"Ardez",
     "wof:parent_id":102062923,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253967
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

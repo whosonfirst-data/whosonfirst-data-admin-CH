@@ -2,10 +2,11 @@
   "id": 404569117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001575,
-    "geom:area_square_m":13158539.419632,
+    "geom:area_square_m":13158539.419634,
     "geom:bbox":"9.00359127055,47.4645450245,9.09773086662,47.4957898094",
     "geom:latitude":47.481321,
     "geom:longitude":9.049434,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.480356,
     "lbl:longitude":9.065737,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"St. Gallen",
     "qs:a1_lc":"17",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404569117,
-    "wof:lastmodified":1497044252,
+    "wof:lastmodified":1564701767,
     "wof:name":"Bronschhofen",
     "wof:parent_id":102062947,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254055
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

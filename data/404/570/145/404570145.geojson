@@ -2,10 +2,11 @@
   "id": 404570145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001002,
-    "geom:area_square_m":8472035.537184,
+    "geom:area_square_m":8472035.537182,
     "geom:bbox":"7.54030711122,46.8537841555,7.57971076081,46.8966515327",
     "geom:latitude":46.876102,
     "geom:longitude":7.560863,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.875121,
     "lbl:longitude":7.560495,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404570145,
-    "wof:lastmodified":1497050547,
+    "wof:lastmodified":1564701777,
     "wof:name":"M\u00fcnsingen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254177
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,10 +2,11 @@
   "id": 404569113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001557,
-    "geom:area_square_m":13178749.99397,
+    "geom:area_square_m":13178749.993969,
     "geom:bbox":"9.61674117965,46.7932609584,9.67587898405,46.8311028316",
     "geom:latitude":46.814084,
     "geom:longitude":9.646521,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.813738,
     "lbl:longitude":9.647091,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404569113,
-    "wof:lastmodified":1497044276,
+    "wof:lastmodified":1564701767,
     "wof:name":"Molinis",
     "wof:parent_id":102063001,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254077
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

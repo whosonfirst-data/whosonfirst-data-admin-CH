@@ -2,10 +2,11 @@
   "id": 404571179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000614,
-    "geom:area_square_m":5269221.925114,
+    "geom:area_square_m":5269221.925115,
     "geom:bbox":"9.01986716707,46.0606057551,9.07867532642,46.0827569619",
     "geom:latitude":46.071967,
     "geom:longitude":9.051385,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.072162,
     "lbl:longitude":9.051823,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Ticino",
     "qs:a1_lc":"21",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404571179,
-    "wof:lastmodified":1497045937,
+    "wof:lastmodified":1564701788,
     "wof:name":"Cimadera",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254171
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

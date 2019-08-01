@@ -2,10 +2,11 @@
   "id": 404568851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001868,
-    "geom:area_square_m":15708332.014656,
+    "geom:area_square_m":15708332.014654,
     "geom:bbox":"7.64813577476,47.1119976747,7.73047765987,47.1688985688",
     "geom:latitude":47.142168,
     "geom:longitude":7.683019,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.140798,
     "lbl:longitude":7.676827,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404568851,
-    "wof:lastmodified":1497045617,
+    "wof:lastmodified":1564701764,
     "wof:name":"Seeberg",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254129
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

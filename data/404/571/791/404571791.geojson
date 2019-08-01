@@ -2,8 +2,9 @@
   "id": 404571791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000452,
     "geom:area_square_m":3804607.472952,
     "geom:bbox":"7.461328674,47.0894986309,7.49273446358,47.1134201173",
@@ -13,6 +14,7 @@
     "lbl:latitude":47.101243,
     "lbl:longitude":7.476155,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404571791,
-    "wof:lastmodified":1497046317,
+    "wof:lastmodified":1564701793,
     "wof:name":"M\u00fclchi",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254067
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

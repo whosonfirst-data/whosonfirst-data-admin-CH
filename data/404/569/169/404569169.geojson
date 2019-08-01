@@ -2,10 +2,11 @@
   "id": 404569169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001519,
-    "geom:area_square_m":12725828.577529,
+    "geom:area_square_m":12725828.57753,
     "geom:bbox":"7.39854067492,47.3272142648,7.45363631044,47.3802789433",
     "geom:latitude":47.350901,
     "geom:longitude":7.427018,
@@ -13,7 +14,7 @@
     "lbl:latitude":47.350866,
     "lbl:longitude":7.426576,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Jura",
     "qs:a1_lc":"26",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404569169,
-    "wof:lastmodified":1507751270,
+    "wof:lastmodified":1564701768,
     "wof:name":"Vicques",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254037
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

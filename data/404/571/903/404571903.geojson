@@ -2,8 +2,9 @@
   "id": 404571903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000416,
     "geom:area_square_m":3521371.109206,
     "geom:bbox":"6.85163905754,46.7245857825,6.88209015287,46.757576196",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.748723,
     "lbl:longitude":6.872637,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Fribourg",
     "qs:a1_lc":"10",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404571903,
-    "wof:lastmodified":1497047434,
+    "wof:lastmodified":1564701794,
     "wof:name":"Villeneuve (Fr)",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254175
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

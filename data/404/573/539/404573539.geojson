@@ -2,8 +2,9 @@
   "id": 404573539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000029,
     "geom:area_square_m":244149.253553,
     "geom:bbox":"9.00100485903,47.226618326,9.01024060868,47.2327054851",
@@ -13,6 +14,7 @@
     "lbl:latitude":47.229604,
     "lbl:longitude":9.006694,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"St. Gallen",
     "qs:a1_lc":"17",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"f44438ca5f20df9c03e8f33231c98665",
+    "wof:geomhash":"a853ddc7a317e557ec1e8d9514e75bff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404573539,
-    "wof:lastmodified":1479927863,
+    "wof:lastmodified":1564701802,
     "wof:name":"Ernetschwil",
     "wof:parent_id":102062815,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253995
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

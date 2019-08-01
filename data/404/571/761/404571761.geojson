@@ -2,8 +2,9 @@
   "id": 404571761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000458,
     "geom:area_square_m":3868422.837219,
     "geom:bbox":"7.09241263256,46.8666544423,7.12680346266,46.8872157392",
@@ -13,7 +14,7 @@
     "lbl:latitude":46.875078,
     "lbl:longitude":7.111754,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Fribourg",
     "qs:a1_lc":"10",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404571761,
-    "wof:lastmodified":1507751281,
+    "wof:lastmodified":1564701792,
     "wof:name":"Wallenried",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254027
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

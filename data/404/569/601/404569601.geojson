@@ -2,10 +2,11 @@
   "id": 404569601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.0013,
-    "geom:area_square_m":10927270.620219,
+    "geom:area_square_m":10927270.620213,
     "geom:bbox":"8.61517356811,47.1718700497,8.67050257113,47.2133410319",
     "geom:latitude":47.193957,
     "geom:longitude":8.640051,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.193797,
     "lbl:longitude":8.640059,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Z\u00fcrich",
     "qs:a1_lc":"1",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404569601,
-    "wof:lastmodified":1497044921,
+    "wof:lastmodified":1564701771,
     "wof:name":"Sch\u00f6nenberg (Zh)",
     "wof:parent_id":102062825,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

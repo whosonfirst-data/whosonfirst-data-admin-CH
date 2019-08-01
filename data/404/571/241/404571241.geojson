@@ -2,8 +2,9 @@
   "id": 404571241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000587,
     "geom:area_square_m":5027331.748417,
     "geom:bbox":"7.34519935929,46.1780452321,7.38059130433,46.2167288045",
@@ -13,7 +14,7 @@
     "lbl:latitude":46.203101,
     "lbl:longitude":7.37108,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Valais",
     "qs:a1_lc":"23",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404571241,
-    "wof:lastmodified":1507751279,
+    "wof:lastmodified":1564701788,
     "wof:name":"Les Agettes",
     "wof:parent_id":102062985,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253989
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

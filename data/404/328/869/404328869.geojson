@@ -2,8 +2,9 @@
   "id": 404328869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000219,
     "geom:area_square_m":1843080.172655,
     "geom:bbox":"7.47158547022,47.1399970861,7.49259984259,47.1557056056",
@@ -13,6 +14,7 @@
     "lbl:latitude":47.148721,
     "lbl:longitude":7.48161,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Solothurn",
     "qs:a1_lc":"11",
@@ -34,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"85988ffa23d0940dc68632c765a96bc9",
+    "wof:geomhash":"384a9bfb74134294e476cd6d1866d44f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +47,14 @@
         }
     ],
     "wof:id":404328869,
-    "wof:lastmodified":1479928062,
+    "wof:lastmodified":1564701747,
     "wof:name":"Tscheppach",
     "wof:parent_id":102062823,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254001
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

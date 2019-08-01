@@ -2,10 +2,11 @@
   "id": 404567969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.006239,
-    "geom:area_square_m":53048199.427447,
+    "geom:area_square_m":53048199.42744,
     "geom:bbox":"9.49277772366,46.5027201361,9.59046121253,46.6185783167",
     "geom:latitude":46.558444,
     "geom:longitude":9.543747,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.549109,
     "lbl:longitude":9.54301,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404567969,
-    "wof:lastmodified":1497047530,
+    "wof:lastmodified":1564701752,
     "wof:name":"Riom-Parsonz",
     "wof:parent_id":102062885,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253983
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

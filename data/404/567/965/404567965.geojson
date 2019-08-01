@@ -2,8 +2,9 @@
   "id": 404567965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.006371,
     "geom:area_square_m":54158843.571118,
     "geom:bbox":"9.59487642831,46.5340609688,9.72680719169,46.6119014935",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.57781,
     "lbl:longitude":9.659566,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404567965,
-    "wof:lastmodified":1497043995,
+    "wof:lastmodified":1564701752,
     "wof:name":"Tinizong-Rona",
     "wof:parent_id":102062885,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253983
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

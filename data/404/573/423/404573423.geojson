@@ -2,8 +2,9 @@
   "id": 404573423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000125,
     "geom:area_square_m":1049901.749561,
     "geom:bbox":"7.69015840772,47.1498383829,7.70812347567,47.1622921747",
@@ -13,6 +14,7 @@
     "lbl:latitude":47.155619,
     "lbl:longitude":7.700447,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404573423,
-    "wof:lastmodified":1497047218,
+    "wof:lastmodified":1564701802,
     "wof:name":"Hermiswil",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254129
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

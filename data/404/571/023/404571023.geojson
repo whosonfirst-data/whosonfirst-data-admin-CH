@@ -2,10 +2,11 @@
   "id": 404571023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000672,
-    "geom:area_square_m":5641496.882419,
+    "geom:area_square_m":5641496.882418,
     "geom:bbox":"7.19604481985,47.2558237631,7.23521775947,47.2899754505",
     "geom:latitude":47.272651,
     "geom:longitude":7.21756,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.27203,
     "lbl:longitude":7.219201,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404571023,
-    "wof:lastmodified":1497046371,
+    "wof:lastmodified":1564701786,
     "wof:name":"Sornetan",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254223
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

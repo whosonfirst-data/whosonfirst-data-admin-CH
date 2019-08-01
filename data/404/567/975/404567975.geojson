@@ -2,10 +2,11 @@
   "id": 404567975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.00618,
-    "geom:area_square_m":52145174.555051,
+    "geom:area_square_m":52145174.555047,
     "geom:bbox":"9.77303803923,46.9296874928,9.89231327457,47.0233090181",
     "geom:latitude":46.974293,
     "geom:longitude":9.841883,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.972653,
     "lbl:longitude":9.842795,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404567975,
-    "wof:lastmodified":1507751260,
+    "wof:lastmodified":1564701753,
     "wof:name":"St. Ant\u00f6nien",
     "wof:parent_id":102062803,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254185
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,10 +2,11 @@
   "id": 404571659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000483,
-    "geom:area_square_m":4071308.787024,
+    "geom:area_square_m":4071308.787023,
     "geom:bbox":"6.79540227839,46.9889882665,6.85565227349,47.0189521379",
     "geom:latitude":47.002019,
     "geom:longitude":6.830438,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.000098,
     "lbl:longitude":6.832508,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Neuch\u00e2tel",
     "qs:a1_lc":"24",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404571659,
-    "wof:lastmodified":1497043476,
+    "wof:lastmodified":1564701792,
     "wof:name":"Montmollin",
     "wof:parent_id":102062785,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254123
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

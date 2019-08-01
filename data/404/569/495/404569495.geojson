@@ -2,10 +2,11 @@
   "id": 404569495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001327,
-    "geom:area_square_m":11245675.919839,
+    "geom:area_square_m":11245675.919843,
     "geom:bbox":"9.28920386714,46.7315510268,9.36223063934,46.7654024401",
     "geom:latitude":46.747551,
     "geom:longitude":9.331017,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.748064,
     "lbl:longitude":9.334606,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404569495,
-    "wof:lastmodified":1497042343,
+    "wof:lastmodified":1564701770,
     "wof:name":"Tenna",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

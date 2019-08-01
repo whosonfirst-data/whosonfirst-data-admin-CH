@@ -2,10 +2,11 @@
   "id": 1175611179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001532,
-    "geom:area_square_m":4793661.241852,
+    "geom:area_square_m":13091233.406547,
     "geom:bbox":"9.15056116708,46.2473339804,9.25305738625,46.3183036456",
     "geom:latitude":46.273632,
     "geom:longitude":9.201911,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.288875,
     "lbl:longitude":9.170455,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -52,12 +53,14 @@
         }
     ],
     "wof:id":1175611179,
-    "wof:lastmodified":1534985876,
+    "wof:lastmodified":1564701804,
     "wof:name":"Verdabbio",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254137
+    ],
     "wof:supersedes":[
         404570189,
         404571325

@@ -2,10 +2,11 @@
   "id": 404570087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001051,
-    "geom:area_square_m":8787065.099074,
+    "geom:area_square_m":8787065.099075,
     "geom:bbox":"8.81868589729,47.446298749,8.89403174102,47.5029112779",
     "geom:latitude":47.47349,
     "geom:longitude":8.85541,
@@ -13,7 +14,7 @@
     "lbl:latitude":47.476689,
     "lbl:longitude":8.848606,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Z\u00fcrich",
     "qs:a1_lc":"1",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404570087,
-    "wof:lastmodified":1507751274,
+    "wof:lastmodified":1564701776,
     "wof:name":"Hofstetten (Zh)",
     "wof:parent_id":102063055,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254209
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

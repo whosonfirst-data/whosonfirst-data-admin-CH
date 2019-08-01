@@ -2,10 +2,11 @@
   "id": 404568507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.002611,
-    "geom:area_square_m":22186947.391054,
+    "geom:area_square_m":22186947.391051,
     "geom:bbox":"9.57164111524,46.5344705604,9.64969122004,46.6216873316",
     "geom:latitude":46.581407,
     "geom:longitude":9.602368,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.565082,
     "lbl:longitude":9.593185,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404568507,
-    "wof:lastmodified":1497044875,
+    "wof:lastmodified":1564701760,
     "wof:name":"Savognin",
     "wof:parent_id":102062885,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253983
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,10 +2,11 @@
   "id": 404569311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.0014,
-    "geom:area_square_m":11810336.425458,
+    "geom:area_square_m":11810336.42546,
     "geom:bbox":"7.08045084724,46.9411872061,7.15070825006,46.9849004203",
     "geom:latitude":46.966246,
     "geom:longitude":7.110832,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.962888,
     "lbl:longitude":7.104484,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:unk_x_variant":[
         "Vuilly-le-Bas"
     ],
@@ -57,12 +58,14 @@
         }
     ],
     "wof:id":404569311,
-    "wof:lastmodified":1507751271,
+    "wof:lastmodified":1564701769,
     "wof:name":"Bas-Vully",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254213
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

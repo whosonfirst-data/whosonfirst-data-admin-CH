@@ -2,10 +2,11 @@
   "id": 404568633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.002232,
-    "geom:area_square_m":19098957.470483,
+    "geom:area_square_m":19098957.470482,
     "geom:bbox":"8.9558167952,46.1784397742,9.07920677192,46.2235596687",
     "geom:latitude":46.199937,
     "geom:longitude":9.022518,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.199753,
     "lbl:longitude":9.023481,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u043b\u0456\u043d\u0446\u043e\u043d\u0430"
     ],
@@ -111,12 +112,14 @@
         }
     ],
     "wof:id":404568633,
-    "wof:lastmodified":1504301885,
+    "wof:lastmodified":1564701762,
     "wof:name":"Bellinzona",
     "wof:parent_id":102062991,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254063
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

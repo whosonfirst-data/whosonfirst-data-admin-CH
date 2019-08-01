@@ -2,10 +2,11 @@
   "id": 404570589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000827,
-    "geom:area_square_m":6958113.346524,
+    "geom:area_square_m":6958113.346523,
     "geom:bbox":"7.08413299121,47.0815514339,7.14256076819,47.1119664102",
     "geom:latitude":47.09505,
     "geom:longitude":7.11534,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.091746,
     "lbl:longitude":7.11578,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404570589,
-    "wof:lastmodified":1497044817,
+    "wof:lastmodified":1564701783,
     "wof:name":"Pr\u00eales",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254189
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

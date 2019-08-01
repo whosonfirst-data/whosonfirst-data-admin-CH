@@ -2,10 +2,11 @@
   "id": 404569915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001131,
-    "geom:area_square_m":9424481.667267,
+    "geom:area_square_m":9424481.667265,
     "geom:bbox":"8.77970939948,47.6011112497,8.82780143902,47.6498894581",
     "geom:latitude":47.627405,
     "geom:longitude":8.803808,
@@ -13,7 +14,7 @@
     "lbl:latitude":47.626809,
     "lbl:longitude":8.801477,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Z\u00fcrich",
     "qs:a1_lc":"1",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404569915,
-    "wof:lastmodified":1507751273,
+    "wof:lastmodified":1564701775,
     "wof:name":"Oberstammheim",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254219
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

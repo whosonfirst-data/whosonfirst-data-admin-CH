@@ -2,10 +2,11 @@
   "id": 404570749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000768,
-    "geom:area_square_m":6475064.498387,
+    "geom:area_square_m":6475064.498385,
     "geom:bbox":"6.90908711682,47.0093643999,6.95897593456,47.0455954942",
     "geom:latitude":47.028642,
     "geom:longitude":6.930983,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.029988,
     "lbl:longitude":6.932686,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Neuch\u00e2tel",
     "qs:a1_lc":"24",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404570749,
-    "wof:lastmodified":1497047938,
+    "wof:lastmodified":1564701784,
     "wof:name":"Fenin-Vilars-Saules",
     "wof:parent_id":102062785,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254123
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

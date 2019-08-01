@@ -2,8 +2,9 @@
   "id": 404573077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000255,
     "geom:area_square_m":2162864.795159,
     "geom:bbox":"6.77409640026,46.5803896384,6.80123275018,46.5998674369",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.588352,
     "lbl:longitude":6.790228,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Vaud",
     "qs:a1_lc":"22",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404573077,
-    "wof:lastmodified":1497047427,
+    "wof:lastmodified":1564701799,
     "wof:name":"Ferlens (Vd)",
     "wof:parent_id":102063047,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254199
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

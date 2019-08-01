@@ -2,10 +2,11 @@
   "id": 404568289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.00348,
-    "geom:area_square_m":29779936.951289,
+    "geom:area_square_m":29779936.951288,
     "geom:bbox":"8.53245193337,46.1752626857,8.64954411438,46.2354406377",
     "geom:latitude":46.203496,
     "geom:longitude":8.586623,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.197193,
     "lbl:longitude":8.587513,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Ticino",
     "qs:a1_lc":"21",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404568289,
-    "wof:lastmodified":1497042785,
+    "wof:lastmodified":1564701758,
     "wof:name":"Onsernone",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254145
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

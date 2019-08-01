@@ -2,10 +2,11 @@
   "id": 404567807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.011058,
-    "geom:area_square_m":93686312.593865,
+    "geom:area_square_m":93686312.593863,
     "geom:bbox":"9.93299201989,46.6870236174,10.1198655996,46.8133622693",
     "geom:latitude":46.750975,
     "geom:longitude":10.022234,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.761746,
     "lbl:longitude":10.022207,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404567807,
-    "wof:lastmodified":1497042319,
+    "wof:lastmodified":1564701749,
     "wof:name":"Susch",
     "wof:parent_id":102062923,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253977
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

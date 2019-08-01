@@ -2,10 +2,11 @@
   "id": 404571129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.00064,
-    "geom:area_square_m":5411304.499193,
+    "geom:area_square_m":5411304.499192,
     "geom:bbox":"9.59228828745,46.8308631102,9.63079698695,46.8684973432",
     "geom:latitude":46.848432,
     "geom:longitude":9.614294,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.847673,
     "lbl:longitude":9.614001,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0438\u043b\u044c"
     ],
@@ -66,12 +67,14 @@
         }
     ],
     "wof:id":404571129,
-    "wof:lastmodified":1504301888,
+    "wof:lastmodified":1564701787,
     "wof:name":"Castiel",
     "wof:parent_id":102063001,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254077
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

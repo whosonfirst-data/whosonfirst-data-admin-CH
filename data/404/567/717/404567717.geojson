@@ -2,10 +2,11 @@
   "id": 404567717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.022775,
-    "geom:area_square_m":192588004.758517,
+    "geom:area_square_m":192588004.758533,
     "geom:bbox":"9.79285172571,46.7628327819,10.0969258863,46.9222125193",
     "geom:latitude":46.854806,
     "geom:longitude":9.95378,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.8624,
     "lbl:longitude":9.943458,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404567717,
-    "wof:lastmodified":1497046009,
+    "wof:lastmodified":1564701747,
     "wof:name":"Klosters-Serneus",
     "wof:parent_id":102062803,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254009
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

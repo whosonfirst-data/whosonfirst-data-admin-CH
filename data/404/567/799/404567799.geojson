@@ -2,10 +2,11 @@
   "id": 404567799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.011821,
-    "geom:area_square_m":100325501.544783,
+    "geom:area_square_m":100325501.544776,
     "geom:bbox":"9.22855270773,46.5749062552,9.37678421587,46.748839299",
     "geom:latitude":46.657624,
     "geom:longitude":9.294389,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.656904,
     "lbl:longitude":9.293258,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404567799,
-    "wof:lastmodified":1507751258,
+    "wof:lastmodified":1564701749,
     "wof:name":"Safien",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

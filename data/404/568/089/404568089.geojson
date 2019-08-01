@@ -2,10 +2,11 @@
   "id": 404568089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.005008,
-    "geom:area_square_m":42415857.257007,
+    "geom:area_square_m":42415857.257004,
     "geom:bbox":"9.59691201244,46.729574517,9.73295509916,46.7986312745",
     "geom:latitude":46.766776,
     "geom:longitude":9.666994,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.778393,
     "lbl:longitude":9.662343,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "Arosa"
     ],
@@ -63,12 +64,14 @@
         }
     ],
     "wof:id":404568089,
-    "wof:lastmodified":1504301881,
+    "wof:lastmodified":1564701755,
     "wof:name":"Arosa",
     "wof:parent_id":102063001,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254077
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

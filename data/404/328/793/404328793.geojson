@@ -2,8 +2,9 @@
   "id": 404328793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000388,
     "geom:area_square_m":3263726.572095,
     "geom:bbox":"7.45023008328,47.1241933838,7.49717554027,47.1415094352",
@@ -13,7 +14,7 @@
     "lbl:latitude":47.133177,
     "lbl:longitude":7.481353,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Solothurn",
     "qs:a1_lc":"11",
@@ -53,12 +54,14 @@
         }
     ],
     "wof:id":404328793,
-    "wof:lastmodified":1507751176,
+    "wof:lastmodified":1564701746,
     "wof:name":"M\u00fchledorf (So)",
     "wof:parent_id":102062823,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254001
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

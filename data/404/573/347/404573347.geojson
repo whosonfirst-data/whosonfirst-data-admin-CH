@@ -2,10 +2,11 @@
   "id": 404573347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000168,
-    "geom:area_square_m":1401001.970668,
+    "geom:area_square_m":1401001.970667,
     "geom:bbox":"8.11090322686,47.473922348,8.13490675311,47.4859985827",
     "geom:latitude":47.480687,
     "geom:longitude":8.125475,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.480576,
     "lbl:longitude":8.12866,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Aargau",
     "qs:a1_lc":"19",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404573347,
-    "wof:lastmodified":1497042793,
+    "wof:lastmodified":1564701801,
     "wof:name":"Gallenkirch",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254191
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,10 +2,11 @@
   "id": 404571647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000485,
-    "geom:area_square_m":4108849.753559,
+    "geom:area_square_m":4108849.753558,
     "geom:bbox":"7.53189594328,46.6922438857,7.56775982439,46.7222549892",
     "geom:latitude":46.706758,
     "geom:longitude":7.550194,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.707954,
     "lbl:longitude":7.553459,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404571647,
-    "wof:lastmodified":1497048573,
+    "wof:lastmodified":1564701792,
     "wof:name":"Oberstocken",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253993
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,8 +2,9 @@
   "id": 404568557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.002476,
     "geom:area_square_m":21162356.785744,
     "geom:bbox":"9.00637123482,46.2357188973,9.06329852729,46.2976547436",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.266098,
     "lbl:longitude":9.037306,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Ticino",
     "qs:a1_lc":"21",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404568557,
-    "wof:lastmodified":1497052067,
+    "wof:lastmodified":1564701761,
     "wof:name":"Claro",
     "wof:parent_id":102062941,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254063
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

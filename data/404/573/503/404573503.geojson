@@ -2,10 +2,11 @@
   "id": 404573503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000053,
-    "geom:area_square_m":455777.567425,
+    "geom:area_square_m":455777.567424,
     "geom:bbox":"8.89801164726,45.9645328901,8.90682123666,45.9737574654",
     "geom:latitude":45.96884,
     "geom:longitude":8.902522,
@@ -13,6 +14,7 @@
     "lbl:latitude":45.968741,
     "lbl:longitude":8.902605,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Ticino",
     "qs:a1_lc":"21",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"35ba5351553c463cddffc2a4fc444832",
+    "wof:geomhash":"99646de4888a7fe4f175d9f8f05e80a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404573503,
-    "wof:lastmodified":1479929022,
+    "wof:lastmodified":1564701802,
     "wof:name":"Carabietta",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254043
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,8 +2,9 @@
   "id": 404573357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000163,
     "geom:area_square_m":1383575.853965,
     "geom:bbox":"6.73104267041,46.7219770305,6.76025938934,46.7360104595",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.729805,
     "lbl:longitude":6.744773,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Vaud",
     "qs:a1_lc":"22",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404573357,
-    "wof:lastmodified":1497045248,
+    "wof:lastmodified":1564701801,
     "wof:name":"Chan\u00e9az",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254013
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

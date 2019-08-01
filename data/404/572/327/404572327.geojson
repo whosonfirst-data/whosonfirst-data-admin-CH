@@ -2,8 +2,9 @@
   "id": 404572327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000305,
     "geom:area_square_m":2575984.044434,
     "geom:bbox":"6.8208398971,46.9586994241,6.85074636804,46.9780023618",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.969677,
     "lbl:longitude":6.838208,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Neuch\u00e2tel",
     "qs:a1_lc":"24",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404572327,
-    "wof:lastmodified":1497044597,
+    "wof:lastmodified":1564701797,
     "wof:name":"B\u00f4le",
     "wof:parent_id":102062939,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254113
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

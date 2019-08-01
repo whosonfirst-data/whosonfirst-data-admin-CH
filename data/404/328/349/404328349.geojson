@@ -2,10 +2,11 @@
   "id": 404328349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001701,
-    "geom:area_square_m":14151103.202898,
+    "geom:area_square_m":14151103.202896,
     "geom:bbox":"8.54395337698,47.6697806872,8.60809666151,47.7325508836",
     "geom:latitude":47.704399,
     "geom:longitude":8.576879,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.704209,
     "lbl:longitude":8.58003,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Schaffhausen",
     "qs:a1_lc":"14",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404328349,
-    "wof:lastmodified":1497052210,
+    "wof:lastmodified":1564701745,
     "wof:name":"Beringen",
     "wof:parent_id":102063007,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254105
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

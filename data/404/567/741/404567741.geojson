@@ -2,10 +2,11 @@
   "id": 404567741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.017922,
-    "geom:area_square_m":152342759.501334,
+    "geom:area_square_m":152342759.501326,
     "geom:bbox":"9.01663068087,46.493947963,9.24341678759,46.6534219573",
     "geom:latitude":46.573658,
     "geom:longitude":9.130777,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.577382,
     "lbl:longitude":9.138494,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "Vals GR"
     ],
@@ -75,12 +76,14 @@
         }
     ],
     "wof:id":404567741,
-    "wof:lastmodified":1507751257,
+    "wof:lastmodified":1564701748,
     "wof:name":"Vals",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254033
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

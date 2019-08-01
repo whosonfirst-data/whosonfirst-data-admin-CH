@@ -2,8 +2,9 @@
   "id": 404571983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000401,
     "geom:area_square_m":3366012.681584,
     "geom:bbox":"7.17588018447,47.2668369285,7.21451392351,47.2895747785",
@@ -13,6 +14,7 @@
     "lbl:latitude":47.279485,
     "lbl:longitude":7.200741,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"062e3f34d3ce29ba56a6c1e544d5d181",
+    "wof:geomhash":"9812201d1e0dbfbc3d4f8233f68a52f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404571983,
-    "wof:lastmodified":1479927894,
+    "wof:lastmodified":1564701795,
     "wof:name":"Monible",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254223
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,10 +2,11 @@
   "id": 404570453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000889,
-    "geom:area_square_m":7472017.532502,
+    "geom:area_square_m":7472017.532504,
     "geom:bbox":"7.25269120467,47.1698361375,7.32032257178,47.20859234",
     "geom:latitude":47.188602,
     "geom:longitude":7.279125,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.185448,
     "lbl:longitude":7.276824,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404570453,
-    "wof:lastmodified":1497044880,
+    "wof:lastmodified":1564701781,
     "wof:name":"Plagne",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254045
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

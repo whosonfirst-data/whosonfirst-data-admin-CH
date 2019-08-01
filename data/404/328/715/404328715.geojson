@@ -2,8 +2,9 @@
   "id": 404328715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000537,
     "geom:area_square_m":4472212.86445,
     "geom:bbox":"8.54192659411,47.6670485344,8.57257877693,47.6933239031",
@@ -13,7 +14,7 @@
     "lbl:latitude":47.680836,
     "lbl:longitude":8.558733,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Schaffhausen",
     "qs:a1_lc":"14",
@@ -53,12 +54,14 @@
         }
     ],
     "wof:id":404328715,
-    "wof:lastmodified":1507751176,
+    "wof:lastmodified":1564701745,
     "wof:name":"Guntmadingen",
     "wof:parent_id":102063007,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254105
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

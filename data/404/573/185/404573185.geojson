@@ -2,10 +2,11 @@
   "id": 404573185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000225,
-    "geom:area_square_m":1907271.062777,
+    "geom:area_square_m":1907271.062776,
     "geom:bbox":"6.69590837728,46.652102229,6.71745332905,46.6730515813",
     "geom:latitude":46.663119,
     "geom:longitude":6.705849,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.665234,
     "lbl:longitude":6.705119,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Vaud",
     "qs:a1_lc":"22",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"ea8c937c1c9739d4f36599876a095a9e",
+    "wof:geomhash":"74f5460789361e4ba7511068c5e9051b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404573185,
-    "wof:lastmodified":1479927073,
+    "wof:lastmodified":1564701799,
     "wof:name":"Peyres-Possens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254013
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
