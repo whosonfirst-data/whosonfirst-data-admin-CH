@@ -4,17 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000008,
-    "geom:area_square_m":67536.391768,
-    "geom:bbox":"7.9077973,46.6492052,7.912671,46.6555854",
-    "geom:latitude":46.652515,
-    "geom:longitude":7.910175,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.856836,46.681858,7.856836,46.681858",
+    "geom:latitude":46.681858,
+    "geom:longitude":7.856836,
     "gn:population":5067,
     "iso:country":"CH",
-    "lbl:latitude":46.652515,
-    "lbl:longitude":7.910175,
-    "mps:latitude":46.652515,
-    "mps:longitude":7.910175,
+    "lbl:latitude":46.681858,
+    "lbl:longitude":7.856836,
+    "mps:latitude":46.681858,
+    "mps:longitude":7.856836,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:ara_x_preferred":[
@@ -179,8 +179,6 @@
     "name:zho_x_preferred":[
         "\u56e0\u7279\u62c9\u80af"
     ],
-    "nav:latitude":46.652515,
-    "nav:longitude":7.910175,
     "qs:a0":"Schweiz#Suisse#Svizzera#Svizra",
     "qs:a1":"*Bern",
     "qs:a1r":"0",
@@ -192,17 +190,13 @@
     "qs:pop":0,
     "qs:source":"ECustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"buffered point",
-    "reversegeo:latitude":46.652515,
-    "reversegeo:longitude":7.910175,
-    "src:geom":"ch-swisstopo",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes",
-        "whosonfirst",
-        "ch-swisstopo"
+        "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl:centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":568.0,
     "wd:latitude":46.688125,
@@ -230,7 +224,7 @@
         "wk:page":"Interlaken"
     },
     "wof:country":"CH",
-    "wof:geomhash":"981257fa6e78515a813110fb82a94d07",
+    "wof:geomhash":"ac6c1dab1a6e67bdbe1ce2aada5410ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -245,7 +239,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1564808349,
+    "wof:lastmodified":1561745840,
     "wof:name":"Interlaken",
     "wof:parent_id":404571557,
     "wof:placetype":"locality",
@@ -257,10 +251,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.9077973,
-    46.6492052,
-    7.912671,
-    46.6555854
+    7.856836,
+    46.681858,
+    7.856836,
+    46.681858
 ],
-  "geometry": {"coordinates":[[[7.907978,46.6492052],[7.9092268,46.651475],[7.9097064,46.6523302],[7.9095391,46.6528334],[7.9093512,46.6534401],[7.9088844,46.6540627],[7.9084182,46.6547445],[7.9081426,46.6551446],[7.9077973,46.6555854],[7.9078339,46.65556],[7.9088844,46.6550097],[7.9090802,46.6545674],[7.9093067,46.6543604],[7.9095689,46.6541376],[7.9098232,46.653852],[7.9102134,46.65361],[7.9108754,46.6535536],[7.9111909,46.6534492],[7.9114026,46.653855],[7.9116958,46.6540543],[7.9117525,46.6538765],[7.9119503,46.6536408],[7.9121786,46.6534414],[7.9125553,46.6533128],[7.912671,46.6531044],[7.9124422,46.6528628],[7.9119273,46.6525473],[7.9111868,46.6520123],[7.9108151,46.6517319],[7.9105969,46.6514633],[7.9103813,46.6512097],[7.910136,46.6510263],[7.9101007,46.6507078],[7.9095838,46.6504189],[7.9094617,46.6504175],[7.9093048,46.6503244],[7.9091689,46.6500796],[7.909122,46.6500095],[7.9090077,46.6500033],[7.9088664,46.6499598],[7.907978,46.6492052]]],"type":"Polygon"}
+  "geometry": {"coordinates":[7.856836,46.681858],"type":"Point"}
 }

@@ -4,20 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000027,
-    "geom:area_square_m":229762.435673,
-    "geom:bbox":"8.157485,46.4158563,8.1670198,46.4223697",
-    "geom:latitude":46.419081,
-    "geom:longitude":8.16233,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.1311,46.40039,8.1311,46.40039",
+    "geom:latitude":46.40039,
+    "geom:longitude":8.1311,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":1003,
     "gn:population":1003,
     "iso:country":"CH",
-    "lbl:latitude":46.419081,
-    "lbl:longitude":8.16233,
-    "mps:latitude":46.419081,
-    "mps:longitude":8.16233,
+    "lbl:latitude":46.40039,
+    "lbl:longitude":8.1311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
@@ -102,8 +100,6 @@
     "name:zho_x_preferred":[
         "\u83f2\u65bd"
     ],
-    "nav:latitude":46.419081,
-    "nav:longitude":8.16233,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -124,14 +120,8 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782439,
-    "reversegeo:latitude":46.419081,
-    "reversegeo:longitude":8.16233,
-    "src:geom":"ch-swisstopo",
-    "src:geom_alt":[
-        "qs_pg",
-        "ch-swisstopo"
-    ],
-    "src:lbl_centroid":"mapshaper",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
@@ -153,7 +143,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497299615,
-    "wof:geomhash":"9b103b14a6559d47bc0d5127e398c8f9",
+    "wof:geomhash":"bae3c93f405fcea88eddda7a726b8724",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,7 +155,7 @@
         }
     ],
     "wof:id":1126000381,
-    "wof:lastmodified":1564808348,
+    "wof:lastmodified":1561745928,
     "wof:name":"Fiesch",
     "wof:parent_id":404569583,
     "wof:placetype":"locality",
@@ -177,10 +167,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.157485,
-    46.4158563,
-    8.1670198,
-    46.4223697
+    8.1311,
+    46.40039,
+    8.1311,
+    46.40039
 ],
-  "geometry": {"coordinates":[[[8.1670198,46.4196511],[8.1659544,46.4194416],[8.1655345,46.4191744],[8.1651007,46.4188353],[8.1645496,46.418479],[8.1634987,46.4177031],[8.1625834,46.4173491],[8.1596629,46.4158563],[8.1591505,46.4164443],[8.158768,46.4170315],[8.1579969,46.4177381],[8.157485,46.4183711],[8.1581132,46.418655],[8.158703,46.4189931],[8.1592546,46.4193944],[8.1596472,46.4195719],[8.1608855,46.4197619],[8.1611224,46.4199673],[8.1614554,46.42055],[8.1616785,46.4207015],[8.1620691,46.4207259],[8.1624589,46.4206965],[8.1628921,46.4209906],[8.1632872,46.4213479],[8.1642966,46.4219261],[8.1646888,46.4220765],[8.1652521,46.4223697],[8.165492,46.4222373],[8.1660449,46.4213597],[8.1668106,46.4202715],[8.1663704,46.4200558],[8.1670198,46.4196511]]],"type":"Polygon"}
+  "geometry": {"coordinates":[8.1311,46.40039],"type":"Point"}
 }

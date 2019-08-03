@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000009,
-    "geom:area_square_m":72195.800652,
-    "geom:bbox":"9.5049841,47.3090358,9.5098684,47.3124078",
-    "geom:latitude":47.310727,
-    "geom:longitude":9.507358,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5906,47.33588,9.5906,47.33588",
+    "geom:latitude":47.33588,
+    "geom:longitude":9.5906,
     "gn:admin1_code":"SG",
     "gn:admin2_code":"1723.0",
     "gn:admin3_code":"3254.0",
@@ -26,25 +26,9 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
-    "lbl:latitude":47.310727,
-    "lbl:longitude":9.507358,
-    "mps:latitude":47.310727,
-    "mps:longitude":9.507358,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "name:eng_x_preferred":[
-        "Montlingen"
-    ],
-    "nav:latitude":47.310727,
-    "nav:longitude":9.507358,
-    "reversegeo:latitude":47.310727,
-    "reversegeo:longitude":9.507358,
-    "src:geom":"ch-swisstopo",
-    "src:geom_alt":[
-        "geonames",
-        "ch-swisstopo"
-    ],
-    "src:lbl_centroid":"mapshaper",
+    "mz:is_current":-1,
+    "src:geom":"geonames",
     "wof:belongsto":[
         85682341,
         102191581,
@@ -57,7 +41,7 @@
         "gn:id":7669413
     },
     "wof:country":"CH",
-    "wof:geomhash":"1200313d5d14a404982429cd98c8e0ae",
+    "wof:geomhash":"6906c7543f9c6d478c55e366225f4e43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +53,7 @@
         }
     ],
     "wof:id":1226372907,
-    "wof:lastmodified":1564808349,
+    "wof:lastmodified":1536750455,
     "wof:name":"Montlingen",
     "wof:parent_id":404568193,
     "wof:placetype":"locality",
@@ -79,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    9.5049841,
-    47.3090358,
-    9.5098684,
-    47.3124078
+    9.5906,
+    47.33588,
+    9.5906,
+    47.33588
 ],
-  "geometry": {"coordinates":[[[9.5082409,47.3090358],[9.5081716,47.309081],[9.508027,47.3091756],[9.5072484,47.3094668],[9.5065938,47.3099023],[9.5063105,47.3100265],[9.5058071,47.310159],[9.5052843,47.3103133],[9.5051907,47.3103598],[9.5049841,47.3104624],[9.5052463,47.3108721],[9.5053191,47.3109466],[9.5053655,47.3110023],[9.5054063,47.3110758],[9.5055973,47.3112067],[9.5056662,47.3113495],[9.5056597,47.3115896],[9.5058082,47.3117345],[9.5059155,47.3117824],[9.5058979,47.3118338],[9.5059739,47.311952],[9.5060166,47.3120112],[9.5061843,47.3121738],[9.506317,47.3122592],[9.5065371,47.3123473],[9.5070921,47.3124078],[9.5098684,47.3103129],[9.5097938,47.3102748],[9.5094749,47.3101125],[9.5087526,47.3094596],[9.5082409,47.3090358]]],"type":"Polygon"}
+  "geometry": {"coordinates":[9.5906,47.33588],"type":"Point"}
 }
