@@ -4,18 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"6.86714,46.60083,6.86714,46.60083",
-    "geom:latitude":46.60083,
-    "geom:longitude":6.86714,
+    "geom:area":0.000007,
+    "geom:area_square_m":60397.161005,
+    "geom:bbox":"6.8834612,46.5942628,6.8881258,46.5968105",
+    "geom:latitude":46.595277,
+    "geom:longitude":6.885655,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":386,
     "gn:population":386,
     "iso:country":"CH",
-    "lbl:latitude":46.60083,
-    "lbl:longitude":6.86714,
+    "lbl:latitude":46.595277,
+    "lbl:longitude":6.885655,
+    "mps:latitude":46.595277,
+    "mps:longitude":6.885655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
@@ -34,6 +36,8 @@
     "name:swe_x_preferred":[
         "Porsel"
     ],
+    "nav:latitude":46.595277,
+    "nav:longitude":6.885655,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -52,8 +56,14 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":783755,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":46.595277,
+    "reversegeo:longitude":6.885655,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "qs_pg",
+        "ch-swisstopo"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
@@ -75,7 +85,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497300147,
-    "wof:geomhash":"d934afb5584e57c505bead53e1e8fb1c",
+    "wof:geomhash":"822c37583082c0b7d146808a00815244",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +97,7 @@
         }
     ],
     "wof:id":1126008869,
-    "wof:lastmodified":1561745928,
+    "wof:lastmodified":1564808351,
     "wof:name":"Porsel",
     "wof:parent_id":404569859,
     "wof:placetype":"locality",
@@ -99,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.86714,
-    46.60083,
-    6.86714,
-    46.60083
+    6.8834612,
+    46.5942628,
+    6.8881258,
+    46.5968105
 ],
-  "geometry": {"coordinates":[6.86714,46.60083],"type":"Point"}
+  "geometry": {"coordinates":[[[6.883977,46.5957316],[6.8840005,46.5957759],[6.8848511,46.5964568],[6.8852106,46.5966679],[6.8854348,46.5967153],[6.8856036,46.5968105],[6.8863524,46.5962123],[6.8869509,46.5957494],[6.8876533,46.5951786],[6.8881258,46.5947961],[6.8880783,46.5947728],[6.8874983,46.5944404],[6.8871829,46.5942628],[6.8859717,46.5943169],[6.8849086,46.5943729],[6.8841164,46.5944155],[6.8834612,46.5944644],[6.8835378,46.5945243],[6.883977,46.5957316]]],"type":"Polygon"}
 }

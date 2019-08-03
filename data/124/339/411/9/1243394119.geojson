@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.16658,45.99647,7.16658,45.99647",
-    "geom:latitude":45.99647,
-    "geom:longitude":7.16658,
+    "geom:area":0.000162,
+    "geom:area_square_m":1391494.238398,
+    "geom:bbox":"7.1469175,45.9944282,7.1744571,46.0019444",
+    "geom:latitude":45.998268,
+    "geom:longitude":7.160892,
     "gn:admin1_code":"VS",
     "gn:admin2_code":"2303.0",
     "gn:admin3_code":"6033.0",
@@ -26,12 +26,31 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":45.99647,
+    "lbl:longitude":7.16658,
+    "mps:latitude":45.998268,
+    "mps:longitude":7.160892,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Vich\u00e8res"
+    ],
+    "name:eng_x_variant":[
+        "Vich\u00e8res (Liddes)",
+        "Vicheres"
+    ],
     "name:und_x_variant":[
         "Vich\u00e8res (Liddes)"
     ],
-    "src:geom":"geonames",
+    "nav:latitude":45.99647,
+    "nav:longitude":7.16658,
+    "reversegeo:latitude":45.998268,
+    "reversegeo:longitude":7.160892,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682281,
         102191581,
@@ -45,7 +64,7 @@
         "gn:id":7670451
     },
     "wof:country":"CH",
-    "wof:geomhash":"9dba18ea04bf071074038795cff74dbd",
+    "wof:geomhash":"2c639791de60a3b2883b36067e980fa0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +76,8 @@
         }
     ],
     "wof:id":1243394119,
-    "wof:lastmodified":1537590762,
-    "wof:name":"Vicheres",
+    "wof:lastmodified":1564808322,
+    "wof:name":"Vich\u00e8res",
     "wof:parent_id":1175611199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
@@ -67,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.16658,
-    45.99647,
-    7.16658,
-    45.99647
+    7.1469175,
+    45.9944282,
+    7.1744571,
+    46.0019444
 ],
-  "geometry": {"coordinates":[7.16658,45.99647],"type":"Point"}
+  "geometry": {"coordinates":[[[7.1493968,45.9969246],[7.1485721,45.9972988],[7.1487485,45.9975268],[7.1487055,45.997783],[7.1483348,45.9978828],[7.1482815,45.9982807],[7.1474436,45.9987923],[7.1470654,46.000071],[7.1469175,46.0019287],[7.1575306,46.0019444],[7.1631743,46.0013089],[7.1674479,46.0007742],[7.1720044,46.0001463],[7.1740176,45.9992378],[7.1744571,45.9987912],[7.1740852,45.9960092],[7.1737695,45.9955309],[7.1732604,45.994487],[7.1660215,45.9944282],[7.1634812,45.9949036],[7.1564538,45.9949922],[7.1493968,45.9969246]]],"type":"Polygon"}
 }

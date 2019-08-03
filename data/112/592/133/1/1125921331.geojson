@@ -4,23 +4,30 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"9.70192,46.97116,9.70192,46.97116",
-    "geom:latitude":46.97116,
-    "geom:longitude":9.70192,
+    "geom:area":0.000152,
+    "geom:area_square_m":1281587.012276,
+    "geom:bbox":"9.6946426,46.9623035,9.7216495,46.977144",
+    "geom:latitude":46.971358,
+    "geom:longitude":9.706546,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"CH",
     "lbl:latitude":46.97116,
     "lbl:longitude":9.70192,
+    "mps:latitude":46.971358,
+    "mps:longitude":9.706546,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Fajauna"
+    ],
     "name:unk_x_variant":[
         "Fajauna-Stels"
     ],
+    "nav:latitude":46.97116,
+    "nav:longitude":9.70192,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -41,8 +48,13 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":785618,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":46.971358,
+    "reversegeo:longitude":9.706546,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Graub\u00fcnden",
@@ -62,7 +74,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497296491,
-    "wof:geomhash":"aaee8d8f4c3f53fee39b65c60d463f28",
+    "wof:geomhash":"4c570894617fdf96e09aa198aaa77c8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +86,7 @@
         }
     ],
     "wof:id":1125921331,
-    "wof:lastmodified":1509400823,
+    "wof:lastmodified":1564808327,
     "wof:name":"Fajauna",
     "wof:parent_id":404567897,
     "wof:placetype":"locality",
@@ -84,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    9.70192,
-    46.97116,
-    9.70192,
-    46.97116
+    9.6946426,
+    46.9623035,
+    9.7216495,
+    46.977144
 ],
-  "geometry": {"coordinates":[9.70192,46.97116],"type":"Point"}
+  "geometry": {"coordinates":[[[9.7026756,46.9743636],[9.7024591,46.9738356],[9.7054339,46.972919],[9.7095112,46.976208],[9.712336,46.976683],[9.714832,46.977144],[9.7181285,46.9760778],[9.7214712,46.9753986],[9.7216495,46.9746803],[9.713591,46.9703884],[9.7088475,46.9710951],[9.7055809,46.9686274],[9.7048888,46.9656594],[9.7071489,46.9623035],[9.6969916,46.9673531],[9.6952872,46.9687323],[9.6949516,46.9696206],[9.6951928,46.9705207],[9.6949927,46.9714062],[9.6946426,46.9719468],[9.6961097,46.9729851],[9.6995478,46.9733349],[9.7026756,46.9743636]]],"type":"Polygon"}
 }

@@ -4,20 +4,30 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.18042,45.98903,7.18042,45.98903",
-    "geom:latitude":45.98903,
-    "geom:longitude":7.18042,
+    "geom:area":0.000081,
+    "geom:area_square_m":694533.126457,
+    "geom:bbox":"7.1723473,45.981137,7.1869583,45.9960092",
+    "geom:latitude":45.98944,
+    "geom:longitude":7.180127,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"CH",
     "lbl:latitude":45.98903,
     "lbl:longitude":7.18042,
+    "mps:latitude":45.98944,
+    "mps:longitude":7.180127,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Dranse"
+    ],
+    "name:eng_x_variant":[
+        "Dranse (Liddes)"
+    ],
+    "nav:latitude":45.98903,
+    "nav:longitude":7.18042,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -38,8 +48,13 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782267,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":45.98944,
+    "reversegeo:longitude":7.180127,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Valais",
@@ -59,7 +74,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497292716,
-    "wof:geomhash":"4122be7ca7fa8d12e46244cb6c85d5e5",
+    "wof:geomhash":"4f463290a423573756e2ad56cd6bda02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +86,7 @@
         }
     ],
     "wof:id":1125835901,
-    "wof:lastmodified":1509394972,
+    "wof:lastmodified":1564808341,
     "wof:name":"Dranse",
     "wof:parent_id":404567915,
     "wof:placetype":"locality",
@@ -81,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.18042,
-    45.98903,
-    7.18042,
-    45.98903
+    7.1723473,
+    45.981137,
+    7.1869583,
+    45.9960092
 ],
-  "geometry": {"coordinates":[7.18042,45.98903],"type":"Point"}
+  "geometry": {"coordinates":[[[7.1732604,45.994487],[7.1737695,45.9955309],[7.1740852,45.9960092],[7.180058,45.9938073],[7.1812245,45.9924958],[7.1803657,45.9919166],[7.1807946,45.9914891],[7.1821983,45.9914664],[7.182199,45.9914635],[7.1829691,45.9907418],[7.1830449,45.9905475],[7.1838634,45.9893434],[7.1843496,45.9891742],[7.1843988,45.9891533],[7.1844622,45.9891104],[7.1848512,45.9887329],[7.1850848,45.9886022],[7.1853507,45.9883616],[7.1854398,45.9882718],[7.1855397,45.9881655],[7.1863671,45.987532],[7.1865347,45.9873618],[7.1869583,45.9862454],[7.1869165,45.9858373],[7.1868157,45.9833883],[7.1843457,45.981137],[7.1823645,45.9844002],[7.1818013,45.9864984],[7.1814931,45.9866987],[7.1810772,45.986905],[7.1800835,45.9873648],[7.1796541,45.9880177],[7.1792663,45.9883521],[7.1782409,45.9890793],[7.1776515,45.9893506],[7.1764801,45.9898145],[7.1751496,45.9902263],[7.1723473,45.9904927],[7.1728783,45.9929397],[7.1732604,45.994487]]],"type":"Polygon"}
 }

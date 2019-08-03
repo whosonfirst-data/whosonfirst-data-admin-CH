@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.18038,46.00477,7.18038,46.00477",
-    "geom:latitude":46.00477,
-    "geom:longitude":7.18038,
+    "geom:area":0.00025,
+    "geom:area_square_m":2149287.732448,
+    "geom:bbox":"7.1740176,45.9987912,7.2007769,46.0194912",
+    "geom:latitude":46.010483,
+    "geom:longitude":7.185479,
     "gn:admin1_code":"VS",
     "gn:admin2_code":"2303.0",
     "gn:admin3_code":"6033.0",
@@ -26,12 +26,30 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.00477,
+    "lbl:longitude":7.18038,
+    "mps:latitude":46.010483,
+    "mps:longitude":7.185479,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Chandonne"
+    ],
+    "name:eng_x_variant":[
+        "Chandonne (Liddes)"
+    ],
     "name:und_x_variant":[
         "Chandonne (Liddes)"
     ],
-    "src:geom":"geonames",
+    "nav:latitude":46.00477,
+    "nav:longitude":7.18038,
+    "reversegeo:latitude":46.010483,
+    "reversegeo:longitude":7.185479,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682281,
         102191581,
@@ -45,7 +63,7 @@
         "gn:id":7669498
     },
     "wof:country":"CH",
-    "wof:geomhash":"fef2d02a88a886a60574061276d9f78b",
+    "wof:geomhash":"f369437d6abcb3ce9dc1e8c6748420f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1344191907,
-    "wof:lastmodified":1537590759,
+    "wof:lastmodified":1564808297,
     "wof:name":"Chandonne",
     "wof:parent_id":1175611199,
     "wof:placetype":"locality",
@@ -67,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.18038,
-    46.00477,
-    7.18038,
-    46.00477
+    7.1740176,
+    45.9987912,
+    7.2007769,
+    46.0194912
 ],
-  "geometry": {"coordinates":[7.18038,46.00477],"type":"Point"}
+  "geometry": {"coordinates":[[[7.1850066,46.0194912],[7.1858623,46.0193815],[7.1862186,46.0193352],[7.1871971,46.019207],[7.1879578,46.0191102],[7.189374,46.018923],[7.2006891,46.0178413],[7.2007769,46.0178233],[7.1797199,45.998935],[7.1764694,45.9989588],[7.1744571,45.9987912],[7.1740176,45.9992378],[7.1752981,46.0015282],[7.1759083,46.0037784],[7.1760392,46.0040853],[7.1765628,46.0050807],[7.1766115,46.0055047],[7.1770401,46.0072946],[7.1778461,46.009781],[7.1781568,46.0112179],[7.1783848,46.012597],[7.1850066,46.0194912]]],"type":"Polygon"}
 }

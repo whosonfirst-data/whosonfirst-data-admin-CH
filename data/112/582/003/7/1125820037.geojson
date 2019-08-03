@@ -4,17 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"8.56418,47.15385,8.56418,47.15385",
-    "geom:latitude":47.15385,
-    "geom:longitude":8.56418,
+    "geom:area":0.000172,
+    "geom:area_square_m":1444740.419967,
+    "geom:bbox":"8.5467475,47.1453247,8.5694342,47.1578578",
+    "geom:latitude":47.151769,
+    "geom:longitude":8.558679,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"CH",
     "lbl:latitude":47.15385,
     "lbl:longitude":8.56418,
+    "mps:latitude":47.151769,
+    "mps:longitude":8.558679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
@@ -27,6 +29,8 @@
     "name:nld_x_preferred":[
         "Neu\u00e4geri"
     ],
+    "nav:latitude":47.15385,
+    "nav:longitude":8.56418,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -47,8 +51,13 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20103262,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":47.151769,
+    "reversegeo:longitude":8.558679,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Zug",
@@ -69,7 +78,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497292005,
-    "wof:geomhash":"c913eb8f840adbfe1a208281e500a902",
+    "wof:geomhash":"59d230be1ec590be6b827e979b5a1e76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":1125820037,
-    "wof:lastmodified":1561745932,
+    "wof:lastmodified":1564808352,
     "wof:name":"Neu\u00e4geri",
     "wof:parent_id":404328215,
     "wof:placetype":"locality",
@@ -91,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.56418,
-    47.15385,
-    8.56418,
-    47.15385
+    8.5467475,
+    47.1453247,
+    8.5694342,
+    47.1578578
 ],
-  "geometry": {"coordinates":[8.56418,47.15385],"type":"Point"}
+  "geometry": {"coordinates":[[[8.5680097,47.1506681],[8.5694342,47.1458981],[8.5647447,47.1453247],[8.5548492,47.1487454],[8.5478569,47.151155],[8.5467475,47.154238],[8.5480966,47.1566669],[8.548099,47.1566671],[8.5490076,47.1567599],[8.5501514,47.1566146],[8.5505537,47.1565961],[8.5507478,47.1564321],[8.5510032,47.1563563],[8.5513527,47.1562747],[8.5518769,47.1564967],[8.5521031,47.1565421],[8.5523255,47.1566134],[8.5537009,47.1569616],[8.5545269,47.1574099],[8.5545446,47.1578578],[8.5553577,47.1578126],[8.5553016,47.1573687],[8.5556828,47.1564734],[8.5561268,47.1554318],[8.5561304,47.1554325],[8.5607289,47.1564274],[8.5651538,47.1560415],[8.5664738,47.155631],[8.5667893,47.1551192],[8.5667521,47.1511446],[8.5670024,47.150856],[8.5680097,47.1506681]]],"type":"Polygon"}
 }

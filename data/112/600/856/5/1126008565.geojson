@@ -4,20 +4,27 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"9.43406,47.03261,9.43406,47.03261",
-    "geom:latitude":47.03261,
-    "geom:longitude":9.43406,
+    "geom:area":0.000001,
+    "geom:area_square_m":11065.059676,
+    "geom:bbox":"9.4738718,47.0305886,9.4758045,47.0319331",
+    "geom:latitude":47.031251,
+    "geom:longitude":9.474844,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"CH",
-    "lbl:latitude":47.03261,
-    "lbl:longitude":9.43406,
+    "lbl:latitude":47.031251,
+    "lbl:longitude":9.474844,
+    "mps:latitude":47.031251,
+    "mps:longitude":9.474844,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Wangs"
+    ],
+    "nav:latitude":47.031251,
+    "nav:longitude":9.474844,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -38,8 +45,14 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":784656,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":47.031251,
+    "reversegeo:longitude":9.474844,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "qs_pg",
+        "ch-swisstopo"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton St. Gallen",
@@ -59,7 +72,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497300129,
-    "wof:geomhash":"8bd388f328306b0e1be1fb8fe217cc54",
+    "wof:geomhash":"a776f51413b5061119a414f744a8dae9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +84,7 @@
         }
     ],
     "wof:id":1126008565,
-    "wof:lastmodified":1509406535,
+    "wof:lastmodified":1564808354,
     "wof:name":"Wangs",
     "wof:parent_id":404568219,
     "wof:placetype":"locality",
@@ -81,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    9.43406,
-    47.03261,
-    9.43406,
-    47.03261
+    9.4738718,
+    47.0305886,
+    9.4758045,
+    47.0319331
 ],
-  "geometry": {"coordinates":[9.43406,47.03261],"type":"Point"}
+  "geometry": {"coordinates":[[[9.4749765,47.0305928],[9.4748757,47.0305886],[9.4738718,47.0313978],[9.4747949,47.0319331],[9.4758045,47.0311201],[9.4749765,47.0305928]]],"type":"Polygon"}
 }

@@ -4,20 +4,27 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"8.71271,46.17998,8.71271,46.17998",
-    "geom:latitude":46.17998,
-    "geom:longitude":8.71271,
+    "geom:area":0.000058,
+    "geom:area_square_m":497256.449616,
+    "geom:bbox":"8.7042034,46.1759933,8.7210006,46.1805624",
+    "geom:latitude":46.178283,
+    "geom:longitude":8.712573,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"CH",
     "lbl:latitude":46.17998,
     "lbl:longitude":8.71271,
+    "mps:latitude":46.178283,
+    "mps:longitude":8.712573,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Golino"
+    ],
+    "nav:latitude":46.17998,
+    "nav:longitude":8.71271,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -38,8 +45,13 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":785607,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":46.178283,
+    "reversegeo:longitude":8.712573,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Cantone Ticino",
@@ -59,7 +71,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497293190,
-    "wof:geomhash":"fe9b6f33a8db0c80a53a272abf56c3df",
+    "wof:geomhash":"e200f4c249953e0e0344c2b5195f42d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +83,7 @@
         }
     ],
     "wof:id":1125846593,
-    "wof:lastmodified":1509395682,
+    "wof:lastmodified":1564808344,
     "wof:name":"Golino",
     "wof:parent_id":404567987,
     "wof:placetype":"locality",
@@ -81,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.71271,
-    46.17998,
-    8.71271,
-    46.17998
+    8.7042034,
+    46.1759933,
+    8.7210006,
+    46.1805624
 ],
-  "geometry": {"coordinates":[8.71271,46.17998],"type":"Point"}
+  "geometry": {"coordinates":[[[8.7043046,46.1800901],[8.7053155,46.1801151],[8.705839,46.1800881],[8.7058867,46.1800867],[8.7063323,46.1802446],[8.7081835,46.1803618],[8.7106246,46.1805163],[8.7113534,46.1805624],[8.7115156,46.1805195],[8.7121368,46.180355],[8.7122883,46.1803167],[8.7142581,46.1802897],[8.7144394,46.1802883],[8.7158308,46.180091],[8.7158696,46.1800855],[8.7159051,46.1800805],[8.7200876,46.1789518],[8.7210006,46.1787054],[8.7209882,46.1782529],[8.7209849,46.1781205],[8.7209805,46.1780418],[8.7206699,46.1778064],[8.7203121,46.177434],[8.7203264,46.1770103],[8.720328,46.1769447],[8.7203313,46.1768931],[8.7202345,46.1763656],[8.7201945,46.176296],[8.7201389,46.1762267],[8.7194426,46.1760145],[8.7193729,46.1759933],[8.7074389,46.1765721],[8.7071508,46.1768382],[8.7066377,46.1773696],[8.705846,46.1776705],[8.7048349,46.1774802],[8.7045818,46.1776031],[8.7044875,46.1780077],[8.7042034,46.1788757],[8.7042545,46.1789904],[8.7042133,46.1795961],[8.7043046,46.1800901]]],"type":"Polygon"}
 }

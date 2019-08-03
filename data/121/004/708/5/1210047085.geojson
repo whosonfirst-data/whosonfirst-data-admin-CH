@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.98217,46.54682,7.98217,46.54682",
-    "geom:latitude":46.54682,
-    "geom:longitude":7.98217,
+    "geom:area":0.000077,
+    "geom:area_square_m":650901.023141,
+    "geom:bbox":"7.9705994,46.5438627,7.9927827,46.5495419",
+    "geom:latitude":46.546485,
+    "geom:longitude":7.982655,
     "gn:admin1_code":"VS",
     "gn:admin2_code":"2304.0",
     "gn:admin3_code":"6058.0",
@@ -25,9 +25,24 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.54682,
+    "lbl:longitude":7.98217,
+    "mps:latitude":46.546485,
+    "mps:longitude":7.982655,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "src:geom":"geonames",
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Jungfraujoch"
+    ],
+    "nav:latitude":46.54682,
+    "nav:longitude":7.98217,
+    "reversegeo:latitude":46.546485,
+    "reversegeo:longitude":7.982655,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682281,
         102191581,
@@ -41,7 +56,7 @@
         "wk:page":"Jungfraujoch"
     },
     "wof:country":"CH",
-    "wof:geomhash":"94dc03a3606d2741b4847afc46be8563",
+    "wof:geomhash":"fae9fae9c0d4b7bea2bafa2d6fd27fe0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1210047085,
-    "wof:lastmodified":1537489286,
+    "wof:lastmodified":1564808350,
     "wof:name":"Jungfraujoch",
     "wof:parent_id":404567725,
     "wof:placetype":"locality",
@@ -63,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.98217,
-    46.54682,
-    7.98217,
-    46.54682
+    7.9705994,
+    46.5438627,
+    7.9927827,
+    46.5495419
 ],
-  "geometry": {"coordinates":[7.98217,46.54682],"type":"Point"}
+  "geometry": {"coordinates":[[[7.9927827,46.5478376],[7.9877857,46.5438627],[7.971045,46.5448749],[7.9708638,46.5452472],[7.9705994,46.5457908],[7.9740241,46.5469671],[7.980108,46.548434],[7.9883178,46.5495419],[7.9927827,46.5478376]]],"type":"Polygon"}
 }

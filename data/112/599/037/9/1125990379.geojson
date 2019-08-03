@@ -4,20 +4,27 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"8.91755,46.08984,8.91755,46.08984",
-    "geom:latitude":46.08984,
-    "geom:longitude":8.91755,
+    "geom:area":0.000108,
+    "geom:area_square_m":924094.303048,
+    "geom:bbox":"8.8644053,46.0821534,8.88382,46.0905114",
+    "geom:latitude":46.086259,
+    "geom:longitude":8.873467,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"CH",
-    "lbl:latitude":46.08984,
-    "lbl:longitude":8.91755,
+    "lbl:latitude":46.086259,
+    "lbl:longitude":8.873467,
+    "mps:latitude":46.086259,
+    "mps:longitude":8.873467,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Mezzovico"
+    ],
+    "nav:latitude":46.086259,
+    "nav:longitude":8.873467,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -38,8 +45,14 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":783336,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":46.086259,
+    "reversegeo:longitude":8.873467,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "qs_pg",
+        "ch-swisstopo"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Cantone Ticino",
@@ -59,7 +72,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497299029,
-    "wof:geomhash":"e010ad8d4fe4a2c2e4faf3ff27e3b3f5",
+    "wof:geomhash":"7218fa35c9d9dd7529e78dc6b0a183a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +84,7 @@
         }
     ],
     "wof:id":1125990379,
-    "wof:lastmodified":1509405353,
+    "wof:lastmodified":1564808336,
     "wof:name":"Mezzovico",
     "wof:parent_id":404569733,
     "wof:placetype":"locality",
@@ -81,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.91755,
-    46.08984,
-    8.91755,
-    46.08984
+    8.8644053,
+    46.0821534,
+    8.88382,
+    46.0905114
 ],
-  "geometry": {"coordinates":[8.91755,46.08984],"type":"Point"}
+  "geometry": {"coordinates":[[[8.8721456,46.0905114],[8.8739599,46.0896386],[8.8797758,46.0881191],[8.8824632,46.0847511],[8.88382,46.0822007],[8.8837852,46.0821988],[8.8768852,46.0821534],[8.8744875,46.083242],[8.8733933,46.0834184],[8.8715084,46.0839428],[8.8691826,46.0838649],[8.867675,46.083994],[8.8658145,46.0842764],[8.8657904,46.0842949],[8.865259,46.0847046],[8.8652056,46.084902],[8.8651727,46.0850238],[8.8651077,46.0850903],[8.8649862,46.0852146],[8.8650071,46.0863117],[8.8646462,46.0868096],[8.8645091,46.0869987],[8.8647119,46.0884349],[8.8644053,46.0898935],[8.8721456,46.0905114]]],"type":"Polygon"}
 }

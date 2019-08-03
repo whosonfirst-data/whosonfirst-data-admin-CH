@@ -4,23 +4,30 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"10.3596,46.82028,10.3596,46.82028",
-    "geom:latitude":46.82028,
-    "geom:longitude":10.3596,
+    "geom:area":0.000013,
+    "geom:area_square_m":107123.317527,
+    "geom:bbox":"10.3573022,46.8183617,10.3632462,46.8222343",
+    "geom:latitude":46.820353,
+    "geom:longitude":10.359943,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"CH",
     "lbl:latitude":46.82028,
     "lbl:longitude":10.3596,
+    "mps:latitude":46.820353,
+    "mps:longitude":10.359943,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Crusch"
+    ],
     "name:roh_x_preferred":[
         "Crusch"
     ],
+    "nav:latitude":46.82028,
+    "nav:longitude":10.3596,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -41,8 +48,13 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782195,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":46.820353,
+    "reversegeo:longitude":10.359943,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Graub\u00fcnden",
@@ -62,7 +74,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497297333,
-    "wof:geomhash":"00fc2e0d51f0c7a002c6582ce218f577",
+    "wof:geomhash":"8101a8dd456bb6d742a83dcfe5c9ef5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +86,7 @@
         }
     ],
     "wof:id":1125947337,
-    "wof:lastmodified":1509402472,
+    "wof:lastmodified":1564808349,
     "wof:name":"Crusch",
     "wof:parent_id":404567785,
     "wof:placetype":"locality",
@@ -84,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.3596,
-    46.82028,
-    10.3596,
-    46.82028
+    10.3573022,
+    46.8183617,
+    10.3632462,
+    46.8222343
 ],
-  "geometry": {"coordinates":[10.3596,46.82028],"type":"Point"}
+  "geometry": {"coordinates":[[[10.3581946,46.8183617],[10.3573022,46.8196356],[10.3579887,46.821213],[10.3610688,46.8222343],[10.3632462,46.8202812],[10.3581946,46.8183617]]],"type":"Polygon"}
 }

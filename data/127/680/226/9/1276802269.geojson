@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.16804,46.00455,7.16804,46.00455",
-    "geom:latitude":46.00455,
-    "geom:longitude":7.16804,
+    "geom:area":0.00005,
+    "geom:area_square_m":429360.097003,
+    "geom:bbox":"7.1575306,46.0001463,7.1720044,46.0065269",
+    "geom:latitude":46.003089,
+    "geom:longitude":7.166046,
     "gn:admin1_code":"VS",
     "gn:admin2_code":"2303.0",
     "gn:admin3_code":"6033.0",
@@ -25,9 +25,27 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.00455,
+    "lbl:longitude":7.16804,
+    "mps:latitude":46.003089,
+    "mps:longitude":7.166046,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "src:geom":"geonames",
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Les Moulins VS"
+    ],
+    "name:eng_x_variant":[
+        "Les Moulins VS (Liddes)"
+    ],
+    "nav:latitude":46.00455,
+    "nav:longitude":7.16804,
+    "reversegeo:latitude":46.003089,
+    "reversegeo:longitude":7.166046,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682281,
         102191581,
@@ -41,7 +59,7 @@
         "gn:id":8533415
     },
     "wof:country":"CH",
-    "wof:geomhash":"1730023b8d6557494e9f2542c09a3bc3",
+    "wof:geomhash":"0f40eb066d132bcde1d463df566da505",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,8 +71,8 @@
         }
     ],
     "wof:id":1276802269,
-    "wof:lastmodified":1536647136,
-    "wof:name":"Les Moulins VS (Liddes)",
+    "wof:lastmodified":1564808345,
+    "wof:name":"Les Moulins VS",
     "wof:parent_id":1175611199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
@@ -63,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.16804,
-    46.00455,
-    7.16804,
-    46.00455
+    7.1575306,
+    46.0001463,
+    7.1720044,
+    46.0065269
 ],
-  "geometry": {"coordinates":[7.16804,46.00455],"type":"Point"}
+  "geometry": {"coordinates":[[[7.1575306,46.0019444],[7.166075,46.0065269],[7.167796,46.0060186],[7.1678329,46.0060097],[7.1691974,46.0055673],[7.1700296,46.0050963],[7.1701539,46.0050081],[7.1701975,46.0049453],[7.1702008,46.0049354],[7.1714538,46.0024177],[7.1720044,46.0001463],[7.1674479,46.0007742],[7.1631743,46.0013089],[7.1575306,46.0019444]]],"type":"Polygon"}
 }

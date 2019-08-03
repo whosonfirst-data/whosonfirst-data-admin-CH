@@ -4,17 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"10.14214,46.23339,10.14214,46.23339",
-    "geom:latitude":46.23339,
-    "geom:longitude":10.14214,
+    "geom:area":0.000154,
+    "geom:area_square_m":1312896.182608,
+    "geom:bbox":"10.1346183,46.2267073,10.1504238,46.2436376",
+    "geom:latitude":46.235669,
+    "geom:longitude":10.14161,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"CH",
     "lbl:latitude":46.23339,
     "lbl:longitude":10.14214,
+    "mps:latitude":46.235669,
+    "mps:longitude":10.14161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
@@ -39,6 +41,8 @@
     "name:swe_x_preferred":[
         "Campocologno"
     ],
+    "nav:latitude":46.23339,
+    "nav:longitude":10.14214,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -59,8 +63,13 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782011,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":46.235669,
+    "reversegeo:longitude":10.14161,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Graub\u00fcnden",
@@ -81,7 +90,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497291829,
-    "wof:geomhash":"9ea038847c09cac030bb0b2fcfc12bd5",
+    "wof:geomhash":"cb8b4e9d10ea9a41d351afe030cf6758",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1125815577,
-    "wof:lastmodified":1561745888,
+    "wof:lastmodified":1564808325,
     "wof:name":"Campocologno",
     "wof:parent_id":404568055,
     "wof:placetype":"locality",
@@ -103,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.14214,
-    46.23339,
-    10.14214,
-    46.23339
+    10.1346183,
+    46.2267073,
+    10.1504238,
+    46.2436376
 ],
-  "geometry": {"coordinates":[10.14214,46.23339],"type":"Point"}
+  "geometry": {"coordinates":[[[10.1359282,46.2267073],[10.1370074,46.2321101],[10.1376939,46.2341286],[10.135504,46.2357002],[10.1346183,46.2369458],[10.1349916,46.2395652],[10.1356742,46.2407156],[10.1409508,46.2436376],[10.1421753,46.242476],[10.1476125,46.2393271],[10.1504238,46.2387963],[10.1495437,46.2371496],[10.1489974,46.2361253],[10.148251,46.2347438],[10.1478379,46.2339797],[10.1467355,46.2319182],[10.1461327,46.2308145],[10.1459512,46.2304825],[10.1457031,46.2303896],[10.1455124,46.2303185],[10.1454613,46.2303],[10.1449312,46.230099],[10.144721,46.2300195],[10.1437111,46.2296396],[10.1395358,46.2280683],[10.1395349,46.2280679],[10.1374473,46.2272848],[10.1359282,46.2267073]]],"type":"Polygon"}
 }

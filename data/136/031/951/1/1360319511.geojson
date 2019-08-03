@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.17049,46.00677,7.17049,46.00677",
-    "geom:latitude":46.00677,
-    "geom:longitude":7.17049,
+    "geom:area":0.000025,
+    "geom:area_square_m":210879.024428,
+    "geom:bbox":"7.166075,46.0024177,7.1755909,46.0107715",
+    "geom:latitude":46.006941,
+    "geom:longitude":7.170757,
     "gn:admin1_code":"VS",
     "gn:admin2_code":"2303.0",
     "gn:admin3_code":"6033.0",
@@ -25,12 +25,30 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.00677,
+    "lbl:longitude":7.17049,
+    "mps:latitude":46.006941,
+    "mps:longitude":7.170757,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rive Haute"
+    ],
+    "name:eng_x_variant":[
+        "Rive Haute (Liddes)"
+    ],
     "name:und_x_variant":[
         "Rive Haute (Liddes)"
     ],
-    "src:geom":"geonames",
+    "nav:latitude":46.00677,
+    "nav:longitude":7.17049,
+    "reversegeo:latitude":46.006941,
+    "reversegeo:longitude":7.170757,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682281,
         102191581,
@@ -44,7 +62,7 @@
         "gn:id":2659007
     },
     "wof:country":"CH",
-    "wof:geomhash":"15d627477d3f630d832e4d653f16479c",
+    "wof:geomhash":"60e7c78aa031418b86b789235e02b2e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1360319511,
-    "wof:lastmodified":1537590741,
+    "wof:lastmodified":1564808348,
     "wof:name":"Rive Haute",
     "wof:parent_id":1175611199,
     "wof:placetype":"locality",
@@ -66,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.17049,
-    46.00677,
-    7.17049,
-    46.00677
+    7.166075,
+    46.0024177,
+    7.1755909,
+    46.0107715
 ],
-  "geometry": {"coordinates":[7.17049,46.00677],"type":"Point"}
+  "geometry": {"coordinates":[[[7.1666428,46.0077045],[7.1695128,46.0083079],[7.170355,46.0085684],[7.1755909,46.0107715],[7.1751614,46.010228],[7.1741855,46.0090301],[7.1739621,46.0087055],[7.1728556,46.0072044],[7.1724977,46.0066301],[7.171659,46.0059861],[7.1718571,46.0056355],[7.1721496,46.00519],[7.1728091,46.0049795],[7.1714538,46.0024177],[7.1702008,46.0049354],[7.1701975,46.0049453],[7.1701539,46.0050081],[7.1700296,46.0050963],[7.1691974,46.0055673],[7.1678329,46.0060097],[7.167796,46.0060186],[7.166075,46.0065269],[7.1666428,46.0077045]]],"type":"Polygon"}
 }

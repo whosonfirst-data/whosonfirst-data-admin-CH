@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"10.37064,46.60875,10.37064,46.60875",
-    "geom:latitude":46.60875,
-    "geom:longitude":10.37064,
+    "geom:area":0.001584,
+    "geom:area_square_m":13453576.351267,
+    "geom:bbox":"10.3061515,46.5844157,10.3844315,46.6200057",
+    "geom:latitude":46.604802,
+    "geom:longitude":10.345104,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":136,
@@ -16,6 +16,8 @@
     "iso:country":"CH",
     "lbl:latitude":46.60875,
     "lbl:longitude":10.37064,
+    "mps:latitude":46.604802,
+    "mps:longitude":10.345104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
@@ -67,6 +69,8 @@
     "name:vol_x_preferred":[
         "Fuldera"
     ],
+    "nav:latitude":46.60875,
+    "nav:longitude":10.37064,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -87,8 +91,13 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782504,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":46.604802,
+    "reversegeo:longitude":10.345104,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
@@ -110,7 +119,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497300892,
-    "wof:geomhash":"6ff85f6a953af46cbb956ded841b9a70",
+    "wof:geomhash":"93ddaf06896e26ac419d5ccb69be8777",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":1126022073,
-    "wof:lastmodified":1561745874,
+    "wof:lastmodified":1564808065,
     "wof:name":"Fuldera",
     "wof:parent_id":404567715,
     "wof:placetype":"locality",
@@ -134,10 +143,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.37064,
-    46.60875,
-    10.37064,
-    46.60875
+    10.3061515,
+    46.5844157,
+    10.3844315,
+    46.6200057
 ],
-  "geometry": {"coordinates":[10.37064,46.60875],"type":"Point"}
+  "geometry": {"coordinates":[[[10.3061515,46.6049399],[10.321709,46.6178385],[10.3525418,46.6179228],[10.357013,46.6189262],[10.3585136,46.6200057],[10.3667074,46.61749],[10.3712754,46.6163391],[10.3751426,46.6160252],[10.3772013,46.6138843],[10.3801752,46.6100068],[10.3822084,46.60883],[10.3844315,46.6082907],[10.3821382,46.6072881],[10.3812138,46.6070966],[10.3806927,46.6072427],[10.3804519,46.6063538],[10.3809794,46.6063236],[10.3811264,46.605491],[10.3807625,46.6027819],[10.3780532,46.6016088],[10.3721483,46.6004849],[10.366849,46.5985648],[10.3610906,46.5983733],[10.3566825,46.5927699],[10.3469552,46.5844157],[10.3384868,46.5872356],[10.3333036,46.587028],[10.33071,46.5891881],[10.3218481,46.5923563],[10.325739,46.5991061],[10.3061515,46.6049399]]],"type":"Polygon"}
 }

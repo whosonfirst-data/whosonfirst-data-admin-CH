@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.17392,46.00571,7.17392,46.00571",
-    "geom:latitude":46.00571,
-    "geom:longitude":7.17392,
+    "geom:area":0.000043,
+    "geom:area_square_m":369803.073833,
+    "geom:bbox":"7.1714538,45.9992378,7.1783848,46.012597",
+    "geom:latitude":46.005583,
+    "geom:longitude":7.174685,
     "gn:admin1_code":"VS",
     "gn:admin2_code":"2303.0",
     "gn:admin3_code":"6033.0",
@@ -25,12 +25,30 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.00571,
+    "lbl:longitude":7.17392,
+    "mps:latitude":46.005583,
+    "mps:longitude":7.174685,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Fontaine Dessus"
+    ],
+    "name:eng_x_variant":[
+        "Fontaine Dessus (Liddes)"
+    ],
     "name:und_x_variant":[
         "Fontaine Dessous (Liddes)"
     ],
-    "src:geom":"geonames",
+    "nav:latitude":46.00571,
+    "nav:longitude":7.17392,
+    "reversegeo:latitude":46.005583,
+    "reversegeo:longitude":7.174685,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682281,
         102191581,
@@ -44,7 +62,7 @@
         "gn:id":8533413
     },
     "wof:country":"CH",
-    "wof:geomhash":"ff83d1c921b0b41f5df1aef3b7995813",
+    "wof:geomhash":"d2df5c435ec4c8af21517ad4dd0173bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +74,8 @@
         }
     ],
     "wof:id":1293820577,
-    "wof:lastmodified":1537590770,
-    "wof:name":"Fontaine Dessus (Liddes)",
+    "wof:lastmodified":1564808346,
+    "wof:name":"Fontaine Dessus",
     "wof:parent_id":1175611199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
@@ -66,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.17392,
-    46.00571,
-    7.17392,
-    46.00571
+    7.1714538,
+    45.9992378,
+    7.1783848,
+    46.012597
 ],
-  "geometry": {"coordinates":[7.17392,46.00571],"type":"Point"}
+  "geometry": {"coordinates":[[[7.1720044,46.0001463],[7.1714538,46.0024177],[7.1728091,46.0049795],[7.1721496,46.00519],[7.1718571,46.0056355],[7.171659,46.0059861],[7.1724977,46.0066301],[7.1728556,46.0072044],[7.1739621,46.0087055],[7.1741855,46.0090301],[7.1751614,46.010228],[7.1755909,46.0107715],[7.1783848,46.012597],[7.1781568,46.0112179],[7.1778461,46.009781],[7.1770401,46.0072946],[7.1766115,46.0055047],[7.1765628,46.0050807],[7.1760392,46.0040853],[7.1759083,46.0037784],[7.1752981,46.0015282],[7.1740176,45.9992378],[7.1720044,46.0001463]]],"type":"Polygon"}
 }

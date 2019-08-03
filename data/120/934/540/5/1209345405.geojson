@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"9.4886,47.09063,9.4886,47.09063",
-    "geom:latitude":47.09063,
-    "geom:longitude":9.4886,
+    "geom:area":0.000036,
+    "geom:area_square_m":301714.207368,
+    "geom:bbox":"9.4845485,47.0866199,9.4925296,47.0941403",
+    "geom:latitude":47.090618,
+    "geom:longitude":9.488529,
     "gn:admin1_code":"SG",
     "gn:admin2_code":"1724.0",
     "gn:admin3_code":"3276.0",
@@ -25,9 +25,24 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":47.09063,
+    "lbl:longitude":9.4886,
+    "mps:latitude":47.090618,
+    "mps:longitude":9.488529,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "src:geom":"geonames",
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Fontnas"
+    ],
+    "nav:latitude":47.09063,
+    "nav:longitude":9.4886,
+    "reversegeo:latitude":47.090618,
+    "reversegeo:longitude":9.488529,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633051
     ],
@@ -36,7 +51,7 @@
         "gn:id":8533689
     },
     "wof:country":"CH",
-    "wof:geomhash":"2a8c4292ae54d0bba83a255a731a4de9",
+    "wof:geomhash":"2572758c6583f56fa8a4611d20ea9a6e",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -44,7 +59,7 @@
         }
     ],
     "wof:id":1209345405,
-    "wof:lastmodified":1536289929,
+    "wof:lastmodified":1564808347,
     "wof:name":"Fontnas",
     "wof:parent_id":85633051,
     "wof:placetype":"locality",
@@ -54,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    9.4886,
-    47.09063,
-    9.4886,
-    47.09063
+    9.4845485,
+    47.0866199,
+    9.4925296,
+    47.0941403
 ],
-  "geometry": {"coordinates":[9.4886,47.09063],"type":"Point"}
+  "geometry": {"coordinates":[[[9.4873335,47.0866199],[9.4854649,47.0893032],[9.4845485,47.0919338],[9.4862247,47.0923189],[9.4883161,47.0941403],[9.4894,47.0940148],[9.4903442,47.0936697],[9.4916318,47.0924424],[9.4924706,47.0915803],[9.4925296,47.0912417],[9.4917899,47.0907024],[9.4913626,47.089747],[9.4913503,47.0897451],[9.4913831,47.0895706],[9.4913275,47.0893897],[9.4913493,47.0893834],[9.4915821,47.0892217],[9.491538,47.0889785],[9.491383,47.0889365],[9.4913204,47.0889534],[9.4911786,47.0887504],[9.4910604,47.088538],[9.4910284,47.088365],[9.4909136,47.0882997],[9.4907207,47.0882745],[9.4905316,47.0882497],[9.4903848,47.0881877],[9.489645,47.0879249],[9.4873335,47.0866199]]],"type":"Polygon"}
 }

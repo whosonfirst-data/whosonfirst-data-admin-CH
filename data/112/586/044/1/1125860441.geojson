@@ -4,18 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"9.44335,46.52061,9.44335,46.52061",
-    "geom:latitude":46.52061,
-    "geom:longitude":9.44335,
+    "geom:area":0.000053,
+    "geom:area_square_m":449735.248605,
+    "geom:bbox":"9.4490956,46.4799802,9.4622066,46.4848439",
+    "geom:latitude":46.482412,
+    "geom:longitude":9.455441,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":39,
     "gn:population":39,
     "iso:country":"CH",
-    "lbl:latitude":46.52061,
-    "lbl:longitude":9.44335,
+    "lbl:latitude":46.482412,
+    "lbl:longitude":9.455441,
+    "mps:latitude":46.482412,
+    "mps:longitude":9.455441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
@@ -61,6 +63,8 @@
     "name:vol_x_preferred":[
         "Innerferrera"
     ],
+    "nav:latitude":46.482412,
+    "nav:longitude":9.455441,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -79,8 +83,14 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782836,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":46.482412,
+    "reversegeo:longitude":9.455441,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "qs_pg",
+        "ch-swisstopo"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
@@ -102,7 +112,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497293805,
-    "wof:geomhash":"a327bc65d9201dd41cc017db1e6dd69a",
+    "wof:geomhash":"0a0f91ffd8cb4b5dcd1e9139e5df5121",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +124,7 @@
         }
     ],
     "wof:id":1125860441,
-    "wof:lastmodified":1561745887,
+    "wof:lastmodified":1564808345,
     "wof:name":"Innerferrera",
     "wof:parent_id":404567855,
     "wof:placetype":"locality",
@@ -126,10 +136,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    9.44335,
-    46.52061,
-    9.44335,
-    46.52061
+    9.4490956,
+    46.4799802,
+    9.4622066,
+    46.4848439
 ],
-  "geometry": {"coordinates":[9.44335,46.52061],"type":"Point"}
+  "geometry": {"coordinates":[[[9.4610356,46.4848439],[9.4609494,46.4839903],[9.4618176,46.4827674],[9.461453,46.4820556],[9.4612954,46.4812347],[9.4622066,46.4804688],[9.4576656,46.4802914],[9.4497019,46.4799802],[9.449602,46.4822961],[9.449602,46.4822967],[9.4492539,46.4829568],[9.4490956,46.4843765],[9.453726,46.4845578],[9.4559889,46.4846464],[9.4593609,46.4847784],[9.4610356,46.4848439]]],"type":"Polygon"}
 }

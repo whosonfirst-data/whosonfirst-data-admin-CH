@@ -4,20 +4,27 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"8.59268,46.96851,8.59268,46.96851",
-    "geom:latitude":46.96851,
-    "geom:longitude":8.59268,
+    "geom:area":0.000079,
+    "geom:area_square_m":664500.874574,
+    "geom:bbox":"8.5909192,46.9645694,8.6037277,46.975233",
+    "geom:latitude":46.969564,
+    "geom:longitude":8.598311,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"CH",
     "lbl:latitude":46.96851,
     "lbl:longitude":8.59268,
+    "mps:latitude":46.969564,
+    "mps:longitude":8.598311,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "R\u00fctli"
+    ],
+    "nav:latitude":46.96851,
+    "nav:longitude":8.59268,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -38,8 +45,13 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":783975,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":46.969564,
+    "reversegeo:longitude":8.598311,
+    "src:geom":"ch-swisstopo",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Uri",
@@ -59,7 +71,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497296779,
-    "wof:geomhash":"4dc65fc47c3027d46880f9042b43e2e5",
+    "wof:geomhash":"67cd85b28c6d0d968924d3412913e072",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +83,7 @@
         }
     ],
     "wof:id":1125930191,
-    "wof:lastmodified":1509401356,
+    "wof:lastmodified":1564808341,
     "wof:name":"R\u00fctli",
     "wof:parent_id":404328279,
     "wof:placetype":"locality",
@@ -81,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.59268,
-    46.96851,
-    8.59268,
-    46.96851
+    8.5909192,
+    46.9645694,
+    8.6037277,
+    46.975233
 ],
-  "geometry": {"coordinates":[8.59268,46.96851],"type":"Point"}
+  "geometry": {"coordinates":[[[8.6037277,46.9645694],[8.5939817,46.9671119],[8.5938235,46.967091],[8.5937374,46.9670857],[8.592987,46.967318],[8.5923667,46.9675031],[8.5920351,46.9676047],[8.5918344,46.9678963],[8.5916372,46.9682517],[8.5915712,46.9684246],[8.5916146,46.9686878],[8.5919021,46.969162],[8.5918691,46.9696947],[8.591594,46.9700442],[8.5911318,46.9702759],[8.5909192,46.9703825],[8.5909309,46.9703871],[8.5910871,46.9704476],[8.5911517,46.9704886],[8.5913134,46.9705844],[8.5915023,46.9706914],[8.5917878,46.9708276],[8.591972,46.9708599],[8.5923626,46.9710632],[8.6011887,46.975233],[8.6035142,46.9685537],[8.6037277,46.9645694]]],"type":"Polygon"}
 }
