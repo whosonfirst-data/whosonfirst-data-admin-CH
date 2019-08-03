@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.006664,
-    "geom:area_square_m":56659775.540961,
+    "geom:area_square_m":56659775.540967,
     "geom:bbox":"9.909063305,46.4754500336,10.0540056885,46.626701213",
     "geom:latitude":46.555659,
     "geom:longitude":9.994567,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.584646,
     "lbl:longitude":9.983609,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404567943,
-    "wof:lastmodified":1507751260,
+    "wof:lastmodified":1564816929,
     "wof:name":"Zuoz",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404570013
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

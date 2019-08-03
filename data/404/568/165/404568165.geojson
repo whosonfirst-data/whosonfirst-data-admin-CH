@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.004332,
-    "geom:area_square_m":36836505.594434,
+    "geom:area_square_m":36836505.594425,
     "geom:bbox":"6.58424021505,46.5045173723,6.72080939269,46.6025815933",
     "geom:latitude":46.549677,
     "geom:longitude":6.657798,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.522917,
     "lbl:longitude":6.62941,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0632\u0627\u0646"
     ],
@@ -219,12 +220,14 @@
         }
     ],
     "wof:id":404568165,
-    "wof:lastmodified":1504301904,
+    "wof:lastmodified":1564816936,
     "wof:name":"Lausanne",
     "wof:parent_id":102063009,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404571503
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

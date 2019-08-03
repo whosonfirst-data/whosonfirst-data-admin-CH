@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.00099,
-    "geom:area_square_m":8307111.859708,
+    "geom:area_square_m":8307111.859709,
     "geom:bbox":"9.48395074694,47.2689269366,9.54344202204,47.3082651261",
     "geom:latitude":47.286632,
     "geom:longitude":9.507444,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.286921,
     "lbl:longitude":9.507876,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"St. Gallen",
     "qs:a1_lc":"17",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"02e1eb83963b4891f59c5738fe616d05",
+    "wof:geomhash":"5957537d327d12f6cc99c8f956307c23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404570181,
-    "wof:lastmodified":1479948082,
+    "wof:lastmodified":1564816929,
     "wof:name":"Altst\u00e4tten",
     "wof:parent_id":102063005,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404568259
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

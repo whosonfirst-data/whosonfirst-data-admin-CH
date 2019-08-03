@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.000524,
-    "geom:area_square_m":4439226.299814,
+    "geom:area_square_m":4439226.299813,
     "geom:bbox":"6.92214377131,46.7031162249,6.95631356032,46.7324875571",
     "geom:latitude":46.716928,
     "geom:longitude":6.938762,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.715867,
     "lbl:longitude":6.938503,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Fribourg",
     "qs:a1_lc":"10",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"2a46dff2fd6620d4101af6dad2189a09",
+    "wof:geomhash":"e405f5397932ab4dcb600bf373b96958",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404571481,
-    "wof:lastmodified":1479928122,
+    "wof:lastmodified":1564816932,
     "wof:name":"La Folliaz",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404571139
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

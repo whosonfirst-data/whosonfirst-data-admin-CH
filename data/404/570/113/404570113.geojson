@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.001023,
-    "geom:area_square_m":8674749.93134,
+    "geom:area_square_m":8674749.931341,
     "geom:bbox":"6.86041046183,46.7084382157,6.92258527305,46.7410305909",
     "geom:latitude":46.725485,
     "geom:longitude":6.892219,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.72581,
     "lbl:longitude":6.895278,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Vaud",
     "qs:a1_lc":"22",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"9aeb31005b05d380328a01f3509337ea",
+    "wof:geomhash":"6e0ea3132cfab460101bc7d02821c22b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404570113,
-    "wof:lastmodified":1479929390,
+    "wof:lastmodified":1564816932,
     "wof:name":"Valbroye",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404568391
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

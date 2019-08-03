@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002767,
-    "geom:area_square_m":23716252.07182,
+    "geom:area_square_m":23716252.071822,
     "geom:bbox":"8.64781306545,46.097240624,8.74230949542,46.150577489",
     "geom:latitude":46.12376,
     "geom:longitude":8.693828,
@@ -45,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"087cdf4d5fc62ffc12931987c945482c",
+    "wof:geomhash":"56e69f80d2c6d16fd278e811f7faff91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,17 +56,20 @@
         }
     ],
     "wof:id":404573575,
-    "wof:lastmodified":1564614103,
+    "wof:lastmodified":1564816937,
     "wof:name":"Brissago",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        404573595,
+        404568721
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    8.647813065445387,
+    8.64781306544539,
     46.0972406240443,
     8.74230949542179,
     46.15057748903591

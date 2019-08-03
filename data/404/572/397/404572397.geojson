@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.000284,
     "geom:area_square_m":2402547.178345,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.826967,
     "lbl:longitude":6.626611,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Vaud",
     "qs:a1_lc":"22",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"d44f4d9f4702b4f28cc2cb41c21ee1cc",
+    "wof:geomhash":"b8c53c9b9062c189c4b168279841ea17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404572397,
-    "wof:lastmodified":1479928933,
+    "wof:lastmodified":1564816928,
     "wof:name":"Fiez",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404571499
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

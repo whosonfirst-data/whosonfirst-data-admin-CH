@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
     "geom:area_square_m":728424.553463,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.589966,
     "lbl:longitude":8.554499,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Schaffhausen",
     "qs:a1_lc":"14",
@@ -34,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"c18187b747ec15d0bcf6ce8367058c07",
+    "wof:geomhash":"16033c2837d109b06b33b47167617e4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,12 +47,14 @@
         }
     ],
     "wof:id":404328921,
-    "wof:lastmodified":1479947524,
+    "wof:lastmodified":1564816938,
     "wof:name":"Buchberg",
     "wof:parent_id":102063007,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404328931
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

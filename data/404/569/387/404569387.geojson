@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.00138,
-    "geom:area_square_m":11632690.066987,
+    "geom:area_square_m":11632690.066986,
     "geom:bbox":"7.57904187586,46.9976926604,7.64009658084,47.0443605545",
     "geom:latitude":47.02386,
     "geom:longitude":7.61028,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.024425,
     "lbl:longitude":7.610299,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404569387,
-    "wof:lastmodified":1497045282,
+    "wof:lastmodified":1564816929,
     "wof:name":"Oberburg",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404573389
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
