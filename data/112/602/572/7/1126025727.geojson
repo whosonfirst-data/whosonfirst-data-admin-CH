@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.08386,
     "lbl:longitude":7.39926,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Wengi"
@@ -141,14 +142,14 @@
         }
     ],
     "wof:id":1126025727,
-    "wof:lastmodified":1561745872,
+    "wof:lastmodified":1564896406,
     "wof:name":"Wengi",
     "wof:parent_id":404570555,
     "wof:placetype":"locality",
     "wof:population":579,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394396385,
     "wof:supersedes":[],
     "wof:tags":[]
 },

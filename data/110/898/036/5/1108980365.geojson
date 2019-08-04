@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.48205,
     "lbl:longitude":8.77289,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Oberseen"
@@ -80,14 +81,14 @@
         }
     ],
     "wof:id":1108980365,
-    "wof:lastmodified":1561745821,
+    "wof:lastmodified":1564896237,
     "wof:name":"Oberseen",
     "wof:parent_id":404567873,
     "wof:placetype":"locality",
     "wof:population":2133,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394394907,
     "wof:supersedes":[],
     "wof:tags":[]
 },

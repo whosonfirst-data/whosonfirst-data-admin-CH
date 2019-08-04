@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -16,7 +17,7 @@
     "lbl:latitude":46.83339,
     "lbl:longitude":9.34023,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Trinserm\u00fchle"
@@ -77,12 +78,12 @@
         }
     ],
     "wof:id":1125950361,
-    "wof:lastmodified":1509402650,
+    "wof:lastmodified":1564896378,
     "wof:name":"Trinserm\u00fchle",
     "wof:parent_id":404568043,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394410449,
     "wof:supersedes":[],
     "wof:tags":[]
 },

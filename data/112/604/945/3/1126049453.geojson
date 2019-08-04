@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":46.83304,
     "lbl:longitude":9.65091,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "St. Peter-Pagig"
@@ -65,14 +66,14 @@
         }
     ],
     "wof:id":1126049453,
-    "wof:lastmodified":1509409123,
+    "wof:lastmodified":1564896419,
     "wof:name":"Sankt Peter",
     "wof:parent_id":404569257,
     "wof:placetype":"locality",
     "wof:population":180,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394397897,
     "wof:supersedes":[],
     "wof:tags":[]
 },

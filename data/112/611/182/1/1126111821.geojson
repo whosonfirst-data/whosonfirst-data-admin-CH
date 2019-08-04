@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"2017-05-19",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.4354,
     "lbl:longitude":8.79951,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Tobel"
@@ -250,14 +251,14 @@
         }
     ],
     "wof:id":1126111821,
-    "wof:lastmodified":1561745870,
+    "wof:lastmodified":1564896421,
     "wof:name":"Tobel",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394398105,
     "wof:supersedes":[],
     "wof:tags":[]
 },

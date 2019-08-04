@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.48068,
     "lbl:longitude":8.12546,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Gallenkirch"
@@ -138,14 +139,14 @@
         }
     ],
     "wof:id":1125993343,
-    "wof:lastmodified":1561745902,
+    "wof:lastmodified":1564896391,
     "wof:name":"Gallenkirch",
     "wof:parent_id":404573347,
     "wof:placetype":"locality",
     "wof:population":135,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394394609,
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.57137,
     "lbl:longitude":8.78725,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:unk_x_variant":[
         "Thurtalstrasse"
@@ -62,14 +63,14 @@
         }
     ],
     "wof:id":1125833063,
-    "wof:lastmodified":1509394831,
+    "wof:lastmodified":1564896335,
     "wof:name":"Altikon / Thurtalstrasse",
     "wof:parent_id":404570389,
     "wof:placetype":"locality",
     "wof:population":1,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394405987,
     "wof:supersedes":[],
     "wof:tags":[]
 },

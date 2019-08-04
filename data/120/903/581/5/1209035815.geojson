@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +28,7 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633051
@@ -37,7 +38,7 @@
         "gn:id":7669488
     },
     "wof:country":"CH",
-    "wof:geomhash":"59b3c53e0783e7325488b085d8713b3c",
+    "wof:geomhash":"1cf047e9f890161ff2ede13bdf474c64",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -45,19 +46,19 @@
         }
     ],
     "wof:id":1209035815,
-    "wof:lastmodified":1536299703,
+    "wof:lastmodified":1564896428,
     "wof:name":"Buttenried",
     "wof:parent_id":85633051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394398817,
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    7.2770100000000015,
+    7.27701,
     46.96481,
-    7.2770100000000015,
+    7.27701,
     46.96481
 ],
   "geometry": {"coordinates":[7.27701,46.96481],"type":"Point"}

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -16,7 +17,7 @@
     "mps:latitude":46.770001,
     "mps:longitude":7.509766,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:als_x_preferred":[
         "Wattenwil"
     ],
@@ -154,14 +155,14 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1561745835,
+    "wof:lastmodified":1564896232,
     "wof:name":"Wattenwil",
     "wof:parent_id":404568955,
     "wof:placetype":"locality",
     "wof:population":2788,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394394581,
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,7 +27,7 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:und_x_variant":[
         "Pf\u00e4fers"
     ],
@@ -48,12 +49,12 @@
         }
     ],
     "wof:id":1209043453,
-    "wof:lastmodified":1537590742,
+    "wof:lastmodified":1564896430,
     "wof:name":"Pfaefers Dorf",
     "wof:parent_id":85633051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394399085,
     "wof:supersedes":[],
     "wof:tags":[]
 },

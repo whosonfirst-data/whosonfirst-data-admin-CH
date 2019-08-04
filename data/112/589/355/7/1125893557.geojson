@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.24719,
     "lbl:longitude":7.97135,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:kaz_x_preferred":[
         "\u0420\u0430\u0439\u0434\u0435\u043d"
@@ -78,14 +79,14 @@
         }
     ],
     "wof:id":1125893557,
-    "wof:lastmodified":1509398948,
+    "wof:lastmodified":1564896353,
     "wof:name":"Reiben",
     "wof:parent_id":404328219,
     "wof:placetype":"locality",
     "wof:population":3926,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394407833,
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,7 +27,7 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633051
@@ -36,7 +37,7 @@
         "gn:id":8379140
     },
     "wof:country":"CH",
-    "wof:geomhash":"143ec3d3da690d4404ce5568b703cecc",
+    "wof:geomhash":"2f16085ad313ce9503e04a73b46815c9",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -44,19 +45,19 @@
         }
     ],
     "wof:id":1209140669,
-    "wof:lastmodified":1536296515,
+    "wof:lastmodified":1564896432,
     "wof:name":"Saint Denis",
     "wof:parent_id":85633051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394399393,
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    6.4579900000000015,
+    6.45799,
     46.60694,
-    6.4579900000000015,
+    6.45799,
     46.60694
 ],
   "geometry": {"coordinates":[6.45799,46.60694],"type":"Point"}

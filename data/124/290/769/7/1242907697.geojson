@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,7 +27,7 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:ita_x_preferred":[
         "Ronchettone"
     ],
@@ -55,12 +56,12 @@
         }
     ],
     "wof:id":1242907697,
-    "wof:lastmodified":1537590793,
+    "wof:lastmodified":1564896498,
     "wof:name":"Ronchettone",
     "wof:parent_id":404573439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394406669,
     "wof:supersedes":[],
     "wof:tags":[]
 },

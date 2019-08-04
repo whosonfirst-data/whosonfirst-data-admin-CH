@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "mps:latitude":46.982399,
     "mps:longitude":8.309841,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:cat_x_preferred":[
         "Hergiswil"
     ],
@@ -154,12 +155,12 @@
         }
     ],
     "wof:id":101853917,
-    "wof:lastmodified":1561745834,
+    "wof:lastmodified":1564896232,
     "wof:name":"Hergiswil (NW)",
     "wof:parent_id":404328305,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394394533,
     "wof:supersedes":[],
     "wof:tags":[]
 },

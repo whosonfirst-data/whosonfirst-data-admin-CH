@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.35056,
     "lbl:longitude":8.93419,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Steg im T\u00f6sstal"
@@ -76,14 +77,14 @@
         }
     ],
     "wof:id":1125901735,
-    "wof:lastmodified":1509399459,
+    "wof:lastmodified":1564896361,
     "wof:name":"Steg",
     "wof:parent_id":404568281,
     "wof:placetype":"locality",
     "wof:population":79,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394408607,
     "wof:supersedes":[],
     "wof:tags":[]
 },

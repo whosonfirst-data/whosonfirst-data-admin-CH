@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -14,7 +15,7 @@
     "lbl:latitude":47.145497,
     "lbl:longitude":6.827144,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -42,9 +43,9 @@
     "wof:belongsto":[
         85683239,
         102191581,
-        85633147,
-        404387655,
         404227849,
+        404387655,
+        85633147,
         1108826395,
         136253037,
         102066485
@@ -71,12 +72,12 @@
         }
     ],
     "wof:id":1125962377,
-    "wof:lastmodified":1509403388,
+    "wof:lastmodified":1564896381,
     "wof:name":"Les Joux-Derriere",
     "wof:parent_id":404387655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394410773,
     "wof:supersedes":[],
     "wof:tags":[]
 },

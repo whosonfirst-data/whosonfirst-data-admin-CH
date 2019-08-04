@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.47386,
     "lbl:longitude":8.76899,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:unk_x_variant":[
         "Ziegelh\u00fctte"
@@ -62,14 +63,14 @@
         }
     ],
     "wof:id":1125819791,
-    "wof:lastmodified":1509394022,
+    "wof:lastmodified":1564896316,
     "wof:name":"Seen (Kreis 3) / Ziegelh\u00fctte",
     "wof:parent_id":404567873,
     "wof:placetype":"locality",
     "wof:population":12,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394403861,
     "wof:supersedes":[],
     "wof:tags":[]
 },

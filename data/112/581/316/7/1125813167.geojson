@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.27816,
     "lbl:longitude":8.90592,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -59,14 +60,14 @@
         }
     ],
     "wof:id":1125813167,
-    "wof:lastmodified":1509393652,
+    "wof:lastmodified":1564896279,
     "wof:name":"Feisterbach",
     "wof:parent_id":404568373,
     "wof:placetype":"locality",
     "wof:population":8,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394399589,
     "wof:supersedes":[],
     "wof:tags":[]
 },

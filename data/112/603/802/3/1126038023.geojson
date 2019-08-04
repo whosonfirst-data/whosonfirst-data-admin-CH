@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -16,7 +17,7 @@
     "lbl:latitude":46.26391,
     "lbl:longitude":8.8259,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ita_x_preferred":[
         "Aquino"
@@ -74,12 +75,12 @@
         }
     ],
     "wof:id":1126038023,
-    "wof:lastmodified":1509408337,
+    "wof:lastmodified":1564896415,
     "wof:name":"Aquino",
     "wof:parent_id":404567941,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394397469,
     "wof:supersedes":[],
     "wof:tags":[]
 },

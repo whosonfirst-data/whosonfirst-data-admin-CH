@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,7 +27,7 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633051
@@ -36,7 +37,7 @@
         "gn:id":2659340
     },
     "wof:country":"CH",
-    "wof:geomhash":"ddcd642fa5a5054c1e25975ccca6be3d",
+    "wof:geomhash":"99ba20a9d49afe4d0ffb3fbb3e4f0233",
     "wof:hierarchy":[
         {
             "country_id":85633051,
@@ -44,19 +45,19 @@
         }
     ],
     "wof:id":1209549751,
-    "wof:lastmodified":1536283732,
+    "wof:lastmodified":1564896445,
     "wof:name":"Ober Staffel",
     "wof:parent_id":85633051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394400811,
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    8.980089999999997,
+    8.98009,
     46.9529,
-    8.980089999999997,
+    8.98009,
     46.9529
 ],
   "geometry": {"coordinates":[8.98009,46.9529],"type":"Point"}

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":46.77977,
     "lbl:longitude":7.39167,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "R\u00fcschegg"
@@ -153,14 +154,14 @@
         }
     ],
     "wof:id":1125827699,
-    "wof:lastmodified":1561745932,
+    "wof:lastmodified":1564896321,
     "wof:name":"R\u00fcschegg",
     "wof:parent_id":404567939,
     "wof:placetype":"locality",
     "wof:population":1697,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394404377,
     "wof:supersedes":[],
     "wof:tags":[]
 },

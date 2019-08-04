@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":46.21826,
     "lbl:longitude":7.0032,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Saint-Maurice VS"
@@ -83,14 +84,14 @@
         }
     ],
     "wof:id":1125772343,
-    "wof:lastmodified":1509391064,
+    "wof:lastmodified":1564896240,
     "wof:name":"Saint-Maurice",
     "wof:parent_id":404570581,
     "wof:placetype":"locality",
     "wof:population":3701,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394395293,
     "wof:supersedes":[],
     "wof:tags":[]
 },

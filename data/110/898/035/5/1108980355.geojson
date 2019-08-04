@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.25952,
     "lbl:longitude":8.42727,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -69,14 +70,14 @@
         }
     ],
     "wof:id":1108980355,
-    "wof:lastmodified":1509410097,
+    "wof:lastmodified":1564896237,
     "wof:name":"Wolsen",
     "wof:parent_id":404570433,
     "wof:placetype":"locality",
     "wof:population":444,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394394901,
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "mps:latitude":47.34106,
     "mps:longitude":7.703723,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:als_x_preferred":[
         "M\u00fcmliswil-Ramiswil"
     ],
@@ -147,12 +148,12 @@
         }
     ],
     "wof:id":101854229,
-    "wof:lastmodified":1561745836,
+    "wof:lastmodified":1564896233,
     "wof:name":"M\u00fcmliswil-Ramiswil",
     "wof:parent_id":404328191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394394601,
     "wof:supersedes":[],
     "wof:tags":[]
 },

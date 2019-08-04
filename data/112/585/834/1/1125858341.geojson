@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":46.79422,
     "lbl:longitude":9.43203,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0424\u0435\u043b\u0434\u0438\u0441"
@@ -125,14 +126,14 @@
         }
     ],
     "wof:id":1125858341,
-    "wof:lastmodified":1561745935,
+    "wof:lastmodified":1564896346,
     "wof:name":"Feldis",
     "wof:parent_id":404568271,
     "wof:placetype":"locality",
     "wof:population":126,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394407063,
     "wof:supersedes":[],
     "wof:tags":[]
 },

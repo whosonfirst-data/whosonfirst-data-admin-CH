@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -14,7 +15,7 @@
     "lbl:latitude":47.530299,
     "lbl:longitude":9.302673,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":null,
@@ -65,12 +66,12 @@
         }
     ],
     "wof:id":1125839557,
-    "wof:lastmodified":1509395198,
+    "wof:lastmodified":1564896338,
     "wof:name":"Hagenwil bei Amriswil",
     "wof:parent_id":404568643,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394406241,
     "wof:supersedes":[],
     "wof:tags":[]
 },

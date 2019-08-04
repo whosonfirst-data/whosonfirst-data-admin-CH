@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,7 +27,7 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:epo_x_preferred":[
         "Bi\u00e8re VD"
     ],
@@ -63,14 +64,14 @@
         }
     ],
     "wof:id":1326766547,
-    "wof:lastmodified":1537590752,
+    "wof:lastmodified":1564896643,
     "wof:name":"Biere",
     "wof:parent_id":404568381,
     "wof:placetype":"locality",
     "wof:population":1428,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":1394406093,
     "wof:supersedes":[],
     "wof:tags":[]
 },
