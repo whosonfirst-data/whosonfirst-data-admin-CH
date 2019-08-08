@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000809,
-    "geom:area_square_m":5599013.729853,
+    "geom:area_square_m":5599013.729857,
     "geom:bbox":"-67.2468390834,-55.9551045344,-67.2038448391,-55.9309905226",
     "geom:latitude":-55.943907,
     "geom:longitude":-67.226871,
@@ -28,8 +28,20 @@
     "name:ast_x_preferred":[
         "Cabu dHornos"
     ],
+    "name:ast_x_variant":[
+        "Cabu d'Hornos"
+    ],
+    "name:aze_x_preferred":[
+        "Horn burnu"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u044b\u0441 \u0413\u043e\u0440\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u043c\u044b\u0441 \u0413\u043e\u0440\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c7\u09aa \u09b9\u09b0\u09cd\u09a8"
     ],
     "name:bos_x_preferred":[
         "Rt Horn"
@@ -40,11 +52,26 @@
     "name:bul_x_preferred":[
         "\u0425\u043e\u0440\u043d"
     ],
+    "name:bul_x_variant":[
+        "\u041d\u043e\u0441 \u0425\u043e\u0440\u043d"
+    ],
     "name:cat_x_preferred":[
         "Cap dHornos"
     ],
+    "name:cat_x_variant":[
+        "Cap Horn"
+    ],
+    "name:ceb_x_preferred":[
+        "Cape Horn"
+    ],
     "name:ces_x_preferred":[
         "Mys Horn"
+    ],
+    "name:ces_x_variant":[
+        "mys Horn"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u06cc\u067e \u0647\u06c6\u0695\u0646"
     ],
     "name:cym_x_preferred":[
         "Yr Horn"
@@ -79,11 +106,17 @@
     "name:fra_x_preferred":[
         "Cap Horn"
     ],
+    "name:fra_x_variant":[
+        "cap Horn"
+    ],
     "name:fry_x_preferred":[
         "Kaap Hoarn"
     ],
     "name:gle_x_preferred":[
         "Rinn an Choirn"
+    ],
+    "name:gsw_x_preferred":[
+        "Kap Hoorn"
     ],
     "name:hbs_x_preferred":[
         "Rt Horn"
@@ -124,11 +157,17 @@
     "name:kor_x_preferred":[
         "\ud63c \uacf6"
     ],
+    "name:kor_x_variant":[
+        "\ud63c\uacf6"
+    ],
     "name:lat_x_preferred":[
         "Hornanum Caput"
     ],
     "name:lav_x_preferred":[
         "Hornas rags"
+    ],
+    "name:lav_x_variant":[
+        "Horna rags"
     ],
     "name:lit_x_preferred":[
         "Horno ragas"
@@ -136,10 +175,16 @@
     "name:ltz_x_preferred":[
         "Kap Hoorn"
     ],
+    "name:msa_x_preferred":[
+        "Cape Horn"
+    ],
     "name:nld_x_preferred":[
         "Kaap Hoorn"
     ],
     "name:nno_x_preferred":[
+        "Kapp Horn"
+    ],
+    "name:nob_x_preferred":[
         "Kapp Horn"
     ],
     "name:nor_x_preferred":[
@@ -157,11 +202,17 @@
     "name:que_x_preferred":[
         "Urnu \u00f1awchi"
     ],
+    "name:que_x_variant":[
+        "Urnu \u00f1awch'i"
+    ],
     "name:ron_x_preferred":[
         "Capul Horn"
     ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Cape Horn"
     ],
     "name:slk_x_preferred":[
         "Hornsk\u00fd mys"
@@ -175,8 +226,14 @@
     "name:srp_x_preferred":[
         "\u0420\u0442 \u0425\u043e\u0440\u043d"
     ],
+    "name:swa_x_preferred":[
+        "Rasi Hoorn"
+    ],
     "name:swe_x_preferred":[
         "Kap Horn"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb9\u0bbe\u0bb0\u0bcd\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bc8"
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e2b\u0e25\u0e21\u0e2e\u0e2d\u0e23\u0e4c\u0e19"
@@ -190,14 +247,26 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0441 \u0413\u043e\u0440\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u043c\u0438\u0441 \u0413\u043e\u0440\u043d"
+    ],
     "name:unk_x_variant":[
         "Cape Hoorn"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u0633 \u06c1\u0648\u0631\u0646"
     ],
+    "name:uzb_x_preferred":[
+        "Gorn"
+    ],
     "name:vie_x_preferred":[
         "M\u0169i S\u1eebng"
+    ],
+    "name:vie_x_variant":[
+        "Cape Horn"
+    ],
+    "name:war_x_preferred":[
+        "Cape Horn"
     ],
     "name:zho_x_preferred":[
         "\u5408\u6069\u89d2"
@@ -237,7 +306,7 @@
         }
     ],
     "wof:id":102017613,
-    "wof:lastmodified":1527637778,
+    "wof:lastmodified":1565237651,
     "wof:name":"Cape Horn",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

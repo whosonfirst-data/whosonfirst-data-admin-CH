@@ -60,6 +60,9 @@
     "name:ast_x_preferred":[
         "Cant\u00f3n de Basilea-Campi\u00f1a"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0632\u0644-\u0644\u0627\u0646\u062f\u0634\u0627\u0641\u062a"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0442\u043e\u043d \u0411\u0430\u0437\u0435\u043b\u044c-\u041b\u0430\u043d\u0434"
     ],
@@ -106,7 +109,6 @@
     "name:deu_x_variant":[
         "Kanton Baselland",
         "Baselland",
-        "Basel-Landschaft",
         "Basel Land",
         "Kanton Basel-Land",
         "Basel-Land",
@@ -128,6 +130,9 @@
     "name:est_x_preferred":[
         "Basel-Landschafti kanton"
     ],
+    "name:est_x_variant":[
+        "Basel-Landschaft"
+    ],
     "name:eus_x_preferred":[
         "Basilea Herrialdea"
     ],
@@ -148,6 +153,9 @@
     ],
     "name:frp_x_preferred":[
         "B\u00e2la-Campagne"
+    ],
+    "name:frr_x_preferred":[
+        "Basel-Landschaft"
     ],
     "name:gla_x_preferred":[
         "Basel-Landschaft"
@@ -211,6 +219,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\uc824\ub780\ud2b8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\uc824\ub780\ud2b8\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Pagus Basilea rus"
@@ -317,6 +328,9 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e1a\u0e32\u0e40\u0e0b\u0e34\u0e25-\u0e25\u0e31\u0e19\u0e14\u0e4c\u0e0a\u0e32\u0e1f\u0e17\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e1a\u0e32\u0e40\u0e0b\u0e34\u0e25-\u0e25\u0e31\u0e19\u0e17\u0e4c\u0e0a\u0e31\u0e1f\u0e17\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Basel-Landschaft"
     ],
@@ -334,6 +348,12 @@
     ],
     "name:war_x_preferred":[
         "Basel-Landschaft"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u585e\u5c14\u4e61\u6751\u5dde"
+    ],
+    "name:yue_x_preferred":[
+        "\u5df4\u585e\u723e\u9109\u6751\u5dde"
     ],
     "name:zho_min_nan_x_preferred":[
         "Basel-Landschaft Chiu"
@@ -463,7 +483,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1565138976,
+    "wof:lastmodified":1565237800,
     "wof:name":"Basel-Country",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

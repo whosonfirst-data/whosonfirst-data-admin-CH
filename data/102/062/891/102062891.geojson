@@ -43,6 +43,9 @@
     "name:cat_x_preferred":[
         "Sentit"
     ],
+    "name:ceb_x_preferred":[
+        "Sense District"
+    ],
     "name:ces_x_preferred":[
         "Smysl"
     ],
@@ -66,11 +69,13 @@
         "Sense"
     ],
     "name:eng_x_variant":[
-        "Sense District",
-        "Sense"
+        "Sense District"
     ],
     "name:epo_x_preferred":[
         "Senso"
+    ],
+    "name:epo_x_variant":[
+        "Sin\u011dino"
     ],
     "name:est_x_preferred":[
         "Meeled"
@@ -141,6 +146,9 @@
     "name:lat_x_preferred":[
         "Sensus"
     ],
+    "name:lat_x_variant":[
+        "Sense"
+    ],
     "name:lit_x_preferred":[
         "Poj\u016btis"
     ],
@@ -155,6 +163,9 @@
     ],
     "name:msa_x_preferred":[
         "Deria"
+    ],
+    "name:nan_x_preferred":[
+        "Sense Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Zintuig"
@@ -183,6 +194,9 @@
     "name:rus_x_preferred":[
         "\u041e\u0449\u0443\u0449\u0435\u043d\u0438\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u043d\u0441"
+    ],
     "name:sco_x_preferred":[
         "Sense"
     ],
@@ -198,6 +212,9 @@
     "name:swe_x_preferred":[
         "Sinne"
     ],
+    "name:swe_x_variant":[
+        "Sense"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e2a\u0e32\u0e17\u0e2a\u0e31\u0e21\u0e1c\u0e31\u0e2a"
     ],
@@ -209,6 +226,9 @@
     ],
     "name:vie_x_preferred":[
         "Gi\u00e1c quan"
+    ],
+    "name:vie_x_variant":[
+        "Sense"
     ],
     "name:war_x_preferred":[
         "Sense"
@@ -262,7 +282,7 @@
         }
     ],
     "wof:id":102062891,
-    "wof:lastmodified":1565138959,
+    "wof:lastmodified":1565237521,
     "wof:name":"Sense",
     "wof:parent_id":85682301,
     "wof:placetype":"county",

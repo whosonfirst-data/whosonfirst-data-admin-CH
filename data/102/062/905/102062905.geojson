@@ -28,8 +28,14 @@
     "name:ara_x_preferred":[
         "\u0631\u0647\u064a\u064a\u0646\u0641\u064a\u0644\u062f\u064a\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0631\u0627\u064a\u0646\u0641\u064a\u0644\u062f\u0646"
+    ],
     "name:ast_x_preferred":[
         "Rheinfelden"
+    ],
+    "name:bel_x_preferred":[
+        "\u0430\u043a\u0440\u0443\u0433\u0430 \u0420\u0430\u0439\u043d\u0444\u0435\u043b\u044c\u0434\u044d\u043d"
     ],
     "name:bul_x_preferred":[
         "\u0420\u0430\u0439\u043d\u0444\u0435\u043b\u0434\u0435\u043d"
@@ -40,8 +46,14 @@
     "name:ceb_x_preferred":[
         "Rheinfelden"
     ],
+    "name:ceb_x_variant":[
+        "Bezirk Rheinfelden"
+    ],
     "name:ces_x_preferred":[
         "Rheinfelden"
+    ],
+    "name:ces_x_variant":[
+        "Okres Rheinfelden"
     ],
     "name:chv_x_preferred":[
         "\u0420\u0430\u0439\u043d\u0444\u0435\u043b\u044c\u0434\u0435\u043d"
@@ -57,11 +69,13 @@
         "Rheinfelden"
     ],
     "name:eng_x_variant":[
-        "Rheinfelden District",
-        "Rheinfelden"
+        "Rheinfelden District"
     ],
     "name:epo_x_preferred":[
         "Rheinfelden AG"
+    ],
+    "name:epo_x_variant":[
+        "Rheinfelden"
     ],
     "name:eus_x_preferred":[
         "Rheinfelden"
@@ -108,11 +122,17 @@
     "name:msa_x_preferred":[
         "Rheinfelden"
     ],
+    "name:nan_x_preferred":[
+        "Rheinfelden Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Rheinfelden"
     ],
     "name:nno_x_preferred":[
         "Rheinfelden"
+    ],
+    "name:nno_x_variant":[
+        "Distriktet Rheinfelden"
     ],
     "name:nob_x_preferred":[
         "Distriktet Rheinfelden"
@@ -120,11 +140,17 @@
     "name:pol_x_preferred":[
         "Rheinfelden"
     ],
+    "name:pol_x_variant":[
+        "Okr\u0119g Rheinfelden"
+    ],
     "name:roh_x_preferred":[
         "Rheinfelden"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0439\u043d\u0444\u0435\u043b\u044c\u0434\u0435\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u0435\u0439\u043d\u0444\u0435\u043b\u044c\u0434\u0435\u043d"
     ],
     "name:sco_x_preferred":[
         "Rheinfelden Destrict"
@@ -165,6 +191,9 @@
     "name:zho_x_preferred":[
         "\u83b1\u8335\u8d39\u5c14\u767b"
     ],
+    "name:zho_x_variant":[
+        "\u840a\u8335\u8cbb\u723e\u767b\u5340"
+    ],
     "qs:a0":"Switzerland",
     "qs:a1":"Aargau",
     "qs:a1_lc":"19",
@@ -202,7 +231,7 @@
         }
     ],
     "wof:id":102062905,
-    "wof:lastmodified":1565138955,
+    "wof:lastmodified":1565237487,
     "wof:name":"Rheinfelden",
     "wof:parent_id":85682329,
     "wof:placetype":"county",
