@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568161,
         85633051,
         1260111647,
-        102062985
+        102062985,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394394371,
-    "wof:lastmodified":1564896539,
+    "wof:lastmodified":1565230738,
     "wof:name":"Praz-Jean",
     "wof:parent_id":404568161,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1260111647,
+    "wof:supersedes":[
+        1260111647
+    ],
     "wof:tags":[]
 },
   "bbox": [

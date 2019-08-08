@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404568721,
         85633051,
         1276911467,
-        102062975
+        102062975,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394397609,
-    "wof:lastmodified":1564896568,
+    "wof:lastmodified":1565230759,
     "wof:name":"Cortascio",
     "wof:parent_id":404568721,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276911467,
+    "wof:supersedes":[
+        1276911467
+    ],
     "wof:tags":[]
 },
   "bbox": [

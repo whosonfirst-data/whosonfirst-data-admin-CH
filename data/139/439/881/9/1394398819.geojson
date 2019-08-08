@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568769,
         85633051,
         1293130109,
-        102062955
+        102062955,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394398819,
-    "wof:lastmodified":1564896580,
+    "wof:lastmodified":1565230736,
     "wof:name":"Hasli",
     "wof:parent_id":404568769,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293130109,
+    "wof:supersedes":[
+        1293130109
+    ],
     "wof:tags":[]
 },
   "bbox": [

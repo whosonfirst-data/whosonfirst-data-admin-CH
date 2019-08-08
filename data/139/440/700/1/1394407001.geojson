@@ -34,12 +34,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567695,
         85633051,
         1327060923,
-        102062803
+        102062803,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +59,15 @@
         }
     ],
     "wof:id":1394407001,
-    "wof:lastmodified":1564896651,
+    "wof:lastmodified":1565230581,
     "wof:name":"Kriegsmatte",
     "wof:parent_id":404567695,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1327060923,
+    "wof:supersedes":[
+        1327060923
+    ],
     "wof:tags":[]
 },
   "bbox": [

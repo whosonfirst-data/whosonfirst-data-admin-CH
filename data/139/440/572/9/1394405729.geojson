@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682301,
         102191581,
         404572361,
         85633051,
         1326665827,
-        102062765
+        102062765,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394405729,
-    "wof:lastmodified":1564896640,
+    "wof:lastmodified":1565230620,
     "wof:name":"Blessoney",
     "wof:parent_id":404572361,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326665827,
+    "wof:supersedes":[
+        1326665827
+    ],
     "wof:tags":[]
 },
   "bbox": [

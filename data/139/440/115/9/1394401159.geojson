@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404570129,
         85633051,
         1293817589,
-        102062773
+        102062773,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394401159,
-    "wof:lastmodified":1564896601,
+    "wof:lastmodified":1565230684,
     "wof:name":"Ruis",
     "wof:parent_id":404570129,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293817589,
+    "wof:supersedes":[
+        1293817589
+    ],
     "wof:tags":[]
 },
   "bbox": [

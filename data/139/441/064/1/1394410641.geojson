@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569939,
         85633051,
         1343798527,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394410641,
-    "wof:lastmodified":1564896683,
+    "wof:lastmodified":1565230706,
     "wof:name":"Dietikon / Industrie",
     "wof:parent_id":404569939,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343798527,
+    "wof:supersedes":[
+        1343798527
+    ],
     "wof:tags":[]
 },
   "bbox": [

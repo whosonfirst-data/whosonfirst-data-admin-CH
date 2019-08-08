@@ -46,12 +46,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568091,
         85633051,
         1125947757,
-        102062885
+        102062885,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,13 +74,15 @@
         }
     ],
     "wof:id":1394410103,
-    "wof:lastmodified":1564896375,
+    "wof:lastmodified":1565230713,
     "wof:name":"Sporz",
     "wof:parent_id":404568091,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125947757,
+    "wof:supersedes":[
+        1125947757
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568691,
         85633051,
         1292942375,
-        102062909
+        102062909,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394398439,
-    "wof:lastmodified":1564896576,
+    "wof:lastmodified":1565230736,
     "wof:name":"Vogelsang",
     "wof:parent_id":404568691,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1292942375,
+    "wof:supersedes":[
+        1292942375
+    ],
     "wof:tags":[]
 },
   "bbox": [

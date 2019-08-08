@@ -44,12 +44,12 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
         404567803,
         85633051,
         1125844117,
-        102062783
+        102062783,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,13 +72,15 @@
         }
     ],
     "wof:id":1394406381,
-    "wof:lastmodified":1564896339,
+    "wof:lastmodified":1565230680,
     "wof:name":"Les Posses-sur-Bex",
     "wof:parent_id":404567803,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125844117,
+    "wof:supersedes":[
+        1125844117
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -36,12 +36,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567805,
         85633051,
         1243393771,
-        102062931
+        102062931,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +61,15 @@
         }
     ],
     "wof:id":1394408183,
-    "wof:lastmodified":1564896510,
+    "wof:lastmodified":1565230582,
     "wof:name":"San Gottardo",
     "wof:parent_id":404567805,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243393771,
+    "wof:supersedes":[
+        1243393771
+    ],
     "wof:tags":[]
 },
   "bbox": [

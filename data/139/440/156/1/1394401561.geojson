@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568365,
         85633051,
         1293919435,
-        102062803
+        102062803,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394401561,
-    "wof:lastmodified":1564896603,
+    "wof:lastmodified":1565230581,
     "wof:name":"Unterraschitsch",
     "wof:parent_id":404568365,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293919435,
+    "wof:supersedes":[
+        1293919435
+    ],
     "wof:tags":[]
 },
   "bbox": [

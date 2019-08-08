@@ -35,12 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568145,
         85633051,
         1243394517,
-        102062773
+        102062773,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +60,15 @@
         }
     ],
     "wof:id":1394408219,
-    "wof:lastmodified":1564896511,
+    "wof:lastmodified":1565230593,
     "wof:name":"Surin",
     "wof:parent_id":404568145,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243394517,
+    "wof:supersedes":[
+        1243394517
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568061,
         85633051,
         1360016409,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394428741,
-    "wof:lastmodified":1564896696,
+    "wof:lastmodified":1565230796,
     "wof:name":"Aeckenmatt",
     "wof:parent_id":404568061,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1360016409,
+    "wof:supersedes":[
+        1360016409
+    ],
     "wof:tags":[]
 },
   "bbox": [

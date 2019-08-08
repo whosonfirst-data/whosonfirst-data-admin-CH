@@ -64,12 +64,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568957,
         85633051,
         1125818533,
-        102062933
+        102062933,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1394403097,
-    "wof:lastmodified":1564896310,
+    "wof:lastmodified":1565230568,
     "wof:name":"Lindenhof",
     "wof:parent_id":404568957,
     "wof:placetype":"neighbourhood",
@@ -100,7 +100,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125818533,
+    "wof:supersedes":[
+        1125818533
+    ],
     "wof:tags":[]
 },
   "bbox": [

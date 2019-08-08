@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568669,
         85633051,
         1309842169,
-        102062881
+        102062881,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394402213,
-    "wof:lastmodified":1564896609,
+    "wof:lastmodified":1565230590,
     "wof:name":"Ceuschi",
     "wof:parent_id":404568669,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1309842169,
+    "wof:supersedes":[
+        1309842169
+    ],
     "wof:tags":[]
 },
   "bbox": [

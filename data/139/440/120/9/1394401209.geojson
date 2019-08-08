@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568885,
         85633051,
         1293818871,
-        102062869
+        102062869,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394401209,
-    "wof:lastmodified":1564896601,
+    "wof:lastmodified":1565230623,
     "wof:name":"Riederen",
     "wof:parent_id":404568885,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293818871,
+    "wof:supersedes":[
+        1293818871
+    ],
     "wof:tags":[]
 },
   "bbox": [

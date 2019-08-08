@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682359,
         102191581,
         404568357,
         85633051,
         1310136287,
-        102062789
+        102062789,
+        85682359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394403035,
-    "wof:lastmodified":1564896616,
+    "wof:lastmodified":1565230637,
     "wof:name":"Le Cret",
     "wof:parent_id":404568357,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310136287,
+    "wof:supersedes":[
+        1310136287
+    ],
     "wof:tags":[]
 },
   "bbox": [

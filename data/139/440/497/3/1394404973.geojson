@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567935,
         85633051,
         1226580215,
-        102062931
+        102062931,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394404973,
-    "wof:lastmodified":1564896482,
+    "wof:lastmodified":1565230604,
     "wof:name":"Gribbio",
     "wof:parent_id":404567935,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226580215,
+    "wof:supersedes":[
+        1226580215
+    ],
     "wof:tags":[]
 },
   "bbox": [

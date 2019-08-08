@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404568179,
         85633051,
         1210047055,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394402109,
-    "wof:lastmodified":1564896458,
+    "wof:lastmodified":1565230593,
     "wof:name":"Carnago",
     "wof:parent_id":404568179,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1210047055,
+    "wof:supersedes":[
+        1210047055
+    ],
     "wof:tags":[]
 },
   "bbox": [

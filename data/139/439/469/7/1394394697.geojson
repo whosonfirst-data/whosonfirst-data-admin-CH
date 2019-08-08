@@ -57,12 +57,12 @@
     "woe:name_adm1":"Kanton Uri",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682377,
         102191581,
         404328523,
         85633051,
         1125997247,
-        102062879
+        102062879,
+        85682377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,13 +86,15 @@
         }
     ],
     "wof:id":1394394697,
-    "wof:lastmodified":1564896391,
+    "wof:lastmodified":1565230776,
     "wof:name":"Isleten",
     "wof:parent_id":404328523,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125997247,
+    "wof:supersedes":[
+        1125997247
+    ],
     "wof:tags":[]
 },
   "bbox": [

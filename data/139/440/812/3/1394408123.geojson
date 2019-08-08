@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570767,
         85633051,
         1243300283,
-        102062801
+        102062801,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394408123,
-    "wof:lastmodified":1564896510,
+    "wof:lastmodified":1565230656,
     "wof:name":"Hauenrain",
     "wof:parent_id":404570767,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243300283,
+    "wof:supersedes":[
+        1243300283
+    ],
     "wof:tags":[]
 },
   "bbox": [

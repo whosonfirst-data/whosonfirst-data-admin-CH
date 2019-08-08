@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404570715,
         85633051,
         1310041675,
-        102062991
+        102062991,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394402915,
-    "wof:lastmodified":1564896615,
+    "wof:lastmodified":1565230673,
     "wof:name":"Pianca",
     "wof:parent_id":404570715,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310041675,
+    "wof:supersedes":[
+        1310041675
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404571027,
         85633051,
         1209746825,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394401367,
-    "wof:lastmodified":1564896451,
+    "wof:lastmodified":1565230638,
     "wof:name":"Cantonetto",
     "wof:parent_id":404571027,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1209746825,
+    "wof:supersedes":[
+        1209746825
+    ],
     "wof:tags":[]
 },
   "bbox": [

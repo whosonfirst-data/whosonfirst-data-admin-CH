@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682325,
         102191581,
         404567917,
         85633051,
         1360221745,
-        102062783
+        102062783,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394429075,
-    "wof:lastmodified":1564896705,
+    "wof:lastmodified":1565230795,
     "wof:name":"Villy",
     "wof:parent_id":404567917,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1360221745,
+    "wof:supersedes":[
+        1360221745
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328291,
         85633051,
         1210047505,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394402163,
-    "wof:lastmodified":1564896458,
+    "wof:lastmodified":1565230582,
     "wof:name":"Vorder Spis",
     "wof:parent_id":404328291,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1210047505,
+    "wof:supersedes":[
+        1210047505
+    ],
     "wof:tags":[]
 },
   "bbox": [

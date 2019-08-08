@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682305,
         102191581,
         404568749,
         85633051,
         1243206241,
-        102062887
+        102062887,
+        85682305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394407699,
-    "wof:lastmodified":1564896506,
+    "wof:lastmodified":1565230639,
     "wof:name":"Ecce Homo",
     "wof:parent_id":404568749,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243206241,
+    "wof:supersedes":[
+        1243206241
+    ],
     "wof:tags":[]
 },
   "bbox": [

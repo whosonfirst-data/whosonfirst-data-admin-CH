@@ -48,12 +48,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567907,
         85633051,
         1125815649,
-        102062821
+        102062821,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394401115,
-    "wof:lastmodified":1564896292,
+    "wof:lastmodified":1565230621,
     "wof:name":"Fermelberg",
     "wof:parent_id":404567907,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125815649,
+    "wof:supersedes":[
+        1125815649
+    ],
     "wof:tags":[]
 },
   "bbox": [

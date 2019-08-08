@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568807,
         85633051,
         1310532603,
-        102062793
+        102062793,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394404319,
-    "wof:lastmodified":1564896628,
+    "wof:lastmodified":1565230608,
     "wof:name":"Vermala",
     "wof:parent_id":404568807,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310532603,
+    "wof:supersedes":[
+        1310532603
+    ],
     "wof:tags":[]
 },
   "bbox": [

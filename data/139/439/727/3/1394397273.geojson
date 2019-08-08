@@ -48,12 +48,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567695,
         85633051,
         1126032577,
-        102062803
+        102062803,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394397273,
-    "wof:lastmodified":1564896414,
+    "wof:lastmodified":1565230793,
     "wof:name":"Schmelzboden",
     "wof:parent_id":404567695,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126032577,
+    "wof:supersedes":[
+        1126032577
+    ],
     "wof:tags":[]
 },
   "bbox": [

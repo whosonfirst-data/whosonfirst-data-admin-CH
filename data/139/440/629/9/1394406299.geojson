@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568933,
         85633051,
         1326863833,
-        102063037
+        102063037,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +56,15 @@
         }
     ],
     "wof:id":1394406299,
-    "wof:lastmodified":1564896645,
+    "wof:lastmodified":1565230596,
     "wof:name":"Lauchernalp",
     "wof:parent_id":404568933,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326863833,
+    "wof:supersedes":[
+        1326863833
+    ],
     "wof:tags":[]
 },
   "bbox": [

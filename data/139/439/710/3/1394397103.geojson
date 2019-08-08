@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569993,
         85633051,
         1125808819,
-        102063019
+        102063019,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394397103,
-    "wof:lastmodified":1564896257,
+    "wof:lastmodified":1565230788,
     "wof:name":"Laubi",
     "wof:parent_id":404569993,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125808819,
+    "wof:supersedes":[
+        1125808819
+    ],
     "wof:tags":[]
 },
   "bbox": [

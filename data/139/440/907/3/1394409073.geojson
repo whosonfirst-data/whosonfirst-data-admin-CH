@@ -45,12 +45,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568475,
         85633051,
         1125916487,
-        102062761
+        102062761,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394409073,
-    "wof:lastmodified":1564896366,
+    "wof:lastmodified":1565230568,
     "wof:name":"Jeizinen",
     "wof:parent_id":404568475,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125916487,
+    "wof:supersedes":[
+        1125916487
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569759,
         85633051,
         1343798303,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394410627,
-    "wof:lastmodified":1564896683,
+    "wof:lastmodified":1565230704,
     "wof:name":"Chueeweid",
     "wof:parent_id":404569759,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343798303,
+    "wof:supersedes":[
+        1343798303
+    ],
     "wof:tags":[]
 },
   "bbox": [

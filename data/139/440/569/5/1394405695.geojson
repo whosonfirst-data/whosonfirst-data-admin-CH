@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404570741,
         85633051,
         1326664457,
-        102063061
+        102063061,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394405695,
-    "wof:lastmodified":1564896640,
+    "wof:lastmodified":1565230567,
     "wof:name":"Dreiligass",
     "wof:parent_id":404570741,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326664457,
+    "wof:supersedes":[
+        1326664457
+    ],
     "wof:tags":[]
 },
   "bbox": [

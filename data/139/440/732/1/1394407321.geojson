@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568217,
         85633051,
         1327165225,
-        102062793
+        102062793,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394407321,
-    "wof:lastmodified":1564896654,
+    "wof:lastmodified":1565230641,
     "wof:name":"Cordona",
     "wof:parent_id":404568217,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1327165225,
+    "wof:supersedes":[
+        1327165225
+    ],
     "wof:tags":[]
 },
   "bbox": [

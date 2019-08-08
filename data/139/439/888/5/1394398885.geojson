@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682319,
         102191581,
         404328253,
         85633051,
         1293134947,
-        102062797
+        102062797,
+        85682319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394398885,
-    "wof:lastmodified":1564896581,
+    "wof:lastmodified":1565230737,
     "wof:name":"Laette",
     "wof:parent_id":404328253,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293134947,
+    "wof:supersedes":[
+        1293134947
+    ],
     "wof:tags":[]
 },
   "bbox": [

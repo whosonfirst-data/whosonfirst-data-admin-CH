@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569273,
         85633051,
         1126003631,
-        102062775
+        102062775,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1394394763,
-    "wof:lastmodified":1564896392,
+    "wof:lastmodified":1565230731,
     "wof:name":"Aegerten",
     "wof:parent_id":404569273,
     "wof:placetype":"neighbourhood",
@@ -81,7 +81,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126003631,
+    "wof:supersedes":[
+        1126003631
+    ],
     "wof:tags":[]
 },
   "bbox": [

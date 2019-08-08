@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682325,
         102191581,
         404571281,
         85633051,
         1326764725,
-        102062873
+        102062873,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394406013,
-    "wof:lastmodified":1564896642,
+    "wof:lastmodified":1565230673,
     "wof:name":"La Vaux",
     "wof:parent_id":404571281,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326764725,
+    "wof:supersedes":[
+        1326764725
+    ],
     "wof:tags":[]
 },
   "bbox": [

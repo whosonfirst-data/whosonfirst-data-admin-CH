@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567823,
         85633051,
         1125914505,
-        102062831
+        102062831,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394409011,
-    "wof:lastmodified":1564896365,
+    "wof:lastmodified":1565230574,
     "wof:name":"Schrickmatten",
     "wof:parent_id":404567823,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125914505,
+    "wof:supersedes":[
+        1125914505
+    ],
     "wof:tags":[]
 },
   "bbox": [

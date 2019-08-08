@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404569023,
         85633051,
         1259514505,
-        102062869
+        102062869,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394409405,
-    "wof:lastmodified":1564896521,
+    "wof:lastmodified":1565230624,
     "wof:name":"Faeldemer Trotte",
     "wof:parent_id":404569023,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259514505,
+    "wof:supersedes":[
+        1259514505
+    ],
     "wof:tags":[]
 },
   "bbox": [

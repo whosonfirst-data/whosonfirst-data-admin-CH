@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567809,
         85633051,
         1209952591,
-        102062845
+        102062845,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394402045,
-    "wof:lastmodified":1564896457,
+    "wof:lastmodified":1565230606,
     "wof:name":"Podestatsch Hus",
     "wof:parent_id":404567809,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1209952591,
+    "wof:supersedes":[
+        1209952591
+    ],
     "wof:tags":[]
 },
   "bbox": [

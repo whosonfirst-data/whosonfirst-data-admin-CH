@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404571719,
         85633051,
         1293920569,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394401641,
-    "wof:lastmodified":1564896604,
+    "wof:lastmodified":1565230641,
     "wof:name":"Lisone",
     "wof:parent_id":404571719,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293920569,
+    "wof:supersedes":[
+        1293920569
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -52,12 +52,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404569693,
         85633051,
         1125835683,
-        102062761
+        102062761,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,13 +80,15 @@
         }
     ],
     "wof:id":1394406137,
-    "wof:lastmodified":1564896337,
+    "wof:lastmodified":1565230650,
     "wof:name":"Guttet",
     "wof:parent_id":404569693,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125835683,
+    "wof:supersedes":[
+        1125835683
+    ],
     "wof:tags":[]
 },
   "bbox": [

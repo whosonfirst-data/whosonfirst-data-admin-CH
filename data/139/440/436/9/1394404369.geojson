@@ -43,7 +43,6 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85683381,
         102191581,
         404228307,
         404420919,
@@ -51,7 +50,8 @@
         1108826391,
         1125827139,
         136253037,
-        102068509
+        102068509,
+        85683381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,13 +77,15 @@
         }
     ],
     "wof:id":1394404369,
-    "wof:lastmodified":1564896321,
+    "wof:lastmodified":1565230607,
     "wof:name":"Oleyres",
     "wof:parent_id":404420919,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125827139,
+    "wof:supersedes":[
+        1125827139
+    ],
     "wof:tags":[]
 },
   "bbox": [

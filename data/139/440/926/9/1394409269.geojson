@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404568159,
         85633051,
         1259418979,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394409269,
-    "wof:lastmodified":1564896520,
+    "wof:lastmodified":1565230690,
     "wof:name":"Canedo",
     "wof:parent_id":404568159,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259418979,
+    "wof:supersedes":[
+        1259418979
+    ],
     "wof:tags":[]
 },
   "bbox": [

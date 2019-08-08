@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568067,
         85633051,
         1260220123,
-        102062885
+        102062885,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394394793,
-    "wof:lastmodified":1564896544,
+    "wof:lastmodified":1565230735,
     "wof:name":"Bellaluna",
     "wof:parent_id":404568067,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1260220123,
+    "wof:supersedes":[
+        1260220123
+    ],
     "wof:tags":[]
 },
   "bbox": [

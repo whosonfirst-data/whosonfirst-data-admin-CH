@@ -48,12 +48,12 @@
     "woe:name_adm1":"Kanton Solothurn",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682365,
         102191581,
         404328457,
         85633051,
         1125860461,
-        102062823
+        102062823,
+        85682365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1394407129,
-    "wof:lastmodified":1564896347,
+    "wof:lastmodified":1565230625,
     "wof:name":"Niedererlinsbach",
     "wof:parent_id":404328457,
     "wof:placetype":"neighbourhood",
@@ -84,7 +84,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125860461,
+    "wof:supersedes":[
+        1125860461
+    ],
     "wof:tags":[]
 },
   "bbox": [

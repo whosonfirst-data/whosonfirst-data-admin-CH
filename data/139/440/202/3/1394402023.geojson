@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404570771,
         85633051,
         1309835337,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394402023,
-    "wof:lastmodified":1564896608,
+    "wof:lastmodified":1565230612,
     "wof:name":"Cuccarello",
     "wof:parent_id":404570771,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1309835337,
+    "wof:supersedes":[
+        1309835337
+    ],
     "wof:tags":[]
 },
   "bbox": [

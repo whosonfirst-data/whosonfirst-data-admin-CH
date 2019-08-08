@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570109,
         85633051,
         1126033995,
-        102062779
+        102062779,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1394397389,
-    "wof:lastmodified":1564896415,
+    "wof:lastmodified":1565230727,
     "wof:name":"Heitersberg",
     "wof:parent_id":404570109,
     "wof:placetype":"neighbourhood",
@@ -81,7 +81,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126033995,
+    "wof:supersedes":[
+        1126033995
+    ],
     "wof:tags":[]
 },
   "bbox": [

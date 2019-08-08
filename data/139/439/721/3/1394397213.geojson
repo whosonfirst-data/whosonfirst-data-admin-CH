@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton St. Gallen",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682341,
         102191581,
         404567763,
         85633051,
         1126029895,
-        102062963
+        102062963,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394397213,
-    "wof:lastmodified":1564896413,
+    "wof:lastmodified":1565230787,
     "wof:name":"Pf\u00e4fers Drof",
     "wof:parent_id":404567763,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126029895,
+    "wof:supersedes":[
+        1126029895
+    ],
     "wof:tags":[]
 },
   "bbox": [

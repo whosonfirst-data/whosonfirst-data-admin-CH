@@ -45,12 +45,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567723,
         85633051,
         1125840257,
-        102062957
+        102062957,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394406307,
-    "wof:lastmodified":1564896339,
+    "wof:lastmodified":1565230671,
     "wof:name":"Corte",
     "wof:parent_id":404567723,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125840257,
+    "wof:supersedes":[
+        1125840257
+    ],
     "wof:tags":[]
 },
   "bbox": [

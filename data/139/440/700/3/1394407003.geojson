@@ -45,12 +45,12 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
         404568901,
         85633051,
         1125855157,
-        102062783
+        102062783,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394407003,
-    "wof:lastmodified":1564896346,
+    "wof:lastmodified":1565230581,
     "wof:name":"L'alpe Des Chaux",
     "wof:parent_id":404568901,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125855157,
+    "wof:supersedes":[
+        1125855157
+    ],
     "wof:tags":[]
 },
   "bbox": [

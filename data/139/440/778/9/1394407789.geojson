@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404572051,
         85633051,
         1243207283,
-        102062801
+        102062801,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394407789,
-    "wof:lastmodified":1564896507,
+    "wof:lastmodified":1565230621,
     "wof:name":"Im Ribi",
     "wof:parent_id":404572051,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243207283,
+    "wof:supersedes":[
+        1243207283
+    ],
     "wof:tags":[]
 },
   "bbox": [

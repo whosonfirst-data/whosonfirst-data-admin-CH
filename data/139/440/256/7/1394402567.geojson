@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682291,
         102191581,
         404328459,
         85633051,
         1225878393,
-        102062917
+        102062917,
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +56,15 @@
         }
     ],
     "wof:id":1394402567,
-    "wof:lastmodified":1564896462,
+    "wof:lastmodified":1565230610,
     "wof:name":"Chevrens",
     "wof:parent_id":404328459,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1225878393,
+    "wof:supersedes":[
+        1225878393
+    ],
     "wof:tags":[]
 },
   "bbox": [

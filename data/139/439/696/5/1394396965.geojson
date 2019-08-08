@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328317,
         85633051,
         1276695823,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394396965,
-    "wof:lastmodified":1564896563,
+    "wof:lastmodified":1565230779,
     "wof:name":"Chollertobel",
     "wof:parent_id":404328317,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276695823,
+    "wof:supersedes":[
+        1276695823
+    ],
     "wof:tags":[]
 },
   "bbox": [

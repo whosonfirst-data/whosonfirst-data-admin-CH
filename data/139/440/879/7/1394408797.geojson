@@ -48,12 +48,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567877,
         85633051,
         1125908485,
-        102063031
+        102063031,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394408797,
-    "wof:lastmodified":1564896363,
+    "wof:lastmodified":1565230650,
     "wof:name":"Feld",
     "wof:parent_id":404567877,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125908485,
+    "wof:supersedes":[
+        1125908485
+    ],
     "wof:tags":[]
 },
   "bbox": [

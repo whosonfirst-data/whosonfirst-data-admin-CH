@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682325,
         102191581,
         404568127,
         85633051,
         1277013621,
-        102062813
+        102062813,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394397707,
-    "wof:lastmodified":1564896569,
+    "wof:lastmodified":1565230754,
     "wof:name":"La Chaux",
     "wof:parent_id":404568127,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1277013621,
+    "wof:supersedes":[
+        1277013621
+    ],
     "wof:tags":[]
 },
   "bbox": [

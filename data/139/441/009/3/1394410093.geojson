@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682325,
         102191581,
         404570157,
         85633051,
         1259620215,
-        102063047
+        102063047,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394410093,
-    "wof:lastmodified":1564896526,
+    "wof:lastmodified":1565230705,
     "wof:name":"Bossieres",
     "wof:parent_id":404570157,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259620215,
+    "wof:supersedes":[
+        1259620215
+    ],
     "wof:tags":[]
 },
   "bbox": [

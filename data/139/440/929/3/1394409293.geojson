@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568761,
         85633051,
         1343396839,
-        102063013
+        102063013,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394409293,
-    "wof:lastmodified":1564896670,
+    "wof:lastmodified":1565230684,
     "wof:name":"Chlyrot",
     "wof:parent_id":404568761,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343396839,
+    "wof:supersedes":[
+        1343396839
+    ],
     "wof:tags":[]
 },
   "bbox": [

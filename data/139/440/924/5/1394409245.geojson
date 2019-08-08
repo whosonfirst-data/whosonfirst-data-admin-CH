@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568307,
         85633051,
         1343395293,
-        102062857
+        102062857,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394409245,
-    "wof:lastmodified":1564896670,
+    "wof:lastmodified":1565230622,
     "wof:name":"Suvretta",
     "wof:parent_id":404568307,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343395293,
+    "wof:supersedes":[
+        1343395293
+    ],
     "wof:tags":[]
 },
   "bbox": [

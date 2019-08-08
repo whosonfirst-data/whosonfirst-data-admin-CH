@@ -101,12 +101,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568091,
         85633051,
         1125775627,
-        102062885
+        102062885,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1394395453,
-    "wof:lastmodified":1564896241,
+    "wof:lastmodified":1565230754,
     "wof:name":"Lenzerheide",
     "wof:parent_id":404568091,
     "wof:placetype":"neighbourhood",
@@ -138,7 +138,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125775627,
+    "wof:supersedes":[
+        1125775627
+    ],
     "wof:tags":[]
 },
   "bbox": [

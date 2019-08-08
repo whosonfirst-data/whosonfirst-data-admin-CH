@@ -41,12 +41,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404571963,
         85633051,
         1326561127,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394405225,
-    "wof:lastmodified":1564896636,
+    "wof:lastmodified":1565230690,
     "wof:name":"Bueren zum Hof",
     "wof:parent_id":404571963,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326561127,
+    "wof:supersedes":[
+        1326561127
+    ],
     "wof:tags":[]
 },
   "bbox": [

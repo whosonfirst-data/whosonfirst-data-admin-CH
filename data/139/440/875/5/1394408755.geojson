@@ -82,12 +82,12 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682329,
         102191581,
         404568551,
         85633051,
         1125904277,
-        102062977
+        102062977,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1394408755,
-    "wof:lastmodified":1564896362,
+    "wof:lastmodified":1565230596,
     "wof:name":"Oberhofen bei Etzgen",
     "wof:parent_id":404568551,
     "wof:placetype":"neighbourhood",
@@ -119,7 +119,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125904277,
+    "wof:supersedes":[
+        1125904277
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -48,12 +48,12 @@
     "woe:name_adm1":"Kanton Obwalden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682371,
         102191581,
         404328151,
         85633051,
         1125807213,
-        102062787
+        102062787,
+        85682371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394396157,
-    "wof:lastmodified":1564896248,
+    "wof:lastmodified":1565230771,
     "wof:name":"Arni Alp",
     "wof:parent_id":404328151,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125807213,
+    "wof:supersedes":[
+        1125807213
+    ],
     "wof:tags":[]
 },
   "bbox": [

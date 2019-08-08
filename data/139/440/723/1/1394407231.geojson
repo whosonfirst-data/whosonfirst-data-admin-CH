@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567959,
         85633051,
         1327067195,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394407231,
-    "wof:lastmodified":1564896653,
+    "wof:lastmodified":1565230627,
     "wof:name":"Kalchstatten",
     "wof:parent_id":404567959,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1327067195,
+    "wof:supersedes":[
+        1327067195
+    ],
     "wof:tags":[]
 },
   "bbox": [

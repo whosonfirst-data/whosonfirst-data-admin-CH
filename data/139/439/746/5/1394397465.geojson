@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567907,
         85633051,
         1276906087,
-        102062821
+        102062821,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394397465,
-    "wof:lastmodified":1564896567,
+    "wof:lastmodified":1565230755,
     "wof:name":"Giebel",
     "wof:parent_id":404567907,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276906087,
+    "wof:supersedes":[
+        1276906087
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682301,
         102191581,
         404568267,
         85633051,
         1243208843,
-        102062891
+        102062891,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394407871,
-    "wof:lastmodified":1564896508,
+    "wof:lastmodified":1565230691,
     "wof:name":"Heitiwil",
     "wof:parent_id":404568267,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243208843,
+    "wof:supersedes":[
+        1243208843
+    ],
     "wof:tags":[]
 },
   "bbox": [

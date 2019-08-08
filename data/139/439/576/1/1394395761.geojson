@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568273,
         85633051,
         1125785769,
-        102062933
+        102062933,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394395761,
-    "wof:lastmodified":1564896244,
+    "wof:lastmodified":1565230784,
     "wof:name":"Landgricht",
     "wof:parent_id":404568273,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125785769,
+    "wof:supersedes":[
+        1125785769
+    ],
     "wof:tags":[]
 },
   "bbox": [

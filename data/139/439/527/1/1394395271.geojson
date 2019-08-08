@@ -52,12 +52,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567893,
         85633051,
         1125771785,
-        102062773
+        102062773,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,13 +80,15 @@
         }
     ],
     "wof:id":1394395271,
-    "wof:lastmodified":1564896240,
+    "wof:lastmodified":1565230751,
     "wof:name":"Affeier",
     "wof:parent_id":404567893,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125771785,
+    "wof:supersedes":[
+        1125771785
+    ],
     "wof:tags":[]
 },
   "bbox": [

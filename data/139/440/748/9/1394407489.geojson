@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton Zug",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682263,
         102191581,
         404328215,
         85633051,
         1125880037,
-        102063067
+        102063067,
+        85682263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394407489,
-    "wof:lastmodified":1564896350,
+    "wof:lastmodified":1565230628,
     "wof:name":"Gubel",
     "wof:parent_id":404328215,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125880037,
+    "wof:supersedes":[
+        1125880037
+    ],
     "wof:tags":[]
 },
   "bbox": [

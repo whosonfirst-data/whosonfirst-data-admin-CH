@@ -111,12 +111,12 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682301,
         102191581,
         404569697,
         85633051,
         1126027189,
-        102063029
+        102063029,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":1394396563,
-    "wof:lastmodified":1564896408,
+    "wof:lastmodified":1565230740,
     "wof:name":"Le Gl\u00e8be",
     "wof:parent_id":404569697,
     "wof:placetype":"neighbourhood",
@@ -148,7 +148,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126027189,
+    "wof:supersedes":[
+        1126027189
+    ],
     "wof:tags":[]
 },
   "bbox": [

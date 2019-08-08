@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568605,
         85633051,
         1259419429,
-        102062981
+        102062981,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +59,15 @@
         }
     ],
     "wof:id":1394409319,
-    "wof:lastmodified":1564896520,
+    "wof:lastmodified":1565230567,
     "wof:name":"Ettenhausen",
     "wof:parent_id":404568605,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259419429,
+    "wof:supersedes":[
+        1259419429
+    ],
     "wof:tags":[]
 },
   "bbox": [

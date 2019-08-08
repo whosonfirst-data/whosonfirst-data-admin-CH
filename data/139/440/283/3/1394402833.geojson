@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682325,
         102191581,
         404568849,
         85633051,
         1310040177,
-        102062969
+        102062969,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +56,15 @@
         }
     ],
     "wof:id":1394402833,
-    "wof:lastmodified":1564896615,
+    "wof:lastmodified":1565230650,
     "wof:name":"Champmartin",
     "wof:parent_id":404568849,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310040177,
+    "wof:supersedes":[
+        1310040177
+    ],
     "wof:tags":[]
 },
   "bbox": [

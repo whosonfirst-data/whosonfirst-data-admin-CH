@@ -58,12 +58,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404568633,
         85633051,
         1126044471,
-        102062991
+        102062991,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,13 +86,15 @@
         }
     ],
     "wof:id":1394397813,
-    "wof:lastmodified":1564896418,
+    "wof:lastmodified":1565230785,
     "wof:name":"Carasso",
     "wof:parent_id":404568633,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126044471,
+    "wof:supersedes":[
+        1126044471
+    ],
     "wof:tags":[]
 },
   "bbox": [

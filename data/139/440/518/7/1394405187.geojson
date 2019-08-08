@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567891,
         85633051,
         1226681075,
-        102062837
+        102062837,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394405187,
-    "wof:lastmodified":1564896485,
+    "wof:lastmodified":1565230625,
     "wof:name":"Spitzenhaus",
     "wof:parent_id":404567891,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226681075,
+    "wof:supersedes":[
+        1226681075
+    ],
     "wof:tags":[]
 },
   "bbox": [

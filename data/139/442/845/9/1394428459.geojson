@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682249,
         102191581,
         404328109,
         85633051,
         1343992865,
-        102063003
+        102063003,
+        85682249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394428459,
-    "wof:lastmodified":1564896689,
+    "wof:lastmodified":1565230795,
     "wof:name":"Tierfehd",
     "wof:parent_id":404328109,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343992865,
+    "wof:supersedes":[
+        1343992865
+    ],
     "wof:tags":[]
 },
   "bbox": [

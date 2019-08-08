@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404571389,
         85633051,
         1344192317,
-        102062773
+        102062773,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394428699,
-    "wof:lastmodified":1564896695,
+    "wof:lastmodified":1565230798,
     "wof:name":"Sontga Clau",
     "wof:parent_id":404571389,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1344192317,
+    "wof:supersedes":[
+        1344192317
+    ],
     "wof:tags":[]
 },
   "bbox": [

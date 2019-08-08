@@ -48,12 +48,12 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682365,
         102191581,
         404328457,
         85633051,
         1125771411,
-        102062823
+        102062823,
+        85682365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394395247,
-    "wof:lastmodified":1564896240,
+    "wof:lastmodified":1565230792,
     "wof:name":"Untererlinsbach",
     "wof:parent_id":404328457,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125771411,
+    "wof:supersedes":[
+        1125771411
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404570477,
         85633051,
         1343892233,
-        102062869
+        102062869,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394410837,
-    "wof:lastmodified":1564896684,
+    "wof:lastmodified":1565230701,
     "wof:name":"Neubruch",
     "wof:parent_id":404570477,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343892233,
+    "wof:supersedes":[
+        1343892233
+    ],
     "wof:tags":[]
 },
   "bbox": [

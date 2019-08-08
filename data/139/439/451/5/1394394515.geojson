@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Uri",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682377,
         102191581,
         404328117,
         85633051,
         1125987393,
-        102062879
+        102062879,
+        85682377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394394515,
-    "wof:lastmodified":1564896390,
+    "wof:lastmodified":1565230777,
     "wof:name":"Loch",
     "wof:parent_id":404328117,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125987393,
+    "wof:supersedes":[
+        1125987393
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -41,12 +41,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567817,
         85633051,
         1126055473,
-        102063037
+        102063037,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,13 +69,15 @@
         }
     ],
     "wof:id":1394397957,
-    "wof:lastmodified":1564896419,
+    "wof:lastmodified":1565230765,
     "wof:name":"Ried",
     "wof:parent_id":404567817,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126055473,
+    "wof:supersedes":[
+        1126055473
+    ],
     "wof:tags":[]
 },
   "bbox": [

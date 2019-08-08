@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404569867,
         85633051,
         1243487899,
-        102062975
+        102062975,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394408553,
-    "wof:lastmodified":1564896514,
+    "wof:lastmodified":1565230678,
     "wof:name":"Zandone",
     "wof:parent_id":404569867,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243487899,
+    "wof:supersedes":[
+        1243487899
+    ],
     "wof:tags":[]
 },
   "bbox": [

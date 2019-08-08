@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404571673,
         85633051,
         1344091643,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394428591,
-    "wof:lastmodified":1564896692,
+    "wof:lastmodified":1565230797,
     "wof:name":"Finate",
     "wof:parent_id":404571673,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1344091643,
+    "wof:supersedes":[
+        1344091643
+    ],
     "wof:tags":[]
 },
   "bbox": [

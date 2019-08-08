@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571153,
         85633051,
         1125837239,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1394406187,
-    "wof:lastmodified":1564896338,
+    "wof:lastmodified":1565230594,
     "wof:name":"Brunau",
     "wof:parent_id":404571153,
     "wof:placetype":"neighbourhood",
@@ -81,7 +81,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125837239,
+    "wof:supersedes":[
+        1125837239
+    ],
     "wof:tags":[]
 },
   "bbox": [

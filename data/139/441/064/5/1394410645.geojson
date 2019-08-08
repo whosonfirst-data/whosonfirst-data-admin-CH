@@ -103,12 +103,12 @@
     "woe:name_adm1":"Rh\u00f4ne-Alpes",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
         404571581,
         85633051,
         1125958753,
-        102062949
+        102062949,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1394410645,
-    "wof:lastmodified":1564896380,
+    "wof:lastmodified":1565230706,
     "wof:name":"B\u00e9cheret",
     "wof:parent_id":404571581,
     "wof:placetype":"neighbourhood",
@@ -140,7 +140,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125958753,
+    "wof:supersedes":[
+        1125958753
+    ],
     "wof:tags":[]
 },
   "bbox": [

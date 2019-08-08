@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569273,
         85633051,
         1125974063,
-        102062775
+        102062775,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394411123,
-    "wof:lastmodified":1564896385,
+    "wof:lastmodified":1565230717,
     "wof:name":"Schleetalbach",
     "wof:parent_id":404569273,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125974063,
+    "wof:supersedes":[
+        1125974063
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682365,
         102191581,
         404328873,
         85633051,
         1309842849,
-        102062823
+        102062823,
+        85682365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394402287,
-    "wof:lastmodified":1564896610,
+    "wof:lastmodified":1565230594,
     "wof:name":"Wil",
     "wof:parent_id":404328873,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1309842849,
+    "wof:supersedes":[
+        1309842849
+    ],
     "wof:tags":[]
 },
   "bbox": [

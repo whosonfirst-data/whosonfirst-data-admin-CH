@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567731,
         85633051,
         1226682125,
-        102062807
+        102062807,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394405221,
-    "wof:lastmodified":1564896485,
+    "wof:lastmodified":1565230690,
     "wof:name":"Somlaproz",
     "wof:parent_id":404567731,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226682125,
+    "wof:supersedes":[
+        1226682125
+    ],
     "wof:tags":[]
 },
   "bbox": [

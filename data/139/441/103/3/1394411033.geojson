@@ -40,12 +40,12 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
         404568419,
         85633051,
         1125973319,
-        102063049
+        102063049,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394411033,
-    "wof:lastmodified":1564896384,
+    "wof:lastmodified":1565230700,
     "wof:name":"Col de la Givrine",
     "wof:parent_id":404568419,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125973319,
+    "wof:supersedes":[
+        1125973319
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404573433,
         85633051,
         1309741473,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394401737,
-    "wof:lastmodified":1564896605,
+    "wof:lastmodified":1565230617,
     "wof:name":"Piazzo",
     "wof:parent_id":404573433,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1309741473,
+    "wof:supersedes":[
+        1309741473
+    ],
     "wof:tags":[]
 },
   "bbox": [

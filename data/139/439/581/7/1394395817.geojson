@@ -33,12 +33,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"quattroshapes_pg",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567903,
         85633051,
         1125788651,
-        102063035
+        102063035,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1394395817,
-    "wof:lastmodified":1564896245,
+    "wof:lastmodified":1565230749,
     "wof:name":"Cancori",
     "wof:parent_id":404567903,
     "wof:placetype":"neighbourhood",
@@ -68,7 +68,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125788651,
+    "wof:supersedes":[
+        1125788651
+    ],
     "wof:tags":[]
 },
   "bbox": [

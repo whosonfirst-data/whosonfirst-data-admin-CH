@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567723,
         85633051,
         1293327003,
-        102062957
+        102062957,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +59,15 @@
         }
     ],
     "wof:id":1394399571,
-    "wof:lastmodified":1564896587,
+    "wof:lastmodified":1565230756,
     "wof:name":"Prato",
     "wof:parent_id":404567723,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293327003,
+    "wof:supersedes":[
+        1293327003
+    ],
     "wof:tags":[]
 },
   "bbox": [

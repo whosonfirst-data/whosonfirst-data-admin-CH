@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569731,
         85633051,
         1125879143,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394407481,
-    "wof:lastmodified":1564896350,
+    "wof:lastmodified":1565230628,
     "wof:name":"Hasenstrick",
     "wof:parent_id":404569731,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125879143,
+    "wof:supersedes":[
+        1125879143
+    ],
     "wof:tags":[]
 },
   "bbox": [

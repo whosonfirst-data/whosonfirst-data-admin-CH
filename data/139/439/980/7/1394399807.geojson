@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567787,
         85633051,
         1293423657,
-        102062957
+        102062957,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394399807,
-    "wof:lastmodified":1564896589,
+    "wof:lastmodified":1565230787,
     "wof:name":"Rotonda",
     "wof:parent_id":404567787,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293423657,
+    "wof:supersedes":[
+        1293423657
+    ],
     "wof:tags":[]
 },
   "bbox": [

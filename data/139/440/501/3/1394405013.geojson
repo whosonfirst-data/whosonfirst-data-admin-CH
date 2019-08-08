@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568427,
         85633051,
         1226676719,
-        102062773
+        102062773,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394405013,
-    "wof:lastmodified":1564896483,
+    "wof:lastmodified":1565230636,
     "wof:name":"Obercastels",
     "wof:parent_id":404568427,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226676719,
+    "wof:supersedes":[
+        1226676719
+    ],
     "wof:tags":[]
 },
   "bbox": [

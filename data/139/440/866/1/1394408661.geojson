@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568445,
         85633051,
         1327470811,
-        102062909
+        102062909,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394408661,
-    "wof:lastmodified":1564896666,
+    "wof:lastmodified":1565230599,
     "wof:name":"Lindenhof",
     "wof:parent_id":404568445,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1327470811,
+    "wof:supersedes":[
+        1327470811
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682359,
         102191581,
         404568827,
         85633051,
         1293031347,
-        102063039
+        102063039,
+        85682359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394398519,
-    "wof:lastmodified":1564896577,
+    "wof:lastmodified":1565230742,
     "wof:name":"Les Petits Ponts",
     "wof:parent_id":404568827,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293031347,
+    "wof:supersedes":[
+        1293031347
+    ],
     "wof:tags":[]
 },
   "bbox": [

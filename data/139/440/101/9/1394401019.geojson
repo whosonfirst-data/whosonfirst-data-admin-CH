@@ -48,12 +48,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568083,
         85633051,
         1125815539,
-        102062923
+        102062923,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394401019,
-    "wof:lastmodified":1564896291,
+    "wof:lastmodified":1565230646,
     "wof:name":"Alp Laret-Dadaint",
     "wof:parent_id":404568083,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125815539,
+    "wof:supersedes":[
+        1125815539
+    ],
     "wof:tags":[]
 },
   "bbox": [

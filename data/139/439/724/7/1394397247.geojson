@@ -50,12 +50,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570293,
         85633051,
         1126032411,
-        102062775
+        102062775,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1394397247,
-    "wof:lastmodified":1564896413,
+    "wof:lastmodified":1565230752,
     "wof:name":"Kappel",
     "wof:parent_id":404570293,
     "wof:placetype":"neighbourhood",
@@ -86,7 +86,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126032411,
+    "wof:supersedes":[
+        1126032411
+    ],
     "wof:tags":[]
 },
   "bbox": [

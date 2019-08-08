@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567821,
         85633051,
         1125774655,
-        102062859
+        102062859,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394395447,
-    "wof:lastmodified":1564896241,
+    "wof:lastmodified":1565230751,
     "wof:name":"Grafenried",
     "wof:parent_id":404567821,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125774655,
+    "wof:supersedes":[
+        1125774655
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -43,12 +43,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568173,
         85633051,
         1125770439,
-        102062837
+        102062837,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,13 +71,15 @@
         }
     ],
     "wof:id":1394395111,
-    "wof:lastmodified":1564896239,
+    "wof:lastmodified":1565230753,
     "wof:name":"Bumbach",
     "wof:parent_id":404568173,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125770439,
+    "wof:supersedes":[
+        1125770439
+    ],
     "wof:tags":[]
 },
   "bbox": [

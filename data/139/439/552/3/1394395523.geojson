@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568935,
         85633051,
         1276160343,
-        102062909
+        102062909,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394395523,
-    "wof:lastmodified":1564896550,
+    "wof:lastmodified":1565230759,
     "wof:name":"Hardern",
     "wof:parent_id":404568935,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276160343,
+    "wof:supersedes":[
+        1276160343
+    ],
     "wof:tags":[]
 },
   "bbox": [

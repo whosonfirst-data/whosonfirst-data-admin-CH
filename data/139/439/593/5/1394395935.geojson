@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568649,
         85633051,
         1276370927,
-        102062955
+        102062955,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394395935,
-    "wof:lastmodified":1564896554,
+    "wof:lastmodified":1565230720,
     "wof:name":"Reuti",
     "wof:parent_id":404568649,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276370927,
+    "wof:supersedes":[
+        1276370927
+    ],
     "wof:tags":[]
 },
   "bbox": [

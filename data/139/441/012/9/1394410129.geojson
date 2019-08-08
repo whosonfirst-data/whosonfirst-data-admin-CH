@@ -44,12 +44,12 @@
     "woe:name_adm1":"Kanton Thurgau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568733,
         85633051,
         1125948869,
-        102062869
+        102062869,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,13 +72,15 @@
         }
     ],
     "wof:id":1394410129,
-    "wof:lastmodified":1564896375,
+    "wof:lastmodified":1565230701,
     "wof:name":"Hittingen",
     "wof:parent_id":404568733,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125948869,
+    "wof:supersedes":[
+        1125948869
+    ],
     "wof:tags":[]
 },
   "bbox": [

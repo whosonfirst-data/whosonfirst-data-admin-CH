@@ -115,12 +115,12 @@
     "woe:name_adm1":"Kanton Basel-Land",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682329,
         102191581,
         404571291,
         85633051,
         1126021521,
-        102062905
+        102062905,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,13 +143,15 @@
         }
     ],
     "wof:id":1394396237,
-    "wof:lastmodified":1564896405,
+    "wof:lastmodified":1565230770,
     "wof:name":"Augst",
     "wof:parent_id":404571291,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126021521,
+    "wof:supersedes":[
+        1126021521
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404569613,
         85633051,
         1259417249,
-        102062955
+        102062955,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394409185,
-    "wof:lastmodified":1564896519,
+    "wof:lastmodified":1565230686,
     "wof:name":"Hagenwil",
     "wof:parent_id":404569613,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259417249,
+    "wof:supersedes":[
+        1259417249
+    ],
     "wof:tags":[]
 },
   "bbox": [

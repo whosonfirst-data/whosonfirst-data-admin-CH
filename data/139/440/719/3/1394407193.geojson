@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton St. Gallen",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682341,
         102191581,
         404567749,
         85633051,
         1125863299,
-        102062963
+        102062963,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394407193,
-    "wof:lastmodified":1564896347,
+    "wof:lastmodified":1565230687,
     "wof:name":"Vermol",
     "wof:parent_id":404567749,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125863299,
+    "wof:supersedes":[
+        1125863299
+    ],
     "wof:tags":[]
 },
   "bbox": [

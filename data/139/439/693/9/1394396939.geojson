@@ -120,12 +120,12 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682329,
         102191581,
         404569039,
         85633051,
         1125808555,
-        102062841
+        102062841,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -149,13 +149,15 @@
         }
     ],
     "wof:id":1394396939,
-    "wof:lastmodified":1564896256,
+    "wof:lastmodified":1565230741,
     "wof:name":"Full",
     "wof:parent_id":404569039,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125808555,
+    "wof:supersedes":[
+        1125808555
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567835,
         85633051,
         1276589471,
-        102062915
+        102062915,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394396713,
-    "wof:lastmodified":1564896560,
+    "wof:lastmodified":1565230768,
     "wof:name":"La Fontaine",
     "wof:parent_id":404567835,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276589471,
+    "wof:supersedes":[
+        1276589471
+    ],
     "wof:tags":[]
 },
   "bbox": [

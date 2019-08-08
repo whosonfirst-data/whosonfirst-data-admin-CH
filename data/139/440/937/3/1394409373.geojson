@@ -40,12 +40,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404568633,
         85633051,
         1125929755,
-        102062991
+        102062991,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394409373,
-    "wof:lastmodified":1564896368,
+    "wof:lastmodified":1565230577,
     "wof:name":"Ravecchia",
     "wof:parent_id":404568633,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125929755,
+    "wof:supersedes":[
+        1125929755
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328291,
         85633051,
         1343596153,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394409907,
-    "wof:lastmodified":1564896676,
+    "wof:lastmodified":1565230578,
     "wof:name":"Etschenried",
     "wof:parent_id":404328291,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343596153,
+    "wof:supersedes":[
+        1343596153
+    ],
     "wof:tags":[]
 },
   "bbox": [

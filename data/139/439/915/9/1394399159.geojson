@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682341,
         102191581,
         404569941,
         85633051,
         1293232047,
-        102063005
+        102063005,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394399159,
-    "wof:lastmodified":1564896583,
+    "wof:lastmodified":1565230748,
     "wof:name":"Hirschensprung",
     "wof:parent_id":404569941,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293232047,
+    "wof:supersedes":[
+        1293232047
+    ],
     "wof:tags":[]
 },
   "bbox": [

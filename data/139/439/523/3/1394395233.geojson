@@ -118,12 +118,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568923,
         85633051,
         1125771351,
-        102062865
+        102062865,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,13 +147,15 @@
         }
     ],
     "wof:id":1394395233,
-    "wof:lastmodified":1564896240,
+    "wof:lastmodified":1565230791,
     "wof:name":"Sonceboz",
     "wof:parent_id":404568923,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125771351,
+    "wof:supersedes":[
+        1125771351
+    ],
     "wof:tags":[]
 },
   "bbox": [

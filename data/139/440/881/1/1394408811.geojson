@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404571043,
         85633051,
         1343293257,
-        102062965
+        102062965,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394408811,
-    "wof:lastmodified":1564896667,
+    "wof:lastmodified":1565230595,
     "wof:name":"Mieville",
     "wof:parent_id":404571043,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343293257,
+    "wof:supersedes":[
+        1343293257
+    ],
     "wof:tags":[]
 },
   "bbox": [

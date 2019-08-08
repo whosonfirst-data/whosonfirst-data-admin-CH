@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568691,
         85633051,
         1193171627,
-        102062909
+        102062909,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394398595,
-    "wof:lastmodified":1564896425,
+    "wof:lastmodified":1565230737,
     "wof:name":"Moosaffoltern",
     "wof:parent_id":404568691,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1193171627,
+    "wof:supersedes":[
+        1193171627
+    ],
     "wof:tags":[]
 },
   "bbox": [

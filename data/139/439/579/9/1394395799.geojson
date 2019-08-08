@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404569235,
         85633051,
         1276266175,
-        102062955
+        102062955,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394395799,
-    "wof:lastmodified":1564896552,
+    "wof:lastmodified":1565230789,
     "wof:name":"Altighofen",
     "wof:parent_id":404569235,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276266175,
+    "wof:supersedes":[
+        1276266175
+    ],
     "wof:tags":[]
 },
   "bbox": [

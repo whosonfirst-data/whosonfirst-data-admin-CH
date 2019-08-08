@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404567873,
         85633051,
         1125976751,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394394387,
-    "wof:lastmodified":1564896388,
+    "wof:lastmodified":1565230742,
     "wof:name":"Mattenbach (Kreis 7)",
     "wof:parent_id":404567873,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125976751,
+    "wof:supersedes":[
+        1125976751
+    ],
     "wof:tags":[]
 },
   "bbox": [

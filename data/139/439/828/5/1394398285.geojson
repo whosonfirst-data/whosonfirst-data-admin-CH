@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569731,
         85633051,
         1125811059,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394398285,
-    "wof:lastmodified":1564896268,
+    "wof:lastmodified":1565230733,
     "wof:name":"Mannenrain",
     "wof:parent_id":404569731,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125811059,
+    "wof:supersedes":[
+        1125811059
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -37,12 +37,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571553,
         85633051,
         1126029495,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1394397037,
-    "wof:lastmodified":1564896412,
+    "wof:lastmodified":1565230762,
     "wof:name":"Esslinger",
     "wof:parent_id":404571553,
     "wof:placetype":"neighbourhood",
@@ -72,7 +72,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126029495,
+    "wof:supersedes":[
+        1126029495
+    ],
     "wof:tags":[]
 },
   "bbox": [

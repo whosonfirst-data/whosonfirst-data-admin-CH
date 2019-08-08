@@ -270,12 +270,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568177,
         85633051,
         1126019829,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -299,13 +299,15 @@
         }
     ],
     "wof:id":1394396053,
-    "wof:lastmodified":1564896403,
+    "wof:lastmodified":1565230739,
     "wof:name":"Unter-Wohlen",
     "wof:parent_id":404568177,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126019829,
+    "wof:supersedes":[
+        1126019829
+    ],
     "wof:tags":[]
 },
   "bbox": [

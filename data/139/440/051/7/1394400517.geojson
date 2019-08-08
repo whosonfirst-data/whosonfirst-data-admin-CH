@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404569313,
         85633051,
         1293622781,
-        102063031
+        102063031,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394400517,
-    "wof:lastmodified":1564896595,
+    "wof:lastmodified":1565230679,
     "wof:name":"Chastebiel",
     "wof:parent_id":404569313,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293622781,
+    "wof:supersedes":[
+        1293622781
+    ],
     "wof:tags":[]
 },
   "bbox": [

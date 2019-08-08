@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328197,
         85633051,
         1226074693,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394403171,
-    "wof:lastmodified":1564896467,
+    "wof:lastmodified":1565230691,
     "wof:name":"Gummi",
     "wof:parent_id":404328197,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226074693,
+    "wof:supersedes":[
+        1226074693
+    ],
     "wof:tags":[]
 },
   "bbox": [

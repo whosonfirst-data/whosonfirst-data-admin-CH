@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682341,
         102191581,
         404567825,
         85633051,
         1277110819,
-        102062771
+        102062771,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394398095,
-    "wof:lastmodified":1564896573,
+    "wof:lastmodified":1565230777,
     "wof:name":"Lisighaus",
     "wof:parent_id":404567825,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1277110819,
+    "wof:supersedes":[
+        1277110819
+    ],
     "wof:tags":[]
 },
   "bbox": [

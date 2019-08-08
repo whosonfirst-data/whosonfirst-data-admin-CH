@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404570503,
         85633051,
         1326761491,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394405923,
-    "wof:lastmodified":1564896641,
+    "wof:lastmodified":1565230574,
     "wof:name":"Ratzenberg",
     "wof:parent_id":404570503,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326761491,
+    "wof:supersedes":[
+        1326761491
+    ],
     "wof:tags":[]
 },
   "bbox": [

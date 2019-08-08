@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404569351,
         85633051,
         1276374557,
-        102062955
+        102062955,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394396119,
-    "wof:lastmodified":1564896555,
+    "wof:lastmodified":1565230737,
     "wof:name":"Moos",
     "wof:parent_id":404569351,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276374557,
+    "wof:supersedes":[
+        1276374557
+    ],
     "wof:tags":[]
 },
   "bbox": [

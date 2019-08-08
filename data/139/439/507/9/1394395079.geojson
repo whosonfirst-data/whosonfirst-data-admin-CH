@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682361,
         102191581,
         404572199,
         85633051,
         1260321509,
-        102062757
+        102062757,
+        85682361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394395079,
-    "wof:lastmodified":1564896546,
+    "wof:lastmodified":1565230762,
     "wof:name":"Bluettenen",
     "wof:parent_id":404572199,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1260321509,
+    "wof:supersedes":[
+        1260321509
+    ],
     "wof:tags":[]
 },
   "bbox": [

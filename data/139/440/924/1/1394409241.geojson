@@ -48,12 +48,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568635,
         85633051,
         1125927577,
-        102062793
+        102062793,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394409241,
-    "wof:lastmodified":1564896367,
+    "wof:lastmodified":1565230622,
     "wof:name":"Granges-pr\u00e8s-Sion",
     "wof:parent_id":404568635,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125927577,
+    "wof:supersedes":[
+        1125927577
+    ],
     "wof:tags":[]
 },
   "bbox": [

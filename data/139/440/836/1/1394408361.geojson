@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404570459,
         85633051,
         1243399553,
-        102063063
+        102063063,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394408361,
-    "wof:lastmodified":1564896512,
+    "wof:lastmodified":1565230668,
     "wof:name":"Crocifisso",
     "wof:parent_id":404570459,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243399553,
+    "wof:supersedes":[
+        1243399553
+    ],
     "wof:tags":[]
 },
   "bbox": [

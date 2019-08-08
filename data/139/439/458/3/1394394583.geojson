@@ -126,12 +126,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569141,
         85633051,
         1125990415,
-        102062779
+        102062779,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,7 +155,7 @@
         }
     ],
     "wof:id":1394394583,
-    "wof:lastmodified":1564896391,
+    "wof:lastmodified":1565230774,
     "wof:name":"Oberhittnau",
     "wof:parent_id":404569141,
     "wof:placetype":"neighbourhood",
@@ -163,7 +163,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125990415,
+    "wof:supersedes":[
+        1125990415
+    ],
     "wof:tags":[]
 },
   "bbox": [

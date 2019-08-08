@@ -98,12 +98,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404570129,
         85633051,
         1126016057,
-        102062773
+        102062773,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1394395069,
-    "wof:lastmodified":1564896395,
+    "wof:lastmodified":1565230757,
     "wof:name":"Neukirch bei Ilanz",
     "wof:parent_id":404570129,
     "wof:placetype":"neighbourhood",
@@ -135,7 +135,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126016057,
+    "wof:supersedes":[
+        1126016057
+    ],
     "wof:tags":[]
 },
   "bbox": [

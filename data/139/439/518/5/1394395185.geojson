@@ -41,12 +41,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568559,
         85633051,
         1125771137,
-        102062837
+        102062837,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,13 +69,15 @@
         }
     ],
     "wof:id":1394395185,
-    "wof:lastmodified":1564896239,
+    "wof:lastmodified":1565230752,
     "wof:name":"Neum\u00fchle",
     "wof:parent_id":404568559,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125771137,
+    "wof:supersedes":[
+        1125771137
+    ],
     "wof:tags":[]
 },
   "bbox": [

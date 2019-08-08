@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682341,
         102191581,
         404569013,
         85633051,
         1226377309,
-        102062947
+        102062947,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394404203,
-    "wof:lastmodified":1564896476,
+    "wof:lastmodified":1565230660,
     "wof:name":"Riggenschwil",
     "wof:parent_id":404569013,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226377309,
+    "wof:supersedes":[
+        1226377309
+    ],
     "wof:tags":[]
 },
   "bbox": [

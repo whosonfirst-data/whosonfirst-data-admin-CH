@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568597,
         85633051,
         1125832333,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394405689,
-    "wof:lastmodified":1564896332,
+    "wof:lastmodified":1565230576,
     "wof:name":"Echtlenweg",
     "wof:parent_id":404568597,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125832333,
+    "wof:supersedes":[
+        1125832333
+    ],
     "wof:tags":[]
 },
   "bbox": [

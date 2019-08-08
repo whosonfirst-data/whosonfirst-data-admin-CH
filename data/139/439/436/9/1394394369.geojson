@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571535,
         85633051,
         1125975743,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394394369,
-    "wof:lastmodified":1564896388,
+    "wof:lastmodified":1565230741,
     "wof:name":"Erziehungsanstalt",
     "wof:parent_id":404571535,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125975743,
+    "wof:supersedes":[
+        1125975743
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -43,12 +43,12 @@
     "woe:name_adm1":"Kanton St. Gallen",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568373,
         85633051,
         1125948983,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1394410177,
-    "wof:lastmodified":1564896376,
+    "wof:lastmodified":1565230712,
     "wof:name":"Harschwil",
     "wof:parent_id":404568373,
     "wof:placetype":"neighbourhood",
@@ -79,7 +79,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125948983,
+    "wof:supersedes":[
+        1125948983
+    ],
     "wof:tags":[]
 },
   "bbox": [

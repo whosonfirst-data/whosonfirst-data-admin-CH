@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682301,
         102191581,
         404568267,
         85633051,
         1310535545,
-        102062891
+        102062891,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394404405,
-    "wof:lastmodified":1564896629,
+    "wof:lastmodified":1565230582,
     "wof:name":"Bundtels",
     "wof:parent_id":404568267,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310535545,
+    "wof:supersedes":[
+        1310535545
+    ],
     "wof:tags":[]
 },
   "bbox": [

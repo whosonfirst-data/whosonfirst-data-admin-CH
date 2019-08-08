@@ -103,12 +103,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569731,
         85633051,
         1125811223,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":1394398373,
-    "wof:lastmodified":1564896269,
+    "wof:lastmodified":1565230779,
     "wof:name":"Oberberg",
     "wof:parent_id":404569731,
     "wof:placetype":"neighbourhood",
@@ -139,7 +139,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125811223,
+    "wof:supersedes":[
+        1125811223
+    ],
     "wof:tags":[]
 },
   "bbox": [

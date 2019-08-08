@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568377,
         85633051,
         1125833169,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1394406057,
-    "wof:lastmodified":1564896336,
+    "wof:lastmodified":1565230602,
     "wof:name":"Rossweid",
     "wof:parent_id":404568377,
     "wof:placetype":"neighbourhood",
@@ -73,7 +73,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125833169,
+    "wof:supersedes":[
+        1125833169
+    ],
     "wof:tags":[]
 },
   "bbox": [

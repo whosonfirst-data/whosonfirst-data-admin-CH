@@ -40,12 +40,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404573305,
         85633051,
         1125936437,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394409925,
-    "wof:lastmodified":1564896374,
+    "wof:lastmodified":1565230636,
     "wof:name":"Ressiga",
     "wof:parent_id":404573305,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125936437,
+    "wof:supersedes":[
+        1125936437
+    ],
     "wof:tags":[]
 },
   "bbox": [

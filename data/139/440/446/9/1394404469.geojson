@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682347,
         102191581,
         404569547,
         85633051,
         1310537303,
-        102062791
+        102062791,
+        85682347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394404469,
-    "wof:lastmodified":1564896629,
+    "wof:lastmodified":1565230592,
     "wof:name":"Choindez",
     "wof:parent_id":404569547,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310537303,
+    "wof:supersedes":[
+        1310537303
+    ],
     "wof:tags":[]
 },
   "bbox": [

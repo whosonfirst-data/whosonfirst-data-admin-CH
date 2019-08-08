@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682325,
         102191581,
         404570603,
         85633051,
         1344188341,
-        102063049
+        102063049,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394428637,
-    "wof:lastmodified":1564896693,
+    "wof:lastmodified":1565230805,
     "wof:name":"Bugnaux",
     "wof:parent_id":404570603,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1344188341,
+    "wof:supersedes":[
+        1344188341
+    ],
     "wof:tags":[]
 },
   "bbox": [

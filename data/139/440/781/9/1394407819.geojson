@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682347,
         102191581,
         404568403,
         85633051,
         1243208371,
-        102062875
+        102062875,
+        85682347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394407819,
-    "wof:lastmodified":1564896507,
+    "wof:lastmodified":1565230685,
     "wof:name":"Les Prailats",
     "wof:parent_id":404568403,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243208371,
+    "wof:supersedes":[
+        1243208371
+    ],
     "wof:tags":[]
 },
   "bbox": [

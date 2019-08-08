@@ -34,12 +34,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568457,
         85633051,
         1276696367,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +59,15 @@
         }
     ],
     "wof:id":1394397005,
-    "wof:lastmodified":1564896563,
+    "wof:lastmodified":1565230728,
     "wof:name":"Hunzigenbrugg",
     "wof:parent_id":404568457,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276696367,
+    "wof:supersedes":[
+        1276696367
+    ],
     "wof:tags":[]
 },
   "bbox": [

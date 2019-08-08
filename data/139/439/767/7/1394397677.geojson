@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567855,
         85633051,
         1276912261,
-        102062845
+        102062845,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394397677,
-    "wof:lastmodified":1564896569,
+    "wof:lastmodified":1565230758,
     "wof:name":"Cresta",
     "wof:parent_id":404567855,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276912261,
+    "wof:supersedes":[
+        1276912261
+    ],
     "wof:tags":[]
 },
   "bbox": [

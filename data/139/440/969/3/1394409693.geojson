@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682341,
         102191581,
         404567749,
         85633051,
         1343591711,
-        102062963
+        102062963,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394409693,
-    "wof:lastmodified":1564896674,
+    "wof:lastmodified":1565230643,
     "wof:name":"Schwendi",
     "wof:parent_id":404567749,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343591711,
+    "wof:supersedes":[
+        1343591711
+    ],
     "wof:tags":[]
 },
   "bbox": [

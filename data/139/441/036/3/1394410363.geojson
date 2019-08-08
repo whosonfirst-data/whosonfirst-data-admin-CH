@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404571143,
         85633051,
         1259718113,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394410363,
-    "wof:lastmodified":1564896529,
+    "wof:lastmodified":1565230705,
     "wof:name":"Rutti",
     "wof:parent_id":404571143,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259718113,
+    "wof:supersedes":[
+        1259718113
+    ],
     "wof:tags":[]
 },
   "bbox": [

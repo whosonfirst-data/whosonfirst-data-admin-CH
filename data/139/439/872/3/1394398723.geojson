@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567697,
         85633051,
         1293035983,
-        102062807
+        102062807,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394398723,
-    "wof:lastmodified":1564896579,
+    "wof:lastmodified":1565230735,
     "wof:name":"Medieres",
     "wof:parent_id":404567697,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293035983,
+    "wof:supersedes":[
+        1293035983
+    ],
     "wof:tags":[]
 },
   "bbox": [

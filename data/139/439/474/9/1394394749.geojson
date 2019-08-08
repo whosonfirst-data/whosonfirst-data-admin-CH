@@ -71,12 +71,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404569411,
         85633051,
         1126003091,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1394394749,
-    "wof:lastmodified":1564896392,
+    "wof:lastmodified":1565230772,
     "wof:name":"Niederwichtrach",
     "wof:parent_id":404569411,
     "wof:placetype":"neighbourhood",
@@ -107,7 +107,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126003091,
+    "wof:supersedes":[
+        1126003091
+    ],
     "wof:tags":[]
 },
   "bbox": [

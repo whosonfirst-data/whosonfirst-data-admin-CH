@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682285,
         102191581,
         404328643,
         85633051,
         1276696533,
-        102063007
+        102063007,
+        85682285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394397025,
-    "wof:lastmodified":1564896563,
+    "wof:lastmodified":1565230757,
     "wof:name":"Chapf",
     "wof:parent_id":404328643,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276696533,
+    "wof:supersedes":[
+        1276696533
+    ],
     "wof:tags":[]
 },
   "bbox": [

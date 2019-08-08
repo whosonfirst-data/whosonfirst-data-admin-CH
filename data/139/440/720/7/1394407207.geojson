@@ -40,12 +40,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567797,
         85633051,
         1125864193,
-        102063023
+        102063023,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394407207,
-    "wof:lastmodified":1564896347,
+    "wof:lastmodified":1565230697,
     "wof:name":"Tschuggen",
     "wof:parent_id":404567797,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125864193,
+    "wof:supersedes":[
+        1125864193
+    ],
     "wof:tags":[]
 },
   "bbox": [

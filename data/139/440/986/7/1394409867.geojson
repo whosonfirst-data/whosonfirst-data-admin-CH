@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404569111,
         85633051,
         1343595679,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394409867,
-    "wof:lastmodified":1564896676,
+    "wof:lastmodified":1565230698,
     "wof:name":"Jassbach",
     "wof:parent_id":404569111,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343595679,
+    "wof:supersedes":[
+        1343595679
+    ],
     "wof:tags":[]
 },
   "bbox": [

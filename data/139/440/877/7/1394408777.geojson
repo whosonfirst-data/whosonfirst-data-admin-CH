@@ -40,12 +40,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567743,
         85633051,
         1125905017,
-        102062957
+        102062957,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394408777,
-    "wof:lastmodified":1564896363,
+    "wof:lastmodified":1565230652,
     "wof:name":"Robiei",
     "wof:parent_id":404567743,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125905017,
+    "wof:supersedes":[
+        1125905017
+    ],
     "wof:tags":[]
 },
   "bbox": [

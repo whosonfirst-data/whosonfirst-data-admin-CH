@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682371,
         102191581,
         404328151,
         85633051,
         1243101775,
-        102062787
+        102062787,
+        85682371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394407419,
-    "wof:lastmodified":1564896504,
+    "wof:lastmodified":1565230632,
     "wof:name":"Edisried",
     "wof:parent_id":404328151,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243101775,
+    "wof:supersedes":[
+        1243101775
+    ],
     "wof:tags":[]
 },
   "bbox": [

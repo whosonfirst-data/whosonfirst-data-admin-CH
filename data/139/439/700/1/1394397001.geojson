@@ -45,12 +45,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567731,
         85633051,
         1125808707,
-        102062807
+        102062807,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394397001,
-    "wof:lastmodified":1564896256,
+    "wof:lastmodified":1565230728,
     "wof:name":"Plan-de-la-Chaux",
     "wof:parent_id":404567731,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125808707,
+    "wof:supersedes":[
+        1125808707
+    ],
     "wof:tags":[]
 },
   "bbox": [

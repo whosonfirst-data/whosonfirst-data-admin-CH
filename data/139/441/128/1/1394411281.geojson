@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404569821,
         85633051,
         1260015623,
-        102062761
+        102062761,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394411281,
-    "wof:lastmodified":1564896538,
+    "wof:lastmodified":1565230708,
     "wof:name":"Miliut",
     "wof:parent_id":404569821,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1260015623,
+    "wof:supersedes":[
+        1260015623
+    ],
     "wof:tags":[]
 },
   "bbox": [

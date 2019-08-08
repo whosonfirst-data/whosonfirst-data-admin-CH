@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567725,
         85633051,
         1326664237,
-        102063031
+        102063031,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394405673,
-    "wof:lastmodified":1564896640,
+    "wof:lastmodified":1565230569,
     "wof:name":"Titter",
     "wof:parent_id":404567725,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326664237,
+    "wof:supersedes":[
+        1326664237
+    ],
     "wof:tags":[]
 },
   "bbox": [

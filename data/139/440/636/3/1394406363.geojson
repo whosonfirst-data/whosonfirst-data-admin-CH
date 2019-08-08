@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682329,
         102191581,
         404569073,
         85633051,
         1326864561,
-        102062809
+        102062809,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394406363,
-    "wof:lastmodified":1564896646,
+    "wof:lastmodified":1565230681,
     "wof:name":"Hagnau",
     "wof:parent_id":404569073,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326864561,
+    "wof:supersedes":[
+        1326864561
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568885,
         85633051,
         1293234765,
-        102062869
+        102062869,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394399203,
-    "wof:lastmodified":1564896583,
+    "wof:lastmodified":1565230785,
     "wof:name":"Unterschlatt",
     "wof:parent_id":404568885,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293234765,
+    "wof:supersedes":[
+        1293234765
+    ],
     "wof:tags":[]
 },
   "bbox": [

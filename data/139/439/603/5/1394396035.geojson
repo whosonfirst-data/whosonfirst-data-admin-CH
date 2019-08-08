@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568503,
         85633051,
         1125800143,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394396035,
-    "wof:lastmodified":1564896247,
+    "wof:lastmodified":1565230742,
     "wof:name":"Riet Bei Gibswil",
     "wof:parent_id":404568503,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125800143,
+    "wof:supersedes":[
+        1125800143
+    ],
     "wof:tags":[]
 },
   "bbox": [

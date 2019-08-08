@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682329,
         102191581,
         404568961,
         85633051,
         1344091337,
-        102062977
+        102062977,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394428579,
-    "wof:lastmodified":1564896692,
+    "wof:lastmodified":1565230798,
     "wof:name":"Sulzerberg",
     "wof:parent_id":404568961,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1344091337,
+    "wof:supersedes":[
+        1344091337
+    ],
     "wof:tags":[]
 },
   "bbox": [

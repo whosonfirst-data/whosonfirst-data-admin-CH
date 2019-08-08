@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682301,
         102191581,
         404569193,
         85633051,
         1209750205,
-        102062765
+        102062765,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +56,15 @@
         }
     ],
     "wof:id":1394401443,
-    "wof:lastmodified":1564896452,
+    "wof:lastmodified":1565230625,
     "wof:name":"Altavilla",
     "wof:parent_id":404569193,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1209750205,
+    "wof:supersedes":[
+        1209750205
+    ],
     "wof:tags":[]
 },
   "bbox": [

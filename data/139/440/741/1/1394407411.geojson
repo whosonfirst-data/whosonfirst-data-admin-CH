@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568373,
         85633051,
         1243101743,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394407411,
-    "wof:lastmodified":1564896504,
+    "wof:lastmodified":1565230632,
     "wof:name":"Unterbachtel",
     "wof:parent_id":404568373,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243101743,
+    "wof:supersedes":[
+        1243101743
+    ],
     "wof:tags":[]
 },
   "bbox": [

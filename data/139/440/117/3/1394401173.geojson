@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567889,
         85633051,
         1293817825,
-        102062821
+        102062821,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394401173,
-    "wof:lastmodified":1564896601,
+    "wof:lastmodified":1565230632,
     "wof:name":"Hinter Wallegg",
     "wof:parent_id":404567889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293817825,
+    "wof:supersedes":[
+        1293817825
+    ],
     "wof:tags":[]
 },
   "bbox": [

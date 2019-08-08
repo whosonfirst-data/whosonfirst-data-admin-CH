@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton St. Gallen",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682341,
         102191581,
         404568039,
         85633051,
         1125851885,
-        102062815
+        102062815,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394406533,
-    "wof:lastmodified":1564896341,
+    "wof:lastmodified":1565230676,
     "wof:name":"Arfenb\u00fchl",
     "wof:parent_id":404568039,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125851885,
+    "wof:supersedes":[
+        1125851885
+    ],
     "wof:tags":[]
 },
   "bbox": [

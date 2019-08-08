@@ -104,12 +104,12 @@
     "woe:name_adm1":"Kanton Luzern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682319,
         102191581,
         404328203,
         85633051,
         1125777329,
-        102062797
+        102062797,
+        85682319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1394395473,
-    "wof:lastmodified":1564896242,
+    "wof:lastmodified":1565230785,
     "wof:name":"Littau",
     "wof:parent_id":404328203,
     "wof:placetype":"neighbourhood",
@@ -141,7 +141,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125777329,
+    "wof:supersedes":[
+        1125777329
+    ],
     "wof:tags":[]
 },
   "bbox": [

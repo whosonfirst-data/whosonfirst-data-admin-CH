@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682377,
         102191581,
         404328121,
         85633051,
         1293322945,
-        102062879
+        102062879,
+        85682377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394399383,
-    "wof:lastmodified":1564896585,
+    "wof:lastmodified":1565230719,
     "wof:name":"Farnigen",
     "wof:parent_id":404328121,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293322945,
+    "wof:supersedes":[
+        1293322945
+    ],
     "wof:tags":[]
 },
   "bbox": [

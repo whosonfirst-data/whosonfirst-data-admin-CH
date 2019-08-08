@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682377,
         102191581,
         404328171,
         85633051,
         1326663923,
-        102062879
+        102062879,
+        85682377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394405633,
-    "wof:lastmodified":1564896639,
+    "wof:lastmodified":1565230640,
     "wof:name":"Orthalden",
     "wof:parent_id":404328171,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326663923,
+    "wof:supersedes":[
+        1326663923
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682263,
         102191581,
         404328235,
         85633051,
         1226682877,
-        102063067
+        102063067,
+        85682263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394405267,
-    "wof:lastmodified":1564896485,
+    "wof:lastmodified":1565230619,
     "wof:name":"Inwil",
     "wof:parent_id":404328235,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226682877,
+    "wof:supersedes":[
+        1226682877
+    ],
     "wof:tags":[]
 },
   "bbox": [

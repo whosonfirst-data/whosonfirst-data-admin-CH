@@ -133,12 +133,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404572089,
         85633051,
         1126022693,
-        102063061
+        102063061,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -162,13 +162,15 @@
         }
     ],
     "wof:id":1394396303,
-    "wof:lastmodified":1564896406,
+    "wof:lastmodified":1565230777,
     "wof:name":"Oberhofen",
     "wof:parent_id":404572089,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126022693,
+    "wof:supersedes":[
+        1126022693
+    ],
     "wof:tags":[]
 },
   "bbox": [

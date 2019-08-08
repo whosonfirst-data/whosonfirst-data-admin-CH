@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682365,
         102191581,
         404328615,
         85633051,
         1277019403,
-        102062823
+        102062823,
+        85682365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394397935,
-    "wof:lastmodified":1564896571,
+    "wof:lastmodified":1565230759,
     "wof:name":"Steffen",
     "wof:parent_id":404328615,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1277019403,
+    "wof:supersedes":[
+        1277019403
+    ],
     "wof:tags":[]
 },
   "bbox": [

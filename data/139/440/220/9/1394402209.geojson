@@ -36,12 +36,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328291,
         85633051,
         1210047875,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +61,15 @@
         }
     ],
     "wof:id":1394402209,
-    "wof:lastmodified":1564896459,
+    "wof:lastmodified":1565230585,
     "wof:name":"Kleinbiel",
     "wof:parent_id":404328291,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1210047875,
+    "wof:supersedes":[
+        1210047875
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404570881,
         85633051,
         1343597569,
-        102062959
+        102062959,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394409943,
-    "wof:lastmodified":1564896677,
+    "wof:lastmodified":1565230642,
     "wof:name":"Steineloh",
     "wof:parent_id":404570881,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343597569,
+    "wof:supersedes":[
+        1343597569
+    ],
     "wof:tags":[]
 },
   "bbox": [

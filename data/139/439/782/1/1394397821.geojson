@@ -40,12 +40,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567987,
         85633051,
         1126044645,
-        102062975
+        102062975,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394397821,
-    "wof:lastmodified":1564896418,
+    "wof:lastmodified":1565230751,
     "wof:name":"Pila",
     "wof:parent_id":404567987,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126044645,
+    "wof:supersedes":[
+        1126044645
+    ],
     "wof:tags":[]
 },
   "bbox": [

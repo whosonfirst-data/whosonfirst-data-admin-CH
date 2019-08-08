@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton Basel-Land",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682361,
         102191581,
         404571701,
         85633051,
         1125855825,
-        102062819
+        102062819,
+        85682361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394407031,
-    "wof:lastmodified":1564896346,
+    "wof:lastmodified":1565230643,
     "wof:name":"Ramsach Bad",
     "wof:parent_id":404571701,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125855825,
+    "wof:supersedes":[
+        1125855825
+    ],
     "wof:tags":[]
 },
   "bbox": [

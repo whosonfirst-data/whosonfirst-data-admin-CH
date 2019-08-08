@@ -262,12 +262,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682341,
         102191581,
         404568129,
         85633051,
         1125918283,
-        102062847
+        102062847,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -290,7 +290,7 @@
         }
     ],
     "wof:id":1394409113,
-    "wof:lastmodified":1564896366,
+    "wof:lastmodified":1565230682,
     "wof:name":"Sankt Gallen",
     "wof:parent_id":404568129,
     "wof:placetype":"neighbourhood",
@@ -298,7 +298,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125918283,
+    "wof:supersedes":[
+        1125918283
+    ],
     "wof:tags":[]
 },
   "bbox": [

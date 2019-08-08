@@ -65,12 +65,12 @@
     "woe:name_adm1":"Kanton St. Gallen",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682341,
         102191581,
         404568073,
         85633051,
         1126016035,
-        102062771
+        102062771,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1394395061,
-    "wof:lastmodified":1564896395,
+    "wof:lastmodified":1565230758,
     "wof:name":"Kappel",
     "wof:parent_id":404568073,
     "wof:placetype":"neighbourhood",
@@ -101,7 +101,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126016035,
+    "wof:supersedes":[
+        1126016035
+    ],
     "wof:tags":[]
 },
   "bbox": [

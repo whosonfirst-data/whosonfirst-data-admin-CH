@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682301,
         102191581,
         404568983,
         85633051,
         1326660973,
-        102062891
+        102062891,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394405557,
-    "wof:lastmodified":1564896639,
+    "wof:lastmodified":1565230637,
     "wof:name":"Litzistorf",
     "wof:parent_id":404568983,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326660973,
+    "wof:supersedes":[
+        1326660973
+    ],
     "wof:tags":[]
 },
   "bbox": [

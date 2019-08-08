@@ -36,12 +36,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567707,
         85633051,
         1343597369,
-        102062985
+        102062985,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +61,15 @@
         }
     ],
     "wof:id":1394409931,
-    "wof:lastmodified":1564896677,
+    "wof:lastmodified":1565230640,
     "wof:name":"Villetta",
     "wof:parent_id":404567707,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343597369,
+    "wof:supersedes":[
+        1343597369
+    ],
     "wof:tags":[]
 },
   "bbox": [

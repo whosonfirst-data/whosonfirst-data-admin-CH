@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682329,
         102191581,
         404570137,
         85633051,
         1343595761,
-        102062809
+        102062809,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394409873,
-    "wof:lastmodified":1564896676,
+    "wof:lastmodified":1565230687,
     "wof:name":"Rustenschwil",
     "wof:parent_id":404570137,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343595761,
+    "wof:supersedes":[
+        1343595761
+    ],
     "wof:tags":[]
 },
   "bbox": [

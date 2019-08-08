@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568949,
         85633051,
         1293234357,
-        102062909
+        102062909,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394399179,
-    "wof:lastmodified":1564896583,
+    "wof:lastmodified":1565230790,
     "wof:name":"Jucher",
     "wof:parent_id":404568949,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293234357,
+    "wof:supersedes":[
+        1293234357
+    ],
     "wof:tags":[]
 },
   "bbox": [

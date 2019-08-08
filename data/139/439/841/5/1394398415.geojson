@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404573455,
         85633051,
         1193053979,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394398415,
-    "wof:lastmodified":1564896423,
+    "wof:lastmodified":1565230766,
     "wof:name":"Cortivallo",
     "wof:parent_id":404573455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1193053979,
+    "wof:supersedes":[
+        1193053979
+    ],
     "wof:tags":[]
 },
   "bbox": [

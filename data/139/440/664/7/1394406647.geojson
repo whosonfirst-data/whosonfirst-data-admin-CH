@@ -40,12 +40,12 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
         404568903,
         85633051,
         1125852361,
-        102062833
+        102062833,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394406647,
-    "wof:lastmodified":1564896342,
+    "wof:lastmodified":1565230668,
     "wof:name":"L'Alliaz",
     "wof:parent_id":404568903,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125852361,
+    "wof:supersedes":[
+        1125852361
+    ],
     "wof:tags":[]
 },
   "bbox": [

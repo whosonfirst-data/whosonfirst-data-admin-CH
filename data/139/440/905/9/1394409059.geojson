@@ -48,12 +48,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567827,
         85633051,
         1125915807,
-        102063023
+        102063023,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394409059,
-    "wof:lastmodified":1564896365,
+    "wof:lastmodified":1565230646,
     "wof:name":"Gmeinalp",
     "wof:parent_id":404567827,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125915807,
+    "wof:supersedes":[
+        1125915807
+    ],
     "wof:tags":[]
 },
   "bbox": [

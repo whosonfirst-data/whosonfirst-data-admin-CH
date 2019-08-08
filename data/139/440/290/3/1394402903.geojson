@@ -37,12 +37,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569055,
         85633051,
         1125818203,
-        102062933
+        102062933,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1394402903,
-    "wof:lastmodified":1564896308,
+    "wof:lastmodified":1565230678,
     "wof:name":"D\u00fcbendorf / Rietwiesenstrasse",
     "wof:parent_id":404569055,
     "wof:placetype":"neighbourhood",
@@ -72,7 +72,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125818203,
+    "wof:supersedes":[
+        1125818203
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567957,
         85633051,
         1310340361,
-        102063001
+        102063001,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394403775,
-    "wof:lastmodified":1564896623,
+    "wof:lastmodified":1565230618,
     "wof:name":"Strassberg",
     "wof:parent_id":404567957,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310340361,
+    "wof:supersedes":[
+        1310340361
+    ],
     "wof:tags":[]
 },
   "bbox": [

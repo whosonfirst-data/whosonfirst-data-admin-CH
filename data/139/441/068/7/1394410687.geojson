@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570721,
         85633051,
         1343799197,
-        102062801
+        102062801,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394410687,
-    "wof:lastmodified":1564896683,
+    "wof:lastmodified":1565230715,
     "wof:name":"Halden",
     "wof:parent_id":404570721,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343799197,
+    "wof:supersedes":[
+        1343799197
+    ],
     "wof:tags":[]
 },
   "bbox": [

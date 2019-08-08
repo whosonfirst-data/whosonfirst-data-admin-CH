@@ -45,12 +45,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404571241,
         85633051,
         1125928615,
-        102062985
+        102062985,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394409251,
-    "wof:lastmodified":1564896367,
+    "wof:lastmodified":1565230629,
     "wof:name":"Agettes",
     "wof:parent_id":404571241,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125928615,
+    "wof:supersedes":[
+        1125928615
+    ],
     "wof:tags":[]
 },
   "bbox": [

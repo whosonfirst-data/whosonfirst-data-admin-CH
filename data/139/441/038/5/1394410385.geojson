@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404570945,
         85633051,
         1259718473,
-        102062931
+        102062931,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394410385,
-    "wof:lastmodified":1564896529,
+    "wof:lastmodified":1565230704,
     "wof:name":"Pasquerio",
     "wof:parent_id":404570945,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259718473,
+    "wof:supersedes":[
+        1259718473
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -60,12 +60,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569137,
         85633051,
         1125833411,
-        102062775
+        102062775,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1394406119,
-    "wof:lastmodified":1564896337,
+    "wof:lastmodified":1565230598,
     "wof:name":"Dachlissen",
     "wof:parent_id":404569137,
     "wof:placetype":"neighbourhood",
@@ -97,7 +97,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125833411,
+    "wof:supersedes":[
+        1125833411
+    ],
     "wof:tags":[]
 },
   "bbox": [

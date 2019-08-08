@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568769,
         85633051,
         1327066367,
-        102062955
+        102062955,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394407169,
-    "wof:lastmodified":1564896653,
+    "wof:lastmodified":1565230696,
     "wof:name":"Altenklingen",
     "wof:parent_id":404568769,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1327066367,
+    "wof:supersedes":[
+        1327066367
+    ],
     "wof:tags":[]
 },
   "bbox": [

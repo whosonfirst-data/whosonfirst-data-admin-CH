@@ -40,12 +40,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568355,
         85633051,
         1125852391,
-        102062827
+        102062827,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394406667,
-    "wof:lastmodified":1564896342,
+    "wof:lastmodified":1565230612,
     "wof:name":"La Muraz",
     "wof:parent_id":404568355,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125852391,
+    "wof:supersedes":[
+        1125852391
+    ],
     "wof:tags":[]
 },
   "bbox": [

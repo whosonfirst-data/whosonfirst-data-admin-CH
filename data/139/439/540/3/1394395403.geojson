@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682347,
         102191581,
         404568979,
         85633051,
         1276157845,
-        102062791
+        102062791,
+        85682347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394395403,
-    "wof:lastmodified":1564896549,
+    "wof:lastmodified":1565230786,
     "wof:name":"Sceut",
     "wof:parent_id":404568979,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276157845,
+    "wof:supersedes":[
+        1276157845
+    ],
     "wof:tags":[]
 },
   "bbox": [

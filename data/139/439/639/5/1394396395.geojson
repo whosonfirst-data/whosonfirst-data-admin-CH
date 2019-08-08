@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567939,
         85633051,
         1276481705,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394396395,
-    "wof:lastmodified":1564896558,
+    "wof:lastmodified":1565230778,
     "wof:name":"Eywald",
     "wof:parent_id":404567939,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276481705,
+    "wof:supersedes":[
+        1276481705
+    ],
     "wof:tags":[]
 },
   "bbox": [

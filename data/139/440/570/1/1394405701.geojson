@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682371,
         102191581,
         404328127,
         85633051,
         1326664725,
-        102062787
+        102062787,
+        85682371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394405701,
-    "wof:lastmodified":1564896640,
+    "wof:lastmodified":1565230693,
     "wof:name":"Furmatt",
     "wof:parent_id":404328127,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326664725,
+    "wof:supersedes":[
+        1326664725
+    ],
     "wof:tags":[]
 },
   "bbox": [

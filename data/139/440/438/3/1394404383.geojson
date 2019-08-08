@@ -120,12 +120,12 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404569691,
         85633051,
         1125827719,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -149,7 +149,7 @@
         }
     ],
     "wof:id":1394404383,
-    "wof:lastmodified":1564896321,
+    "wof:lastmodified":1565230610,
     "wof:name":"Arni-Islisberg",
     "wof:parent_id":404569691,
     "wof:placetype":"neighbourhood",
@@ -157,7 +157,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125827719,
+    "wof:supersedes":[
+        1125827719
+    ],
     "wof:tags":[]
 },
   "bbox": [

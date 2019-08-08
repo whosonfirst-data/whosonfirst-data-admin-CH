@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567717,
         85633051,
         1260116711,
-        102062803
+        102062803,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394394523,
-    "wof:lastmodified":1564896541,
+    "wof:lastmodified":1565230740,
     "wof:name":"Sardasca",
     "wof:parent_id":404567717,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1260116711,
+    "wof:supersedes":[
+        1260116711
+    ],
     "wof:tags":[]
 },
   "bbox": [

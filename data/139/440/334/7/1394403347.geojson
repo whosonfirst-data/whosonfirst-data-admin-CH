@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682285,
         102191581,
         404328687,
         85633051,
         1310235859,
-        102063007
+        102063007,
+        85682285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394403347,
-    "wof:lastmodified":1564896619,
+    "wof:lastmodified":1565230645,
     "wof:name":"Risibuck",
     "wof:parent_id":404328687,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310235859,
+    "wof:supersedes":[
+        1310235859
+    ],
     "wof:tags":[]
 },
   "bbox": [

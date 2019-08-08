@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568383,
         85633051,
         1276909253,
-        102062953
+        102062953,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394397525,
-    "wof:lastmodified":1564896568,
+    "wof:lastmodified":1565230719,
     "wof:name":"Engelswilen",
     "wof:parent_id":404568383,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276909253,
+    "wof:supersedes":[
+        1276909253
+    ],
     "wof:tags":[]
 },
   "bbox": [

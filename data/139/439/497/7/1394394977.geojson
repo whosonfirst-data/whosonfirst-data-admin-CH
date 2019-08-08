@@ -55,12 +55,12 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682301,
         102191581,
         404568671,
         85633051,
         1126007403,
-        102063029
+        102063029,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1394394977,
-    "wof:lastmodified":1564896394,
+    "wof:lastmodified":1565230739,
     "wof:name":"Praroman",
     "wof:parent_id":404568671,
     "wof:placetype":"neighbourhood",
@@ -92,7 +92,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126007403,
+    "wof:supersedes":[
+        1126007403
+    ],
     "wof:tags":[]
 },
   "bbox": [

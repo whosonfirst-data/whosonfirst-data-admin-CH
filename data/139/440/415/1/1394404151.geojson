@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682301,
         102191581,
         404568983,
         85633051,
         1226376277,
-        102062891
+        102062891,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394404151,
-    "wof:lastmodified":1564896475,
+    "wof:lastmodified":1565230595,
     "wof:name":"Fendringen",
     "wof:parent_id":404568983,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226376277,
+    "wof:supersedes":[
+        1226376277
+    ],
     "wof:tags":[]
 },
   "bbox": [

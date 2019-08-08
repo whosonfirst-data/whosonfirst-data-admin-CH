@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682341,
         102191581,
         404568277,
         85633051,
         1226576741,
-        102062755
+        102062755,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394404747,
-    "wof:lastmodified":1564896480,
+    "wof:lastmodified":1565230663,
     "wof:name":"Rans",
     "wof:parent_id":404568277,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226576741,
+    "wof:supersedes":[
+        1226576741
+    ],
     "wof:tags":[]
 },
   "bbox": [

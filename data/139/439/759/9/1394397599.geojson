@@ -50,12 +50,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404571451,
         85633051,
         1276911379,
-        102063061
+        102063061,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394397599,
-    "wof:lastmodified":1564896568,
+    "wof:lastmodified":1565230765,
     "wof:name":"Ober Gurzelen",
     "wof:parent_id":404571451,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276911379,
+    "wof:supersedes":[
+        1276911379
+    ],
     "wof:tags":[]
 },
   "bbox": [

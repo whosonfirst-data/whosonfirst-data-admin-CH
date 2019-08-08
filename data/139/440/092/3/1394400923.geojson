@@ -41,12 +41,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568271,
         85633051,
         1293723677,
-        102062845
+        102062845,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +66,15 @@
         }
     ],
     "wof:id":1394400923,
-    "wof:lastmodified":1564896598,
+    "wof:lastmodified":1565230671,
     "wof:name":"Tomils",
     "wof:parent_id":404568271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293723677,
+    "wof:supersedes":[
+        1293723677
+    ],
     "wof:tags":[]
 },
   "bbox": [

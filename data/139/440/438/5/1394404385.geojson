@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682359,
         102191581,
         404567949,
         85633051,
         1226473689,
-        102062789
+        102062789,
+        85682359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394404385,
-    "wof:lastmodified":1564896477,
+    "wof:lastmodified":1565230610,
     "wof:name":"Les Eplatures",
     "wof:parent_id":404567949,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226473689,
+    "wof:supersedes":[
+        1226473689
+    ],
     "wof:tags":[]
 },
   "bbox": [

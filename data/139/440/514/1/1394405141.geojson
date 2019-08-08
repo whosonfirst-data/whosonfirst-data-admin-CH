@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569759,
         85633051,
         1125831499,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394405141,
-    "wof:lastmodified":1564896327,
+    "wof:lastmodified":1565230686,
     "wof:name":"Unter-F\u00e4gswil",
     "wof:parent_id":404569759,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125831499,
+    "wof:supersedes":[
+        1125831499
+    ],
     "wof:tags":[]
 },
   "bbox": [

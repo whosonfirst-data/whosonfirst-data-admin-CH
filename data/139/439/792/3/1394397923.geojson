@@ -40,12 +40,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567791,
         85633051,
         1126054877,
-        102062985
+        102062985,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394397923,
-    "wof:lastmodified":1564896419,
+    "wof:lastmodified":1565230765,
     "wof:name":"Ausserholligen",
     "wof:parent_id":404567791,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126054877,
+    "wof:supersedes":[
+        1126054877
+    ],
     "wof:tags":[]
 },
   "bbox": [

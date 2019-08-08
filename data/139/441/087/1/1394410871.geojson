@@ -40,12 +40,12 @@
     "woe:name_adm1":"Canton de Jura",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682347,
         102191581,
         404568689,
         85633051,
         1125965207,
-        102062875
+        102062875,
+        85682347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394410871,
-    "wof:lastmodified":1564896382,
+    "wof:lastmodified":1565230710,
     "wof:name":"Pr\u00e9 Petitjean",
     "wof:parent_id":404568689,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125965207,
+    "wof:supersedes":[
+        1125965207
+    ],
     "wof:tags":[]
 },
   "bbox": [

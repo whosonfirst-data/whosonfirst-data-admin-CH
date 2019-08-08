@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568829,
         85633051,
         1125808621,
-        102063019
+        102063019,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394396981,
-    "wof:lastmodified":1564896256,
+    "wof:lastmodified":1565230780,
     "wof:name":"Wiesli",
     "wof:parent_id":404568829,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125808621,
+    "wof:supersedes":[
+        1125808621
+    ],
     "wof:tags":[]
 },
   "bbox": [

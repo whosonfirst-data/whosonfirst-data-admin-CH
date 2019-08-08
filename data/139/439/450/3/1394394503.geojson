@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404571885,
         85633051,
         1260116421,
-        102062869
+        102062869,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394394503,
-    "wof:lastmodified":1564896541,
+    "wof:lastmodified":1565230779,
     "wof:name":"Wis",
     "wof:parent_id":404571885,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1260116421,
+    "wof:supersedes":[
+        1260116421
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568177,
         85633051,
         1293326311,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394399505,
-    "wof:lastmodified":1564896586,
+    "wof:lastmodified":1565230756,
     "wof:name":"Luggli",
     "wof:parent_id":404568177,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293326311,
+    "wof:supersedes":[
+        1293326311
+    ],
     "wof:tags":[]
 },
   "bbox": [

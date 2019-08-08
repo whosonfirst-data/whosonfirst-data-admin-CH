@@ -36,12 +36,12 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682365,
         102191581,
         404328545,
         85633051,
         1326665119,
-        102062823
+        102062823,
+        85682365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1394405715,
-    "wof:lastmodified":1564896640,
+    "wof:lastmodified":1565230683,
     "wof:name":"Wangen",
     "wof:parent_id":404328545,
     "wof:placetype":"neighbourhood",
@@ -70,7 +70,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326665119,
+    "wof:supersedes":[
+        1326665119
+    ],
     "wof:tags":[]
 },
   "bbox": [

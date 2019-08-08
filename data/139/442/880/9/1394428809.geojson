@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682275,
         102191581,
         404328541,
         85633051,
         1360020305,
-        102062921
+        102062921,
+        85682275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394428809,
-    "wof:lastmodified":1564896698,
+    "wof:lastmodified":1565230796,
     "wof:name":"Lachen",
     "wof:parent_id":404328541,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1360020305,
+    "wof:supersedes":[
+        1360020305
+    ],
     "wof:tags":[]
 },
   "bbox": [

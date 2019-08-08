@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682305,
         102191581,
         404568319,
         85633051,
         1260214725,
-        102062927
+        102062927,
+        85682305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394394619,
-    "wof:lastmodified":1564896542,
+    "wof:lastmodified":1565230781,
     "wof:name":"Rempen",
     "wof:parent_id":404568319,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1260214725,
+    "wof:supersedes":[
+        1260214725
+    ],
     "wof:tags":[]
 },
   "bbox": [

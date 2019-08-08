@@ -112,12 +112,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567907,
         85633051,
         1126012141,
-        102062821
+        102062821,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":1394395015,
-    "wof:lastmodified":1564896395,
+    "wof:lastmodified":1565230758,
     "wof:name":"Sankt Stephan",
     "wof:parent_id":404567907,
     "wof:placetype":"neighbourhood",
@@ -148,7 +148,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126012141,
+    "wof:supersedes":[
+        1126012141
+    ],
     "wof:tags":[]
 },
   "bbox": [

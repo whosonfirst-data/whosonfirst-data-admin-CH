@@ -39,12 +39,12 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404569093,
         85633051,
         1209749201,
-        102062885
+        102062885,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1394401391,
-    "wof:lastmodified":1564896451,
+    "wof:lastmodified":1565230645,
     "wof:name":"Brienz",
     "wof:parent_id":404569093,
     "wof:placetype":"neighbourhood",
@@ -72,7 +72,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1209749201,
+    "wof:supersedes":[
+        1209749201
+    ],
     "wof:tags":[]
 },
   "bbox": [

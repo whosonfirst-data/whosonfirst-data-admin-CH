@@ -45,12 +45,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404568443,
         85633051,
         1125886429,
-        102062975
+        102062975,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394407645,
-    "wof:lastmodified":1564896352,
+    "wof:lastmodified":1565230566,
     "wof:name":"San Bartolomeo",
     "wof:parent_id":404568443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125886429,
+    "wof:supersedes":[
+        1125886429
+    ],
     "wof:tags":[]
 },
   "bbox": [

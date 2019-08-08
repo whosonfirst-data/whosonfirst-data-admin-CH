@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton Uri",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682377,
         102191581,
         404328143,
         85633051,
         1125982069,
-        102062879
+        102062879,
+        85682377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394394447,
-    "wof:lastmodified":1564896389,
+    "wof:lastmodified":1565230767,
     "wof:name":"Oberalp Pass",
     "wof:parent_id":404328143,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125982069,
+    "wof:supersedes":[
+        1125982069
+    ],
     "wof:tags":[]
 },
   "bbox": [

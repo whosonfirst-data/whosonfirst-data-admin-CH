@@ -43,12 +43,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568503,
         85633051,
         1125946795,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1394410069,
-    "wof:lastmodified":1564896375,
+    "wof:lastmodified":1565230707,
     "wof:name":"Sagens",
     "wof:parent_id":404568503,
     "wof:placetype":"neighbourhood",
@@ -79,7 +79,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125946795,
+    "wof:supersedes":[
+        1125946795
+    ],
     "wof:tags":[]
 },
   "bbox": [

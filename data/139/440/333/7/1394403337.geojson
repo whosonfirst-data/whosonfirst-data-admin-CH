@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404571065,
         85633051,
         1310235553,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394403337,
-    "wof:lastmodified":1564896619,
+    "wof:lastmodified":1565230646,
     "wof:name":"Doragno",
     "wof:parent_id":404571065,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310235553,
+    "wof:supersedes":[
+        1310235553
+    ],
     "wof:tags":[]
 },
   "bbox": [

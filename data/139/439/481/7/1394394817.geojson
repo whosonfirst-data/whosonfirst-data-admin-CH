@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568407,
         85633051,
         1108980237,
-        102062845
+        102062845,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1394394817,
-    "wof:lastmodified":1564896236,
+    "wof:lastmodified":1565230769,
     "wof:name":"Obertschappina",
     "wof:parent_id":404568407,
     "wof:placetype":"neighbourhood",
@@ -81,7 +81,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1108980237,
+    "wof:supersedes":[
+        1108980237
+    ],
     "wof:tags":[]
 },
   "bbox": [

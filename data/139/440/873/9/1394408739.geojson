@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569747,
         85633051,
         1243584247,
-        102062801
+        102062801,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394408739,
-    "wof:lastmodified":1564896515,
+    "wof:lastmodified":1565230589,
     "wof:name":"Ebnet",
     "wof:parent_id":404569747,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243584247,
+    "wof:supersedes":[
+        1243584247
+    ],
     "wof:tags":[]
 },
   "bbox": [

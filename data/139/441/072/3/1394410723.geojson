@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682329,
         102191581,
         404569199,
         85633051,
         1259817977,
-        102062989
+        102062989,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394410723,
-    "wof:lastmodified":1564896532,
+    "wof:lastmodified":1565230712,
     "wof:name":"Herzberg",
     "wof:parent_id":404569199,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259817977,
+    "wof:supersedes":[
+        1259817977
+    ],
     "wof:tags":[]
 },
   "bbox": [

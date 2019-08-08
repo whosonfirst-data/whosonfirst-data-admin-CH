@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682347,
         102191581,
         404568587,
         85633051,
         1243491299,
-        102062875
+        102062875,
+        85682347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394408699,
-    "wof:lastmodified":1564896515,
+    "wof:lastmodified":1565230608,
     "wof:name":"Les Barrieres",
     "wof:parent_id":404568587,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243491299,
+    "wof:supersedes":[
+        1243491299
+    ],
     "wof:tags":[]
 },
   "bbox": [

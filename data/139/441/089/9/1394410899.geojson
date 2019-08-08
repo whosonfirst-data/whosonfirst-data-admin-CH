@@ -45,12 +45,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567807,
         85633051,
         1259910377,
-        102062923
+        102062923,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,13 +71,15 @@
         }
     ],
     "wof:id":1394410899,
-    "wof:lastmodified":1564896533,
+    "wof:lastmodified":1565230710,
     "wof:name":"Sues",
     "wof:parent_id":404567807,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259910377,
+    "wof:supersedes":[
+        1259910377
+    ],
     "wof:tags":[]
 },
   "bbox": [

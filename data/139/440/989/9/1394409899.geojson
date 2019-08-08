@@ -57,12 +57,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         1175611159,
         85633051,
         1125935051,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,13 +86,15 @@
         }
     ],
     "wof:id":1394409899,
-    "wof:lastmodified":1564896373,
+    "wof:lastmodified":1565230689,
     "wof:name":"Br\u00e8",
     "wof:parent_id":1175611159,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125935051,
+    "wof:supersedes":[
+        1125935051
+    ],
     "wof:tags":[]
 },
   "bbox": [

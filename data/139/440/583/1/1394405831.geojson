@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404570391,
         85633051,
         1242614071,
-        102062953
+        102062953,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394405831,
-    "wof:lastmodified":1564896491,
+    "wof:lastmodified":1565230694,
     "wof:name":"Wiel",
     "wof:parent_id":404570391,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1242614071,
+    "wof:supersedes":[
+        1242614071
+    ],
     "wof:tags":[]
 },
   "bbox": [

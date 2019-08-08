@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328413,
         85633051,
         1226477235,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394404537,
-    "wof:lastmodified":1564896478,
+    "wof:lastmodified":1565230613,
     "wof:name":"OEltrotten",
     "wof:parent_id":404328413,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226477235,
+    "wof:supersedes":[
+        1226477235
+    ],
     "wof:tags":[]
 },
   "bbox": [

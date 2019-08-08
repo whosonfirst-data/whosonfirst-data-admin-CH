@@ -126,12 +126,12 @@
     "woe:name_adm1":"Valle d'Aosta",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568355,
         85633051,
         1126034161,
-        102062827
+        102062827,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,7 +155,7 @@
         }
     ],
     "wof:id":1394397435,
-    "wof:lastmodified":1564896415,
+    "wof:lastmodified":1565230784,
     "wof:name":"Saint-Leonard",
     "wof:parent_id":404568355,
     "wof:placetype":"neighbourhood",
@@ -163,7 +163,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126034161,
+    "wof:supersedes":[
+        1126034161
+    ],
     "wof:tags":[]
 },
   "bbox": [

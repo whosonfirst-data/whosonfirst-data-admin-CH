@@ -43,12 +43,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568875,
         85633051,
         1126018877,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1394395525,
-    "wof:lastmodified":1564896399,
+    "wof:lastmodified":1565230759,
     "wof:name":"Feldbach / Rosenberg",
     "wof:parent_id":404568875,
     "wof:placetype":"neighbourhood",
@@ -79,7 +79,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126018877,
+    "wof:supersedes":[
+        1126018877
+    ],
     "wof:tags":[]
 },
   "bbox": [

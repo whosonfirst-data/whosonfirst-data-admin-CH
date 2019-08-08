@@ -48,12 +48,12 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682329,
         102191581,
         404571161,
         85633051,
         1126044355,
-        102062877
+        102062877,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394397807,
-    "wof:lastmodified":1564896418,
+    "wof:lastmodified":1565230789,
     "wof:name":"Oberwil",
     "wof:parent_id":404571161,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126044355,
+    "wof:supersedes":[
+        1126044355
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -65,12 +65,12 @@
     "woe:name_adm1":"Kanton Schaffhausen",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569713,
         85633051,
         1125842491,
-        102062801
+        102062801,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1394406331,
-    "wof:lastmodified":1564896339,
+    "wof:lastmodified":1565230599,
     "wof:name":"Herblingen",
     "wof:parent_id":404569713,
     "wof:placetype":"neighbourhood",
@@ -102,7 +102,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125842491,
+    "wof:supersedes":[
+        1125842491
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404571209,
         85633051,
         1326965101,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394406791,
-    "wof:lastmodified":1564896649,
+    "wof:lastmodified":1565230663,
     "wof:name":"Tortoglio",
     "wof:parent_id":404571209,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326965101,
+    "wof:supersedes":[
+        1326965101
+    ],
     "wof:tags":[]
 },
   "bbox": [

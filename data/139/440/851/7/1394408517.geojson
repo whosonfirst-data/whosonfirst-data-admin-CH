@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404569441,
         85633051,
         1327468575,
-        102062953
+        102062953,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394408517,
-    "wof:lastmodified":1564896664,
+    "wof:lastmodified":1565230608,
     "wof:name":"Mellgenten",
     "wof:parent_id":404569441,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1327468575,
+    "wof:supersedes":[
+        1327468575
+    ],
     "wof:tags":[]
 },
   "bbox": [

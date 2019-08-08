@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404573439,
         85633051,
         1276371851,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394395969,
-    "wof:lastmodified":1564896554,
+    "wof:lastmodified":1565230763,
     "wof:name":"Careggio",
     "wof:parent_id":404573439,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276371851,
+    "wof:supersedes":[
+        1276371851
+    ],
     "wof:tags":[]
 },
   "bbox": [

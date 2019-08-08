@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682249,
         102191581,
         404328109,
         85633051,
         1259814723,
-        102063003
+        102063003,
+        85682249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394410611,
-    "wof:lastmodified":1564896531,
+    "wof:lastmodified":1565230714,
     "wof:name":"Dornhaus",
     "wof:parent_id":404328109,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259814723,
+    "wof:supersedes":[
+        1259814723
+    ],
     "wof:tags":[]
 },
   "bbox": [

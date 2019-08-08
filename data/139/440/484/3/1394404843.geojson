@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570235,
         85633051,
         1226577479,
-        102063019
+        102063019,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394404843,
-    "wof:lastmodified":1564896481,
+    "wof:lastmodified":1565230591,
     "wof:name":"Rueti",
     "wof:parent_id":404570235,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226577479,
+    "wof:supersedes":[
+        1226577479
+    ],
     "wof:tags":[]
 },
   "bbox": [

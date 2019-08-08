@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404569021,
         85633051,
         1327270895,
-        102063037
+        102063037,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394408003,
-    "wof:lastmodified":1564896660,
+    "wof:lastmodified":1565230665,
     "wof:name":"Steg-Gampel",
     "wof:parent_id":404569021,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1327270895,
+    "wof:supersedes":[
+        1327270895
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -115,12 +115,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568281,
         85633051,
         1125831283,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,7 +143,7 @@
         }
     ],
     "wof:id":1394404975,
-    "wof:lastmodified":1564896326,
+    "wof:lastmodified":1565230604,
     "wof:name":"Br\u00fctten",
     "wof:parent_id":404568281,
     "wof:placetype":"neighbourhood",
@@ -151,7 +151,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125831283,
+    "wof:supersedes":[
+        1125831283
+    ],
     "wof:tags":[]
 },
   "bbox": [

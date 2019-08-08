@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568371,
         85633051,
         1108980107,
-        102062779
+        102062779,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1394394805,
-    "wof:lastmodified":1564896235,
+    "wof:lastmodified":1565230772,
     "wof:name":"Ottikon",
     "wof:parent_id":404568371,
     "wof:placetype":"neighbourhood",
@@ -81,7 +81,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1108980107,
+    "wof:supersedes":[
+        1108980107
+    ],
     "wof:tags":[]
 },
   "bbox": [

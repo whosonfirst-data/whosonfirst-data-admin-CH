@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568177,
         85633051,
         1310535485,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394404387,
-    "wof:lastmodified":1564896629,
+    "wof:lastmodified":1565230610,
     "wof:name":"Oberdettigen",
     "wof:parent_id":404568177,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310535485,
+    "wof:supersedes":[
+        1310535485
+    ],
     "wof:tags":[]
 },
   "bbox": [

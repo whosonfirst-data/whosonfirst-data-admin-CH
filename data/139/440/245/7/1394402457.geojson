@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568617,
         85633051,
         1125817455,
-        102062779
+        102062779,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394402457,
-    "wof:lastmodified":1564896304,
+    "wof:lastmodified":1565230588,
     "wof:name":"Berg",
     "wof:parent_id":404568617,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125817455,
+    "wof:supersedes":[
+        1125817455
+    ],
     "wof:tags":[]
 },
   "bbox": [

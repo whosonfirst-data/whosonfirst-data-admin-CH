@@ -48,12 +48,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567981,
         85633051,
         1125929455,
-        102062975
+        102062975,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394409281,
-    "wof:lastmodified":1564896368,
+    "wof:lastmodified":1565230693,
     "wof:name":"Gerra",
     "wof:parent_id":404567981,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125929455,
+    "wof:supersedes":[
+        1125929455
+    ],
     "wof:tags":[]
 },
   "bbox": [

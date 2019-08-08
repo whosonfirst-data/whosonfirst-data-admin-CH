@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682341,
         102191581,
         404570435,
         85633051,
         1360019737,
-        102062815
+        102062815,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394428795,
-    "wof:lastmodified":1564896698,
+    "wof:lastmodified":1565230801,
     "wof:name":"Brugg",
     "wof:parent_id":404570435,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1360019737,
+    "wof:supersedes":[
+        1360019737
+    ],
     "wof:tags":[]
 },
   "bbox": [

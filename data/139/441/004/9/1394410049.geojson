@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682329,
         102191581,
         404570099,
         85633051,
         1259619563,
-        102062977
+        102062977,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394410049,
-    "wof:lastmodified":1564896526,
+    "wof:lastmodified":1565230713,
     "wof:name":"Galten",
     "wof:parent_id":404570099,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259619563,
+    "wof:supersedes":[
+        1259619563
+    ],
     "wof:tags":[]
 },
   "bbox": [

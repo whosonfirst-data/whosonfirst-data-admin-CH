@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682329,
         102191581,
         404569199,
         85633051,
         1125966867,
-        102062989
+        102062989,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394410897,
-    "wof:lastmodified":1564896382,
+    "wof:lastmodified":1565230710,
     "wof:name":"Staffelegg",
     "wof:parent_id":404569199,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125966867,
+    "wof:supersedes":[
+        1125966867
+    ],
     "wof:tags":[]
 },
   "bbox": [

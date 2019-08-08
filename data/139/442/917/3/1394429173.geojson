@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682365,
         102191581,
         404328795,
         85633051,
         1360321027,
-        102062823
+        102062823,
+        85682365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394429173,
-    "wof:lastmodified":1564896707,
+    "wof:lastmodified":1565230806,
     "wof:name":"Luesslingen",
     "wof:parent_id":404328795,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1360321027,
+    "wof:supersedes":[
+        1360321027
+    ],
     "wof:tags":[]
 },
   "bbox": [

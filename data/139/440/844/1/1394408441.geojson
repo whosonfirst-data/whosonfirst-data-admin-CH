@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404569943,
         85633051,
         1125900227,
-        102062903
+        102062903,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394408441,
-    "wof:lastmodified":1564896359,
+    "wof:lastmodified":1565230598,
     "wof:name":"Santa Maria",
     "wof:parent_id":404569943,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125900227,
+    "wof:supersedes":[
+        1125900227
+    ],
     "wof:tags":[]
 },
   "bbox": [

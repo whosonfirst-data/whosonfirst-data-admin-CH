@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567711,
         85633051,
         1259719567,
-        102063035
+        102063035,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394410417,
-    "wof:lastmodified":1564896529,
+    "wof:lastmodified":1565230701,
     "wof:name":"Scalveid",
     "wof:parent_id":404567711,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259719567,
+    "wof:supersedes":[
+        1259719567
+    ],
     "wof:tags":[]
 },
   "bbox": [

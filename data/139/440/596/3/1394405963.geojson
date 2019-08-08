@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567871,
         85633051,
         1326764231,
-        102062827
+        102062827,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394405963,
-    "wof:lastmodified":1564896642,
+    "wof:lastmodified":1565230645,
     "wof:name":"Mocevron",
     "wof:parent_id":404567871,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326764231,
+    "wof:supersedes":[
+        1326764231
+    ],
     "wof:tags":[]
 },
   "bbox": [

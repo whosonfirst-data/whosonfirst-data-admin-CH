@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568141,
         85633051,
         1343598497,
-        102062903
+        102062903,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394410037,
-    "wof:lastmodified":1564896677,
+    "wof:lastmodified":1565230713,
     "wof:name":"Pertise",
     "wof:parent_id":404568141,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343598497,
+    "wof:supersedes":[
+        1343598497
+    ],
     "wof:tags":[]
 },
   "bbox": [

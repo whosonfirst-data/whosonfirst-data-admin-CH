@@ -36,12 +36,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682341,
         102191581,
         404567853,
         85633051,
         1343489899,
-        102062963
+        102062963,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +61,15 @@
         }
     ],
     "wof:id":1394409441,
-    "wof:lastmodified":1564896672,
+    "wof:lastmodified":1565230695,
     "wof:name":"Portels",
     "wof:parent_id":404567853,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343489899,
+    "wof:supersedes":[
+        1343489899
+    ],
     "wof:tags":[]
 },
   "bbox": [

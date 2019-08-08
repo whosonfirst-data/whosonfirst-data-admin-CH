@@ -31,12 +31,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568511,
         85633051,
         1293619481,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +56,15 @@
         }
     ],
     "wof:id":1394400405,
-    "wof:lastmodified":1564896594,
+    "wof:lastmodified":1565230597,
     "wof:name":"Baeretswil - Baumastrasse",
     "wof:parent_id":404568511,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293619481,
+    "wof:supersedes":[
+        1293619481
+    ],
     "wof:tags":[]
 },
   "bbox": [

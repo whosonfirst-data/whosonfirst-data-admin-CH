@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569747,
         85633051,
         1226578277,
-        102062801
+        102062801,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394404897,
-    "wof:lastmodified":1564896482,
+    "wof:lastmodified":1565230664,
     "wof:name":"Neugruet",
     "wof:parent_id":404569747,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226578277,
+    "wof:supersedes":[
+        1226578277
+    ],
     "wof:tags":[]
 },
   "bbox": [

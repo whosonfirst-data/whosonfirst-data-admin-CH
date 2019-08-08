@@ -54,12 +54,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568065,
         85633051,
         1125802471,
-        102062857
+        102062857,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,13 +83,15 @@
         }
     ],
     "wof:id":1394396099,
-    "wof:lastmodified":1564896248,
+    "wof:lastmodified":1565230783,
     "wof:name":"Surlej",
     "wof:parent_id":404568065,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125802471,
+    "wof:supersedes":[
+        1125802471
+    ],
     "wof:tags":[]
 },
   "bbox": [

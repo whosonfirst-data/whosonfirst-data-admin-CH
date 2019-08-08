@@ -98,12 +98,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568271,
         85633051,
         1125858341,
-        102062845
+        102062845,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1394407063,
-    "wof:lastmodified":1564896346,
+    "wof:lastmodified":1565230571,
     "wof:name":"Feldis",
     "wof:parent_id":404568271,
     "wof:placetype":"neighbourhood",
@@ -135,7 +135,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125858341,
+    "wof:supersedes":[
+        1125858341
+    ],
     "wof:tags":[]
 },
   "bbox": [

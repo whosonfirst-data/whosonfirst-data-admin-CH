@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328125,
         85633051,
         1360221575,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394429071,
-    "wof:lastmodified":1564896705,
+    "wof:lastmodified":1565230795,
     "wof:name":"Mittlist Huetti",
     "wof:parent_id":404328125,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1360221575,
+    "wof:supersedes":[
+        1360221575
+    ],
     "wof:tags":[]
 },
   "bbox": [

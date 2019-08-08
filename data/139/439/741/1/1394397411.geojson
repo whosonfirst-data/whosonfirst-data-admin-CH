@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404571275,
         85633051,
         1276905477,
-        102062793
+        102062793,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394397411,
-    "wof:lastmodified":1564896567,
+    "wof:lastmodified":1565230756,
     "wof:name":"Corin",
     "wof:parent_id":404571275,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276905477,
+    "wof:supersedes":[
+        1276905477
+    ],
     "wof:tags":[]
 },
   "bbox": [

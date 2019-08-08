@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570433,
         85633051,
         1108980255,
-        102062775
+        102062775,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1394394823,
-    "wof:lastmodified":1564896236,
+    "wof:lastmodified":1565230730,
     "wof:name":"Toussen",
     "wof:parent_id":404570433,
     "wof:placetype":"neighbourhood",
@@ -81,7 +81,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1108980255,
+    "wof:supersedes":[
+        1108980255
+    ],
     "wof:tags":[]
 },
   "bbox": [

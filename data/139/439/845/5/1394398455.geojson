@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568485,
         85633051,
         1193055297,
-        102062773
+        102062773,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394398455,
-    "wof:lastmodified":1564896424,
+    "wof:lastmodified":1565230731,
     "wof:name":"Travisasch",
     "wof:parent_id":404568485,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1193055297,
+    "wof:supersedes":[
+        1193055297
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404571541,
         85633051,
         1310341855,
-        102062959
+        102062959,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394403879,
-    "wof:lastmodified":1564896624,
+    "wof:lastmodified":1565230689,
     "wof:name":"Eisweiher",
     "wof:parent_id":404571541,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310341855,
+    "wof:supersedes":[
+        1310341855
+    ],
     "wof:tags":[]
 },
   "bbox": [

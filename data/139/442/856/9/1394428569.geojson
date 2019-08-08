@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682305,
         102191581,
         404569589,
         85633051,
         1344091035,
-        102062927
+        102062927,
+        85682305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394428569,
-    "wof:lastmodified":1564896692,
+    "wof:lastmodified":1565230799,
     "wof:name":"Nuolen",
     "wof:parent_id":404569589,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1344091035,
+    "wof:supersedes":[
+        1344091035
+    ],
     "wof:tags":[]
 },
   "bbox": [

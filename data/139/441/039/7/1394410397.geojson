@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682347,
         102191581,
         404568689,
         85633051,
         1259719467,
-        102062875
+        102062875,
+        85682347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394410397,
-    "wof:lastmodified":1564896529,
+    "wof:lastmodified":1565230706,
     "wof:name":"Les Sairains",
     "wof:parent_id":404568689,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259719467,
+    "wof:supersedes":[
+        1259719467
+    ],
     "wof:tags":[]
 },
   "bbox": [

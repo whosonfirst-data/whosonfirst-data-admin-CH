@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568281,
         85633051,
         1310040859,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394402901,
-    "wof:lastmodified":1564896615,
+    "wof:lastmodified":1565230678,
     "wof:name":"Burenboden",
     "wof:parent_id":404568281,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310040859,
+    "wof:supersedes":[
+        1310040859
+    ],
     "wof:tags":[]
 },
   "bbox": [

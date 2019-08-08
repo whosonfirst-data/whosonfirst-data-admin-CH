@@ -37,12 +37,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682325,
         102191581,
         404571401,
         85633051,
         1125871949,
-        102062949
+        102062949,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1394407353,
-    "wof:lastmodified":1564896349,
+    "wof:lastmodified":1565230642,
     "wof:name":"Chapelle",
     "wof:parent_id":404571401,
     "wof:placetype":"neighbourhood",
@@ -72,7 +72,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125871949,
+    "wof:supersedes":[
+        1125871949
+    ],
     "wof:tags":[]
 },
   "bbox": [

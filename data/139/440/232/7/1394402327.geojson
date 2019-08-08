@@ -35,12 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568521,
         85633051,
         1309936567,
-        102062837
+        102062837,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +60,15 @@
         }
     ],
     "wof:id":1394402327,
-    "wof:lastmodified":1564896610,
+    "wof:lastmodified":1565230604,
     "wof:name":"Riedbergli",
     "wof:parent_id":404568521,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1309936567,
+    "wof:supersedes":[
+        1309936567
+    ],
     "wof:tags":[]
 },
   "bbox": [

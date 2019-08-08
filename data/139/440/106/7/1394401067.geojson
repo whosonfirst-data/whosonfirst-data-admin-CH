@@ -48,12 +48,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567809,
         85633051,
         1125815599,
-        102062845
+        102062845,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394401067,
-    "wof:lastmodified":1564896292,
+    "wof:lastmodified":1565230645,
     "wof:name":"Campsut",
     "wof:parent_id":404567809,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125815599,
+    "wof:supersedes":[
+        1125815599
+    ],
     "wof:tags":[]
 },
   "bbox": [

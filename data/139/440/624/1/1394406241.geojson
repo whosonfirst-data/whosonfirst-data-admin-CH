@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton Thurgau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568643,
         85633051,
         1125839557,
-        102062959
+        102062959,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394406241,
-    "wof:lastmodified":1564896338,
+    "wof:lastmodified":1565230659,
     "wof:name":"Hagenwil bei Amriswil",
     "wof:parent_id":404568643,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125839557,
+    "wof:supersedes":[
+        1125839557
+    ],
     "wof:tags":[]
 },
   "bbox": [

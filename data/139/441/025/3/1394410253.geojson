@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567975,
         85633051,
         1259714957,
-        102062803
+        102062803,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394410253,
-    "wof:lastmodified":1564896528,
+    "wof:lastmodified":1565230702,
     "wof:name":"Platz",
     "wof:parent_id":404567975,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259714957,
+    "wof:supersedes":[
+        1259714957
+    ],
     "wof:tags":[]
 },
   "bbox": [

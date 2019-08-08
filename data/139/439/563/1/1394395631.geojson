@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682301,
         102191581,
         404567923,
         85633051,
         1276260733,
-        102062891
+        102062891,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394395631,
-    "wof:lastmodified":1564896551,
+    "wof:lastmodified":1565230760,
     "wof:name":"Burstera",
     "wof:parent_id":404567923,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276260733,
+    "wof:supersedes":[
+        1276260733
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404569043,
         85633051,
         1293914865,
-        102062869
+        102062869,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394401415,
-    "wof:lastmodified":1564896603,
+    "wof:lastmodified":1565230689,
     "wof:name":"Wille",
     "wof:parent_id":404569043,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293914865,
+    "wof:supersedes":[
+        1293914865
+    ],
     "wof:tags":[]
 },
   "bbox": [

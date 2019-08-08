@@ -40,12 +40,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404571355,
         85633051,
         1125911197,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394408903,
-    "wof:lastmodified":1564896364,
+    "wof:lastmodified":1565230680,
     "wof:name":"San Salvatore",
     "wof:parent_id":404571355,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125911197,
+    "wof:supersedes":[
+        1125911197
+    ],
     "wof:tags":[]
 },
   "bbox": [

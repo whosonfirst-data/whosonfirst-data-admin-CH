@@ -35,12 +35,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567871,
         85633051,
         1326661085,
-        102062827
+        102062827,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +60,15 @@
         }
     ],
     "wof:id":1394405571,
-    "wof:lastmodified":1564896639,
+    "wof:lastmodified":1565230576,
     "wof:name":"Saint-Germain",
     "wof:parent_id":404567871,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326661085,
+    "wof:supersedes":[
+        1326661085
+    ],
     "wof:tags":[]
 },
   "bbox": [

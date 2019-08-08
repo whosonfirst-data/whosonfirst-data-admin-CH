@@ -48,12 +48,12 @@
     "woe:name_adm1":"Kanton Uri",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682377,
         102191581,
         404328117,
         85633051,
         1125886717,
-        102062879
+        102062879,
+        85682377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394407689,
-    "wof:lastmodified":1564896352,
+    "wof:lastmodified":1565230647,
     "wof:name":"G\u00f6schenenalp",
     "wof:parent_id":404328117,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125886717,
+    "wof:supersedes":[
+        1125886717
+    ],
     "wof:tags":[]
 },
   "bbox": [

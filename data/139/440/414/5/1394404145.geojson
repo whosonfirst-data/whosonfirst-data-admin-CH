@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682285,
         102191581,
         404328767,
         85633051,
         1226376217,
-        102063007
+        102063007,
+        85682285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394404145,
-    "wof:lastmodified":1564896475,
+    "wof:lastmodified":1565230590,
     "wof:name":"Hard",
     "wof:parent_id":404328767,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226376217,
+    "wof:supersedes":[
+        1226376217
+    ],
     "wof:tags":[]
 },
   "bbox": [

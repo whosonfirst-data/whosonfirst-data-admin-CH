@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682329,
         102191581,
         404569493,
         85633051,
         1327268785,
-        102062809
+        102062809,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394407893,
-    "wof:lastmodified":1564896659,
+    "wof:lastmodified":1565230692,
     "wof:name":"Wiggwil",
     "wof:parent_id":404569493,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1327268785,
+    "wof:supersedes":[
+        1327268785
+    ],
     "wof:tags":[]
 },
   "bbox": [

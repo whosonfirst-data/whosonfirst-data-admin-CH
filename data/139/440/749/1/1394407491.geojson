@@ -34,12 +34,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404569115,
         85633051,
         1243103255,
-        102062859
+        102062859,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +59,15 @@
         }
     ],
     "wof:id":1394407491,
-    "wof:lastmodified":1564896504,
+    "wof:lastmodified":1565230623,
     "wof:name":"Ritti",
     "wof:parent_id":404569115,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243103255,
+    "wof:supersedes":[
+        1243103255
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -106,12 +106,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682329,
         102191581,
         404569909,
         85633051,
         1125772373,
-        102062983
+        102062983,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":1394395313,
-    "wof:lastmodified":1564896240,
+    "wof:lastmodified":1565230762,
     "wof:name":"Pfeffikon",
     "wof:parent_id":404569909,
     "wof:placetype":"neighbourhood",
@@ -142,7 +142,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125772373,
+    "wof:supersedes":[
+        1125772373
+    ],
     "wof:tags":[]
 },
   "bbox": [

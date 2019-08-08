@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682319,
         102191581,
         404328169,
         85633051,
         1309741501,
-        102062797
+        102062797,
+        85682319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394401745,
-    "wof:lastmodified":1564896605,
+    "wof:lastmodified":1565230615,
     "wof:name":"Schaerligbad",
     "wof:parent_id":404328169,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1309741501,
+    "wof:supersedes":[
+        1309741501
+    ],
     "wof:tags":[]
 },
   "bbox": [

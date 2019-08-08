@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404570143,
         85633051,
         1259820205,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394410865,
-    "wof:lastmodified":1564896533,
+    "wof:lastmodified":1565230712,
     "wof:name":"Sasso Grosso",
     "wof:parent_id":404570143,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259820205,
+    "wof:supersedes":[
+        1259820205
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -49,12 +49,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571819,
         85633051,
         1125929707,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1394409337,
-    "wof:lastmodified":1564896368,
+    "wof:lastmodified":1565230648,
     "wof:name":"Aretshalden",
     "wof:parent_id":404571819,
     "wof:placetype":"neighbourhood",
@@ -86,7 +86,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125929707,
+    "wof:supersedes":[
+        1125929707
+    ],
     "wof:tags":[]
 },
   "bbox": [

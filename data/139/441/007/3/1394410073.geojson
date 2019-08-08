@@ -117,12 +117,12 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682341,
         102191581,
         404570243,
         85633051,
         1125946939,
-        102062771
+        102062771,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,7 +146,7 @@
         }
     ],
     "wof:id":1394410073,
-    "wof:lastmodified":1564896375,
+    "wof:lastmodified":1565230704,
     "wof:name":"Winterschwil",
     "wof:parent_id":404570243,
     "wof:placetype":"neighbourhood",
@@ -154,7 +154,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125946939,
+    "wof:supersedes":[
+        1125946939
+    ],
     "wof:tags":[]
 },
   "bbox": [

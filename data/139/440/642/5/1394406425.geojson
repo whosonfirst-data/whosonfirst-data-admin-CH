@@ -40,12 +40,12 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
         404567781,
         85633051,
         1125847573,
-        102062833
+        102062833,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394406425,
-    "wof:lastmodified":1564896340,
+    "wof:lastmodified":1565230592,
     "wof:name":"G\u00e9rignoz",
     "wof:parent_id":404567781,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125847573,
+    "wof:supersedes":[
+        1125847573
+    ],
     "wof:tags":[]
 },
   "bbox": [

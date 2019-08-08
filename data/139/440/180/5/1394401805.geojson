@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682359,
         102191581,
         404569151,
         85633051,
         1209852227,
-        102062805
+        102062805,
+        85682359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394401805,
-    "wof:lastmodified":1564896455,
+    "wof:lastmodified":1565230616,
     "wof:name":"Les Bourquin",
     "wof:parent_id":404569151,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1209852227,
+    "wof:supersedes":[
+        1209852227
+    ],
     "wof:tags":[]
 },
   "bbox": [

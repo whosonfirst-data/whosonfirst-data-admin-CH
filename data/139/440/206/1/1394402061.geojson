@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328333,
         85633051,
         1309839931,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394402061,
-    "wof:lastmodified":1564896608,
+    "wof:lastmodified":1565230674,
     "wof:name":"Chappelendorf",
     "wof:parent_id":404328333,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1309839931,
+    "wof:supersedes":[
+        1309839931
+    ],
     "wof:tags":[]
 },
   "bbox": [

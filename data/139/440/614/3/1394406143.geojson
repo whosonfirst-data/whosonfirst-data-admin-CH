@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton Zug",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682263,
         102191581,
         404328221,
         85633051,
         1125835757,
-        102063067
+        102063067,
+        85682263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394406143,
-    "wof:lastmodified":1564896337,
+    "wof:lastmodified":1565230650,
     "wof:name":"Mitten\u00e4geri",
     "wof:parent_id":404328221,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125835757,
+    "wof:supersedes":[
+        1125835757
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682305,
         102191581,
         404567971,
         85633051,
         1276373469,
-        102062887
+        102062887,
+        85682305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394396063,
-    "wof:lastmodified":1564896555,
+    "wof:lastmodified":1565230778,
     "wof:name":"Schoenenbuch",
     "wof:parent_id":404567971,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276373469,
+    "wof:supersedes":[
+        1276373469
+    ],
     "wof:tags":[]
 },
   "bbox": [

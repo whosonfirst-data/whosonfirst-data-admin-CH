@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328209,
         85633051,
         1293234721,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394399199,
-    "wof:lastmodified":1564896583,
+    "wof:lastmodified":1565230789,
     "wof:name":"Schoneck",
     "wof:parent_id":404328209,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293234721,
+    "wof:supersedes":[
+        1293234721
+    ],
     "wof:tags":[]
 },
   "bbox": [

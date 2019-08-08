@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404573375,
         85633051,
         1276801271,
-        102062959
+        102062959,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394397175,
-    "wof:lastmodified":1564896565,
+    "wof:lastmodified":1565230787,
     "wof:name":"Seeblick",
     "wof:parent_id":404573375,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276801271,
+    "wof:supersedes":[
+        1276801271
+    ],
     "wof:tags":[]
 },
   "bbox": [

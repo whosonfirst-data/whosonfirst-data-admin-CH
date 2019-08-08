@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568025,
         85633051,
         1293420323,
-        102063001
+        102063001,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394399699,
-    "wof:lastmodified":1564896588,
+    "wof:lastmodified":1565230762,
     "wof:name":"Egga",
     "wof:parent_id":404568025,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293420323,
+    "wof:supersedes":[
+        1293420323
+    ],
     "wof:tags":[]
 },
   "bbox": [

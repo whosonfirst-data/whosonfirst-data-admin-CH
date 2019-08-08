@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404569121,
         85633051,
         1293135389,
-        102062869
+        102062869,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394398925,
-    "wof:lastmodified":1564896581,
+    "wof:lastmodified":1565230737,
     "wof:name":"Steinbach",
     "wof:parent_id":404569121,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293135389,
+    "wof:supersedes":[
+        1293135389
+    ],
     "wof:tags":[]
 },
   "bbox": [

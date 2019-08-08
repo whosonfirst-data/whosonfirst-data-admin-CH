@@ -49,12 +49,12 @@
     "woe:name_adm1":"Kanton Nidwalden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328125,
         85633051,
         1125998535,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,13 +77,15 @@
         }
     ],
     "wof:id":1394394701,
-    "wof:lastmodified":1564896391,
+    "wof:lastmodified":1565230734,
     "wof:name":"Altzellen",
     "wof:parent_id":404328125,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125998535,
+    "wof:supersedes":[
+        1125998535
+    ],
     "wof:tags":[]
 },
   "bbox": [

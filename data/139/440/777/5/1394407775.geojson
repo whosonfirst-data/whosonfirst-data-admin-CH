@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568307,
         85633051,
         1125892445,
-        102062857
+        102062857,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394407775,
-    "wof:lastmodified":1564896353,
+    "wof:lastmodified":1565230629,
     "wof:name":"St. Moritz-Bad",
     "wof:parent_id":404568307,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125892445,
+    "wof:supersedes":[
+        1125892445
+    ],
     "wof:tags":[]
 },
   "bbox": [

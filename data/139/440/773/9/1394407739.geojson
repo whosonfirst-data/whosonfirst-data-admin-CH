@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568475,
         85633051,
         1327263221,
-        102062761
+        102062761,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394407739,
-    "wof:lastmodified":1564896657,
+    "wof:lastmodified":1565230691,
     "wof:name":"Faesilalpu",
     "wof:parent_id":404568475,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1327263221,
+    "wof:supersedes":[
+        1327263221
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -40,12 +40,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568355,
         85633051,
         1125895387,
-        102062827
+        102062827,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394408029,
-    "wof:lastmodified":1564896355,
+    "wof:lastmodified":1565230613,
     "wof:name":"Pravidondaz",
     "wof:parent_id":404568355,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125895387,
+    "wof:supersedes":[
+        1125895387
+    ],
     "wof:tags":[]
 },
   "bbox": [

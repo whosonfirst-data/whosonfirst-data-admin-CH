@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404571197,
         85633051,
         1276159517,
-        102063063
+        102063063,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394395457,
-    "wof:lastmodified":1564896549,
+    "wof:lastmodified":1565230754,
     "wof:name":"Pauzella",
     "wof:parent_id":404571197,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276159517,
+    "wof:supersedes":[
+        1276159517
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -36,12 +36,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567815,
         85633051,
         1242910591,
-        102062773
+        102062773,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +61,15 @@
         }
     ],
     "wof:id":1394406847,
-    "wof:lastmodified":1564896499,
+    "wof:lastmodified":1565230664,
     "wof:name":"Mumpe Tujetsch",
     "wof:parent_id":404567815,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1242910591,
+    "wof:supersedes":[
+        1242910591
+    ],
     "wof:tags":[]
 },
   "bbox": [

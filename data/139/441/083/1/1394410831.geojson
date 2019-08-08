@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682325,
         102191581,
         404568785,
         85633051,
         1259819915,
-        102062813
+        102062813,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394410831,
-    "wof:lastmodified":1564896533,
+    "wof:lastmodified":1565230701,
     "wof:name":"Les Cluds",
     "wof:parent_id":404568785,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259819915,
+    "wof:supersedes":[
+        1259819915
+    ],
     "wof:tags":[]
 },
   "bbox": [

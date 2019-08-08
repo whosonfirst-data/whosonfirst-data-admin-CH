@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568043,
         85633051,
         1326667141,
-        102062839
+        102062839,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394405869,
-    "wof:lastmodified":1564896641,
+    "wof:lastmodified":1565230621,
     "wof:name":"Digg",
     "wof:parent_id":404568043,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326667141,
+    "wof:supersedes":[
+        1326667141
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -40,12 +40,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85685231,
         102191581,
         404467737,
         85633253,
         404227497,
-        1125947003
+        1125947003,
+        85685231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394410087,
-    "wof:lastmodified":1564896375,
+    "wof:lastmodified":1565230706,
     "wof:name":"Ponte Cremenaga",
     "wof:parent_id":404467737,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125947003,
+    "wof:supersedes":[
+        1125947003
+    ],
     "wof:tags":[]
 },
   "bbox": [

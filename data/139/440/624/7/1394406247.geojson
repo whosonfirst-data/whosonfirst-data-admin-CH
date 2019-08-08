@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568889,
         85633051,
         1326861313,
-        102062955
+        102062955,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394406247,
-    "wof:lastmodified":1564896644,
+    "wof:lastmodified":1565230659,
     "wof:name":"Schlurhalden",
     "wof:parent_id":404568889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326861313,
+    "wof:supersedes":[
+        1326861313
+    ],
     "wof:tags":[]
 },
   "bbox": [

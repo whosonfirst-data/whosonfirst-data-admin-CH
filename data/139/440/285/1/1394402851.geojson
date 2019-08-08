@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682329,
         102191581,
         404569493,
         85633051,
         1225978379,
-        102062809
+        102062809,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394402851,
-    "wof:lastmodified":1564896464,
+    "wof:lastmodified":1565230661,
     "wof:name":"Brunnwil",
     "wof:parent_id":404569493,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1225978379,
+    "wof:supersedes":[
+        1225978379
+    ],
     "wof:tags":[]
 },
   "bbox": [

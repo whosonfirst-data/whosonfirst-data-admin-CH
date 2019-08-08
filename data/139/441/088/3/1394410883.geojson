@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton Luzern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682319,
         102191581,
         404328331,
         85633051,
         1125966837,
-        102062797
+        102062797,
+        85682319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394410883,
-    "wof:lastmodified":1564896382,
+    "wof:lastmodified":1565230712,
     "wof:name":"Rippertschwand",
     "wof:parent_id":404328331,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125966837,
+    "wof:supersedes":[
+        1125966837
+    ],
     "wof:tags":[]
 },
   "bbox": [

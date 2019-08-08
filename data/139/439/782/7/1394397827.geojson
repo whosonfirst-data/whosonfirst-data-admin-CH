@@ -45,12 +45,12 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
         404568831,
         85633051,
         1126044951,
-        102062833
+        102062833,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394397827,
-    "wof:lastmodified":1564896418,
+    "wof:lastmodified":1565230751,
     "wof:name":"Les Pleiades",
     "wof:parent_id":404568831,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126044951,
+    "wof:supersedes":[
+        1126044951
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404569619,
         85633051,
         1126032493,
-        102062881
+        102062881,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394397253,
-    "wof:lastmodified":1564896413,
+    "wof:lastmodified":1565230747,
     "wof:name":"Landquart Fabriken",
     "wof:parent_id":404569619,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126032493,
+    "wof:supersedes":[
+        1126032493
+    ],
     "wof:tags":[]
 },
   "bbox": [

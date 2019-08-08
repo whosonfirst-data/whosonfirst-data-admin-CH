@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682301,
         102191581,
         404571235,
         85633051,
         1259517081,
-        102063029
+        102063029,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394409469,
-    "wof:lastmodified":1564896522,
+    "wof:lastmodified":1565230619,
     "wof:name":"Villars-sur-Marly",
     "wof:parent_id":404571235,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259517081,
+    "wof:supersedes":[
+        1259517081
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404571027,
         85633051,
         1226278505,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394403973,
-    "wof:lastmodified":1564896474,
+    "wof:lastmodified":1565230580,
     "wof:name":"Scairolo",
     "wof:parent_id":404571027,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226278505,
+    "wof:supersedes":[
+        1226278505
+    ],
     "wof:tags":[]
 },
   "bbox": [

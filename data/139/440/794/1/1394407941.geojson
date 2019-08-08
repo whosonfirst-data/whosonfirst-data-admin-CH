@@ -40,12 +40,12 @@
     "woe:name_adm1":"Franche-Comt\u00e9",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682347,
         102191581,
         404568175,
         85633051,
         1125894721,
-        102063059
+        102063059,
+        85682347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394407941,
-    "wof:lastmodified":1564896354,
+    "wof:lastmodified":1565230637,
     "wof:name":"Le Fol",
     "wof:parent_id":404568175,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125894721,
+    "wof:supersedes":[
+        1125894721
+    ],
     "wof:tags":[]
 },
   "bbox": [

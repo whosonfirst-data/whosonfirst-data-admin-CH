@@ -48,12 +48,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85681661,
         102191581,
         1108837311,
         85632785,
         1125767127,
-        102049707
+        102049707,
+        85681661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394395023,
-    "wof:lastmodified":1564896238,
+    "wof:lastmodified":1565230722,
     "wof:name":"Hochfinsterm\u00fcnz",
     "wof:parent_id":1108837311,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125767127,
+    "wof:supersedes":[
+        1125767127
+    ],
     "wof:tags":[]
 },
   "bbox": [

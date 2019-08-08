@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404568179,
         85633051,
         1242709175,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394405989,
-    "wof:lastmodified":1564896492,
+    "wof:lastmodified":1565230648,
     "wof:name":"Monte",
     "wof:parent_id":404568179,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1242709175,
+    "wof:supersedes":[
+        1242709175
+    ],
     "wof:tags":[]
 },
   "bbox": [

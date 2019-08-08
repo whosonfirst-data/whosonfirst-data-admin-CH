@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570815,
         85633051,
         1125942531,
-        102062801
+        102062801,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394410011,
-    "wof:lastmodified":1564896374,
+    "wof:lastmodified":1565230706,
     "wof:name":"Laufen am Rheinfall",
     "wof:parent_id":404570815,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125942531,
+    "wof:supersedes":[
+        1125942531
+    ],
     "wof:tags":[]
 },
   "bbox": [

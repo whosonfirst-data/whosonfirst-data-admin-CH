@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567805,
         85633051,
         1292941871,
-        102062931
+        102062931,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394398375,
-    "wof:lastmodified":1564896575,
+    "wof:lastmodified":1565230779,
     "wof:name":"Monte",
     "wof:parent_id":404567805,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1292941871,
+    "wof:supersedes":[
+        1292941871
+    ],
     "wof:tags":[]
 },
   "bbox": [

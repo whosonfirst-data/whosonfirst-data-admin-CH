@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568541,
         85633051,
         1125870377,
-        102063061
+        102063061,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394407295,
-    "wof:lastmodified":1564896348,
+    "wof:lastmodified":1565230696,
     "wof:name":"Dreisch\u00fcbel",
     "wof:parent_id":404568541,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125870377,
+    "wof:supersedes":[
+        1125870377
+    ],
     "wof:tags":[]
 },
   "bbox": [

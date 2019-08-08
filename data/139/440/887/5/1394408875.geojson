@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568215,
         85633051,
         1343295951,
-        102062831
+        102062831,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394408875,
-    "wof:lastmodified":1564896667,
+    "wof:lastmodified":1565230589,
     "wof:name":"Bad Weissenburg",
     "wof:parent_id":404568215,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343295951,
+    "wof:supersedes":[
+        1343295951
+    ],
     "wof:tags":[]
 },
   "bbox": [

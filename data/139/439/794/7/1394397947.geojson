@@ -37,12 +37,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571679,
         85633051,
         1125810257,
-        102062995
+        102062995,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1394397947,
-    "wof:lastmodified":1564896265,
+    "wof:lastmodified":1565230759,
     "wof:name":"Sch\u00f6fflisdorf / R\u00fcti",
     "wof:parent_id":404571679,
     "wof:placetype":"neighbourhood",
@@ -72,7 +72,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125810257,
+    "wof:supersedes":[
+        1125810257
+    ],
     "wof:tags":[]
 },
   "bbox": [

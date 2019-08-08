@@ -57,12 +57,12 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682329,
         102191581,
         404568655,
         85633051,
         1108980119,
-        102062905
+        102062905,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,13 +86,15 @@
         }
     ],
     "wof:id":1394394807,
-    "wof:lastmodified":1564896235,
+    "wof:lastmodified":1565230772,
     "wof:name":"Riburg",
     "wof:parent_id":404568655,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1108980119,
+    "wof:supersedes":[
+        1108980119
+    ],
     "wof:tags":[]
 },
   "bbox": [

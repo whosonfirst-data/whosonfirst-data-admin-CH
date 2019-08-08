@@ -48,12 +48,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567817,
         85633051,
         1125808529,
-        102063037
+        102063037,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394396921,
-    "wof:lastmodified":1564896255,
+    "wof:lastmodified":1565230744,
     "wof:name":"Fafleralp",
     "wof:parent_id":404567817,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125808529,
+    "wof:supersedes":[
+        1125808529
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682329,
         102191581,
         404569307,
         85633051,
         1343698309,
-        102062851
+        102062851,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394410303,
-    "wof:lastmodified":1564896680,
+    "wof:lastmodified":1565230706,
     "wof:name":"Glaend",
     "wof:parent_id":404569307,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343698309,
+    "wof:supersedes":[
+        1343698309
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -111,12 +111,12 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682329,
         102191581,
         404573347,
         85633051,
         1125993343,
-        102062993
+        102062993,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":1394394609,
-    "wof:lastmodified":1564896391,
+    "wof:lastmodified":1565230775,
     "wof:name":"Gallenkirch",
     "wof:parent_id":404573347,
     "wof:placetype":"neighbourhood",
@@ -148,7 +148,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125993343,
+    "wof:supersedes":[
+        1125993343
+    ],
     "wof:tags":[]
 },
   "bbox": [

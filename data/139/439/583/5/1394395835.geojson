@@ -118,12 +118,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568829,
         85633051,
         1125790649,
-        102063019
+        102063019,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,7 +147,7 @@
         }
     ],
     "wof:id":1394395835,
-    "wof:lastmodified":1564896245,
+    "wof:lastmodified":1565230791,
     "wof:name":"Freienstein-Teufen",
     "wof:parent_id":404568829,
     "wof:placetype":"neighbourhood",
@@ -155,7 +155,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125790649,
+    "wof:supersedes":[
+        1125790649
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567771,
         85633051,
         1125929677,
-        102062821
+        102062821,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394409331,
-    "wof:lastmodified":1564896368,
+    "wof:lastmodified":1565230648,
     "wof:name":"Kalberh\u00f6ni",
     "wof:parent_id":404567771,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125929677,
+    "wof:supersedes":[
+        1125929677
+    ],
     "wof:tags":[]
 },
   "bbox": [

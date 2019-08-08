@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328317,
         85633051,
         1277106181,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394398033,
-    "wof:lastmodified":1564896572,
+    "wof:lastmodified":1565230739,
     "wof:name":"Oberbuent",
     "wof:parent_id":404328317,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1277106181,
+    "wof:supersedes":[
+        1277106181
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -46,12 +46,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569171,
         85633051,
         1125884157,
-        102063019
+        102063019,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1394407599,
-    "wof:lastmodified":1564896351,
+    "wof:lastmodified":1565230649,
     "wof:name":"Embrach-Embraport",
     "wof:parent_id":404569171,
     "wof:placetype":"neighbourhood",
@@ -82,7 +82,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125884157,
+    "wof:supersedes":[
+        1125884157
+    ],
     "wof:tags":[]
 },
   "bbox": [

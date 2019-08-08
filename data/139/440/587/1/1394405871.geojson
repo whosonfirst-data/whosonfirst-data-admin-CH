@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567697,
         85633051,
         1242614543,
-        102062807
+        102062807,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394405871,
-    "wof:lastmodified":1564896491,
+    "wof:lastmodified":1565230632,
     "wof:name":"Les Places (Versegeres)",
     "wof:parent_id":404567697,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1242614543,
+    "wof:supersedes":[
+        1242614543
+    ],
     "wof:tags":[]
 },
   "bbox": [

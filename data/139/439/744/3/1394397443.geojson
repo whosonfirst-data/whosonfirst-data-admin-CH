@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567699,
         85633051,
         1126035003,
-        102062857
+        102062857,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394397443,
-    "wof:lastmodified":1564896415,
+    "wof:lastmodified":1565230784,
     "wof:name":"Isola",
     "wof:parent_id":404567699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126035003,
+    "wof:supersedes":[
+        1126035003
+    ],
     "wof:tags":[]
 },
   "bbox": [

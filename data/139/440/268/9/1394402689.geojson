@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404573503,
         85633051,
         1310036533,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394402689,
-    "wof:lastmodified":1564896613,
+    "wof:lastmodified":1565230599,
     "wof:name":"Roncaccio",
     "wof:parent_id":404573503,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310036533,
+    "wof:supersedes":[
+        1310036533
+    ],
     "wof:tags":[]
 },
   "bbox": [

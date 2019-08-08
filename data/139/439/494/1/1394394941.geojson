@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568273,
         85633051,
         1126005321,
-        102062933
+        102062933,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394394941,
-    "wof:lastmodified":1564896394,
+    "wof:lastmodified":1565230775,
     "wof:name":"H\u00e4mmig\u00e4cher",
     "wof:parent_id":404568273,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126005321,
+    "wof:supersedes":[
+        1126005321
+    ],
     "wof:tags":[]
 },
   "bbox": [

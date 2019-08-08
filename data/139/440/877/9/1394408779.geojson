@@ -40,12 +40,12 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
         404570647,
         85633051,
         1125906365,
-        102063049
+        102063049,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394408779,
-    "wof:lastmodified":1564896363,
+    "wof:lastmodified":1565230652,
     "wof:name":"La Metairie",
     "wof:parent_id":404570647,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125906365,
+    "wof:supersedes":[
+        1125906365
+    ],
     "wof:tags":[]
 },
   "bbox": [

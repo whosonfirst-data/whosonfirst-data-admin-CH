@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682249,
         102191581,
         404328109,
         85633051,
         1310635919,
-        102063003
+        102063003,
+        85682249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394404779,
-    "wof:lastmodified":1564896632,
+    "wof:lastmodified":1565230590,
     "wof:name":"Stachelberg Bad",
     "wof:parent_id":404328109,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310635919,
+    "wof:supersedes":[
+        1310635919
+    ],
     "wof:tags":[]
 },
   "bbox": [

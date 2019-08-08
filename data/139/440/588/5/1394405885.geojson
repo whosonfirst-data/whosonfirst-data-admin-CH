@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568463,
         85633051,
         1242708361,
-        102063045
+        102063045,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394405885,
-    "wof:lastmodified":1564896491,
+    "wof:lastmodified":1565230622,
     "wof:name":"Gottefrey",
     "wof:parent_id":404568463,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1242708361,
+    "wof:supersedes":[
+        1242708361
+    ],
     "wof:tags":[]
 },
   "bbox": [

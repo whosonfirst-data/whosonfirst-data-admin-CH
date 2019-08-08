@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328389,
         85633051,
         1259916041,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394411127,
-    "wof:lastmodified":1564896536,
+    "wof:lastmodified":1565230717,
     "wof:name":"Hugen",
     "wof:parent_id":404328389,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259916041,
+    "wof:supersedes":[
+        1259916041
+    ],
     "wof:tags":[]
 },
   "bbox": [

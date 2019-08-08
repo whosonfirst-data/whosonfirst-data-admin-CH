@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567695,
         85633051,
         1125955483,
-        102062803
+        102062803,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394410595,
-    "wof:lastmodified":1564896380,
+    "wof:lastmodified":1565230714,
     "wof:name":"Ch\u00fcpfen",
     "wof:parent_id":404567695,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125955483,
+    "wof:supersedes":[
+        1125955483
+    ],
     "wof:tags":[]
 },
   "bbox": [

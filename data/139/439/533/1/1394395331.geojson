@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571245,
         85633051,
         1125772833,
-        102062775
+        102062775,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394395331,
-    "wof:lastmodified":1564896241,
+    "wof:lastmodified":1565230721,
     "wof:name":"R\u00fctihof",
     "wof:parent_id":404571245,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125772833,
+    "wof:supersedes":[
+        1125772833
+    ],
     "wof:tags":[]
 },
   "bbox": [

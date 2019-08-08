@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682325,
         102191581,
         404573177,
         85633051,
         1260013503,
-        102063009
+        102063009,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394411233,
-    "wof:lastmodified":1564896537,
+    "wof:lastmodified":1565230717,
     "wof:name":"Jouxtens",
     "wof:parent_id":404573177,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1260013503,
+    "wof:supersedes":[
+        1260013503
+    ],
     "wof:tags":[]
 },
   "bbox": [

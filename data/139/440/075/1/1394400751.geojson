@@ -118,12 +118,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568389,
         85633051,
         1125815109,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,7 +146,7 @@
         }
     ],
     "wof:id":1394400751,
-    "wof:lastmodified":1564896289,
+    "wof:lastmodified":1565230658,
     "wof:name":"Widen",
     "wof:parent_id":404568389,
     "wof:placetype":"neighbourhood",
@@ -154,7 +154,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125815109,
+    "wof:supersedes":[
+        1125815109
+    ],
     "wof:tags":[]
 },
   "bbox": [

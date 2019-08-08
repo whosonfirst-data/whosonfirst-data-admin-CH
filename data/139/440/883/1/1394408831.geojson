@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404573119,
         85633051,
         1343293523,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394408831,
-    "wof:lastmodified":1564896667,
+    "wof:lastmodified":1565230652,
     "wof:name":"Sare",
     "wof:parent_id":404573119,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343293523,
+    "wof:supersedes":[
+        1343293523
+    ],
     "wof:tags":[]
 },
   "bbox": [

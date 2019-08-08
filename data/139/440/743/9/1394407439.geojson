@@ -50,12 +50,12 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
         404571909,
         85633051,
         1125875735,
-        102062813
+        102062813,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1394407439,
-    "wof:lastmodified":1564896350,
+    "wof:lastmodified":1565230683,
     "wof:name":"Montagny",
     "wof:parent_id":404571909,
     "wof:placetype":"neighbourhood",
@@ -86,7 +86,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125875735,
+    "wof:supersedes":[
+        1125875735
+    ],
     "wof:tags":[]
 },
   "bbox": [

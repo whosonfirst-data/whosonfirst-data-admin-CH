@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567957,
         85633051,
         1326660547,
-        102063001
+        102063001,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394405531,
-    "wof:lastmodified":1564896638,
+    "wof:lastmodified":1565230647,
     "wof:name":"Doerfli",
     "wof:parent_id":404567957,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326660547,
+    "wof:supersedes":[
+        1326660547
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -43,12 +43,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567731,
         85633051,
         1125780961,
-        102062807
+        102062807,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,13 +71,15 @@
         }
     ],
     "wof:id":1394395521,
-    "wof:lastmodified":1564896242,
+    "wof:lastmodified":1565230759,
     "wof:name":"Commeire",
     "wof:parent_id":404567731,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125780961,
+    "wof:supersedes":[
+        1125780961
+    ],
     "wof:tags":[]
 },
   "bbox": [

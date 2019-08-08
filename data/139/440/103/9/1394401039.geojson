@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568113,
         85633051,
         1125815563,
-        102062759
+        102062759,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394401039,
-    "wof:lastmodified":1564896292,
+    "wof:lastmodified":1565230569,
     "wof:name":"Br\u00fcnigen",
     "wof:parent_id":404568113,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125815563,
+    "wof:supersedes":[
+        1125815563
+    ],
     "wof:tags":[]
 },
   "bbox": [

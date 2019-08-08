@@ -40,12 +40,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567711,
         85633051,
         1125978213,
-        102063035
+        102063035,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394394421,
-    "wof:lastmodified":1564896389,
+    "wof:lastmodified":1565230773,
     "wof:name":"Compietto",
     "wof:parent_id":404567711,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125978213,
+    "wof:supersedes":[
+        1125978213
+    ],
     "wof:tags":[]
 },
   "bbox": [

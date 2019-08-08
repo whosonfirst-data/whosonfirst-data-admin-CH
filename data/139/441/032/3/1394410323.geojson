@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568383,
         85633051,
         1343698621,
-        102062953
+        102062953,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394410323,
-    "wof:lastmodified":1564896680,
+    "wof:lastmodified":1565230714,
     "wof:name":"Rank",
     "wof:parent_id":404568383,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343698621,
+    "wof:supersedes":[
+        1343698621
+    ],
     "wof:tags":[]
 },
   "bbox": [

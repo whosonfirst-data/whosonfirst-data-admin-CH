@@ -43,12 +43,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404567873,
         85633051,
         1108979927,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1394394683,
-    "wof:lastmodified":1564896234,
+    "wof:lastmodified":1565230780,
     "wof:name":"Gotzenwil",
     "wof:parent_id":404567873,
     "wof:placetype":"neighbourhood",
@@ -79,7 +79,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1108979927,
+    "wof:supersedes":[
+        1108979927
+    ],
     "wof:tags":[]
 },
   "bbox": [

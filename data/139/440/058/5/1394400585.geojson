@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682365,
         102191581,
         404328423,
         85633051,
         1293623455,
-        102062823
+        102062823,
+        85682365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394400585,
-    "wof:lastmodified":1564896595,
+    "wof:lastmodified":1565230681,
     "wof:name":"Roderis",
     "wof:parent_id":404328423,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293623455,
+    "wof:supersedes":[
+        1293623455
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568707,
         85633051,
         1259715045,
-        102062773
+        102062773,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394410273,
-    "wof:lastmodified":1564896528,
+    "wof:lastmodified":1565230711,
     "wof:name":"Panix",
     "wof:parent_id":404568707,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259715045,
+    "wof:supersedes":[
+        1259715045
+    ],
     "wof:tags":[]
 },
   "bbox": [

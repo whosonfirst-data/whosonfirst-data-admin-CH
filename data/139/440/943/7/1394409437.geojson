@@ -57,12 +57,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404572169,
         85633051,
         1125930067,
-        102062975
+        102062975,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,13 +86,15 @@
         }
     ],
     "wof:id":1394409437,
-    "wof:lastmodified":1564896369,
+    "wof:lastmodified":1565230696,
     "wof:name":"Ponte Brolla",
     "wof:parent_id":404572169,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125930067,
+    "wof:supersedes":[
+        1125930067
+    ],
     "wof:tags":[]
 },
   "bbox": [

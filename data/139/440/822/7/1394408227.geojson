@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569127,
         85633051,
         1243394543,
-        102062801
+        102062801,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394408227,
-    "wof:lastmodified":1564896511,
+    "wof:lastmodified":1565230665,
     "wof:name":"Lenzbein",
     "wof:parent_id":404569127,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243394543,
+    "wof:supersedes":[
+        1243394543
+    ],
     "wof:tags":[]
 },
   "bbox": [

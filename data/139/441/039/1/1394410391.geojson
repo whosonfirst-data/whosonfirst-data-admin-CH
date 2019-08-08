@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568379,
         85633051,
         1259718583,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394410391,
-    "wof:lastmodified":1564896529,
+    "wof:lastmodified":1565230707,
     "wof:name":"Maurenmoos",
     "wof:parent_id":404568379,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259718583,
+    "wof:supersedes":[
+        1259718583
+    ],
     "wof:tags":[]
 },
   "bbox": [

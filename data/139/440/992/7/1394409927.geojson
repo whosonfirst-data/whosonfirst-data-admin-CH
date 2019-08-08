@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682377,
         102191581,
         404328121,
         85633051,
         1343597323,
-        102062879
+        102062879,
+        85682377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394409927,
-    "wof:lastmodified":1564896677,
+    "wof:lastmodified":1565230636,
     "wof:name":"Pfaffensprung",
     "wof:parent_id":404328121,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343597323,
+    "wof:supersedes":[
+        1343597323
+    ],
     "wof:tags":[]
 },
   "bbox": [

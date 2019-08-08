@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682325,
         102191581,
         404573245,
         85633051,
         1259520223,
-        102062873
+        102062873,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394409763,
-    "wof:lastmodified":1564896524,
+    "wof:lastmodified":1565230628,
     "wof:name":"Romanel",
     "wof:parent_id":404573245,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259520223,
+    "wof:supersedes":[
+        1259520223
+    ],
     "wof:tags":[]
 },
   "bbox": [

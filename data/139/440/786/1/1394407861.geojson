@@ -34,12 +34,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567809,
         85633051,
         1327268245,
-        102062845
+        102062845,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +59,15 @@
         }
     ],
     "wof:id":1394407861,
-    "wof:lastmodified":1564896659,
+    "wof:lastmodified":1565230685,
     "wof:name":"Hohenhaus",
     "wof:parent_id":404567809,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1327268245,
+    "wof:supersedes":[
+        1327268245
+    ],
     "wof:tags":[]
 },
   "bbox": [

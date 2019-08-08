@@ -40,12 +40,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404568703,
         85633051,
         1125986577,
-        102062975
+        102062975,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394394487,
-    "wof:lastmodified":1564896390,
+    "wof:lastmodified":1565230733,
     "wof:name":"Medoscio",
     "wof:parent_id":404568703,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125986577,
+    "wof:supersedes":[
+        1125986577
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568047,
         85633051,
         1344188059,
-        102062923
+        102062923,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394428627,
-    "wof:lastmodified":1564896693,
+    "wof:lastmodified":1565230803,
     "wof:name":"Valatscha",
     "wof:parent_id":404568047,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1344188059,
+    "wof:supersedes":[
+        1344188059
+    ],
     "wof:tags":[]
 },
   "bbox": [

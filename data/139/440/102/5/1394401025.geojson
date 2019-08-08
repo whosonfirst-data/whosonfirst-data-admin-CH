@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682285,
         102191581,
         404328643,
         85633051,
         1293726337,
-        102063007
+        102063007,
+        85682285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394401025,
-    "wof:lastmodified":1564896599,
+    "wof:lastmodified":1565230574,
     "wof:name":"Steinenkreuz",
     "wof:parent_id":404328643,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293726337,
+    "wof:supersedes":[
+        1293726337
+    ],
     "wof:tags":[]
 },
   "bbox": [

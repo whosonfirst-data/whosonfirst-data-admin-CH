@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404569185,
         85633051,
         1309940977,
-        102062965
+        102062965,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394402469,
-    "wof:lastmodified":1564896612,
+    "wof:lastmodified":1565230653,
     "wof:name":"La Mereune",
     "wof:parent_id":404569185,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1309940977,
+    "wof:supersedes":[
+        1309940977
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -40,12 +40,12 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682301,
         102191581,
         404568037,
         85633051,
         1125977347,
-        102063025
+        102063025,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394394395,
-    "wof:lastmodified":1564896388,
+    "wof:lastmodified":1565230738,
     "wof:name":"Le Molard",
     "wof:parent_id":404568037,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125977347,
+    "wof:supersedes":[
+        1125977347
+    ],
     "wof:tags":[]
 },
   "bbox": [

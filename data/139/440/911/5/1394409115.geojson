@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682365,
         102191581,
         404328381,
         85633051,
         1343299027,
-        102062823
+        102062823,
+        85682365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394409115,
-    "wof:lastmodified":1564896669,
+    "wof:lastmodified":1565230682,
     "wof:name":"Bleichenberg",
     "wof:parent_id":404328381,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343299027,
+    "wof:supersedes":[
+        1343299027
+    ],
     "wof:tags":[]
 },
   "bbox": [

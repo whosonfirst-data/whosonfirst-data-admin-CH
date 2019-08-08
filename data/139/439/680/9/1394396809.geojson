@@ -256,12 +256,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569915,
         85633051,
         1125808363,
-        102062801
+        102062801,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -284,7 +284,7 @@
         }
     ],
     "wof:id":1394396809,
-    "wof:lastmodified":1564896254,
+    "wof:lastmodified":1565230734,
     "wof:name":"Moos",
     "wof:parent_id":404569915,
     "wof:placetype":"neighbourhood",
@@ -292,7 +292,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125808363,
+    "wof:supersedes":[
+        1125808363
+    ],
     "wof:tags":[]
 },
   "bbox": [

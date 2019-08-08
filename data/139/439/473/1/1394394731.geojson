@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567719,
         85633051,
         1126000459,
-        102062777
+        102062777,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394394731,
-    "wof:lastmodified":1564896392,
+    "wof:lastmodified":1565230772,
     "wof:name":"Cavaglia",
     "wof:parent_id":404567719,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126000459,
+    "wof:supersedes":[
+        1126000459
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -40,12 +40,12 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682301,
         102191581,
         404567951,
         85633051,
         1125852203,
-        102062999
+        102062999,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394406559,
-    "wof:lastmodified":1564896341,
+    "wof:lastmodified":1565230666,
     "wof:name":"Kapellboden",
     "wof:parent_id":404567951,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125852203,
+    "wof:supersedes":[
+        1125852203
+    ],
     "wof:tags":[]
 },
   "bbox": [

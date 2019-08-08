@@ -48,12 +48,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567711,
         85633051,
         1125920381,
-        102063035
+        102063035,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394409153,
-    "wof:lastmodified":1564896366,
+    "wof:lastmodified":1565230620,
     "wof:name":"Acquacalda",
     "wof:parent_id":404567711,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125920381,
+    "wof:supersedes":[
+        1125920381
+    ],
     "wof:tags":[]
 },
   "bbox": [

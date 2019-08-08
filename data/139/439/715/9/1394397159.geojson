@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570425,
         85633051,
         1126029603,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394397159,
-    "wof:lastmodified":1564896413,
+    "wof:lastmodified":1565230751,
     "wof:name":"Sch\u00fcracher",
     "wof:parent_id":404570425,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126029603,
+    "wof:supersedes":[
+        1126029603
+    ],
     "wof:tags":[]
 },
   "bbox": [

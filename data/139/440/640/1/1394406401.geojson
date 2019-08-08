@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570815,
         85633051,
         1242811777,
-        102062801
+        102062801,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394406401,
-    "wof:lastmodified":1564896495,
+    "wof:lastmodified":1565230656,
     "wof:name":"Im Anderbach",
     "wof:parent_id":404570815,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1242811777,
+    "wof:supersedes":[
+        1242811777
+    ],
     "wof:tags":[]
 },
   "bbox": [

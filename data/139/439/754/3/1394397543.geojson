@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404571629,
         85633051,
         1276909397,
-        102062865
+        102062865,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394397543,
-    "wof:lastmodified":1564896568,
+    "wof:lastmodified":1565230723,
     "wof:name":"Fornet",
     "wof:parent_id":404571629,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276909397,
+    "wof:supersedes":[
+        1276909397
+    ],
     "wof:tags":[]
 },
   "bbox": [

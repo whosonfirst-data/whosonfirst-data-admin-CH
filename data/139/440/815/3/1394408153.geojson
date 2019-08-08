@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton St. Gallen",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682341,
         102191581,
         404568253,
         85633051,
         1125898543,
-        102062815
+        102062815,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394408153,
-    "wof:lastmodified":1564896356,
+    "wof:lastmodified":1565230657,
     "wof:name":"Lenggis",
     "wof:parent_id":404568253,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125898543,
+    "wof:supersedes":[
+        1125898543
+    ],
     "wof:tags":[]
 },
   "bbox": [

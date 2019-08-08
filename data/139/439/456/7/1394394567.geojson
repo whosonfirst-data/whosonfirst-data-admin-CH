@@ -45,12 +45,12 @@
     "woe:name_adm1":"Canton de Neuch\u00e2tel",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
         404570281,
         85633051,
         1125989161,
-        102062813
+        102062813,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394394567,
-    "wof:lastmodified":1564896390,
+    "wof:lastmodified":1565230776,
     "wof:name":"Les Tailleres",
     "wof:parent_id":404570281,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125989161,
+    "wof:supersedes":[
+        1125989161
+    ],
     "wof:tags":[]
 },
   "bbox": [

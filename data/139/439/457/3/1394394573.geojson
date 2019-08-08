@@ -40,12 +40,12 @@
     "woe:name_adm1":"Canton de Gen\u00e8ve",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682291,
         102191581,
         404328729,
         85633051,
         1125989867,
-        102062917
+        102062917,
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394394573,
-    "wof:lastmodified":1564896391,
+    "wof:lastmodified":1565230780,
     "wof:name":"Le Vallon",
     "wof:parent_id":404328729,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125989867,
+    "wof:supersedes":[
+        1125989867
+    ],
     "wof:tags":[]
 },
   "bbox": [

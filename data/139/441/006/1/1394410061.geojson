@@ -117,12 +117,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570209,
         85633051,
         1125946709,
-        102062995
+        102062995,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,7 +146,7 @@
         }
     ],
     "wof:id":1394410061,
-    "wof:lastmodified":1564896375,
+    "wof:lastmodified":1565230707,
     "wof:name":"Hofstetten",
     "wof:parent_id":404570209,
     "wof:placetype":"neighbourhood",
@@ -154,7 +154,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125946709,
+    "wof:supersedes":[
+        1125946709
+    ],
     "wof:tags":[]
 },
   "bbox": [

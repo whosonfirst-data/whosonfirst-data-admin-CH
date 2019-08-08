@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568311,
         85633051,
         1293817481,
-        102062837
+        102062837,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394401145,
-    "wof:lastmodified":1564896600,
+    "wof:lastmodified":1565230693,
     "wof:name":"Bickigen",
     "wof:parent_id":404568311,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293817481,
+    "wof:supersedes":[
+        1293817481
+    ],
     "wof:tags":[]
 },
   "bbox": [

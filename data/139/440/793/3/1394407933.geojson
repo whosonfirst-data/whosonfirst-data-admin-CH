@@ -68,12 +68,12 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682301,
         102191581,
         404570499,
         85633051,
         1125894669,
-        102062945
+        102062945,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1394407933,
-    "wof:lastmodified":1564896354,
+    "wof:lastmodified":1565230637,
     "wof:name":"Portalban-Dessous",
     "wof:parent_id":404570499,
     "wof:placetype":"neighbourhood",
@@ -105,7 +105,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125894669,
+    "wof:supersedes":[
+        1125894669
+    ],
     "wof:tags":[]
 },
   "bbox": [

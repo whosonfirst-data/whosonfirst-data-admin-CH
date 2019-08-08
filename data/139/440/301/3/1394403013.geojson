@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682305,
         102191581,
         404567727,
         85633051,
         1310042693,
-        102062887
+        102062887,
+        85682305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394403013,
-    "wof:lastmodified":1564896616,
+    "wof:lastmodified":1565230576,
     "wof:name":"Durrenboden",
     "wof:parent_id":404567727,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310042693,
+    "wof:supersedes":[
+        1310042693
+    ],
     "wof:tags":[]
 },
   "bbox": [

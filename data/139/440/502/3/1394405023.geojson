@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568051,
         85633051,
         1226677003,
-        102062903
+        102062903,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394405023,
-    "wof:lastmodified":1564896483,
+    "wof:lastmodified":1565230572,
     "wof:name":"Alpe di Boggio",
     "wof:parent_id":404568051,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226677003,
+    "wof:supersedes":[
+        1226677003
+    ],
     "wof:tags":[]
 },
   "bbox": [

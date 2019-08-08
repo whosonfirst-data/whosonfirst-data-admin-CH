@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568355,
         85633051,
         1259914497,
-        102062827
+        102062827,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394411077,
-    "wof:lastmodified":1564896535,
+    "wof:lastmodified":1565230709,
     "wof:name":"Chateauneuf",
     "wof:parent_id":404568355,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259914497,
+    "wof:supersedes":[
+        1259914497
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -33,12 +33,12 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569727,
         85633051,
         1327165107,
-        102062801
+        102062801,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":1394407293,
-    "wof:lastmodified":1564896654,
+    "wof:lastmodified":1565230696,
     "wof:name":"Buch",
     "wof:parent_id":404569727,
     "wof:placetype":"neighbourhood",
@@ -66,7 +66,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1327165107,
+    "wof:supersedes":[
+        1327165107
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -34,12 +34,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404568331,
         85633051,
         1193173383,
-        102062957
+        102062957,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +59,15 @@
         }
     ],
     "wof:id":1394398689,
-    "wof:lastmodified":1564896426,
+    "wof:lastmodified":1565230738,
     "wof:name":"Sceresio",
     "wof:parent_id":404568331,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1193173383,
+    "wof:supersedes":[
+        1193173383
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -58,12 +58,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568829,
         85633051,
         1125808755,
-        102063019
+        102063019,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1394397035,
-    "wof:lastmodified":1564896257,
+    "wof:lastmodified":1565230762,
     "wof:name":"Binz",
     "wof:parent_id":404568829,
     "wof:placetype":"neighbourhood",
@@ -94,7 +94,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125808755,
+    "wof:supersedes":[
+        1125808755
+    ],
     "wof:tags":[]
 },
   "bbox": [

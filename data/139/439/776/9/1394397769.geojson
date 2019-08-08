@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569831,
         85633051,
         1277016537,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394397769,
-    "wof:lastmodified":1564896570,
+    "wof:lastmodified":1565230751,
     "wof:name":"Spitzen",
     "wof:parent_id":404569831,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1277016537,
+    "wof:supersedes":[
+        1277016537
+    ],
     "wof:tags":[]
 },
   "bbox": [

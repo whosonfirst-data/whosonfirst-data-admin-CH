@@ -142,12 +142,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567815,
         85633051,
         1125773497,
-        102062773
+        102062773,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,7 +170,7 @@
         }
     ],
     "wof:id":1394395419,
-    "wof:lastmodified":1564896241,
+    "wof:lastmodified":1565230788,
     "wof:name":"Disentis",
     "wof:parent_id":404567815,
     "wof:placetype":"neighbourhood",
@@ -178,7 +178,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125773497,
+    "wof:supersedes":[
+        1125773497
+    ],
     "wof:tags":[]
 },
   "bbox": [

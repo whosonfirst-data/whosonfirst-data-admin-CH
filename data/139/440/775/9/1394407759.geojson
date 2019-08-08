@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568733,
         85633051,
         1327263283,
-        102062869
+        102062869,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394407759,
-    "wof:lastmodified":1564896658,
+    "wof:lastmodified":1565230685,
     "wof:name":"Seeben",
     "wof:parent_id":404568733,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1327263283,
+    "wof:supersedes":[
+        1327263283
+    ],
     "wof:tags":[]
 },
   "bbox": [

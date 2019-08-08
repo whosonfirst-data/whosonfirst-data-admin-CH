@@ -43,12 +43,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569727,
         85633051,
         1125910253,
-        102062801
+        102062801,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1394408877,
-    "wof:lastmodified":1564896364,
+    "wof:lastmodified":1565230589,
     "wof:name":"Ober-Buch",
     "wof:parent_id":404569727,
     "wof:placetype":"neighbourhood",
@@ -79,7 +79,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125910253,
+    "wof:supersedes":[
+        1125910253
+    ],
     "wof:tags":[]
 },
   "bbox": [

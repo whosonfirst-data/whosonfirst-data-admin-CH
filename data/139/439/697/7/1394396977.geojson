@@ -48,12 +48,12 @@
     "woe:name_adm1":"Kanton Nidwalden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328125,
         85633051,
         1125808617,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394396977,
-    "wof:lastmodified":1564896256,
+    "wof:lastmodified":1565230776,
     "wof:name":"Ober Tr\u00fcbsee Alp",
     "wof:parent_id":404328125,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125808617,
+    "wof:supersedes":[
+        1125808617
+    ],
     "wof:tags":[]
 },
   "bbox": [

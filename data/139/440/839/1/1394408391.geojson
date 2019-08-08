@@ -109,12 +109,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404569489,
         85633051,
         1125900145,
-        102062761
+        102062761,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":1394408391,
-    "wof:lastmodified":1564896359,
+    "wof:lastmodified":1565230676,
     "wof:name":"Hirschmatt",
     "wof:parent_id":404569489,
     "wof:placetype":"neighbourhood",
@@ -146,7 +146,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125900145,
+    "wof:supersedes":[
+        1125900145
+    ],
     "wof:tags":[]
 },
   "bbox": [

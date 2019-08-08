@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568055,
         85633051,
         1309746193,
-        102062777
+        102062777,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394401807,
-    "wof:lastmodified":1564896606,
+    "wof:lastmodified":1565230616,
     "wof:name":"Scala",
     "wof:parent_id":404568055,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1309746193,
+    "wof:supersedes":[
+        1309746193
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568503,
         85633051,
         1125812533,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394399229,
-    "wof:lastmodified":1564896275,
+    "wof:lastmodified":1565230753,
     "wof:name":"Neubrunnen",
     "wof:parent_id":404568503,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125812533,
+    "wof:supersedes":[
+        1125812533
+    ],
     "wof:tags":[]
 },
   "bbox": [

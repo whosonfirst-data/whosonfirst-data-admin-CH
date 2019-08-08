@@ -105,12 +105,12 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682301,
         102191581,
         404569311,
         85633051,
         1125847473,
-        102062765
+        102062765,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":1394406419,
-    "wof:lastmodified":1564896340,
+    "wof:lastmodified":1565230662,
     "wof:name":"Bas-Vully",
     "wof:parent_id":404569311,
     "wof:placetype":"neighbourhood",
@@ -142,7 +142,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125847473,
+    "wof:supersedes":[
+        1125847473
+    ],
     "wof:tags":[]
 },
   "bbox": [

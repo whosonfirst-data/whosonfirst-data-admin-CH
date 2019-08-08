@@ -51,12 +51,12 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
         404568409,
         85633051,
         1125999139,
-        102063047
+        102063047,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,13 +79,15 @@
         }
     ],
     "wof:id":1394394717,
-    "wof:lastmodified":1564896392,
+    "wof:lastmodified":1565230729,
     "wof:name":"Forel",
     "wof:parent_id":404568409,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125999139,
+    "wof:supersedes":[
+        1125999139
+    ],
     "wof:tags":[]
 },
   "bbox": [

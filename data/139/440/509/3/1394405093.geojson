@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568885,
         85633051,
         1226680139,
-        102062869
+        102062869,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394405093,
-    "wof:lastmodified":1564896484,
+    "wof:lastmodified":1565230644,
     "wof:name":"Neuparadies",
     "wof:parent_id":404568885,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226680139,
+    "wof:supersedes":[
+        1226680139
+    ],
     "wof:tags":[]
 },
   "bbox": [

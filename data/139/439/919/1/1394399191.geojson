@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568293,
         85633051,
         1293234431,
-        102062759
+        102062759,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394399191,
-    "wof:lastmodified":1564896583,
+    "wof:lastmodified":1565230789,
     "wof:name":"Beatenberg-Waldegg",
     "wof:parent_id":404568293,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293234431,
+    "wof:supersedes":[
+        1293234431
+    ],
     "wof:tags":[]
 },
   "bbox": [

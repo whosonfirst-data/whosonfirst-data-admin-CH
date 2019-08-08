@@ -270,12 +270,12 @@
     "woe:name_adm1":"Baden-W\u00fcrttemberg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682329,
         102191581,
         404570175,
         85633051,
         1125896977,
-        102062843
+        102062843,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -299,7 +299,7 @@
         }
     ],
     "wof:id":1394408081,
-    "wof:lastmodified":1564896356,
+    "wof:lastmodified":1565230674,
     "wof:name":"Oberibental",
     "wof:parent_id":404570175,
     "wof:placetype":"neighbourhood",
@@ -307,7 +307,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125896977,
+    "wof:supersedes":[
+        1125896977
+    ],
     "wof:tags":[]
 },
   "bbox": [

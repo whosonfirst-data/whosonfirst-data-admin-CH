@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568573,
         85633051,
         1243206793,
-        102062909
+        102062909,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394407757,
-    "wof:lastmodified":1564896507,
+    "wof:lastmodified":1565230685,
     "wof:name":"Mueliberg",
     "wof:parent_id":404568573,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243206793,
+    "wof:supersedes":[
+        1243206793
+    ],
     "wof:tags":[]
 },
   "bbox": [

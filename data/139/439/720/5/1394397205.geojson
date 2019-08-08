@@ -40,12 +40,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567705,
         85633051,
         1126029695,
-        102062859
+        102062859,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394397205,
-    "wof:lastmodified":1564896413,
+    "wof:lastmodified":1565230793,
     "wof:name":"Wiestiboden",
     "wof:parent_id":404567705,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126029695,
+    "wof:supersedes":[
+        1126029695
+    ],
     "wof:tags":[]
 },
   "bbox": [

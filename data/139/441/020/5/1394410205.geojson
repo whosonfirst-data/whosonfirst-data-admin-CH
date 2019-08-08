@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682329,
         102191581,
         404569039,
         85633051,
         1343696809,
-        102062841
+        102062841,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394410205,
-    "wof:lastmodified":1564896679,
+    "wof:lastmodified":1565230711,
     "wof:name":"Schlatt",
     "wof:parent_id":404569039,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343696809,
+    "wof:supersedes":[
+        1343696809
+    ],
     "wof:tags":[]
 },
   "bbox": [

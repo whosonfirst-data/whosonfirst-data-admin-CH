@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404568159,
         85633051,
         1310532589,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394404311,
-    "wof:lastmodified":1564896628,
+    "wof:lastmodified":1565230608,
     "wof:name":"Boscior",
     "wof:parent_id":404568159,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310532589,
+    "wof:supersedes":[
+        1310532589
+    ],
     "wof:tags":[]
 },
   "bbox": [

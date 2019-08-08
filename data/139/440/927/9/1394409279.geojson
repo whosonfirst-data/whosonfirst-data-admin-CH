@@ -48,12 +48,12 @@
     "woe:name_adm1":"Kanton Obwalden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682371,
         102191581,
         404328151,
         85633051,
         1125929251,
-        102062787
+        102062787,
+        85682371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394409279,
-    "wof:lastmodified":1564896367,
+    "wof:lastmodified":1565230685,
     "wof:name":"Fl\u00fceli",
     "wof:parent_id":404328151,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125929251,
+    "wof:supersedes":[
+        1125929251
+    ],
     "wof:tags":[]
 },
   "bbox": [

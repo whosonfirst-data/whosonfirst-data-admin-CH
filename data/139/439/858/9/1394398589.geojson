@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682291,
         102191581,
         404328839,
         85633051,
         1293032387,
-        102062917
+        102062917,
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394398589,
-    "wof:lastmodified":1564896578,
+    "wof:lastmodified":1565230743,
     "wof:name":"Certoux",
     "wof:parent_id":404328839,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293032387,
+    "wof:supersedes":[
+        1293032387
+    ],
     "wof:tags":[]
 },
   "bbox": [

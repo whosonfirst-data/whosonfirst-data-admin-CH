@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404569265,
         85633051,
         1243102323,
-        102063013
+        102063013,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394407461,
-    "wof:lastmodified":1564896504,
+    "wof:lastmodified":1565230631,
     "wof:name":"Spych",
     "wof:parent_id":404569265,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243102323,
+    "wof:supersedes":[
+        1243102323
+    ],
     "wof:tags":[]
 },
   "bbox": [

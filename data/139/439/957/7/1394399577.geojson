@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568377,
         85633051,
         1293327035,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394399577,
-    "wof:lastmodified":1564896587,
+    "wof:lastmodified":1565230756,
     "wof:name":"Rueetschberg",
     "wof:parent_id":404568377,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293327035,
+    "wof:supersedes":[
+        1293327035
+    ],
     "wof:tags":[]
 },
   "bbox": [

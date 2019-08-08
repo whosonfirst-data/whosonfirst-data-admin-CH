@@ -117,12 +117,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568059,
         85633051,
         1125835989,
-        102062831
+        102062831,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,13 +146,15 @@
         }
     ],
     "wof:id":1394406149,
-    "wof:lastmodified":1564896337,
+    "wof:lastmodified":1565230649,
     "wof:name":"Oberwil",
     "wof:parent_id":404568059,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125835989,
+    "wof:supersedes":[
+        1125835989
+    ],
     "wof:tags":[]
 },
   "bbox": [

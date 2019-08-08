@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682359,
         102191581,
         404570285,
         85633051,
         1343692887,
-        102062785
+        102062785,
+        85682359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394410111,
-    "wof:lastmodified":1564896678,
+    "wof:lastmodified":1565230711,
     "wof:name":"Tete-De-Ran",
     "wof:parent_id":404570285,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343692887,
+    "wof:supersedes":[
+        1343692887
+    ],
     "wof:tags":[]
 },
   "bbox": [

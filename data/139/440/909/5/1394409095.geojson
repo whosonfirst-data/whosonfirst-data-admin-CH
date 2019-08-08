@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404571119,
         85633051,
         1343298901,
-        102062909
+        102062909,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394409095,
-    "wof:lastmodified":1564896669,
+    "wof:lastmodified":1565230565,
     "wof:name":"Gurzelen",
     "wof:parent_id":404571119,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343298901,
+    "wof:supersedes":[
+        1343298901
+    ],
     "wof:tags":[]
 },
   "bbox": [

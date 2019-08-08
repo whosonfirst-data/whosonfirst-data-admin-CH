@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568883,
         85633051,
         1310039893,
-        102062761
+        102062761,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394402813,
-    "wof:lastmodified":1564896614,
+    "wof:lastmodified":1565230598,
     "wof:name":"Tschingeren",
     "wof:parent_id":404568883,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310039893,
+    "wof:supersedes":[
+        1310039893
+    ],
     "wof:tags":[]
 },
   "bbox": [

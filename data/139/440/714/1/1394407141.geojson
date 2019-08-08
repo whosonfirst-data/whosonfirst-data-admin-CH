@@ -30,12 +30,12 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569601,
         85633051,
         1243010117,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
         }
     ],
     "wof:id":1394407141,
-    "wof:lastmodified":1564896501,
+    "wof:lastmodified":1565230619,
     "wof:name":"Wald",
     "wof:parent_id":404569601,
     "wof:placetype":"neighbourhood",
@@ -63,7 +63,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243010117,
+    "wof:supersedes":[
+        1243010117
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682263,
         102191581,
         404328235,
         85633051,
         1327066629,
-        102063067
+        102063067,
+        85682263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394407191,
-    "wof:lastmodified":1564896653,
+    "wof:lastmodified":1565230687,
     "wof:name":"Blickensdorf",
     "wof:parent_id":404328235,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1327066629,
+    "wof:supersedes":[
+        1327066629
+    ],
     "wof:tags":[]
 },
   "bbox": [

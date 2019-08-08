@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568091,
         85633051,
         1125874497,
-        102062885
+        102062885,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394407391,
-    "wof:lastmodified":1564896349,
+    "wof:lastmodified":1565230570,
     "wof:name":"Canols",
     "wof:parent_id":404568091,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125874497,
+    "wof:supersedes":[
+        1125874497
+    ],
     "wof:tags":[]
 },
   "bbox": [

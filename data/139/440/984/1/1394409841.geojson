@@ -43,12 +43,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568379,
         85633051,
         1125932243,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1394409841,
-    "wof:lastmodified":1564896373,
+    "wof:lastmodified":1565230617,
     "wof:name":"W\u00fchrenbach",
     "wof:parent_id":404568379,
     "wof:placetype":"neighbourhood",
@@ -79,7 +79,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125932243,
+    "wof:supersedes":[
+        1125932243
+    ],
     "wof:tags":[]
 },
   "bbox": [

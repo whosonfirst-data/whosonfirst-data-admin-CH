@@ -45,12 +45,12 @@
     "woe:name_adm1":"Kanton Schwyz",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682305,
         102191581,
         404568479,
         85633051,
         1125853729,
-        102062887
+        102062887,
+        85682305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":1394406965,
-    "wof:lastmodified":1564896345,
+    "wof:lastmodified":1565230675,
     "wof:name":"Brunni",
     "wof:parent_id":404568479,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125853729,
+    "wof:supersedes":[
+        1125853729
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568993,
         85633051,
         1226783521,
-        102062859
+        102062859,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394405417,
-    "wof:lastmodified":1564896487,
+    "wof:lastmodified":1565230691,
     "wof:name":"Hannigalp",
     "wof:parent_id":404568993,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226783521,
+    "wof:supersedes":[
+        1226783521
+    ],
     "wof:tags":[]
 },
   "bbox": [

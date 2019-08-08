@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568719,
         85633051,
         1293524503,
-        102062933
+        102062933,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394400277,
-    "wof:lastmodified":1564896593,
+    "wof:lastmodified":1565230654,
     "wof:name":"Rossweid",
     "wof:parent_id":404568719,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293524503,
+    "wof:supersedes":[
+        1293524503
+    ],
     "wof:tags":[]
 },
   "bbox": [

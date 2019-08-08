@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568389,
         85633051,
         1125832061,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394405503,
-    "wof:lastmodified":1564896331,
+    "wof:lastmodified":1565230577,
     "wof:name":"Weiensch\u00fcr",
     "wof:parent_id":404568389,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125832061,
+    "wof:supersedes":[
+        1125832061
+    ],
     "wof:tags":[]
 },
   "bbox": [

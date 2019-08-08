@@ -48,12 +48,12 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567719,
         85633051,
         1125914743,
-        102062777
+        102062777,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394409025,
-    "wof:lastmodified":1564896365,
+    "wof:lastmodified":1565230647,
     "wof:name":"Suracqua",
     "wof:parent_id":404567719,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125914743,
+    "wof:supersedes":[
+        1125914743
+    ],
     "wof:tags":[]
 },
   "bbox": [

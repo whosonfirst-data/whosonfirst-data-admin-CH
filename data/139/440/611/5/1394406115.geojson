@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567809,
         85633051,
         1242712319,
-        102062845
+        102062845,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394406115,
-    "wof:lastmodified":1564896493,
+    "wof:lastmodified":1565230598,
     "wof:name":"Ramsa",
     "wof:parent_id":404567809,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1242712319,
+    "wof:supersedes":[
+        1242712319
+    ],
     "wof:tags":[]
 },
   "bbox": [

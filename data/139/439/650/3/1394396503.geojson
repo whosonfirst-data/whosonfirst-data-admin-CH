@@ -117,12 +117,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571561,
         85633051,
         1126026021,
-        102062933
+        102062933,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,7 +146,7 @@
         }
     ],
     "wof:id":1394396503,
-    "wof:lastmodified":1564896407,
+    "wof:lastmodified":1565230746,
     "wof:name":"Wildsberg",
     "wof:parent_id":404571561,
     "wof:placetype":"neighbourhood",
@@ -154,7 +154,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126026021,
+    "wof:supersedes":[
+        1126026021
+    ],
     "wof:tags":[]
 },
   "bbox": [

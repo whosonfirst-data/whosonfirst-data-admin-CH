@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567839,
         85633051,
         1276373361,
-        102063035
+        102063035,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394396045,
-    "wof:lastmodified":1564896555,
+    "wof:lastmodified":1565230741,
     "wof:name":"Alpe Pulgabio",
     "wof:parent_id":404567839,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276373361,
+    "wof:supersedes":[
+        1276373361
+    ],
     "wof:tags":[]
 },
   "bbox": [

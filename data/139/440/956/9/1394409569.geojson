@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404569775,
         85633051,
         1259517725,
-        102062955
+        102062955,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394409569,
-    "wof:lastmodified":1564896522,
+    "wof:lastmodified":1565230642,
     "wof:name":"Evenhuesli",
     "wof:parent_id":404569775,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1259517725,
+    "wof:supersedes":[
+        1259517725
+    ],
     "wof:tags":[]
 },
   "bbox": [

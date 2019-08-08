@@ -29,12 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404568633,
         85633051,
         1327270573,
-        102062991
+        102062991,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,15 @@
         }
     ],
     "wof:id":1394407983,
-    "wof:lastmodified":1564896660,
+    "wof:lastmodified":1565230575,
     "wof:name":"Galbisio",
     "wof:parent_id":404568633,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1327270573,
+    "wof:supersedes":[
+        1327270573
+    ],
     "wof:tags":[]
 },
   "bbox": [

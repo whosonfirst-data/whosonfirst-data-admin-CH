@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568005,
         85633051,
         1209846823,
-        102062761
+        102062761,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394401637,
-    "wof:lastmodified":1564896453,
+    "wof:lastmodified":1565230642,
     "wof:name":"Blueomatt",
     "wof:parent_id":404568005,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1209846823,
+    "wof:supersedes":[
+        1209846823
+    ],
     "wof:tags":[]
 },
   "bbox": [

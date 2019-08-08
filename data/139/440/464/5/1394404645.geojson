@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568769,
         85633051,
         1310630197,
-        102062955
+        102062955,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394404645,
-    "wof:lastmodified":1564896631,
+    "wof:lastmodified":1565230605,
     "wof:name":"Muehle",
     "wof:parent_id":404568769,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1310630197,
+    "wof:supersedes":[
+        1310630197
+    ],
     "wof:tags":[]
 },
   "bbox": [

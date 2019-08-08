@@ -40,12 +40,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568635,
         85633051,
         1125816397,
-        102062793
+        102062793,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394401729,
-    "wof:lastmodified":1564896297,
+    "wof:lastmodified":1565230626,
     "wof:name":"Glarey",
     "wof:parent_id":404568635,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125816397,
+    "wof:supersedes":[
+        1125816397
+    ],
     "wof:tags":[]
 },
   "bbox": [

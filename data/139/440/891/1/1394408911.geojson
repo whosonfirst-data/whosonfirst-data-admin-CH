@@ -40,12 +40,12 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567805,
         85633051,
         1125911221,
-        102062931
+        102062931,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394408911,
-    "wof:lastmodified":1564896364,
+    "wof:lastmodified":1565230671,
     "wof:name":"Motto Bartola",
     "wof:parent_id":404567805,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125911221,
+    "wof:supersedes":[
+        1125911221
+    ],
     "wof:tags":[]
 },
   "bbox": [

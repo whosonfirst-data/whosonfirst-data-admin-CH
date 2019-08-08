@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682263,
         102191581,
         404328275,
         85633051,
         1293329553,
-        102063067
+        102063067,
+        85682263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394399659,
-    "wof:lastmodified":1564896587,
+    "wof:lastmodified":1565230721,
     "wof:name":"Rumentikon",
     "wof:parent_id":404328275,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293329553,
+    "wof:supersedes":[
+        1293329553
+    ],
     "wof:tags":[]
 },
   "bbox": [

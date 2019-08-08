@@ -33,12 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568161,
         85633051,
         1243399215,
-        102062985
+        102062985,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +58,15 @@
         }
     ],
     "wof:id":1394408327,
-    "wof:lastmodified":1564896512,
+    "wof:lastmodified":1565230606,
     "wof:name":"La Crettaz",
     "wof:parent_id":404568161,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1243399215,
+    "wof:supersedes":[
+        1243399215
+    ],
     "wof:tags":[]
 },
   "bbox": [

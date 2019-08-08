@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682329,
         102191581,
         404570929,
         85633051,
         1326860625,
-        102062843
+        102062843,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394406219,
-    "wof:lastmodified":1564896644,
+    "wof:lastmodified":1565230588,
     "wof:name":"Gwinden",
     "wof:parent_id":404570929,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1326860625,
+    "wof:supersedes":[
+        1326860625
+    ],
     "wof:tags":[]
 },
   "bbox": [

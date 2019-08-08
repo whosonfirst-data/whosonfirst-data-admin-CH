@@ -118,12 +118,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570247,
         85633051,
         1125931699,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,7 +147,7 @@
         }
     ],
     "wof:id":1394409715,
-    "wof:lastmodified":1564896372,
+    "wof:lastmodified":1565230626,
     "wof:name":"R\u00fcmikon",
     "wof:parent_id":404570247,
     "wof:placetype":"neighbourhood",
@@ -155,7 +155,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125931699,
+    "wof:supersedes":[
+        1125931699
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682301,
         102191581,
         404569075,
         85633051,
         1343892385,
-        102062891
+        102062891,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394410849,
-    "wof:lastmodified":1564896685,
+    "wof:lastmodified":1565230701,
     "wof:name":"Lanthen",
     "wof:parent_id":404569075,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1343892385,
+    "wof:supersedes":[
+        1343892385
+    ],
     "wof:tags":[]
 },
   "bbox": [

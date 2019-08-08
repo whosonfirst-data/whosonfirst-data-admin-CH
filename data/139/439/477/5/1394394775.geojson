@@ -114,12 +114,12 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682329,
         102191581,
         404570885,
         85633051,
         1126004681,
-        102062993
+        102062993,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,7 +143,7 @@
         }
     ],
     "wof:id":1394394775,
-    "wof:lastmodified":1564896392,
+    "wof:lastmodified":1565230733,
     "wof:name":"Unterb\u00f6zberg",
     "wof:parent_id":404570885,
     "wof:placetype":"neighbourhood",
@@ -151,7 +151,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126004681,
+    "wof:supersedes":[
+        1126004681
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -41,12 +41,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567985,
         85633051,
         1125771281,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,13 +69,15 @@
         }
     ],
     "wof:id":1394395213,
-    "wof:lastmodified":1564896240,
+    "wof:lastmodified":1565230747,
     "wof:name":"Riedbach",
     "wof:parent_id":404567985,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125771281,
+    "wof:supersedes":[
+        1125771281
+    ],
     "wof:tags":[]
 },
   "bbox": [

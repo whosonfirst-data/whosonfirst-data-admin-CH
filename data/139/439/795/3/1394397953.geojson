@@ -34,12 +34,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569147,
         85633051,
         1125810303,
-        102062995
+        102062995,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1394397953,
-    "wof:lastmodified":1564896265,
+    "wof:lastmodified":1565230765,
     "wof:name":"Aemperg",
     "wof:parent_id":404569147,
     "wof:placetype":"neighbourhood",
@@ -69,7 +69,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125810303,
+    "wof:supersedes":[
+        1125810303
+    ],
     "wof:tags":[]
 },
   "bbox": [

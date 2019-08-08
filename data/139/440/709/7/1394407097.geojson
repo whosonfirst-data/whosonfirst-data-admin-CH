@@ -48,12 +48,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567939,
         85633051,
         1125859835,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1394407097,
-    "wof:lastmodified":1564896346,
+    "wof:lastmodified":1565230577,
     "wof:name":"R\u00fcschegg-Graben",
     "wof:parent_id":404567939,
     "wof:placetype":"neighbourhood",
@@ -84,7 +84,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125859835,
+    "wof:supersedes":[
+        1125859835
+    ],
     "wof:tags":[]
 },
   "bbox": [

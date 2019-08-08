@@ -40,12 +40,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404569505,
         85633051,
         1125861509,
-        102063041
+        102063041,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394407165,
-    "wof:lastmodified":1564896347,
+    "wof:lastmodified":1565230696,
     "wof:name":"Wingreis",
     "wof:parent_id":404569505,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125861509,
+    "wof:supersedes":[
+        1125861509
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682341,
         102191581,
         404568087,
         85633051,
         1293137313,
-        102062771
+        102062771,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394399023,
-    "wof:lastmodified":1564896582,
+    "wof:lastmodified":1565230764,
     "wof:name":"Wolfikon",
     "wof:parent_id":404568087,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1293137313,
+    "wof:supersedes":[
+        1293137313
+    ],
     "wof:tags":[]
 },
   "bbox": [

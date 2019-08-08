@@ -47,12 +47,12 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568597,
         85633051,
         1125796953,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1394395941,
-    "wof:lastmodified":1564896246,
+    "wof:lastmodified":1565230719,
     "wof:name":"Uelikon",
     "wof:parent_id":404568597,
     "wof:placetype":"neighbourhood",
@@ -83,7 +83,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125796953,
+    "wof:supersedes":[
+        1125796953
+    ],
     "wof:tags":[]
 },
   "bbox": [

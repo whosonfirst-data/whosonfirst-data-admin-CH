@@ -48,12 +48,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568173,
         85633051,
         1125766579,
-        102062837
+        102062837,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394394947,
-    "wof:lastmodified":1564896237,
+    "wof:lastmodified":1565230775,
     "wof:name":"Kemmeriboden",
     "wof:parent_id":404568173,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125766579,
+    "wof:supersedes":[
+        1125766579
+    ],
     "wof:tags":[]
 },
   "bbox": [

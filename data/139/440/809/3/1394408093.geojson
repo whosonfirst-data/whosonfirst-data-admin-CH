@@ -48,12 +48,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567875,
         85633051,
         1125897851,
-        102062761
+        102062761,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +76,15 @@
         }
     ],
     "wof:id":1394408093,
-    "wof:lastmodified":1564896356,
+    "wof:lastmodified":1565230669,
     "wof:name":"Gemmipass",
     "wof:parent_id":404567875,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125897851,
+    "wof:supersedes":[
+        1125897851
+    ],
     "wof:tags":[]
 },
   "bbox": [

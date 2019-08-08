@@ -32,12 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404569043,
         85633051,
         1276366493,
-        102062869
+        102062869,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +57,15 @@
         }
     ],
     "wof:id":1394395885,
-    "wof:lastmodified":1564896553,
+    "wof:lastmodified":1565230750,
     "wof:name":"Reutershaus",
     "wof:parent_id":404569043,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1276366493,
+    "wof:supersedes":[
+        1276366493
+    ],
     "wof:tags":[]
 },
   "bbox": [

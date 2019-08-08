@@ -40,12 +40,12 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567835,
         85633051,
         1126056385,
-        102062915
+        102062915,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,13 +67,15 @@
         }
     ],
     "wof:id":1394397985,
-    "wof:lastmodified":1564896419,
+    "wof:lastmodified":1565230724,
     "wof:name":"St.-Severin",
     "wof:parent_id":404567835,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1126056385,
+    "wof:supersedes":[
+        1126056385
+    ],
     "wof:tags":[]
 },
   "bbox": [

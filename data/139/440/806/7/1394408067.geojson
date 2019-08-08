@@ -41,12 +41,12 @@
     "woe:name_adm1":"Kanton Thurgau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682337,
         102191581,
         404570053,
         85633051,
         1125896521,
-        102062953
+        102062953,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,13 +69,15 @@
         }
     ],
     "wof:id":1394408067,
-    "wof:lastmodified":1564896356,
+    "wof:lastmodified":1565230676,
     "wof:name":"Lengwil-Oberhofen",
     "wof:parent_id":404570053,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1125896521,
+    "wof:supersedes":[
+        1125896521
+    ],
     "wof:tags":[]
 },
   "bbox": [

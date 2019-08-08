@@ -30,12 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568575,
         85633051,
         1226179491,
-        102062779
+        102062779,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,15 @@
         }
     ],
     "wof:id":1394403771,
-    "wof:lastmodified":1564896472,
+    "wof:lastmodified":1565230618,
     "wof:name":"Juckern",
     "wof:parent_id":404568575,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":1226179491,
+    "wof:supersedes":[
+        1226179491
+    ],
     "wof:tags":[]
 },
   "bbox": [
