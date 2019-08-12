@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.25538,46.17549,7.25538,46.17549",
-    "geom:latitude":46.17549,
-    "geom:longitude":7.25538,
+    "geom:area":0.00006,
+    "geom:area_square_m":511499.424133,
+    "geom:bbox":"7.2499464,46.1740645,7.2695085,46.1802862",
+    "geom:latitude":46.177419,
+    "geom:longitude":7.257487,
     "gn:admin1_code":"VS",
     "gn:admin2_code":"2302.0",
     "gn:admin3_code":"6024.0",
@@ -25,12 +25,31 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.17549,
+    "lbl:longitude":7.25538,
+    "mps:latitude":46.177419,
+    "mps:longitude":7.257487,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Cond\u00e9mines"
+    ],
+    "name:eng_x_variant":[
+        "Cond\u00e9mines (Nendaz)",
+        "Condemines (Nendaz)"
+    ],
     "name:und_x_variant":[
         "Cond\u00e9mines (Nendaz)"
     ],
-    "src:geom":"geonames",
+    "nav:latitude":46.17549,
+    "nav:longitude":7.25538,
+    "reversegeo:latitude":46.177419,
+    "reversegeo:longitude":7.257487,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682281,
         102191581,
@@ -43,7 +62,7 @@
         "gn:id":8533437
     },
     "wof:country":"CH",
-    "wof:geomhash":"d576fdcde2c7d578e0764ef659dcb10f",
+    "wof:geomhash":"16a9401b342a0a68459d2f1066134db5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +74,8 @@
         }
     ],
     "wof:id":1260217813,
-    "wof:lastmodified":1537590770,
-    "wof:name":"Condemines (Nendaz)",
+    "wof:lastmodified":1565431395,
+    "wof:name":"Cond\u00e9mines",
     "wof:parent_id":404567831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
@@ -65,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.25538,
-    46.17549,
-    7.25538,
-    46.17549
+    7.2499464,
+    46.1740645,
+    7.2695085,
+    46.1802862
 ],
-  "geometry": {"coordinates":[7.25538,46.17549],"type":"Point"}
+  "geometry": {"coordinates":[[[7.2545509,46.1789682],[7.2570751,46.1802862],[7.2580414,46.1802734],[7.2594201,46.1798363],[7.2608197,46.1793925],[7.264271,46.1790971],[7.2644257,46.1791568],[7.2652243,46.1795646],[7.2695085,46.1787313],[7.2628862,46.1770749],[7.2572387,46.1753523],[7.2554529,46.1743714],[7.2499464,46.1740645],[7.251448,46.1777573],[7.2521405,46.1797766],[7.2545509,46.1789682]]],"type":"Polygon"}
 }

@@ -2,8 +2,9 @@
   "id": 404571675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000476,
     "geom:area_square_m":4025317.938269,
     "geom:bbox":"7.1065267777,46.8508377579,7.14340340266,46.8776530601",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.863602,
     "lbl:longitude":7.12665,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Fribourg",
     "qs:a1_lc":"10",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404571675,
-    "wof:lastmodified":1497044702,
+    "wof:lastmodified":1565449330,
     "wof:name":"Courtepin",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254027
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.16348,46.00857,7.16348,46.00857",
-    "geom:latitude":46.00857,
-    "geom:longitude":7.16348,
+    "geom:area":0.000192,
+    "geom:area_square_m":1649162.506463,
+    "geom:bbox":"7.1452151,46.0019287,7.1668551,46.0167729",
+    "geom:latitude":46.007963,
+    "geom:longitude":7.156272,
     "gn:admin1_code":"VS",
     "gn:admin2_code":"2303.0",
     "gn:admin3_code":"6033.0",
@@ -25,39 +25,137 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.00857,
+    "lbl:longitude":7.16348,
+    "mps:latitude":46.007963,
+    "mps:longitude":7.156272,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "name:bug_x_preferred":[
+        "Fornex"
+    ],
+    "name:cat_x_preferred":[
+        "Horn\u00e8ths"
+    ],
+    "name:ceb_x_preferred":[
+        "Fornex"
+    ],
+    "name:deu_x_preferred":[
+        "Fornex"
+    ],
+    "name:eng_x_preferred":[
+        "Fornex"
+    ],
+    "name:eng_x_variant":[
+        "Fornex (Liddes)"
+    ],
+    "name:eus_x_preferred":[
+        "Fornex"
+    ],
+    "name:fra_x_preferred":[
+        "Fornex"
+    ],
+    "name:hun_x_preferred":[
+        "Fornex"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0578\u0580\u0576\u0565"
+    ],
+    "name:ita_x_preferred":[
+        "Fornex"
+    ],
+    "name:lat_x_preferred":[
+        "Fornex"
+    ],
+    "name:mlg_x_preferred":[
+        "Fornex"
+    ],
+    "name:msa_x_preferred":[
+        "Fornex"
+    ],
+    "name:nld_x_preferred":[
+        "Fornex"
+    ],
+    "name:oci_x_preferred":[
+        "Horn\u00e8ths"
+    ],
+    "name:pol_x_preferred":[
+        "Fornex"
+    ],
+    "name:por_x_preferred":[
+        "Fornex"
+    ],
+    "name:ron_x_preferred":[
+        "Fornex"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0440\u043d\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Fornex"
+    ],
+    "name:spa_x_preferred":[
+        "Fornex"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u043e\u0440\u043d\u0435\u043a\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Fornex"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043e\u0440\u043d\u0435\u043a\u0441"
+    ],
     "name:und_x_variant":[
         "Fornex"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "Fornex"
+    ],
+    "name:vol_x_preferred":[
+        "Fornex"
+    ],
+    "name:war_x_preferred":[
+        "Fornex"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u5c14\u5185"
+    ],
+    "nav:latitude":46.00857,
+    "nav:longitude":7.16348,
+    "reversegeo:latitude":46.007963,
+    "reversegeo:longitude":7.156272,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682281,
         102191581,
-        404567915,
+        1175611199,
         85633051,
-        102062807,
-        1175611199
+        102062807
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8533414
     },
     "wof:country":"CH",
-    "wof:geomhash":"838c23848d4da21f7ab5efab17ad113a",
+    "wof:geomhash":"f239418d4dea88c1d2d944fd0c802eca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062807,
-            "localadmin_id":404567915,
+            "localadmin_id":1175611199,
             "locality_id":1225881577,
             "region_id":85682281
         }
     ],
     "wof:id":1225881577,
-    "wof:lastmodified":1537590770,
-    "wof:name":"Fornex (Liddes)",
+    "wof:lastmodified":1565464990,
+    "wof:name":"Fornex",
     "wof:parent_id":1175611199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
@@ -66,10 +164,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.16348,
-    46.00857,
-    7.16348,
-    46.00857
+    7.1452151,
+    46.0019287,
+    7.1668551,
+    46.0167729
 ],
-  "geometry": {"coordinates":[7.16348,46.00857],"type":"Point"}
+  "geometry": {"coordinates":[[[7.1469175,46.0019287],[7.1466168,46.0027867],[7.1462857,46.0036793],[7.1459687,46.0043576],[7.1457764,46.0048022],[7.1454586,46.0059741],[7.1452151,46.0064558],[7.1459323,46.0070645],[7.1469112,46.0077744],[7.1478278,46.0084583],[7.1483039,46.0088161],[7.1485094,46.0089467],[7.1496039,46.0096809],[7.1499352,46.0098781],[7.1503629,46.0101549],[7.1507556,46.0103973],[7.1512902,46.0107033],[7.152283,46.0112221],[7.1527916,46.0117962],[7.1535275,46.0126742],[7.1541594,46.0134583],[7.1543562,46.0137242],[7.1545738,46.0141033],[7.1579087,46.0167729],[7.1579908,46.0166113],[7.1581953,46.0163721],[7.1583058,46.0161763],[7.1582913,46.0159365],[7.1585896,46.0157193],[7.1586689,46.0155016],[7.1590455,46.0152628],[7.1593118,46.0151981],[7.1596425,46.0147412],[7.1599098,46.0144804],[7.1608324,46.0145262],[7.1614582,46.0144951],[7.1618809,46.0144307],[7.1621941,46.0143552],[7.1627117,46.0140623],[7.1632752,46.0139765],[7.1634953,46.0137591],[7.1634539,46.0126257],[7.1633455,46.0124076],[7.163394,46.0120917],[7.1653853,46.011094],[7.1655739,46.0109092],[7.1655954,46.0097107],[7.1657848,46.0093515],[7.166052,46.0090798],[7.1661469,46.0088621],[7.1663202,46.0086228],[7.1666025,46.0084491],[7.1667915,46.008188],[7.1668551,46.0079703],[7.1666428,46.0077045],[7.166075,46.0065269],[7.1575306,46.0019444],[7.1469175,46.0019287]]],"type":"Polygon"}
 }

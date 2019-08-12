@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569139,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"0d4325ee702987842233ef688f86e1a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112739
+            "county_id":102063055,
+            "localadmin_id":404569139,
+            "locality_id":1126112739,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112739,
-    "wof:lastmodified":1505185764,
+    "wof:lastmodified":1565453230,
     "wof:name":"Unter R\u00fcti",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569139,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -16,7 +17,7 @@
     "lbl:latitude":45.91547,
     "lbl:longitude":7.10508,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:unk_x_variant":[
         "Ferrex"
@@ -74,12 +75,14 @@
         }
     ],
     "wof:id":1125815659,
-    "wof:lastmodified":1509393772,
+    "wof:lastmodified":1565456541,
     "wof:name":"Ferret",
     "wof:parent_id":404567731,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394401127
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

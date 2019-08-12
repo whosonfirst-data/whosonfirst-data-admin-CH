@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1361905.782159,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.638026,46.519777,6.638026,46.519777",
     "geom:latitude":46.519777,
     "geom:longitude":6.638026,
@@ -27,6 +27,9 @@
     "name:deu_x_preferred":[
         "Mon Repos"
     ],
+    "name:est_x_preferred":[
+        "Mon Repos"
+    ],
     "name:fin_x_preferred":[
         "Mon Repos"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u043a \u041c\u043e\u043d\u0440\u0435\u043f\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u043e\u043d-\u0420\u0435\u043f\u043e"
     ],
     "name:unk_x_variant":[
         "Mon Repos"
@@ -79,10 +85,10 @@
     "wof:belongsto":[
         85682325,
         102191581,
-        404568165,
+        404567693,
         85633051,
         101748449,
-        102063009
+        102063021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,8 +102,8 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063009,
-            "localadmin_id":404568165,
+            "county_id":102063021,
+            "localadmin_id":404567693,
             "locality_id":101748449,
             "neighbourhood_id":85862417,
             "region_id":85682325
@@ -107,7 +113,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531870594,
+    "wof:lastmodified":1565428590,
     "wof:name":"Mon Repos",
     "wof:parent_id":101748449,
     "wof:placetype":"neighbourhood",

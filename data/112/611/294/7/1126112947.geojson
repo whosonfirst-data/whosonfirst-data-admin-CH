@@ -37,7 +37,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569487,
+        85633051,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,18 @@
     "wof:geomhash":"1b80cd1d69902b86adc3b5daf5eaa224",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112947
+            "county_id":102062995,
+            "localadmin_id":404569487,
+            "locality_id":1126112947,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112947,
-    "wof:lastmodified":1505185725,
+    "wof:lastmodified":1565453503,
     "wof:name":"Niederhasli / Frevlig",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569487,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

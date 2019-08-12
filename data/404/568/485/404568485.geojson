@@ -2,10 +2,11 @@
   "id": 404568485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.002683,
-    "geom:area_square_m":22770257.561955,
+    "geom:area_square_m":22770257.561953,
     "geom:bbox":"9.15356465404,46.6234269935,9.24202262479,46.6821241208",
     "geom:latitude":46.65427,
     "geom:longitude":9.206,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.656326,
     "lbl:longitude":9.21273,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404568485,
-    "wof:lastmodified":1507751265,
+    "wof:lastmodified":1565446774,
     "wof:name":"St. Martin",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254033
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

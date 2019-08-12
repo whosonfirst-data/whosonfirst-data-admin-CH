@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.38627,
     "lbl:longitude":8.70674,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:unk_x_variant":[
         "Pf\u00e4ffikerstrasse"
@@ -62,14 +63,16 @@
         }
     ],
     "wof:id":1125833047,
-    "wof:lastmodified":1509394830,
+    "wof:lastmodified":1565463076,
     "wof:name":"Gutenswil / Pf\u00e4ffikerstrasse",
     "wof:parent_id":404569019,
     "wof:placetype":"locality",
     "wof:population":15,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394405971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.47439,46.28819,7.47439,46.28819",
-    "geom:latitude":46.28819,
-    "geom:longitude":7.47439,
+    "geom:area":0.000159,
+    "geom:area_square_m":1362524.89781,
+    "geom:bbox":"7.4612324,46.2809193,7.4863376,46.2940431",
+    "geom:latitude":46.287574,
+    "geom:longitude":7.473518,
     "gn:admin1_code":"VS",
     "gn:admin2_code":"2311.0",
     "gn:admin3_code":"6240.0",
@@ -25,16 +25,94 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.28819,
+    "lbl:longitude":7.47439,
+    "mps:latitude":46.287574,
+    "mps:longitude":7.473518,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Chermignon"
+    ],
+    "name:ceb_x_preferred":[
+        "Chermignon-d'en Haut"
+    ],
+    "name:deu_x_preferred":[
+        "Chermignon"
+    ],
+    "name:eng_x_preferred":[
+        "Chermignon"
+    ],
+    "name:epo_x_preferred":[
+        "Chermignon"
+    ],
+    "name:eus_x_preferred":[
+        "Chermignon"
+    ],
+    "name:fra_x_preferred":[
+        "Chermignon"
+    ],
+    "name:frp_x_preferred":[
+        "Ch\u00e8rmegnon"
+    ],
+    "name:ita_x_preferred":[
+        "Chermignon"
+    ],
+    "name:lmo_x_preferred":[
+        "Chermignon"
+    ],
+    "name:msa_x_preferred":[
+        "Chermignon"
+    ],
+    "name:nld_x_preferred":[
+        "Chermignon"
+    ],
+    "name:nno_x_preferred":[
+        "Chermignon"
+    ],
+    "name:pms_x_preferred":[
+        "Chermignon"
+    ],
+    "name:por_x_preferred":[
+        "Chermignon"
+    ],
+    "name:roh_x_preferred":[
+        "Chermignon"
+    ],
+    "name:spa_x_preferred":[
+        "Chermignon"
+    ],
+    "name:sqi_x_preferred":[
+        "Chermignon"
+    ],
+    "name:swe_x_preferred":[
+        "Chermignon"
+    ],
     "name:und_x_variant":[
         "Chermignon-d\u2019en Bas"
     ],
-    "src:geom":"geonames",
+    "name:vol_x_preferred":[
+        "Chermignon"
+    ],
+    "name:war_x_preferred":[
+        "Chermignon"
+    ],
+    "name:zho_x_preferred":[
+        "\u8b1d\u7c73\u5c3c\u5ae9"
+    ],
+    "nav:latitude":46.28819,
+    "nav:longitude":7.47439,
+    "reversegeo:latitude":46.287574,
+    "reversegeo:longitude":7.473518,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682281,
         102191581,
-        404571145,
+        1394254217,
         85633051,
         102062793
     ],
@@ -43,21 +121,21 @@
         "gn:id":2661189
     },
     "wof:country":"CH",
-    "wof:geomhash":"09d2544520042b0e89c282731edf5120",
+    "wof:geomhash":"8bee7eef0e83df45b6941d3ec79cbaae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062793,
-            "localadmin_id":404571145,
+            "localadmin_id":1394254217,
             "locality_id":1225978991,
             "region_id":85682281
         }
     ],
     "wof:id":1225978991,
-    "wof:lastmodified":1537590751,
+    "wof:lastmodified":1565581699,
     "wof:name":"Chermignon",
-    "wof:parent_id":404571145,
+    "wof:parent_id":1394254217,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
@@ -65,10 +143,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.47439,
-    46.28819,
-    7.47439,
-    46.28819
+    7.4612324,
+    46.2809193,
+    7.4863376,
+    46.2940431
 ],
-  "geometry": {"coordinates":[7.47439,46.28819],"type":"Point"}
+  "geometry": {"coordinates":[[[7.4669299,46.2809193],[7.4666449,46.2814824],[7.4661182,46.282497],[7.4658501,46.2830083],[7.4649534,46.2847647],[7.4646156,46.2854181],[7.4639724,46.2866494],[7.4637199,46.2871673],[7.4629747,46.2885952],[7.4625168,46.2894823],[7.4619548,46.2906002],[7.4615633,46.2913997],[7.4612534,46.2917193],[7.4612324,46.2920937],[7.4621048,46.2914338],[7.4665942,46.2901228],[7.4682258,46.2894245],[7.4695188,46.2892862],[7.469867,46.2893896],[7.4701528,46.2896999],[7.4715993,46.2898125],[7.4731033,46.29073],[7.4735684,46.2915049],[7.4735265,46.2918167],[7.4769932,46.2924309],[7.4778704,46.2922221],[7.4779317,46.2922419],[7.478788,46.2926022],[7.4793619,46.2929665],[7.4803906,46.2926124],[7.4833835,46.2932933],[7.4839023,46.2940431],[7.4846878,46.2931168],[7.4847023,46.2930769],[7.4852884,46.2915653],[7.4856504,46.2906329],[7.4859459,46.2898874],[7.4863376,46.2889061],[7.4854217,46.2888938],[7.483395,46.2881024],[7.4833025,46.2880828],[7.4825503,46.2879399],[7.4821136,46.2878076],[7.4816343,46.287785],[7.4802193,46.2875982],[7.478006,46.2859268],[7.4772973,46.2850549],[7.4769822,46.284946],[7.4766636,46.284763],[7.4754629,46.2842381],[7.4746187,46.2828349],[7.4752384,46.2818075],[7.4751822,46.2818305],[7.4747237,46.2817462],[7.4743774,46.2816272],[7.4740279,46.2815664],[7.4738708,46.2815464],[7.4733184,46.2814915],[7.4727781,46.2814949],[7.4725566,46.2815009],[7.4723429,46.28153],[7.4721023,46.2816132],[7.4717438,46.2815378],[7.4714649,46.2814154],[7.4711875,46.2813099],[7.4709758,46.2812475],[7.4709493,46.2812798],[7.4705944,46.2811843],[7.470346,46.281141],[7.4701403,46.2811152],[7.4697955,46.2810828],[7.4695131,46.2810229],[7.4692505,46.2810845],[7.4690644,46.2811204],[7.4689189,46.281172],[7.4688754,46.2811652],[7.4688297,46.2811614],[7.4686584,46.281074],[7.4685713,46.2810358],[7.468436,46.281009],[7.4682172,46.2810205],[7.468068,46.2810188],[7.4679127,46.2810237],[7.4677427,46.2810032],[7.4675775,46.2809907],[7.4672427,46.2809728],[7.4670655,46.2809818],[7.4669299,46.2809193]]],"type":"Polygon"}
 }

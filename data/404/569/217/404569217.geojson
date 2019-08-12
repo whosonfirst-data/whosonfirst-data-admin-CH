@@ -2,8 +2,9 @@
   "id": 404569217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001475,
     "geom:area_square_m":12362365.90499,
     "geom:bbox":"7.25558056286,47.3097453058,7.30160510783,47.3513877655",
@@ -13,6 +14,7 @@
     "lbl:latitude":47.329569,
     "lbl:longitude":7.279312,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Jura",
     "qs:a1_lc":"26",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404569217,
-    "wof:lastmodified":1497052197,
+    "wof:lastmodified":1565444960,
     "wof:name":"Courfaivre",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254195
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

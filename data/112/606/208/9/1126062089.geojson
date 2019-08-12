@@ -19,6 +19,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0647\u0646\u0647\u0648\u0641"
+    ],
+    "name:deu_x_preferred":[
+        "Bahnhof"
+    ],
+    "name:eng_x_preferred":[
+        "Bahnhof"
+    ],
+    "name:eng_x_variant":[
+        "Sch\u00f6fflisdorf / Bahnhof"
+    ],
+    "name:swe_x_preferred":[
+        "Bahnhof"
+    ],
     "name:unk_x_variant":[
         "Bahnhof"
     ],
@@ -37,11 +52,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         404571679,
         85633051,
-        102062995,
-        85682309
+        1125858099,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +73,15 @@
             "country_id":85633051,
             "county_id":102062995,
             "localadmin_id":404571679,
-            "locality_id":-1,
+            "locality_id":1125858099,
             "neighbourhood_id":1126062089,
             "region_id":85682309
         }
     ],
     "wof:id":1126062089,
-    "wof:lastmodified":1509410249,
-    "wof:name":"Sch\u00f6fflisdorf / Bahnhof",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1565460681,
+    "wof:name":"Bahnhof",
+    "wof:parent_id":1125858099,
     "wof:placetype":"neighbourhood",
     "wof:population":331,
     "wof:population_rank":2,

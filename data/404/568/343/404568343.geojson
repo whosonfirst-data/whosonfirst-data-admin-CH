@@ -2,10 +2,11 @@
   "id": 404568343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.003055,
-    "geom:area_square_m":26035658.808689,
+    "geom:area_square_m":26035658.808682,
     "geom:bbox":"7.99165578074,46.3689203319,8.09431693052,46.4780176497",
     "geom:latitude":46.426339,
     "geom:longitude":8.057081,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.41791,
     "lbl:longitude":8.069171,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Valais",
     "qs:a1_lc":"23",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404568343,
-    "wof:lastmodified":1507751264,
+    "wof:lastmodified":1565448110,
     "wof:name":"Betten",
     "wof:parent_id":102063037,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254141
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

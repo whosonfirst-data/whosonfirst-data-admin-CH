@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +28,7 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85682341,
@@ -53,12 +54,14 @@
         }
     ],
     "wof:id":1360019737,
-    "wof:lastmodified":1537038272,
+    "wof:lastmodified":1565432590,
     "wof:name":"Brugg",
     "wof:parent_id":404570435,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394428795
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

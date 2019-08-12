@@ -46,7 +46,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682255,
+        102062857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +61,17 @@
     "wof:geomhash":"0cc4ac3e8894f470bba5081ba2f7675a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125393623
+            "county_id":102062857,
+            "localadmin_id":1125393623,
+            "region_id":85682255
         }
     ],
     "wof:id":1125393623,
-    "wof:lastmodified":1505185774,
+    "wof:lastmodified":1565458414,
     "wof:name":"St. Moritz",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062857,
     "wof:placetype":"localadmin",
     "wof:population":5067,
     "wof:population_rank":5,

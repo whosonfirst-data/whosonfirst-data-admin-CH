@@ -12,6 +12,18 @@
     "iso:country":"CH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Flugplatz Triengen"
+    ],
+    "name:eng_x_preferred":[
+        "Triengen Airport"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Triengen"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Triengen"
+    ],
     "oa:elevation_ft":"1594",
     "oa:type":"small_airport",
     "src:geom":"wikidata",
@@ -24,8 +36,12 @@
         "state_id":2347093
     },
     "wof:belongsto":[
+        85682319,
+        102191581,
+        404328253,
         85633051,
-        85682319
+        1394290769,
+        1394137077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +55,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102553953,
+            "continent_id":102191581,
             "country_id":85633051,
+            "county_id":1394137077,
+            "localadmin_id":404328253,
+            "locality_id":1394290769,
+            "neighbourhood_id":-1,
             "region_id":85682319
         }
     ],
     "wof:id":102553953,
-    "wof:lastmodified":1543846097,
+    "wof:lastmodified":1565422235,
     "wof:name":"Flugplatz Triengen",
-    "wof:parent_id":85682319,
+    "wof:parent_id":1394290769,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

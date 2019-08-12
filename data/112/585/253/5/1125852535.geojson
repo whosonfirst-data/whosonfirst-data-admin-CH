@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.3281,
     "lbl:longitude":8.79192,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -59,14 +60,16 @@
         }
     ],
     "wof:id":1125852535,
-    "wof:lastmodified":1509396019,
+    "wof:lastmodified":1565462107,
     "wof:name":"Widum",
     "wof:parent_id":404568793,
     "wof:placetype":"locality",
     "wof:population":705,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394406767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

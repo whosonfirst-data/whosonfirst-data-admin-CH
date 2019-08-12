@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404570389,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"49c0c7b598f4cf610079272e6438be6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111499
+            "county_id":102063055,
+            "localadmin_id":404570389,
+            "locality_id":1126111499,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111499,
-    "wof:lastmodified":1505185757,
+    "wof:lastmodified":1565454755,
     "wof:name":"Steinighof",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570389,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,

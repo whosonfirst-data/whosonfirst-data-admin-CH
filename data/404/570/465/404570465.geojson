@@ -2,8 +2,9 @@
   "id": 404570465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000873,
     "geom:area_square_m":7396323.723811,
     "geom:bbox":"9.12583533243,46.7054696088,9.19355296718,46.7364792041",
@@ -13,7 +14,7 @@
     "lbl:latitude":46.721873,
     "lbl:longitude":9.15669,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404570465,
-    "wof:lastmodified":1507751276,
+    "wof:lastmodified":1565451423,
     "wof:name":"Vella",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254047
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Glarus",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682249,
+        102063003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"8580d4c80ff7ba631ae5ee3e018ecfd9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125356349
+            "county_id":102063003,
+            "localadmin_id":1125356349,
+            "region_id":85682249
         }
     ],
     "wof:id":1125356349,
-    "wof:lastmodified":1505248099,
+    "wof:lastmodified":1565452801,
     "wof:name":"Bilten",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063003,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

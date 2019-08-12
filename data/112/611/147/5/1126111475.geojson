@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568719,
+        85633051,
+        102062933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"0cf5e9b48c76038c45691af6f2603d21",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111475
+            "county_id":102062933,
+            "localadmin_id":404568719,
+            "locality_id":1126111475,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111475,
-    "wof:lastmodified":1505185756,
+    "wof:lastmodified":1565454727,
     "wof:name":"Sponst\u00fcrli",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568719,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,

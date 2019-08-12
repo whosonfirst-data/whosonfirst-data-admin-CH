@@ -2,10 +2,11 @@
   "id": 404571125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000638,
-    "geom:area_square_m":5421313.4357,
+    "geom:area_square_m":5421313.435699,
     "geom:bbox":"6.74959821484,46.5852821569,6.7962232094,46.6194738478",
     "geom:latitude":46.602715,
     "geom:longitude":6.772554,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.608515,
     "lbl:longitude":6.772901,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Vaud",
     "qs:a1_lc":"22",
@@ -33,7 +35,7 @@
         102191581,
         85633051,
         85682325,
-        102062969
+        102063047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +48,20 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062969,
+            "county_id":102063047,
             "localadmin_id":404571125,
             "region_id":85682325
         }
     ],
     "wof:id":404571125,
-    "wof:lastmodified":1497052591,
+    "wof:lastmodified":1565450107,
     "wof:name":"Carrouge (Vd)",
-    "wof:parent_id":102062969,
+    "wof:parent_id":102063047,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254199
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

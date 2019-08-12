@@ -2,10 +2,11 @@
   "id": 404568937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001727,
-    "geom:area_square_m":14773956.502453,
+    "geom:area_square_m":14773956.502452,
     "geom:bbox":"9.13220512916,46.2084034517,9.22288073414,46.2570119876",
     "geom:latitude":46.232575,
     "geom:longitude":9.181522,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.222267,
     "lbl:longitude":9.20112,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404568937,
-    "wof:lastmodified":1497047214,
+    "wof:lastmodified":1565446649,
     "wof:name":"Grono",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254137
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

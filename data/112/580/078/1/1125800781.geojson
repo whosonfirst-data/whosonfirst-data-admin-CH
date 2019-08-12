@@ -4,20 +4,27 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"10.03375,46.37501,10.03375,46.37501",
-    "geom:latitude":46.37501,
-    "geom:longitude":10.03375,
+    "geom:area":0.000169,
+    "geom:area_square_m":1442230.733556,
+    "geom:bbox":"10.0222877,46.3688734,10.043492,46.3807144",
+    "geom:latitude":46.375017,
+    "geom:longitude":10.032571,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"CH",
     "lbl:latitude":46.37501,
     "lbl:longitude":10.03375,
+    "mps:latitude":46.375017,
+    "mps:longitude":10.032571,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Alp Gr\u00fcm"
+    ],
+    "nav:latitude":46.37501,
+    "nav:longitude":10.03375,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -38,8 +45,13 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":781575,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":46.375017,
+    "reversegeo:longitude":10.032571,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Graub\u00fcnden",
@@ -59,7 +71,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497291249,
-    "wof:geomhash":"691af7cd502b00139595450144491876",
+    "wof:geomhash":"bbe7993abd21aacad050e34c83545da2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +83,7 @@
         }
     ],
     "wof:id":1125800781,
-    "wof:lastmodified":1509392905,
+    "wof:lastmodified":1565457734,
     "wof:name":"Alp Gr\u00fcm",
     "wof:parent_id":404567719,
     "wof:placetype":"locality",
@@ -81,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.03375,
-    46.37501,
-    10.03375,
-    46.37501
+    10.0222877,
+    46.3688734,
+    10.043492,
+    46.3807144
 ],
-  "geometry": {"coordinates":[10.03375,46.37501],"type":"Point"}
+  "geometry": {"coordinates":[[[10.0228363,46.3713534],[10.0222877,46.3763825],[10.0331555,46.3807144],[10.0414075,46.3796008],[10.043492,46.3739421],[10.0301105,46.3688734],[10.0228363,46.3713534]]],"type":"Polygon"}
 }

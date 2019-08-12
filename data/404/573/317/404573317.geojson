@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.000183,
     "geom:area_square_m":1543149.370823,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.944734,
     "lbl:longitude":7.181754,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Fribourg",
     "qs:a1_lc":"10",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404573317,
-    "wof:lastmodified":1507751284,
+    "wof:lastmodified":1565449127,
     "wof:name":"B\u00fcchslen",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404573253
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

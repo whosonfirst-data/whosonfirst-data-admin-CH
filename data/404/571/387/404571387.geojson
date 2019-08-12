@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.000544,
-    "geom:area_square_m":4659361.515251,
+    "geom:area_square_m":4659361.51525,
     "geom:bbox":"7.0946208219,46.182691229,7.14470643991,46.1980790173",
     "geom:latitude":46.191133,
     "geom:longitude":7.121863,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.190897,
     "lbl:longitude":7.122341,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Valais",
     "qs:a1_lc":"23",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"bc858d7994d69236127c13353a6ebd7a",
+    "wof:geomhash":"71cc6e71a5ecc7f518e90fdaee5dfd0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404571387,
-    "wof:lastmodified":1479948023,
+    "wof:lastmodified":1565450087,
     "wof:name":"Saillon",
     "wof:parent_id":102063045,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404569987
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -37,7 +37,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        1394254167,
+        85633051,
+        102063071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,18 @@
     "wof:geomhash":"ee302a8380ff16839ece61d70dde8ecf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111899
+            "county_id":102063071,
+            "localadmin_id":1394254167,
+            "locality_id":1126111899,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111899,
-    "wof:lastmodified":1505185767,
+    "wof:lastmodified":1565453684,
     "wof:name":"Z\u00fcrich (Kreis 10) / Au",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254167,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

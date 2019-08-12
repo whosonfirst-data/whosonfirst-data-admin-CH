@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,16 +27,15 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "Gadme"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
-        404569313,
         85633051,
+        85682281,
         102063031
     ],
     "wof:breaches":[],
@@ -49,18 +49,19 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063031,
-            "localadmin_id":404569313,
             "locality_id":1226683373,
             "region_id":85682281
         }
     ],
     "wof:id":1226683373,
-    "wof:lastmodified":1537590797,
+    "wof:lastmodified":1565464871,
     "wof:name":"Gadme",
-    "wof:parent_id":404569313,
+    "wof:parent_id":102063031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394405309
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

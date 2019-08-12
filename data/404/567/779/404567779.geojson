@@ -2,10 +2,11 @@
   "id": 404567779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.013714,
-    "geom:area_square_m":116277473.629922,
+    "geom:area_square_m":116277473.629912,
     "geom:bbox":"8.27302089059,46.6327748434,8.45516386523,46.7743198888",
     "geom:latitude":46.711224,
     "geom:longitude":8.375716,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.71119,
     "lbl:longitude":8.360537,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404567779,
-    "wof:lastmodified":1497042740,
+    "wof:lastmodified":1565446094,
     "wof:name":"Gadmen",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254003
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

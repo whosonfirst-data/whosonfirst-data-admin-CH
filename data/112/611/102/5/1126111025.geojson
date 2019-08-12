@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569663,
+        85633051,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"ed61c1e4afdc70caa38610adad5b7b4d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111025
+            "county_id":102062769,
+            "localadmin_id":404569663,
+            "locality_id":1126111025,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111025,
-    "wof:lastmodified":1505185742,
+    "wof:lastmodified":1565453057,
     "wof:name":"Paschi",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569663,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

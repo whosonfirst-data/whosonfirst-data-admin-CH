@@ -2,8 +2,9 @@
   "id": 404573059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000255,
     "geom:area_square_m":2190674.119479,
     "geom:bbox":"8.98854098617,46.0441841358,9.02084062086,46.0587994648",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.051436,
     "lbl:longitude":9.007744,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Ticino",
     "qs:a1_lc":"21",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"b9844577704192f64d4338b38a95ef46",
+    "wof:geomhash":"6f6a3cf9317321d521fbe52a2f1cc117",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404573059,
-    "wof:lastmodified":1479927153,
+    "wof:lastmodified":1565449041,
     "wof:name":"Lugano",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254171
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

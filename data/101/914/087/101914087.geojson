@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
     "geom:area_square_m":403720.580946,
@@ -16,7 +17,7 @@
     "mps:latitude":46.340776,
     "mps:longitude":6.205015,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:fra_x_preferred":[
         "Nyon"
     ],
@@ -39,7 +40,7 @@
     "wof:belongsto":[
         85682291,
         102191581,
-        404328495,
+        1175611175,
         85633051,
         102062917
     ],
@@ -59,7 +60,7 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
-            "localadmin_id":404328495,
+            "localadmin_id":1175611175,
             "locality_id":101914087,
             "region_id":85682291
         }
@@ -68,9 +69,9 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1505338661,
+    "wof:lastmodified":1565443847,
     "wof:name":"Nyon",
-    "wof:parent_id":404328495,
+    "wof:parent_id":1175611175,
     "wof:placetype":"locality",
     "wof:population":16797,
     "wof:population_rank":6,

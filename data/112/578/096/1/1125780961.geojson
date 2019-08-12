@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -16,7 +17,7 @@
     "lbl:latitude":46.025,
     "lbl:longitude":7.16634,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -69,12 +70,14 @@
         }
     ],
     "wof:id":1125780961,
-    "wof:lastmodified":1509391557,
+    "wof:lastmodified":1565462206,
     "wof:name":"Commeire",
     "wof:parent_id":404567731,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394395521
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

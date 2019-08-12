@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404571287,
+        85633051,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"8c8ab61715f71e700ea96960909dcd0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112539
+            "county_id":102063019,
+            "localadmin_id":404571287,
+            "locality_id":1126112539,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112539,
-    "wof:lastmodified":1505185722,
+    "wof:lastmodified":1565454371,
     "wof:name":"L\u00e4ngghof",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571287,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

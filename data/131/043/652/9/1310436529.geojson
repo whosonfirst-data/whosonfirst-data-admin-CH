@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.97383,46.57494,7.97383,46.57494",
-    "geom:latitude":46.57494,
-    "geom:longitude":7.97383,
+    "geom:area":0.000007,
+    "geom:area_square_m":60855.612525,
+    "geom:bbox":"7.9706823,46.5736443,7.9779989,46.575809",
+    "geom:latitude":46.574819,
+    "geom:longitude":7.974416,
     "gn:admin1_code":"BE",
     "gn:admin2_code":"250.0",
     "gn:admin3_code":"584.0",
@@ -25,9 +25,24 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.57494,
+    "lbl:longitude":7.97383,
+    "mps:latitude":46.574819,
+    "mps:longitude":7.974416,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "src:geom":"geonames",
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Eigergletscher"
+    ],
+    "nav:latitude":46.57494,
+    "nav:longitude":7.97383,
+    "reversegeo:latitude":46.574819,
+    "reversegeo:longitude":7.974416,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682381,
         102191581,
@@ -40,7 +55,7 @@
         "gn:id":8533560
     },
     "wof:country":"CH",
-    "wof:geomhash":"7ad4c44a0a2fd8220a8fb1e43aa59b24",
+    "wof:geomhash":"ea5f866f46cbadf86302b4c8f0f8a456",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1310436529,
-    "wof:lastmodified":1537015833,
+    "wof:lastmodified":1565432249,
     "wof:name":"Eigergletscher",
     "wof:parent_id":404567735,
     "wof:placetype":"locality",
@@ -62,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.97383,
-    46.57494000000001,
-    7.97383,
-    46.57494000000001
+    7.9706823,
+    46.5736443,
+    7.9779989,
+    46.575809
 ],
-  "geometry": {"coordinates":[7.97383,46.57494000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[7.9759789,46.5752809],[7.9764505,46.5750134],[7.9779989,46.5749629],[7.975825,46.5736443],[7.9755232,46.5737239],[7.9749556,46.573781],[7.9745915,46.5741156],[7.9739161,46.5742084],[7.9722241,46.5748327],[7.9714772,46.5749634],[7.9706823,46.575033],[7.971196,46.57562],[7.9720866,46.5755437],[7.9722608,46.5755191],[7.9723587,46.5755156],[7.9725714,46.5755352],[7.973766,46.575809],[7.9745105,46.5755052],[7.9746904,46.5753036],[7.9747616,46.5752238],[7.9751535,46.5752429],[7.9752769,46.5752478],[7.9754156,46.5752553],[7.9759317,46.5753479],[7.9759789,46.5752809]]],"type":"Polygon"}
 }

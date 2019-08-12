@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"e6f2b0020eee93e0f1663d90e0e859f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113283
+            "county_id":102063055,
+            "locality_id":1126113283,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113283,
-    "wof:lastmodified":1505185758,
+    "wof:lastmodified":1565454669,
     "wof:name":"Buechli",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063055,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

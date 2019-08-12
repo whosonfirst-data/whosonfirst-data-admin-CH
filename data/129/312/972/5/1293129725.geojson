@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"8.48688,47.04448,8.48688,47.04448",
-    "geom:latitude":47.04448,
-    "geom:longitude":8.48688,
+    "geom:area":0.000374,
+    "geom:area_square_m":3147649.887581,
+    "geom:bbox":"8.4769153,47.0355125,8.5188751,47.0509668",
+    "geom:latitude":47.043224,
+    "geom:longitude":8.498173,
     "gn:admin1_code":"SZ",
     "gn:admin2_code":"506.0",
     "gn:admin3_code":"1362.0",
@@ -25,12 +25,30 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":47.04448,
+    "lbl:longitude":8.48688,
+    "mps:latitude":47.043224,
+    "mps:longitude":8.498173,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rigi Kloesterli"
+    ],
+    "name:eng_x_variant":[
+        "Rigi Kl\u00f6sterli"
+    ],
     "name:und_x_variant":[
         "Rigi Kl\u00f6sterli"
     ],
-    "src:geom":"geonames",
+    "nav:latitude":47.04448,
+    "nav:longitude":8.48688,
+    "reversegeo:latitude":47.043224,
+    "reversegeo:longitude":8.498173,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682305,
         102191581,
@@ -43,7 +61,7 @@
         "gn:id":8533631
     },
     "wof:country":"CH",
-    "wof:geomhash":"1befa86ac95f6e3aff5335a40c177cc2",
+    "wof:geomhash":"952412d133d41cac1ce58920970b81d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +73,8 @@
         }
     ],
     "wof:id":1293129725,
-    "wof:lastmodified":1537590776,
-    "wof:name":"Rigi Kloesterli",
+    "wof:lastmodified":1565428982,
+    "wof:name":"Rigi Kl\u00f6sterli",
     "wof:parent_id":404568029,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
@@ -65,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.48688,
-    47.04448,
-    8.48688,
-    47.04448
+    8.4769153,
+    47.0355125,
+    8.5188751,
+    47.0509668
 ],
-  "geometry": {"coordinates":[8.48688,47.04448],"type":"Point"}
+  "geometry": {"coordinates":[[[8.5020173,47.0355125],[8.4963428,47.0370996],[8.4947063,47.0378191],[8.4935371,47.0379398],[8.4928748,47.0381897],[8.4924986,47.0386],[8.4914271,47.039581],[8.4906244,47.040318],[8.4898536,47.040872],[8.4891302,47.0413289],[8.4876841,47.0420561],[8.4867968,47.0425045],[8.4866747,47.0424969],[8.4857212,47.0422893],[8.4839242,47.0417839],[8.4817947,47.0414088],[8.4811281,47.041593],[8.4801093,47.0418568],[8.4799536,47.0424691],[8.48098,47.0435542],[8.481568,47.0440222],[8.4806858,47.0446124],[8.4799225,47.0450653],[8.4797098,47.0452289],[8.478208,47.0461046],[8.477672,47.0464927],[8.4769153,47.0469295],[8.4818783,47.048584],[8.4856494,47.0502948],[8.4867793,47.0508692],[8.486926,47.0509668],[8.4885579,47.0509609],[8.4995989,47.0502026],[8.5001461,47.0505844],[8.5182173,47.0394396],[8.5188751,47.036853],[8.5020173,47.0355125]]],"type":"Polygon"}
 }

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.38535,
     "lbl:longitude":8.84447,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -45,10 +46,9 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
-        404568575,
         85633051,
+        85682309,
         102062779
     ],
     "wof:breaches":[],
@@ -65,20 +65,21 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062779,
-            "localadmin_id":404568575,
             "locality_id":1125949483,
             "region_id":85682309
         }
     ],
     "wof:id":1125949483,
-    "wof:lastmodified":1509402604,
+    "wof:lastmodified":1565452097,
     "wof:name":"Laubberg",
-    "wof:parent_id":404568575,
+    "wof:parent_id":102062779,
     "wof:placetype":"locality",
     "wof:population":47,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394410325
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

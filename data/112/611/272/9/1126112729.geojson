@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568719,
+        85633051,
+        102062933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"105e05a5e5f5e085872513a334ae04d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112729
+            "county_id":102062933,
+            "localadmin_id":404568719,
+            "locality_id":1126112729,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112729,
-    "wof:lastmodified":1505185756,
+    "wof:lastmodified":1565453355,
     "wof:name":"Ifang",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568719,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

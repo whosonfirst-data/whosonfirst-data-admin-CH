@@ -50,7 +50,10 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682269,
+        102062975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +66,17 @@
     "wof:geomhash":"18af1ed7b6bf194f19c2ef1e776a091b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125422683
+            "county_id":102062975,
+            "localadmin_id":1125422683,
+            "region_id":85682269
         }
     ],
     "wof:id":1125422683,
-    "wof:lastmodified":1505185712,
+    "wof:lastmodified":1565457553,
     "wof:name":"Caviano",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
     "wof:population":134,
     "wof:population_rank":1,

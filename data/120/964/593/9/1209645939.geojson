@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,13 +27,17 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "Tegerbuch"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682337,
+        102191581,
+        404568869,
+        85633051,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,23 @@
     "wof:geomhash":"9af38a9903f4953d49a3175f25224938",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209645939
+            "county_id":102062869,
+            "localadmin_id":404568869,
+            "locality_id":1209645939,
+            "region_id":85682337
         }
     ],
     "wof:id":1209645939,
-    "wof:lastmodified":1537590824,
+    "wof:lastmodified":1565430240,
     "wof:name":"Tegerbuch",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394400959
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682281,
+        102062761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"30f05b92b7aa8d78bbbc48727d94c2f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125368209
+            "county_id":102062761,
+            "localadmin_id":1125368209,
+            "region_id":85682281
         }
     ],
     "wof:id":1125368209,
-    "wof:lastmodified":1505185771,
+    "wof:lastmodified":1565459130,
     "wof:name":"Guttet-Feschel",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062761,
     "wof:placetype":"localadmin",
     "wof:population":415,
     "wof:population_rank":2,

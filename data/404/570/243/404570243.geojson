@@ -2,10 +2,11 @@
   "id": 404570243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000963,
-    "geom:area_square_m":8060050.040284,
+    "geom:area_square_m":8060050.040283,
     "geom:bbox":"9.07462017207,47.3540910401,9.12594861443,47.393903019",
     "geom:latitude":47.373974,
     "geom:longitude":9.095473,
@@ -13,7 +14,7 @@
     "lbl:latitude":47.374596,
     "lbl:longitude":9.095072,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"St. Gallen",
     "qs:a1_lc":"17",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404570243,
-    "wof:lastmodified":1507751275,
+    "wof:lastmodified":1565451285,
     "wof:name":"Ganterschwil",
     "wof:parent_id":102062771,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254031
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

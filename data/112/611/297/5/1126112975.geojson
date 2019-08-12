@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"aee3186b9c374ed71ab65d75f705ce5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112975
+            "county_id":102062825,
+            "locality_id":1126112975,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112975,
-    "wof:lastmodified":1505185740,
+    "wof:lastmodified":1565454509,
     "wof:name":"Moos",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062825,
     "wof:placetype":"locality",
     "wof:population":7,
     "wof:population_rank":1,

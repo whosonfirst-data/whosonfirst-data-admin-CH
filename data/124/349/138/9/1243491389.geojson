@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.19331,45.98224,7.19331,45.98224",
-    "geom:latitude":45.98224,
-    "geom:longitude":7.19331,
+    "geom:area":0.000403,
+    "geom:area_square_m":3460693.039793,
+    "geom:bbox":"7.1735309,45.9590579,7.2030574,45.9847164",
+    "geom:latitude":45.971034,
+    "geom:longitude":7.18788,
     "gn:admin1_code":"VS",
     "gn:admin2_code":"2303.0",
     "gn:admin3_code":"6033.0",
@@ -25,36 +25,53 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":45.98224,
+    "lbl:longitude":7.19331,
+    "mps:latitude":45.971034,
+    "mps:longitude":7.18788,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "src:geom":"geonames",
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Palasuit"
+    ],
+    "name:eng_x_variant":[
+        "Palasuit (Liddes)"
+    ],
+    "nav:latitude":45.98224,
+    "nav:longitude":7.19331,
+    "reversegeo:latitude":45.971034,
+    "reversegeo:longitude":7.18788,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682281,
         102191581,
-        404567915,
+        1175611199,
         85633051,
-        102062807,
-        1175611199
+        102062807
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8533411
     },
     "wof:country":"CH",
-    "wof:geomhash":"2099be811a4e14285a7526f2d7f881ce",
+    "wof:geomhash":"b5583ecf483cbf49d955aff116d8f146",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062807,
-            "localadmin_id":404567915,
+            "localadmin_id":1175611199,
             "locality_id":1243491389,
             "region_id":85682281
         }
     ],
     "wof:id":1243491389,
-    "wof:lastmodified":1536740494,
-    "wof:name":"Palasuit (Liddes)",
+    "wof:lastmodified":1565463709,
+    "wof:name":"Palasuit",
     "wof:parent_id":1175611199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
@@ -63,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.19331,
-    45.98224,
-    7.19331,
-    45.98224
+    7.1735309,
+    45.9590579,
+    7.2030574,
+    45.9847164
 ],
-  "geometry": {"coordinates":[7.19331,45.98224],"type":"Point"}
+  "geometry": {"coordinates":[[[7.1735309,45.9598753],[7.1799788,45.9741133],[7.1843457,45.981137],[7.188475,45.9808677],[7.1903829,45.9817288],[7.1901839,45.9822565],[7.1907091,45.982625],[7.1907876,45.9831902],[7.1902571,45.9839801],[7.1910237,45.9847164],[7.1956487,45.9836247],[7.2022411,45.9731764],[7.2021576,45.973135],[7.2020881,45.9730693],[7.2020494,45.9730242],[7.2022145,45.9729703],[7.2023024,45.9729014],[7.2023663,45.9728486],[7.2024655,45.9727192],[7.2024969,45.9726654],[7.2027107,45.9723366],[7.2029198,45.972147],[7.2030181,45.9720623],[7.2030574,45.9720285],[7.2028092,45.9719262],[7.2022128,45.9716785],[7.2002119,45.9708632],[7.1985974,45.9701279],[7.1967975,45.9689785],[7.1959276,45.9688431],[7.1938527,45.9682443],[7.1919869,45.9677228],[7.1915539,45.9659151],[7.191494,45.9653948],[7.1911452,45.9641887],[7.1916116,45.9631545],[7.1908922,45.9610325],[7.1854463,45.9594096],[7.1797106,45.9590579],[7.1735309,45.9598753]]],"type":"Polygon"}
 }

@@ -2,8 +2,9 @@
   "id": 404570861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000725,
     "geom:area_square_m":6178035.54273,
     "geom:bbox":"8.91727228487,46.4102893513,8.97778872001,46.4317717363",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.422043,
     "lbl:longitude":8.942488,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Ticino",
     "qs:a1_lc":"21",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404570861,
-    "wof:lastmodified":1497046892,
+    "wof:lastmodified":1565451332,
     "wof:name":"Ludiano",
     "wof:parent_id":102063035,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

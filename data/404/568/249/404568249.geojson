@@ -2,8 +2,9 @@
   "id": 404568249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.003698,
     "geom:area_square_m":31411859.424923,
     "geom:bbox":"9.49422009708,46.5654707963,9.58967450645,46.6449246135",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.624692,
     "lbl:longitude":9.53627,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404568249,
-    "wof:lastmodified":1497045609,
+    "wof:lastmodified":1565447702,
     "wof:name":"Salouf",
     "wof:parent_id":102062885,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253983
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

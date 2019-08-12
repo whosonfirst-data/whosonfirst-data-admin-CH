@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568875,
+        85633051,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"d7dd0a094ca3c15de5efb0516a5bd1d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111073
+            "county_id":102062769,
+            "localadmin_id":404568875,
+            "locality_id":1126111073,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111073,
-    "wof:lastmodified":1505185744,
+    "wof:lastmodified":1565453966,
     "wof:name":"Langgass",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568875,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

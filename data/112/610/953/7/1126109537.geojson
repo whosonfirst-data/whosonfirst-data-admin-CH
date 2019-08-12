@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Alpenblick"
+    ],
+    "name:eng_x_variant":[
+        "Ottikon / Alpenblick"
+    ],
     "name:unk_x_variant":[
         "Alpenblick"
     ],
@@ -37,11 +43,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
-        404568371,
+        1394254029,
         85633051,
-        102062779,
-        85682309
+        1394298043,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,16 +63,16 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062779,
-            "localadmin_id":404568371,
-            "locality_id":-1,
+            "localadmin_id":1394254029,
+            "locality_id":1394298043,
             "neighbourhood_id":1126109537,
             "region_id":85682309
         }
     ],
     "wof:id":1126109537,
-    "wof:lastmodified":1509412536,
-    "wof:name":"Ottikon / Alpenblick",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1565581867,
+    "wof:name":"Alpenblick",
+    "wof:parent_id":1394298043,
     "wof:placetype":"neighbourhood",
     "wof:population":20,
     "wof:population_rank":1,

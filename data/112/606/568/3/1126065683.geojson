@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Geissberg"
+    ],
+    "name:eng_x_variant":[
+        "Wolfhausen / Geissberg"
+    ],
     "name:unk_x_variant":[
         "Geissberg"
     ],
@@ -37,11 +43,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         404569421,
         85633051,
-        102062967,
-        85682309
+        1125950163,
+        102062967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +64,15 @@
             "country_id":85633051,
             "county_id":102062967,
             "localadmin_id":404569421,
-            "locality_id":-1,
+            "locality_id":1125950163,
             "neighbourhood_id":1126065683,
             "region_id":85682309
         }
     ],
     "wof:id":1126065683,
-    "wof:lastmodified":1509410409,
-    "wof:name":"Wolfhausen / Geissberg",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1565460046,
+    "wof:name":"Geissberg",
+    "wof:parent_id":1125950163,
     "wof:placetype":"neighbourhood",
     "wof:population":31,
     "wof:population_rank":1,

@@ -2,10 +2,11 @@
   "id": 1175611157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000848,
-    "geom:area_square_m":2071084.972506,
+    "geom:area_square_m":7174314.137618,
     "geom:bbox":"9.16585799334,46.7850981399,9.21353465064,46.8503221779",
     "geom:latitude":46.811363,
     "geom:longitude":9.190653,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.838974,
     "lbl:longitude":9.173695,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -29,7 +30,6 @@
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         102191581,
-        404573117,
         85633051,
         85682255,
         102062773
@@ -43,17 +43,19 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062773,
-            "localadmin_id":404573117,
+            "localadmin_id":1175611157,
             "region_id":85682255
         }
     ],
     "wof:id":1175611157,
-    "wof:lastmodified":1534985874,
+    "wof:lastmodified":1565431843,
     "wof:name":"Ladir",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254103
+    ],
     "wof:supersedes":[
         404571215,
         404573117

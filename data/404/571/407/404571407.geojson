@@ -2,10 +2,11 @@
   "id": 404571407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000544,
-    "geom:area_square_m":4608103.697874,
+    "geom:area_square_m":4608103.697873,
     "geom:bbox":"7.54116940209,46.7074440952,7.60209859174,46.7354863829",
     "geom:latitude":46.722499,
     "geom:longitude":7.566692,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.725872,
     "lbl:longitude":7.562075,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "H\u00f6fen b. Thun"
     ],
@@ -57,12 +58,14 @@
         }
     ],
     "wof:id":404571407,
-    "wof:lastmodified":1504301895,
+    "wof:lastmodified":1565449536,
     "wof:name":"H\u00f6fen",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253993
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

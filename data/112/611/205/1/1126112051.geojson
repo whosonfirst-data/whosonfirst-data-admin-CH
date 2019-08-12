@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569713,
+        85633051,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"ce83a9ef181d59a8ddcdbd46aa4b2631",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112051
+            "county_id":102062801,
+            "localadmin_id":404569713,
+            "locality_id":1126112051,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112051,
-    "wof:lastmodified":1505185719,
+    "wof:lastmodified":1565453609,
     "wof:name":"Saum",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569713,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

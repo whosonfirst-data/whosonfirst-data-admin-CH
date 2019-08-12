@@ -2,10 +2,11 @@
   "id": 404568707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.002124,
-    "geom:area_square_m":17964526.903038,
+    "geom:area_square_m":17964526.903037,
     "geom:bbox":"9.06554616829,46.7953156543,9.14148971731,46.8753900414",
     "geom:latitude":46.842331,
     "geom:longitude":9.109159,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.836544,
     "lbl:longitude":9.121243,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404568707,
-    "wof:lastmodified":1497045607,
+    "wof:lastmodified":1565446715,
     "wof:name":"Pigniu",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254103
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

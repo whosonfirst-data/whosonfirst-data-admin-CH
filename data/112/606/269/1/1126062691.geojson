@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Fadacher"
+    ],
+    "name:eng_x_variant":[
+        "Zumikon / Fadacher"
+    ],
     "name:unk_x_variant":[
         "Fadacher"
     ],
@@ -37,11 +43,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         404571095,
         85633051,
-        102062769,
-        85682309
+        1126035571,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +64,15 @@
             "country_id":85633051,
             "county_id":102062769,
             "localadmin_id":404571095,
-            "locality_id":-1,
+            "locality_id":1126035571,
             "neighbourhood_id":1126062691,
             "region_id":85682309
         }
     ],
     "wof:id":1126062691,
-    "wof:lastmodified":1509410276,
-    "wof:name":"Zumikon / Fadacher",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1565460295,
+    "wof:name":"Fadacher",
+    "wof:parent_id":1126035571,
     "wof:placetype":"neighbourhood",
     "wof:population":101,
     "wof:population_rank":1,

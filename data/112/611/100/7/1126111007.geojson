@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"f117d8917a43e2dcef7e79b91801a0ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111007
+            "county_id":102062825,
+            "locality_id":1126111007,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111007,
-    "wof:lastmodified":1505185742,
+    "wof:lastmodified":1565453960,
     "wof:name":"H\u00e4nsital",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062825,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

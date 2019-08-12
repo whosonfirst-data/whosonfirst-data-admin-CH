@@ -2,10 +2,11 @@
   "id": 404570621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000807,
-    "geom:area_square_m":6896057.984412,
+    "geom:area_square_m":6896057.984411,
     "geom:bbox":"9.11479193518,46.2852350545,9.15290433298,46.3168916978",
     "geom:latitude":46.302037,
     "geom:longitude":9.133287,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.301773,
     "lbl:longitude":9.13293,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404570621,
-    "wof:lastmodified":1497044009,
+    "wof:lastmodified":1565451244,
     "wof:name":"Braggio",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254093
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

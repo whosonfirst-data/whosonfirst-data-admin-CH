@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Glarus",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682249,
+        102063003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"4af88affd6044fb96eb0bc6ebbd57f96",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125391793
+            "county_id":102063003,
+            "localadmin_id":1125391793,
+            "region_id":85682249
         }
     ],
     "wof:id":1125391793,
-    "wof:lastmodified":1505248171,
+    "wof:lastmodified":1565458451,
     "wof:name":"Ennenda",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063003,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

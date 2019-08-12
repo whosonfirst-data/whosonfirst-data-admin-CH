@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682281,
+        102062859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"a0474cbffed2b79df7cdea932e39c365",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125391613
+            "county_id":102062859,
+            "localadmin_id":1125391613,
+            "region_id":85682281
         }
     ],
     "wof:id":1125391613,
-    "wof:lastmodified":1505248171,
+    "wof:lastmodified":1565458419,
     "wof:name":"T\u00f6rbel",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062859,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

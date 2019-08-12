@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2679844.563945,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.485412,46.972201,7.485412,46.972201",
     "geom:latitude":46.972201,
     "geom:longitude":7.485412,
@@ -16,7 +17,7 @@
     "mps:latitude":46.976565,
     "mps:longitude":7.483912,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -77,9 +78,9 @@
     "wof:belongsto":[
         85682381,
         102191581,
-        404567985,
+        404571611,
         85633051,
-        101748453,
+        1394289109,
         102062861
     ],
     "wof:breaches":[],
@@ -98,8 +99,8 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
-            "localadmin_id":404567985,
-            "locality_id":101748453,
+            "localadmin_id":404571611,
+            "locality_id":1394289109,
             "neighbourhood_id":85800083,
             "region_id":85682381
         }
@@ -108,12 +109,14 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531862002,
+    "wof:lastmodified":1565428502,
     "wof:name":"Ittigen",
-    "wof:parent_id":101748453,
+    "wof:parent_id":1394289109,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404571611
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

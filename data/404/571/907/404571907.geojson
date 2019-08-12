@@ -2,10 +2,11 @@
   "id": 404571907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000415,
-    "geom:area_square_m":3519936.482779,
+    "geom:area_square_m":3519936.48278,
     "geom:bbox":"6.77299765041,46.6866802523,6.80677252217,46.7091249323",
     "geom:latitude":46.69722,
     "geom:longitude":6.787629,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.695404,
     "lbl:longitude":6.787883,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Vaud",
     "qs:a1_lc":"22",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"d72fd48688e29b44ec1ce071376eb7f4",
+    "wof:geomhash":"6c75b7b83e1243f44b6c4aac81fc82ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404571907,
-    "wof:lastmodified":1479927073,
+    "wof:lastmodified":1565449188,
     "wof:name":"Neyruz-Sur-Moudon",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254013
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

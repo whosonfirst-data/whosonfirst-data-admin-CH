@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569213,
+        85633051,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"b5747d96e0aa187ccb66ade1802c2ebb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110403
+            "county_id":102062995,
+            "localadmin_id":404569213,
+            "locality_id":1126110403,
+            "region_id":85682309
         }
     ],
     "wof:id":1126110403,
-    "wof:lastmodified":1505185726,
+    "wof:lastmodified":1565453365,
     "wof:name":"Breitenstein",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569213,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

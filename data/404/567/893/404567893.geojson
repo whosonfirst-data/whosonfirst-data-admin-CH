@@ -2,10 +2,11 @@
   "id": 404567893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.007268,
-    "geom:area_square_m":61607690.3024,
+    "geom:area_square_m":61607690.302404,
     "geom:bbox":"9.01014668264,46.674820657,9.1470971276,46.7704367788",
     "geom:latitude":46.719983,
     "geom:longitude":9.072976,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.71764,
     "lbl:longitude":9.071929,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404567893,
-    "wof:lastmodified":1507751259,
+    "wof:lastmodified":1565445938,
     "wof:name":"Obersaxen",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254201
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

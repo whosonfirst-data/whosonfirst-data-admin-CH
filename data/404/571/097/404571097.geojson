@@ -2,10 +2,11 @@
   "id": 404571097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000645,
-    "geom:area_square_m":5466338.220957,
+    "geom:area_square_m":5466338.220958,
     "geom:bbox":"6.58153351417,46.6896140275,6.63258045657,46.7185240518",
     "geom:latitude":46.702729,
     "geom:longitude":6.604621,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.705004,
     "lbl:longitude":6.598632,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Vaud",
     "qs:a1_lc":"22",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404571097,
-    "wof:lastmodified":1497042055,
+    "wof:lastmodified":1565449547,
     "wof:name":"Corcelles-Sur-Chavornay",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254085
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -19,7 +19,58 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Goldbach"
+    ],
+    "name:deu_x_preferred":[
+        "Goldbach"
+    ],
+    "name:eng_x_preferred":[
+        "Goldbach"
+    ],
+    "name:eng_x_variant":[
+        "K\u00fcsnacht / Goldbach"
+    ],
+    "name:epo_x_preferred":[
+        "Goldbach"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0644\u062f\u0628\u0627\u062e"
+    ],
+    "name:fra_x_preferred":[
+        "Goldbach"
+    ],
+    "name:ita_x_preferred":[
+        "Goldbach"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30eb\u30c8\u30d0\u30c3\u30cf"
+    ],
+    "name:nld_x_preferred":[
+        "Goldbach"
+    ],
+    "name:pol_x_preferred":[
+        "Goldbach"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u044c\u0434\u0431\u0430\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Goldbach"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u043b\u0434\u0431\u0430\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Goldbach"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u044c\u0434\u0431\u0430\u0445"
+    ],
     "name:unk_x_variant":[
+        "Goldbach"
+    ],
+    "name:vol_x_preferred":[
         "Goldbach"
     ],
     "qs_pg:aaroncc":"CH",
@@ -37,11 +88,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
+        404568929,
         85633051,
-        101748463,
-        102063071,
-        85682309
+        1125823787,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,16 +107,17 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063071,
-            "locality_id":101748463,
+            "county_id":102062769,
+            "localadmin_id":404568929,
+            "locality_id":1125823787,
             "neighbourhood_id":1126104533,
             "region_id":85682309
         }
     ],
     "wof:id":1126104533,
-    "wof:lastmodified":1509412305,
-    "wof:name":"K\u00fcsnacht / Goldbach",
-    "wof:parent_id":101748463,
+    "wof:lastmodified":1565452862,
+    "wof:name":"Goldbach",
+    "wof:parent_id":1125823787,
     "wof:placetype":"neighbourhood",
     "wof:population":2607,
     "wof:population_rank":4,

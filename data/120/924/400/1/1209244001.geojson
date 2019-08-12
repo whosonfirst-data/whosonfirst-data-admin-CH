@@ -32,7 +32,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682269,
+        102191581,
+        404573575,
+        85633051,
+        102062975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"a6f11d04c7be0207206d969ac91caf3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209244001
+            "county_id":102062975,
+            "localadmin_id":404573575,
+            "locality_id":1209244001,
+            "region_id":85682269
         }
     ],
     "wof:id":1209244001,
-    "wof:lastmodified":1537590785,
+    "wof:lastmodified":1565430372,
     "wof:name":"Alpe Arolgia",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404573575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

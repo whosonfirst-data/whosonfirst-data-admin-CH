@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"b9897f7a4b47c7d70a97fdb9a1cddc8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112561
+            "county_id":102062825,
+            "locality_id":1126112561,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112561,
-    "wof:lastmodified":1505185741,
+    "wof:lastmodified":1565453583,
     "wof:name":"D\u00e4chenwis",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062825,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

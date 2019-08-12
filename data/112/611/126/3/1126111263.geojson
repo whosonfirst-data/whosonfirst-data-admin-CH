@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568617,
+        85633051,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"2037e4d832d32dff18ea32fb6e5d53c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111263
+            "county_id":102062779,
+            "localadmin_id":404568617,
+            "locality_id":1126111263,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111263,
-    "wof:lastmodified":1505185750,
+    "wof:lastmodified":1565453839,
     "wof:name":"Auenfeld",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568617,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

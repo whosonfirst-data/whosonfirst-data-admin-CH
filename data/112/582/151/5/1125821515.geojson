@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.42838,
     "lbl:longitude":8.49091,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -47,9 +48,10 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        85633051,
         85682309,
+        102191581,
+        1394254167,
+        85633051,
         102063071
     ],
     "wof:breaches":[],
@@ -66,19 +68,22 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063071,
+            "localadmin_id":1394254167,
             "locality_id":1125821515,
             "region_id":85682309
         }
     ],
     "wof:id":1125821515,
-    "wof:lastmodified":1509394123,
+    "wof:lastmodified":1565461598,
     "wof:name":"Katzensee",
-    "wof:parent_id":102063071,
+    "wof:parent_id":1394254167,
     "wof:placetype":"locality",
     "wof:population":8,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394404185
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

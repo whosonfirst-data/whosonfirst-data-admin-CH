@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568687,
+        85633051,
+        102062967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"6d5294b578c87cc6163d0ef4ac82a26d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112235
+            "county_id":102062967,
+            "localadmin_id":404568687,
+            "locality_id":1126112235,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112235,
-    "wof:lastmodified":1505185731,
+    "wof:lastmodified":1565454195,
     "wof:name":"Gotthard",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568687,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,

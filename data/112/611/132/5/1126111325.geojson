@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"7b2cfae4b283230562653b917c807408",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111325
+            "county_id":102062779,
+            "locality_id":1126111325,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111325,
-    "wof:lastmodified":1505185752,
+    "wof:lastmodified":1565452966,
     "wof:name":"Gfellacher",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062779,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

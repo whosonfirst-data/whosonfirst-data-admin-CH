@@ -2,8 +2,9 @@
   "id": 404571369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000559,
     "geom:area_square_m":4708446.825343,
     "geom:bbox":"7.48785351511,47.0632930456,7.52711911887,47.0878768833",
@@ -13,7 +14,7 @@
     "lbl:latitude":47.076189,
     "lbl:longitude":7.507543,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404571369,
-    "wof:lastmodified":1507751279,
+    "wof:lastmodified":1565449758,
     "wof:name":"Grafenried",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254067
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

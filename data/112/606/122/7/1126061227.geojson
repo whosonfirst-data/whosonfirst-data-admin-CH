@@ -18,7 +18,38 @@
     "lbl:longitude":8.54381,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bih_x_preferred":[
+        "\u0932\u0942\u0939\u093f"
+    ],
+    "name:ceb_x_preferred":[
+        "Loo"
+    ],
+    "name:ces_x_preferred":[
+        "Loo"
+    ],
+    "name:cym_x_preferred":[
+        "Loo"
+    ],
+    "name:deu_x_preferred":[
+        "Loo"
+    ],
+    "name:eng_x_preferred":[
+        "Loo"
+    ],
+    "name:eng_x_variant":[
+        "R\u00fcschlikon / Loo"
+    ],
+    "name:fra_x_preferred":[
+        "Loo"
+    ],
+    "name:spa_x_preferred":[
+        "Loo"
+    ],
+    "name:swe_x_preferred":[
+        "Loo"
+    ],
     "name:unk_x_variant":[
         "Loo"
     ],
@@ -37,11 +68,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
+        404571543,
         85633051,
-        101748463,
-        102063071,
-        85682309
+        1125851455,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,16 +87,17 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063071,
-            "locality_id":101748463,
+            "county_id":102062825,
+            "localadmin_id":404571543,
+            "locality_id":1125851455,
             "neighbourhood_id":1126061227,
             "region_id":85682309
         }
     ],
     "wof:id":1126061227,
-    "wof:lastmodified":1509410203,
-    "wof:name":"R\u00fcschlikon / Loo",
-    "wof:parent_id":101748463,
+    "wof:lastmodified":1565460818,
+    "wof:name":"Loo",
+    "wof:parent_id":1125851455,
     "wof:placetype":"neighbourhood",
     "wof:population":244,
     "wof:population_rank":2,

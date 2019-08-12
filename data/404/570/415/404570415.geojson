@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.000896,
     "geom:area_square_m":7592178.857763,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.760078,
     "lbl:longitude":8.107691,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"e515a3a4f67c2cf5472eabd7ea8585f3",
+    "wof:geomhash":"f4fc0ac3f1dbb1c297d0eea269dad0df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404570415,
-    "wof:lastmodified":1479927057,
+    "wof:lastmodified":1565451291,
     "wof:name":"Brienzwiler",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404569767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

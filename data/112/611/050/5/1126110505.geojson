@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569421,
+        85633051,
+        102062967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"8ac37486b9fd4800cbfc2ce38a2fa3f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110505
+            "county_id":102062967,
+            "localadmin_id":404569421,
+            "locality_id":1126110505,
+            "region_id":85682309
         }
     ],
     "wof:id":1126110505,
-    "wof:lastmodified":1505185729,
+    "wof:lastmodified":1565454409,
     "wof:name":"Hinter-R\u00fcteli",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569421,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

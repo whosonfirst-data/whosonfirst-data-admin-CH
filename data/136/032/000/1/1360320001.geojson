@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,7 +27,7 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "Biberm\u00fcli"
     ],
@@ -39,7 +40,7 @@
         102191581,
         404328359,
         85633051,
-        102063007
+        1394298251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +52,21 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063007,
+            "county_id":1394298251,
             "localadmin_id":404328359,
             "locality_id":1360320001,
             "region_id":85682285
         }
     ],
     "wof:id":1360320001,
-    "wof:lastmodified":1537590782,
+    "wof:lastmodified":1565432719,
     "wof:name":"Bibermuhle",
     "wof:parent_id":404328359,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394429161
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

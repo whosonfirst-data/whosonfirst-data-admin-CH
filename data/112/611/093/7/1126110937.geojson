@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569159,
+        85633051,
+        1394212863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"c8b8c17360e38f5909a8790c1ca3d75f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110937
+            "county_id":1394212863,
+            "localadmin_id":404569159,
+            "locality_id":1126110937,
+            "region_id":85682309
         }
     ],
     "wof:id":1126110937,
-    "wof:lastmodified":1505185739,
+    "wof:lastmodified":1565454524,
     "wof:name":"Frohe Aussicht",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569159,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

@@ -19,7 +19,64 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "Weingarten"
+    ],
+    "name:ceb_x_preferred":[
+        "Weingarten"
+    ],
+    "name:ces_x_preferred":[
+        "Weingarten"
+    ],
+    "name:deu_x_preferred":[
+        "Weingarten"
+    ],
+    "name:eng_x_preferred":[
+        "Weingarten"
+    ],
+    "name:eng_x_variant":[
+        "R\u00fcschlikon / Weingarten"
+    ],
+    "name:epo_x_preferred":[
+        "Weingarten"
+    ],
+    "name:fra_x_preferred":[
+        "Weingarten"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d9\u05e0\u05d2\u05e8\u05d8\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Weingarten"
+    ],
+    "name:lmo_x_preferred":[
+        "Weingarten"
+    ],
+    "name:nld_x_preferred":[
+        "Weingarten"
+    ],
+    "name:nor_x_preferred":[
+        "Weingarten"
+    ],
+    "name:pol_x_preferred":[
+        "Weingarten"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0439\u043d\u0433\u0430\u0440\u0442\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Weingarten"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0458\u043d\u0433\u0430\u0440\u0442\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Weingarten"
+    ],
     "name:unk_x_variant":[
+        "Weingarten"
+    ],
+    "name:vol_x_preferred":[
         "Weingarten"
     ],
     "qs_pg:aaroncc":"CH",
@@ -37,11 +94,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
+        404571543,
         85633051,
-        101748463,
-        102063071,
-        85682309
+        1125851455,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,16 +113,17 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063071,
-            "locality_id":101748463,
+            "county_id":102062825,
+            "localadmin_id":404571543,
+            "locality_id":1125851455,
             "neighbourhood_id":1126061229,
             "region_id":85682309
         }
     ],
     "wof:id":1126061229,
-    "wof:lastmodified":1509410203,
-    "wof:name":"R\u00fcschlikon / Weingarten",
-    "wof:parent_id":101748463,
+    "wof:lastmodified":1565460815,
+    "wof:name":"Weingarten",
+    "wof:parent_id":1125851455,
     "wof:placetype":"neighbourhood",
     "wof:population":103,
     "wof:population_rank":1,

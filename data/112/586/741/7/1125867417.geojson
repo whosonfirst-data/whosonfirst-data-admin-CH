@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -16,7 +17,7 @@
     "lbl:latitude":46.32227,
     "lbl:longitude":7.07425,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -71,12 +72,14 @@
         }
     ],
     "wof:id":1125867417,
-    "wof:lastmodified":1509397072,
+    "wof:lastmodified":1565455649,
     "wof:name":"Bretaye",
     "wof:parent_id":404567917,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394407235
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

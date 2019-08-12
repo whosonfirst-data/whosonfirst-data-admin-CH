@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.50574,46.09815,7.50574,46.09815",
-    "geom:latitude":46.09815,
-    "geom:longitude":7.50574,
+    "geom:area":0.000094,
+    "geom:area_square_m":808337.670723,
+    "geom:bbox":"7.4973156,46.0932201,7.5116919,46.1045205",
+    "geom:latitude":46.098817,
+    "geom:longitude":7.504863,
     "gn:admin1_code":"VS",
     "gn:admin2_code":"2305.0",
     "gn:admin3_code":"6083.0",
@@ -25,12 +25,72 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.09815,
+    "lbl:longitude":7.50574,
+    "mps:latitude":46.098817,
+    "mps:longitude":7.504863,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "La Tour"
+    ],
+    "name:deu_x_preferred":[
+        "La Tour"
+    ],
+    "name:eng_x_preferred":[
+        "La Tour"
+    ],
+    "name:eng_x_variant":[
+        "La Tour VS"
+    ],
     "name:fra_x_preferred":[
         "La Tour"
     ],
-    "src:geom":"geonames",
+    "name:ita_x_preferred":[
+        "La Tour"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30c8\u30a5\u30fc\u30eb"
+    ],
+    "name:nds_x_preferred":[
+        "La Tour"
+    ],
+    "name:nld_x_preferred":[
+        "La Tour"
+    ],
+    "name:pol_x_preferred":[
+        "La Tour"
+    ],
+    "name:por_x_preferred":[
+        "La Tour"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0442\u0443\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "La Tour"
+    ],
+    "name:spa_x_preferred":[
+        "La Tour"
+    ],
+    "name:swe_x_preferred":[
+        "La Tour"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0422\u0443\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5716\u723e"
+    ],
+    "nav:latitude":46.09815,
+    "nav:longitude":7.50574,
+    "reversegeo:latitude":46.098817,
+    "reversegeo:longitude":7.504863,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682281,
         102191581,
@@ -43,7 +103,7 @@
         "gn:id":2660009
     },
     "wof:country":"CH",
-    "wof:geomhash":"47c47d2867cb922fabe5cb6a0fa4aefe",
+    "wof:geomhash":"6f865764e4b40d7a9529ac27cf0e419d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +115,7 @@
         }
     ],
     "wof:id":1243300089,
-    "wof:lastmodified":1537590745,
+    "wof:lastmodified":1565463403,
     "wof:name":"La Tour",
     "wof:parent_id":404567707,
     "wof:placetype":"locality",
@@ -65,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.50574,
-    46.09815,
-    7.50574,
-    46.09815
+    7.4973156,
+    46.0932201,
+    7.5116919,
+    46.1045205
 ],
-  "geometry": {"coordinates":[7.50574,46.09815],"type":"Point"}
+  "geometry": {"coordinates":[[[7.5076411,46.0936354],[7.5054173,46.0932201],[7.5022974,46.094769],[7.4973156,46.101328],[7.4983274,46.1017374],[7.4983798,46.1017657],[7.5042426,46.103676],[7.5064767,46.1044042],[7.5070343,46.1045205],[7.5085122,46.1032273],[7.5087678,46.1030085],[7.5091443,46.1016907],[7.5094244,46.1012648],[7.5097876,46.0999783],[7.5097217,46.0998621],[7.5097213,46.0996116],[7.5091493,46.097389],[7.5093591,46.0968934],[7.509546,46.0957527],[7.5095971,46.0955365],[7.5103259,46.0952765],[7.5109991,46.0947099],[7.5110323,46.0946417],[7.5116919,46.0938288],[7.5076411,46.0936354]]],"type":"Polygon"}
 }

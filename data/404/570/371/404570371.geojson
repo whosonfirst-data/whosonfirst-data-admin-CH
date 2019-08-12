@@ -2,8 +2,9 @@
   "id": 404570371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000925,
     "geom:area_square_m":7744354.849558,
     "geom:bbox":"7.48700300468,47.3474874232,7.54145468675,47.3723028172",
@@ -13,7 +14,7 @@
     "lbl:latitude":47.361829,
     "lbl:longitude":7.51244,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Jura",
     "qs:a1_lc":"26",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404570371,
-    "wof:lastmodified":1507751275,
+    "wof:lastmodified":1565451505,
     "wof:name":"Montsevelier",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254037
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

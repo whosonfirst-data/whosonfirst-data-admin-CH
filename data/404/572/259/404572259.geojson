@@ -2,10 +2,11 @@
   "id": 404572259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000319,
-    "geom:area_square_m":2723045.874516,
+    "geom:area_square_m":2723045.874515,
     "geom:bbox":"8.07840471857,46.3812109056,8.10608234772,46.4123903944",
     "geom:latitude":46.394814,
     "geom:longitude":8.092541,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.389015,
     "lbl:longitude":8.096942,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Valais",
     "qs:a1_lc":"23",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404572259,
-    "wof:lastmodified":1507751282,
+    "wof:lastmodified":1565448242,
     "wof:name":"Martisberg",
     "wof:parent_id":102063037,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254141
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

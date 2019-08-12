@@ -2,10 +2,11 @@
   "id": 404568879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001853,
-    "geom:area_square_m":15529765.70786,
+    "geom:area_square_m":15529765.707862,
     "geom:bbox":"7.20286927047,47.3109696908,7.27214142347,47.365063788",
     "geom:latitude":47.335142,
     "geom:longitude":7.240772,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.333555,
     "lbl:longitude":7.240244,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Jura",
     "qs:a1_lc":"26",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404568879,
-    "wof:lastmodified":1497047424,
+    "wof:lastmodified":1565447604,
     "wof:name":"Bassecourt",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254195
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

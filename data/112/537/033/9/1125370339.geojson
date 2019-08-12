@@ -59,7 +59,10 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682255,
+        102062903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,14 +75,17 @@
     "wof:geomhash":"2a9aabe8f0ddeb3e28ca93ec9a3f3028",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125370339
+            "county_id":102062903,
+            "localadmin_id":1125370339,
+            "region_id":85682255
         }
     ],
     "wof:id":1125370339,
-    "wof:lastmodified":1505185714,
+    "wof:lastmodified":1565458388,
     "wof:name":"Arvigo",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
     "wof:population":92,
     "wof:population_rank":1,

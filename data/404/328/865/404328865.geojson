@@ -2,8 +2,9 @@
   "id": 404328865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000229,
     "geom:area_square_m":1923455.810579,
     "geom:bbox":"7.42179654943,47.128806285,7.44547625486,47.1458861103",
@@ -13,6 +14,7 @@
     "lbl:latitude":47.137263,
     "lbl:longitude":7.434468,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Solothurn",
     "qs:a1_lc":"11",
@@ -29,28 +31,30 @@
         102191581,
         85633051,
         85682365,
-        102062823
+        1394137095
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"2f5673ee7d1ba0345966fe784d32d505",
+    "wof:geomhash":"be746795da7d65593c71b3878884a7d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062823,
+            "county_id":1394137095,
             "localadmin_id":404328865,
             "region_id":85682365
         }
     ],
     "wof:id":404328865,
-    "wof:lastmodified":1479928058,
+    "wof:lastmodified":1565450857,
     "wof:name":"Gossliwil",
-    "wof:parent_id":102062823,
+    "wof:parent_id":1394137095,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254001
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

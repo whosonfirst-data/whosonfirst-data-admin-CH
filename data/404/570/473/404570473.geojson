@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.00088,
     "geom:area_square_m":7375103.173077,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.312475,
     "lbl:longitude":8.71976,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Z\u00fcrich",
     "qs:a1_lc":"1",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404570473,
-    "wof:lastmodified":1497044640,
+    "wof:lastmodified":1565451762,
     "wof:name":"M\u00f6nchaltorf",
     "wof:parent_id":102062933,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404573529
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

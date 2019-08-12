@@ -12,6 +12,15 @@
     "iso:country":"CH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lommis Airport"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Lommis"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Lommis"
+    ],
     "oa:elevation_ft":"1539",
     "oa:type":"small_airport",
     "src:geom":"wikidata",
@@ -24,8 +33,12 @@
         "state_id":2347101
     },
     "wof:belongsto":[
+        85682337,
+        102191581,
+        404570125,
         85633051,
-        85682337
+        1125788029,
+        102062981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +52,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102553941,
+            "continent_id":102191581,
             "country_id":85633051,
+            "county_id":102062981,
+            "localadmin_id":404570125,
+            "locality_id":1125788029,
+            "neighbourhood_id":-1,
             "region_id":85682337
         }
     ],
     "wof:id":102553941,
-    "wof:lastmodified":1543846097,
+    "wof:lastmodified":1565422239,
     "wof:name":"Flugplatz Lommis",
-    "wof:parent_id":85682337,
+    "wof:parent_id":1125788029,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

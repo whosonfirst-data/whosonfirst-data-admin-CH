@@ -63,7 +63,10 @@
     "woe:name_adm1":"Kanton Solothurn",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682365,
+        1394137123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,14 +79,17 @@
     "wof:geomhash":"3ac08eea30c06c06ddbfe3d733544926",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125409771
+            "county_id":1394137123,
+            "localadmin_id":1125409771,
+            "region_id":85682365
         }
     ],
     "wof:id":1125409771,
-    "wof:lastmodified":1505248217,
+    "wof:lastmodified":1565462315,
     "wof:name":"Steinhof",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

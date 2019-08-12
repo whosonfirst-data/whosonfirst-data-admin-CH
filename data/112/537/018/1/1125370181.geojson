@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682301,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"05eee3960cb3396426588d48329a4842",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125370181
+            "county_id":102062999,
+            "localadmin_id":1125370181,
+            "region_id":85682301
         }
     ],
     "wof:id":1125370181,
-    "wof:lastmodified":1505248117,
+    "wof:lastmodified":1565458373,
     "wof:name":"Villarvolard",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062999,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

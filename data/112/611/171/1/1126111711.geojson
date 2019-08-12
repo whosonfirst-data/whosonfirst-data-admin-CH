@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568915,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"5f728949447b65ac1fba0936466b00fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111711
+            "county_id":102063055,
+            "localadmin_id":404568915,
+            "locality_id":1126111711,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111711,
-    "wof:lastmodified":1505185761,
+    "wof:lastmodified":1565454762,
     "wof:name":"Rosacker",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568915,
     "wof:placetype":"locality",
     "wof:population":1,
     "wof:population_rank":1,

@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568875,
+        85633051,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"4b23636a84b21079b6f2c9574648a47e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111071
+            "county_id":102062769,
+            "localadmin_id":404568875,
+            "locality_id":1126111071,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111071,
-    "wof:lastmodified":1505185744,
+    "wof:lastmodified":1565453965,
     "wof:name":"Hintere Gamsten",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568875,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

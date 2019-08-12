@@ -37,7 +37,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,17 @@
     "wof:geomhash":"997612b6fd1f07ca778881a1039eb882",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111235
+            "county_id":102062779,
+            "locality_id":1126111235,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111235,
-    "wof:lastmodified":1505185750,
+    "wof:lastmodified":1565454597,
     "wof:name":"Horben / Homberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062779,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

@@ -37,7 +37,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404567873,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,18 @@
     "wof:geomhash":"fe27415eb491000a6a17171509754c14",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111783
+            "county_id":102063055,
+            "localadmin_id":404567873,
+            "locality_id":1126111783,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111783,
-    "wof:lastmodified":1505185762,
+    "wof:lastmodified":1565454732,
     "wof:name":"Oberwinterthur (Kreis 2) / Trottli",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567873,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,

@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682347,
+        102063059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"21d4cb55439cfb91e9cf40c59eacbfde",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125371515
+            "county_id":102063059,
+            "localadmin_id":1125371515,
+            "region_id":85682347
         }
     ],
     "wof:id":1125371515,
-    "wof:lastmodified":1505185773,
+    "wof:lastmodified":1565458337,
     "wof:name":"Rocourt",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
     "wof:population":156,
     "wof:population_rank":1,

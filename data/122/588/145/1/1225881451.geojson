@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.2044,46.21045,7.2044,46.21045",
-    "geom:latitude":46.21045,
-    "geom:longitude":7.2044,
+    "geom:area":0.000164,
+    "geom:area_square_m":1400160.043855,
+    "geom:bbox":"7.1915652,46.2013722,7.21278,46.2165261",
+    "geom:latitude":46.21048,
+    "geom:longitude":7.201976,
     "gn:admin1_code":"VS",
     "gn:admin2_code":"2302.0",
     "gn:admin3_code":"6022.0",
@@ -25,12 +25,31 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.21045,
+    "lbl:longitude":7.2044,
+    "mps:latitude":46.21048,
+    "mps:longitude":7.201976,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Les V\u00e9rines"
+    ],
+    "name:eng_x_variant":[
+        "Les V\u00e9rines (Chamoson)",
+        "Les Verines (Chamoson)"
+    ],
     "name:und_x_variant":[
         "Les V\u00e9rines (Chamoson)"
     ],
-    "src:geom":"geonames",
+    "nav:latitude":46.21045,
+    "nav:longitude":7.2044,
+    "reversegeo:latitude":46.21048,
+    "reversegeo:longitude":7.201976,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682281,
         102191581,
@@ -43,7 +62,7 @@
         "gn:id":8533418
     },
     "wof:country":"CH",
-    "wof:geomhash":"e1a4ab1b348e9eeb370c591140aa76e5",
+    "wof:geomhash":"f56cb71ef04f48ecfc73dcf5f0f6a809",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +74,8 @@
         }
     ],
     "wof:id":1225881451,
-    "wof:lastmodified":1537590770,
-    "wof:name":"Les Verines (Chamoson)",
+    "wof:lastmodified":1565465001,
+    "wof:name":"Les V\u00e9rines",
     "wof:parent_id":404568221,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
@@ -65,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.2044,
-    46.21045,
-    7.2044,
-    46.21045
+    7.1915652,
+    46.2013722,
+    7.21278,
+    46.2165261
 ],
-  "geometry": {"coordinates":[7.2044,46.21045],"type":"Point"}
+  "geometry": {"coordinates":[[[7.2038369,46.2013722],[7.2033015,46.202184],[7.2025326,46.2030994],[7.2020096,46.2039845],[7.2012996,46.2050963],[7.2000244,46.2062459],[7.1987037,46.2072142],[7.1915652,46.2106611],[7.1929504,46.2151625],[7.1961329,46.2165261],[7.2030314,46.2149699],[7.2039823,46.2148507],[7.2059762,46.2145701],[7.2114638,46.2125823],[7.21278,46.2111018],[7.2091482,46.2073441],[7.2054843,46.2040867],[7.2038369,46.2013722]]],"type":"Polygon"}
 }

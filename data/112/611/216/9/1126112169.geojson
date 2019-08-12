@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568953,
+        85633051,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"182d8097e75c752b2c36a97a74ce62df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112169
+            "county_id":102062995,
+            "localadmin_id":404568953,
+            "locality_id":1126112169,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112169,
-    "wof:lastmodified":1505185726,
+    "wof:lastmodified":1565453165,
     "wof:name":"Strass\u00e4cher",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568953,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,

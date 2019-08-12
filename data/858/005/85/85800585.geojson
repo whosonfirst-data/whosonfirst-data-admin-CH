@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000272,
-    "geom:area_square_m":2272922.397857,
+    "geom:area_square_m":2272922.397858,
     "geom:bbox":"8.525390625,47.3810595235,8.54736328125,47.4031767716",
     "geom:latitude":47.39182,
     "geom:longitude":8.537055,
@@ -31,7 +31,19 @@
     "name:deu_x_preferred":[
         "Unterstrass"
     ],
+    "name:eng_x_preferred":[
+        "Unterstrass"
+    ],
+    "name:fra_x_preferred":[
+        "Unterstrass"
+    ],
+    "name:ita_x_preferred":[
+        "Unterstrass"
+    ],
     "name:lat_x_preferred":[
+        "Unterstrass"
+    ],
+    "name:nld_x_preferred":[
         "Unterstrass"
     ],
     "name:unk_x_variant":[
@@ -72,6 +84,7 @@
     "wof:belongsto":[
         85682309,
         102191581,
+        1394254167,
         85633051,
         101748463,
         102063071
@@ -92,6 +105,7 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063071,
+            "localadmin_id":1394254167,
             "locality_id":101748463,
             "neighbourhood_id":85800585,
             "region_id":85682309
@@ -101,7 +115,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527640961,
+    "wof:lastmodified":1565428646,
     "wof:name":"Unterstrass",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",

@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404571153,
+        85633051,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"8db13d8fe0e72a6006725dbd2e08ab64",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111885
+            "county_id":102062893,
+            "localadmin_id":404571153,
+            "locality_id":1126111885,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111885,
-    "wof:lastmodified":1505185766,
+    "wof:lastmodified":1565453758,
     "wof:name":"Im Wisent\u00e4li",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571153,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

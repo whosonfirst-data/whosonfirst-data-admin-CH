@@ -2,10 +2,11 @@
   "id": 404568105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.004828,
-    "geom:area_square_m":41122850.577033,
+    "geom:area_square_m":41122850.577037,
     "geom:bbox":"8.18343575434,46.4080361606,8.31369475674,46.5138803752",
     "geom:latitude":46.4578,
     "geom:longitude":8.254223,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.458617,
     "lbl:longitude":8.264104,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Valais",
     "qs:a1_lc":"23",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404568105,
-    "wof:lastmodified":1507751262,
+    "wof:lastmodified":1565446616,
     "wof:name":"Reckingen-Gluringen",
     "wof:parent_id":102063031,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254117
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

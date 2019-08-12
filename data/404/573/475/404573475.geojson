@@ -2,8 +2,9 @@
   "id": 404573475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.00008,
     "geom:area_square_m":681844.608834,
     "geom:bbox":"8.20964427411,46.4645627625,8.22252681825,46.4736519037",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.468862,
     "lbl:longitude":8.214244,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Valais",
     "qs:a1_lc":"23",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"bc4f4d4a97d4e716ae425d9311cc7282",
+    "wof:geomhash":"047310c547d69940ee61282e97685d0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404573475,
-    "wof:lastmodified":1479948850,
+    "wof:lastmodified":1565448975,
     "wof:name":"Kommunanz Reckingen-Gluringen/Grafschaft",
     "wof:parent_id":102063031,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254117
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

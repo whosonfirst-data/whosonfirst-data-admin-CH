@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.48572,
     "lbl:longitude":8.74724,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:unk_x_variant":[
         "Waldegg (westlicher Teil)"
@@ -62,14 +63,16 @@
         }
     ],
     "wof:id":1125819845,
-    "wof:lastmodified":1509394024,
+    "wof:lastmodified":1565456224,
     "wof:name":"Mattenbach (Kreis 7) / Waldegg (westlicher Teil)",
     "wof:parent_id":404567873,
     "wof:placetype":"locality",
     "wof:population":13,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394403901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

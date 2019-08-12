@@ -40,7 +40,16 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        85683227,
+        102191581,
+        85633147,
+        404228261,
+        1108826389,
+        136253037,
+        102066779,
+        85633051,
+        85682281,
+        102063065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +61,25 @@
     "wof:geomhash":"9ef56eb4a5213b09f1ca13d982902d2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066779,
+            "empire_id":136253037,
+            "localadmin_id":1125296821,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
+            "region_id":85683227
+        },
+        {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125296821
+            "county_id":102063065,
+            "localadmin_id":1125296821,
+            "region_id":85682281
         }
     ],
     "wof:id":1125296821,
-    "wof:lastmodified":1505247998,
+    "wof:lastmodified":1565457310,
     "wof:name":"St.-Gingolph",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

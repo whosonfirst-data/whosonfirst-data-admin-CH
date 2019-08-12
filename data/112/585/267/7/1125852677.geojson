@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.50196,
     "lbl:longitude":8.77946,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:unk_x_variant":[
         "Brunnenwiese"
@@ -62,14 +63,16 @@
         }
     ],
     "wof:id":1125852677,
-    "wof:lastmodified":1509396032,
+    "wof:lastmodified":1565461976,
     "wof:name":"Oberwinterthur (Kreis 2) / Brunnenwiese",
     "wof:parent_id":404567873,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394406889
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

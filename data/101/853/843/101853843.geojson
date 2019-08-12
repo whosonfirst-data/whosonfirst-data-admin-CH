@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "mps:latitude":46.819931,
     "mps:longitude":8.406979,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:cat_x_preferred":[
         "Engelberg"
     ],
@@ -182,14 +183,16 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1561745830,
+    "wof:lastmodified":1565443957,
     "wof:name":"Engelberg",
     "wof:parent_id":404328139,
     "wof:placetype":"locality",
     "wof:population":4001,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404328139
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

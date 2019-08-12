@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Dorfkern West"
+    ],
+    "name:eng_x_variant":[
+        "Dachsen / Dorfkern West"
+    ],
     "name:unk_x_variant":[
         "Dorfkern West"
     ],
@@ -37,11 +43,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         404572277,
         85633051,
-        102062801,
-        85682309
+        1125918805,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +64,15 @@
             "country_id":85633051,
             "county_id":102062801,
             "localadmin_id":404572277,
-            "locality_id":-1,
+            "locality_id":1125918805,
             "neighbourhood_id":1126061781,
             "region_id":85682309
         }
     ],
     "wof:id":1126061781,
-    "wof:lastmodified":1509410236,
-    "wof:name":"Dachsen / Dorfkern West",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1565460840,
+    "wof:name":"Dorfkern West",
+    "wof:parent_id":1125918805,
     "wof:placetype":"neighbourhood",
     "wof:population":231,
     "wof:population_rank":2,

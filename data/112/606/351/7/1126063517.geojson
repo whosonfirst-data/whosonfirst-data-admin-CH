@@ -18,7 +18,14 @@
     "lbl:longitude":8.46917,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "B\u00e4umlis\u00e4cher"
+    ],
+    "name:eng_x_variant":[
+        "Wettswil / B\u00e4umlis\u00e4cher"
+    ],
     "name:unk_x_variant":[
         "B\u00e4umlis\u00e4cher"
     ],
@@ -37,11 +44,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         404571821,
         85633051,
-        102062775,
-        85682309
+        1394297985,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +65,15 @@
             "country_id":85633051,
             "county_id":102062775,
             "localadmin_id":404571821,
-            "locality_id":-1,
+            "locality_id":1394297985,
             "neighbourhood_id":1126063517,
             "region_id":85682309
         }
     ],
     "wof:id":1126063517,
-    "wof:lastmodified":1509410312,
-    "wof:name":"Wettswil / B\u00e4umlis\u00e4cher",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1565460495,
+    "wof:name":"B\u00e4umlis\u00e4cher",
+    "wof:parent_id":1394297985,
     "wof:placetype":"neighbourhood",
     "wof:population":209,
     "wof:population_rank":2,

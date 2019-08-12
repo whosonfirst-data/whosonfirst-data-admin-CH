@@ -47,7 +47,9 @@
     "woe:name_adm1":"Canton de Neuch\u00e2tel",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +62,16 @@
     "wof:geomhash":"756069ecdef76691b60011aa467f69ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125269731
+            "localadmin_id":1125269731,
+            "region_id":85682359
         }
     ],
     "wof:id":1125269731,
-    "wof:lastmodified":1505185773,
+    "wof:lastmodified":1565455586,
     "wof:name":"St.-Aubin-Sauges",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
     "wof:population":2510,
     "wof:population_rank":4,

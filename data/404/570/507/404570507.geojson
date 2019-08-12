@@ -2,8 +2,9 @@
   "id": 404570507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000866,
     "geom:area_square_m":7213181.774657,
     "geom:bbox":"8.76478571932,47.6280076027,8.81472150848,47.6653613478",
@@ -13,7 +14,7 @@
     "lbl:latitude":47.64585,
     "lbl:longitude":8.79003,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Z\u00fcrich",
     "qs:a1_lc":"1",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404570507,
-    "wof:lastmodified":1507751276,
+    "wof:lastmodified":1565451622,
     "wof:name":"Unterstammheim",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254219
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

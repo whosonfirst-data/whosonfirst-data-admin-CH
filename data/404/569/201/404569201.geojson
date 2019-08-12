@@ -2,10 +2,11 @@
   "id": 404569201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001476,
-    "geom:area_square_m":12462637.051414,
+    "geom:area_square_m":12462637.051413,
     "geom:bbox":"7.04016335708,46.9247089631,7.10463985884,46.979844954",
     "geom:latitude":46.951195,
     "geom:longitude":7.07586,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.949968,
     "lbl:longitude":7.075406,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:unk_x_variant":[
         "Vuilly-le-Haut"
     ],
@@ -57,12 +58,14 @@
         }
     ],
     "wof:id":404569201,
-    "wof:lastmodified":1507751270,
+    "wof:lastmodified":1565445577,
     "wof:name":"Haut-Vully",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254213
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

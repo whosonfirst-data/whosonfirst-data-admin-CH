@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568687,
+        85633051,
+        102062967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"45e5a18c9321d37326da83819368bc96",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113217
+            "county_id":102062967,
+            "localadmin_id":404568687,
+            "locality_id":1126113217,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113217,
-    "wof:lastmodified":1505185731,
+    "wof:lastmodified":1565454711,
     "wof:name":"Oberwis",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568687,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

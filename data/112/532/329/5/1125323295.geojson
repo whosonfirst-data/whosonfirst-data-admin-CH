@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton St. Gallen",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682341,
+        102063005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"9759fc258b0f7e2ef7d3b65ab103b024",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125323295
+            "county_id":102063005,
+            "localadmin_id":1125323295,
+            "region_id":85682341
         }
     ],
     "wof:id":1125323295,
-    "wof:lastmodified":1505248049,
+    "wof:lastmodified":1565452825,
     "wof:name":"Widnau",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063005,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

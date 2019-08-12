@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"9.45326,46.71186,9.45326,46.71186",
-    "geom:latitude":46.71186,
-    "geom:longitude":9.45326,
+    "geom:area":0.000027,
+    "geom:area_square_m":231028.748893,
+    "geom:bbox":"9.4449791,46.7109747,9.4529922,46.7177488",
+    "geom:latitude":46.714954,
+    "geom:longitude":9.449805,
     "gn:admin1_code":"GR",
     "gn:admin2_code":"1851.0",
     "gn:admin3_code":"3638.0",
@@ -25,39 +25,57 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.71186,
+    "lbl:longitude":9.45326,
+    "mps:latitude":46.714954,
+    "mps:longitude":9.449805,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Fuerstenaubruck"
+    ],
+    "name:eng_x_variant":[
+        "F\u00fcrstenaubruck"
+    ],
     "name:und_x_variant":[
         "F\u00fcrstenaubruck"
     ],
-    "src:geom":"geonames",
+    "nav:latitude":46.71186,
+    "nav:longitude":9.45326,
+    "reversegeo:latitude":46.714954,
+    "reversegeo:longitude":9.449805,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682255,
         102191581,
-        404568987,
+        404573369,
         85633051,
-        102062845
+        1394137069
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2660693
     },
     "wof:country":"CH",
-    "wof:geomhash":"017322bc3b46f9a24e238299825a2cf0",
+    "wof:geomhash":"6cf3ae38427c7ad468342e9dbd831185",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062845,
-            "localadmin_id":404568987,
+            "county_id":1394137069,
+            "localadmin_id":404573369,
             "locality_id":1327170623,
             "region_id":85682255
         }
     ],
     "wof:id":1327170623,
-    "wof:lastmodified":1537590747,
-    "wof:name":"Fuerstenaubruck",
-    "wof:parent_id":404568987,
+    "wof:lastmodified":1565418790,
+    "wof:name":"F\u00fcrstenaubruck",
+    "wof:parent_id":404573369,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
@@ -65,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    9.45326,
-    46.71186,
-    9.45326,
-    46.71186
+    9.4449791,
+    46.7109747,
+    9.4529922,
+    46.7177488
 ],
-  "geometry": {"coordinates":[9.45326,46.71186],"type":"Point"}
+  "geometry": {"coordinates":[[[[9.4449791,46.7164153],[9.4529031,46.7177488],[9.4528672,46.7175151],[9.4528549,46.7174349],[9.4527066,46.7167671],[9.45266,46.7165571],[9.4525739,46.7161694],[9.4525599,46.7161063],[9.4525213,46.7159326],[9.4523516,46.7151683],[9.452342,46.7151248],[9.4523103,46.7149868],[9.4522064,46.7145342],[9.452122,46.7141671],[9.4520527,46.7138654],[9.4519962,46.7136058],[9.4520808,46.713605],[9.4522274,46.7136035],[9.4523443,46.7136003],[9.4529922,46.7134208],[9.4525897,46.7129638],[9.4525542,46.7129535],[9.4519887,46.7127905],[9.4519106,46.7127679],[9.4518039,46.7127372],[9.4517514,46.712503],[9.4516546,46.7120716],[9.4516398,46.7120057],[9.4516367,46.7119916],[9.4516244,46.7119189],[9.4515114,46.7112477],[9.4514655,46.7109747],[9.4501811,46.7117941],[9.448883,46.7129466],[9.4465543,46.7150139],[9.445593,46.7158672],[9.4449791,46.7164153]]]],"type":"MultiPolygon"}
 }

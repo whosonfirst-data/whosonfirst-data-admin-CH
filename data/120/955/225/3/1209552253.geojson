@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,13 +27,17 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "M\u00e4ttli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682353,
+        102191581,
+        404328233,
+        85633051,
+        1394137085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,23 @@
     "wof:geomhash":"8216824a327a297884eda16b7979bd1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209552253
+            "county_id":1394137085,
+            "localadmin_id":404328233,
+            "locality_id":1209552253,
+            "region_id":85682353
         }
     ],
     "wof:id":1209552253,
-    "wof:lastmodified":1537590853,
+    "wof:lastmodified":1565430302,
     "wof:name":"Maettli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394400895
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

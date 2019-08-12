@@ -19,6 +19,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Au"
+    ],
+    "name:eng_x_preferred":[
+        "Au"
+    ],
+    "name:eng_x_variant":[
+        "Obermeilen / Au"
+    ],
+    "name:est_x_preferred":[
+        "Au"
+    ],
+    "name:hun_x_preferred":[
+        "Au"
+    ],
     "name:unk_x_variant":[
         "Au"
     ],
@@ -37,11 +52,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         404568775,
         85633051,
-        102062769,
-        85682309
+        101854399,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +73,15 @@
             "country_id":85633051,
             "county_id":102062769,
             "localadmin_id":404568775,
-            "locality_id":-1,
+            "locality_id":101854399,
             "neighbourhood_id":1126063307,
             "region_id":85682309
         }
     ],
     "wof:id":1126063307,
-    "wof:lastmodified":1509410303,
-    "wof:name":"Obermeilen / Au",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1565460033,
+    "wof:name":"Au",
+    "wof:parent_id":101854399,
     "wof:placetype":"neighbourhood",
     "wof:population":406,
     "wof:population_rank":2,

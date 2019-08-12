@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"7c6fbe4bbe50f43293eaf457b0f8c468",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125408975
+            "county_id":102062861,
+            "localadmin_id":1125408975,
+            "region_id":85682381
         }
     ],
     "wof:id":1125408975,
-    "wof:lastmodified":1505185771,
+    "wof:lastmodified":1565462323,
     "wof:name":"Iffwil",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
     "wof:population":423,
     "wof:population_rank":2,

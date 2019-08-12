@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":47197121.240094,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.042605,47.394946,8.042605,47.394946",
     "geom:latitude":47.394946,
     "geom:longitude":8.042605,
@@ -27,6 +27,9 @@
     "name:als_x_preferred":[
         "Erlinsbach AG"
     ],
+    "name:cat_x_preferred":[
+        "Erlinsbach"
+    ],
     "name:ceb_x_preferred":[
         "Erlinsbach"
     ],
@@ -36,6 +39,9 @@
     "name:deu_x_variant":[
         "Erlinsbach"
     ],
+    "name:eng_x_preferred":[
+        "Erlinsbach"
+    ],
     "name:epo_x_preferred":[
         "Erlinsbach AG"
     ],
@@ -43,6 +49,12 @@
         "Erlinsbach"
     ],
     "name:fra_x_preferred":[
+        "Erlinsbach"
+    ],
+    "name:gsw_x_preferred":[
+        "Erlinsbach AG"
+    ],
+    "name:hun_x_preferred":[
         "Erlinsbach"
     ],
     "name:ita_x_preferred":[
@@ -62,6 +74,9 @@
     ],
     "name:nno_x_preferred":[
         "Erlinsbach i Aargau"
+    ],
+    "name:oci_x_preferred":[
+        "Erlinsbach"
     ],
     "name:pms_x_preferred":[
         "Erlinsbach"
@@ -166,7 +181,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531870380,
+    "wof:lastmodified":1565428489,
     "wof:name":"Erlinsbach",
     "wof:parent_id":101854331,
     "wof:placetype":"neighbourhood",

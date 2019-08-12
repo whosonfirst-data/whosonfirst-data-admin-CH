@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569005,
+        85633051,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"8933a5eca3e3cee63ae3a53994593fac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112061
+            "county_id":102062801,
+            "localadmin_id":404569005,
+            "locality_id":1126112061,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112061,
-    "wof:lastmodified":1505185719,
+    "wof:lastmodified":1565454451,
     "wof:name":"Laubere",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569005,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

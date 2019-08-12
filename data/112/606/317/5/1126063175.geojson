@@ -19,6 +19,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "Haslen"
+    ],
+    "name:ceb_x_preferred":[
+        "Haslen"
+    ],
+    "name:deu_x_preferred":[
+        "Haslen"
+    ],
+    "name:eng_x_preferred":[
+        "Haslen"
+    ],
+    "name:eng_x_variant":[
+        "Birmensdorf / Haslen"
+    ],
+    "name:epo_x_preferred":[
+        "Haslen"
+    ],
+    "name:ita_x_preferred":[
+        "Haslen"
+    ],
+    "name:pol_x_preferred":[
+        "Haslen"
+    ],
     "name:unk_x_variant":[
         "Haslen"
     ],
@@ -37,11 +61,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         404569459,
         85633051,
-        102062893,
-        85682309
+        101854437,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +82,15 @@
             "country_id":85633051,
             "county_id":102062893,
             "localadmin_id":404569459,
-            "locality_id":-1,
+            "locality_id":101854437,
             "neighbourhood_id":1126063175,
             "region_id":85682309
         }
     ],
     "wof:id":1126063175,
-    "wof:lastmodified":1509410298,
-    "wof:name":"Birmensdorf / Haslen",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1565460813,
+    "wof:name":"Haslen",
+    "wof:parent_id":101854437,
     "wof:placetype":"neighbourhood",
     "wof:population":669,
     "wof:population_rank":2,

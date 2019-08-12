@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568929,
+        85633051,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"db635b93e56a5add3233fc467458c43f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111083
+            "county_id":102062769,
+            "localadmin_id":404568929,
+            "locality_id":1126111083,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111083,
-    "wof:lastmodified":1505185744,
+    "wof:lastmodified":1565454072,
     "wof:name":"Sportplatz Fallacher",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568929,
     "wof:placetype":"locality",
     "wof:population":8,
     "wof:population_rank":1,

@@ -2,10 +2,11 @@
   "id": 1175611169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001292,
-    "geom:area_square_m":9575508.017533,
+    "geom:area_square_m":11048985.186197,
     "geom:bbox":"8.56763488518,46.2135024153,8.64054853022,46.2609792493",
     "geom:latitude":46.237731,
     "geom:longitude":8.610037,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.240936,
     "lbl:longitude":8.613872,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Ticino",
     "qs:a1_lc":"21",
@@ -32,7 +33,6 @@
     ],
     "wof:belongsto":[
         102191581,
-        404569851,
         85633051,
         85682269,
         102062975
@@ -50,17 +50,19 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062975,
-            "localadmin_id":404569851,
+            "localadmin_id":1175611169,
             "region_id":85682269
         }
     ],
     "wof:id":1175611169,
-    "wof:lastmodified":1534985875,
+    "wof:lastmodified":1565431758,
     "wof:name":"Gresso",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254145
+    ],
     "wof:supersedes":[
         404573329,
         404569851

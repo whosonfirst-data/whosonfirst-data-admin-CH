@@ -2,10 +2,11 @@
   "id": 404573559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000009,
-    "geom:area_square_m":78582.655257,
+    "geom:area_square_m":78582.655256,
     "geom:bbox":"8.83016973352,46.442686691,8.8346338086,46.4466442179",
     "geom:latitude":46.444699,
     "geom:longitude":8.832643,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.444716,
     "lbl:longitude":8.832677,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Ticino",
     "qs:a1_lc":"21",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"220e9e4206956726dad16cf8b93c73af",
+    "wof:geomhash":"587234594f7bfd207435c79a55e35e07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404573559,
-    "wof:lastmodified":1479926991,
+    "wof:lastmodified":1565448629,
     "wof:name":"Faido",
     "wof:parent_id":102062931,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254111
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

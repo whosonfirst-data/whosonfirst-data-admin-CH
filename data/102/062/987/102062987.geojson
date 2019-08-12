@@ -3,8 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-30",
     "edtf:inception":"uuuu",
     "geom:area":0.002135,
+    "geom:area_square_m":17881029.069679,
     "geom:bbox":"9.34321308224,47.3415468318,9.43545681975,47.3871699591",
     "geom:latitude":47.362763,
     "geom:longitude":9.383245,
@@ -14,7 +16,7 @@
     "mps:latitude":47.362388,
     "mps:longitude":9.382543,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:als_x_preferred":[
         "Schlatt-Haslen"
     ],
@@ -120,12 +122,14 @@
         }
     ],
     "wof:id":102062987,
-    "wof:lastmodified":1527636933,
+    "wof:lastmodified":1565420915,
     "wof:name":"Schlatt-Haslen",
     "wof:parent_id":85682275,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394237541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

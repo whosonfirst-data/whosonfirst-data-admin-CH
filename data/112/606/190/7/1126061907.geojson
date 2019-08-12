@@ -18,12 +18,22 @@
     "lbl:longitude":8.59665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "W\u00fclflingen"
+    ],
     "name:deu_x_preferred":[
         "Oberfeld"
     ],
     "name:eng_x_preferred":[
         "Oberfeld"
+    ],
+    "name:eng_x_variant":[
+        [
+            "Oberfeld"
+        ],
+        "Kloten / Oberfeld"
     ],
     "name:swe_x_preferred":[
         "W\u00fclflingen"
@@ -48,9 +58,10 @@
     "wof:belongsto":[
         85682309,
         102191581,
+        404568627,
         85633051,
-        101748463,
-        102063071
+        1125851437,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,16 +76,17 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063071,
-            "locality_id":101748463,
+            "county_id":102063019,
+            "localadmin_id":404568627,
+            "locality_id":1125851437,
             "neighbourhood_id":1126061907,
             "region_id":85682309
         }
     ],
     "wof:id":1126061907,
-    "wof:lastmodified":1561745921,
-    "wof:name":"Kloten / Oberfeld",
-    "wof:parent_id":101748463,
+    "wof:lastmodified":1565460485,
+    "wof:name":"Oberfeld",
+    "wof:parent_id":1125851437,
     "wof:placetype":"neighbourhood",
     "wof:population":31,
     "wof:population_rank":1,

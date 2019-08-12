@@ -45,7 +45,10 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682255,
+        1394137069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +61,17 @@
     "wof:geomhash":"9f1d8579b189e5ba6bb8fa75d6c03813",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125269723
+            "county_id":1394137069,
+            "localadmin_id":1125269723,
+            "region_id":85682255
         }
     ],
     "wof:id":1125269723,
-    "wof:lastmodified":1505185701,
+    "wof:lastmodified":1565455589,
     "wof:name":"Sarn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
     "wof:population":121,
     "wof:population_rank":1,

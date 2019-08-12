@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404571287,
+        85633051,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"8c3bfc0e76bb66c6e61fccd6a6dcf25e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111935
+            "county_id":102063019,
+            "localadmin_id":404571287,
+            "locality_id":1126111935,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111935,
-    "wof:lastmodified":1505185722,
+    "wof:lastmodified":1565453137,
     "wof:name":"Linde",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571287,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

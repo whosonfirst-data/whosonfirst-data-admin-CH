@@ -2,10 +2,11 @@
   "id": 404570513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000848,
-    "geom:area_square_m":7178987.565507,
+    "geom:area_square_m":7178987.565506,
     "geom:bbox":"9.20939388472,46.7585935036,9.26909631418,46.7856100194",
     "geom:latitude":46.772613,
     "geom:longitude":9.243038,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.774567,
     "lbl:longitude":9.242612,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404570513,
-    "wof:lastmodified":1507751276,
+    "wof:lastmodified":1565451951,
     "wof:name":"Castrisch",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254103
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

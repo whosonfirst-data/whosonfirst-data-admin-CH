@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569459,
+        85633051,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"4870d139323331d9e3c3500a756f2e10",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111859
+            "county_id":102062893,
+            "localadmin_id":404569459,
+            "locality_id":1126111859,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111859,
-    "wof:lastmodified":1505185764,
+    "wof:lastmodified":1565454771,
     "wof:name":"Schleifer",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569459,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

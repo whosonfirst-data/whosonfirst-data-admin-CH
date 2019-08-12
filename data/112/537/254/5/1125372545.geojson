@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Jura",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682347,
+        102062875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"8962c9bb8c514849280493a7d98ea250",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125372545
+            "county_id":102062875,
+            "localadmin_id":1125372545,
+            "region_id":85682347
         }
     ],
     "wof:id":1125372545,
-    "wof:lastmodified":1505248121,
+    "wof:lastmodified":1565458387,
     "wof:name":"St.-Brais",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062875,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

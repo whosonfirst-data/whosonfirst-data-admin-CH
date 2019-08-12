@@ -2,8 +2,9 @@
   "id": 404573303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000187,
     "geom:area_square_m":1581097.888392,
     "geom:bbox":"6.73800542584,46.8805050478,6.7588027862,46.895663748",
@@ -13,6 +14,7 @@
     "lbl:latitude":46.887471,
     "lbl:longitude":6.747028,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Neuch\u00e2tel",
     "qs:a1_lc":"24",
@@ -32,8 +34,7 @@
     "wof:belongsto":[
         102191581,
         85633051,
-        85682359,
-        102062939
+        85682359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +47,19 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062939,
             "localadmin_id":404573303,
             "region_id":85682359
         }
     ],
     "wof:id":404573303,
-    "wof:lastmodified":1497048287,
+    "wof:lastmodified":1565448885,
     "wof:name":"Fresens",
-    "wof:parent_id":102062939,
+    "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254061
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

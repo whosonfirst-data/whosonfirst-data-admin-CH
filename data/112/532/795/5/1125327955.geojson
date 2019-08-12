@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"2d532a81d373c17a7a3fd5858f579a03",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125327955
+            "county_id":102062969,
+            "localadmin_id":1125327955,
+            "region_id":85682325
         }
     ],
     "wof:id":1125327955,
-    "wof:lastmodified":1505248057,
+    "wof:lastmodified":1565452820,
     "wof:name":"Mur",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

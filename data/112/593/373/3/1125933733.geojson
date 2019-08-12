@@ -4,20 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.59364,46.19111,7.59364,46.19111",
-    "geom:latitude":46.19111,
-    "geom:longitude":7.59364,
+    "geom:area":0.000231,
+    "geom:area_square_m":1974482.480608,
+    "geom:bbox":"7.58782,46.1837581,7.6057755,46.204017",
+    "geom:latitude":46.195555,
+    "geom:longitude":7.596599,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"CH",
     "lbl:latitude":46.19111,
     "lbl:longitude":7.59364,
+    "mps:latitude":46.195555,
+    "mps:longitude":7.596599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Mission"
+    ],
     "name:eng_x_preferred":[
         "Mission"
     ],
@@ -27,9 +32,14 @@
     "name:fra_x_preferred":[
         "Mission"
     ],
+    "name:ita_x_preferred":[
+        "Mission"
+    ],
     "name:nld_x_preferred":[
         "Mission"
     ],
+    "nav:latitude":46.19111,
+    "nav:longitude":7.59364,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -48,8 +58,13 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20103089,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":46.195555,
+    "reversegeo:longitude":7.596599,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Valais",
@@ -70,7 +85,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497296895,
-    "wof:geomhash":"a52270f4877000ba48c4eb72ba78c78a",
+    "wof:geomhash":"f6daab2700b9637e9ec45d4de0f584bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +97,7 @@
         }
     ],
     "wof:id":1125933733,
-    "wof:lastmodified":1561745860,
+    "wof:lastmodified":1565452453,
     "wof:name":"Mission",
     "wof:parent_id":404567701,
     "wof:placetype":"locality",
@@ -92,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.59364,
-    46.19111,
-    7.59364,
-    46.19111
+    7.58782,
+    46.1837581,
+    7.6057755,
+    46.204017
 ],
-  "geometry": {"coordinates":[7.59364,46.19111],"type":"Point"}
+  "geometry": {"coordinates":[[[7.6052899,46.204017],[7.6053085,46.2015703],[7.6054093,46.2005987],[7.6056262,46.199501],[7.6054948,46.1988895],[7.6052342,46.1983952],[7.6052067,46.1978554],[7.6054622,46.1967126],[7.6056511,46.1949312],[7.6056485,46.1940766],[7.6057755,46.1932488],[7.6023004,46.1912773],[7.5992798,46.1914307],[7.5978903,46.191194],[7.5954718,46.1915852],[7.5958982,46.1855092],[7.5915562,46.1840136],[7.5893079,46.1837581],[7.5900825,46.184304],[7.5911733,46.1853167],[7.5909022,46.1856452],[7.5907473,46.1865801],[7.5904619,46.1868888],[7.5889308,46.1871692],[7.5879884,46.1880952],[7.58782,46.1893483],[7.5885094,46.190123],[7.58967,46.1904595],[7.5893847,46.1908377],[7.589445,46.1919314],[7.5892318,46.1925084],[7.5888466,46.193026],[7.5891499,46.1939901],[7.5888797,46.1946368],[7.5892426,46.196456],[7.5894296,46.1983094],[7.5894707,46.199092],[7.5893683,46.1995689],[7.5895379,46.2000184],[7.5893446,46.2003965],[7.5893451,46.2005764],[7.5894365,46.2008281],[7.5894371,46.201071],[7.5889587,46.2014134],[7.5887263,46.2017016],[7.59389,46.2016747],[7.5957539,46.203566],[7.6052899,46.204017]]],"type":"Polygon"}
 }

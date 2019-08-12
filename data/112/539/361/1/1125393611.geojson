@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682281,
+        102063023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"49cebc5c829d9074e9d70a4937fef8eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125393611
+            "county_id":102063023,
+            "localadmin_id":1125393611,
+            "region_id":85682281
         }
     ],
     "wof:id":1125393611,
-    "wof:lastmodified":1505185774,
+    "wof:lastmodified":1565458435,
     "wof:name":"Termen",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063023,
     "wof:placetype":"localadmin",
     "wof:population":895,
     "wof:population_rank":2,

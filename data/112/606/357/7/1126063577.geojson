@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Unterdorf"
+    ],
+    "name:eng_x_variant":[
+        "R\u00fcschlikon / Unterdorf"
+    ],
     "name:unk_x_variant":[
         "Unterdorf"
     ],
@@ -37,11 +43,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
+        404571543,
         85633051,
-        101748463,
-        102063071,
-        85682309
+        1125851455,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,16 +62,17 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063071,
-            "locality_id":101748463,
+            "county_id":102062825,
+            "localadmin_id":404571543,
+            "locality_id":1125851455,
             "neighbourhood_id":1126063577,
             "region_id":85682309
         }
     ],
     "wof:id":1126063577,
-    "wof:lastmodified":1509410315,
-    "wof:name":"R\u00fcschlikon / Unterdorf",
-    "wof:parent_id":101748463,
+    "wof:lastmodified":1565460462,
+    "wof:name":"Unterdorf",
+    "wof:parent_id":1125851455,
     "wof:placetype":"neighbourhood",
     "wof:population":413,
     "wof:population_rank":2,

@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568503,
+        85633051,
+        102062967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"630ce3ca1101ff8abd633d30b57a23b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110691
+            "county_id":102062967,
+            "localadmin_id":404568503,
+            "locality_id":1126110691,
+            "region_id":85682309
         }
     ],
     "wof:id":1126110691,
-    "wof:lastmodified":1505185733,
+    "wof:lastmodified":1565454499,
     "wof:name":"Winkel (bei Ringwil)",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568503,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

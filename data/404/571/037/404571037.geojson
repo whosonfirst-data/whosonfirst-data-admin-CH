@@ -2,10 +2,11 @@
   "id": 404571037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000662,
-    "geom:area_square_m":5603251.841944,
+    "geom:area_square_m":5603251.841945,
     "geom:bbox":"7.07517583475,46.7872018313,7.11549057329,46.8155329938",
     "geom:latitude":46.802152,
     "geom:longitude":7.096261,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.804508,
     "lbl:longitude":7.09932,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Fribourg",
     "qs:a1_lc":"10",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404571037,
-    "wof:lastmodified":1497044466,
+    "wof:lastmodified":1565449561,
     "wof:name":"Corminboeuf",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

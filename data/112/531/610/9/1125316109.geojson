@@ -47,7 +47,10 @@
     "woe:name_adm1":"Kanton Schwyz",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682305,
+        102062795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +63,17 @@
     "wof:geomhash":"0540d021d71168ffad1f3a82a74458f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125316109
+            "county_id":102062795,
+            "localadmin_id":1125316109,
+            "region_id":85682305
         }
     ],
     "wof:id":1125316109,
-    "wof:lastmodified":1505185770,
+    "wof:lastmodified":1565459118,
     "wof:name":"Einsiedeln",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062795,
     "wof:placetype":"localadmin",
     "wof:population":15077,
     "wof:population_rank":6,

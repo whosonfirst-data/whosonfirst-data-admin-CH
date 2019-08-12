@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"d41e93ecf37d4d3d4a60a08e28f49443",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113335
+            "county_id":102062779,
+            "locality_id":1126113335,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113335,
-    "wof:lastmodified":1505185752,
+    "wof:lastmodified":1565454055,
     "wof:name":"Felsenegg",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062779,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

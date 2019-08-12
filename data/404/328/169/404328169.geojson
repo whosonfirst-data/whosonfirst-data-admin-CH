@@ -2,10 +2,11 @@
   "id": 404328169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.005321,
-    "geom:area_square_m":44992099.799208,
+    "geom:area_square_m":44992099.799209,
     "geom:bbox":"7.85616349638,46.7996578711,7.96078674413,46.9066358738",
     "geom:latitude":46.855476,
     "geom:longitude":7.908518,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.852703,
     "lbl:longitude":7.903433,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Luzern",
     "qs:a1_lc":"3",
@@ -33,7 +34,7 @@
         102191581,
         85633051,
         85682319,
-        102062797
+        1394137073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +48,20 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062797,
+            "county_id":1394137073,
             "localadmin_id":404328169,
             "region_id":85682319
         }
     ],
     "wof:id":404328169,
-    "wof:lastmodified":1507751175,
+    "wof:lastmodified":1565450281,
     "wof:name":"Marbach (Lu)",
-    "wof:parent_id":102062797,
+    "wof:parent_id":1394137073,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254139
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

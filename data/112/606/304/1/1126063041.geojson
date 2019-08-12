@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Hochgr\u00fct-Scheidweg"
+    ],
+    "name:eng_x_variant":[
+        "Seuzach Dorf / Hochgr\u00fct-Scheidweg"
+    ],
     "name:unk_x_variant":[
         "Hochgr\u00fct-Scheidweg"
     ],
@@ -37,11 +43,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         404570427,
         85633051,
-        102063055,
-        85682309
+        101854409,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +64,15 @@
             "country_id":85633051,
             "county_id":102063055,
             "localadmin_id":404570427,
-            "locality_id":-1,
+            "locality_id":101854409,
             "neighbourhood_id":1126063041,
             "region_id":85682309
         }
     ],
     "wof:id":1126063041,
-    "wof:lastmodified":1509410291,
-    "wof:name":"Seuzach Dorf / Hochgr\u00fct-Scheidweg",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1565460473,
+    "wof:name":"Hochgr\u00fct-Scheidweg",
+    "wof:parent_id":101854409,
     "wof:placetype":"neighbourhood",
     "wof:population":985,
     "wof:population_rank":2,

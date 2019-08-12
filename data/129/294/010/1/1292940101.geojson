@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.45096,46.16148,7.45096,46.16148",
-    "geom:latitude":46.16148,
-    "geom:longitude":7.45096,
+    "geom:area":0.000055,
+    "geom:area_square_m":467022.856455,
+    "geom:bbox":"7.4451304,46.1579251,7.4563242,46.1650359",
+    "geom:latitude":46.161574,
+    "geom:longitude":7.451525,
     "gn:admin1_code":"VS",
     "gn:admin2_code":"2305.0",
     "gn:admin3_code":"6087.0",
@@ -25,9 +25,72 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.16148,
+    "lbl:longitude":7.45096,
+    "mps:latitude":46.161574,
+    "mps:longitude":7.451525,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "src:geom":"geonames",
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Liez"
+    ],
+    "name:deu_x_preferred":[
+        "Liez"
+    ],
+    "name:eng_x_preferred":[
+        "Liez"
+    ],
+    "name:eng_x_variant":[
+        "Liez (St-Martin)"
+    ],
+    "name:fra_x_preferred":[
+        "Liez"
+    ],
+    "name:ita_x_preferred":[
+        "Liez"
+    ],
+    "name:nds_x_preferred":[
+        "Liez"
+    ],
+    "name:nld_x_preferred":[
+        "Liez"
+    ],
+    "name:pms_x_preferred":[
+        "Liez"
+    ],
+    "name:pol_x_preferred":[
+        "Liez"
+    ],
+    "name:por_x_preferred":[
+        "Liez"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044c\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Liez"
+    ],
+    "name:slk_x_preferred":[
+        "Liez"
+    ],
+    "name:spa_x_preferred":[
+        "Liez"
+    ],
+    "name:swe_x_preferred":[
+        "Liez"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044c\u0454"
+    ],
+    "nav:latitude":46.16148,
+    "nav:longitude":7.45096,
+    "reversegeo:latitude":46.161574,
+    "reversegeo:longitude":7.451525,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682281,
         102191581,
@@ -40,7 +103,7 @@
         "gn:id":8533427
     },
     "wof:country":"CH",
-    "wof:geomhash":"284fadd7795d2399db8abbcf49e3bfbb",
+    "wof:geomhash":"a0e6026a7451884048318566a8944f96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +115,8 @@
         }
     ],
     "wof:id":1292940101,
-    "wof:lastmodified":1537076123,
-    "wof:name":"Liez (St-Martin)",
+    "wof:lastmodified":1565428862,
+    "wof:name":"Liez",
     "wof:parent_id":404568161,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
@@ -62,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.45096,
-    46.16148,
-    7.45096,
-    46.16148
+    7.4451304,
+    46.1579251,
+    7.4563242,
+    46.1650359
 ],
-  "geometry": {"coordinates":[7.45096,46.16148],"type":"Point"}
+  "geometry": {"coordinates":[[[7.4550202,46.1579251],[7.452288,46.1582639],[7.4500573,46.1590011],[7.448174,46.1593082],[7.4474452,46.1594853],[7.4474001,46.1595005],[7.4455821,46.1619375],[7.4451304,46.1630123],[7.4485622,46.1636613],[7.4507545,46.1644493],[7.4518055,46.1649819],[7.4530166,46.1650359],[7.4550938,46.1648746],[7.4556315,46.1647887],[7.455563,46.1639243],[7.4560776,46.1609202],[7.4561288,46.160767],[7.4563242,46.1601814],[7.4562892,46.1600127],[7.4550202,46.1579251]]],"type":"Polygon"}
 }

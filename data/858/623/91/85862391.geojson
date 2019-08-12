@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23778489.818373,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.194186,46.766556,7.194186,46.766556",
     "geom:latitude":46.766556,
     "geom:longitude":7.194186,
@@ -24,10 +24,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:cat_x_preferred":[
+        "Le Mouret"
+    ],
     "name:ceb_x_preferred":[
         "Le Mouret"
     ],
     "name:deu_x_preferred":[
+        "Le Mouret"
+    ],
+    "name:eng_x_preferred":[
         "Le Mouret"
     ],
     "name:epo_x_preferred":[
@@ -37,6 +43,12 @@
         "Le Mouret"
     ],
     "name:fra_x_preferred":[
+        "Le Mouret"
+    ],
+    "name:gsw_x_preferred":[
+        "Le Mouret"
+    ],
+    "name:hun_x_preferred":[
         "Le Mouret"
     ],
     "name:ita_x_preferred":[
@@ -52,6 +64,9 @@
         "Le Mouret"
     ],
     "name:nno_x_preferred":[
+        "Le Mouret"
+    ],
+    "name:oci_x_preferred":[
         "Le Mouret"
     ],
     "name:pms_x_preferred":[
@@ -119,11 +134,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":1784,
     "wof:belongsto":[
+        85682301,
         102191581,
         404571873,
         85633051,
-        102062891,
-        85682301
+        1276371973,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,7 +156,7 @@
             "country_id":85633051,
             "county_id":102062891,
             "localadmin_id":404571873,
-            "locality_id":-1,
+            "locality_id":1276371973,
             "neighbourhood_id":85862391,
             "region_id":85682301
         }
@@ -149,9 +165,9 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531870592,
+    "wof:lastmodified":1565428571,
     "wof:name":"Le Mouret",
-    "wof:parent_id":-1,
+    "wof:parent_id":1276371973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

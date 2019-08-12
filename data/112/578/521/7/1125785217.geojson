@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":46.44685,
     "lbl:longitude":9.53056,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Avers"
@@ -130,7 +131,7 @@
         102191581,
         404567809,
         85633051,
-        102062845
+        1394137069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,21 +147,23 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062845,
+            "county_id":1394137069,
             "localadmin_id":404567809,
             "locality_id":1125785217,
             "region_id":85682255
         }
     ],
     "wof:id":1125785217,
-    "wof:lastmodified":1561745937,
+    "wof:lastmodified":1565462219,
     "wof:name":"Avers",
     "wof:parent_id":404567809,
     "wof:placetype":"locality",
     "wof:population":168,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404567809
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

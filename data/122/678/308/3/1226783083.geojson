@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,7 +27,7 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:ita_x_preferred":[
         "Boschetto"
     ],
@@ -34,7 +35,7 @@
     "wof:belongsto":[
         85682269,
         102191581,
-        404567981,
+        404573577,
         85633051,
         102062975
     ],
@@ -49,18 +50,20 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062975,
-            "localadmin_id":404567981,
+            "localadmin_id":404573577,
             "locality_id":1226783083,
             "region_id":85682269
         }
     ],
     "wof:id":1226783083,
-    "wof:lastmodified":1537590785,
+    "wof:lastmodified":1565465213,
     "wof:name":"Boschetto",
-    "wof:parent_id":404567981,
+    "wof:parent_id":404573577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394405369
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

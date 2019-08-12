@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Risiloch"
+    ],
+    "name:eng_x_variant":[
+        "Birmensdorf / Risiloch"
+    ],
     "name:unk_x_variant":[
         "Risiloch"
     ],
@@ -37,11 +43,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         404569459,
         85633051,
-        102062893,
-        85682309
+        101854437,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +64,15 @@
             "country_id":85633051,
             "county_id":102062893,
             "localadmin_id":404569459,
-            "locality_id":-1,
+            "locality_id":101854437,
             "neighbourhood_id":1126087763,
             "region_id":85682309
         }
     ],
     "wof:id":1126087763,
-    "wof:lastmodified":1509411486,
-    "wof:name":"Birmensdorf / Risiloch",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1565459913,
+    "wof:name":"Risiloch",
+    "wof:parent_id":101854437,
     "wof:placetype":"neighbourhood",
     "wof:population":344,
     "wof:population_rank":2,

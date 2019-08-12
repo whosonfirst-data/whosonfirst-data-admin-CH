@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000831,
-    "geom:area_square_m":7105588.386403,
+    "geom:area_square_m":7105588.386404,
     "geom:bbox":"6.11225584625,46.2197521353,6.14802031926,46.260149205",
     "geom:latitude":46.238862,
     "geom:longitude":6.131111,
@@ -63,7 +63,10 @@
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
         85682291,
+        102191581,
+        404328283,
         85633051,
+        101748445,
         102062917
     ],
     "wof:breaches":[],
@@ -76,8 +79,11 @@
     "wof:geomhash":"ad21c8dc75e999bc34a5e03411d68ac8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
+            "locality_id":101748445,
             "neighbourhood_id":85862451,
             "region_id":85682291
         }
@@ -86,9 +92,9 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527270421,
+    "wof:lastmodified":1565428583,
     "wof:name":"Varembe",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748445,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

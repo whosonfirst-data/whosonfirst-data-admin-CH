@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682337,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"12136de9abc099bd93333229274ddc97",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125408799
+            "county_id":102062869,
+            "localadmin_id":1125408799,
+            "region_id":85682337
         }
     ],
     "wof:id":1125408799,
-    "wof:lastmodified":1505185771,
+    "wof:lastmodified":1565462318,
     "wof:name":"Herdern",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
     "wof:population":1020,
     "wof:population_rank":3,

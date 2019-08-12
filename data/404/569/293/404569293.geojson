@@ -2,10 +2,11 @@
   "id": 404569293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001395,
-    "geom:area_square_m":11870200.969052,
+    "geom:area_square_m":11870200.96905,
     "geom:bbox":"8.74290666265,46.4823782933,8.7951412558,46.5251749767",
     "geom:latitude":46.503747,
     "geom:longitude":8.768193,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.503749,
     "lbl:longitude":8.768696,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Ticino",
     "qs:a1_lc":"21",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404569293,
-    "wof:lastmodified":1497045383,
+    "wof:lastmodified":1565445077,
     "wof:name":"Osco",
     "wof:parent_id":102062931,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254111
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":46.7586,
     "lbl:longitude":9.14448,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_historical":[
         "Neukirch",
@@ -98,10 +99,9 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
-        404570129,
         85633051,
+        85682255,
         102062773
     ],
     "wof:breaches":[],
@@ -119,20 +119,21 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062773,
-            "localadmin_id":404570129,
             "locality_id":1126016057,
             "region_id":85682255
         }
     ],
     "wof:id":1126016057,
-    "wof:lastmodified":1561745923,
+    "wof:lastmodified":1565460977,
     "wof:name":"Neukirch bei Ilanz",
-    "wof:parent_id":404570129,
+    "wof:parent_id":102062773,
     "wof:placetype":"locality",
     "wof:population":120,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394395069
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

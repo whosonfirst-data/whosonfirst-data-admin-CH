@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"6.3009,46.66142,6.3009,46.66142",
-    "geom:latitude":46.66142,
-    "geom:longitude":6.3009,
+    "geom:area":0.000339,
+    "geom:area_square_m":2877793.703369,
+    "geom:bbox":"6.2847392,46.6462422,6.3160771,46.6646793",
+    "geom:latitude":46.655968,
+    "geom:longitude":6.299727,
     "gn:admin1_code":"VD",
     "gn:admin2_code":"2224.0",
     "gn:admin3_code":"5873.0",
@@ -26,9 +26,27 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.66142,
+    "lbl:longitude":6.3009,
+    "mps:latitude":46.655968,
+    "mps:longitude":6.299727,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "src:geom":"geonames",
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Le Sechey"
+    ],
+    "name:eng_x_variant":[
+        "Le S\u00e9chey"
+    ],
+    "nav:latitude":46.66142,
+    "nav:longitude":6.3009,
+    "reversegeo:latitude":46.655968,
+    "reversegeo:longitude":6.299727,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682325,
         102191581,
@@ -41,7 +59,7 @@
         "gn:id":7669718
     },
     "wof:country":"CH",
-    "wof:geomhash":"a3fb1971900ce6d38ac3fbce54350995",
+    "wof:geomhash":"e0bea8099ad9a02c801e92c3224c5973",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,8 +71,8 @@
         }
     ],
     "wof:id":1326865979,
-    "wof:lastmodified":1536999356,
-    "wof:name":"Le Sechey",
+    "wof:lastmodified":1565418218,
+    "wof:name":"Le S\u00e9chey",
     "wof:parent_id":404568183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
@@ -63,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.3009,
-    46.66142,
-    6.3009,
-    46.66142
+    6.2847392,
+    46.6462422,
+    6.3160771,
+    46.6646793
 ],
-  "geometry": {"coordinates":[6.3009,46.66142],"type":"Point"}
+  "geometry": {"coordinates":[[[6.2933687,46.6631845],[6.2939714,46.6631831],[6.2948693,46.6637293],[6.2949067,46.6637127],[6.2962573,46.6641896],[6.296376,46.6643401],[6.2970349,46.6644695],[6.3041712,46.6646793],[6.3046282,46.664369],[6.3047626,46.6642281],[6.3048014,46.6641698],[6.3062034,46.6632998],[6.306268,46.6632425],[6.308942,46.6598489],[6.3090301,46.6597342],[6.3119577,46.6579011],[6.3160771,46.6563417],[6.3084232,46.6504788],[6.3006886,46.6462422],[6.291358,46.6502991],[6.2893409,46.6521902],[6.2874204,46.6534547],[6.2853545,46.6547004],[6.2850985,46.6549987],[6.2847392,46.6562427],[6.2861699,46.6577334],[6.2933687,46.6631845]]],"type":"Polygon"}
 }

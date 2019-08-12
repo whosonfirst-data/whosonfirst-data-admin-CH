@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569147,
+        85633051,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"f4ee30e9b47a1bac11082d517805ed84",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110479
+            "county_id":102062995,
+            "localadmin_id":404569147,
+            "locality_id":1126110479,
+            "region_id":85682309
         }
     ],
     "wof:id":1126110479,
-    "wof:lastmodified":1505185727,
+    "wof:lastmodified":1565453372,
     "wof:name":"Hasligass",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569147,
     "wof:placetype":"locality",
     "wof:population":8,
     "wof:population_rank":1,

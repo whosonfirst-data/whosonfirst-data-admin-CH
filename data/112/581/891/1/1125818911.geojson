@@ -4,17 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"9.75211,46.63424,9.75211,46.63424",
-    "geom:latitude":46.63424,
-    "geom:longitude":9.75211,
+    "geom:area":0.000249,
+    "geom:area_square_m":2114609.325316,
+    "geom:bbox":"9.7410091,46.630347,9.767737,46.6463051",
+    "geom:latitude":46.637648,
+    "geom:longitude":9.755282,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"CH",
     "lbl:latitude":46.63424,
     "lbl:longitude":9.75211,
+    "mps:latitude":46.637648,
+    "mps:longitude":9.755282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
@@ -30,6 +32,8 @@
     "name:nld_x_preferred":[
         "Latsch"
     ],
+    "nav:latitude":46.63424,
+    "nav:longitude":9.75211,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -50,8 +54,13 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":783046,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":46.637648,
+    "reversegeo:longitude":9.755282,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Graub\u00fcnden",
@@ -59,7 +68,7 @@
     "wof:belongsto":[
         85682255,
         102191581,
-        404567745,
+        1394254025,
         85633051,
         102062885
     ],
@@ -72,21 +81,21 @@
     },
     "wof:country":"CH",
     "wof:created":1497291965,
-    "wof:geomhash":"91de8d35328f552a46d61939c90f5c14",
+    "wof:geomhash":"5fe3deade83252eb59fcfb103e48a3b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062885,
-            "localadmin_id":404567745,
+            "localadmin_id":1394254025,
             "locality_id":1125818911,
             "region_id":85682255
         }
     ],
     "wof:id":1125818911,
-    "wof:lastmodified":1561745890,
+    "wof:lastmodified":1565581876,
     "wof:name":"Latsch",
-    "wof:parent_id":404567745,
+    "wof:parent_id":1394254025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
@@ -94,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    9.75211,
-    46.63424,
-    9.75211,
-    46.63424
+    9.7410091,
+    46.630347,
+    9.767737,
+    46.6463051
 ],
-  "geometry": {"coordinates":[9.75211,46.63424],"type":"Point"}
+  "geometry": {"coordinates":[[[9.7410091,46.6394726],[9.7460404,46.6419275],[9.7531116,46.6463051],[9.7640233,46.6401366],[9.7671438,46.6378559],[9.767737,46.6353859],[9.7663586,46.6326188],[9.7610418,46.6309924],[9.7572364,46.630347],[9.754342,46.6313698],[9.7531944,46.6312504],[9.7511458,46.6322615],[9.7499864,46.6324247],[9.7500426,46.632534],[9.7496743,46.632971],[9.7492791,46.6331835],[9.7489975,46.633438],[9.7476362,46.6337605],[9.7464069,46.6344775],[9.7460839,46.6356079],[9.7410091,46.6394726]]],"type":"Polygon"}
 }

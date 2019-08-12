@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568617,
+        85633051,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"0d6cb76eba9a5e2cf436478f4102659f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111283
+            "county_id":102062779,
+            "localadmin_id":404568617,
+            "locality_id":1126111283,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111283,
-    "wof:lastmodified":1505185751,
+    "wof:lastmodified":1565453865,
     "wof:name":"Kastellhof",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568617,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

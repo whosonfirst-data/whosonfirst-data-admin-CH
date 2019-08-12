@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,7 +27,7 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "Moutier"
     ],
@@ -87,14 +88,16 @@
         }
     ],
     "wof:id":1293136957,
-    "wof:lastmodified":1537590743,
+    "wof:lastmodified":1565429056,
     "wof:name":"Moutier",
     "wof:parent_id":404568613,
     "wof:placetype":"locality",
     "wof:population":7721,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404568613
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,10 +2,11 @@
   "id": 404328371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.00152,
-    "geom:area_square_m":12774717.769322,
+    "geom:area_square_m":12774717.769321,
     "geom:bbox":"8.17830794608,47.1566455507,8.23538437792,47.1964065725",
     "geom:latitude":47.175648,
     "geom:longitude":8.210282,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.175961,
     "lbl:longitude":8.210818,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Luzern",
     "qs:a1_lc":"3",
@@ -32,7 +34,7 @@
         102191581,
         85633051,
         85682319,
-        102062797
+        1394137077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +47,20 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062797,
+            "county_id":1394137077,
             "localadmin_id":404328371,
             "region_id":85682319
         }
     ],
     "wof:id":404328371,
-    "wof:lastmodified":1497049819,
+    "wof:lastmodified":1565450576,
     "wof:name":"Neudorf",
-    "wof:parent_id":102062797,
+    "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254059
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

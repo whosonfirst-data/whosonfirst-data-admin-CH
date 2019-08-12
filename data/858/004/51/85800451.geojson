@@ -30,6 +30,12 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0647\u064a\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u0627\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u044b\u044d\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0438\u0435\u043d"
     ],
@@ -39,10 +45,19 @@
     "name:ceb_x_preferred":[
         "Riehen"
     ],
+    "name:ces_x_preferred":[
+        "Riehen"
+    ],
     "name:chv_x_preferred":[
         "\u0420\u0438\u0435\u043d"
     ],
+    "name:cym_x_preferred":[
+        "Riehen"
+    ],
     "name:deu_x_preferred":[
+        "Riehen"
+    ],
+    "name:eng_x_preferred":[
         "Riehen"
     ],
     "name:epo_x_preferred":[
@@ -54,11 +69,20 @@
     "name:fas_x_preferred":[
         "\u0631\u06cc\u0627\u0646"
     ],
+    "name:fin_x_preferred":[
+        "Riehen"
+    ],
     "name:fra_x_preferred":[
         "Riehen"
     ],
     "name:gle_x_preferred":[
         "Riehen"
+    ],
+    "name:glg_x_preferred":[
+        "Riehen"
+    ],
+    "name:gsw_x_preferred":[
+        "Rieche"
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d9\u05d9\u05d4\u05df"
@@ -69,11 +93,20 @@
     "name:ita_x_preferred":[
         "Riehen"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30fc\u30a8\u30f3"
+    ],
     "name:kaz_x_preferred":[
         "\u0420\u0438\u044d\u043d"
     ],
+    "name:kor_x_preferred":[
+        "\ub9ac\ud5e8"
+    ],
     "name:lin_x_preferred":[
         "Ri\u00e9kh\u00e9"
+    ],
+    "name:nan_x_preferred":[
+        "Riehen"
     ],
     "name:nld_x_preferred":[
         "Riehen"
@@ -81,7 +114,13 @@
     "name:nno_x_preferred":[
         "Riehen"
     ],
+    "name:nob_x_preferred":[
+        "Riehen"
+    ],
     "name:oci_x_preferred":[
+        "Riehen"
+    ],
+    "name:pms_x_preferred":[
         "Riehen"
     ],
     "name:pol_x_preferred":[
@@ -96,7 +135,16 @@
     "name:rus_x_preferred":[
         "\u0420\u0438\u0435\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0420\u0438\u044d\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Riehen"
+    ],
     "name:slk_x_preferred":[
+        "Riehen"
+    ],
+    "name:slv_x_preferred":[
         "Riehen"
     ],
     "name:spa_x_preferred":[
@@ -108,6 +156,12 @@
     "name:swe_x_preferred":[
         "Riehen"
     ],
+    "name:tur_x_preferred":[
+        "Riehen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u0435\u043d"
+    ],
     "name:unk_x_variant":[
         "Riehen"
     ],
@@ -116,6 +170,9 @@
     ],
     "name:vie_x_preferred":[
         "Riehen"
+    ],
+    "name:vie_x_variant":[
+        "Basel-Stadt"
     ],
     "name:vol_x_preferred":[
         "Riehen"
@@ -160,11 +217,12 @@
     "src:population":"geonames",
     "wd:wordcount":2101,
     "wof:belongsto":[
+        85682297,
         102191581,
         404328417,
         85633051,
-        102062895,
-        85682297
+        1394297929,
+        102062895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -182,7 +240,7 @@
             "country_id":85633051,
             "county_id":102062895,
             "localadmin_id":404328417,
-            "locality_id":-1,
+            "locality_id":1394297929,
             "neighbourhood_id":85800451,
             "region_id":85682297
         }
@@ -191,9 +249,9 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1558999172,
+    "wof:lastmodified":1565428613,
     "wof:name":"Riehen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394297929,
     "wof:placetype":"neighbourhood",
     "wof:population":20000,
     "wof:population_rank":7,

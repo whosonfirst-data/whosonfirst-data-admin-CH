@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,13 +27,17 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "Brand"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682341,
+        102191581,
+        404570527,
+        85633051,
+        102062855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,23 @@
     "wof:geomhash":"747e7b778aa584534ec03489afa5e74b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209448991
+            "county_id":102062855,
+            "localadmin_id":404570527,
+            "locality_id":1209448991,
+            "region_id":85682341
         }
     ],
     "wof:id":1209448991,
-    "wof:lastmodified":1537590878,
+    "wof:lastmodified":1565430908,
     "wof:name":"Brand",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404570527,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394400527
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

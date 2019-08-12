@@ -2,10 +2,11 @@
   "id": 404571455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000525,
-    "geom:area_square_m":4508143.395631,
+    "geom:area_square_m":4508143.395632,
     "geom:bbox":"8.97180048152,46.0297700661,9.0175680894,46.0521334691",
     "geom:latitude":46.04233,
     "geom:longitude":8.994669,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.043004,
     "lbl:longitude":8.994666,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Ticino",
     "qs:a1_lc":"21",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404571455,
-    "wof:lastmodified":1497045280,
+    "wof:lastmodified":1565449518,
     "wof:name":"Cadro",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254171
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

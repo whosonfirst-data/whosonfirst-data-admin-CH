@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"c8b5f28d5c173735bf525f646ebaca0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125370727
+            "county_id":102062861,
+            "localadmin_id":1125370727,
+            "region_id":85682381
         }
     ],
     "wof:id":1125370727,
-    "wof:lastmodified":1505185775,
+    "wof:lastmodified":1565458374,
     "wof:name":"Zollikofen",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
     "wof:population":10217,
     "wof:population_rank":6,

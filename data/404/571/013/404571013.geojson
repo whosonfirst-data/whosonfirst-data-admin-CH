@@ -2,8 +2,9 @@
   "id": 404571013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000667,
     "geom:area_square_m":5656242.934941,
     "geom:bbox":"9.14969865629,46.7228076584,9.19369500743,46.7452775121",
@@ -13,7 +14,7 @@
     "lbl:latitude":46.734614,
     "lbl:longitude":9.174093,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404571013,
-    "wof:lastmodified":1507751278,
+    "wof:lastmodified":1565449393,
     "wof:name":"Morissen",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254047
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

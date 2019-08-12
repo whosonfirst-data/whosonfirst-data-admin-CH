@@ -18,7 +18,14 @@
     "lbl:longitude":8.52675,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Adliswil (Stadtkern)"
+    ],
+    "name:eng_x_variant":[
+        "Adliswil / Adliswil (Stadtkern)"
+    ],
     "name:unk_x_variant":[
         "Adliswil (Stadtkern)"
     ],
@@ -37,11 +44,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
+        404570347,
         85633051,
-        101748463,
-        102063071,
-        85682309
+        1125934999,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,16 +63,17 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063071,
-            "locality_id":101748463,
+            "county_id":102062825,
+            "localadmin_id":404570347,
+            "locality_id":1125934999,
             "neighbourhood_id":1126084519,
             "region_id":85682309
         }
     ],
     "wof:id":1126084519,
-    "wof:lastmodified":1509411334,
-    "wof:name":"Adliswil / Adliswil (Stadtkern)",
-    "wof:parent_id":101748463,
+    "wof:lastmodified":1565459932,
+    "wof:name":"Adliswil (Stadtkern)",
+    "wof:parent_id":1125934999,
     "wof:placetype":"neighbourhood",
     "wof:population":2538,
     "wof:population_rank":4,

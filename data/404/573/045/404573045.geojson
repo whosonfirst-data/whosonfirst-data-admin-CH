@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
-    "geom:area_square_m":2236461.683207,
+    "geom:area_square_m":2236461.683206,
     "geom:bbox":"7.84078196733,46.3016731373,7.88108395408,46.318472876",
     "geom:latitude":46.306688,
     "geom:longitude":7.859437,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.307276,
     "lbl:longitude":7.86081,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Valais",
     "qs:a1_lc":"23",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"57e4fc28edf3b1deb88a0e1dd7d9bb00",
+    "wof:geomhash":"f30b3e937cffd5af1a94708504f219b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404573045,
-    "wof:lastmodified":1479951848,
+    "wof:lastmodified":1565448955,
     "wof:name":"Baltschieder",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404568301
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569659,
+        85633051,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"c8d1bcf5ca5e31dcf9363767ec80249b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113113
+            "county_id":102062775,
+            "localadmin_id":404569659,
+            "locality_id":1126113113,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113113,
-    "wof:lastmodified":1505185715,
+    "wof:lastmodified":1565454593,
     "wof:name":"Sennweid",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569659,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

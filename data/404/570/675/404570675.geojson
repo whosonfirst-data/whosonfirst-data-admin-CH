@@ -2,10 +2,11 @@
   "id": 404570675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000791,
-    "geom:area_square_m":6707252.188507,
+    "geom:area_square_m":6707252.188506,
     "geom:bbox":"9.11468200741,46.6946946352,9.18378631932,46.72472386",
     "geom:latitude":46.709848,
     "geom:longitude":9.149077,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.709898,
     "lbl:longitude":9.152495,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404570675,
-    "wof:lastmodified":1497046127,
+    "wof:lastmodified":1565451199,
     "wof:name":"Degen",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254047
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

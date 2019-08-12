@@ -18,6 +18,7 @@
     "lbl:longitude":8.52166,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -34,10 +35,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
+        1394254167,
         85633051,
-        102063071,
-        85682309
+        101748463,
+        102063071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +55,16 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063071,
-            "locality_id":-1,
+            "localadmin_id":1394254167,
+            "locality_id":101748463,
             "neighbourhood_id":1126095027,
             "region_id":85682309
         }
     ],
     "wof:id":1126095027,
-    "wof:lastmodified":1509411840,
+    "wof:lastmodified":1565461479,
     "wof:name":"Z\u00fcrich (Kreis 11)",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",
     "wof:population":54260,
     "wof:population_rank":8,

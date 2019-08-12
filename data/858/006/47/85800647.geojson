@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000303,
-    "geom:area_square_m":2541870.517354,
+    "geom:area_square_m":2541870.517355,
     "geom:bbox":"8.5693359375,47.3369608513,8.60006662551,47.3610237119",
     "geom:latitude":47.350219,
     "geom:longitude":8.586397,
@@ -60,9 +60,10 @@
     "wof:belongsto":[
         85682309,
         102191581,
+        404569951,
         85633051,
-        101748463,
-        102063071
+        1394297833,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +75,9 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063071,
-            "locality_id":101748463,
+            "county_id":102062769,
+            "localadmin_id":404569951,
+            "locality_id":1394297833,
             "neighbourhood_id":85800647,
             "region_id":85682309
         }
@@ -84,9 +86,9 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527270118,
+    "wof:lastmodified":1565428542,
     "wof:name":"Witellikon",
-    "wof:parent_id":101748463,
+    "wof:parent_id":1394297833,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Glarus",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682249,
+        102063003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"d2a376302e1bd11026904e4dc465e1c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125365547
+            "county_id":102063003,
+            "localadmin_id":1125365547,
+            "region_id":85682249
         }
     ],
     "wof:id":1125365547,
-    "wof:lastmodified":1505248112,
+    "wof:lastmodified":1565459151,
     "wof:name":"Riedern",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063003,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

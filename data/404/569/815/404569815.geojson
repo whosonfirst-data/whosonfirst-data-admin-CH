@@ -2,8 +2,9 @@
   "id": 404569815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001135,
     "geom:area_square_m":9720816.968491,
     "geom:bbox":"8.74952604446,46.149042929,8.80497465924,46.1973004115",
@@ -13,7 +14,7 @@
     "lbl:latitude":46.179595,
     "lbl:longitude":8.775393,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "Locarno"
     ],
@@ -63,12 +64,14 @@
         }
     ],
     "wof:id":404569815,
-    "wof:lastmodified":1504301904,
+    "wof:lastmodified":1565445422,
     "wof:name":"Locarno",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254169
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

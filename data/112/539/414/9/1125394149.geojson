@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"30c4d225099320d7e94dbb783b4e87aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125394149
+            "county_id":102062813,
+            "localadmin_id":1125394149,
+            "region_id":85682325
         }
     ],
     "wof:id":1125394149,
-    "wof:lastmodified":1505248180,
+    "wof:lastmodified":1565458425,
     "wof:name":"Les Cl\u00e9es",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

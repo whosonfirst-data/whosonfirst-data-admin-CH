@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"da63e06232fa4b6a0cd6e7ace1d322f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125353417
+            "county_id":102063049,
+            "localadmin_id":1125353417,
+            "region_id":85682325
         }
     ],
     "wof:id":1125353417,
-    "wof:lastmodified":1505248096,
+    "wof:lastmodified":1565452802,
     "wof:name":"St.-Cergue",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

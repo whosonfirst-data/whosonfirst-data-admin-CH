@@ -2,10 +2,11 @@
   "id": 404569679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001249,
-    "geom:area_square_m":10455968.843523,
+    "geom:area_square_m":10455968.843524,
     "geom:bbox":"7.05149329692,47.3688996006,7.09660978933,47.4101363847",
     "geom:latitude":47.387726,
     "geom:longitude":7.076783,
@@ -13,7 +14,7 @@
     "lbl:latitude":47.387182,
     "lbl:longitude":7.077216,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Jura",
     "qs:a1_lc":"26",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404569679,
-    "wof:lastmodified":1507751272,
+    "wof:lastmodified":1565445471,
     "wof:name":"Fontenais",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254069
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

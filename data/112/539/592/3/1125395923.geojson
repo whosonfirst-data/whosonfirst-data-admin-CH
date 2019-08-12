@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Schwyz",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682305,
+        102062811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"c9a1f08072207e63b48105ae07f6a13f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125395923
+            "county_id":102062811,
+            "localadmin_id":1125395923,
+            "region_id":85682305
         }
     ],
     "wof:id":1125395923,
-    "wof:lastmodified":1505248185,
+    "wof:lastmodified":1565458420,
     "wof:name":"K\u00fcssnacht am Rigi",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062811,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

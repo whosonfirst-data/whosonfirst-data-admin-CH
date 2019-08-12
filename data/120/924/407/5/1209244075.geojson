@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,13 +27,17 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "Lohn-Ammannsegg"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682365,
+        102191581,
+        404328721,
+        85633051,
+        1394137123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,23 @@
     "wof:geomhash":"b68ba50232cdd0b27c30daef408cdbec",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209244075
+            "county_id":1394137123,
+            "localadmin_id":404328721,
+            "locality_id":1209244075,
+            "region_id":85682365
         }
     ],
     "wof:id":1209244075,
-    "wof:lastmodified":1537489276,
+    "wof:lastmodified":1565430371,
     "wof:name":"Ammansegg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328721,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394399689
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

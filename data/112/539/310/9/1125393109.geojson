@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682329,
+        102062989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"4f9b0cd96cacf0f606a50f8de30f5ad1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125393109
+            "county_id":102062989,
+            "localadmin_id":1125393109,
+            "region_id":85682329
         }
     ],
     "wof:id":1125393109,
-    "wof:lastmodified":1505248176,
+    "wof:lastmodified":1565458454,
     "wof:name":"Rohr",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062989,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

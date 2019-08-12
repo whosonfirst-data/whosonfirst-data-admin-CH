@@ -30,6 +30,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Z\u00fcrich"
+    ],
     "name:deu_x_preferred":[
         "Friesenberg"
     ],
@@ -104,7 +107,9 @@
     "wof:belongsto":[
         85682309,
         102191581,
+        1394254167,
         85633051,
+        101748463,
         102063071
     ],
     "wof:breaches":[],
@@ -123,7 +128,8 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063071,
-            "locality_id":-1,
+            "localadmin_id":1394254167,
+            "locality_id":101748463,
             "neighbourhood_id":85799993,
             "region_id":85682309
         }
@@ -132,9 +138,9 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1561745802,
+    "wof:lastmodified":1565423099,
     "wof:name":"Friesenberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",
     "wof:population":10696,
     "wof:population_rank":6,

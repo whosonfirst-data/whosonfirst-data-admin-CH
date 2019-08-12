@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.8364,47.44443,7.8364,47.44443",
-    "geom:latitude":47.44443,
-    "geom:longitude":7.8364,
+    "geom:area":0.000171,
+    "geom:area_square_m":1433666.367608,
+    "geom:bbox":"7.8313215,47.4383796,7.8531964,47.451578",
+    "geom:latitude":47.444971,
+    "geom:longitude":7.840411,
     "gn:admin1_code":"BL",
     "gn:admin2_code":"1304.0",
     "gn:admin3_code":"2845.0",
@@ -25,9 +25,87 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":47.44443,
+    "lbl:longitude":7.8364,
+    "mps:latitude":47.444971,
+    "mps:longitude":7.840411,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "src:geom":"geonames",
+    "mz:is_current":1,
+    "name:als_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:cat_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:ceb_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:chv_x_preferred":[
+        "\u0414\u0438\u043f\u0444\u043b\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:eng_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:epo_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:eus_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:fra_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:ita_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0438\u043f\u0444\u043b\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:lmo_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:msa_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:nld_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:nno_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043f\u0444\u043b\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:sqi_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:swe_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:uzb_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:vol_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:war_x_preferred":[
+        "Diepflingen"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u666e\u5f17\u6797\u6839"
+    ],
+    "nav:latitude":47.44443,
+    "nav:longitude":7.8364,
+    "reversegeo:latitude":47.444971,
+    "reversegeo:longitude":7.840411,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682361,
         102191581,
@@ -40,8 +118,11 @@
         "gn:id":8533587,
         "wk:page":"Diepflingen"
     },
+    "wof:coterminous":[
+        404573341
+    ],
     "wof:country":"CH",
-    "wof:geomhash":"f3bf20cb84dca50fe4726dadbdd4aaf1",
+    "wof:geomhash":"12edeb0a6368e1ef24135ef4b008cf3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +134,7 @@
         }
     ],
     "wof:id":1209945559,
-    "wof:lastmodified":1537489299,
+    "wof:lastmodified":1565430722,
     "wof:name":"Diepflingen",
     "wof:parent_id":404573341,
     "wof:placetype":"locality",
@@ -63,10 +144,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.8364,
-    47.44443,
-    7.8364,
-    47.44443
+    7.8313215,
+    47.4383796,
+    7.8531964,
+    47.451578
 ],
-  "geometry": {"coordinates":[7.8364,47.44443],"type":"Point"}
+  "geometry": {"coordinates":[[[7.840307,47.4399422],[7.8401963,47.4400397],[7.8394098,47.4400605],[7.8389863,47.4401519],[7.8383514,47.440352],[7.8372664,47.4406255],[7.8362319,47.4405661],[7.8345756,47.4406797],[7.8334864,47.4403956],[7.8331938,47.4402707],[7.8325161,47.4400572],[7.8313215,47.4398634],[7.8315725,47.4415444],[7.831648,47.4427854],[7.8317872,47.4436843],[7.8316604,47.4444672],[7.8316663,47.4452767],[7.8314789,47.4468333],[7.8314469,47.4478858],[7.8322459,47.4483598],[7.8330177,47.4487349],[7.8344829,47.4496293],[7.8354412,47.4501207],[7.8365441,47.4504317],[7.8405289,47.4513444],[7.8415236,47.451578],[7.8425047,47.4511453],[7.8433082,47.4507019],[7.844068,47.4504093],[7.8447383,47.4494271],[7.8453238,47.4485365],[7.8463807,47.4479434],[7.847098,47.4475362],[7.848135,47.4469764],[7.8480131,47.4467363],[7.8478403,47.4464451],[7.847819,47.4464093],[7.8478275,47.446235],[7.848008,47.4459245],[7.8482192,47.4457668],[7.8482649,47.4457334],[7.8484442,47.4456023],[7.8487042,47.4454367],[7.8491398,47.4451814],[7.849568,47.4451729],[7.8501079,47.445246],[7.8502148,47.4452605],[7.8503845,47.4452563],[7.8508882,47.4452438],[7.8514942,47.4451549],[7.8516773,47.4451342],[7.8520558,47.4450638],[7.8526074,47.4450534],[7.8527948,47.4449628],[7.8529928,47.4448357],[7.8531964,47.44471],[7.8531172,47.4446368],[7.8529237,47.4441492],[7.8527445,47.4436974],[7.8520601,47.443451],[7.8513501,47.4431218],[7.850563,47.4427456],[7.8499153,47.4424537],[7.8490687,47.442061],[7.8472823,47.4416974],[7.8472788,47.4416956],[7.845056,47.4405499],[7.8443323,47.4401624],[7.8440244,47.4397835],[7.843633,47.439308],[7.8433754,47.4391476],[7.8432527,47.4388902],[7.8428412,47.438808],[7.8422201,47.4383796],[7.841854,47.4384244],[7.8411512,47.4384892],[7.8406675,47.4386358],[7.8403369,47.438736],[7.8405045,47.439234],[7.840515,47.4396828],[7.840307,47.4399422]]],"type":"Polygon"}
 }

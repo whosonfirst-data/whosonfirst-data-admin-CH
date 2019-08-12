@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "B\u00e4chli"
+    ],
+    "name:eng_x_variant":[
+        "Embrach / B\u00e4chli"
+    ],
     "name:unk_x_variant":[
         "B\u00e4chli"
     ],
@@ -37,11 +43,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         404569171,
         85633051,
-        102063019,
-        85682309
+        101854415,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +64,15 @@
             "country_id":85633051,
             "county_id":102063019,
             "localadmin_id":404569171,
-            "locality_id":-1,
+            "locality_id":101854415,
             "neighbourhood_id":1126061905,
             "region_id":85682309
         }
     ],
     "wof:id":1126061905,
-    "wof:lastmodified":1509410241,
-    "wof:name":"Embrach / B\u00e4chli",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1565460486,
+    "wof:name":"B\u00e4chli",
+    "wof:parent_id":101854415,
     "wof:placetype":"neighbourhood",
     "wof:population":734,
     "wof:population_rank":2,

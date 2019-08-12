@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"d1f966101941c5b1d28e9e8db1f6ce39",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125399101
+            "county_id":102062893,
+            "localadmin_id":1125399101,
+            "region_id":85682309
         }
     ],
     "wof:id":1125399101,
-    "wof:lastmodified":1505248192,
+    "wof:lastmodified":1565458456,
     "wof:name":"Birmensdorf",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062893,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

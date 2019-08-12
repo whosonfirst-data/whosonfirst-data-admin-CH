@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568957,
+        85633051,
+        102062933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"93cc660a5b64d5051555bef3c7978451",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112395
+            "county_id":102062933,
+            "localadmin_id":404568957,
+            "locality_id":1126112395,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112395,
-    "wof:lastmodified":1505185754,
+    "wof:lastmodified":1565454449,
     "wof:name":"Lurwis",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568957,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

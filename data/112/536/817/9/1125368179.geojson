@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682281,
+        102062793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"b275c44db03667a964b4fbc88f4aeb3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125368179
+            "county_id":102062793,
+            "localadmin_id":1125368179,
+            "region_id":85682281
         }
     ],
     "wof:id":1125368179,
-    "wof:lastmodified":1505185771,
+    "wof:lastmodified":1565459136,
     "wof:name":"Gr\u00f4ne",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062793,
     "wof:placetype":"localadmin",
     "wof:population":2311,
     "wof:population_rank":4,

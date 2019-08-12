@@ -2,10 +2,11 @@
   "id": 404569769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.00119,
-    "geom:area_square_m":9988748.284631,
+    "geom:area_square_m":9988748.28463,
     "geom:bbox":"8.98051242205,47.2325286157,9.05341274319,47.2675832442",
     "geom:latitude":47.251523,
     "geom:longitude":9.014155,
@@ -13,7 +14,7 @@
     "lbl:latitude":47.253083,
     "lbl:longitude":9.011134,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"St. Gallen",
     "qs:a1_lc":"17",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404569769,
-    "wof:lastmodified":1507751273,
+    "wof:lastmodified":1565445297,
     "wof:name":"Ernetschwil",
     "wof:parent_id":102062815,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253995
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

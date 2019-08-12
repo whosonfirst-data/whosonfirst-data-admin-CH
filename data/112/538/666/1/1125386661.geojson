@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682255,
+        102062773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"54995e7918aef189f7d30a23f6f894e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125386661
+            "county_id":102062773,
+            "localadmin_id":1125386661,
+            "region_id":85682255
         }
     ],
     "wof:id":1125386661,
-    "wof:lastmodified":1505248152,
+    "wof:lastmodified":1565459103,
     "wof:name":"Ruschein",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

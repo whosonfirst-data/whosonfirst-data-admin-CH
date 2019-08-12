@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
     "geom:area_square_m":730031.993033,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.438633,
     "lbl:longitude":8.269046,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Aargau",
     "qs:a1_lc":"19",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"5e4fd1ddd2f5ae645080ed060a05f1a1",
+    "wof:geomhash":"dba3c538feb48887f7e0d4bc78e17978",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404573469,
-    "wof:lastmodified":1479926624,
+    "wof:lastmodified":1565449017,
     "wof:name":"Baden",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404569209
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

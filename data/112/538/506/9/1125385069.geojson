@@ -40,7 +40,10 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682269,
+        102062975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"27b5d96b75c1b1bfc3ee231b38178499",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125385069
+            "county_id":102062975,
+            "localadmin_id":1125385069,
+            "region_id":85682269
         }
     ],
     "wof:id":1125385069,
-    "wof:lastmodified":1505248150,
+    "wof:lastmodified":1565459106,
     "wof:name":"Indemini",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

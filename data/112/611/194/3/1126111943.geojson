@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569487,
+        85633051,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"7d86f734a6b8d2353d0e0dacc91d4f8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111943
+            "county_id":102062995,
+            "localadmin_id":404569487,
+            "locality_id":1126111943,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111943,
-    "wof:lastmodified":1505185725,
+    "wof:lastmodified":1565453122,
     "wof:name":"Loohof",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569487,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

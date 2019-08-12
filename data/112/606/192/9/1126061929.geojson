@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Feld 1"
+    ],
+    "name:eng_x_variant":[
+        "D\u00e4nikon / Feld 1"
+    ],
     "name:unk_x_variant":[
         "Feld 1"
     ],
@@ -37,11 +43,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         404572187,
         85633051,
-        102062995,
-        85682309
+        1126008931,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +64,15 @@
             "country_id":85633051,
             "county_id":102062995,
             "localadmin_id":404572187,
-            "locality_id":-1,
+            "locality_id":1126008931,
             "neighbourhood_id":1126061929,
             "region_id":85682309
         }
     ],
     "wof:id":1126061929,
-    "wof:lastmodified":1509410242,
-    "wof:name":"D\u00e4nikon / Feld 1",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1565460014,
+    "wof:name":"Feld 1",
+    "wof:parent_id":1126008931,
     "wof:placetype":"neighbourhood",
     "wof:population":80,
     "wof:population_rank":1,

@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"1452bf5fb8732d148a3c0550ef66111b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112789
+            "county_id":102062825,
+            "locality_id":1126112789,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112789,
-    "wof:lastmodified":1505185737,
+    "wof:lastmodified":1565454204,
     "wof:name":"Erni",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062825,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,

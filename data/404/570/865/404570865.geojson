@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.000728,
     "geom:area_square_m":6170023.202713,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.704017,
     "lbl:longitude":7.056475,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Fribourg",
     "qs:a1_lc":"10",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404570865,
-    "wof:lastmodified":1497046884,
+    "wof:lastmodified":1565451835,
     "wof:name":"Vuisternens-En-Ogoz",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254115
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

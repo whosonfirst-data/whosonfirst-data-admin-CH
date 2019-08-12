@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,17 +27,16 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:und_x_variant":[
         "Alpe dil Chant",
         "Chants"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
-        404567745,
         85633051,
+        85682255,
         102062885
     ],
     "wof:breaches":[],
@@ -50,18 +50,19 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062885,
-            "localadmin_id":404567745,
             "locality_id":1293420335,
             "region_id":85682255
         }
     ],
     "wof:id":1293420335,
-    "wof:lastmodified":1537590751,
+    "wof:lastmodified":1565429365,
     "wof:name":"Chants",
-    "wof:parent_id":404567745,
+    "wof:parent_id":102062885,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394399705
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

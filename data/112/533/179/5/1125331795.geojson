@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682347,
+        102062875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"ac97db82135a39ce8f65f1fcd60d90d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125331795
+            "county_id":102062875,
+            "localadmin_id":1125331795,
+            "region_id":85682347
         }
     ],
     "wof:id":1125331795,
-    "wof:lastmodified":1505185771,
+    "wof:lastmodified":1565452486,
     "wof:name":"Les Breuleux",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062875,
     "wof:placetype":"localadmin",
     "wof:population":1520,
     "wof:population_rank":3,

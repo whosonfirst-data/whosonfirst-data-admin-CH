@@ -3,8 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-30",
     "edtf:inception":"uuuu",
     "geom:area":0.002009,
+    "geom:area_square_m":16836526.144479,
     "geom:bbox":"9.37190962172,47.3042705633,9.47923850228,47.3612723678",
     "geom:latitude":47.336656,
     "geom:longitude":9.412718,
@@ -14,6 +16,7 @@
     "mps:latitude":47.323392,
     "mps:longitude":9.394138,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "name:als_x_preferred":[
         "Kanton Appenzell"
     ],
@@ -91,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"c01ab430a4672e2d4e7f7c3b977ea184",
+    "wof:geomhash":"6885b81f9a6f280f3f60aeb384847b39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,12 +104,14 @@
         }
     ],
     "wof:id":102063027,
-    "wof:lastmodified":1467242981,
+    "wof:lastmodified":1565421455,
     "wof:name":"Appenzell",
     "wof:parent_id":85682275,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394237541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"982e89cb93f2a0eb9a32699f357903cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125349723
+            "county_id":102062949,
+            "localadmin_id":1125349723,
+            "region_id":85682325
         }
     ],
     "wof:id":1125349723,
-    "wof:lastmodified":1505185770,
+    "wof:lastmodified":1565452501,
     "wof:name":"Essertines-sur-Yverdon",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
     "wof:population":946,
     "wof:population_rank":2,

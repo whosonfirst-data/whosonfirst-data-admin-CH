@@ -32,7 +32,8 @@
         "Paquis"
     ],
     "name:eng_x_variant":[
-        "P\u00e2quis"
+        "P\u00e2quis",
+        "Les P\u00e2quis"
     ],
     "name:fra_x_colloquial":[
         "Paquis-Nations",
@@ -55,7 +56,10 @@
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
         85682291,
+        102191581,
+        404328283,
         85633051,
+        101748445,
         102062917
     ],
     "wof:breaches":[],
@@ -68,8 +72,11 @@
     "wof:geomhash":"a9574f281ce9b0f57e7490f11b77deb8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
+            "locality_id":101748445,
             "neighbourhood_id":85897657,
             "region_id":85682291
         }
@@ -78,9 +85,9 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561745818,
+    "wof:lastmodified":1565428546,
     "wof:name":"Paquis",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748445,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

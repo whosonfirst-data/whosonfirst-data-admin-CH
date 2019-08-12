@@ -2,10 +2,11 @@
   "id": 404573457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000097,
-    "geom:area_square_m":825324.78205,
+    "geom:area_square_m":825324.782051,
     "geom:bbox":"6.74928468299,46.6562511836,6.76221457132,46.6691438236",
     "geom:latitude":46.661274,
     "geom:longitude":6.755828,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.661208,
     "lbl:longitude":6.755729,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Vaud",
     "qs:a1_lc":"22",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404573457,
-    "wof:lastmodified":1497052202,
+    "wof:lastmodified":1565449058,
     "wof:name":"Martherenges",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254013
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

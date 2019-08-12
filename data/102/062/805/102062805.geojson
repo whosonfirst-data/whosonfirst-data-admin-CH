@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-30",
     "edtf:inception":"uuuu",
     "geom:area":0.019655,
     "geom:area_square_m":166006240.206212,
@@ -15,7 +16,7 @@
     "mps:latitude":46.902683,
     "mps:longitude":6.512397,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:als_x_preferred":[
         "Val-de-Travers NE"
     ],
@@ -121,12 +122,14 @@
         }
     ],
     "wof:id":102062805,
-    "wof:lastmodified":1561745793,
+    "wof:lastmodified":1565419663,
     "wof:name":"Val-de-Travers",
     "wof:parent_id":85682359,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394237543
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -16,7 +17,7 @@
     "lbl:latitude":46.63333,
     "lbl:longitude":9.28333,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:unk_x_variant":[
         "Beim Thurm"
@@ -48,10 +49,9 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
-        404567799,
         85633051,
+        85682255,
         102062773
     ],
     "wof:breaches":[],
@@ -68,18 +68,19 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062773,
-            "localadmin_id":404567799,
             "locality_id":1125930693,
             "region_id":85682255
         }
     ],
     "wof:id":1125930693,
-    "wof:lastmodified":1509401383,
+    "wof:lastmodified":1565452429,
     "wof:name":"Turahus",
-    "wof:parent_id":404567799,
+    "wof:parent_id":102062773,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394409585
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

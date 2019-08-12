@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568377,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"216173e35e92240c0edd5d58b313ef39",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111737
+            "county_id":102063055,
+            "localadmin_id":404568377,
+            "locality_id":1126111737,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111737,
-    "wof:lastmodified":1505185761,
+    "wof:lastmodified":1565453655,
     "wof:name":"Unter-Schreizen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568377,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

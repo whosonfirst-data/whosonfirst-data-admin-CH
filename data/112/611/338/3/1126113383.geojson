@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568829,
+        85633051,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"89b6152980bec3b8b38c8441e33de469",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113383
+            "county_id":102063019,
+            "localadmin_id":404568829,
+            "locality_id":1126113383,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113383,
-    "wof:lastmodified":1505185721,
+    "wof:lastmodified":1565452957,
     "wof:name":"Wolf\u00e4cher",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568829,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,

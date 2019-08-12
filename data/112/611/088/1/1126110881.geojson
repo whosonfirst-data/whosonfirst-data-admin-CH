@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"2017-05-19",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.24343,
     "lbl:longitude":8.59178,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Sonnenberg"
@@ -43,7 +44,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,19 +60,24 @@
     "wof:geomhash":"dd70f2f2a06eea59aadcfdff55e3ea5f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110881
+            "county_id":102062825,
+            "locality_id":1126110881,
+            "region_id":85682309
         }
     ],
     "wof:id":1126110881,
-    "wof:lastmodified":1561745869,
+    "wof:lastmodified":1565454274,
     "wof:name":"Sonnenberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062825,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394398031
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

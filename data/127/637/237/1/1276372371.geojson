@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.1473,46.0664,7.1473,46.0664",
-    "geom:latitude":46.0664,
-    "geom:longitude":7.1473,
+    "geom:area":0.000182,
+    "geom:area_square_m":1563444.234751,
+    "geom:bbox":"7.1336502,46.0578728,7.1542151,46.0751465",
+    "geom:latitude":46.066248,
+    "geom:longitude":7.145386,
     "gn:admin1_code":"VS",
     "gn:admin2_code":"2303.0",
     "gn:admin3_code":"6035.0",
@@ -26,12 +26,81 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.0664,
+    "lbl:longitude":7.1473,
+    "mps:latitude":46.066248,
+    "mps:longitude":7.145386,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "La Garde"
+    ],
+    "name:deu_x_preferred":[
+        "La Garde"
+    ],
+    "name:eng_x_preferred":[
+        "La Garde"
+    ],
+    "name:eng_x_variant":[
+        "La Garde (Sembrancher)"
+    ],
+    "name:epo_x_preferred":[
+        "La Garde"
+    ],
+    "name:fra_x_preferred":[
+        "La Garde"
+    ],
+    "name:ita_x_preferred":[
+        "La Garde"
+    ],
+    "name:lmo_x_preferred":[
+        "La Garde"
+    ],
+    "name:nds_x_preferred":[
+        "La Garde"
+    ],
+    "name:nld_x_preferred":[
+        "La Garde"
+    ],
+    "name:oci_x_preferred":[
+        "La Garda"
+    ],
+    "name:pms_x_preferred":[
+        "La Garde"
+    ],
+    "name:por_x_preferred":[
+        "La Garde"
+    ],
+    "name:ron_x_preferred":[
+        "La Garde"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0413\u0430\u0440\u0434"
+    ],
+    "name:slk_x_preferred":[
+        "La Garde"
+    ],
+    "name:spa_x_preferred":[
+        "La Garde"
+    ],
+    "name:swe_x_preferred":[
+        "La Garde"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0413\u0430\u0440\u0434"
+    ],
     "name:und_x_variant":[
         "La Garde (Sembrancher)"
     ],
-    "src:geom":"geonames",
+    "nav:latitude":46.0664,
+    "nav:longitude":7.1473,
+    "reversegeo:latitude":46.066248,
+    "reversegeo:longitude":7.145386,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682281,
         102191581,
@@ -44,7 +113,7 @@
         "gn:id":7670239
     },
     "wof:country":"CH",
-    "wof:geomhash":"e29fb55442a0e3f4c6b72a1bc45a7d00",
+    "wof:geomhash":"d3ee83c42acc5ba2c5e062dfbf1a2539",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +125,7 @@
         }
     ],
     "wof:id":1276372371,
-    "wof:lastmodified":1537590762,
+    "wof:lastmodified":1565430060,
     "wof:name":"La Garde",
     "wof:parent_id":404568727,
     "wof:placetype":"locality",
@@ -66,10 +135,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.1473,
-    46.0664,
-    7.1473,
-    46.0664
+    7.1336502,
+    46.0578728,
+    7.1542151,
+    46.0751465
 ],
-  "geometry": {"coordinates":[7.1473,46.0664],"type":"Point"}
+  "geometry": {"coordinates":[[[7.1336502,46.0578728],[7.1437481,46.0720353],[7.1442016,46.0725014],[7.1485772,46.0751319],[7.1486184,46.0751465],[7.1515682,46.0748375],[7.1526548,46.0749838],[7.1542151,46.074796],[7.1538122,46.0718469],[7.1518436,46.0662262],[7.1515776,46.065736],[7.150435,46.0629601],[7.1490818,46.0621038],[7.1473378,46.0599796],[7.1471825,46.0599644],[7.1471116,46.0599498],[7.1469303,46.0598729],[7.1468326,46.0598468],[7.1466468,46.0597685],[7.1465818,46.0597574],[7.1462749,46.0596236],[7.1460772,46.0595526],[7.1459556,46.0595035],[7.1454999,46.0594459],[7.1453932,46.0593919],[7.145325,46.0593271],[7.1451962,46.0592804],[7.1451373,46.0592808],[7.1449305,46.0592026],[7.1447628,46.0591252],[7.1446377,46.0590597],[7.1445071,46.0589983],[7.1443645,46.0589501],[7.1441542,46.0589392],[7.143911,46.0589085],[7.1437433,46.0589151],[7.1435596,46.0588944],[7.1432335,46.0588468],[7.1430719,46.058865],[7.14303,46.0589047],[7.1429428,46.058907],[7.1427077,46.0588195],[7.1426104,46.0588203],[7.1424185,46.0588595],[7.1422069,46.0588328],[7.142054,46.0588498],[7.1419003,46.0589151],[7.1417751,46.0589293],[7.1417101,46.0589159],[7.1413452,46.058933],[7.1407587,46.0589764],[7.1404489,46.0589034],[7.1402048,46.0587504],[7.1399242,46.0587653],[7.1397189,46.0587793],[7.1395145,46.0587636],[7.1392923,46.0587677],[7.1390221,46.0587571],[7.1366354,46.0581898],[7.136256,46.0582282],[7.135943,46.0581701],[7.1355076,46.0581299],[7.135267,46.0581659],[7.1336502,46.0578728]]],"type":"Polygon"}
 }

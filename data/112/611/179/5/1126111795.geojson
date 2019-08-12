@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"2017-05-19",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.47502,
     "lbl:longitude":8.76627,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Ganzenb\u00fchl"
@@ -43,7 +44,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404567873,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,19 +61,25 @@
     "wof:geomhash":"56ce265e3d5ca1d4f476fe991e72767b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111795
+            "county_id":102063055,
+            "localadmin_id":404567873,
+            "locality_id":1126111795,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111795,
-    "wof:lastmodified":1561745870,
+    "wof:lastmodified":1565454664,
     "wof:name":"Seen (Kreis 3) / Ganzenb\u00fchl",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567873,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394398099
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":46.51452,
     "lbl:longitude":9.8583,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Celerina/Schlarigna"
@@ -147,14 +148,16 @@
         }
     ],
     "wof:id":1125793787,
-    "wof:lastmodified":1561745939,
+    "wof:lastmodified":1565462414,
     "wof:name":"Celerina",
     "wof:parent_id":404568437,
     "wof:placetype":"locality",
     "wof:population":1241,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394395921
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

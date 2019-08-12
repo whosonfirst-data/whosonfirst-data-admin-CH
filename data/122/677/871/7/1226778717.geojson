@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"9.47784,47.09194,9.47784,47.09194",
-    "geom:latitude":47.09194,
-    "geom:longitude":9.47784,
+    "geom:area":0.000086,
+    "geom:area_square_m":724694.766629,
+    "geom:bbox":"9.4681859,47.0848143,9.4823007,47.0954922",
+    "geom:latitude":47.090146,
+    "geom:longitude":9.475559,
     "gn:admin1_code":"SG",
     "gn:admin2_code":"1724.0",
     "gn:admin3_code":"3276.0",
@@ -26,9 +26,75 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":47.09194,
+    "lbl:longitude":9.47784,
+    "mps:latitude":47.090146,
+    "mps:longitude":9.475559,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "src:geom":"geonames",
+    "mz:is_current":1,
+    "name:als_x_preferred":[
+        "Malans"
+    ],
+    "name:ceb_x_preferred":[
+        "Malans"
+    ],
+    "name:deu_x_preferred":[
+        "Malans"
+    ],
+    "name:eng_x_preferred":[
+        "Malans"
+    ],
+    "name:eng_x_variant":[
+        "Malans SG"
+    ],
+    "name:epo_x_preferred":[
+        "Malans"
+    ],
+    "name:fra_x_preferred":[
+        "Malans"
+    ],
+    "name:ita_x_preferred":[
+        "Malans"
+    ],
+    "name:msa_x_preferred":[
+        "Malans"
+    ],
+    "name:nds_x_preferred":[
+        "Malans"
+    ],
+    "name:nld_x_preferred":[
+        "Malans"
+    ],
+    "name:pms_x_preferred":[
+        "Malans"
+    ],
+    "name:pol_x_preferred":[
+        "Malans"
+    ],
+    "name:ron_x_preferred":[
+        "Malans"
+    ],
+    "name:slk_x_preferred":[
+        "Malans"
+    ],
+    "name:spa_x_preferred":[
+        "Malans"
+    ],
+    "name:swe_x_preferred":[
+        "Malans"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043d"
+    ],
+    "nav:latitude":47.09194,
+    "nav:longitude":9.47784,
+    "reversegeo:latitude":47.090146,
+    "reversegeo:longitude":9.475559,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682341,
         102191581,
@@ -41,7 +107,7 @@
         "gn:id":7669753
     },
     "wof:country":"CH",
-    "wof:geomhash":"b8ae29e7b575c7ad13872af7e573a4c4",
+    "wof:geomhash":"16ea3f8d3d128691626fc2413e077cd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +119,7 @@
         }
     ],
     "wof:id":1226778717,
-    "wof:lastmodified":1536668165,
+    "wof:lastmodified":1565465266,
     "wof:name":"Malans",
     "wof:parent_id":404568097,
     "wof:placetype":"locality",
@@ -63,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    9.47784,
-    47.09194,
-    9.47784,
-    47.09194
+    9.4681859,
+    47.0848143,
+    9.4823007,
+    47.0954922
 ],
-  "geometry": {"coordinates":[9.47784,47.09194],"type":"Point"}
+  "geometry": {"coordinates":[[[9.4681859,47.0875198],[9.4707174,47.0901065],[9.471069,47.0916475],[9.4724648,47.0926242],[9.4725967,47.0926],[9.4726594,47.0926524],[9.472736,47.092662],[9.4728977,47.0930408],[9.4773127,47.0954922],[9.478952,47.0954283],[9.4815399,47.0925816],[9.4823007,47.0918843],[9.481652,47.088072],[9.4806236,47.0876565],[9.4784769,47.0880698],[9.4769004,47.0881329],[9.4743449,47.085916],[9.4696452,47.0848143],[9.4681859,47.0875198]]],"type":"Polygon"}
 }

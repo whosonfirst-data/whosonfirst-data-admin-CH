@@ -19,6 +19,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u063a\u0648\u062c\u0644"
+    ],
+    "name:dan_x_preferred":[
+        "Strudh\u00e6tte"
+    ],
+    "name:deu_x_preferred":[
+        "Gugel"
+    ],
+    "name:eng_x_preferred":[
+        "Gugel"
+    ],
+    "name:eng_x_variant":[
+        "Schlieren / Gugel"
+    ],
+    "name:ind_x_preferred":[
+        "Gugel"
+    ],
+    "name:nor_x_preferred":[
+        "Struthette"
+    ],
+    "name:spa_x_preferred":[
+        "Gugel"
+    ],
+    "name:swe_x_preferred":[
+        "Struth\u00e4tta"
+    ],
     "name:unk_x_variant":[
         "Gugel"
     ],
@@ -37,11 +64,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
+        404570711,
         85633051,
-        101748463,
-        102063071,
-        85682309
+        1125836255,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,16 +83,17 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063071,
-            "locality_id":101748463,
+            "county_id":102062893,
+            "localadmin_id":404570711,
+            "locality_id":1125836255,
             "neighbourhood_id":1126064049,
             "region_id":85682309
         }
     ],
     "wof:id":1126064049,
-    "wof:lastmodified":1509410337,
-    "wof:name":"Schlieren / Gugel",
-    "wof:parent_id":101748463,
+    "wof:lastmodified":1565460737,
+    "wof:name":"Gugel",
+    "wof:parent_id":1125836255,
     "wof:placetype":"neighbourhood",
     "wof:population":260,
     "wof:population_rank":2,

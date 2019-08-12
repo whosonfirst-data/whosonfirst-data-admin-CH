@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569127,
+        85633051,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"2503a4a5643a2994c9ad8f39fa697fb3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112761
+            "county_id":102062801,
+            "localadmin_id":404569127,
+            "locality_id":1126112761,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112761,
-    "wof:lastmodified":1505185719,
+    "wof:lastmodified":1565454260,
     "wof:name":"Tannenhof",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569127,
     "wof:placetype":"locality",
     "wof:population":7,
     "wof:population_rank":1,

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +28,7 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:und_x_variant":[
         "Sambuco",
         "Sambucco",
@@ -35,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682269,
+        102191581,
+        404567723,
+        85633051,
+        102062957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +50,23 @@
     "wof:geomhash":"d3c37a7273e5732963ff238ba8022393",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209550277
+            "county_id":102062957,
+            "localadmin_id":404567723,
+            "locality_id":1209550277,
+            "region_id":85682269
         }
     ],
     "wof:id":1209550277,
-    "wof:lastmodified":1537590739,
+    "wof:lastmodified":1565430299,
     "wof:name":"Sambuco di Fuori",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404567723,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394400831
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,10 +2,11 @@
   "id": 404568337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.003154,
-    "geom:area_square_m":26643285.131653,
+    "geom:area_square_m":26643285.13165,
     "geom:bbox":"9.78958671093,46.8841081191,9.91618149804,46.9365117953",
     "geom:latitude":46.915134,
     "geom:longitude":9.852371,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.915855,
     "lbl:longitude":9.856686,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404568337,
-    "wof:lastmodified":1507751264,
+    "wof:lastmodified":1565446627,
     "wof:name":"Saas",
     "wof:parent_id":102062803,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254009
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,10 +2,11 @@
   "id": 404571941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000413,
-    "geom:area_square_m":3446700.94105,
+    "geom:area_square_m":3446700.941049,
     "geom:bbox":"8.26297683042,47.5376508929,8.32188929172,47.5542041278",
     "geom:latitude":47.546116,
     "geom:longitude":8.289022,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.547861,
     "lbl:longitude":8.293492,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Aargau",
     "qs:a1_lc":"19",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404571941,
-    "wof:lastmodified":1497042644,
+    "wof:lastmodified":1565449607,
     "wof:name":"Unterendingen",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254095
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

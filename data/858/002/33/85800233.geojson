@@ -33,6 +33,9 @@
     "name:ast_x_preferred":[
         "M\u00fcnchenstein"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0646\u0634\u0627\u0646\u0633\u062a\u0646"
+    ],
     "name:cat_x_preferred":[
         "M\u00fcnchenstein"
     ],
@@ -46,6 +49,9 @@
     "name:deu_x_preferred":[
         "M\u00fcnchenstein"
     ],
+    "name:eng_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
     "name:epo_x_preferred":[
         "M\u00fcnchenstein"
     ],
@@ -55,11 +61,53 @@
     "name:fas_x_preferred":[
         "\u0645\u0648\u0646\u0634\u0627\u0646\u0633\u062a\u0646"
     ],
+    "name:fra_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
+    "name:gle_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
+    "name:gsw_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e0\u05db\u05e0\u05e9\u05d8\u05d9\u05d9\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u044e\u043d\u0445\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
     ],
     "name:lit_x_preferred":[
         "Miunchen\u0161tainas"
+    ],
+    "name:lmo_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
+    "name:msa_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
+    "name:nan_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
+    "name:nld_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
+    "name:nno_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
+    "name:oci_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
+    "name:pol_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
+    "name:roh_x_preferred":[
+        "M\u00fcnchenstein"
     ],
     "name:rus_x_preferred":[
         "\u041c\u044e\u043d\u0445\u0435\u043d\u0448\u0442\u0430\u0439\u043d"
@@ -67,7 +115,22 @@
     "name:spa_x_preferred":[
         "M\u00fcnchenstein"
     ],
+    "name:sqi_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
     "name:unk_x_variant":[
+        "M\u00fcnchenstein"
+    ],
+    "name:uzb_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
+    "name:vol_x_preferred":[
+        "M\u00fcnchenstein"
+    ],
+    "name:war_x_preferred":[
         "M\u00fcnchenstein"
     ],
     "name:zho_x_preferred":[
@@ -106,12 +169,12 @@
     "src:population":"geonames",
     "wd:wordcount":3302,
     "wof:belongsto":[
+        85682361,
         102191581,
-        404570515,
+        404570609,
         85633051,
-        101914099,
-        102062971,
-        85682361
+        1125800925,
+        102062971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,8 +192,8 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062971,
-            "localadmin_id":404570515,
-            "locality_id":101914099,
+            "localadmin_id":404570609,
+            "locality_id":1125800925,
             "neighbourhood_id":85800233,
             "region_id":85682361
         }
@@ -139,9 +202,9 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527640964,
+    "wof:lastmodified":1565428655,
     "wof:name":"M\u00fcnchenstein",
-    "wof:parent_id":101914099,
+    "wof:parent_id":1125800925,
     "wof:placetype":"neighbourhood",
     "wof:population":11644,
     "wof:population_rank":6,

@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682365,
+        1394137097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"ec7a368d39afc7d71eef853e1a69dd29",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125345317
+            "county_id":1394137097,
+            "localadmin_id":1125345317,
+            "region_id":85682365
         }
     ],
     "wof:id":1125345317,
-    "wof:lastmodified":1505185772,
+    "wof:lastmodified":1565452495,
     "wof:name":"Oberbuchsiten",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394137097,
     "wof:placetype":"localadmin",
     "wof:population":2186,
     "wof:population_rank":4,

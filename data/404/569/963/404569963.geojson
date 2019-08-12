@@ -2,10 +2,11 @@
   "id": 404569963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001071,
-    "geom:area_square_m":9160431.503562,
+    "geom:area_square_m":9160431.50356,
     "geom:bbox":"9.1532996646,46.231968072,9.21945123607,46.2675619958",
     "geom:latitude":46.250202,
     "geom:longitude":9.187212,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.250915,
     "lbl:longitude":9.184947,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404569963,
-    "wof:lastmodified":1507751274,
+    "wof:lastmodified":1565444844,
     "wof:name":"Leggia",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254137
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

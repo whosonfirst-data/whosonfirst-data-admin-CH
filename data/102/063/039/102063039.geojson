@@ -3,8 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-30",
     "edtf:inception":"uuuu",
     "geom:area":0.017001,
+    "geom:area_square_m":143358477.779273,
     "geom:bbox":"6.48574112954,46.9438198828,6.79514900717,47.0921429945",
     "geom:latitude":47.005445,
     "geom:longitude":6.681092,
@@ -14,7 +16,7 @@
     "mps:latitude":47.007164,
     "mps:longitude":6.709263,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Neuch\u00c3\u00a2tel",
     "qs:a1_lc":"24",
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":102063039,
-    "wof:lastmodified":1527637141,
+    "wof:lastmodified":1565421435,
     "wof:name":"Le Locle",
     "wof:parent_id":85682359,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394237543
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

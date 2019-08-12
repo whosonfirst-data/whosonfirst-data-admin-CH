@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"8.418,47.56839,8.418,47.56839",
-    "geom:latitude":47.56839,
-    "geom:longitude":8.418,
+    "geom:area":0.000038,
+    "geom:area_square_m":318192.090245,
+    "geom:bbox":"8.4139417,47.5651818,8.4256789,47.5706408",
+    "geom:latitude":47.567682,
+    "geom:longitude":8.41903,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":373,
@@ -16,10 +16,18 @@
     "iso:country":"CH",
     "lbl:latitude":47.56839,
     "lbl:longitude":8.418,
+    "mps:latitude":47.567682,
+    "mps:longitude":8.41903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
+        "Kaiserstuhl"
+    ],
+    "name:ceb_x_preferred":[
+        "Kaiserstuhl"
+    ],
+    "name:dan_x_preferred":[
         "Kaiserstuhl"
     ],
     "name:deu_x_preferred":[
@@ -27,6 +35,9 @@
     ],
     "name:eng_x_preferred":[
         "Kaiserstuhl"
+    ],
+    "name:eng_x_variant":[
+        "Kaiserstuhl AG"
     ],
     "name:epo_x_preferred":[
         "Kaiserstuhl AG"
@@ -36,6 +47,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0632\u0648\u0631\u0633\u062a\u0648\u0644\u060c \u0633\u0648\u0626\u06cc\u0633"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0632\u0648\u0631\u0633\u062a\u0648\u0644"
     ],
     "name:fra_x_preferred":[
         "Kaiserstuhl"
@@ -67,6 +81,9 @@
     "name:oci_x_preferred":[
         "Kaiserstuhl"
     ],
+    "name:pol_x_preferred":[
+        "Kaiserstuhl"
+    ],
     "name:roh_x_preferred":[
         "Kaiserstuhl"
     ],
@@ -94,6 +111,8 @@
     "name:zho_x_preferred":[
         "\u51f1\u6492\u65bd\u5716\u723e"
     ],
+    "nav:latitude":47.56839,
+    "nav:longitude":8.418,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -114,8 +133,13 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782878,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":47.567682,
+    "reversegeo:longitude":8.41903,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
@@ -135,9 +159,12 @@
         "qs_pg:id":1171259,
         "wd:id":"Q67094"
     },
+    "wof:coterminous":[
+        404573527
+    ],
     "wof:country":"CH",
     "wof:created":1497292716,
-    "wof:geomhash":"478e8c00d4b58a0906b2e6f5688455de",
+    "wof:geomhash":"3be34e35b2be40e06520e551916fdf9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,7 +176,7 @@
         }
     ],
     "wof:id":1125835919,
-    "wof:lastmodified":1561745945,
+    "wof:lastmodified":1565463107,
     "wof:name":"Kaiserstuhl",
     "wof:parent_id":404573527,
     "wof:placetype":"locality",
@@ -161,10 +188,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.418,
-    47.56839,
-    8.418,
-    47.56839
+    8.4139417,
+    47.5651818,
+    8.4256789,
+    47.5706408
 ],
-  "geometry": {"coordinates":[8.418,47.56839],"type":"Point"}
+  "geometry": {"coordinates":[[[8.4187314,47.5652183],[8.4186661,47.5652335],[8.418139,47.5653527],[8.417443,47.5655127],[8.4165371,47.565678],[8.4164941,47.5656867],[8.4164748,47.5656905],[8.4163702,47.5656898],[8.416361,47.5656954],[8.4162679,47.5655924],[8.4161448,47.5655753],[8.4160504,47.5655932],[8.4155801,47.5657838],[8.4154826,47.5658233],[8.4150983,47.5659792],[8.4141629,47.5663597],[8.4140781,47.5663918],[8.4141608,47.567412],[8.4141761,47.5674532],[8.4141869,47.56748],[8.4142171,47.567555],[8.4142247,47.5675745],[8.4142294,47.5675867],[8.4141059,47.5676201],[8.4139417,47.5676646],[8.4139502,47.5676825],[8.414165,47.5681333],[8.4142016,47.568211],[8.4142181,47.5682454],[8.4143634,47.5685509],[8.4143793,47.5685843],[8.4145242,47.5685472],[8.4149219,47.5684456],[8.4150362,47.5684622],[8.4155474,47.5694032],[8.4155465,47.5694286],[8.4156295,47.5695804],[8.4156554,47.5695995],[8.4157131,47.5697104],[8.4157766,47.5698345],[8.4158078,47.5698554],[8.4158987,47.5700112],[8.4159724,47.5701398],[8.4162579,47.5706408],[8.4162623,47.5706396],[8.4166904,47.5705205],[8.4171222,47.5704077],[8.4175575,47.5703013],[8.4187735,47.5700034],[8.4199782,47.5696854],[8.421171,47.5693475],[8.4223512,47.5689898],[8.4235181,47.5686127],[8.4246709,47.5682163],[8.4256789,47.5678596],[8.4250155,47.5674],[8.4249901,47.567385],[8.4236286,47.5664636],[8.423579,47.5664352],[8.4188296,47.5651818],[8.4187314,47.5652183]]],"type":"Polygon"}
 }

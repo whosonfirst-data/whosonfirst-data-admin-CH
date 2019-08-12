@@ -4,20 +4,102 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.02308,46.12924,7.02308,46.12924",
-    "geom:latitude":46.12924,
-    "geom:longitude":7.02308,
+    "geom:area":0.000032,
+    "geom:area_square_m":271962.093143,
+    "geom:bbox":"7.0174677,46.1222673,7.0244711,46.130582",
+    "geom:latitude":46.127305,
+    "geom:longitude":7.02039,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"CH",
     "lbl:latitude":46.12924,
     "lbl:longitude":7.02308,
+    "mps:latitude":46.127305,
+    "mps:longitude":7.02039,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Les Granges"
+    ],
+    "name:ceb_x_preferred":[
+        "Les Granges"
+    ],
+    "name:eng_x_preferred":[
+        "Les Granges"
+    ],
+    "name:eng_x_variant":[
+        "Les Granges (Salvan)"
+    ],
+    "name:eus_x_preferred":[
+        "Les Granges"
+    ],
+    "name:fra_x_preferred":[
+        "Les Granges"
+    ],
+    "name:hun_x_preferred":[
+        "Les Granges"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565 \u0533\u0580\u0561\u0576\u056a"
+    ],
+    "name:ita_x_preferred":[
+        "Les Granges"
+    ],
+    "name:lat_x_preferred":[
+        "Les Granges"
+    ],
+    "name:msa_x_preferred":[
+        "Les Granges"
+    ],
+    "name:nld_x_preferred":[
+        "Les Granges"
+    ],
+    "name:oci_x_preferred":[
+        "Les Granges"
+    ],
+    "name:pms_x_preferred":[
+        "Les Granges"
+    ],
+    "name:pol_x_preferred":[
+        "Les Granges"
+    ],
+    "name:por_x_preferred":[
+        "Les Granges"
+    ],
+    "name:ron_x_preferred":[
+        "Les Granges"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435-\u0413\u0440\u0430\u043d\u0436"
+    ],
+    "name:slk_x_preferred":[
+        "Les Granges"
+    ],
+    "name:spa_x_preferred":[
+        "Les Granges"
+    ],
+    "name:swe_x_preferred":[
+        "Les Granges"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u0413\u0440\u0430\u043d\u0436"
+    ],
+    "name:vie_x_preferred":[
+        "Les Granges"
+    ],
+    "name:vol_x_preferred":[
+        "Les Granges"
+    ],
+    "name:war_x_preferred":[
+        "Les Granges"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u683c\u6717\u65e5"
+    ],
+    "nav:latitude":46.12924,
+    "nav:longitude":7.02308,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -38,8 +120,13 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":28996953,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":46.127305,
+    "reversegeo:longitude":7.02039,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Vaud",
@@ -59,7 +146,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497294551,
-    "wof:geomhash":"fc3f8c477ee852c5b3ef5c93fdbcc5e3",
+    "wof:geomhash":"57b2d5cd4cd20602b495542e5feca5ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +158,7 @@
         }
     ],
     "wof:id":1125876151,
-    "wof:lastmodified":1509397730,
+    "wof:lastmodified":1565458302,
     "wof:name":"Les Granges",
     "wof:parent_id":404567967,
     "wof:placetype":"locality",
@@ -81,10 +168,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.02308,
-    46.12924,
-    7.02308,
-    46.12924
+    7.0174677,
+    46.1222673,
+    7.0244711,
+    46.130582
 ],
-  "geometry": {"coordinates":[7.02308,46.12924],"type":"Point"}
+  "geometry": {"coordinates":[[[7.0192648,46.130582],[7.0235997,46.1296845],[7.0244711,46.1283444],[7.0240827,46.128169],[7.0239342,46.1277226],[7.0228355,46.127294],[7.0228009,46.1269823],[7.0224047,46.1263898],[7.022338,46.1261611],[7.0223824,46.125808],[7.0221846,46.1256274],[7.0217066,46.1254733],[7.0214053,46.1247922],[7.0206484,46.1242178],[7.0211628,46.1236642],[7.0205085,46.1222673],[7.0204007,46.1222845],[7.0207525,46.1236911],[7.0202866,46.1238987],[7.0199649,46.1238676],[7.0197044,46.1236947],[7.0194498,46.1237414],[7.0194422,46.1234364],[7.0187933,46.1234434],[7.0177743,46.1253116],[7.0174677,46.1286693],[7.0192648,46.130582]]],"type":"Polygon"}
 }

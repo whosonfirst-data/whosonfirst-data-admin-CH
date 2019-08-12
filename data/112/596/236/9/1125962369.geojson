@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":46.22168,
     "lbl:longitude":6.10814,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -73,14 +74,16 @@
         }
     ],
     "wof:id":1125962369,
-    "wof:lastmodified":1509403388,
+    "wof:lastmodified":1565459266,
     "wof:name":"Le Lavancher",
     "wof:parent_id":404328503,
     "wof:placetype":"locality",
     "wof:population":5730,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394410767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

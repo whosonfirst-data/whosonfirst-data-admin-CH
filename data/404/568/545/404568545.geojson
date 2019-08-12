@@ -2,10 +2,11 @@
   "id": 404568545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.002509,
-    "geom:area_square_m":21594347.776156,
+    "geom:area_square_m":21594347.776155,
     "geom:bbox":"8.92673848762,45.8416695065,9.01684141282,45.9203646276",
     "geom:latitude":45.882817,
     "geom:longitude":8.978148,
@@ -13,7 +14,7 @@
     "lbl:latitude":45.889522,
     "lbl:longitude":8.992977,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u043d\u0434\u0440\u0438\u0437\u0438\u043e"
     ],
@@ -72,12 +73,14 @@
         }
     ],
     "wof:id":404568545,
-    "wof:lastmodified":1504301908,
+    "wof:lastmodified":1565447349,
     "wof:name":"Mendrisio",
     "wof:parent_id":102063063,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254051
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

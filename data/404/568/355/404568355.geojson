@@ -2,10 +2,11 @@
   "id": 404568355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.002985,
-    "geom:area_square_m":25536035.834202,
+    "geom:area_square_m":25536035.834203,
     "geom:bbox":"7.30534888259,46.2047327392,7.42526682325,46.2558485865",
     "geom:latitude":46.230422,
     "geom:longitude":7.366019,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.230208,
     "lbl:longitude":7.375094,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Valais",
     "qs:a1_lc":"23",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404568355,
-    "wof:lastmodified":1507751264,
+    "wof:lastmodified":1565446681,
     "wof:name":"Sion",
     "wof:parent_id":102062827,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253989
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

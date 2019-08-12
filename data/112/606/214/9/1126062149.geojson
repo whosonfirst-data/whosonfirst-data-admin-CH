@@ -18,9 +18,88 @@
     "lbl:longitude":8.52204,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:eng_x_variant":[
+        "Adliswil / B\u00fcchel"
+    ],
+    "name:epo_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:eus_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062e\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u044e\u0445\u0435\u043b\u044c"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u04af\u0445\u0435\u043b\u044c"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:pol_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:por_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:ron_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044e\u0445\u0435\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0445\u0435\u043b"
+    ],
+    "name:tur_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u044e\u0445\u0435\u043b\u044c"
+    ],
     "name:unk_x_variant":[
         "B\u00fcchel"
+    ],
+    "name:uzb_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:vol_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:war_x_preferred":[
+        "B\u00fcchel"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u8c22\u5c14"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -37,11 +116,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
+        404570347,
         85633051,
-        101748463,
-        102063071,
-        85682309
+        1125934999,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,16 +135,17 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063071,
-            "locality_id":101748463,
+            "county_id":102062825,
+            "localadmin_id":404570347,
+            "locality_id":1125934999,
             "neighbourhood_id":1126062149,
             "region_id":85682309
         }
     ],
     "wof:id":1126062149,
-    "wof:lastmodified":1509410252,
-    "wof:name":"Adliswil / B\u00fcchel",
-    "wof:parent_id":101748463,
+    "wof:lastmodified":1565460585,
+    "wof:name":"B\u00fcchel",
+    "wof:parent_id":1125934999,
     "wof:placetype":"neighbourhood",
     "wof:population":855,
     "wof:population_rank":2,

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,13 +27,16 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:fra_x_preferred":[
         "Vers chez Joseph"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,22 @@
     "wof:geomhash":"e7e4a5d878b861ddeffca110232ff525",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209649025
+            "county_id":102062865,
+            "locality_id":1209649025,
+            "region_id":85682381
         }
     ],
     "wof:id":1209649025,
-    "wof:lastmodified":1537590887,
+    "wof:lastmodified":1565430267,
     "wof:name":"Vers chez Joseph",
-    "wof:parent_id":85633051,
+    "wof:parent_id":102062865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394401073
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

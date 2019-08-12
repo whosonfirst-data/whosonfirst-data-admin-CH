@@ -2,10 +2,11 @@
   "id": 404569913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001129,
-    "geom:area_square_m":9425359.792193,
+    "geom:area_square_m":9425359.792196,
     "geom:bbox":"8.76714172624,47.511523344,8.83100155518,47.5538297403",
     "geom:latitude":47.527259,
     "geom:longitude":8.798104,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.524047,
     "lbl:longitude":8.792358,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Z\u00fcrich",
     "qs:a1_lc":"1",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404569913,
-    "wof:lastmodified":1497046498,
+    "wof:lastmodified":1565445229,
     "wof:name":"Wiesendangen",
     "wof:parent_id":102063055,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254087
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

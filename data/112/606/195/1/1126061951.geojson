@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kirchrain"
+    ],
+    "name:eng_x_variant":[
+        "Niederglatt / Kirchrain"
+    ],
     "name:unk_x_variant":[
         "Kirchrain"
     ],
@@ -37,11 +43,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         404571875,
         85633051,
-        102062995,
-        85682309
+        1125851767,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +64,15 @@
             "country_id":85633051,
             "county_id":102062995,
             "localadmin_id":404571875,
-            "locality_id":-1,
+            "locality_id":1125851767,
             "neighbourhood_id":1126061951,
             "region_id":85682309
         }
     ],
     "wof:id":1126061951,
-    "wof:lastmodified":1509410243,
-    "wof:name":"Niederglatt / Kirchrain",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1565460026,
+    "wof:name":"Kirchrain",
+    "wof:parent_id":1125851767,
     "wof:placetype":"neighbourhood",
     "wof:population":155,
     "wof:population_rank":1,

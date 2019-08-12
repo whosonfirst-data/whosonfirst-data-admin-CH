@@ -2,9 +2,11 @@
   "id": 102062921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2019-07-17",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-07-17",
     "geom:area":0.028915,
+    "geom:area_square_m":242161599.824473,
     "geom:bbox":"9.19109855947,47.2470222875,9.63096748919,47.469040683",
     "geom:latitude":47.366134,
     "geom:longitude":9.368676,
@@ -14,6 +16,7 @@
     "mps:latitude":47.354516,
     "mps:longitude":9.273787,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Appenzell Ausserrhoden",
     "qs:a1_lc":"15",
@@ -27,29 +30,33 @@
     "wof:belongsto":[
         102191581,
         85633051,
-        85682275
+        85682353
     ],
     "wof:breaches":[
         102062987
     ],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"8693473dd6c6ec12bfcd17af21db2b9e",
+    "wof:geomhash":"d73cef813349ddb71b30e86ad66f47e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062921,
-            "region_id":85682275
+            "region_id":85682353
         }
     ],
     "wof:id":102062921,
-    "wof:lastmodified":1466628088,
+    "wof:lastmodified":1565421060,
     "wof:name":"",
-    "wof:parent_id":85682275,
+    "wof:parent_id":85682353,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394137085,
+        1394137099,
+        1394137103
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

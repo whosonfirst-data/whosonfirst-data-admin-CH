@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":46.3218,
     "lbl:longitude":7.69146,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0415\u0440\u0441\u0447\u043c\u0430\u0442"
@@ -109,10 +110,9 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
-        404569489,
         85633051,
+        85682281,
         102062761
     ],
     "wof:breaches":[],
@@ -130,20 +130,21 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062761,
-            "localadmin_id":404569489,
             "locality_id":1125900145,
             "region_id":85682281
         }
     ],
     "wof:id":1125900145,
-    "wof:lastmodified":1561745904,
+    "wof:lastmodified":1565458631,
     "wof:name":"Hirschmatt",
-    "wof:parent_id":404569489,
+    "wof:parent_id":102062761,
     "wof:placetype":"locality",
     "wof:population":313,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394408391
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

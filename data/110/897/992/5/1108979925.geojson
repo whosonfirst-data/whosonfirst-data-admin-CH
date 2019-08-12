@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:latitude":47.71242,
     "lbl:longitude":8.6883,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Gennersbrunn"
@@ -56,7 +57,7 @@
         102191581,
         404328173,
         85633051,
-        102063007
+        1394137119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,21 +73,23 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063007,
+            "county_id":1394137119,
             "localadmin_id":404328173,
             "locality_id":1108979925,
             "region_id":85682285
         }
     ],
     "wof:id":1108979925,
-    "wof:lastmodified":1561745822,
+    "wof:lastmodified":1565431743,
     "wof:name":"Gennersbrunn",
     "wof:parent_id":404328173,
     "wof:placetype":"locality",
     "wof:population":20,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394394681
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

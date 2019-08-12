@@ -37,7 +37,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404567873,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,18 @@
     "wof:geomhash":"2be5f136893e22a243fc3fa3c8761f72",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112581
+            "county_id":102063055,
+            "localadmin_id":404567873,
+            "locality_id":1126112581,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112581,
-    "wof:lastmodified":1505185762,
+    "wof:lastmodified":1565453548,
     "wof:name":"Oberwinterthur (Kreis 2) / Heimenr\u00fcti",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567873,
     "wof:placetype":"locality",
     "wof:population":1,
     "wof:population_rank":1,

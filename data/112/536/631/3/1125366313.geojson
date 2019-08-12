@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682255,
+        102062903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"15a21dbe3124f8b8bbe92b95d70aef48",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125366313
+            "county_id":102062903,
+            "localadmin_id":1125366313,
+            "region_id":85682255
         }
     ],
     "wof:id":1125366313,
-    "wof:lastmodified":1505185769,
+    "wof:lastmodified":1565459157,
     "wof:name":"Braggio",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
     "wof:population":51,
     "wof:population_rank":1,

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.44427,46.1727,7.44427,46.1727",
-    "geom:latitude":46.1727,
-    "geom:longitude":7.44427,
+    "geom:area":0.000236,
+    "geom:area_square_m":2022688.792933,
+    "geom:bbox":"7.43059,46.1630123,7.4575635,46.1793315",
+    "geom:latitude":46.172187,
+    "geom:longitude":7.442869,
     "gn:gn_country":"CH",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":751,
@@ -16,9 +16,20 @@
     "iso:country":"CH",
     "lbl:latitude":46.1727,
     "lbl:longitude":7.44427,
+    "mps:latitude":46.172187,
+    "mps:longitude":7.442869,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "St-Martin"
+    ],
+    "name:eng_x_variant":[
+        "St-Martin VS",
+        "St.-Martin"
+    ],
+    "nav:latitude":46.1727,
+    "nav:longitude":7.44427,
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -39,8 +50,13 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":784271,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "reversegeo:latitude":46.172187,
+    "reversegeo:longitude":7.442869,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
@@ -61,7 +77,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497296278,
-    "wof:geomhash":"6f161abbe349a1951c6ab260fc7fd267",
+    "wof:geomhash":"b7a4b02d59d142f7900cf5214c60552c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,8 +89,8 @@
         }
     ],
     "wof:id":1125914721,
-    "wof:lastmodified":1509400439,
-    "wof:name":"St.-Martin",
+    "wof:lastmodified":1565459616,
+    "wof:name":"St-Martin",
     "wof:parent_id":404568161,
     "wof:placetype":"locality",
     "wof:population":751,
@@ -85,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.44427,
-    46.1727,
-    7.44427,
-    46.1727
+    7.43059,
+    46.1630123,
+    7.4575635,
+    46.1793315
 ],
-  "geometry": {"coordinates":[7.44427,46.1727],"type":"Point"}
+  "geometry": {"coordinates":[[[7.4451304,46.1630123],[7.4449487,46.1631405],[7.4431116,46.1645083],[7.4430689,46.1645583],[7.4412876,46.1659414],[7.4396569,46.1666063],[7.4378873,46.1670146],[7.4378482,46.1670224],[7.4332821,46.1694193],[7.4332036,46.172917],[7.4328915,46.1739228],[7.4327648,46.1744877],[7.4307387,46.1763369],[7.43059,46.1765003],[7.4352518,46.1788107],[7.4367446,46.1792811],[7.4377721,46.1793315],[7.4390265,46.1792861],[7.4405731,46.1788469],[7.4418687,46.1780043],[7.4433021,46.1772383],[7.444198,46.177066],[7.4477922,46.1775642],[7.450612,46.1774952],[7.4542053,46.1775215],[7.4575635,46.1781256],[7.448695,46.1700681],[7.4488593,46.1692442],[7.4487747,46.1688476],[7.4489687,46.168285],[7.4489081,46.1680438],[7.4494709,46.167567],[7.4496165,46.1673958],[7.4499139,46.1672451],[7.4501272,46.167087],[7.4502719,46.1666341],[7.4518055,46.1649819],[7.4507545,46.1644493],[7.4485622,46.1636613],[7.4451304,46.1630123]]],"type":"Polygon"}
 }

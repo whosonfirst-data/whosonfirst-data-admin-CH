@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000316,
-    "geom:area_square_m":2648313.94522,
+    "geom:area_square_m":2648313.945221,
     "geom:bbox":"8.58329807393,47.3871927698,8.61043621315,47.4057852081",
     "geom:latitude":47.395287,
     "geom:longitude":8.596519,
@@ -37,6 +37,12 @@
     ],
     "name:epo_x_preferred":[
         "Komunumaro Probstei"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u0628\u0634\u062a\u0627\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Amt Probstei"
     ],
     "name:ita_x_preferred":[
         "Amt Probstei"
@@ -89,9 +95,10 @@
     "wof:belongsto":[
         85682309,
         102191581,
+        404569055,
         85633051,
-        101748463,
-        102063071
+        1125826975,
+        102062933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,8 +112,9 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063071,
-            "locality_id":101748463,
+            "county_id":102062933,
+            "localadmin_id":404569055,
+            "locality_id":1125826975,
             "neighbourhood_id":85862427,
             "region_id":85682309
         }
@@ -115,9 +123,9 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527270422,
+    "wof:lastmodified":1565428587,
     "wof:name":"Probstei",
-    "wof:parent_id":101748463,
+    "wof:parent_id":1125826975,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

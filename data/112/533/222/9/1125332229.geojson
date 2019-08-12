@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682281,
+        102062859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"43b9f1a69961a66c7fbec2baff409823",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125332229
+            "county_id":102062859,
+            "localadmin_id":1125332229,
+            "region_id":85682281
         }
     ],
     "wof:id":1125332229,
-    "wof:lastmodified":1505248062,
+    "wof:lastmodified":1565452483,
     "wof:name":"Saas Almagell",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062859,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

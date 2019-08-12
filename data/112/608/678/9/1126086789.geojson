@@ -25,6 +25,12 @@
     "name:deu_x_variant":[
         "Hittnau"
     ],
+    "name:eng_x_preferred":[
+        "Hittnau (Dorf)"
+    ],
+    "name:eng_x_variant":[
+        "Hittnau / Hittnau (Dorf)"
+    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLX",
@@ -40,11 +46,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         404569141,
         85633051,
-        102062779,
-        85682309
+        1125805101,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,15 +67,15 @@
             "country_id":85633051,
             "county_id":102062779,
             "localadmin_id":404569141,
-            "locality_id":-1,
+            "locality_id":1125805101,
             "neighbourhood_id":1126086789,
             "region_id":85682309
         }
     ],
     "wof:id":1126086789,
-    "wof:lastmodified":1509411439,
-    "wof:name":"Hittnau / Hittnau (Dorf)",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1565459925,
+    "wof:name":"Hittnau (Dorf)",
+    "wof:parent_id":1125805101,
     "wof:placetype":"neighbourhood",
     "wof:population":1502,
     "wof:population_rank":3,

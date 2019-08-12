@@ -2,10 +2,11 @@
   "id": 404328817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000335,
-    "geom:area_square_m":2814848.009358,
+    "geom:area_square_m":2814848.009359,
     "geom:bbox":"7.4848687247,47.1170596813,7.51493974016,47.1374266738",
     "geom:latitude":47.128723,
     "geom:longitude":7.500235,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.12936,
     "lbl:longitude":7.500011,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Solothurn",
     "qs:a1_lc":"11",
@@ -29,28 +31,30 @@
         102191581,
         85633051,
         85682365,
-        102062823
+        1394137095
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"ee199b0c8932d1c46e14491d6c1d6459",
+    "wof:geomhash":"0712fc9e0b26cf84d3fd3993e8b0f570",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062823,
+            "county_id":1394137095,
             "localadmin_id":404328817,
             "region_id":85682365
         }
     ],
     "wof:id":404328817,
-    "wof:lastmodified":1479928035,
+    "wof:lastmodified":1565450343,
     "wof:name":"Aetingen",
-    "wof:parent_id":102062823,
+    "wof:parent_id":1394137095,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254001
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,8 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-30",
     "edtf:inception":"uuuu",
     "geom:area":0.004855,
+    "geom:area_square_m":40706873.785412,
     "geom:bbox":"9.3701942329,47.2339936731,9.50302787446,47.3502534666",
     "geom:latitude":47.303527,
     "geom:longitude":9.455942,
@@ -14,7 +16,7 @@
     "mps:latitude":47.318922,
     "mps:longitude":9.468037,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:als_x_preferred":[
         "R\u00fcte"
     ],
@@ -79,12 +81,14 @@
         }
     ],
     "wof:id":102062913,
-    "wof:lastmodified":1527636922,
+    "wof:lastmodified":1565419939,
     "wof:name":"R\u00fcte",
     "wof:parent_id":85682275,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394237541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

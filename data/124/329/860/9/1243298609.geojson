@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"7.09397,46.91337,7.09397,46.91337",
-    "geom:latitude":46.91337,
-    "geom:longitude":7.09397,
+    "geom:area":0.000292,
+    "geom:area_square_m":2467746.051371,
+    "geom:bbox":"7.0721752,46.9077,7.0994131,46.9305059",
+    "geom:latitude":46.919105,
+    "geom:longitude":7.086387,
     "gn:admin1_code":"FR",
     "gn:admin2_code":"1005.0",
     "gn:admin3_code":"2261.0",
@@ -25,12 +25,81 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:latitude":46.91337,
+    "lbl:longitude":7.09397,
+    "mps:latitude":46.919105,
+    "mps:longitude":7.086387,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "name:als_x_preferred":[
+        "Greng"
+    ],
+    "name:ceb_x_preferred":[
+        "Greng"
+    ],
+    "name:deu_x_preferred":[
+        "Greng"
+    ],
+    "name:eng_x_preferred":[
+        "Greng"
+    ],
+    "name:epo_x_preferred":[
+        "Greng"
+    ],
+    "name:eus_x_preferred":[
+        "Greng"
+    ],
+    "name:fra_x_preferred":[
+        "Greng"
+    ],
+    "name:ita_x_preferred":[
+        "Greng"
+    ],
+    "name:lmo_x_preferred":[
+        "Greng"
+    ],
+    "name:msa_x_preferred":[
+        "Greng"
+    ],
+    "name:nld_x_preferred":[
+        "Greng"
+    ],
+    "name:nno_x_preferred":[
+        "Greng"
+    ],
+    "name:roh_x_preferred":[
+        "Greng"
+    ],
+    "name:spa_x_preferred":[
+        "Greng"
+    ],
+    "name:sqi_x_preferred":[
+        "Greng"
+    ],
+    "name:swe_x_preferred":[
+        "Greng"
+    ],
+    "name:vie_x_preferred":[
+        "Greng"
+    ],
+    "name:vol_x_preferred":[
+        "Greng"
+    ],
+    "name:war_x_preferred":[
+        "Greng"
+    ],
     "name:zho_x_preferred":[
         "\u683c\u6717\u683c"
     ],
-    "src:geom":"geonames",
+    "nav:latitude":46.91337,
+    "nav:longitude":7.09397,
+    "reversegeo:latitude":46.919105,
+    "reversegeo:longitude":7.086387,
+    "src:geom":"ch-cadastre",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682301,
         102191581,
@@ -43,8 +112,11 @@
         "gn:id":8533520,
         "wk:page":"Greng"
     },
+    "wof:coterminous":[
+        404572361
+    ],
     "wof:country":"CH",
-    "wof:geomhash":"13bb83ea47dfc4f2f6ca82d60cba2309",
+    "wof:geomhash":"a4bf2d59bc62ac70e07b75c9bda439e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +128,7 @@
         }
     ],
     "wof:id":1243298609,
-    "wof:lastmodified":1537590773,
+    "wof:lastmodified":1565464067,
     "wof:name":"Greng",
     "wof:parent_id":404572361,
     "wof:placetype":"locality",
@@ -66,10 +138,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.09397,
-    46.91337,
-    7.09397,
-    46.91337
+    7.0721752,
+    46.9077,
+    7.0994131,
+    46.9305059
 ],
-  "geometry": {"coordinates":[7.09397,46.91337],"type":"Point"}
+  "geometry": {"coordinates":[[[7.0993823,46.9113829],[7.099395,46.9113413],[7.0994131,46.9113218],[7.0994085,46.9113197],[7.0993642,46.9112997],[7.0977822,46.9105854],[7.0976157,46.9105705],[7.0956555,46.9103977],[7.095533,46.9103868],[7.0955162,46.9103853],[7.0946203,46.9092928],[7.0944947,46.9088749],[7.0943839,46.9088447],[7.0900307,46.9077],[7.0882768,46.9089212],[7.0867395,46.9103256],[7.0867116,46.910358],[7.0854654,46.9118322],[7.0853719,46.911932],[7.0853472,46.9119571],[7.0851865,46.9121275],[7.0851096,46.9122096],[7.0849847,46.9123511],[7.084506,46.9128173],[7.084473,46.9128492],[7.0844554,46.9128654],[7.0842648,46.9130509],[7.0721752,46.9247089],[7.0835913,46.9305059],[7.0939735,46.9209067],[7.0940932,46.9201143],[7.094267,46.9198792],[7.0943573,46.9197578],[7.0955925,46.9180066],[7.0956457,46.9179424],[7.0956679,46.9179099],[7.0957551,46.9178003],[7.0963471,46.9169062],[7.0968278,46.9162053],[7.0971549,46.9162571],[7.0978502,46.9152922],[7.0975321,46.9151455],[7.0972813,46.9151016],[7.0972551,46.9146768],[7.0973527,46.9138543],[7.0972327,46.913376],[7.097265,46.9129592],[7.0974591,46.9123298],[7.0975458,46.9122413],[7.0977338,46.9122337],[7.0979326,46.9122082],[7.0981816,46.9120937],[7.0985697,46.9119144],[7.0988606,46.9117835],[7.0989697,46.9117182],[7.0992775,46.9114214],[7.0993823,46.9113829]]],"type":"Polygon"}
 }

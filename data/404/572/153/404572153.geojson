@@ -2,10 +2,11 @@
   "id": 404572153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.00034,
-    "geom:area_square_m":2899531.687697,
+    "geom:area_square_m":2899531.687696,
     "geom:bbox":"9.11286187895,46.3087390044,9.15357071384,46.3275071505",
     "geom:latitude":46.319756,
     "geom:longitude":9.130065,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.319573,
     "lbl:longitude":9.125015,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404572153,
-    "wof:lastmodified":1497046136,
+    "wof:lastmodified":1565448334,
     "wof:name":"Selma",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254093
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

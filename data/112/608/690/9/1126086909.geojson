@@ -18,8 +18,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "Bremgarten"
+    ],
+    "name:ceb_x_preferred":[
+        "Bremgarten"
+    ],
     "name:deu_x_preferred":[
         "Bremgarten b. Bern"
+    ],
+    "name:deu_x_variant":[
+        "Bremgarten"
+    ],
+    "name:epo_x_preferred":[
+        "Bremgarten"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0627\u0645\u06af\u0631\u062a\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Bremgarten"
+    ],
+    "name:ita_x_preferred":[
+        "Bremgarten"
+    ],
+    "name:lmo_x_preferred":[
+        "Bremgarten"
+    ],
+    "name:nld_x_preferred":[
+        "Bremgarten"
+    ],
+    "name:pol_x_preferred":[
+        "Bremgarten"
+    ],
+    "name:swe_x_preferred":[
+        "Bremgarten"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -48,11 +81,12 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85682381,
         102191581,
         404573191,
         85633051,
-        102062861,
-        85682381
+        1394292049,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,15 +103,15 @@
             "country_id":85633051,
             "county_id":102062861,
             "localadmin_id":404573191,
-            "locality_id":-1,
+            "locality_id":1394292049,
             "neighbourhood_id":1126086909,
             "region_id":85682381
         }
     ],
     "wof:id":1126086909,
-    "wof:lastmodified":1509411446,
+    "wof:lastmodified":1565459931,
     "wof:name":"Bremgarten",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394292049,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

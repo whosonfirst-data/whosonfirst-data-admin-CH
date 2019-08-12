@@ -40,7 +40,10 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"becabcb9c237ec188b77f4066b11bca1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125296813
+            "county_id":102062767,
+            "localadmin_id":1125296813,
+            "region_id":85682269
         }
     ],
     "wof:id":1125296813,
-    "wof:lastmodified":1505247998,
+    "wof:lastmodified":1565457298,
     "wof:name":"Rivera",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

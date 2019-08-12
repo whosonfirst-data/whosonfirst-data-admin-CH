@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682329,
+        102062993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"77d168cf399fcca882f2017360756968",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125356449
+            "county_id":102062993,
+            "localadmin_id":1125356449,
+            "region_id":85682329
         }
     ],
     "wof:id":1125356449,
-    "wof:lastmodified":1505248099,
+    "wof:lastmodified":1565452797,
     "wof:name":"Hausen bei Brugg",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

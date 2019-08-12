@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404570433,
+        85633051,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"c76264758b06caabe0c5b94688e90655",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112639
+            "county_id":102062775,
+            "localadmin_id":404570433,
+            "locality_id":1126112639,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112639,
-    "wof:lastmodified":1505185717,
+    "wof:lastmodified":1565454509,
     "wof:name":"Tambrig",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570433,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

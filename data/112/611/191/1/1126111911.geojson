@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569977,
+        85633051,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"d063aebd04501f37b2b18272ca261633",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111911
+            "county_id":102062995,
+            "localadmin_id":404569977,
+            "locality_id":1126111911,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111911,
-    "wof:lastmodified":1505185724,
+    "wof:lastmodified":1565453926,
     "wof:name":"Zil",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569977,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

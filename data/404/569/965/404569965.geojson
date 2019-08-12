@@ -2,10 +2,11 @@
   "id": 404569965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001083,
-    "geom:area_square_m":9152800.729966,
+    "geom:area_square_m":9152800.729968,
     "geom:bbox":"7.11149439706,46.8369494247,7.18782933298,46.8839766546",
     "geom:latitude":46.859734,
     "geom:longitude":7.152885,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.858687,
     "lbl:longitude":7.158655,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Fribourg",
     "qs:a1_lc":"10",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404569965,
-    "wof:lastmodified":1507751274,
+    "wof:lastmodified":1565444799,
     "wof:name":"Barber\u00eache",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254027
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

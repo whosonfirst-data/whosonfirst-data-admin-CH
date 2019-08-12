@@ -2,8 +2,9 @@
   "id": 404569645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.001262,
     "geom:area_square_m":10637878.523808,
     "geom:bbox":"7.17093645786,46.9940405642,7.24654273584,47.0355878263",
@@ -13,7 +14,7 @@
     "lbl:latitude":47.021147,
     "lbl:longitude":7.223855,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "Kallnach"
     ],
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":404569645,
-    "wof:lastmodified":1504301895,
+    "wof:lastmodified":1565444934,
     "wof:name":"Kallnach",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254023
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

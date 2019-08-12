@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Thurgau",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682337,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"01ee9d61c1718deafc5003a99016b818",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125392093
+            "county_id":102062869,
+            "localadmin_id":1125392093,
+            "region_id":85682337
         }
     ],
     "wof:id":1125392093,
-    "wof:lastmodified":1505248172,
+    "wof:lastmodified":1565458443,
     "wof:name":"Wagenhausen",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -84,7 +84,10 @@
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
         85682291,
+        102191581,
+        404328283,
         85633051,
+        101748445,
         102062917
     ],
     "wof:breaches":[],
@@ -98,8 +101,11 @@
     "wof:geomhash":"90ecb086d1c20c92099d14710b98b24b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
+            "locality_id":101748445,
             "neighbourhood_id":85800521,
             "region_id":85682291
         }
@@ -108,9 +114,9 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1536868702,
+    "wof:lastmodified":1565428639,
     "wof:name":"Secheron",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748445,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
-    "geom:area_square_m":344828.559627,
+    "geom:area_square_m":2168848.637042,
     "geom:bbox":"6.8764517145,46.2707620928,6.91982857385,46.2999999644",
     "geom:latitude":46.284927,
     "geom:longitude":6.891623,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.296301,
     "lbl:longitude":6.914864,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Valais",
     "qs:a1_lc":"23",
@@ -29,7 +30,6 @@
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         102191581,
-        404573519,
         85633051,
         85682281,
         102063065
@@ -43,17 +43,19 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063065,
-            "localadmin_id":404573519,
+            "localadmin_id":1175611161,
             "region_id":85682281
         }
     ],
     "wof:id":1175611161,
-    "wof:lastmodified":1534985875,
+    "wof:lastmodified":1565431759,
     "wof:name":"Monthey",
     "wof:parent_id":102063065,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404568601
+    ],
     "wof:supersedes":[
         404573223,
         404573519

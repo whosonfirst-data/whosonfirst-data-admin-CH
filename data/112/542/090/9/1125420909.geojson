@@ -34,7 +34,9 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +48,16 @@
     "wof:geomhash":"d1d3eb5128398cfbc1f0824c6af9d6a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125420909
+            "localadmin_id":1125420909,
+            "region_id":85682359
         }
     ],
     "wof:id":1125420909,
-    "wof:lastmodified":1505185770,
+    "wof:lastmodified":1565457553,
     "wof:name":"Fontaines (NE)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
     "wof:population":1105,
     "wof:population_rank":3,

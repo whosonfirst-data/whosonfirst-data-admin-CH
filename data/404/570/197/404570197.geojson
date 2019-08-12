@@ -2,10 +2,11 @@
   "id": 404570197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000964,
-    "geom:area_square_m":8259926.128078,
+    "geom:area_square_m":8259926.128076,
     "geom:bbox":"8.97996913558,46.1434898252,9.03643600316,46.1694310569",
     "geom:latitude":46.157747,
     "geom:longitude":9.011857,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.158315,
     "lbl:longitude":9.01183,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Ticino",
     "qs:a1_lc":"21",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404570197,
-    "wof:lastmodified":1497043479,
+    "wof:lastmodified":1565451626,
     "wof:name":"Camorino",
     "wof:parent_id":102062991,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254063
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

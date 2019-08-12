@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.001577,
-    "geom:area_square_m":13318535.482437,
+    "geom:area_square_m":13318535.482438,
     "geom:bbox":"6.89620942572,46.9036244632,6.96168522471,46.9527129082",
     "geom:latitude":46.927828,
     "geom:longitude":6.927904,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.92887,
     "lbl:longitude":6.927472,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Fribourg",
     "qs:a1_lc":"10",
@@ -28,28 +30,30 @@
         102191581,
         85633051,
         85682301,
-        102062937
+        102062945
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"d3158db33a9ad4efd7b8499f2ce1b21d",
+    "wof:geomhash":"e3bba82a41dfb6f1c0cd9f66f65073f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062937,
+            "county_id":102062945,
             "localadmin_id":404569095,
             "region_id":85682301
         }
     ],
     "wof:id":404569095,
-    "wof:lastmodified":1479951827,
+    "wof:lastmodified":1565445534,
     "wof:name":"Lac De Neuch\u00e2tel (Fr)",
-    "wof:parent_id":102062937,
+    "wof:parent_id":102062945,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404570499
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

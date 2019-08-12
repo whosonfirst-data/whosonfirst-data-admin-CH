@@ -2,10 +2,11 @@
   "id": 404571207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000605,
-    "geom:area_square_m":5116354.347691,
+    "geom:area_square_m":5116354.34769,
     "geom:bbox":"9.58322317101,46.8320721924,9.62016689916,46.871569139",
     "geom:latitude":46.854432,
     "geom:longitude":9.600491,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.859258,
     "lbl:longitude":9.60231,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404571207,
-    "wof:lastmodified":1497042637,
+    "wof:lastmodified":1565449948,
     "wof:name":"Calfreisen",
     "wof:parent_id":102063001,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254077
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
     "geom:area_square_m":396199.821931,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.498882,
     "lbl:longitude":7.794571,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Aargau",
     "qs:a1_lc":"19",
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"af9c9b814f3ecaaa82db97b05096ba00",
+    "wof:geomhash":"d7a697e4e1595238527261a8bcea4531",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,12 +48,14 @@
         }
     ],
     "wof:id":404573515,
-    "wof:lastmodified":1479928113,
+    "wof:lastmodified":1565449155,
     "wof:name":"Olsberg",
     "wof:parent_id":102062905,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404571605
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

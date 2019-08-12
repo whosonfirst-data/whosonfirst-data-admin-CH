@@ -2,10 +2,11 @@
   "id": 404572263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000324,
-    "geom:area_square_m":2718226.991567,
+    "geom:area_square_m":2718226.991566,
     "geom:bbox":"7.24619298789,47.2337284259,7.26968386117,47.2643324448",
     "geom:latitude":47.249831,
     "geom:longitude":7.254205,
@@ -13,6 +14,7 @@
     "lbl:latitude":47.24883,
     "lbl:longitude":7.254202,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":404572263,
-    "wof:lastmodified":1497048202,
+    "wof:lastmodified":1565448537,
     "wof:name":"Pontenet",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254097
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

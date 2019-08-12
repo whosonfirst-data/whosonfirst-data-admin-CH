@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001833,
-    "geom:area_square_m":15324593.426254,
+    "geom:area_square_m":15324593.426252,
     "geom:bbox":"8.51264404297,47.4280871961,8.58894897461,47.4845193329",
     "geom:latitude":47.455666,
     "geom:longitude":8.542872,
@@ -60,11 +60,12 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         404569213,
         85633051,
-        102062995,
-        85682309
+        101854381,
+        102062995
     ],
     "wof:breaches":[
         85800527
@@ -82,7 +83,7 @@
             "country_id":85633051,
             "county_id":102062995,
             "localadmin_id":404569213,
-            "locality_id":-1,
+            "locality_id":101854381,
             "neighbourhood_id":85800165,
             "region_id":85682309
         }
@@ -91,9 +92,9 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1507590242,
+    "wof:lastmodified":1565428522,
     "wof:name":"Letten",
-    "wof:parent_id":-1,
+    "wof:parent_id":101854381,
     "wof:placetype":"neighbourhood",
     "wof:population":89,
     "wof:population_rank":1,

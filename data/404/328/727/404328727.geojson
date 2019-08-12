@@ -2,8 +2,9 @@
   "id": 404328727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000525,
     "geom:area_square_m":4415066.847292,
     "geom:bbox":"7.93136089415,47.1484487946,7.97688846167,47.1709123515",
@@ -13,6 +14,7 @@
     "lbl:latitude":47.157921,
     "lbl:longitude":7.956079,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Luzern",
     "qs:a1_lc":"3",
@@ -32,7 +34,7 @@
         102191581,
         85633051,
         85682319,
-        102062797
+        1394137075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +48,20 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062797,
+            "county_id":1394137075,
             "localadmin_id":404328727,
             "region_id":85682319
         }
     ],
     "wof:id":404328727,
-    "wof:lastmodified":1497042640,
+    "wof:lastmodified":1565451036,
     "wof:name":"Ohmstal",
-    "wof:parent_id":102062797,
+    "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254207
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

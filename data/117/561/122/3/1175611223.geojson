@@ -2,10 +2,11 @@
   "id": 1175611223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000815,
-    "geom:area_square_m":6755010.416712,
+    "geom:area_square_m":6958530.209671,
     "geom:bbox":"7.67756200137,46.2862131374,7.74593723977,46.3116267248",
     "geom:latitude":46.301339,
     "geom:longitude":7.711016,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.302197,
     "lbl:longitude":7.698179,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Valais",
     "qs:a1_lc":"23",
@@ -32,7 +33,6 @@
     ],
     "wof:belongsto":[
         102191581,
-        404570653,
         85633051,
         85682281,
         102062761
@@ -49,17 +49,19 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062761,
-            "localadmin_id":404570653,
+            "localadmin_id":1175611223,
             "region_id":85682281
         }
     ],
     "wof:id":1175611223,
-    "wof:lastmodified":1534985878,
+    "wof:lastmodified":1565431869,
     "wof:name":"Turtmann",
     "wof:parent_id":102062761,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253991
+    ],
     "wof:supersedes":[
         404573543,
         404570653

@@ -2,10 +2,11 @@
   "id": 404567869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.008368,
-    "geom:area_square_m":71062127.761299,
+    "geom:area_square_m":71062127.761298,
     "geom:bbox":"8.95738573379,46.5773368289,9.12568348357,46.6687822838",
     "geom:latitude":46.624108,
     "geom:longitude":9.056427,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.625159,
     "lbl:longitude":9.064719,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404567869,
-    "wof:lastmodified":1507751259,
+    "wof:lastmodified":1565445932,
     "wof:name":"Vrin",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254047
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

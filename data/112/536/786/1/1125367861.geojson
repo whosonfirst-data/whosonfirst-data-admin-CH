@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"092f1bfa6d3389a3eeededd4b723cece",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125367861
+            "county_id":102062873,
+            "localadmin_id":1125367861,
+            "region_id":85682325
         }
     ],
     "wof:id":1125367861,
-    "wof:lastmodified":1505185769,
+    "wof:lastmodified":1565459160,
     "wof:name":"Chavannes-le-Veyron",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
     "wof:population":120,
     "wof:population_rank":1,

@@ -2,10 +2,11 @@
   "id": 404568071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.005119,
-    "geom:area_square_m":43734348.802922,
+    "geom:area_square_m":43734348.802911,
     "geom:bbox":"7.58125230542,46.2475016798,7.6984874568,46.3397709681",
     "geom:latitude":46.293856,
     "geom:longitude":7.633099,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.287114,
     "lbl:longitude":7.629094,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Valais",
     "qs:a1_lc":"23",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404568071,
-    "wof:lastmodified":1507751262,
+    "wof:lastmodified":1565446887,
     "wof:name":"Leuk",
     "wof:parent_id":102062761,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253979
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

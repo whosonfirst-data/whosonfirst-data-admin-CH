@@ -22,11 +22,20 @@
     "name:eng_x_preferred":[
         "Caojing"
     ],
+    "name:gan_x_preferred":[
+        "\u6f15\u6cfe\u9547"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6f15\u6d87\u93ae"
+    ],
     "name:swe_x_preferred":[
         "Caojing"
     ],
     "name:unk_x_variant":[
         "Ts\u2019ao-ching"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6f15\u6cfe\u9547"
     ],
     "name:zho_x_preferred":[
         "\u6f15\u6cfe\u9547"
@@ -45,9 +54,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85633051
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1815994,
@@ -58,12 +65,14 @@
     "wof:geomhash":"7045b01d0bcb2edceabceb89875cc9ab",
     "wof:hierarchy":[
         {
-            "country_id":85633051,
-            "locality_id":102027723
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102027723,
+            "region_id":-1
         }
     ],
     "wof:id":102027723,
-    "wof:lastmodified":1561745801,
+    "wof:lastmodified":1565422254,
     "wof:name":"Caojing",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

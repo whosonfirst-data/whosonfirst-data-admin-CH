@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404571247,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"c755b52ec91e1a5f30cf5dc46a9920c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113497
+            "county_id":102063055,
+            "localadmin_id":404571247,
+            "locality_id":1126113497,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113497,
-    "wof:lastmodified":1505185759,
+    "wof:lastmodified":1565453768,
     "wof:name":"Heuler",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571247,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

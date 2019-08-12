@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,13 +27,17 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "Unter H\u00fcttenboden"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682377,
+        102191581,
+        404328325,
+        85633051,
+        102062879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,23 @@
     "wof:geomhash":"3ddff5b0c0a273ed0a9fa3dd6762725e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209552301
+            "county_id":102062879,
+            "localadmin_id":404328325,
+            "locality_id":1209552301,
+            "region_id":85682377
         }
     ],
     "wof:id":1209552301,
-    "wof:lastmodified":1537590884,
+    "wof:lastmodified":1565430311,
     "wof:name":"Unter Huettenboden",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328325,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394400901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

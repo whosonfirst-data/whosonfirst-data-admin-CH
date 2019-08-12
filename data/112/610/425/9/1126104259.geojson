@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Chlidorf"
+    ],
+    "name:eng_x_variant":[
+        "Uetikon / Chlidorf"
+    ],
     "name:unk_x_variant":[
         "Chlidorf"
     ],
@@ -37,11 +43,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         404571553,
         85633051,
-        102062769,
-        85682309
+        1125880125,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +64,15 @@
             "country_id":85633051,
             "county_id":102062769,
             "localadmin_id":404571553,
-            "locality_id":-1,
+            "locality_id":1125880125,
             "neighbourhood_id":1126104259,
             "region_id":85682309
         }
     ],
     "wof:id":1126104259,
-    "wof:lastmodified":1509412293,
-    "wof:name":"Uetikon / Chlidorf",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1565452842,
+    "wof:name":"Chlidorf",
+    "wof:parent_id":1125880125,
     "wof:placetype":"neighbourhood",
     "wof:population":817,
     "wof:population_rank":2,

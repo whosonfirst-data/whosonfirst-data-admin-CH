@@ -2,10 +2,11 @@
   "id": 404571955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000403,
-    "geom:area_square_m":3412286.698238,
+    "geom:area_square_m":3412286.698241,
     "geom:bbox":"7.62259602762,46.8059673741,7.65787692055,46.8300693798",
     "geom:latitude":46.816595,
     "geom:longitude":7.63954,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.815985,
     "lbl:longitude":7.640734,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":404571955,
-    "wof:lastmodified":1497049970,
+    "wof:lastmodified":1565449323,
     "wof:name":"Bleiken Bei Oberdiessbach",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254147
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

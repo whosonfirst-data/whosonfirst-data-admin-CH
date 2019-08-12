@@ -55,7 +55,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,14 +70,17 @@
     "wof:geomhash":"949e8d48fa2cbe4b25e10cac985f33a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125349829
+            "county_id":102063013,
+            "localadmin_id":1125349829,
+            "region_id":85682381
         }
     ],
     "wof:id":1125349829,
-    "wof:lastmodified":1505185774,
+    "wof:lastmodified":1565452492,
     "wof:name":"Seeberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
     "wof:population":1504,
     "wof:population_rank":3,

@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.001424,
-    "geom:area_square_m":12162558.711326,
+    "geom:area_square_m":12162558.711325,
     "geom:bbox":"6.17029846611,46.2844339862,6.23240101204,46.3388608172",
     "geom:latitude":46.3112,
     "geom:longitude":6.203056,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.308137,
     "lbl:longitude":6.202537,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Vaud",
     "qs:a1_lc":"22",
@@ -33,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"a6e8b9e19546f37a965eb8e7fc8a7587",
+    "wof:geomhash":"6273ebc2083f8462459bc7f95745f3ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -44,12 +46,14 @@
         }
     ],
     "wof:id":404569253,
-    "wof:lastmodified":1479950634,
+    "wof:lastmodified":1565445539,
     "wof:name":"Lac L\u00e9man (Vd)",
     "wof:parent_id":102063021,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404567693
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

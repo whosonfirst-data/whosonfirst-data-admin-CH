@@ -2,10 +2,11 @@
   "id": 404568033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.005662,
-    "geom:area_square_m":48180842.853524,
+    "geom:area_square_m":48180842.853521,
     "geom:bbox":"9.03897118311,46.4763019636,9.22202858952,46.554518385",
     "geom:latitude":46.513662,
     "geom:longitude":9.135062,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.526357,
     "lbl:longitude":9.174525,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -33,7 +35,7 @@
         102191581,
         85633051,
         85682255,
-        102062845
+        1394137069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +49,20 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062845,
+            "county_id":1394137069,
             "localadmin_id":404568033,
             "region_id":85682255
         }
     ],
     "wof:id":404568033,
-    "wof:lastmodified":1497044683,
+    "wof:lastmodified":1565447846,
     "wof:name":"Hinterrhein",
-    "wof:parent_id":102062845,
+    "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254091
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

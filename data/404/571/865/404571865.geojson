@@ -2,8 +2,9 @@
   "id": 404571865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000431,
     "geom:area_square_m":3640759.848248,
     "geom:bbox":"7.5732952043,46.8607928265,7.60713096704,46.8866054409",
@@ -13,7 +14,7 @@
     "lbl:latitude":46.872192,
     "lbl:longitude":7.586897,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Bern",
     "qs:a1_lc":"2",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404571865,
-    "wof:lastmodified":1507751281,
+    "wof:lastmodified":1565449968,
     "wof:name":"T\u00e4gertschi",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394254177
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

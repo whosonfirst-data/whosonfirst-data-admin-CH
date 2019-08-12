@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Zil"
+    ],
+    "name:eng_x_variant":[
+        "Feldmeilen / Zil"
+    ],
     "name:unk_x_variant":[
         "Zil"
     ],
@@ -37,11 +43,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
+        404568775,
         85633051,
-        101748463,
-        102063071,
-        85682309
+        101854399,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,16 +62,17 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063071,
-            "locality_id":101748463,
+            "county_id":102062769,
+            "localadmin_id":404568775,
+            "locality_id":101854399,
             "neighbourhood_id":1126104229,
             "region_id":85682309
         }
     ],
     "wof:id":1126104229,
-    "wof:lastmodified":1509412292,
-    "wof:name":"Feldmeilen / Zil",
-    "wof:parent_id":101748463,
+    "wof:lastmodified":1565452838,
+    "wof:name":"Zil",
+    "wof:parent_id":101854399,
     "wof:placetype":"neighbourhood",
     "wof:population":144,
     "wof:population_rank":1,

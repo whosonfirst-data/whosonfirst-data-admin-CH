@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.000053,
     "geom:area_square_m":449789.783312,
@@ -13,6 +14,7 @@
     "lbl:latitude":46.482415,
     "lbl:longitude":9.455441,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -30,28 +32,30 @@
         102191581,
         85633051,
         85682255,
-        102062845
+        1394137069
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"870bb1d469375038d6d13703d67a3b98",
+    "wof:geomhash":"dd8059576220fdf7fa4ec8b4309eb3fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062845,
+            "county_id":1394137069,
             "localadmin_id":404573505,
             "region_id":85682255
         }
     ],
     "wof:id":404573505,
-    "wof:lastmodified":1479926254,
+    "wof:lastmodified":1565448629,
     "wof:name":"Ferrera",
-    "wof:parent_id":102062845,
+    "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404567855
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

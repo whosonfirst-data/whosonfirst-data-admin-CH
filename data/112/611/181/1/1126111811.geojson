@@ -37,7 +37,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404567873,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,18 @@
     "wof:geomhash":"e944a719bfb656fc1e411c1afa4a677e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111811
+            "county_id":102063055,
+            "localadmin_id":404567873,
+            "locality_id":1126111811,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111811,
-    "wof:lastmodified":1505185763,
+    "wof:lastmodified":1565453800,
     "wof:name":"W\u00fclflingen (Kreis 6) / H\u00fcslihof",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567873,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

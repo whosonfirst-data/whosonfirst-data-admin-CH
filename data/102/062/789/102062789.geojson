@@ -3,8 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-30",
     "edtf:inception":"uuuu",
     "geom:area":0.01102,
+    "geom:area_square_m":92767359.934174,
     "geom:bbox":"6.73600420735,47.0137174244,6.8888548516,47.1655949134",
     "geom:latitude":47.092669,
     "geom:longitude":6.816937,
@@ -14,6 +16,7 @@
     "mps:latitude":47.0925,
     "mps:longitude":6.816919,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Neuch\u00c3\u00a2tel",
     "qs:a1_lc":"24",
@@ -34,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"2b8ca980757795b73843c6d995b00951",
+    "wof:geomhash":"4bd71bc2fcfda940346be1e58bf3a80d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":102062789,
-    "wof:lastmodified":1466628078,
+    "wof:lastmodified":1565421066,
     "wof:name":"La Chaux-de-Fonds",
     "wof:parent_id":85682359,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394237543
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

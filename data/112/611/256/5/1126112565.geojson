@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568929,
+        85633051,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"e26b1d63f1857c4cd157a5e42de8e076",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112565
+            "county_id":102062769,
+            "localadmin_id":404568929,
+            "locality_id":1126112565,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112565,
-    "wof:lastmodified":1505185744,
+    "wof:lastmodified":1565453587,
     "wof:name":"Wolenberen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568929,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

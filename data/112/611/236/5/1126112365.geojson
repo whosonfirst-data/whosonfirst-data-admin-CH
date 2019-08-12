@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569141,
+        85633051,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"5626ebfc1f73c78ce14cd3ab6359a74b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112365
+            "county_id":102062779,
+            "localadmin_id":404569141,
+            "locality_id":1126112365,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112365,
-    "wof:lastmodified":1505185749,
+    "wof:lastmodified":1565454338,
     "wof:name":"Jos",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569141,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

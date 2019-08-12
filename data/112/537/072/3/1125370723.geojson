@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682337,
+        102062955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"62badf15dfc1381d42f9224daebbc17e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125370723
+            "county_id":102062955,
+            "localadmin_id":1125370723,
+            "region_id":85682337
         }
     ],
     "wof:id":1125370723,
-    "wof:lastmodified":1505185775,
+    "wof:lastmodified":1565458375,
     "wof:name":"Zihlschlacht-Sitterdorf",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062955,
     "wof:placetype":"localadmin",
     "wof:population":2254,
     "wof:population_rank":4,

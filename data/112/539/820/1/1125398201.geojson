@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"8244d2ddcc23b286b500e071e39ba10a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125398201
+            "county_id":102062801,
+            "localadmin_id":1125398201,
+            "region_id":85682309
         }
     ],
     "wof:id":1125398201,
-    "wof:lastmodified":1505185768,
+    "wof:lastmodified":1565458424,
     "wof:name":"Berg am Irchel",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062801,
     "wof:placetype":"localadmin",
     "wof:population":573,
     "wof:population_rank":2,

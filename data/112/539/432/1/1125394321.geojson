@@ -50,7 +50,10 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +66,17 @@
     "wof:geomhash":"d43e854d84e3b82b75ff3a4e93ee5255",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125394321
+            "county_id":102062873,
+            "localadmin_id":1125394321,
+            "region_id":85682325
         }
     ],
     "wof:id":1125394321,
-    "wof:lastmodified":1505185701,
+    "wof:lastmodified":1565458445,
     "wof:name":"St.-Livres",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
     "wof:population":568,
     "wof:population_rank":2,

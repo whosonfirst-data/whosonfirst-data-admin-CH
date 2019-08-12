@@ -5,6 +5,7 @@
     "edtf:cessation":"2017-05-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.89219,47.50228,8.89219,47.50228",
     "geom:latitude":47.50228,
     "geom:longitude":8.89219,
@@ -32,7 +33,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"quattroshapes_pg",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +48,17 @@
     "wof:geomhash":"835b5881e5c9c1070aef237d00d51c0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111585
+            "county_id":102063055,
+            "locality_id":1126111585,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111585,
-    "wof:lastmodified":1497468827,
+    "wof:lastmodified":1565453131,
     "wof:name":"Aathal",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063055,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

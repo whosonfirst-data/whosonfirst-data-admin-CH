@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404571181,
+        85633051,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"e5f86eaba198f06d7bfa020bfd1b7c0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111829
+            "county_id":102062893,
+            "localadmin_id":404571181,
+            "locality_id":1126111829,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111829,
-    "wof:lastmodified":1505185764,
+    "wof:lastmodified":1565454738,
     "wof:name":"Sandacker",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571181,
     "wof:placetype":"locality",
     "wof:population":1,
     "wof:population_rank":1,

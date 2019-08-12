@@ -2,10 +2,11 @@
   "id": 1175611165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000327,
-    "geom:area_square_m":6640.034996,
+    "geom:area_square_m":2774664.557206,
     "geom:bbox":"9.58108298381,46.6230612606,9.60512414555,46.6432978982",
     "geom:latitude":46.634078,
     "geom:longitude":9.593643,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.62854,
     "lbl:longitude":9.585159,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Graub\u00fcnden",
     "qs:a1_lc":"18",
@@ -29,7 +30,6 @@
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         102191581,
-        404573599,
         85633051,
         85682255,
         102062885
@@ -43,17 +43,19 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062885,
-            "localadmin_id":404573599,
+            "localadmin_id":1175611165,
             "region_id":85682255
         }
     ],
     "wof:id":1175611165,
-    "wof:lastmodified":1534985875,
+    "wof:lastmodified":1565431769,
     "wof:name":"Riom-Parsonz",
     "wof:parent_id":102062885,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253983
+    ],
     "wof:supersedes":[
         404572235,
         404573599

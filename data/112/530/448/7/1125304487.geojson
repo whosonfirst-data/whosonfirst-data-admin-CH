@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"c009c534100478c55b59ef3429d4f149",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125304487
+            "county_id":102062949,
+            "localadmin_id":1125304487,
+            "region_id":85682325
         }
     ],
     "wof:id":1125304487,
-    "wof:lastmodified":1505248009,
+    "wof:lastmodified":1565458394,
     "wof:name":"Poliez-le-Grand",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

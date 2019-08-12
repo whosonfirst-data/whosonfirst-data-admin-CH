@@ -2,10 +2,11 @@
   "id": 404573345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2016?",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-08-01",
     "geom:area":0.000169,
-    "geom:area_square_m":1429583.967066,
+    "geom:area_square_m":1429583.967067,
     "geom:bbox":"6.84062377098,46.6733277925,6.85983683891,46.6911332692",
     "geom:latitude":46.682494,
     "geom:longitude":6.849494,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.682214,
     "lbl:longitude":6.849494,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Vaud",
     "qs:a1_lc":"22",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404573345,
-    "wof:lastmodified":1507751284,
+    "wof:lastmodified":1565449112,
     "wof:name":"Sarzens",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394253987
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

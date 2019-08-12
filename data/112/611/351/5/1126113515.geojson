@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404571331,
+        85633051,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"59348c4f1412d6127ce501c20960da9c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113515
+            "county_id":102063019,
+            "localadmin_id":404571331,
+            "locality_id":1126113515,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113515,
-    "wof:lastmodified":1505185722,
+    "wof:lastmodified":1565454000,
     "wof:name":"Im Seeber",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571331,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,

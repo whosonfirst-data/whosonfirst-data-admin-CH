@@ -2,9 +2,11 @@
   "id": 102062797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2019-07-17",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-07-17",
     "geom:area":0.176861,
+    "geom:area_square_m":1489577382.800939,
     "geom:bbox":"7.83641979072,46.7749896263,8.51406250703,47.2871937406",
     "geom:latitude":47.06791,
     "geom:longitude":8.110328,
@@ -14,6 +16,7 @@
     "mps:latitude":47.092982,
     "mps:longitude":8.07693,
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Luzern",
     "qs:a1_lc":"3",
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
-    "wof:geomhash":"0c072148dab570962e7a1abb4ae7b254",
+    "wof:geomhash":"7bea5197693af5ef7c3c754fcdff5289",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -42,12 +45,19 @@
         }
     ],
     "wof:id":102062797,
-    "wof:lastmodified":1466628078,
+    "wof:lastmodified":1565418961,
     "wof:name":"",
     "wof:parent_id":85682319,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394137073,
+        1394137075,
+        1394137077,
+        1394137079,
+        1394137081,
+        1394137117
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":775173.89051,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.667291,46.50534,6.667291,46.50534",
     "geom:latitude":46.50534,
     "geom:longitude":6.667291,
@@ -65,11 +65,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85682325,
         102191581,
-        404570955,
+        404567693,
         85633051,
-        102063047,
-        85682325
+        1394298067,
+        102063021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,9 +84,9 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102063047,
-            "localadmin_id":404570955,
-            "locality_id":-1,
+            "county_id":102063021,
+            "localadmin_id":404567693,
+            "locality_id":1394298067,
             "neighbourhood_id":85800419,
             "region_id":85682325
         }
@@ -94,9 +95,9 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862023,
+    "wof:lastmodified":1565428617,
     "wof:name":"Port de Pully",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394298067,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

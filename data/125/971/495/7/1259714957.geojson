@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,13 +28,12 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
-        404567975,
         85633051,
+        85682255,
         102062803
     ],
     "wof:breaches":[],
@@ -47,18 +47,19 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062803,
-            "localadmin_id":404567975,
             "locality_id":1259714957,
             "region_id":85682255
         }
     ],
     "wof:id":1259714957,
-    "wof:lastmodified":1537020901,
+    "wof:lastmodified":1565464435,
     "wof:name":"Platz",
-    "wof:parent_id":404567975,
+    "wof:parent_id":102062803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394410253
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

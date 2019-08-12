@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,15 +27,14 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85682301,
         102191581,
-        404572145,
+        1175611211,
         85633051,
-        102062945,
-        1175611211
+        102062945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +47,20 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062945,
-            "localadmin_id":404572145,
+            "localadmin_id":1175611211,
             "locality_id":1327463259,
             "region_id":85682301
         }
     ],
     "wof:id":1327463259,
-    "wof:lastmodified":1536635018,
+    "wof:lastmodified":1565418518,
     "wof:name":"Pre de Riva",
     "wof:parent_id":1175611211,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394408425
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

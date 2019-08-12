@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,13 +27,17 @@
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "name:deu_x_preferred":[
         "B\u00f6deli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        404567921,
+        85633051,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,23 @@
     "wof:geomhash":"7e3edda82d5f3445242d15201bb76457",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209043567
+            "county_id":102062837,
+            "localadmin_id":404567921,
+            "locality_id":1209043567,
+            "region_id":85682381
         }
     ],
     "wof:id":1209043567,
-    "wof:lastmodified":1537590874,
+    "wof:lastmodified":1565430685,
     "wof:name":"Boedeli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404567921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394399089
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

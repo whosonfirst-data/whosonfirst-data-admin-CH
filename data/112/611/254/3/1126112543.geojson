@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569761,
+        85633051,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"ec31134c8f7aa21867791660e9493306",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112543
+            "county_id":102063019,
+            "localadmin_id":404569761,
+            "locality_id":1126112543,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112543,
-    "wof:lastmodified":1505185722,
+    "wof:lastmodified":1565454393,
     "wof:name":"S\u00e4gete",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569761,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

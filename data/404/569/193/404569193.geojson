@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.001483,
     "geom:area_square_m":12519279.846325,
@@ -13,7 +14,7 @@
     "lbl:latitude":46.930884,
     "lbl:longitude":7.141497,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "qs:a0":"Switzerland",
     "qs:a1":"Fribourg",
     "qs:a1_lc":"10",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":404569193,
-    "wof:lastmodified":1507751270,
+    "wof:lastmodified":1565444853,
     "wof:name":"Murten",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404573253
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

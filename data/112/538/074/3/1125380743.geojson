@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"65d1402eafebd77696b713180620d711",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125380743
+            "county_id":102062813,
+            "localadmin_id":1125380743,
+            "region_id":85682325
         }
     ],
     "wof:id":1125380743,
-    "wof:lastmodified":1505185772,
+    "wof:lastmodified":1565459109,
     "wof:name":"Lignerolle",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
     "wof:population":390,
     "wof:population_rank":2,

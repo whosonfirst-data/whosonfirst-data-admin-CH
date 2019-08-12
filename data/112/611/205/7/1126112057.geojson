@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569713,
+        85633051,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"ba98e4fbfa11efecf0e08e5d15149932",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112057
+            "county_id":102062801,
+            "localadmin_id":404569713,
+            "locality_id":1126112057,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112057,
-    "wof:lastmodified":1505185719,
+    "wof:lastmodified":1565453605,
     "wof:name":"B\u00fchlhof",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569713,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,

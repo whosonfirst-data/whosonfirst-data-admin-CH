@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -16,7 +17,7 @@
     "lbl:latitude":46.87097,
     "lbl:longitude":8.26734,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:unk_x_variant":[
         "Fl\u00fchli Ranft"
@@ -74,12 +75,14 @@
         }
     ],
     "wof:id":1125929251,
-    "wof:lastmodified":1509401293,
+    "wof:lastmodified":1565452593,
     "wof:name":"Fl\u00fceli",
     "wof:parent_id":404328151,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394409279
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
