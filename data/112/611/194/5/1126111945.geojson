@@ -37,7 +37,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569487,
+        85633051,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,18 @@
     "wof:geomhash":"233fe7b1b5211e9341c0d6378bd53bf9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111945
+            "county_id":102062995,
+            "localadmin_id":404569487,
+            "locality_id":1126111945,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111945,
-    "wof:lastmodified":1505185725,
+    "wof:lastmodified":1565453126,
     "wof:name":"Oberhasli / B\u00e4chelweg",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569487,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

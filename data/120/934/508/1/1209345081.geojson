@@ -156,7 +156,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682281,
+        102191581,
+        404567707,
+        85633051,
+        102062985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,14 +170,18 @@
     "wof:geomhash":"e50d69ea999b38dce41faff313acf47b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209345081
+            "county_id":102062985,
+            "localadmin_id":404567707,
+            "locality_id":1209345081,
+            "region_id":85682281
         }
     ],
     "wof:id":1209345081,
-    "wof:lastmodified":1565297340,
+    "wof:lastmodified":1565430762,
     "wof:name":"Villa",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404567707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -22,15 +22,26 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682275
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"48fb9f807dcc9558a7b40bf0b0e6f997",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394237541,
+            "region_id":85682275
+        }
+    ],
     "wof:id":1394237541,
-    "wof:lastmodified":1565139035,
+    "wof:lastmodified":1565439689,
     "wof:name":"Appenzell Innerrhoden (unincorporated)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682275,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:statistical_gore":1,

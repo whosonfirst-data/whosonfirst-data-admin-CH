@@ -25,15 +25,30 @@
     "reversegeo:longitude":9.452227,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682275,
+        102191581,
+        1394254075,
+        85633051,
+        1394237541
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"386ec6ef2d5c03c728e60c38fa187aa2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394237541,
+            "localadmin_id":1394254075,
+            "locality_id":1394297975,
+            "region_id":85682275
+        }
+    ],
     "wof:id":1394297975,
-    "wof:lastmodified":1565139044,
+    "wof:lastmodified":1565442898,
     "wof:name":"Appenzell Steinegg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

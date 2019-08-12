@@ -25,15 +25,30 @@
     "reversegeo:longitude":7.589324,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404568169,
+        85633051,
+        102062831
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"0a9d1226eee132117df6e08762432284",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062831,
+            "localadmin_id":404568169,
+            "locality_id":1394292651,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394292651,
-    "wof:lastmodified":1565139056,
+    "wof:lastmodified":1565443219,
     "wof:name":"Latterbach",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

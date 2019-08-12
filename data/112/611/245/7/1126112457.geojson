@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568915,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"f0675c89acc9e1a1b2e3f8ffb4855387",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112457
+            "county_id":102063055,
+            "localadmin_id":404568915,
+            "locality_id":1126112457,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112457,
-    "wof:lastmodified":1505185760,
+    "wof:lastmodified":1565453247,
     "wof:name":"Lantwis",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568915,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

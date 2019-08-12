@@ -46,15 +46,30 @@
     "reversegeo:longitude":7.453024,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404567993,
+        85633051,
+        102062861
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"57b403e4ff01b82307d9ecaa9bdaa3f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":404567993,
+            "locality_id":1394289755,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394289755,
-    "wof:lastmodified":1565299296,
+    "wof:lastmodified":1565442893,
     "wof:name":"Wabern",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567993,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

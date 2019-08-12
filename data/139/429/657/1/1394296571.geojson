@@ -67,15 +67,30 @@
     "reversegeo:longitude":9.05263,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682269,
+        102191581,
+        404572177,
+        85633051,
+        102062991
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"6457a6a353f3905d4b5845271357b2c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062991,
+            "localadmin_id":404572177,
+            "locality_id":1394296571,
+            "region_id":85682269
+        }
+    ],
     "wof:id":1394296571,
-    "wof:lastmodified":1565299333,
+    "wof:lastmodified":1565443026,
     "wof:name":"Medeglia",
-    "wof:parent_id":-1,
+    "wof:parent_id":404572177,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

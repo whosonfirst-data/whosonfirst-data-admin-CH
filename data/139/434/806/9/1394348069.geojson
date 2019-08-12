@@ -67,15 +67,30 @@
     "reversegeo:longitude":8.098001,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682329,
+        102191581,
+        404568961,
+        85633051,
+        102062977
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"abbc7cc74a4e4a1caf766b9cb4051215",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062977,
+            "localadmin_id":404568961,
+            "locality_id":1394348069,
+            "region_id":85682329
+        }
+    ],
     "wof:id":1394348069,
-    "wof:lastmodified":1565299516,
+    "wof:lastmodified":1565443740,
     "wof:name":"Sulz",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568961,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

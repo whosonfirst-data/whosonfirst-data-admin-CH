@@ -30,8 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209251839,
-        85633051
+        85682381,
+        102191581,
+        404568573,
+        85633051,
+        1309937419,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,19 @@
     "wof:geomhash":"5c73b5933b950015f1c7fd9f7e33b6f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209251839,
-            "neighbourhood_id":1394399981
+            "county_id":102062909,
+            "localadmin_id":404568573,
+            "locality_id":1309937419,
+            "neighbourhood_id":1394399981,
+            "region_id":85682381
         }
     ],
     "wof:id":1394399981,
-    "wof:lastmodified":1565230721,
+    "wof:lastmodified":1565439849,
     "wof:name":"Ruchwil",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1309937419,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -45,7 +45,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682337,
+        102191581,
+        404568769,
+        85633051,
+        102062955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +59,18 @@
     "wof:geomhash":"98bf7d8bda7519973c7536a2af305ad8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209136697
+            "county_id":102062955,
+            "localadmin_id":404568769,
+            "locality_id":1209136697,
+            "region_id":85682337
         }
     ],
     "wof:id":1209136697,
-    "wof:lastmodified":1565139000,
+    "wof:lastmodified":1565430467,
     "wof:name":"Illhart",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568769,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton St. Gallen",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682341,
+        102062815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"8210d64f6b20d13978c1d18aaba92fe4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125395961
+            "county_id":102062815,
+            "localadmin_id":1125395961,
+            "region_id":85682341
         }
     ],
     "wof:id":1125395961,
-    "wof:lastmodified":1505248185,
+    "wof:lastmodified":1565458439,
     "wof:name":"Benken",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062815,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

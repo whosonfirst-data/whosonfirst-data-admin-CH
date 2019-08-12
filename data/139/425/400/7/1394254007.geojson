@@ -492,18 +492,31 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682381,
+        102062861
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         101748453
     ],
     "wof:country":"CH",
     "wof:geomhash":"1a502d051e26f9847c3b7ef87dd500dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":1394254007,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394254007,
-    "wof:lastmodified":1565298463,
+    "wof:lastmodified":1565438304,
     "wof:name":"Bern",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

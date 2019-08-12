@@ -93,15 +93,28 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682275,
+        1394237541
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"3d43831616f7ea46b31374bdc6291817",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394237541,
+            "localadmin_id":1394254205,
+            "region_id":85682275
+        }
+    ],
     "wof:id":1394254205,
-    "wof:lastmodified":1565298487,
+    "wof:lastmodified":1565438472,
     "wof:name":"Gonten",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394237541,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

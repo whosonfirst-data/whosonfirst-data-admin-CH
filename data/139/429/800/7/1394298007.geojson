@@ -25,15 +25,30 @@
     "reversegeo:longitude":9.268227,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682341,
+        102191581,
+        404567859,
+        85633051,
+        102062963
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"76c1445f179a56d7037a705cbb615e0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062963,
+            "localadmin_id":404567859,
+            "locality_id":1394298007,
+            "region_id":85682341
+        }
+    ],
     "wof:id":1394298007,
-    "wof:lastmodified":1565139055,
+    "wof:lastmodified":1565443192,
     "wof:name":"Flumserberg Tannenbodenalp",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

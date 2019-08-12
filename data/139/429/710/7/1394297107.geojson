@@ -25,15 +25,30 @@
     "reversegeo:longitude":9.491041,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        404567699,
+        85633051,
+        102062857
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"1d26bdb70e963e6fc31b9d09ceaacbe9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062857,
+            "localadmin_id":404567699,
+            "locality_id":1394297107,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394297107,
-    "wof:lastmodified":1565139058,
+    "wof:lastmodified":1565443267,
     "wof:name":"Campsut-Cr\u00f6t",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567699,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

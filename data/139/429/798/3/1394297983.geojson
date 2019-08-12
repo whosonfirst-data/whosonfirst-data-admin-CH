@@ -25,15 +25,30 @@
     "reversegeo:longitude":8.474666,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        1175611155,
+        85633051,
+        102063019
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"7e4557d106dd1234f3e837db8b8555ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063019,
+            "localadmin_id":1175611155,
+            "locality_id":1394297983,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394297983,
-    "wof:lastmodified":1565139045,
+    "wof:lastmodified":1565442925,
     "wof:name":"Zweidlen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175611155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

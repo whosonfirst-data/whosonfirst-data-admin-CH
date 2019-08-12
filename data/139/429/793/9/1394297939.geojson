@@ -76,15 +76,30 @@
     "reversegeo:longitude":7.692746,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682281,
+        102191581,
+        1394253991,
+        85633051,
+        102062761
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"f7f905590b31b309328c0a88e1f8511a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062761,
+            "localadmin_id":1394253991,
+            "locality_id":1394297939,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394297939,
-    "wof:lastmodified":1565299361,
+    "wof:lastmodified":1565581411,
     "wof:name":"Unterems",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394253991,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

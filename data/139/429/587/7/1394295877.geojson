@@ -121,18 +121,33 @@
     "reversegeo:longitude":6.589617,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404572139,
+        85633051,
+        102062829
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404572139
     ],
     "wof:country":"CH",
     "wof:geomhash":"723e10a4ac44b87b35c2d659d2409dde",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062829,
+            "localadmin_id":404572139,
+            "locality_id":1394295877,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394295877,
-    "wof:lastmodified":1565299356,
+    "wof:lastmodified":1565443086,
     "wof:name":"Renens",
-    "wof:parent_id":-1,
+    "wof:parent_id":404572139,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

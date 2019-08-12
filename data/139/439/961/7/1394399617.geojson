@@ -77,8 +77,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209243541,
-        85633051
+        85682337,
+        102191581,
+        404569621,
+        85633051,
+        1126035779,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,15 +92,19 @@
     "wof:geomhash":"18db9520bc79ae5daba20b1947fd8f99",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209243541,
-            "neighbourhood_id":1394399617
+            "county_id":102062953,
+            "localadmin_id":404569621,
+            "locality_id":1126035779,
+            "neighbourhood_id":1394399617,
+            "region_id":85682337
         }
     ],
     "wof:id":1394399617,
-    "wof:lastmodified":1565298960,
+    "wof:lastmodified":1565441259,
     "wof:name":"Neuhaus",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126035779,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

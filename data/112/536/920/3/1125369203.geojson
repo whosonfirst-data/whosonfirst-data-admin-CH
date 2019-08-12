@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682281,
+        102062793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"656bd526fd412f7cd156667f313aa6de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125369203
+            "county_id":102062793,
+            "localadmin_id":1125369203,
+            "region_id":85682281
         }
     ],
     "wof:id":1125369203,
-    "wof:lastmodified":1505248116,
+    "wof:lastmodified":1565459159,
     "wof:name":"Sierre",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062793,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

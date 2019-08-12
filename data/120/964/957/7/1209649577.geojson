@@ -30,7 +30,10 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682269,
+        102062931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,17 @@
     "wof:geomhash":"93dd69d5870467be81e956f24af571f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209649577
+            "county_id":102062931,
+            "locality_id":1209649577,
+            "region_id":85682269
         }
     ],
     "wof:id":1209649577,
-    "wof:lastmodified":1565230522,
+    "wof:lastmodified":1565430255,
     "wof:name":"Angone",
-    "wof:parent_id":85633051,
+    "wof:parent_id":102062931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

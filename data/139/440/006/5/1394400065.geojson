@@ -29,8 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209345925,
-        85633051
+        85682381,
+        102191581,
+        404568059,
+        85633051,
+        1394289193,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,19 @@
     "wof:geomhash":"78ce14f4a51cf35857eecfabac777e61",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209345925,
-            "neighbourhood_id":1394400065
+            "county_id":102062831,
+            "localadmin_id":404568059,
+            "locality_id":1394289193,
+            "neighbourhood_id":1394400065,
+            "region_id":85682381
         }
     ],
     "wof:id":1394400065,
-    "wof:lastmodified":1565230615,
+    "wof:lastmodified":1565434754,
     "wof:name":"Morgeten",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394289193,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

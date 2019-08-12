@@ -31,8 +31,12 @@
     "mz:is_funky":1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209348589,
-        85633051
+        85682319,
+        102191581,
+        404328383,
+        85633051,
+        1126051217,
+        1394137075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,19 @@
     "wof:geomhash":"59eea8996fbe184160c9a46099b57fc6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209348589,
-            "neighbourhood_id":1394400133
+            "county_id":1394137075,
+            "localadmin_id":404328383,
+            "locality_id":1126051217,
+            "neighbourhood_id":1394400133,
+            "region_id":85682319
         }
     ],
     "wof:id":1394400133,
-    "wof:lastmodified":1565230590,
+    "wof:lastmodified":1565433782,
     "wof:name":"Ruefswil",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126051217,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

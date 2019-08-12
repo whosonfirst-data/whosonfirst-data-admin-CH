@@ -25,15 +25,30 @@
     "reversegeo:longitude":8.471736,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        404569147,
+        85633051,
+        102062995
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"bc24d430c654b9e0949ded0925252f98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062995,
+            "localadmin_id":404569147,
+            "locality_id":1394289065,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394289065,
-    "wof:lastmodified":1565139039,
+    "wof:lastmodified":1565442770,
     "wof:name":"Windlach",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

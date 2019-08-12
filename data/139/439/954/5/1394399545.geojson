@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209142489,
-        85633051
+        85682269,
+        102191581,
+        404573577,
+        85633051,
+        1125801875,
+        102062975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"6c975c550aba1d1a2bcffb473e373413",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209142489,
-            "neighbourhood_id":1394399545
+            "county_id":102062975,
+            "localadmin_id":404573577,
+            "locality_id":1125801875,
+            "neighbourhood_id":1394399545,
+            "region_id":85682269
         }
     ],
     "wof:id":1394399545,
-    "wof:lastmodified":1565230720,
+    "wof:lastmodified":1565439804,
     "wof:name":"Sparavera",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125801875,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

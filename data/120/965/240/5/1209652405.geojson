@@ -31,7 +31,9 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +43,16 @@
     "wof:geomhash":"16c172d86de952b80446d71692d855f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209652405
+            "locality_id":1209652405,
+            "region_id":85682359
         }
     ],
     "wof:id":1209652405,
-    "wof:lastmodified":1565230521,
+    "wof:lastmodified":1565430228,
     "wof:name":"Les Grattes",
-    "wof:parent_id":85633051,
+    "wof:parent_id":85682359,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

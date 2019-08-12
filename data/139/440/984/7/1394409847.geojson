@@ -129,12 +129,15 @@
     "woe:name_adm1":"Rh\u00f4ne-Alpes",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683227,
         102191581,
-        404328791,
-        85633051,
-        1125932653,
-        102062917,
-        85682291
+        404228261,
+        404363643,
+        85633147,
+        1108826389,
+        1125870367,
+        136253037,
+        102066577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -149,18 +152,21 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633051,
-            "county_id":102062917,
-            "localadmin_id":404328791,
-            "locality_id":1125932653,
+            "country_id":85633147,
+            "county_id":102066577,
+            "empire_id":136253037,
+            "localadmin_id":404363643,
+            "locality_id":1125870367,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
             "neighbourhood_id":1394409847,
-            "region_id":85682291
+            "region_id":85683227
         }
     ],
     "wof:id":1394409847,
-    "wof:lastmodified":1565239606,
+    "wof:lastmodified":1565434827,
     "wof:name":"Gys",
-    "wof:parent_id":404328791,
+    "wof:parent_id":1125870367,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

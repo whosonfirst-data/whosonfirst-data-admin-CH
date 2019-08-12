@@ -88,15 +88,30 @@
     "reversegeo:longitude":8.804591,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        1394254219,
+        85633051,
+        102062801
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"4f81d80a7f032cc1d75cb6613882ed78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062801,
+            "localadmin_id":1394254219,
+            "locality_id":1394289121,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394289121,
-    "wof:lastmodified":1565299269,
+    "wof:lastmodified":1565581689,
     "wof:name":"Oberstammheim",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254219,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

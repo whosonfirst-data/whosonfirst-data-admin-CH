@@ -102,8 +102,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209350685,
-        85633051
+        85682329,
+        102191581,
+        404571155,
+        85633051,
+        1125913973,
+        102062809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,15 +117,19 @@
     "wof:geomhash":"01446a0d998d50404f5471f0bf5f1048",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209350685,
-            "neighbourhood_id":1394400253
+            "county_id":102062809,
+            "localadmin_id":404571155,
+            "locality_id":1125913973,
+            "neighbourhood_id":1394400253,
+            "region_id":85682329
         }
     ],
     "wof:id":1394400253,
-    "wof:lastmodified":1565297650,
+    "wof:lastmodified":1565433900,
     "wof:name":"Gibel",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125913973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

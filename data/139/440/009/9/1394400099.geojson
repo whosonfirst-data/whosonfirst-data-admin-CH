@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209348341,
-        85633051
+        85682269,
+        102191581,
+        404568159,
+        85633051,
+        1126049743,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"934851f5a940cb304243654f132ef554",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209348341,
-            "neighbourhood_id":1394400099
+            "county_id":102062767,
+            "localadmin_id":404568159,
+            "locality_id":1126049743,
+            "neighbourhood_id":1394400099,
+            "region_id":85682269
         }
     ],
     "wof:id":1394400099,
-    "wof:lastmodified":1565230605,
+    "wof:lastmodified":1565434360,
     "wof:name":"Orbello",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126049743,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

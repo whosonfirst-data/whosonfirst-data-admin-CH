@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209646149,
-        85633051
+        85682249,
+        102191581,
+        404328109,
+        85633051,
+        1125889415,
+        102063003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"17bacdc4c373eee9354d0f7ed43f68c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209646149,
-            "neighbourhood_id":1394401015
+            "county_id":102063003,
+            "localadmin_id":404328109,
+            "locality_id":1125889415,
+            "neighbourhood_id":1394401015,
+            "region_id":85682249
         }
     ],
     "wof:id":1394401015,
-    "wof:lastmodified":1565230646,
+    "wof:lastmodified":1565435943,
     "wof:name":"Maienegg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125889415,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

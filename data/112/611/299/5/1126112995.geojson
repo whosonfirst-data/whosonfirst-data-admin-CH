@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"6f8d6858eef7cac13af69cd072ebad00",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112995
+            "county_id":102062779,
+            "locality_id":1126112995,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112995,
-    "wof:lastmodified":1505185748,
+    "wof:lastmodified":1565454559,
     "wof:name":"Neugut",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062779,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,

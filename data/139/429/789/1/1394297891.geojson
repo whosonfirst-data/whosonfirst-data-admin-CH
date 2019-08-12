@@ -43,15 +43,30 @@
     "reversegeo:longitude":7.764031,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682281,
+        102191581,
+        404569021,
+        85633051,
+        102063037
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"d7f462f780aeea58b4a7cad8afb46c04",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063037,
+            "localadmin_id":404569021,
+            "locality_id":1394297891,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394297891,
-    "wof:lastmodified":1565299414,
+    "wof:lastmodified":1565443285,
     "wof:name":"Steg",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569021,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

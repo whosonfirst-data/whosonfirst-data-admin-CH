@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"b3ac88e375e1f82f4d6bd8cc0b12312b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125396521
+            "county_id":102062969,
+            "localadmin_id":1125396521,
+            "region_id":85682325
         }
     ],
     "wof:id":1125396521,
-    "wof:lastmodified":1505248187,
+    "wof:lastmodified":1565458444,
     "wof:name":"Ropraz",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

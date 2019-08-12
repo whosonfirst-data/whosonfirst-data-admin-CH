@@ -45,22 +45,35 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682255,
+        102062773
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"cb2b1b89c1bbf120be9ec894cc04e66b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062773,
+            "localadmin_id":1394254201,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394254201,
-    "wof:lastmodified":1565298485,
+    "wof:lastmodified":1565581798,
     "wof:name":"Obersaxen Mundaun",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404567893,
         404570129
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

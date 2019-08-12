@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209649025,
-        85633051
+        85682381,
+        102191581,
+        1394254097,
+        85633051,
+        1209243975,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"e7e4a5d878b861ddeffca110232ff525",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209649025,
-            "neighbourhood_id":1394401073
+            "county_id":102062865,
+            "localadmin_id":1394254097,
+            "locality_id":1209243975,
+            "neighbourhood_id":1394401073,
+            "region_id":85682381
         }
     ],
     "wof:id":1394401073,
-    "wof:lastmodified":1565230639,
+    "wof:lastmodified":1565581618,
     "wof:name":"Vers chez Joseph",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1209243975,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

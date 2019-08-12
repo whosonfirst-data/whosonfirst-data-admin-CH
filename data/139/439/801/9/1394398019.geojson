@@ -112,8 +112,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1126110577,
-        85633051
+        85682309,
+        102191581,
+        404568281,
+        85633051,
+        1125986385,
+        102062967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,15 +130,19 @@
     "wof:geomhash":"dafafff9b90f2188a87348d68f04dab0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110577,
-            "neighbourhood_id":1394398019
+            "county_id":102062967,
+            "localadmin_id":404568281,
+            "locality_id":1125986385,
+            "neighbourhood_id":1394398019,
+            "region_id":85682309
         }
     ],
     "wof:id":1394398019,
-    "wof:lastmodified":1565242924,
+    "wof:lastmodified":1565442188,
     "wof:name":"Unterberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125986385,
     "wof:placetype":"neighbourhood",
     "wof:population":5,
     "wof:population_rank":1,

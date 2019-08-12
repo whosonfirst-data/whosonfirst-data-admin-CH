@@ -125,7 +125,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682361,
+        102191581,
+        404573297,
+        85633051,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -139,14 +143,18 @@
     "wof:geomhash":"8f15f000142c2b427da27a083ecedfb2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209035821
+            "county_id":102062819,
+            "localadmin_id":404573297,
+            "locality_id":1209035821,
+            "region_id":85682361
         }
     ],
     "wof:id":1209035821,
-    "wof:lastmodified":1565297334,
+    "wof:lastmodified":1565430634,
     "wof:name":"Kilchberg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404573297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

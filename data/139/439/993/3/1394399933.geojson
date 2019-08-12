@@ -39,8 +39,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        1209251431,
-        85633051
+        102191581,
+        85633051,
+        1125835999,
+        102062779,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +53,18 @@
     "wof:geomhash":"abdc0d83481fd95ff021322d6795fac3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209251431,
-            "neighbourhood_id":1394399933
+            "county_id":102062779,
+            "locality_id":1125835999,
+            "neighbourhood_id":1394399933,
+            "region_id":85682309
         }
     ],
     "wof:id":1394399933,
-    "wof:lastmodified":1565298990,
+    "wof:lastmodified":1565441403,
     "wof:name":"Au",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125835999,
     "wof:placetype":"neighbourhood",
     "wof:population":44,
     "wof:population_rank":1,

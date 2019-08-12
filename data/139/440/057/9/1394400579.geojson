@@ -29,8 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209450095,
-        85633051
+        85682381,
+        102191581,
+        404569097,
+        85633051,
+        101875989,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,19 @@
     "wof:geomhash":"edfdd9a7057b4275fd83c04bc65fa6c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209450095,
-            "neighbourhood_id":1394400579
+            "county_id":102063061,
+            "localadmin_id":404569097,
+            "locality_id":101875989,
+            "neighbourhood_id":1394400579,
+            "region_id":85682381
         }
     ],
     "wof:id":1394400579,
-    "wof:lastmodified":1565230673,
+    "wof:lastmodified":1565436996,
     "wof:name":"Oberzelg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101875989,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -89,7 +89,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682285,
+        102191581,
+        404328265,
+        85633051,
+        1394137109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +103,18 @@
     "wof:geomhash":"e611368ad70c2d73f0edf3501fa86b2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209349311
+            "county_id":1394137109,
+            "localadmin_id":404328265,
+            "locality_id":1209349311,
+            "region_id":85682285
         }
     ],
     "wof:id":1209349311,
-    "wof:lastmodified":1565297337,
+    "wof:lastmodified":1565430730,
     "wof:name":"Opfertshofen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328265,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

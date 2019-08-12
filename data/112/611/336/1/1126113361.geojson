@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404571245,
+        85633051,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"0ca8e1ddfa35019abdb8269bcec71de3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113361
+            "county_id":102062775,
+            "localadmin_id":404571245,
+            "locality_id":1126113361,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113361,
-    "wof:lastmodified":1505185717,
+    "wof:lastmodified":1565452969,
     "wof:name":"Im Lanzen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571245,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

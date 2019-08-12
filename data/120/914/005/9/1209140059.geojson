@@ -30,7 +30,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682269,
+        102191581,
+        404567723,
+        85633051,
+        102062957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +44,18 @@
     "wof:geomhash":"5a0fcb8b726636188ac845fd84789692",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209140059
+            "county_id":102062957,
+            "localadmin_id":404567723,
+            "locality_id":1209140059,
+            "region_id":85682269
         }
     ],
     "wof:id":1209140059,
-    "wof:lastmodified":1565230528,
+    "wof:lastmodified":1565430540,
     "wof:name":"Gheiba",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404567723,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

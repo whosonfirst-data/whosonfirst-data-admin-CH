@@ -45,7 +45,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682341,
+        102191581,
+        404569013,
+        85633051,
+        102062947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +59,18 @@
     "wof:geomhash":"83a050b08169e2696ec149ab569c9622",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209041543
+            "county_id":102062947,
+            "localadmin_id":404569013,
+            "locality_id":1209041543,
+            "region_id":85682341
         }
     ],
     "wof:id":1209041543,
-    "wof:lastmodified":1565139001,
+    "wof:lastmodified":1565430679,
     "wof:name":"Bichwil",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404569013,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

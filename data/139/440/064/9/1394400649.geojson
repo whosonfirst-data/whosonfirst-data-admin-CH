@@ -29,8 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209451537,
-        85633051
+        85682315,
+        102191581,
+        404328317,
+        85633051,
+        1394297941,
+        102062973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,19 @@
     "wof:geomhash":"23baa303c2f171945c3b683b0464e35d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209451537,
-            "neighbourhood_id":1394400649
+            "county_id":102062973,
+            "localadmin_id":404328317,
+            "locality_id":1394297941,
+            "neighbourhood_id":1394400649,
+            "region_id":85682315
         }
     ],
     "wof:id":1394400649,
-    "wof:lastmodified":1565230610,
+    "wof:lastmodified":1565434564,
     "wof:name":"Buoholz",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394297941,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

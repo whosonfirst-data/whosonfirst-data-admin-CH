@@ -39,8 +39,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209041041,
-        85633051
+        85682361,
+        102191581,
+        404570227,
+        85633051,
+        1125802543,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +54,19 @@
     "wof:geomhash":"a5cc69675fa1357de8288af49a04c04a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209041041,
-            "neighbourhood_id":1394398901
+            "county_id":102062819,
+            "localadmin_id":404570227,
+            "locality_id":1125802543,
+            "neighbourhood_id":1394398901,
+            "region_id":85682361
         }
     ],
     "wof:id":1394398901,
-    "wof:lastmodified":1565299160,
+    "wof:lastmodified":1565442253,
     "wof:name":"Reisen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125802543,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

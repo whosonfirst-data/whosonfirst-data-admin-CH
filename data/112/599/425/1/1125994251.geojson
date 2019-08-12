@@ -52,10 +52,11 @@
     "woe:name_adm1":"Kanton Appenzell Innerrhoden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        85633051,
         85682275,
-        102062849
+        102191581,
+        1394254205,
+        85633051,
+        1394237541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,15 +70,16 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062849,
+            "county_id":1394237541,
+            "localadmin_id":1394254205,
             "locality_id":1125994251,
             "region_id":85682275
         }
     ],
     "wof:id":1125994251,
-    "wof:lastmodified":1565139280,
+    "wof:lastmodified":1565458475,
     "wof:name":"Jakobsbad",
-    "wof:parent_id":102062849,
+    "wof:parent_id":1394254205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

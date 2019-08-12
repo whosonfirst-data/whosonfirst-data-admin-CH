@@ -34,9 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191581,
-        85633051,
         85682305,
+        102191581,
+        1394254231,
+        85633051,
         102062883
     ],
     "wof:breaches":[],
@@ -50,14 +51,15 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062883,
+            "localadmin_id":1394254231,
             "locality_id":1243103963,
             "region_id":85682305
         }
     ],
     "wof:id":1243103963,
-    "wof:lastmodified":1565230936,
+    "wof:lastmodified":1565464108,
     "wof:name":"AEbnet",
-    "wof:parent_id":102062883,
+    "wof:parent_id":1394254231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

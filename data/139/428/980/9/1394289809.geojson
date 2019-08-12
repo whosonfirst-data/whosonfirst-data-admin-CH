@@ -82,18 +82,33 @@
     "reversegeo:longitude":6.159888,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404567979,
+        85633051,
+        102063049
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404567979
     ],
     "wof:country":"CH",
     "wof:geomhash":"8dc3bc0670379976d0d5ed2a4052a8ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063049,
+            "localadmin_id":404567979,
+            "locality_id":1394289809,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394289809,
-    "wof:lastmodified":1565299291,
+    "wof:lastmodified":1565442879,
     "wof:name":"Arzier-Le Muids",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567979,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209345115,
-        85633051
+        85682305,
+        102191581,
+        404569443,
+        85633051,
+        1125875715,
+        102062927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"b4e556894d0f98d0d14303a7ae19e6c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209345115,
-            "neighbourhood_id":1394400013
+            "county_id":102062927,
+            "localadmin_id":404569443,
+            "locality_id":1125875715,
+            "neighbourhood_id":1394400013,
+            "region_id":85682305
         }
     ],
     "wof:id":1394400013,
-    "wof:lastmodified":1565230614,
+    "wof:lastmodified":1565434698,
     "wof:name":"Blattli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125875715,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

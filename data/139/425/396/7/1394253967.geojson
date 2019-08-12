@@ -120,18 +120,32 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682255,
+        1394137067
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"a637e4abbe3c52149482500d5681b073",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137067,
+            "localadmin_id":1394253967,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394253967,
-    "wof:lastmodified":1565298425,
+    "wof:lastmodified":1565581373,
     "wof:name":"Scuol",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394137067,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404567747,
         404567785,
         404567905,
@@ -139,7 +153,6 @@
         404568083,
         404568251
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

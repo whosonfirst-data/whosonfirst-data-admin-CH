@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        404567729,
+        85633051,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"c24eafd3c113aa71bcb4b11e6bccd2b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209249169
+            "county_id":102062759,
+            "localadmin_id":404567729,
+            "locality_id":1209249169,
+            "region_id":85682381
         }
     ],
     "wof:id":1209249169,
-    "wof:lastmodified":1565230525,
+    "wof:lastmodified":1565430397,
     "wof:name":"Im Ritt",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404567729,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

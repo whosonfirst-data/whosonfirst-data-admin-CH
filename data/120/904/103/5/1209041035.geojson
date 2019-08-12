@@ -45,7 +45,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682337,
+        102191581,
+        404569123,
+        85633051,
+        102062955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +59,18 @@
     "wof:geomhash":"9c99b2a96dbdceede431c2770d5d5a5e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209041035
+            "county_id":102062955,
+            "localadmin_id":404569123,
+            "locality_id":1209041035,
+            "region_id":85682337
         }
     ],
     "wof:id":1209041035,
-    "wof:lastmodified":1565139001,
+    "wof:lastmodified":1565430644,
     "wof:name":"Andhausen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404569123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        404571363,
+        85633051,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"1d1ecd9e580c1b46eb26b65fd836b9e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209350883
+            "county_id":102062861,
+            "localadmin_id":404571363,
+            "locality_id":1209350883,
+            "region_id":85682381
         }
     ],
     "wof:id":1209350883,
-    "wof:lastmodified":1565230529,
+    "wof:lastmodified":1565430600,
     "wof:name":"Schoenenbuehl",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404571363,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

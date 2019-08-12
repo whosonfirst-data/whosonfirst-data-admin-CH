@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        404572399,
+        85633051,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"db16bd8f40889e53891ffcdf52069560",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209449639
+            "county_id":102062837,
+            "localadmin_id":404572399,
+            "locality_id":1209449639,
+            "region_id":85682381
         }
     ],
     "wof:id":1209449639,
-    "wof:lastmodified":1565230534,
+    "wof:lastmodified":1565430875,
     "wof:name":"Schoenenbuchen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404572399,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

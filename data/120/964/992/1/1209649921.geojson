@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682305,
+        102191581,
+        1394254135,
+        85633051,
+        102062795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"5007d6a17e7b2570830f333d053fc275",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209649921
+            "county_id":102062795,
+            "localadmin_id":1394254135,
+            "locality_id":1209649921,
+            "region_id":85682305
         }
     ],
     "wof:id":1209649921,
-    "wof:lastmodified":1565230522,
+    "wof:lastmodified":1565430256,
     "wof:name":"Langen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394254135,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

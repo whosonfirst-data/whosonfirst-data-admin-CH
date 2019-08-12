@@ -51,18 +51,32 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682255,
+        102062773
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"15088ed5d4059248e46e668ab694c9fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062773,
+            "localadmin_id":1394254047,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394254047,
-    "wof:lastmodified":1565298497,
+    "wof:lastmodified":1565581906,
     "wof:name":"Lumnezia",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404567869,
         404568145,
         404568427,
@@ -72,7 +86,6 @@
         404571013,
         404571479
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

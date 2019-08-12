@@ -94,18 +94,33 @@
     "reversegeo:longitude":8.396285,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682329,
+        102191581,
+        404571085,
+        85633051,
+        102062809
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404571085
     ],
     "wof:country":"CH",
     "wof:geomhash":"880487c7ee62d8fc6c04ba2486a607ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062809,
+            "localadmin_id":404571085,
+            "locality_id":1394298029,
+            "region_id":85682329
+        }
+    ],
     "wof:id":1394298029,
-    "wof:lastmodified":1565299331,
+    "wof:lastmodified":1565443020,
     "wof:name":"Dietwil",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571085,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

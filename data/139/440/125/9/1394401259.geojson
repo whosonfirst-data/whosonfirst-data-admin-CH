@@ -30,8 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209651837,
-        85633051
+        85682269,
+        102191581,
+        404567849,
+        85633051,
+        101853831,
+        102062931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,19 @@
     "wof:geomhash":"93be5fd848cbe4ba9685dc3e906cba14",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209651837,
-            "neighbourhood_id":1394401259
+            "county_id":102062931,
+            "localadmin_id":404567849,
+            "locality_id":101853831,
+            "neighbourhood_id":1394401259,
+            "region_id":85682269
         }
     ],
     "wof:id":1394401259,
-    "wof:lastmodified":1565230691,
+    "wof:lastmodified":1565437714,
     "wof:name":"Ossasco",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101853831,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

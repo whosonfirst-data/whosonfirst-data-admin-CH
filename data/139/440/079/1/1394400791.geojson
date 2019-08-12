@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209549597,
-        85633051
+        85682341,
+        102191581,
+        404570527,
+        85633051,
+        1125912975,
+        102062855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"fb3342af015c018308a26a196df3103f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209549597,
-            "neighbourhood_id":1394400791
+            "county_id":102062855,
+            "localadmin_id":404570527,
+            "locality_id":1125912975,
+            "neighbourhood_id":1394400791,
+            "region_id":85682341
         }
     ],
     "wof:id":1394400791,
-    "wof:lastmodified":1565230586,
+    "wof:lastmodified":1565433601,
     "wof:name":"Grauen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125912975,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

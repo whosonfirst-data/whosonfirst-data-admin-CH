@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682305,
+        102191581,
+        1394254135,
+        85633051,
+        102062795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"03ba94400e47b7574bb47230a6787240",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113043
+            "county_id":102062795,
+            "localadmin_id":1394254135,
+            "locality_id":1126113043,
+            "region_id":85682305
         }
     ],
     "wof:id":1126113043,
-    "wof:lastmodified":1505185768,
+    "wof:lastmodified":1565453939,
     "wof:name":"wecare GmbH",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254135,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,

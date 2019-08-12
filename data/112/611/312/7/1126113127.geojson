@@ -5,6 +5,7 @@
     "edtf:cessation":"2017-05-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.49084,47.34975,8.49084,47.34975",
     "geom:latitude":47.34975,
     "geom:longitude":8.49084,
@@ -32,7 +33,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"quattroshapes_pg",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569273,
+        85633051,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +49,18 @@
     "wof:geomhash":"e6a4f1bb0322ddee6c352571a8b59cf0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113127
+            "county_id":102062775,
+            "localadmin_id":404569273,
+            "locality_id":1126113127,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113127,
-    "wof:lastmodified":1497470226,
+    "wof:lastmodified":1565453745,
     "wof:name":"Uetliberg (Kulm)",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569273,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

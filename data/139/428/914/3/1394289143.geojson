@@ -112,18 +112,33 @@
     "reversegeo:longitude":7.5375,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682361,
+        102191581,
+        404570045,
+        85633051,
+        102062971
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404570045
     ],
     "wof:country":"CH",
     "wof:geomhash":"1d2f4287320c15090f6dece06028f461",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062971,
+            "localadmin_id":404570045,
+            "locality_id":1394289143,
+            "region_id":85682361
+        }
+    ],
     "wof:id":1394289143,
-    "wof:lastmodified":1565299277,
+    "wof:lastmodified":1565442830,
     "wof:name":"Allschwil",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

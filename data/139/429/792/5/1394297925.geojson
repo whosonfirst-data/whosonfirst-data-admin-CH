@@ -25,15 +25,30 @@
     "reversegeo:longitude":8.998866,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682269,
+        102191581,
+        1394254171,
+        85633051,
+        102062767
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"ffdd4f75e9492ded616dfe72b6128f86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062767,
+            "localadmin_id":1394254171,
+            "locality_id":1394297925,
+            "region_id":85682269
+        }
+    ],
     "wof:id":1394297925,
-    "wof:lastmodified":1565139053,
+    "wof:lastmodified":1565581717,
     "wof:name":"Br\u00e8 sopra Lugano",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254171,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

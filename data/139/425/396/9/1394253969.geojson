@@ -72,24 +72,37 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682381,
+        102062861
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"a268318a493d5e5936b4d28f82e8b78f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":1394253969,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394253969,
-    "wof:lastmodified":1565298424,
+    "wof:lastmodified":1565581367,
     "wof:name":"Kirchdorf",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404570879,
         404571921,
         404572269,
         404572441
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

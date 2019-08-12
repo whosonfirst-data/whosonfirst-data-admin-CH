@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000989,
-    "geom:area_square_m":8287301.069798,
+    "geom:area_square_m":8287301.069797,
     "geom:bbox":"8.44672607422,47.3168286457,8.4896850586,47.3518496946",
     "geom:latitude":47.336145,
     "geom:longitude":8.467557,
@@ -69,7 +69,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
         85682309,
+        102191581,
+        404571821,
         85633051,
+        1394297985,
         102062775
     ],
     "wof:breaches":[],
@@ -82,8 +85,11 @@
     "wof:geomhash":"3f9947a303b2c3421bdd251734295f07",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062775,
+            "localadmin_id":404571821,
+            "locality_id":1394297985,
             "neighbourhood_id":85800629,
             "region_id":85682309
         }
@@ -92,9 +98,9 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1497308068,
+    "wof:lastmodified":1565428534,
     "wof:name":"Wettswil",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394297985,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

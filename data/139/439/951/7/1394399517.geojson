@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209142207,
-        85633051
+        85682269,
+        102191581,
+        404571565,
+        85633051,
+        1125898015,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"88ebffc57c1f7b70acf9c17e787cc1a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209142207,
-            "neighbourhood_id":1394399517
+            "county_id":102062767,
+            "localadmin_id":404571565,
+            "locality_id":1125898015,
+            "neighbourhood_id":1394399517,
+            "region_id":85682269
         }
     ],
     "wof:id":1394399517,
-    "wof:lastmodified":1565230763,
+    "wof:lastmodified":1565441479,
     "wof:name":"Bodeschee",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125898015,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

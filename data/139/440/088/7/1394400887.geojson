@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209552083,
-        85633051
+        85682381,
+        102191581,
+        404567765,
+        85633051,
+        101854175,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"e4f428f4ded75535e28d7e22c2145800",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209552083,
-            "neighbourhood_id":1394400887
+            "county_id":102062831,
+            "localadmin_id":404567765,
+            "locality_id":101854175,
+            "neighbourhood_id":1394400887,
+            "region_id":85682381
         }
     ],
     "wof:id":1394400887,
-    "wof:lastmodified":1565230660,
+    "wof:lastmodified":1565436505,
     "wof:name":"Gruebi",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854175,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

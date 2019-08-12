@@ -129,22 +129,35 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682341,
+        102062947
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"c37f63cd69e5bd1162b9f8fb602b46bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062947,
+            "localadmin_id":1394254055,
+            "region_id":85682341
+        }
+    ],
     "wof:id":1394254055,
-    "wof:lastmodified":1565298492,
+    "wof:lastmodified":1565581857,
     "wof:name":"Wil",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062947,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404569117,
         404570411
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

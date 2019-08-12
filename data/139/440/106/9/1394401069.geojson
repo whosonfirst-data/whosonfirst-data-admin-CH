@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209646775,
-        85633051
+        85682353,
+        102191581,
+        404328449,
+        85633051,
+        1327262819,
+        1394137085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"538c8c8e1f8221aa3c49b7d58f05a75f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209646775,
-            "neighbourhood_id":1394401069
+            "county_id":1394137085,
+            "localadmin_id":404328449,
+            "locality_id":1327262819,
+            "neighbourhood_id":1394401069,
+            "region_id":85682353
         }
     ],
     "wof:id":1394401069,
-    "wof:lastmodified":1565230645,
+    "wof:lastmodified":1565435901,
     "wof:name":"Altberg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1327262819,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

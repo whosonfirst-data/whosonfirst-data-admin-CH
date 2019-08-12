@@ -22,15 +22,26 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682309
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"3a780c41b956ba4898eea561e68cf732",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394212863,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394212863,
-    "wof:lastmodified":1565139038,
+    "wof:lastmodified":1565442736,
     "wof:name":"Zurich (unincorporated)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682309,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:statistical_gore":1,

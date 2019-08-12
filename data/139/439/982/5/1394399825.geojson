@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209249337,
-        85633051
+        85682381,
+        102191581,
+        404567765,
+        85633051,
+        1394297831,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"57b3391e135809070f39de09b5e2848e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209249337,
-            "neighbourhood_id":1394399825
+            "county_id":102062831,
+            "localadmin_id":404567765,
+            "locality_id":1394297831,
+            "neighbourhood_id":1394399825,
+            "region_id":85682381
         }
     ],
     "wof:id":1394399825,
-    "wof:lastmodified":1565230753,
+    "wof:lastmodified":1565441090,
     "wof:name":"Halte",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394297831,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

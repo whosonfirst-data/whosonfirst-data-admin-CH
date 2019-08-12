@@ -47,7 +47,10 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +63,17 @@
     "wof:geomhash":"72dd99ddc90fae9ed8149409ce586061",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125341795
+            "county_id":102062865,
+            "localadmin_id":1125341795,
+            "region_id":85682381
         }
     ],
     "wof:id":1125341795,
-    "wof:lastmodified":1505185773,
+    "wof:lastmodified":1565452500,
     "wof:name":"St.-Imier",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
     "wof:population":5101,
     "wof:population_rank":5,

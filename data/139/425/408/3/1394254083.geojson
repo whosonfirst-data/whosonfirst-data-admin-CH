@@ -99,23 +99,36 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682281,
+        102063023
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"68de2bdcb644e02198e725527e51b026",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063023,
+            "localadmin_id":1394254083,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394254083,
-    "wof:lastmodified":1565298454,
+    "wof:lastmodified":1565581607,
     "wof:name":"Naters",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063023,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404567797,
         404568119,
         404570993
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

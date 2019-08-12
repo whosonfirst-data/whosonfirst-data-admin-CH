@@ -42,24 +42,37 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682255,
+        102062903
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"cf8066624d45392d8cf91a6d0057bfd9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062903,
+            "localadmin_id":1394254093,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394254093,
-    "wof:lastmodified":1565298456,
+    "wof:lastmodified":1565581626,
     "wof:name":"Calanca",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404568773,
         404569617,
         404570621,
         404572153
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

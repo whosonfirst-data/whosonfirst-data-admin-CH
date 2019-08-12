@@ -30,8 +30,12 @@
         "state_id":2347097
     },
     "wof:belongsto":[
+        85682341,
+        102191581,
+        404568123,
         85633051,
-        85682341
+        101854255,
+        102062815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102553939,
+            "continent_id":102191581,
             "country_id":85633051,
+            "county_id":102062815,
+            "localadmin_id":404568123,
+            "locality_id":101854255,
+            "neighbourhood_id":-1,
             "region_id":85682341
         }
     ],
     "wof:id":102553939,
-    "wof:lastmodified":1565237612,
+    "wof:lastmodified":1565422235,
     "wof:name":"Flugplatz Schanis",
-    "wof:parent_id":85682341,
+    "wof:parent_id":101854255,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

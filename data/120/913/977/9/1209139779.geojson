@@ -74,7 +74,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682325,
+        102191581,
+        404568391,
+        85633051,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,14 +89,18 @@
     "wof:geomhash":"2f54e5eed898a3aa24e711ea9d7a289f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209139779
+            "county_id":102062969,
+            "localadmin_id":404568391,
+            "locality_id":1209139779,
+            "region_id":85682325
         }
     ],
     "wof:id":1209139779,
-    "wof:lastmodified":1565297329,
+    "wof:lastmodified":1565430474,
     "wof:name":"Seigneux",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

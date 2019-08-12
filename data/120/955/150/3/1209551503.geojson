@@ -92,7 +92,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682337,
+        102191581,
+        404569351,
+        85633051,
+        102062955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +106,18 @@
     "wof:geomhash":"84a299d1d21ade4b294fb918ff4e5e8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209551503
+            "county_id":102062955,
+            "localadmin_id":404569351,
+            "locality_id":1209551503,
+            "region_id":85682337
         }
     ],
     "wof:id":1209551503,
-    "wof:lastmodified":1565297320,
+    "wof:lastmodified":1565430289,
     "wof:name":"Leimbach",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404569351,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

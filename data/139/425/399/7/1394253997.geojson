@@ -51,22 +51,35 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682329,
+        102062993
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"f2700a3cfee9518b6b46951772958707",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062993,
+            "localadmin_id":1394253997,
+            "region_id":85682329
+        }
+    ],
     "wof:id":1394253997,
-    "wof:lastmodified":1565298427,
+    "wof:lastmodified":1565581405,
     "wof:name":"Schinznach",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404570057,
         404571985
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

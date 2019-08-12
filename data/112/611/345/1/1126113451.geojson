@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569275,
+        85633051,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"733f406ab22b7b0b323ac67798a38c78",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113451
+            "county_id":102062779,
+            "localadmin_id":404569275,
+            "locality_id":1126113451,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113451,
-    "wof:lastmodified":1505185750,
+    "wof:lastmodified":1565454639,
     "wof:name":"Lindeng\u00fcetli",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569275,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

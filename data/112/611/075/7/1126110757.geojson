@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568373,
+        85633051,
+        102062967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"fabd7f225dfab06bbeeaf8bea6d257e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110757
+            "county_id":102062967,
+            "localadmin_id":404568373,
+            "locality_id":1126110757,
+            "region_id":85682309
         }
     ],
     "wof:id":1126110757,
-    "wof:lastmodified":1505185734,
+    "wof:lastmodified":1565454216,
     "wof:name":"Alpenblick",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568373,
     "wof:placetype":"locality",
     "wof:population":9,
     "wof:population_rank":1,

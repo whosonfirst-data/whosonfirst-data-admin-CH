@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682301,
+        102191581,
+        404573137,
+        85633051,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"f7137c4050f0e5226367e8ffe12bce54",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209140341
+            "county_id":102062999,
+            "localadmin_id":404573137,
+            "locality_id":1209140341,
+            "region_id":85682301
         }
     ],
     "wof:id":1209140341,
-    "wof:lastmodified":1565230528,
+    "wof:lastmodified":1565430536,
     "wof:name":"Les Clos",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404573137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

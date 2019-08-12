@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682341,
+        102062771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"1af4054e9339ad3c685cdb036eff7c12",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209348667
+            "county_id":102062771,
+            "locality_id":1209348667,
+            "region_id":85682341
         }
     ],
     "wof:id":1209348667,
-    "wof:lastmodified":1565230532,
+    "wof:lastmodified":1565430737,
     "wof:name":"Sibenbruennen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":102062771,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

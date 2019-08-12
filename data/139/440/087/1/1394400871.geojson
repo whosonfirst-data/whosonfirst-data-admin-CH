@@ -84,8 +84,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209551953,
-        85633051
+        85682325,
+        102191581,
+        404568131,
+        85633051,
+        1125873599,
+        102063021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,15 +99,19 @@
     "wof:geomhash":"7d892dadcce44f8004f0e415b89371de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209551953,
-            "neighbourhood_id":1394400871
+            "county_id":102063021,
+            "localadmin_id":404568131,
+            "locality_id":1125873599,
+            "neighbourhood_id":1394400871,
+            "region_id":85682325
         }
     ],
     "wof:id":1394400871,
-    "wof:lastmodified":1565298038,
+    "wof:lastmodified":1565436145,
     "wof:name":"Montet",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125873599,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

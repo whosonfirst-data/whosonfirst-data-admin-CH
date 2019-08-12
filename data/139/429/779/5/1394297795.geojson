@@ -25,15 +25,30 @@
     "reversegeo:longitude":7.381116,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404568177,
+        85633051,
+        102062861
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"6b220a38b28e71ab9d0555c51e97412a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":404568177,
+            "locality_id":1394297795,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394297795,
-    "wof:lastmodified":1565139051,
+    "wof:lastmodified":1565443084,
     "wof:name":"Hinterkappelen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568177,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

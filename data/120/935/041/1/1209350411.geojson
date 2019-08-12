@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682337,
+        102191581,
+        404568383,
+        85633051,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"a30e919d54f4459308d5da89d9ddca26",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209350411
+            "county_id":102062953,
+            "localadmin_id":404568383,
+            "locality_id":1209350411,
+            "region_id":85682337
         }
     ],
     "wof:id":1209350411,
-    "wof:lastmodified":1565230529,
+    "wof:lastmodified":1565430588,
     "wof:name":"Breitewiese",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

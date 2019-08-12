@@ -94,15 +94,30 @@
     "reversegeo:longitude":9.222412,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682337,
+        102191581,
+        404570253,
+        85633051,
+        102062955
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"ede1a4c0b2813835e3fa6678d6a9e4fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062955,
+            "localadmin_id":404570253,
+            "locality_id":1394296343,
+            "region_id":85682337
+        }
+    ],
     "wof:id":1394296343,
-    "wof:lastmodified":1565299323,
+    "wof:lastmodified":1565442994,
     "wof:name":"Hohentannen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -25,15 +25,30 @@
     "reversegeo:longitude":8.794262,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        404569157,
+        85633051,
+        102062779
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"58c757d7bb14a79593cc2b064b641896",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062779,
+            "localadmin_id":404569157,
+            "locality_id":1394297867,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394297867,
-    "wof:lastmodified":1565139057,
+    "wof:lastmodified":1565443262,
     "wof:name":"Neschwil",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

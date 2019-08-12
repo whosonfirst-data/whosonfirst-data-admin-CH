@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682305,
+        102191581,
+        404569961,
+        85633051,
+        102062887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"7ccf18c140d19f9b813532f93f1393fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209348773
+            "county_id":102062887,
+            "localadmin_id":404569961,
+            "locality_id":1209348773,
+            "region_id":85682305
         }
     ],
     "wof:id":1209348773,
-    "wof:lastmodified":1565230532,
+    "wof:lastmodified":1565430774,
     "wof:name":"Ledimatt",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404569961,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

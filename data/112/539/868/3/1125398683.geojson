@@ -47,7 +47,10 @@
     "woe:name_adm1":"Kanton Appenzell Innerrhoden",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682275,
+        1394237541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +63,17 @@
     "wof:geomhash":"6a47f4762c4c0c02e57c710eba695821",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125398683
+            "county_id":1394237541,
+            "localadmin_id":1125398683,
+            "region_id":85682275
         }
     ],
     "wof:id":1125398683,
-    "wof:lastmodified":1505185770,
+    "wof:lastmodified":1565458429,
     "wof:name":"Gonten",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394237541,
     "wof:placetype":"localadmin",
     "wof:population":1442,
     "wof:population_rank":3,

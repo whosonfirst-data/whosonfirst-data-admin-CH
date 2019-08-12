@@ -119,7 +119,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404570427,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,14 +136,18 @@
     "wof:geomhash":"0df1a1822583ee14ed5d119a9c37fa6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111727
+            "county_id":102063055,
+            "localadmin_id":404570427,
+            "locality_id":1126111727,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111727,
-    "wof:lastmodified":1565230830,
+    "wof:lastmodified":1565453785,
     "wof:name":"R\u00fcti",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570427,
     "wof:placetype":"locality",
     "wof:population":1,
     "wof:population_rank":1,

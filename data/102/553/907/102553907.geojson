@@ -36,8 +36,12 @@
         "state_id":2347083
     },
     "wof:belongsto":[
+        85682329,
+        102191581,
+        404571439,
         85633051,
-        85682329
+        1125770941,
+        102062809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +55,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102553907,
+            "continent_id":102191581,
             "country_id":85633051,
+            "county_id":102062809,
+            "localadmin_id":404571439,
+            "locality_id":1125770941,
+            "neighbourhood_id":-1,
             "region_id":85682329
         }
     ],
     "wof:id":102553907,
-    "wof:lastmodified":1565237610,
+    "wof:lastmodified":1565422234,
     "wof:name":"Flugplatz Buttwil",
-    "wof:parent_id":85682329,
+    "wof:parent_id":1125770941,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

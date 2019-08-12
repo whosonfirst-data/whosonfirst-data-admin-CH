@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682325,
+        102191581,
+        404571373,
+        85633051,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"6931ab1348199808156253ddb1ba6473",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209140363
+            "county_id":102062969,
+            "localadmin_id":404571373,
+            "locality_id":1209140363,
+            "region_id":85682325
         }
     ],
     "wof:id":1209140363,
-    "wof:lastmodified":1565230527,
+    "wof:lastmodified":1565430512,
     "wof:name":"Pacoton",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404571373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

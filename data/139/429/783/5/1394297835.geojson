@@ -46,15 +46,30 @@
     "reversegeo:longitude":9.072649,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682249,
+        102191581,
+        404328109,
+        85633051,
+        102063003
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"33f2b5c33d6884b2e5f5e7f3ff8d109a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063003,
+            "localadmin_id":404328109,
+            "locality_id":1394297835,
+            "region_id":85682249
+        }
+    ],
     "wof:id":1394297835,
-    "wof:lastmodified":1565299347,
+    "wof:lastmodified":1565443072,
     "wof:name":"Haslen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

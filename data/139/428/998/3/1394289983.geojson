@@ -34,15 +34,30 @@
     "reversegeo:longitude":8.93684,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682337,
+        102191581,
+        404573537,
+        85633051,
+        102062981
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"179b9899fed2b55ea02720f5b7a76252",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062981,
+            "localadmin_id":404573537,
+            "locality_id":1394289983,
+            "region_id":85682337
+        }
+    ],
     "wof:id":1394289983,
-    "wof:lastmodified":1565299256,
+    "wof:lastmodified":1565442765,
     "wof:name":"Balterswil",
-    "wof:parent_id":-1,
+    "wof:parent_id":404573537,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

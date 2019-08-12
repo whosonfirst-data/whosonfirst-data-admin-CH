@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209650415,
-        85633051
+        85682381,
+        102191581,
+        404571639,
+        85633051,
+        101854075,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"23aebd313fc809830ec19d75b2659040",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209650415,
-            "neighbourhood_id":1394401195
+            "county_id":102062861,
+            "localadmin_id":404571639,
+            "locality_id":101854075,
+            "neighbourhood_id":1394401195,
+            "region_id":85682381
         }
     ],
     "wof:id":1394401195,
-    "wof:lastmodified":1565230629,
+    "wof:lastmodified":1565435291,
     "wof:name":"Rohrmoos",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854075,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -25,15 +25,30 @@
     "reversegeo:longitude":10.370397,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        404567715,
+        85633051,
+        1394137067
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"4d6c07cf093339c20d201967e4fc86b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137067,
+            "localadmin_id":404567715,
+            "locality_id":1394287351,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394287351,
-    "wof:lastmodified":1565139042,
+    "wof:lastmodified":1565442837,
     "wof:name":"Sta. Maria Val M\u00fcstair",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -61,15 +61,30 @@
     "reversegeo:longitude":6.850222,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682301,
+        102191581,
+        404571101,
+        85633051,
+        102062945
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"9a74b5c03036ea34d24eb8745020a910",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062945,
+            "localadmin_id":404571101,
+            "locality_id":1394347719,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394347719,
-    "wof:lastmodified":1565299515,
+    "wof:lastmodified":1565443735,
     "wof:name":"Lully",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

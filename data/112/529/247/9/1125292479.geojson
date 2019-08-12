@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682255,
+        102062881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"8149b75af68bddaddd04d74353f74c29",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125292479
+            "county_id":102062881,
+            "localadmin_id":1125292479,
+            "region_id":85682255
         }
     ],
     "wof:id":1125292479,
-    "wof:lastmodified":1505247989,
+    "wof:lastmodified":1565457311,
     "wof:name":"Mastrils",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062881,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

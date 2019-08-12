@@ -29,8 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209251297,
-        85633051
+        85682329,
+        102191581,
+        404570613,
+        85633051,
+        101854369,
+        102062841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,19 @@
     "wof:geomhash":"a514ac51ed78de44bea7cb24dbe0adb1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209251297,
-            "neighbourhood_id":1394399927
+            "county_id":102062841,
+            "localadmin_id":404570613,
+            "locality_id":101854369,
+            "neighbourhood_id":1394399927,
+            "region_id":85682329
         }
     ],
     "wof:id":1394399927,
-    "wof:lastmodified":1565230758,
+    "wof:lastmodified":1565441281,
     "wof:name":"Beznau",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854369,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -98,7 +98,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682325,
+        102191581,
+        404571269,
+        85633051,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,14 +116,18 @@
     "wof:geomhash":"b1c019fcfb8a462e7f45d020d2c08ae2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209035945
+            "county_id":102062969,
+            "localadmin_id":404571269,
+            "locality_id":1209035945,
+            "region_id":85682325
         }
     ],
     "wof:id":1209035945,
-    "wof:lastmodified":1565297333,
+    "wof:lastmodified":1565430618,
     "wof:name":"Curtilles",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404571269,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

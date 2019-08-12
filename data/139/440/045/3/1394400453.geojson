@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209446439,
-        85633051
+        85682341,
+        102191581,
+        404568255,
+        85633051,
+        1126035589,
+        102062847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"5f7e32c5385d6578f6fc42cf53de0569",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209446439,
-            "neighbourhood_id":1394400453
+            "county_id":102062847,
+            "localadmin_id":404568255,
+            "locality_id":1126035589,
+            "neighbourhood_id":1394400453,
+            "region_id":85682341
         }
     ],
     "wof:id":1394400453,
-    "wof:lastmodified":1565230651,
+    "wof:lastmodified":1565436124,
     "wof:name":"Moelbach",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126035589,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

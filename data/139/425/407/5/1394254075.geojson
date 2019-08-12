@@ -96,15 +96,28 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682275,
+        1394237541
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"7e3133a41df5d39a7747383359bd695a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394237541,
+            "localadmin_id":1394254075,
+            "region_id":85682275
+        }
+    ],
     "wof:id":1394254075,
-    "wof:lastmodified":1565298459,
+    "wof:lastmodified":1565438287,
     "wof:name":"R\u00fcte",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394237541,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209649935,
-        85633051
+        85682301,
+        102191581,
+        404569083,
+        85633051,
+        1394297897,
+        102063025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"fe6788bd107ae6a7dfabeca59cecc67e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209649935,
-            "neighbourhood_id":1394401169
+            "county_id":102063025,
+            "localadmin_id":404569083,
+            "locality_id":1394297897,
+            "neighbourhood_id":1394401169,
+            "region_id":85682301
         }
     ],
     "wof:id":1394401169,
-    "wof:lastmodified":1565230620,
+    "wof:lastmodified":1565434946,
     "wof:name":"Sapaley",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394297897,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

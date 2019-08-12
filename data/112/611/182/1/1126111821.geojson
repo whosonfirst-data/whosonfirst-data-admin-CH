@@ -233,7 +233,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569139,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -246,14 +250,18 @@
     "wof:geomhash":"7fb77388cda718af63a2586708a5b102",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111821
+            "county_id":102063055,
+            "localadmin_id":404569139,
+            "locality_id":1126111821,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111821,
-    "wof:lastmodified":1565230831,
+    "wof:lastmodified":1565454740,
     "wof:name":"Tobel",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569139,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

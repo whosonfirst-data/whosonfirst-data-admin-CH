@@ -54,27 +54,40 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682329,
+        102062993
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         1226777989
     ],
     "wof:country":"CH",
     "wof:geomhash":"e3f16df0d0f89363f70dfafc78957f22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062993,
+            "localadmin_id":1394254191,
+            "region_id":85682329
+        }
+    ],
     "wof:id":1394254191,
-    "wof:lastmodified":1565298466,
+    "wof:lastmodified":1565581677,
     "wof:name":"B\u00f6zberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404570885,
         404571113,
         404572339,
         404573347
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

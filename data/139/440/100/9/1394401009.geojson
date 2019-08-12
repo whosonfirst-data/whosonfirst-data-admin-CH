@@ -30,8 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209646133,
-        85633051
+        85682337,
+        102191581,
+        404568269,
+        85633051,
+        1209448967,
+        102062981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,19 @@
     "wof:geomhash":"88ab70b4da5e29dd9edca4ced33bf439",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209646133,
-            "neighbourhood_id":1394401009
+            "county_id":102062981,
+            "localadmin_id":404568269,
+            "locality_id":1209448967,
+            "neighbourhood_id":1394401009,
+            "region_id":85682337
         }
     ],
     "wof:id":1394401009,
-    "wof:lastmodified":1565230639,
+    "wof:lastmodified":1565435672,
     "wof:name":"Tannegg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1209448967,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

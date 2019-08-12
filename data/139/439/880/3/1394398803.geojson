@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209035697,
-        85633051
+        85682319,
+        102191581,
+        404328187,
+        85633051,
+        1226373853,
+        1394137073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"3c2772654b6aa5f0d496958e1e7aac6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209035697,
-            "neighbourhood_id":1394398803
+            "county_id":1394137073,
+            "localadmin_id":404328187,
+            "locality_id":1226373853,
+            "neighbourhood_id":1394398803,
+            "region_id":85682319
         }
     ],
     "wof:id":1394398803,
-    "wof:lastmodified":1565230732,
+    "wof:lastmodified":1565440263,
     "wof:name":"Oberstaegplatz",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1226373853,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

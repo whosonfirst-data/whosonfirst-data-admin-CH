@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404571153,
+        85633051,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"ae4b02b3082d2afa4d3cb4f2ac75281b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113505
+            "county_id":102062893,
+            "localadmin_id":404571153,
+            "locality_id":1126113505,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113505,
-    "wof:lastmodified":1505185766,
+    "wof:lastmodified":1565453916,
     "wof:name":"Schl\u00fcechti",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571153,
     "wof:placetype":"locality",
     "wof:population":7,
     "wof:population_rank":1,

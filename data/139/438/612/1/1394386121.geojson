@@ -85,15 +85,30 @@
     "reversegeo:longitude":6.990622,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682301,
+        102191581,
+        1394254183,
+        85633051,
+        102062945
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"c6075075dcbdf2b4c9c02069dbf50fb4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062945,
+            "localadmin_id":1394254183,
+            "locality_id":1394386121,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394386121,
-    "wof:lastmodified":1565299248,
+    "wof:lastmodified":1565581831,
     "wof:name":"Dompierre",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

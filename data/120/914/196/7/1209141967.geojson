@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682341,
+        102191581,
+        404568073,
+        85633051,
+        102062771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"c9bc8ec4ee9c755f44e911516b6ab29a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209141967
+            "county_id":102062771,
+            "localadmin_id":404568073,
+            "locality_id":1209141967,
+            "region_id":85682341
         }
     ],
     "wof:id":1209141967,
-    "wof:lastmodified":1565230527,
+    "wof:lastmodified":1565430520,
     "wof:name":"Schwendi",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

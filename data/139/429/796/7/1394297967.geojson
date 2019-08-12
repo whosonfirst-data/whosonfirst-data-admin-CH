@@ -28,15 +28,30 @@
     "reversegeo:longitude":7.032647,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682301,
+        102191581,
+        404568309,
+        85633051,
+        102062999
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"bfff4bf3b3a29ed91e4c59203f05399a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062999,
+            "localadmin_id":404568309,
+            "locality_id":1394297967,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394297967,
-    "wof:lastmodified":1565299309,
+    "wof:lastmodified":1565442943,
     "wof:name":"Mol\u00e9son-sur-Gruy\u00e8res",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568309,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

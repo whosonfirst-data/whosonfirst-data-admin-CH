@@ -29,8 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209248367,
-        85633051
+        85682325,
+        102191581,
+        404573145,
+        85633051,
+        1126016947,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,19 @@
     "wof:geomhash":"26327238a6ac2101bc1d6c6edd5a37d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209248367,
-            "neighbourhood_id":1394399731
+            "county_id":102063049,
+            "localadmin_id":404573145,
+            "locality_id":1126016947,
+            "neighbourhood_id":1394399731,
+            "region_id":85682325
         }
     ],
     "wof:id":1394399731,
-    "wof:lastmodified":1565230786,
+    "wof:lastmodified":1565442400,
     "wof:name":"Crassy",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126016947,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

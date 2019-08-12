@@ -25,15 +25,30 @@
     "reversegeo:longitude":8.987232,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682337,
+        102191581,
+        404570125,
+        85633051,
+        102062981
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"ddc2609b820e628c2c96cf21fe11a168",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062981,
+            "localadmin_id":404570125,
+            "locality_id":1394298069,
+            "region_id":85682337
+        }
+    ],
     "wof:id":1394298069,
-    "wof:lastmodified":1565139056,
+    "wof:lastmodified":1565443231,
     "wof:name":"Weingarten-Kalth\u00e4usern",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

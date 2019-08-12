@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569747,
+        85633051,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"1ea5b1e0c0bc080d3d9d5a00cbc9790b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112047
+            "county_id":102062801,
+            "localadmin_id":404569747,
+            "locality_id":1126112047,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112047,
-    "wof:lastmodified":1505185718,
+    "wof:lastmodified":1565453486,
     "wof:name":"Neugr\u00fct",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569747,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

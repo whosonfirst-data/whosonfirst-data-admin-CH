@@ -30,7 +30,10 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,17 @@
     "wof:geomhash":"c2f53305d37d308bd296730890683783",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209136955
+            "county_id":102063061,
+            "locality_id":1209136955,
+            "region_id":85682381
         }
     ],
     "wof:id":1209136955,
-    "wof:lastmodified":1565230526,
+    "wof:lastmodified":1565430470,
     "wof:name":"Hohlinde",
-    "wof:parent_id":85633051,
+    "wof:parent_id":102063061,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

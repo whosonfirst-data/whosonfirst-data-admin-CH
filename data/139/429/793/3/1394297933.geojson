@@ -25,15 +25,30 @@
     "reversegeo:longitude":9.724424,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        1394254185,
+        85633051,
+        102062803
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"0ac3f0e30065500871d198c3d41cbdab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062803,
+            "localadmin_id":1394254185,
+            "locality_id":1394297933,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394297933,
-    "wof:lastmodified":1565139051,
+    "wof:lastmodified":1565581837,
     "wof:name":"Buchen im Pr\u00e4ttigau",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

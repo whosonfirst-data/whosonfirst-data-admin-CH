@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682269,
+        102062991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"c705735a4d3bbe2af8a0a82189587629",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209348611
+            "county_id":102062991,
+            "locality_id":1209348611,
+            "region_id":85682269
         }
     ],
     "wof:id":1209348611,
-    "wof:lastmodified":1565230532,
+    "wof:lastmodified":1565430744,
     "wof:name":"Monti Moneda",
-    "wof:parent_id":85633051,
+    "wof:parent_id":102062991,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

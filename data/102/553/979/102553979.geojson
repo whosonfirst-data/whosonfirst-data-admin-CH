@@ -33,8 +33,12 @@
         "state_id":2347090
     },
     "wof:belongsto":[
+        85682249,
+        102191581,
+        404328111,
         85633051,
-        85682249
+        1125913507,
+        102063003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102553979,
+            "continent_id":102191581,
             "country_id":85633051,
+            "county_id":102063003,
+            "localadmin_id":404328111,
+            "locality_id":1125913507,
+            "neighbourhood_id":-1,
             "region_id":85682249
         }
     ],
     "wof:id":102553979,
-    "wof:lastmodified":1565237615,
+    "wof:lastmodified":1565422238,
     "wof:name":"Flugplatz Mollis",
-    "wof:parent_id":85682249,
+    "wof:parent_id":1125913507,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

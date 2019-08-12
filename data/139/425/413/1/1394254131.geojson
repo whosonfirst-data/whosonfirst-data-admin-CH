@@ -99,22 +99,35 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682309,
+        102062779
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"71dfe8bf57e2327f0fb05016a98a917a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062779,
+            "localadmin_id":1394254131,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394254131,
-    "wof:lastmodified":1565298438,
+    "wof:lastmodified":1565581493,
     "wof:name":"Bauma",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062779,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404568575,
         404570109
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

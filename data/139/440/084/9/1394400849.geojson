@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209550649,
-        85633051
+        85682269,
+        102191581,
+        404571403,
+        85633051,
+        1125820839,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"997b0c91a0c71389ae023a9a9e296749",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209550649,
-            "neighbourhood_id":1394400849
+            "county_id":102062767,
+            "localadmin_id":404571403,
+            "locality_id":1125820839,
+            "neighbourhood_id":1394400849,
+            "region_id":85682269
         }
     ],
     "wof:id":1394400849,
-    "wof:lastmodified":1565230589,
+    "wof:lastmodified":1565433739,
     "wof:name":"Sovaglia",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125820839,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

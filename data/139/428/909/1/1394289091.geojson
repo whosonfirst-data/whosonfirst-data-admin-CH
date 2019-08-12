@@ -79,15 +79,30 @@
     "reversegeo:longitude":7.696422,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682281,
+        102191581,
+        1394253979,
+        85633051,
+        102062761
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"21e575fe6a1cf0856fc9de734eb64b1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062761,
+            "localadmin_id":1394253979,
+            "locality_id":1394289091,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394289091,
-    "wof:lastmodified":1565299252,
+    "wof:lastmodified":1565581424,
     "wof:name":"Erschmatt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394253979,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

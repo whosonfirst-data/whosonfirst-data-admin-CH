@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682337,
+        102191581,
+        404568269,
+        85633051,
+        102062981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"adaceb2e19af2c7734183bf7bcc9fbc5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209646069
+            "county_id":102062981,
+            "localadmin_id":404568269,
+            "locality_id":1209646069,
+            "region_id":85682337
         }
     ],
     "wof:id":1209646069,
-    "wof:lastmodified":1565230522,
+    "wof:lastmodified":1565430277,
     "wof:name":"Allenwinden",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568269,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

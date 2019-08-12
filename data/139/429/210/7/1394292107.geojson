@@ -25,15 +25,30 @@
     "reversegeo:longitude":8.609781,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682269,
+        102191581,
+        404567987,
+        85633051,
+        102062975
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"4c70ca0a3bf8a19d649d903b93be889b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062975,
+            "localadmin_id":404567987,
+            "locality_id":1394292107,
+            "region_id":85682269
+        }
+    ],
     "wof:id":1394292107,
-    "wof:lastmodified":1565139047,
+    "wof:lastmodified":1565442982,
     "wof:name":"Camedo",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567987,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

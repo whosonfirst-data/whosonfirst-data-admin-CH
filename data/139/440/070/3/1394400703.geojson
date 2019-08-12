@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209546101,
-        85633051
+        85682305,
+        102191581,
+        1394254135,
+        85633051,
+        1225880813,
+        102062795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"4397a2cc5e9aea3a2603bc6c168e8017",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209546101,
-            "neighbourhood_id":1394400703
+            "county_id":102062795,
+            "localadmin_id":1394254135,
+            "locality_id":1225880813,
+            "neighbourhood_id":1394400703,
+            "region_id":85682305
         }
     ],
     "wof:id":1394400703,
-    "wof:lastmodified":1565230590,
+    "wof:lastmodified":1565433749,
     "wof:name":"In den Baechen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1225880813,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -69,8 +69,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209348413,
-        85633051
+        85682381,
+        102191581,
+        404567843,
+        85633051,
+        1126049759,
+        102062821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,15 +84,19 @@
     "wof:geomhash":"95851133ed489d72ed64f75718e7de14",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209348413,
-            "neighbourhood_id":1394400113
+            "county_id":102062821,
+            "localadmin_id":404567843,
+            "locality_id":1126049759,
+            "neighbourhood_id":1394400113,
+            "region_id":85682381
         }
     ],
     "wof:id":1394400113,
-    "wof:lastmodified":1565298069,
+    "wof:lastmodified":1565436321,
     "wof:name":"Moos",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126049759,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

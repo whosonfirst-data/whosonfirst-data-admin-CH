@@ -25,15 +25,30 @@
     "reversegeo:longitude":7.212829,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        1175611191,
+        85633051,
+        102062861
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"1e7c2034406e663ebd36f9bb0cacffca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":1175611191,
+            "locality_id":1394297879,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394297879,
-    "wof:lastmodified":1565139058,
+    "wof:lastmodified":1565443272,
     "wof:name":"Biberen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175611191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

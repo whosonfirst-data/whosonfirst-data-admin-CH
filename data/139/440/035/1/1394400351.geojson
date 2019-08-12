@@ -30,8 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209445359,
-        85633051
+        85682381,
+        102191581,
+        404569691,
+        85633051,
+        1394298105,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,19 @@
     "wof:geomhash":"8f2b664837aab91355845233959e968d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209445359,
-            "neighbourhood_id":1394400351
+            "county_id":102062861,
+            "localadmin_id":404569691,
+            "locality_id":1394298105,
+            "neighbourhood_id":1394400351,
+            "region_id":85682381
         }
     ],
     "wof:id":1394400351,
-    "wof:lastmodified":1565230669,
+    "wof:lastmodified":1565436846,
     "wof:name":"Haemlismatt",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394298105,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

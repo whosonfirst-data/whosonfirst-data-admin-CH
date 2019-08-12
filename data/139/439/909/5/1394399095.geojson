@@ -29,8 +29,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209043573,
-        85633051
+        85682359,
+        102191581,
+        1394254113,
+        85633051,
+        1125944261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +43,18 @@
     "wof:geomhash":"51c47eeee453c2cf00ac1b38add57baa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209043573,
-            "neighbourhood_id":1394399095
+            "localadmin_id":1394254113,
+            "locality_id":1125944261,
+            "neighbourhood_id":1394399095,
+            "region_id":85682359
         }
     ],
     "wof:id":1394399095,
-    "wof:lastmodified":1565230718,
+    "wof:lastmodified":1565581776,
     "wof:name":"Le Bied",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125944261,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209551417,
-        85633051
+        85682337,
+        102191581,
+        404568431,
+        85633051,
+        1125909035,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"f48b312a5166c388fb2dd1f0ec7dd9e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209551417,
-            "neighbourhood_id":1394400853
+            "county_id":102062869,
+            "localadmin_id":404568431,
+            "locality_id":1125909035,
+            "neighbourhood_id":1394400853,
+            "region_id":85682337
         }
     ],
     "wof:id":1394400853,
-    "wof:lastmodified":1565230595,
+    "wof:lastmodified":1565433975,
     "wof:name":"Geisshaus",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125909035,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

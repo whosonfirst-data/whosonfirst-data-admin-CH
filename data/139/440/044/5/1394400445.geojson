@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209446371,
-        85633051
+        85682255,
+        102191581,
+        1394254033,
+        85633051,
+        1125808783,
+        102062773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"2792548fd650409f3c9726ca006f9f7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209446371,
-            "neighbourhood_id":1394400445
+            "county_id":102062773,
+            "localadmin_id":1394254033,
+            "locality_id":1125808783,
+            "neighbourhood_id":1394400445,
+            "region_id":85682255
         }
     ],
     "wof:id":1394400445,
-    "wof:lastmodified":1565230660,
+    "wof:lastmodified":1565581894,
     "wof:name":"Innerpeil",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125808783,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

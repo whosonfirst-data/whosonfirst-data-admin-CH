@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682255,
+        102062803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"8258d2f0ebc70889de620369d0f51eb5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125306329
+            "county_id":102062803,
+            "localadmin_id":1125306329,
+            "region_id":85682255
         }
     ],
     "wof:id":1125306329,
-    "wof:lastmodified":1505248012,
+    "wof:lastmodified":1565458398,
     "wof:name":"Fanas",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062803,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

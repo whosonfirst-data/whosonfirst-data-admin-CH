@@ -96,7 +96,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682301,
+        102191581,
+        1394254193,
+        85633051,
+        102062945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,14 +110,18 @@
     "wof:geomhash":"d3f5ccccea551dac1c6e4a07ddf2e229",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209042921
+            "county_id":102062945,
+            "localadmin_id":1394254193,
+            "locality_id":1209042921,
+            "region_id":85682301
         }
     ],
     "wof:id":1209042921,
-    "wof:lastmodified":1565297335,
+    "wof:lastmodified":1565581682,
     "wof:name":"Bussy",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394254193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

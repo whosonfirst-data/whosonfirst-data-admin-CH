@@ -76,18 +76,33 @@
     "reversegeo:longitude":6.435918,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404570531,
+        85633051,
+        102062873
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404570531
     ],
     "wof:country":"CH",
     "wof:geomhash":"aa90779e5394ff609fbb27fc5879a9cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062873,
+            "localadmin_id":404570531,
+            "locality_id":1394286853,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394286853,
-    "wof:lastmodified":1565299283,
+    "wof:lastmodified":1565442848,
     "wof:name":"Cuarnens",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570531,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

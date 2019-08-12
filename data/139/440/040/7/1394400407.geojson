@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209445851,
-        85633051
+        85682381,
+        102191581,
+        404567921,
+        85633051,
+        101854145,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"1abfbdc22118d6db1b28dfa9fcd1ee19",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209445851,
-            "neighbourhood_id":1394400407
+            "county_id":102062837,
+            "localadmin_id":404567921,
+            "locality_id":101854145,
+            "neighbourhood_id":1394400407,
+            "region_id":85682381
         }
     ],
     "wof:id":1394400407,
-    "wof:lastmodified":1565230597,
+    "wof:lastmodified":1565434047,
     "wof:name":"Grossacker",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854145,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

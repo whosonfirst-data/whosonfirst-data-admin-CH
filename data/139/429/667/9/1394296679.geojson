@@ -25,15 +25,30 @@
     "reversegeo:longitude":9.548103,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        404568091,
+        85633051,
+        102062885
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"9f7a926748d4b05d7e727794dfca56fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062885,
+            "localadmin_id":404568091,
+            "locality_id":1394296679,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394296679,
-    "wof:lastmodified":1565139048,
+    "wof:lastmodified":1565443016,
     "wof:name":"Lenzerheide/Lai",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209244315,
-        85633051
+        85682301,
+        102191581,
+        404569765,
+        85633051,
+        1126004833,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"dfc38087d4c2c87db80cdbb4c8dc52fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209244315,
-            "neighbourhood_id":1394399711
+            "county_id":102062999,
+            "localadmin_id":404569765,
+            "locality_id":1126004833,
+            "neighbourhood_id":1394399711,
+            "region_id":85682301
         }
     ],
     "wof:id":1394399711,
-    "wof:lastmodified":1565230752,
+    "wof:lastmodified":1565441059,
     "wof:name":"Le Laquier",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126004833,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

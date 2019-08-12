@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404570887,
+        85633051,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"351583da7aa56ed7353c323a797c79e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111107
+            "county_id":102062769,
+            "localadmin_id":404570887,
+            "locality_id":1126111107,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111107,
-    "wof:lastmodified":1505185746,
+    "wof:lastmodified":1565453849,
     "wof:name":"Buacher",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570887,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,

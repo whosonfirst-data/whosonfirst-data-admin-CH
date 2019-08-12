@@ -94,15 +94,30 @@
     "reversegeo:longitude":9.050779,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682337,
+        102191581,
+        404570725,
+        85633051,
+        102062953
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"9ffd8f329f73c65e9fe0b745d68087ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062953,
+            "localadmin_id":404570725,
+            "locality_id":1394297845,
+            "region_id":85682337
+        }
+    ],
     "wof:id":1394297845,
-    "wof:lastmodified":1565299354,
+    "wof:lastmodified":1565443079,
     "wof:name":"Salenstein",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

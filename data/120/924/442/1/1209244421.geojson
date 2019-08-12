@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682319,
+        102191581,
+        404328363,
+        85633051,
+        1394137081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"2da064415f204b6bb4b8b01ad4ffd978",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209244421
+            "county_id":1394137081,
+            "localadmin_id":404328363,
+            "locality_id":1209244421,
+            "region_id":85682319
         }
     ],
     "wof:id":1209244421,
-    "wof:lastmodified":1565230524,
+    "wof:lastmodified":1565430392,
     "wof:name":"Herrendingen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328363,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

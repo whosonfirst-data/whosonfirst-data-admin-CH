@@ -94,18 +94,33 @@
     "reversegeo:longitude":9.313142,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682337,
+        102191581,
+        404570891,
+        85633051,
+        102062959
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404570891
     ],
     "wof:country":"CH",
     "wof:geomhash":"2806510370c8e7a8d8a8c07823a4e1de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062959,
+            "localadmin_id":404570891,
+            "locality_id":1394297849,
+            "region_id":85682337
+        }
+    ],
     "wof:id":1394297849,
-    "wof:lastmodified":1565299352,
+    "wof:lastmodified":1565443074,
     "wof:name":"Hefenhofen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

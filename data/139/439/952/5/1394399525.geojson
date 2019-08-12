@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209142245,
-        85633051
+        85682377,
+        102191581,
+        404328193,
+        85633051,
+        1125937677,
+        102062879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"8b6f00818b48c3c62fd5006df273b698",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209142245,
-            "neighbourhood_id":1394399525
+            "county_id":102062879,
+            "localadmin_id":404328193,
+            "locality_id":1125937677,
+            "neighbourhood_id":1394399525,
+            "region_id":85682377
         }
     ],
     "wof:id":1394399525,
-    "wof:lastmodified":1565230727,
+    "wof:lastmodified":1565440073,
     "wof:name":"Chaemleten",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125937677,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

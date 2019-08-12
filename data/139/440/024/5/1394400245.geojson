@@ -31,8 +31,12 @@
     "mz:is_funky":1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209350679,
-        85633051
+        85682319,
+        102191581,
+        404328271,
+        85633051,
+        1125918597,
+        1394137077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,19 @@
     "wof:geomhash":"de212ac6cb64ea018680b0ae912c3e2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209350679,
-            "neighbourhood_id":1394400245
+            "county_id":1394137077,
+            "localadmin_id":404328271,
+            "locality_id":1125918597,
+            "neighbourhood_id":1394400245,
+            "region_id":85682319
         }
     ],
     "wof:id":1394400245,
-    "wof:lastmodified":1565230582,
+    "wof:lastmodified":1565433446,
     "wof:name":"Staetebach",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125918597,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

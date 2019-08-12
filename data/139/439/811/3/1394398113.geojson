@@ -46,8 +46,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1126112055,
-        85633051
+        85682309,
+        102191581,
+        404569713,
+        85633051,
+        1126051093,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,15 +64,19 @@
     "wof:geomhash":"63ffef92e27ceab774ec09db52769599",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112055,
-            "neighbourhood_id":1394398113
+            "county_id":102062801,
+            "localadmin_id":404569713,
+            "locality_id":1126051093,
+            "neighbourhood_id":1394398113,
+            "region_id":85682309
         }
     ],
     "wof:id":1394398113,
-    "wof:lastmodified":1565241932,
+    "wof:lastmodified":1565440215,
     "wof:name":"Waldegg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1126051093,
     "wof:placetype":"neighbourhood",
     "wof:population":3,
     "wof:population_rank":1,

@@ -33,8 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209651247,
-        85633051
+        102191581,
+        85633051,
+        1125801695,
+        102062999,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +47,18 @@
     "wof:geomhash":"13c8dec4b5bd7f35a5cac12677c32e8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209651247,
-            "neighbourhood_id":1394401235
+            "county_id":102062999,
+            "locality_id":1125801695,
+            "neighbourhood_id":1394401235,
+            "region_id":85682301
         }
     ],
     "wof:id":1394401235,
-    "wof:lastmodified":1565230685,
+    "wof:lastmodified":1565437453,
     "wof:name":"La Quartenouda",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125801695,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

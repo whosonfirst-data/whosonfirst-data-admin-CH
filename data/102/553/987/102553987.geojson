@@ -33,9 +33,11 @@
         "state_id":2347087
     },
     "wof:belongsto":[
+        85682381,
+        102191581,
+        404567863,
         85633051,
         101854083,
-        85682381,
         102062821
     ],
     "wof:breaches":[],
@@ -50,14 +52,17 @@
     "wof:hierarchy":[
         {
             "campus_id":102553987,
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062821,
+            "localadmin_id":404567863,
             "locality_id":101854083,
+            "neighbourhood_id":-1,
             "region_id":85682381
         }
     ],
     "wof:id":102553987,
-    "wof:lastmodified":1565237622,
+    "wof:lastmodified":1565422245,
     "wof:name":"Flugplatz Zweisimmen",
     "wof:parent_id":101854083,
     "wof:placetype":"campus",

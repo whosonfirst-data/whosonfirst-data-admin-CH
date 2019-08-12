@@ -80,8 +80,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209350677,
-        85633051
+        85682337,
+        102191581,
+        404568733,
+        85633051,
+        1276374085,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,15 +95,19 @@
     "wof:geomhash":"f205a665eabbcda526d4c10488a38cdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209350677,
-            "neighbourhood_id":1394400239
+            "county_id":102062869,
+            "localadmin_id":404568733,
+            "locality_id":1276374085,
+            "neighbourhood_id":1394400239,
+            "region_id":85682337
         }
     ],
     "wof:id":1394400239,
-    "wof:lastmodified":1565297577,
+    "wof:lastmodified":1565433494,
     "wof:name":"Helfenberg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1276374085,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

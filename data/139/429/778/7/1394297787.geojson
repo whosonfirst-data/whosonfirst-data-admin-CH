@@ -34,15 +34,30 @@
     "reversegeo:longitude":7.239727,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682347,
+        102191581,
+        404568263,
+        85633051,
+        102063059
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"ae4f1a9533ab08efd0c702a199d78785",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063059,
+            "localadmin_id":404568263,
+            "locality_id":1394297787,
+            "region_id":85682347
+        }
+    ],
     "wof:id":1394297787,
-    "wof:lastmodified":1565299337,
+    "wof:lastmodified":1565443044,
     "wof:name":"Lucelle",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568263,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

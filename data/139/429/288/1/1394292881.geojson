@@ -34,15 +34,30 @@
     "reversegeo:longitude":8.663548,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        404568915,
+        85633051,
+        102063055
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"85d6f75087a3c3c8d6cfa8f11b22f565",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063055,
+            "localadmin_id":404568915,
+            "locality_id":1394292881,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394292881,
-    "wof:lastmodified":1565299320,
+    "wof:lastmodified":1565442988,
     "wof:name":"H\u00fcnikon",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568915,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

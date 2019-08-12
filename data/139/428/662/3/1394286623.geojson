@@ -25,15 +25,30 @@
     "reversegeo:longitude":8.722136,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682269,
+        102191581,
+        404568781,
+        85633051,
+        102062931
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"e49ee8ba93c1a6ab1cc097e575eeff0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062931,
+            "localadmin_id":404568781,
+            "locality_id":1394286623,
+            "region_id":85682269
+        }
+    ],
     "wof:id":1394286623,
-    "wof:lastmodified":1565139043,
+    "wof:lastmodified":1565442856,
     "wof:name":"Rodi-Fiesso",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568781,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -30,8 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209249853,
-        85633051
+        85682381,
+        102191581,
+        404568949,
+        85633051,
+        1225880953,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,19 @@
     "wof:geomhash":"d8f5c15561d1a964d11bf4420a863c51",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209249853,
-            "neighbourhood_id":1394399859
+            "county_id":102062909,
+            "localadmin_id":404568949,
+            "locality_id":1225880953,
+            "neighbourhood_id":1394399859,
+            "region_id":85682381
         }
     ],
     "wof:id":1394399859,
-    "wof:lastmodified":1565230753,
+    "wof:lastmodified":1565441066,
     "wof:name":"Ostermanigen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1225880953,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569659,
+        85633051,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"b451e5e6b0e7a2de8583dcccfa333cca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111991
+            "county_id":102062775,
+            "localadmin_id":404569659,
+            "locality_id":1126111991,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111991,
-    "wof:lastmodified":1505185715,
+    "wof:lastmodified":1565454017,
     "wof:name":"Feldhof",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569659,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

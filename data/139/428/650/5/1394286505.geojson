@@ -100,18 +100,33 @@
     "reversegeo:longitude":9.03527,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682337,
+        102191581,
+        404568967,
+        85633051,
+        102062955
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404568967
     ],
     "wof:country":"CH",
     "wof:geomhash":"2eb92e0b8313dbc8b15bcc0bba092457",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062955,
+            "localadmin_id":404568967,
+            "locality_id":1394286505,
+            "region_id":85682337
+        }
+    ],
     "wof:id":1394286505,
-    "wof:lastmodified":1565299266,
+    "wof:lastmodified":1565442796,
     "wof:name":"Amlikon-Bissegg",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

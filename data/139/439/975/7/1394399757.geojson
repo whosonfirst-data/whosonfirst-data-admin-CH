@@ -31,8 +31,12 @@
     "mz:is_funky":1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209248809,
-        85633051
+        85682381,
+        102191581,
+        404567911,
+        85633051,
+        1343894097,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,19 @@
     "wof:geomhash":"fa753b9e0d1ffaa261e2c844ffb75026",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209248809,
-            "neighbourhood_id":1394399757
+            "county_id":102062837,
+            "localadmin_id":404567911,
+            "locality_id":1343894097,
+            "neighbourhood_id":1394399757,
+            "region_id":85682381
         }
     ],
     "wof:id":1394399757,
-    "wof:lastmodified":1565230793,
+    "wof:lastmodified":1565442651,
     "wof:name":"Neuenschwand",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1343894097,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

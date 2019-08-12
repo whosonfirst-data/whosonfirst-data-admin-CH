@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":26267983.69598,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.573141,47.315599,8.573141,47.315599",
     "geom:latitude":47.315599,
     "geom:longitude":8.573141,
@@ -61,11 +61,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85682309,
         102191581,
         404568929,
         85633051,
-        102062769,
-        85682309
+        1125823787,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +82,7 @@
             "country_id":85633051,
             "county_id":102062769,
             "localadmin_id":404568929,
-            "locality_id":-1,
+            "locality_id":1125823787,
             "neighbourhood_id":85862433,
             "region_id":85682309
         }
@@ -90,9 +91,9 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531870597,
+    "wof:lastmodified":1565428583,
     "wof:name":"Rumensee",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125823787,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

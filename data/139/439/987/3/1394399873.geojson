@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209250627,
-        85633051
+        85682381,
+        102191581,
+        404571805,
+        85633051,
+        1293726441,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"687ff28f6737c616b1863c28d99b2c48",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209250627,
-            "neighbourhood_id":1394399873
+            "county_id":102063013,
+            "localadmin_id":404571805,
+            "locality_id":1293726441,
+            "neighbourhood_id":1394399873,
+            "region_id":85682381
         }
     ],
     "wof:id":1394399873,
-    "wof:lastmodified":1565230786,
+    "wof:lastmodified":1565442396,
     "wof:name":"Cholrueti",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1293726441,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

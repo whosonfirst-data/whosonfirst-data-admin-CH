@@ -86,8 +86,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209351155,
-        85633051
+        85682305,
+        102191581,
+        1394254231,
+        85633051,
+        1125973903,
+        102062883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,15 +101,19 @@
     "wof:geomhash":"6094ae51486b059cb2b165642da656bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209351155,
-            "neighbourhood_id":1394400313
+            "county_id":102062883,
+            "localadmin_id":1394254231,
+            "locality_id":1125973903,
+            "neighbourhood_id":1394400313,
+            "region_id":85682305
         }
     ],
     "wof:id":1394400313,
-    "wof:lastmodified":1565297728,
+    "wof:lastmodified":1565434406,
     "wof:name":"Forst",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125973903,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

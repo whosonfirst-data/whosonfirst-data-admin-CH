@@ -37,7 +37,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,17 @@
     "wof:geomhash":"34b2fc62465f778ae6923a7d472fa37e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111225
+            "county_id":102062779,
+            "locality_id":1126111225,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111225,
-    "wof:lastmodified":1505185750,
+    "wof:lastmodified":1565454688,
     "wof:name":"Untere H\u00f6fe / Gr\u00fcthof",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062779,
     "wof:placetype":"locality",
     "wof:population":7,
     "wof:population_rank":1,

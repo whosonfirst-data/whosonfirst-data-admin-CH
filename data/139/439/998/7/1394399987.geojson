@@ -30,8 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209344871,
-        85633051
+        85682381,
+        102191581,
+        404567907,
+        85633051,
+        1125851497,
+        102062821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,19 @@
     "wof:geomhash":"8a63a99c116b20d54aae1ad165605038",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209344871,
-            "neighbourhood_id":1394399987
+            "county_id":102062821,
+            "localadmin_id":404567907,
+            "locality_id":1125851497,
+            "neighbourhood_id":1394399987,
+            "region_id":85682381
         }
     ],
     "wof:id":1394399987,
-    "wof:lastmodified":1565230721,
+    "wof:lastmodified":1565439849,
     "wof:name":"Huesere",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125851497,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

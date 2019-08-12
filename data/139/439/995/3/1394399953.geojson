@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209251537,
-        85633051
+        85682337,
+        102191581,
+        404568383,
+        85633051,
+        1276263223,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"e856b8ddd04da841cebb6cbc0cf8d827",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209251537,
-            "neighbourhood_id":1394399953
+            "county_id":102062953,
+            "localadmin_id":404568383,
+            "locality_id":1276263223,
+            "neighbourhood_id":1394399953,
+            "region_id":85682337
         }
     ],
     "wof:id":1394399953,
-    "wof:lastmodified":1565230757,
+    "wof:lastmodified":1565441249,
     "wof:name":"Weihermoos",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1276263223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

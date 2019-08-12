@@ -114,23 +114,34 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682309,
+        102062779
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"266849272f15d309b7252963116576ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062779,
+            "localadmin_id":1394254029,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394254029,
-    "wof:lastmodified":1565298493,
+    "wof:lastmodified":1565581869,
     "wof:name":"Illnau-Effretikon",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062779,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404568371,
         404570407
-    ],
-    "wof:supersedes":[
-        101854433
     ],
     "wof:tags":[]
 },

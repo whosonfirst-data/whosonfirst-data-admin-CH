@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568875,
+        85633051,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"01972734bd4e708c7e334570c79ba8cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111055
+            "county_id":102062769,
+            "localadmin_id":404568875,
+            "locality_id":1126111055,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111055,
-    "wof:lastmodified":1505185743,
+    "wof:lastmodified":1565453063,
     "wof:name":"Grosswis",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568875,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

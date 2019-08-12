@@ -76,15 +76,30 @@
     "reversegeo:longitude":9.039363,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682249,
+        102191581,
+        404328119,
+        85633051,
+        102063003
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"6ec5d19c803e366cd278de4c79e61bb4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063003,
+            "localadmin_id":404328119,
+            "locality_id":1394297861,
+            "region_id":85682249
+        }
+    ],
     "wof:id":1394297861,
-    "wof:lastmodified":1565299409,
+    "wof:lastmodified":1565443263,
     "wof:name":"Riedern",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

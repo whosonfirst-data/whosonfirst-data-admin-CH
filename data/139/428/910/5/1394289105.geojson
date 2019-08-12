@@ -25,15 +25,30 @@
     "reversegeo:longitude":9.044122,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682269,
+        102191581,
+        1394254171,
+        85633051,
+        102062767
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"281906aa8138ea4693d051a75c4d2d44",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062767,
+            "localadmin_id":1394254171,
+            "locality_id":1394289105,
+            "region_id":85682269
+        }
+    ],
     "wof:id":1394289105,
-    "wof:lastmodified":1565139044,
+    "wof:lastmodified":1565581717,
     "wof:name":"Piandera Paese",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254171,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

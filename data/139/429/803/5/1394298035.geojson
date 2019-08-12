@@ -64,15 +64,30 @@
     "reversegeo:longitude":7.41448,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404567863,
+        85633051,
+        102062821
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"f5577ec53b804ce109a9f5af342fcf01",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062821,
+            "localadmin_id":404567863,
+            "locality_id":1394298035,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394298035,
-    "wof:lastmodified":1565299328,
+    "wof:lastmodified":1565443010,
     "wof:name":"Blankenburg",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

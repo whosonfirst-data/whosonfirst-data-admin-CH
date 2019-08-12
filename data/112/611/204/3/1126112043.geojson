@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569747,
+        85633051,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"2e7ce10be0fa502e7b5f38231c4e5079",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112043
+            "county_id":102062801,
+            "localadmin_id":404569747,
+            "locality_id":1126112043,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112043,
-    "wof:lastmodified":1505185718,
+    "wof:lastmodified":1565453490,
     "wof:name":"Langenz\u00fcni",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569747,
     "wof:placetype":"locality",
     "wof:population":1,
     "wof:population_rank":1,

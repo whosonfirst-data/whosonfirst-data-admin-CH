@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209344929,
-        85633051
+        85682337,
+        102191581,
+        404572391,
+        85633051,
+        1125801107,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"22fa18e9c848a3bb8eaa7cf13533f484",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209344929,
-            "neighbourhood_id":1394399993
+            "county_id":102062953,
+            "localadmin_id":404572391,
+            "locality_id":1125801107,
+            "neighbourhood_id":1394399993,
+            "region_id":85682337
         }
     ],
     "wof:id":1394399993,
-    "wof:lastmodified":1565230727,
+    "wof:lastmodified":1565440078,
     "wof:name":"Rueti",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125801107,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

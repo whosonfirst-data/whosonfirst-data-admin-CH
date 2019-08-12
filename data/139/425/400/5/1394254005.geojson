@@ -84,23 +84,36 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682381,
+        102062909
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"4ed00314d3baffea4a3fe79e404c1758",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062909,
+            "localadmin_id":1394254005,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394254005,
-    "wof:lastmodified":1565298465,
+    "wof:lastmodified":1565581672,
     "wof:name":"Rapperswil",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404568691,
         404573061,
         404573071
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

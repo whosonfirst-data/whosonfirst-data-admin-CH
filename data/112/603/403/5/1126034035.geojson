@@ -124,10 +124,11 @@
     "woe:name_adm1":"Kanton Appenzell Innerrhoden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        85633051,
         85682275,
-        102062913
+        102191581,
+        1394254075,
+        85633051,
+        1394237541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,15 +144,16 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062913,
+            "county_id":1394237541,
+            "localadmin_id":1394254075,
             "locality_id":1126034035,
             "region_id":85682275
         }
     ],
     "wof:id":1126034035,
-    "wof:lastmodified":1565231732,
+    "wof:lastmodified":1565455550,
     "wof:name":"R\u00fcte",
-    "wof:parent_id":102062913,
+    "wof:parent_id":1394254075,
     "wof:placetype":"locality",
     "wof:population":3525,
     "wof:population_rank":4,

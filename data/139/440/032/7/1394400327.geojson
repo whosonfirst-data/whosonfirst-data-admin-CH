@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209351245,
-        85633051
+        85682319,
+        102191581,
+        404328323,
+        85633051,
+        101854041,
+        1394137073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"103be9da29a43976c650b53e20453968",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209351245,
-            "neighbourhood_id":1394400327
+            "county_id":1394137073,
+            "localadmin_id":404328323,
+            "locality_id":101854041,
+            "neighbourhood_id":1394400327,
+            "region_id":85682319
         }
     ],
     "wof:id":1394400327,
-    "wof:lastmodified":1565230668,
+    "wof:lastmodified":1565436794,
     "wof:name":"Loechli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854041,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

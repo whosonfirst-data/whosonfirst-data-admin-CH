@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209649201,
-        85633051
+        85682381,
+        102191581,
+        404567867,
+        85633051,
+        101854133,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"d233bb550c026812d305864aab605b82",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209649201,
-            "neighbourhood_id":1394401081
+            "county_id":102062831,
+            "localadmin_id":404567867,
+            "locality_id":101854133,
+            "neighbourhood_id":1394401081,
+            "region_id":85682381
         }
     ],
     "wof:id":1394401081,
-    "wof:lastmodified":1565230647,
+    "wof:lastmodified":1565435994,
     "wof:name":"Sattla",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854133,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

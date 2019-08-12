@@ -45,18 +45,32 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682255,
+        102062773
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"df83bc64c35874c3050c98c94ea59eb1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062773,
+            "localadmin_id":1394254103,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394254103,
-    "wof:lastmodified":1565298475,
+    "wof:lastmodified":1565581751,
     "wof:name":"Ilanz/Glion",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404568707,
         404568709,
         404568845,
@@ -71,7 +85,6 @@
         1175611157,
         1175611233
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

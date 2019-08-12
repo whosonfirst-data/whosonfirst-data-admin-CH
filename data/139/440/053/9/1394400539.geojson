@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209449125,
-        85633051
+        85682337,
+        102191581,
+        404571601,
+        85633051,
+        1125910151,
+        102062959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"eada07956a83d70ea872f49ced03cf5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209449125,
-            "neighbourhood_id":1394400539
+            "county_id":102062959,
+            "localadmin_id":404571601,
+            "locality_id":1125910151,
+            "neighbourhood_id":1394400539,
+            "region_id":85682337
         }
     ],
     "wof:id":1394400539,
-    "wof:lastmodified":1565230602,
+    "wof:lastmodified":1565434247,
     "wof:name":"Scheidweg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125910151,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

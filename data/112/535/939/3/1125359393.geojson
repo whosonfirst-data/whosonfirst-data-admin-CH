@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102062833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"ce46fe834b05f5e4dad49fe16e3bc6b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125359393
+            "county_id":102062833,
+            "localadmin_id":1125359393,
+            "region_id":85682325
         }
     ],
     "wof:id":1125359393,
-    "wof:lastmodified":1505248103,
+    "wof:lastmodified":1565452796,
     "wof:name":"La Tour-de-Peilz",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062833,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

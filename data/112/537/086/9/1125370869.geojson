@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Basel-Land",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682361,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"a91b06710eca4d6bef22eedabba031ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125370869
+            "county_id":102062819,
+            "localadmin_id":1125370869,
+            "region_id":85682361
         }
     ],
     "wof:id":1125370869,
-    "wof:lastmodified":1505248118,
+    "wof:lastmodified":1565458376,
     "wof:name":"Rickenbach",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062819,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -91,18 +91,33 @@
     "reversegeo:longitude":9.167882,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682341,
+        102191581,
+        404568039,
+        85633051,
+        102062815
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404568039
     ],
     "wof:country":"CH",
     "wof:geomhash":"d444e2718b1cf9a8e388960781931f29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062815,
+            "localadmin_id":404568039,
+            "locality_id":1394289647,
+            "region_id":85682341
+        }
+    ],
     "wof:id":1394289647,
-    "wof:lastmodified":1565299261,
+    "wof:lastmodified":1565442779,
     "wof:name":"Amden",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

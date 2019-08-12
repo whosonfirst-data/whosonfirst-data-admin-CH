@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682315,
+        102191581,
+        404328333,
+        85633051,
+        102062973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"d9f89dafaa2fbc77c573db1b8c711207",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209249113
+            "county_id":102062973,
+            "localadmin_id":404328333,
+            "locality_id":1209249113,
+            "region_id":85682315
         }
     ],
     "wof:id":1209249113,
-    "wof:lastmodified":1565230525,
+    "wof:lastmodified":1565430397,
     "wof:name":"Hinter Husmatt",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

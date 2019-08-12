@@ -21,15 +21,28 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682301,
+        102063029
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"5f0e80d92a11dade07144ec4c199c6f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063029,
+            "localadmin_id":1394254115,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394254115,
-    "wof:lastmodified":1565139028,
+    "wof:lastmodified":1565438413,
     "wof:name":"Gibloux",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -25,18 +25,33 @@
     "reversegeo:longitude":9.574807,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682353,
+        102191581,
+        404328919,
+        85633051,
+        1394137103
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404328919
     ],
     "wof:country":"CH",
     "wof:geomhash":"9b353cf1af4e7d0b018035272f44d9ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137103,
+            "localadmin_id":404328919,
+            "locality_id":1394298059,
+            "region_id":85682353
+        }
+    ],
     "wof:id":1394298059,
-    "wof:lastmodified":1565228163,
+    "wof:lastmodified":1565443027,
     "wof:name":"Lutzenberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

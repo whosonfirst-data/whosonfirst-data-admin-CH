@@ -28,15 +28,30 @@
     "reversegeo:longitude":7.403398,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682281,
+        102191581,
+        404567953,
+        85633051,
+        102062985
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"1e9c73546874500830033d59d91d005d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062985,
+            "localadmin_id":404567953,
+            "locality_id":1394298129,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394298129,
-    "wof:lastmodified":1565139053,
+    "wof:lastmodified":1565443155,
     "wof:name":"Sign\u00e8se",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567953,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

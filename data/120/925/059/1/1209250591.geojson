@@ -98,7 +98,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682347,
+        102191581,
+        404572003,
+        85633051,
+        102062791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,14 +113,18 @@
     "wof:geomhash":"7a570d2b275272e6226f621cc0e201cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209250591
+            "county_id":102062791,
+            "localadmin_id":404572003,
+            "locality_id":1209250591,
+            "region_id":85682347
         }
     ],
     "wof:id":1209250591,
-    "wof:lastmodified":1565297328,
+    "wof:lastmodified":1565430451,
     "wof:name":"Ederswiler",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404572003,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

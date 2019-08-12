@@ -25,15 +25,30 @@
     "reversegeo:longitude":8.083637,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682329,
+        102191581,
+        404569227,
+        85633051,
+        102062989
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"01043e217b19508caeef8805e1e7fcd8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062989,
+            "localadmin_id":404569227,
+            "locality_id":1394289103,
+            "region_id":85682329
+        }
+    ],
     "wof:id":1394289103,
-    "wof:lastmodified":1565139044,
+    "wof:lastmodified":1565442887,
     "wof:name":"Aarau Rohr",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

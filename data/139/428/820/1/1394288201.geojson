@@ -115,15 +115,30 @@
     "reversegeo:longitude":7.06351,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682301,
+        102191581,
+        404570963,
+        85633051,
+        102063029
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"812202c095a589a22791738d26ed5809",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063029,
+            "localadmin_id":404570963,
+            "locality_id":1394288201,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394288201,
-    "wof:lastmodified":1565299261,
+    "wof:lastmodified":1565442780,
     "wof:name":"Ros\u00e9",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

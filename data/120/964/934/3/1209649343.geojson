@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"8db0ad439252750b64b5f009f0fae374",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209649343
+            "county_id":102062801,
+            "locality_id":1209649343,
+            "region_id":85682309
         }
     ],
     "wof:id":1209649343,
-    "wof:lastmodified":1565230522,
+    "wof:lastmodified":1565430268,
     "wof:name":"Unterbuch",
-    "wof:parent_id":85633051,
+    "wof:parent_id":102062801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

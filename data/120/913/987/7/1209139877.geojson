@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682353,
+        102191581,
+        404328553,
+        85633051,
+        1394137103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"ac10ed6bb45b3d21f9729c06070ce089",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209139877
+            "county_id":1394137103,
+            "localadmin_id":404328553,
+            "locality_id":1209139877,
+            "region_id":85682353
         }
     ],
     "wof:id":1209139877,
-    "wof:lastmodified":1565230526,
+    "wof:lastmodified":1565430490,
     "wof:name":"Buehel",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

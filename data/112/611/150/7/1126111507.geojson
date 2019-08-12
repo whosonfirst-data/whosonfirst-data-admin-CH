@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"693699482bc82c3e968473ba99be9539",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111507
+            "county_id":102063055,
+            "locality_id":1126111507,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111507,
-    "wof:lastmodified":1505185758,
+    "wof:lastmodified":1565453010,
     "wof:name":"Neuhof",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063055,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

@@ -76,18 +76,33 @@
     "reversegeo:longitude":6.603716,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404573033,
+        85633051,
+        102062813
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404573033
     ],
     "wof:country":"CH",
     "wof:geomhash":"dce885d75e2b50b1a46dc1c8fe8f029e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062813,
+            "localadmin_id":404573033,
+            "locality_id":1394298139,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394298139,
-    "wof:lastmodified":1565299385,
+    "wof:lastmodified":1565443180,
     "wof:name":"Valeyres-sous-Montagny",
-    "wof:parent_id":-1,
+    "wof:parent_id":404573033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682329,
+        102191581,
+        404570737,
+        85633051,
+        102062841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"030c791bf97ab29b08c4a0b754290310",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209448919
+            "county_id":102062841,
+            "localadmin_id":404570737,
+            "locality_id":1209448919,
+            "region_id":85682329
         }
     ],
     "wof:id":1209448919,
-    "wof:lastmodified":1565230535,
+    "wof:lastmodified":1565430904,
     "wof:name":"Barz",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404570737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

@@ -30,7 +30,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682281,
+        102191581,
+        404567871,
+        85633051,
+        102062827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +44,18 @@
     "wof:geomhash":"cb868e025f01353819ff8f43579add95",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209139633
+            "county_id":102062827,
+            "localadmin_id":404567871,
+            "locality_id":1209139633,
+            "region_id":85682281
         }
     ],
     "wof:id":1209139633,
-    "wof:lastmodified":1565230526,
+    "wof:lastmodified":1565430463,
     "wof:name":"Granois (Saviese)",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404567871,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

@@ -133,18 +133,33 @@
     "reversegeo:longitude":8.50899,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        404570023,
+        85633051,
+        102063019
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404570023
     ],
     "wof:country":"CH",
     "wof:geomhash":"38b1d165acf43ae2572671a2c5533445",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063019,
+            "localadmin_id":404570023,
+            "locality_id":1394386123,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394386123,
-    "wof:lastmodified":1565299249,
+    "wof:lastmodified":1565442694,
     "wof:name":"Wil",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570023,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

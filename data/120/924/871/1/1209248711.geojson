@@ -113,7 +113,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        404572289,
+        85633051,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -127,14 +131,18 @@
     "wof:geomhash":"13bc9c3a06a872042922349ff1000300",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209248711
+            "county_id":102062837,
+            "localadmin_id":404572289,
+            "locality_id":1209248711,
+            "region_id":85682381
         }
     ],
     "wof:id":1209248711,
-    "wof:lastmodified":1565297327,
+    "wof:lastmodified":1565430392,
     "wof:name":"H\u00f6chstetten",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404572289,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

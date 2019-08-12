@@ -30,7 +30,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        404568395,
+        85633051,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +44,18 @@
     "wof:geomhash":"716f0321b82606da6671b1e952b7419d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209345567
+            "county_id":102062861,
+            "localadmin_id":404568395,
+            "locality_id":1209345567,
+            "region_id":85682381
         }
     ],
     "wof:id":1209345567,
-    "wof:lastmodified":1565230532,
+    "wof:lastmodified":1565430728,
     "wof:name":"Sinneringen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

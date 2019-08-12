@@ -45,7 +45,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682329,
+        102191581,
+        404568591,
+        85633051,
+        102062809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +59,18 @@
     "wof:geomhash":"f9f87c4635c41db16e51db7bd5b81f7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209041231
+            "county_id":102062809,
+            "localadmin_id":404568591,
+            "locality_id":1209041231,
+            "region_id":85682329
         }
     ],
     "wof:id":1209041231,
-    "wof:lastmodified":1565139001,
+    "wof:lastmodified":1565430702,
     "wof:name":"Fenkrieden",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568591,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102062829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"11841f23f1788eafef42ae4c87e8aa13",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125276091
+            "county_id":102062829,
+            "localadmin_id":1125276091,
+            "region_id":85682325
         }
     ],
     "wof:id":1125276091,
-    "wof:lastmodified":1505247958,
+    "wof:lastmodified":1565457292,
     "wof:name":"St.-Sulpice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062829,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

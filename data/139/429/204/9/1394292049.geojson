@@ -25,18 +25,33 @@
     "reversegeo:longitude":7.435472,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404573191,
+        85633051,
+        102062861
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404573191
     ],
     "wof:country":"CH",
     "wof:geomhash":"0ef65265181ca6fedc5545b7b170a5af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":404573191,
+            "locality_id":1394292049,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394292049,
-    "wof:lastmodified":1565228158,
+    "wof:lastmodified":1565443015,
     "wof:name":"Bremgarten b. Bern",
-    "wof:parent_id":-1,
+    "wof:parent_id":404573191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

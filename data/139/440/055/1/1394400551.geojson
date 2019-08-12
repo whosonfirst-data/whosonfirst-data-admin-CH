@@ -30,8 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209449449,
-        85633051
+        85682301,
+        102191581,
+        404570161,
+        85633051,
+        101853937,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,19 @@
     "wof:geomhash":"aaae74bd6b094629c4a7aac1e0ef077a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209449449,
-            "neighbourhood_id":1394400551
+            "county_id":102062891,
+            "localadmin_id":404570161,
+            "locality_id":101853937,
+            "neighbourhood_id":1394400551,
+            "region_id":85682301
         }
     ],
     "wof:id":1394400551,
-    "wof:lastmodified":1565230608,
+    "wof:lastmodified":1565434486,
     "wof:name":"Galteren",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101853937,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

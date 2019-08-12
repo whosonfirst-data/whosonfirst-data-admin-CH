@@ -25,18 +25,33 @@
     "reversegeo:longitude":7.953138,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682365,
+        102191581,
+        404328851,
+        85633051,
+        1394137093
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404328851
     ],
     "wof:country":"CH",
     "wof:geomhash":"7752c2b9206c5302616187e8e671aa89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137093,
+            "localadmin_id":404328851,
+            "locality_id":1394298053,
+            "region_id":85682365
+        }
+    ],
     "wof:id":1394298053,
-    "wof:lastmodified":1565228163,
+    "wof:lastmodified":1565443032,
     "wof:name":"Rohr b. Olten",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

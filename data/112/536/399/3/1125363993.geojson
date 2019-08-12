@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"041c0625469a1acd86896d0ccfd5edb3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125363993
+            "county_id":102062969,
+            "localadmin_id":1125363993,
+            "region_id":85682325
         }
     ],
     "wof:id":1125363993,
-    "wof:lastmodified":1505248110,
+    "wof:lastmodified":1565459126,
     "wof:name":"Chabrey",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

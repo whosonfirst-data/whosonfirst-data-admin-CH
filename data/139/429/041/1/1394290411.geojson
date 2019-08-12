@@ -25,15 +25,30 @@
     "reversegeo:longitude":9.013267,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682337,
+        102191581,
+        404568769,
+        85633051,
+        102062955
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"d0dbc526a8ccc14d3bbe27e6acfccb8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062955,
+            "localadmin_id":404568769,
+            "locality_id":1394290411,
+            "region_id":85682337
+        }
+    ],
     "wof:id":1394290411,
-    "wof:lastmodified":1565139047,
+    "wof:lastmodified":1565442969,
     "wof:name":"M\u00fcllheim-Wigoltingen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568769,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

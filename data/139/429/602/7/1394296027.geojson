@@ -91,18 +91,33 @@
     "reversegeo:longitude":7.927009,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682365,
+        102191581,
+        404328873,
+        85633051,
+        1394137091
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404328873
     ],
     "wof:country":"CH",
     "wof:geomhash":"83098779951a0a3385c8255c2b3b351b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137091,
+            "localadmin_id":404328873,
+            "locality_id":1394296027,
+            "region_id":85682365
+        }
+    ],
     "wof:id":1394296027,
-    "wof:lastmodified":1565299324,
+    "wof:lastmodified":1565442996,
     "wof:name":"Starrkirch-Wil",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328873,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

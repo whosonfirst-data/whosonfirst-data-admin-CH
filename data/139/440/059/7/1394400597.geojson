@@ -47,8 +47,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209450851,
-        85633051
+        85682269,
+        102191581,
+        404573119,
+        85633051,
+        1125931623,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +62,19 @@
     "wof:geomhash":"98955d0c247920504b17f81152cbc611",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209450851,
-            "neighbourhood_id":1394400597
+            "county_id":102062767,
+            "localadmin_id":404573119,
+            "locality_id":1125931623,
+            "neighbourhood_id":1394400597,
+            "region_id":85682269
         }
     ],
     "wof:id":1394400597,
-    "wof:lastmodified":1565298194,
+    "wof:lastmodified":1565436931,
     "wof:name":"Deca",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125931623,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

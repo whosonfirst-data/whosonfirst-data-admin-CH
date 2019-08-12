@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569273,
+        85633051,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"a7d6405d5af57e08fdc82e05704c1514",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113325
+            "county_id":102062775,
+            "localadmin_id":404569273,
+            "locality_id":1126113325,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113325,
-    "wof:lastmodified":1505185717,
+    "wof:lastmodified":1565453956,
     "wof:name":"F\u00e4rberei",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569273,
     "wof:placetype":"locality",
     "wof:population":1,
     "wof:population_rank":1,

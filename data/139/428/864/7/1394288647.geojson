@@ -37,15 +37,30 @@
     "reversegeo:longitude":8.70709,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682269,
+        102191581,
+        404567787,
+        85633051,
+        102062957
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"0675cef451fa35c89a7343856e118568",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062957,
+            "localadmin_id":404567787,
+            "locality_id":1394288647,
+            "region_id":85682269
+        }
+    ],
     "wof:id":1394288647,
-    "wof:lastmodified":1565299288,
+    "wof:lastmodified":1565442867,
     "wof:name":"Coglio",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

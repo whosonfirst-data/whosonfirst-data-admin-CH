@@ -25,15 +25,30 @@
     "reversegeo:longitude":7.952805,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682319,
+        102191581,
+        404328201,
+        85633051,
+        1394137075
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"e34ff77ab65354208340502ae8120de7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137075,
+            "localadmin_id":404328201,
+            "locality_id":1394297791,
+            "region_id":85682319
+        }
+    ],
     "wof:id":1394297791,
-    "wof:lastmodified":1565139051,
+    "wof:lastmodified":1565443081,
     "wof:name":"Hergiswil b. Willisau",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328201,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

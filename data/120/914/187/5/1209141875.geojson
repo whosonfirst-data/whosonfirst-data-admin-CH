@@ -95,7 +95,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682281,
+        102191581,
+        1394253989,
+        85633051,
+        102062827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,14 +110,18 @@
     "wof:geomhash":"990d5a177fe3e0c2ef95a4a7415a9fac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209141875
+            "county_id":102062827,
+            "localadmin_id":1394253989,
+            "locality_id":1209141875,
+            "region_id":85682281
         }
     ],
     "wof:id":1209141875,
-    "wof:lastmodified":1565297331,
+    "wof:lastmodified":1565581374,
     "wof:name":"Salins",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394253989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

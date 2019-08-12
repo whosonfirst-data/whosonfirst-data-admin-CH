@@ -216,15 +216,26 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682285
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"7d8f1413e09976c9bc24449411cf61fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137119,
+            "region_id":85682285
+        }
+    ],
     "wof:id":1394137119,
-    "wof:lastmodified":1565298510,
+    "wof:lastmodified":1565438849,
     "wof:name":"Schaffhausen",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682285,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

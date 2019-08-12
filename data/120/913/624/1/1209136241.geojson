@@ -30,7 +30,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682353,
+        102191581,
+        404328563,
+        85633051,
+        1394137103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"8dbfb551ab702b0c3553f2fff828ff84",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209136241
+            "county_id":1394137103,
+            "localadmin_id":404328563,
+            "locality_id":1209136241,
+            "region_id":85682353
         }
     ],
     "wof:id":1209136241,
-    "wof:lastmodified":1565231730,
+    "wof:lastmodified":1565430484,
     "wof:name":"Wald",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

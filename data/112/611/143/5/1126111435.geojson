@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568957,
+        85633051,
+        102062933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"b79a270974ff4d5c3075f1058b0f4f79",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111435
+            "county_id":102062933,
+            "localadmin_id":404568957,
+            "locality_id":1126111435,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111435,
-    "wof:lastmodified":1505185755,
+    "wof:lastmodified":1565453753,
     "wof:name":"Linden",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568957,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

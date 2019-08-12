@@ -25,15 +25,30 @@
     "reversegeo:longitude":6.919026,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682301,
+        102191581,
+        404569083,
+        85633051,
+        102063025
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"7973a88cb081b2c32781d8075b202e38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063025,
+            "localadmin_id":404569083,
+            "locality_id":1394297897,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394297897,
-    "wof:lastmodified":1565139058,
+    "wof:lastmodified":1565443281,
     "wof:name":"Le Cr\u00eat-pr\u00e8s-Semsales",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

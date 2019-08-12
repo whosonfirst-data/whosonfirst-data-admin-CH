@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682337,
+        102191581,
+        404568733,
+        85633051,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"4c8e65794d4c8292ca338307aef2e2b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209249915
+            "county_id":102062869,
+            "localadmin_id":404568733,
+            "locality_id":1209249915,
+            "region_id":85682337
         }
     ],
     "wof:id":1209249915,
-    "wof:lastmodified":1565230524,
+    "wof:lastmodified":1565430354,
     "wof:name":"Taeuber",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

@@ -85,15 +85,30 @@
     "reversegeo:longitude":6.855317,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682301,
+        102191581,
+        1394254175,
+        85633051,
+        102062945
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"5483ab445e3a815c3d3260fa10a5b66c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062945,
+            "localadmin_id":1394254175,
+            "locality_id":1394297959,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394297959,
-    "wof:lastmodified":1565299371,
+    "wof:lastmodified":1565581730,
     "wof:name":"Surpierre",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254175,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

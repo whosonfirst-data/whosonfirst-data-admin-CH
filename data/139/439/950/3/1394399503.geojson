@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209142185,
-        85633051
+        85682361,
+        102191581,
+        404570227,
+        85633051,
+        1125802543,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"a927292c377cbf933fa300c7cdbefe0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209142185,
-            "neighbourhood_id":1394399503
+            "county_id":102062819,
+            "localadmin_id":404570227,
+            "locality_id":1125802543,
+            "neighbourhood_id":1394399503,
+            "region_id":85682361
         }
     ],
     "wof:id":1394399503,
-    "wof:lastmodified":1565230756,
+    "wof:lastmodified":1565441209,
     "wof:name":"Unter Muren",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125802543,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

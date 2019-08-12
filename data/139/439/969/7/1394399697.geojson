@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209244127,
-        85633051
+        85682301,
+        102191581,
+        404568299,
+        85633051,
+        1125990631,
+        102063025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"7369b2526fac2998a874e55cb788bc6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209244127,
-            "neighbourhood_id":1394399697
+            "county_id":102063025,
+            "localadmin_id":404568299,
+            "locality_id":1125990631,
+            "neighbourhood_id":1394399697,
+            "region_id":85682301
         }
     ],
     "wof:id":1394399697,
-    "wof:lastmodified":1565230762,
+    "wof:lastmodified":1565441470,
     "wof:name":"Les Baboles",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125990631,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

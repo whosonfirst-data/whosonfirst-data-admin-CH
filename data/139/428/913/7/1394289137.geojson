@@ -25,15 +25,30 @@
     "reversegeo:longitude":9.798767,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        404567897,
+        85633051,
+        102062803
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"37e95df3678e8fac8f89a923c672e143",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062803,
+            "localadmin_id":404567897,
+            "locality_id":1394289137,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394289137,
-    "wof:lastmodified":1565139041,
+    "wof:lastmodified":1565442821,
     "wof:name":"Stels",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

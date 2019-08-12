@@ -33,8 +33,12 @@
         "state_id":2347101
     },
     "wof:belongsto":[
+        85682337,
+        102191581,
+        404568967,
         85633051,
-        85682337
+        1394286505,
+        102062955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102554025,
+            "continent_id":102191581,
             "country_id":85633051,
+            "county_id":102062955,
+            "localadmin_id":404568967,
+            "locality_id":1394286505,
+            "neighbourhood_id":-1,
             "region_id":85682337
         }
     ],
     "wof:id":102554025,
-    "wof:lastmodified":1565237626,
+    "wof:lastmodified":1565422249,
     "wof:name":"Flugplatz Amlikon",
-    "wof:parent_id":85682337,
+    "wof:parent_id":1394286505,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

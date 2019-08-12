@@ -88,18 +88,33 @@
     "reversegeo:longitude":7.180701,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682301,
+        102191581,
+        404571235,
+        85633051,
+        102063029
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404571235
     ],
     "wof:country":"CH",
     "wof:geomhash":"8d99947046deafcce9e37ce3180aeb00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063029,
+            "localadmin_id":404571235,
+            "locality_id":1394298055,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394298055,
-    "wof:lastmodified":1565299334,
+    "wof:lastmodified":1565443033,
     "wof:name":"Pierrafortscha",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

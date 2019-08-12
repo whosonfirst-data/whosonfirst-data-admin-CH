@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"5b97cb9450ab4db37f936ee03d487180",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209452079
+            "county_id":102062767,
+            "locality_id":1209452079,
+            "region_id":85682269
         }
     ],
     "wof:id":1209452079,
-    "wof:lastmodified":1565230534,
+    "wof:lastmodified":1565430868,
     "wof:name":"Campagnore",
-    "wof:parent_id":85633051,
+    "wof:parent_id":102062767,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

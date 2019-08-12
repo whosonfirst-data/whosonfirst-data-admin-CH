@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209349189,
-        85633051
+        85682319,
+        102191581,
+        404328923,
+        85633051,
+        1193172889,
+        1394137073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"7d38456ae720067d66f38aeacf88ca61",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209349189,
-            "neighbourhood_id":1394400201
+            "county_id":1394137073,
+            "localadmin_id":404328923,
+            "locality_id":1193172889,
+            "neighbourhood_id":1394400201,
+            "region_id":85682319
         }
     ],
     "wof:id":1394400201,
-    "wof:lastmodified":1565230654,
+    "wof:lastmodified":1565436232,
     "wof:name":"Mooshuesli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1193172889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

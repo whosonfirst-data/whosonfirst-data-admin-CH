@@ -25,15 +25,30 @@
     "reversegeo:longitude":7.581164,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682361,
+        102191581,
+        404571475,
+        85633051,
+        102062971
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"e54ec1ee511c7a7de67d8af636c24fe5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062971,
+            "localadmin_id":404571475,
+            "locality_id":1394294221,
+            "region_id":85682361
+        }
+    ],
     "wof:id":1394294221,
-    "wof:lastmodified":1565139047,
+    "wof:lastmodified":1565442968,
     "wof:name":"Bruderholz",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

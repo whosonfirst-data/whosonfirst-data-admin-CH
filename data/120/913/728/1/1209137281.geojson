@@ -31,7 +31,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682329,
+        102191581,
+        404569039,
+        85633051,
+        102062841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"38e0a0c1d51146e3a357dcae4f1e2764",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209137281
+            "county_id":102062841,
+            "localadmin_id":404569039,
+            "locality_id":1209137281,
+            "region_id":85682329
         }
     ],
     "wof:id":1209137281,
-    "wof:lastmodified":1565230526,
+    "wof:lastmodified":1565430491,
     "wof:name":"Etzwil",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404569039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

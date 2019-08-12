@@ -25,18 +25,33 @@
     "reversegeo:longitude":9.003704,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682337,
+        102191581,
+        404570101,
+        85633051,
+        102062869
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404570101
     ],
     "wof:country":"CH",
     "wof:geomhash":"51a55e1edef22f1e3a68792d5578d686",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062869,
+            "localadmin_id":404570101,
+            "locality_id":1394289533,
+            "region_id":85682337
+        }
+    ],
     "wof:id":1394289533,
-    "wof:lastmodified":1565228156,
+    "wof:lastmodified":1565442764,
     "wof:name":"M\u00fcllheim Dorf",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

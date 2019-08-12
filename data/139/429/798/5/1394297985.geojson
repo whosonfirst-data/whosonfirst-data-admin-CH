@@ -25,18 +25,33 @@
     "reversegeo:longitude":8.469943,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        404571821,
+        85633051,
+        102062775
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404571821
     ],
     "wof:country":"CH",
     "wof:geomhash":"d7dfd6653a440b2d18d3196cd2b09a65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062775,
+            "localadmin_id":404571821,
+            "locality_id":1394297985,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394297985,
-    "wof:lastmodified":1565228162,
+    "wof:lastmodified":1565442929,
     "wof:name":"Wettswil",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571821,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -55,15 +55,30 @@
     "reversegeo:longitude":7.021987,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404568543,
+        85633051,
+        102062969
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"09f45aedc5945f272558aa003bd693e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062969,
+            "localadmin_id":404568543,
+            "locality_id":1394298073,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394298073,
-    "wof:lastmodified":1565299390,
+    "wof:lastmodified":1565443203,
     "wof:name":"Bellerive",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

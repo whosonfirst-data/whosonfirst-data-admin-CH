@@ -30,15 +30,28 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682325,
+        1394212859
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"983e04a07764de1d2280f88198178f82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394212859,
+            "localadmin_id":1394254121,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394254121,
-    "wof:lastmodified":1565298445,
+    "wof:lastmodified":1565438185,
     "wof:name":"Lac de Joux",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394212859,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

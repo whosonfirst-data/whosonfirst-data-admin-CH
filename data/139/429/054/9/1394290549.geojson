@@ -73,18 +73,33 @@
     "reversegeo:longitude":6.416492,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404573497,
+        85633051,
+        102062873
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404573497
     ],
     "wof:country":"CH",
     "wof:geomhash":"ebf2348b2642573e0ef296cdd255aa30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062873,
+            "localadmin_id":404573497,
+            "locality_id":1394290549,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394290549,
-    "wof:lastmodified":1565299323,
+    "wof:lastmodified":1565442995,
     "wof:name":"Mauraz",
-    "wof:parent_id":-1,
+    "wof:parent_id":404573497,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

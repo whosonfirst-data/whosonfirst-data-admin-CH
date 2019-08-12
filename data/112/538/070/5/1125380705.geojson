@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"b6eb4320bee13a71cfe506e792ff8f8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125380705
+            "county_id":102062813,
+            "localadmin_id":1125380705,
+            "region_id":85682325
         }
     ],
     "wof:id":1125380705,
-    "wof:lastmodified":1505185769,
+    "wof:lastmodified":1565459102,
     "wof:name":"Cuarny",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
     "wof:population":215,
     "wof:population_rank":2,

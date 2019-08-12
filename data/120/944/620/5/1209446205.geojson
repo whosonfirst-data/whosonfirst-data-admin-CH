@@ -31,7 +31,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682353,
+        102191581,
+        404328161,
+        85633051,
+        1394137085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"e81d16cc0dfee89fbcc50cac45bfe340",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209446205
+            "county_id":1394137085,
+            "localadmin_id":404328161,
+            "locality_id":1209446205,
+            "region_id":85682353
         }
     ],
     "wof:id":1209446205,
-    "wof:lastmodified":1565230534,
+    "wof:lastmodified":1565430884,
     "wof:name":"Schoenau",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328161,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

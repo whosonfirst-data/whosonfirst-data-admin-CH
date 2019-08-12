@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"2b809296b7b4894aa10d093b09afa30e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112469
+            "county_id":102063055,
+            "locality_id":1126112469,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112469,
-    "wof:lastmodified":1505185762,
+    "wof:lastmodified":1565454162,
     "wof:name":"Bahnh\u00fcsli",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063055,
     "wof:placetype":"locality",
     "wof:population":1,
     "wof:population_rank":1,

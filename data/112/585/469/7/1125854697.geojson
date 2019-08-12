@@ -77,10 +77,11 @@
     "woe:name_adm1":"Kanton Appenzell Innerrhoden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        85633051,
         85682275,
-        102062897
+        102191581,
+        1394254227,
+        85633051,
+        1394237541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,15 +96,16 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062897,
+            "county_id":1394237541,
+            "localadmin_id":1394254227,
             "locality_id":1125854697,
             "region_id":85682275
         }
     ],
     "wof:id":1125854697,
-    "wof:lastmodified":1565300930,
+    "wof:lastmodified":1565462101,
     "wof:name":"Schwende",
-    "wof:parent_id":102062897,
+    "wof:parent_id":1394254227,
     "wof:placetype":"locality",
     "wof:population":2159,
     "wof:population_rank":4,

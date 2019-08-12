@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682319,
+        102191581,
+        404328347,
+        85633051,
+        1394137073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"d8e56fe77161299e8e1dd36a708de008",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209345425
+            "county_id":1394137073,
+            "localadmin_id":404328347,
+            "locality_id":1209345425,
+            "region_id":85682319
         }
     ],
     "wof:id":1209345425,
-    "wof:lastmodified":1565230532,
+    "wof:lastmodified":1565430759,
     "wof:name":"Hintermuehleacher",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328347,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

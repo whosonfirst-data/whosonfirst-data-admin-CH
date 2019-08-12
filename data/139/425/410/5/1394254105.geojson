@@ -69,22 +69,35 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682285,
+        1394137119
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"eba8605676ca84ee756cc7dc86c29270",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137119,
+            "localadmin_id":1394254105,
+            "region_id":85682285
+        }
+    ],
     "wof:id":1394254105,
-    "wof:lastmodified":1565298475,
+    "wof:lastmodified":1565581753,
     "wof:name":"Beringen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394137119,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404328349,
         404328715
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

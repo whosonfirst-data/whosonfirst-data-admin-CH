@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"7ebc3a9a7f33475ce94648509f32a6b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125376863
+            "county_id":102062813,
+            "localadmin_id":1125376863,
+            "region_id":85682325
         }
     ],
     "wof:id":1125376863,
-    "wof:lastmodified":1505248132,
+    "wof:lastmodified":1565458340,
     "wof:name":"Ballaigues",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

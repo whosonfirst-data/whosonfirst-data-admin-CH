@@ -94,18 +94,33 @@
     "reversegeo:longitude":8.588158,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682377,
+        102191581,
+        404328287,
+        85633051,
+        102062879
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404328287
     ],
     "wof:country":"CH",
     "wof:geomhash":"71f37ef4d8dc8c53b32914b904637367",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062879,
+            "localadmin_id":404328287,
+            "locality_id":1394298077,
+            "region_id":85682377
+        }
+    ],
     "wof:id":1394298077,
-    "wof:lastmodified":1565299390,
+    "wof:lastmodified":1565443201,
     "wof:name":"Seedorf",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328287,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

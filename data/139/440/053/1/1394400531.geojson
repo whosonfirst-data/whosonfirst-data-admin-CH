@@ -30,8 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209448995,
-        85633051
+        85682325,
+        102191581,
+        404572105,
+        85633051,
+        1125949949,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,19 @@
     "wof:geomhash":"77f98041269f4624418dd4d6824dd374",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209448995,
-            "neighbourhood_id":1394400531
+            "county_id":102062813,
+            "localadmin_id":404572105,
+            "locality_id":1125949949,
+            "neighbourhood_id":1394400531,
+            "region_id":85682325
         }
     ],
     "wof:id":1394400531,
-    "wof:lastmodified":1565230602,
+    "wof:lastmodified":1565434247,
     "wof:name":"Vugelles",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125949949,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

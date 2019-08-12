@@ -36,8 +36,12 @@
         "state_id":2347087
     },
     "wof:belongsto":[
+        85682381,
+        102191581,
+        404572247,
         85633051,
-        85682381
+        1125800027,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +55,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102553925,
+            "continent_id":102191581,
             "country_id":85633051,
+            "county_id":102062909,
+            "localadmin_id":404572247,
+            "locality_id":1125800027,
+            "neighbourhood_id":-1,
             "region_id":85682381
         }
     ],
     "wof:id":102553925,
-    "wof:lastmodified":1565237619,
+    "wof:lastmodified":1565422242,
     "wof:name":"Flugplatz Biel-Kappelen",
-    "wof:parent_id":85682381,
+    "wof:parent_id":1125800027,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

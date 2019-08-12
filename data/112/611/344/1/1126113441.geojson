@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404570237,
+        85633051,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"5b6707c56bbba8e5fa0beae029bd940e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113441
+            "county_id":102062769,
+            "localadmin_id":404570237,
+            "locality_id":1126113441,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113441,
-    "wof:lastmodified":1505185744,
+    "wof:lastmodified":1565454745,
     "wof:name":"Br\u00e4hen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570237,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

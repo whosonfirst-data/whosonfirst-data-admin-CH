@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568995,
+        85633051,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"91ff09d78ca853e9940e608940032ff5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111291
+            "county_id":102062779,
+            "localadmin_id":404568995,
+            "locality_id":1126111291,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111291,
-    "wof:lastmodified":1505185751,
+    "wof:lastmodified":1565453695,
     "wof:name":"Burghalde",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568995,
     "wof:placetype":"locality",
     "wof:population":7,
     "wof:population_rank":1,

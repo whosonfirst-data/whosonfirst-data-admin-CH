@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"88096efe4d0dc8b736e5c0be522b171c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125422831
+            "county_id":102062917,
+            "localadmin_id":1125422831,
+            "region_id":85682291
         }
     ],
     "wof:id":1125422831,
-    "wof:lastmodified":1505185769,
+    "wof:lastmodified":1565457560,
     "wof:name":"Carouge (GE)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
     "wof:population":21342,
     "wof:population_rank":7,

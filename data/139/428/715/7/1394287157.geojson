@@ -61,15 +61,30 @@
     "reversegeo:longitude":6.735934,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        1394254013,
+        85633051,
+        102062949
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"88e8c688e8b582045e9eeeefe8dfb4d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062949,
+            "localadmin_id":1394254013,
+            "locality_id":1394287157,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394287157,
-    "wof:lastmodified":1565299272,
+    "wof:lastmodified":1565581560,
     "wof:name":"Chapelle-sur-Moudon",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254013,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

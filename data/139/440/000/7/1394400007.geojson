@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209345083,
-        85633051
+        85682319,
+        102191581,
+        1394254139,
+        85633051,
+        101854025,
+        1394137073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"2a52fcabdbb6f06c27ce60e1460d3130",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209345083,
-            "neighbourhood_id":1394400007
+            "county_id":1394137073,
+            "localadmin_id":1394254139,
+            "locality_id":101854025,
+            "neighbourhood_id":1394400007,
+            "region_id":85682319
         }
     ],
     "wof:id":1394400007,
-    "wof:lastmodified":1565230604,
+    "wof:lastmodified":1565581468,
     "wof:name":"Wegmatten",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854025,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -52,15 +52,30 @@
     "reversegeo:longitude":7.757242,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404567947,
+        85633051,
+        102063061
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"a5e567cc78b4d6db69892e865cf42e70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063061,
+            "localadmin_id":404567947,
+            "locality_id":1394292589,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394292589,
-    "wof:lastmodified":1565299330,
+    "wof:lastmodified":1565443017,
     "wof:name":"Schwanden",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

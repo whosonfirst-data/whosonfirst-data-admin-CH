@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568377,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"4947e4bcd3ba7da35134298ec4d417d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111747
+            "county_id":102063055,
+            "localadmin_id":404568377,
+            "locality_id":1126111747,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111747,
-    "wof:lastmodified":1505185762,
+    "wof:lastmodified":1565453637,
     "wof:name":"Hinter-Schmidr\u00fcti",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568377,
     "wof:placetype":"locality",
     "wof:population":7,
     "wof:population_rank":1,

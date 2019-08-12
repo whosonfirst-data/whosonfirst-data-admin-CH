@@ -28,15 +28,30 @@
     "reversegeo:longitude":7.746623,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404568725,
+        85633051,
+        102063061
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"68ac47111c8b1bb4609d06378cc58eb2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063061,
+            "localadmin_id":404568725,
+            "locality_id":1394289111,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394289111,
-    "wof:lastmodified":1565299289,
+    "wof:lastmodified":1565442871,
     "wof:name":"Horrenbach",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

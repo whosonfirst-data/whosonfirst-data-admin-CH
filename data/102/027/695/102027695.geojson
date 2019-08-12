@@ -6,7 +6,7 @@
     "edtf:deprecated":"2016-07-06",
     "edtf:inception":"uuuu",
     "geom:area":0.000727,
-    "geom:area_square_m":8436750.138591,
+    "geom:area_square_m":8436750.138575,
     "geom:bbox":"110.441539886,19.1516982701,113.262249362,22.0895770843",
     "geom:latitude":20.256406,
     "geom:longitude":111.505759,
@@ -593,7 +593,7 @@
         102191569,
         85632695,
         85669759,
-        85632557
+        1108732479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -613,20 +613,15 @@
         {
             "continent_id":102191569,
             "country_id":85632695,
+            "county_id":1108732479,
             "locality_id":102027695,
             "region_id":85669759
-        },
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "locality_id":102027695,
-            "region_id":85632557
         }
     ],
     "wof:id":102027695,
-    "wof:lastmodified":1505338999,
+    "wof:lastmodified":1565422251,
     "wof:name":"People\u2019s Republic of China",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108732479,
     "wof:placetype":"locality",
     "wof:population":1330044000,
     "wof:population_rank":18,

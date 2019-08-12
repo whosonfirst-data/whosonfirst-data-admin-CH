@@ -88,15 +88,30 @@
     "reversegeo:longitude":9.179507,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        1394254103,
+        85633051,
+        102062773
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"d8e5e821f5796afe23a492f6f79005e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062773,
+            "localadmin_id":1394254103,
+            "locality_id":1394292469,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394292469,
-    "wof:lastmodified":1565299376,
+    "wof:lastmodified":1565581748,
     "wof:name":"Schnaus",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254103,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

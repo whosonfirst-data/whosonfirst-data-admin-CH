@@ -25,15 +25,30 @@
     "reversegeo:longitude":7.41845,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404568233,
+        85633051,
+        102062861
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"fd429631ddc677b4b7a7c9342f32658a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":404568233,
+            "locality_id":1394298145,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394298145,
-    "wof:lastmodified":1565139054,
+    "wof:lastmodified":1565443175,
     "wof:name":"Helgisried-Rohrbach",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

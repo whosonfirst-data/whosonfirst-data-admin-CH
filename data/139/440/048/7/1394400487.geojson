@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209448767,
-        85633051
+        85682301,
+        102191581,
+        404571301,
+        85633051,
+        1125918739,
+        102062867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"6591c7459293e9652fe6dc0ce7257394",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209448767,
-            "neighbourhood_id":1394400487
+            "county_id":102062867,
+            "localadmin_id":404571301,
+            "locality_id":1125918739,
+            "neighbourhood_id":1394400487,
+            "region_id":85682301
         }
     ],
     "wof:id":1394400487,
-    "wof:lastmodified":1565230588,
+    "wof:lastmodified":1565433680,
     "wof:name":"Les Denges",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125918739,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682305,
+        102191581,
+        404568029,
+        85633051,
+        102062887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"75bf1c4c0be7afb00f85da02a3464a48",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209551807
+            "county_id":102062887,
+            "localadmin_id":404568029,
+            "locality_id":1209551807,
+            "region_id":85682305
         }
     ],
     "wof:id":1209551807,
-    "wof:lastmodified":1565230523,
+    "wof:lastmodified":1565430295,
     "wof:name":"Blattflue",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568029,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

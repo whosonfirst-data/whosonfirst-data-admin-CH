@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682341,
+        102191581,
+        404568087,
+        85633051,
+        102062771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +49,18 @@
     "wof:geomhash":"06b21cb5dfaeb4a02c7db90b3048fbfc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209550321
+            "county_id":102062771,
+            "localadmin_id":404568087,
+            "locality_id":1209550321,
+            "region_id":85682341
         }
     ],
     "wof:id":1209550321,
-    "wof:lastmodified":1565230523,
+    "wof:lastmodified":1565430307,
     "wof:name":"Unterbazenheid",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568087,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

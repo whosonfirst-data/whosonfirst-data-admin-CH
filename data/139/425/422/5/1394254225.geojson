@@ -87,23 +87,34 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682281,
+        102062965
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"0eea615f27fb21f34f27a2c3ebbda7c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062965,
+            "localadmin_id":1394254225,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394254225,
-    "wof:lastmodified":1565298436,
+    "wof:lastmodified":1565581460,
     "wof:name":"Saint-Maurice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062965,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404570301,
         404570581
-    ],
-    "wof:supersedes":[
-        1125772343
     ],
     "wof:tags":[]
 },

@@ -40,15 +40,30 @@
     "reversegeo:longitude":8.975223,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682269,
+        102191581,
+        404573567,
+        85633051,
+        102062767
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"5b6fd7e03742ec8f9a628f67ea28d872",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062767,
+            "localadmin_id":404573567,
+            "locality_id":1394291629,
+            "region_id":85682269
+        }
+    ],
     "wof:id":1394291629,
-    "wof:lastmodified":1565299360,
+    "wof:lastmodified":1565443092,
     "wof:name":"Cagiallo",
-    "wof:parent_id":-1,
+    "wof:parent_id":404573567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

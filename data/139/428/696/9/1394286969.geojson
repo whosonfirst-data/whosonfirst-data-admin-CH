@@ -103,15 +103,30 @@
     "reversegeo:longitude":8.587549,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        404570585,
+        85633051,
+        102062801
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"7111f934078e4c9daf19fcf4fd7e8fe8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062801,
+            "localadmin_id":404570585,
+            "locality_id":1394286969,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394286969,
-    "wof:lastmodified":1565299286,
+    "wof:lastmodified":1565442860,
     "wof:name":"Berg am Irchel",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

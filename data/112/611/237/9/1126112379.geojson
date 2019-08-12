@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568617,
+        85633051,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"a17a4c8a89f7362ec356ea777084032a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112379
+            "county_id":102062779,
+            "localadmin_id":404568617,
+            "locality_id":1126112379,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112379,
-    "wof:lastmodified":1505185751,
+    "wof:lastmodified":1565454467,
     "wof:name":"Sonnengrund",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568617,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

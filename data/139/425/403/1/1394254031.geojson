@@ -45,22 +45,35 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682341,
+        102062771
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"1241fe03145ad83ab8560bd8ed27d0da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062771,
+            "localadmin_id":1394254031,
+            "region_id":85682341
+        }
+    ],
     "wof:id":1394254031,
-    "wof:lastmodified":1565298496,
+    "wof:lastmodified":1565581890,
     "wof:name":"B\u00fctschwil-Ganterschwil",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062771,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404569041,
         404570243
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

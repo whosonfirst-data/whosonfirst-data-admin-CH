@@ -61,15 +61,30 @@
     "reversegeo:longitude":8.163831,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682329,
+        102191581,
+        404568551,
+        85633051,
+        102062977
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"92fb949a138ea9e0240fab20be77d987",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062977,
+            "localadmin_id":404568551,
+            "locality_id":1394295995,
+            "region_id":85682329
+        }
+    ],
     "wof:id":1394295995,
-    "wof:lastmodified":1565299364,
+    "wof:lastmodified":1565443110,
     "wof:name":"Hottwil",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568551,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

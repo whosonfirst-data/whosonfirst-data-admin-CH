@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682341,
+        102191581,
+        404568017,
+        85633051,
+        102062963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"3674f0753ee7d67f4ef013607945c0c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209351701
+            "county_id":102062963,
+            "localadmin_id":404568017,
+            "locality_id":1209351701,
+            "region_id":85682341
         }
     ],
     "wof:id":1209351701,
-    "wof:lastmodified":1565230529,
+    "wof:lastmodified":1565430613,
     "wof:name":"Trosboden",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209646595,
-        85633051
+        85682305,
+        102191581,
+        404568489,
+        85633051,
+        1125823853,
+        102062887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"eecad69965c9d5121c3d1634f2fca53e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209646595,
-            "neighbourhood_id":1394401049
+            "county_id":102062887,
+            "localadmin_id":404568489,
+            "locality_id":1125823853,
+            "neighbourhood_id":1394401049,
+            "region_id":85682305
         }
     ],
     "wof:id":1394401049,
-    "wof:lastmodified":1565230567,
+    "wof:lastmodified":1565432870,
     "wof:name":"Obermattli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125823853,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -25,15 +25,30 @@
     "reversegeo:longitude":9.945985,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        404567751,
+        85633051,
+        102062857
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"81a58eab051be8c8f6b198ce623037c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062857,
+            "localadmin_id":404567751,
+            "locality_id":1394288607,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394288607,
-    "wof:lastmodified":1565139040,
+    "wof:lastmodified":1565442791,
     "wof:name":"Cinuos-chel",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567751,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

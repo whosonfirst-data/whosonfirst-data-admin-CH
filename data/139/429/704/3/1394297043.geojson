@@ -91,15 +91,30 @@
     "reversegeo:longitude":7.686429,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682365,
+        102191581,
+        1175611197,
+        85633051,
+        1394137123
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"0b5a0d908b5b22b0580220ede234f2bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137123,
+            "localadmin_id":1175611197,
+            "locality_id":1394297043,
+            "region_id":85682365
+        }
+    ],
     "wof:id":1394297043,
-    "wof:lastmodified":1565299370,
+    "wof:lastmodified":1565443127,
     "wof:name":"Steinhof",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175611197,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

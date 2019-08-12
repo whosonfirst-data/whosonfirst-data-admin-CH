@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        404567843,
+        85633051,
+        102062821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"f95a7fb00c033d6b752ab6929a4c959c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209651487
+            "county_id":102062821,
+            "localadmin_id":404567843,
+            "locality_id":1209651487,
+            "region_id":85682381
         }
     ],
     "wof:id":1209651487,
-    "wof:lastmodified":1565230521,
+    "wof:lastmodified":1565430237,
     "wof:name":"Oberi Matte",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404567843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

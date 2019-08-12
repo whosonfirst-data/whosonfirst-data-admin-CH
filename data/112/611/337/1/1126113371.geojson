@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404571821,
+        85633051,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"3f4c73a637116cc4f4d6554d2373f77e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113371
+            "county_id":102062775,
+            "localadmin_id":404571821,
+            "locality_id":1126113371,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113371,
-    "wof:lastmodified":1505185718,
+    "wof:lastmodified":1565453068,
     "wof:name":"Hof\u00e4cher",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571821,
     "wof:placetype":"locality",
     "wof:population":1,
     "wof:population_rank":1,

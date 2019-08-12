@@ -85,15 +85,30 @@
     "reversegeo:longitude":7.124182,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682301,
+        102191581,
+        1394254027,
+        85633051,
+        102062765
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"b44bb50c6423cac2bdbb7913f7812d89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062765,
+            "localadmin_id":1394254027,
+            "locality_id":1394297751,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394297751,
-    "wof:lastmodified":1565299407,
+    "wof:lastmodified":1565581873,
     "wof:name":"Courtepin",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254027,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

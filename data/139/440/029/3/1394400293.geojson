@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209351041,
-        85633051
+        85682301,
+        102191581,
+        404567951,
+        85633051,
+        1125923263,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"1ab32380948eb1e5a66ec6aea8122b33",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209351041,
-            "neighbourhood_id":1394400293
+            "county_id":102062999,
+            "localadmin_id":404567951,
+            "locality_id":1125923263,
+            "neighbourhood_id":1394400293,
+            "region_id":85682301
         }
     ],
     "wof:id":1394400293,
-    "wof:lastmodified":1565230657,
+    "wof:lastmodified":1565436364,
     "wof:name":"Gerstera",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125923263,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

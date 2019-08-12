@@ -25,15 +25,30 @@
     "reversegeo:longitude":7.074273,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682301,
+        102191581,
+        1394254115,
+        85633051,
+        102063029
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"fd76821f1463fc26c40c804fbcfc771e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063029,
+            "localadmin_id":1394254115,
+            "locality_id":1394297893,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394297893,
-    "wof:lastmodified":1565139058,
+    "wof:lastmodified":1565443286,
     "wof:name":"Farvagny-le-Petit",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -50,7 +50,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682275,
+        102191581,
+        404328097,
+        85633051,
+        1394237541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +64,18 @@
     "wof:geomhash":"48927e72e4b9bfc9e8d3a757219f0cca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209646669
+            "county_id":1394237541,
+            "localadmin_id":404328097,
+            "locality_id":1209646669,
+            "region_id":85682275
         }
     ],
     "wof:id":1209646669,
-    "wof:lastmodified":1565138998,
+    "wof:lastmodified":1565430250,
     "wof:name":"Appenzell Enggenh\u00fctten",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

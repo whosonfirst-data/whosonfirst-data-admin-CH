@@ -104,8 +104,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209042629,
-        85633051
+        85682337,
+        102191581,
+        404568431,
+        85633051,
+        1125801331,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,15 +119,19 @@
     "wof:geomhash":"3be06502dc68912e61f0863359ebb9bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209042629,
-            "neighbourhood_id":1394398983
+            "county_id":102062869,
+            "localadmin_id":404568431,
+            "locality_id":1125801331,
+            "neighbourhood_id":1394398983,
+            "region_id":85682337
         }
     ],
     "wof:id":1394398983,
-    "wof:lastmodified":1565299127,
+    "wof:lastmodified":1565442080,
     "wof:name":"Rosenberg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125801331,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

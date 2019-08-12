@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5195402.583787,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.628491,46.505672,6.628491,46.505672",
     "geom:latitude":46.505672,
     "geom:longitude":6.628491,
@@ -65,11 +65,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85682325,
         102191581,
         404567693,
         85633051,
-        102063021,
-        85682325
+        101748449,
+        102063021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +86,7 @@
             "country_id":85633051,
             "county_id":102063021,
             "localadmin_id":404567693,
-            "locality_id":-1,
+            "locality_id":101748449,
             "neighbourhood_id":85800413,
             "region_id":85682325
         }
@@ -94,9 +95,9 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862022,
+    "wof:lastmodified":1565428629,
     "wof:name":"Port d'Ouchy",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748449,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

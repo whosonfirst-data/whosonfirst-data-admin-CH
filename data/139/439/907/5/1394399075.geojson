@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209043417,
-        85633051
+        85682255,
+        102191581,
+        404567995,
+        85633051,
+        1125913323,
+        102062903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"edcea218d43ba26d0885a19cb1135bc4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209043417,
-            "neighbourhood_id":1394399075
+            "county_id":102062903,
+            "localadmin_id":404567995,
+            "locality_id":1125913323,
+            "neighbourhood_id":1394399075,
+            "region_id":85682255
         }
     ],
     "wof:id":1394399075,
-    "wof:lastmodified":1565230719,
+    "wof:lastmodified":1565439769,
     "wof:name":"Cabbiolo",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125913323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

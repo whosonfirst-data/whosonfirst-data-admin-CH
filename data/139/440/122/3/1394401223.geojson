@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209651119,
-        85633051
+        85682381,
+        102191581,
+        404567735,
+        85633051,
+        101854137,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"181bcd2af92b125ccb8a3575ce0fde8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209651119,
-            "neighbourhood_id":1394401223
+            "county_id":102062759,
+            "localadmin_id":404567735,
+            "locality_id":101854137,
+            "neighbourhood_id":1394401223,
+            "region_id":85682381
         }
     ],
     "wof:id":1394401223,
-    "wof:lastmodified":1565230692,
+    "wof:lastmodified":1565437738,
     "wof:name":"Sandweidli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854137,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

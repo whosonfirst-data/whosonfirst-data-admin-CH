@@ -25,18 +25,33 @@
     "reversegeo:longitude":7.971431,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404568359,
+        85633051,
+        102063043
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404568359
     ],
     "wof:country":"CH",
     "wof:geomhash":"4c521a7816adeac9eb49b3a960bee933",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063043,
+            "localadmin_id":404568359,
+            "locality_id":1394297281,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394297281,
-    "wof:lastmodified":1565139058,
+    "wof:lastmodified":1565443266,
     "wof:name":"Brienzersee",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568359,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

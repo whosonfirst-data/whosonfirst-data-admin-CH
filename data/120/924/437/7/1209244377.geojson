@@ -74,7 +74,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682325,
+        102191581,
+        404568391,
+        85633051,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,14 +89,18 @@
     "wof:geomhash":"e795012193f9adce28cb57da75fce23e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209244377
+            "county_id":102062969,
+            "localadmin_id":404568391,
+            "locality_id":1209244377,
+            "region_id":85682325
         }
     ],
     "wof:id":1209244377,
-    "wof:lastmodified":1565297324,
+    "wof:lastmodified":1565430366,
     "wof:name":"Villars-Bramard",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -120,15 +120,26 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682319
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"5223d69bde6484d6bfd27dae93b2be57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137077,
+            "region_id":85682319
+        }
+    ],
     "wof:id":1394137077,
-    "wof:lastmodified":1565298506,
+    "wof:lastmodified":1565438762,
     "wof:name":"Sursee",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682319,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

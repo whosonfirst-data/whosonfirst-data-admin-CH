@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682341,
+        102062771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"811ead6857704b29cc4e95cb1842cab1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209445409
+            "county_id":102062771,
+            "locality_id":1209445409,
+            "region_id":85682341
         }
     ],
     "wof:id":1209445409,
-    "wof:lastmodified":1565230535,
+    "wof:lastmodified":1565430914,
     "wof:name":"Letzi",
-    "wof:parent_id":85633051,
+    "wof:parent_id":102062771,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

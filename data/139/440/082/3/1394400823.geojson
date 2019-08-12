@@ -30,8 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209550195,
-        85633051
+        85682381,
+        102191581,
+        404568177,
+        85633051,
+        1125884195,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,19 @@
     "wof:geomhash":"67e1a52d531336fac37608b0e8cd1b08",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209550195,
-            "neighbourhood_id":1394400823
+            "county_id":102062861,
+            "localadmin_id":404568177,
+            "locality_id":1125884195,
+            "neighbourhood_id":1394400823,
+            "region_id":85682381
         }
     ],
     "wof:id":1394400823,
-    "wof:lastmodified":1565230596,
+    "wof:lastmodified":1565433997,
     "wof:name":"Steinisweg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125884195,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

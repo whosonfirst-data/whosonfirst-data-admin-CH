@@ -34,15 +34,30 @@
     "reversegeo:longitude":9.051173,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682249,
+        102191581,
+        404328109,
+        85633051,
+        102063003
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"da4199e14364019ed9b3e36f65fc5900",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063003,
+            "localadmin_id":404328109,
+            "locality_id":1394298003,
+            "region_id":85682249
+        }
+    ],
     "wof:id":1394298003,
-    "wof:lastmodified":1565299388,
+    "wof:lastmodified":1565443197,
     "wof:name":"Diesbach",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

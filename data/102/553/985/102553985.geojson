@@ -33,8 +33,12 @@
         "state_id":2347096
     },
     "wof:belongsto":[
+        85682371,
+        102191581,
+        404328137,
         85633051,
-        85682371
+        101853897,
+        102062787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102553985,
+            "continent_id":102191581,
             "country_id":85633051,
+            "county_id":102062787,
+            "localadmin_id":404328137,
+            "locality_id":101853897,
+            "neighbourhood_id":-1,
             "region_id":85682371
         }
     ],
     "wof:id":102553985,
-    "wof:lastmodified":1565237618,
+    "wof:lastmodified":1565422242,
     "wof:name":"Flugplatz K\u00e4giswil",
-    "wof:parent_id":85682371,
+    "wof:parent_id":101853897,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

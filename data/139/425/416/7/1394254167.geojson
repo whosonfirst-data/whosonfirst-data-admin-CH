@@ -435,18 +435,31 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682309,
+        102063071
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         101748463
     ],
     "wof:country":"CH",
     "wof:geomhash":"903c455bfa1d9ff95dbe791920306111",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063071,
+            "localadmin_id":1394254167,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394254167,
-    "wof:lastmodified":1565298482,
+    "wof:lastmodified":1565438428,
     "wof:name":"Z\u00fcrich",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063071,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

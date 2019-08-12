@@ -105,7 +105,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682249,
+        102191581,
+        404328109,
+        85633051,
+        102063003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,14 +120,18 @@
     "wof:geomhash":"ec05827fba6c2f74e36f75c8a15f6e9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209552607
+            "county_id":102063003,
+            "localadmin_id":404328109,
+            "locality_id":1209552607,
+            "region_id":85682249
         }
     ],
     "wof:id":1209552607,
-    "wof:lastmodified":1565297320,
+    "wof:lastmodified":1565430293,
     "wof:name":"Schw\u00e4ndi b. Schwanden",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

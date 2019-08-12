@@ -25,15 +25,30 @@
     "reversegeo:longitude":7.682121,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404572399,
+        85633051,
+        102062837
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"787d8e6e8c63ce3ebf4f8e35716637ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062837,
+            "localadmin_id":404572399,
+            "locality_id":1394289139,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394289139,
-    "wof:lastmodified":1565139041,
+    "wof:lastmodified":1565442818,
     "wof:name":"L\u00fctzelfl\u00fch-Goldbach",
-    "wof:parent_id":-1,
+    "wof:parent_id":404572399,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

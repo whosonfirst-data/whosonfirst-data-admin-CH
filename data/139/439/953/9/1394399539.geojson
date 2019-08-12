@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209142459,
-        85633051
+        85682329,
+        102191581,
+        404569873,
+        85633051,
+        1126001967,
+        102062977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"e63c30f67148ed7e4ca3c03207e77b9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209142459,
-            "neighbourhood_id":1394399539
+            "county_id":102062977,
+            "localadmin_id":404569873,
+            "locality_id":1126001967,
+            "neighbourhood_id":1394399539,
+            "region_id":85682329
         }
     ],
     "wof:id":1394399539,
-    "wof:lastmodified":1565230721,
+    "wof:lastmodified":1565439827,
     "wof:name":"Wolfig",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126001967,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -21,23 +21,36 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682381,
+        102062865
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"85f7b7e1425cc7a9353156f824f0d35c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062865,
+            "localadmin_id":1394254189,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394254189,
-    "wof:lastmodified":1565139029,
+    "wof:lastmodified":1565581826,
     "wof:name":"Plateau de Diesse",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404569903,
         404569983,
         404570589
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

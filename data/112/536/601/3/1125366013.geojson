@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682341,
+        102062847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"44c2a94369c25bfe2e12fd6d3b53b1e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125366013
+            "county_id":102062847,
+            "localadmin_id":1125366013,
+            "region_id":85682341
         }
     ],
     "wof:id":1125366013,
-    "wof:lastmodified":1505185768,
+    "wof:lastmodified":1565459156,
     "wof:name":"Andwil (SG)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062847,
     "wof:placetype":"localadmin",
     "wof:population":1899,
     "wof:population_rank":3,

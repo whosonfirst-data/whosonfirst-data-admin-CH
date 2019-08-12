@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209549301,
-        85633051
+        85682381,
+        102191581,
+        404567843,
+        85633051,
+        1126049759,
+        102062821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"bd090edafbf34daad106a50c0ef94fb4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209549301,
-            "neighbourhood_id":1394400785
+            "county_id":102062821,
+            "localadmin_id":404567843,
+            "locality_id":1126049759,
+            "neighbourhood_id":1394400785,
+            "region_id":85682381
         }
     ],
     "wof:id":1394400785,
-    "wof:lastmodified":1565230597,
+    "wof:lastmodified":1565434066,
     "wof:name":"Underi Halte",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126049759,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

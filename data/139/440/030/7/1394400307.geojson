@@ -62,8 +62,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209351137,
-        85633051
+        85682337,
+        102191581,
+        404568431,
+        85633051,
+        1125801331,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,15 +77,19 @@
     "wof:geomhash":"888f7987425b6ff6dfda67be9633fd2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209351137,
-            "neighbourhood_id":1394400307
+            "county_id":102062869,
+            "localadmin_id":404568431,
+            "locality_id":1125801331,
+            "neighbourhood_id":1394400307,
+            "region_id":85682337
         }
     ],
     "wof:id":1394400307,
-    "wof:lastmodified":1565297768,
+    "wof:lastmodified":1565434625,
     "wof:name":"Freudenberg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125801331,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

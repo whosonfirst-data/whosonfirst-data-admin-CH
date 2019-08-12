@@ -28,15 +28,30 @@
     "reversegeo:longitude":7.214494,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682281,
+        102191581,
+        404568221,
+        85633051,
+        102062915
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"710c45fc474b9e9d13b636f847d021bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062915,
+            "localadmin_id":404568221,
+            "locality_id":1394292343,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394292343,
-    "wof:lastmodified":1565139049,
+    "wof:lastmodified":1565443034,
     "wof:name":"Grugnay",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568221,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

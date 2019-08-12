@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209142657,
-        85633051
+        85682341,
+        102191581,
+        404568087,
+        85633051,
+        1326560633,
+        102062771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"9f8d7dd55e8000e97d8b2608e96cb5fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209142657,
-            "neighbourhood_id":1394399579
+            "county_id":102062771,
+            "localadmin_id":404568087,
+            "locality_id":1326560633,
+            "neighbourhood_id":1394399579,
+            "region_id":85682341
         }
     ],
     "wof:id":1394399579,
-    "wof:lastmodified":1565230756,
+    "wof:lastmodified":1565441221,
     "wof:name":"Hintersenis",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1326560633,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

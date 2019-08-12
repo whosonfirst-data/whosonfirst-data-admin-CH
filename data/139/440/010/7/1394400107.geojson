@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209348347,
-        85633051
+        85682381,
+        102191581,
+        404568031,
+        85633051,
+        1276159647,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"e8448215464cde50bfc899cf54183535",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209348347,
-            "neighbourhood_id":1394400107
+            "county_id":102062837,
+            "localadmin_id":404568031,
+            "locality_id":1276159647,
+            "neighbourhood_id":1394400107,
+            "region_id":85682381
         }
     ],
     "wof:id":1394400107,
-    "wof:lastmodified":1565230663,
+    "wof:lastmodified":1565436593,
     "wof:name":"Unterhollern",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1276159647,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

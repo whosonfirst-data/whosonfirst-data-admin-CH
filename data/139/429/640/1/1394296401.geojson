@@ -25,15 +25,30 @@
     "reversegeo:longitude":6.88114,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682301,
+        102191581,
+        404569807,
+        85633051,
+        102063025
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"a2d83510d9cf1e264f3839c4f47d4cba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063025,
+            "localadmin_id":404569807,
+            "locality_id":1394296401,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394296401,
-    "wof:lastmodified":1565139053,
+    "wof:lastmodified":1565443160,
     "wof:name":"Fiaug\u00e8res",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569807,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

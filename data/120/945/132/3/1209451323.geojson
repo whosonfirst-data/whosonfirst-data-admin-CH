@@ -31,7 +31,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682329,
+        102191581,
+        404571295,
+        85633051,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"5c69a4e6dfef362807c2a7e5e52efbe2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209451323
+            "county_id":102062843,
+            "localadmin_id":404571295,
+            "locality_id":1209451323,
+            "region_id":85682329
         }
     ],
     "wof:id":1209451323,
-    "wof:lastmodified":1565230534,
+    "wof:lastmodified":1565430841,
     "wof:name":"Sulz",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404571295,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

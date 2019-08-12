@@ -121,8 +121,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1126111057,
-        85633051
+        85682309,
+        102191581,
+        1394253973,
+        85633051,
+        1125908497,
+        1394212863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,15 +139,19 @@
     "wof:geomhash":"6048eede05fb8a3e904271615ef45cdf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111057,
-            "neighbourhood_id":1394398045
+            "county_id":1394212863,
+            "localadmin_id":1394253973,
+            "locality_id":1125908497,
+            "neighbourhood_id":1394398045,
+            "region_id":85682309
         }
     ],
     "wof:id":1394398045,
-    "wof:lastmodified":1565242091,
+    "wof:lastmodified":1565440543,
     "wof:name":"Sch\u00f6nenberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125908497,
     "wof:placetype":"neighbourhood",
     "wof:population":5,
     "wof:population_rank":1,

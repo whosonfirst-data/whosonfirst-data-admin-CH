@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209549317,
-        85633051
+        85682341,
+        102191581,
+        404567749,
+        85633051,
+        1394295037,
+        102062963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"5bff2e04ead7f1809d7343e8047ee441",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209549317,
-            "neighbourhood_id":1394400787
+            "county_id":102062963,
+            "localadmin_id":404567749,
+            "locality_id":1394295037,
+            "neighbourhood_id":1394400787,
+            "region_id":85682341
         }
     ],
     "wof:id":1394400787,
-    "wof:lastmodified":1565230597,
+    "wof:lastmodified":1565434062,
     "wof:name":"Schigg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394295037,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

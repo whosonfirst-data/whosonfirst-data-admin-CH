@@ -76,18 +76,33 @@
     "reversegeo:longitude":6.775034,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404573417,
+        85633051,
+        102062969
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404573417
     ],
     "wof:country":"CH",
     "wof:geomhash":"5366357f4696961e8bad8ed0e1811a9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062969,
+            "localadmin_id":404573417,
+            "locality_id":1394298141,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394298141,
-    "wof:lastmodified":1565299383,
+    "wof:lastmodified":1565443174,
     "wof:name":"Rossenges",
-    "wof:parent_id":-1,
+    "wof:parent_id":404573417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

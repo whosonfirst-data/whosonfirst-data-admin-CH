@@ -3,8 +3,10 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-08-05",
     "edtf:inception":"uuuu",
     "geom:area":0.001028,
+    "geom:area_square_m":8621364.421574,
     "geom:bbox":"8.19829204508,47.2522519776,8.22865291185,47.3193054423",
     "geom:latitude":47.288195,
     "geom:longitude":8.213305,
@@ -20,7 +22,6 @@
     "qs:a1_lc":"19",
     "qs:adm0":"Switzerland",
     "qs:adm0_a3":"CHE",
-    "edtf:deprecated":"2019-08-05",
     "qs:level":"adm2",
     "qs:source":"SwissTopo",
     "src:geom":"quattroshapes",
@@ -36,7 +37,7 @@
         "gp:id":12593201
     },
     "wof:country":"CH",
-    "wof:geomhash":"b943cf1743b78e5f51346e431b8d92c8",
+    "wof:geomhash":"a22af187f2df53cd935bbad455083b1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":102063011,
-    "wof:lastmodified":1477509030,
+    "wof:lastmodified":1565421461,
     "wof:name":"",
     "wof:parent_id":85682329,
     "wof:placetype":"county",

@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209350983,
-        85633051
+        85682319,
+        102191581,
+        404328353,
+        85633051,
+        1260110851,
+        1394137075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"41e996abe0295e6f52a962ba234565d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209350983,
-            "neighbourhood_id":1394400287
+            "county_id":1394137075,
+            "localadmin_id":404328353,
+            "locality_id":1260110851,
+            "neighbourhood_id":1394400287,
+            "region_id":85682319
         }
     ],
     "wof:id":1394400287,
-    "wof:lastmodified":1565230662,
+    "wof:lastmodified":1565436578,
     "wof:name":"Schachen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1260110851,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

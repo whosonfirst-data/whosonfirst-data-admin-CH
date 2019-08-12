@@ -143,9 +143,7 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":683,
     "wof:belongs_to":[],
-    "wof:belongsto":[
-        85633051
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"06b0e872-8f76-11e1-848f-cfd5bf3ef515",
@@ -157,15 +155,17 @@
     "wof:geomhash":"e3f27b752029adcdcd004faba8db8993",
     "wof:hierarchy":[
         {
-            "country_id":85633051,
-            "locality_id":102018055
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102018055,
+            "region_id":-1
         }
     ],
     "wof:id":102018055,
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1565237632,
+    "wof:lastmodified":1565422257,
     "wof:name":"Pedro Aguirre Cerda",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

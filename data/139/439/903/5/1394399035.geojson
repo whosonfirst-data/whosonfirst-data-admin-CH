@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209043109,
-        85633051
+        85682255,
+        102191581,
+        404570013,
+        85633051,
+        1125787533,
+        102062857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"a0a51f6ee52c2c8db88bf95fbc2afef0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209043109,
-            "neighbourhood_id":1394399035
+            "county_id":102062857,
+            "localadmin_id":404570013,
+            "locality_id":1125787533,
+            "neighbourhood_id":1394399035,
+            "region_id":85682255
         }
     ],
     "wof:id":1394399035,
-    "wof:lastmodified":1565230760,
+    "wof:lastmodified":1565441374,
     "wof:name":"Alp Belvair",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125787533,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

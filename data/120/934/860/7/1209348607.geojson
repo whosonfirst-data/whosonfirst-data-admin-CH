@@ -107,7 +107,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682365,
+        102191581,
+        404328787,
+        85633051,
+        1394137123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,14 +125,18 @@
     "wof:geomhash":"838566350f00a2f6347a60e7679499ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209348607
+            "county_id":1394137123,
+            "localadmin_id":404328787,
+            "locality_id":1209348607,
+            "region_id":85682365
         }
     ],
     "wof:id":1209348607,
-    "wof:lastmodified":1565297338,
+    "wof:lastmodified":1565430749,
     "wof:name":"Recherswil",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

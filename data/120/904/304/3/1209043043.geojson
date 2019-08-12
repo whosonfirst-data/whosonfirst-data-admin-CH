@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682319,
+        102191581,
+        404328331,
+        85633051,
+        1394137081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"b9b0829fca423b827e568aa0c2adc6f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209043043
+            "county_id":1394137081,
+            "localadmin_id":404328331,
+            "locality_id":1209043043,
+            "region_id":85682319
         }
     ],
     "wof:id":1209043043,
-    "wof:lastmodified":1565230531,
+    "wof:lastmodified":1565430681,
     "wof:name":"Oberhocken",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328331,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

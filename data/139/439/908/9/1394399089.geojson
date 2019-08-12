@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209043567,
-        85633051
+        85682381,
+        102191581,
+        404567921,
+        85633051,
+        1394290151,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"7e3edda82d5f3445242d15201bb76457",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209043567,
-            "neighbourhood_id":1394399089
+            "county_id":102062837,
+            "localadmin_id":404567921,
+            "locality_id":1394290151,
+            "neighbourhood_id":1394399089,
+            "region_id":85682381
         }
     ],
     "wof:id":1394399089,
-    "wof:lastmodified":1565230725,
+    "wof:lastmodified":1565439990,
     "wof:name":"Boedeli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394290151,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

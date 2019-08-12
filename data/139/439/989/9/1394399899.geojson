@@ -30,8 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209251073,
-        85633051
+        85682337,
+        102191581,
+        404568811,
+        85633051,
+        1326459923,
+        102062981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,19 @@
     "wof:geomhash":"5123baf832cdea46138a304ce42c978e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209251073,
-            "neighbourhood_id":1394399899
+            "county_id":102062981,
+            "localadmin_id":404568811,
+            "locality_id":1326459923,
+            "neighbourhood_id":1394399899,
+            "region_id":85682337
         }
     ],
     "wof:id":1394399899,
-    "wof:lastmodified":1565230787,
+    "wof:lastmodified":1565442443,
     "wof:name":"Krillberg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1326459923,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

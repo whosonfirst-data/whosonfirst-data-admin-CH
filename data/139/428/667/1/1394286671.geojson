@@ -64,15 +64,30 @@
     "reversegeo:longitude":6.741389,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        1394254013,
+        85633051,
+        102062949
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"8f9018adbadb0669f55f0bfca6ea3948",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062949,
+            "localadmin_id":1394254013,
+            "locality_id":1394286671,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394286671,
-    "wof:lastmodified":1565299265,
+    "wof:lastmodified":1565581561,
     "wof:name":"Correvon",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254013,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

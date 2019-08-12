@@ -216,18 +216,32 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682269,
+        102062991
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"94c72c41b0d328f09b378ed6f8865d57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062991,
+            "localadmin_id":1394254063,
+            "region_id":85682269
+        }
+    ],
     "wof:id":1394254063,
-    "wof:lastmodified":1565298451,
+    "wof:lastmodified":1565581582,
     "wof:name":"Bellinzona",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062991,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404568201,
         404568557,
         404568633,
@@ -242,7 +256,6 @@
         404570461,
         404570823
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

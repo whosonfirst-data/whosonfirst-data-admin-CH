@@ -61,18 +61,33 @@
     "reversegeo:longitude":7.660094,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404569691,
+        85633051,
+        102062861
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404569691
     ],
     "wof:country":"CH",
     "wof:geomhash":"a11cbcee12039bd5ed39739586f233aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":404569691,
+            "locality_id":1394298105,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394298105,
-    "wof:lastmodified":1565299319,
+    "wof:lastmodified":1565442982,
     "wof:name":"Arni",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

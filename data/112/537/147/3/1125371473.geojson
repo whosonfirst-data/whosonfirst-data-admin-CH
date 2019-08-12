@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"d69eba0b3dfba6a6fffd5b7f8ea5c53c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125371473
+            "county_id":102062861,
+            "localadmin_id":1125371473,
+            "region_id":85682381
         }
     ],
     "wof:id":1125371473,
-    "wof:lastmodified":1505185770,
+    "wof:lastmodified":1565458392,
     "wof:name":"Ferenbalm",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
     "wof:population":1234,
     "wof:population_rank":3,

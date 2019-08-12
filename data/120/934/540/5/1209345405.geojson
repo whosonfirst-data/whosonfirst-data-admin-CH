@@ -44,7 +44,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682341,
+        102191581,
+        404568097,
+        85633051,
+        102062755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +58,18 @@
     "wof:geomhash":"2572758c6583f56fa8a4611d20ea9a6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209345405
+            "county_id":102062755,
+            "localadmin_id":404568097,
+            "locality_id":1209345405,
+            "region_id":85682341
         }
     ],
     "wof:id":1209345405,
-    "wof:lastmodified":1565139002,
+    "wof:lastmodified":1565430790,
     "wof:name":"Fontnas",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

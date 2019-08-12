@@ -124,8 +124,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1126112119,
-        85633051
+        85682309,
+        102191581,
+        404570167,
+        85633051,
+        1394289071,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,15 +142,19 @@
     "wof:geomhash":"a3a252086c5c9793762e09c986ec4d12",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112119,
-            "neighbourhood_id":1394398119
+            "county_id":102063019,
+            "localadmin_id":404570167,
+            "locality_id":1394289071,
+            "neighbourhood_id":1394398119,
+            "region_id":85682309
         }
     ],
     "wof:id":1394398119,
-    "wof:lastmodified":1565241930,
+    "wof:lastmodified":1565440211,
     "wof:name":"Widen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394289071,
     "wof:placetype":"neighbourhood",
     "wof:population":5,
     "wof:population_rank":1,

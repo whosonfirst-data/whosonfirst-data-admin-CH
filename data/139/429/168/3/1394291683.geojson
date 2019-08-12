@@ -25,15 +25,30 @@
     "reversegeo:longitude":8.117814,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682319,
+        102191581,
+        404328179,
+        85633051,
+        1394137073
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"fffbe0762aab487268208a7dbaa71253",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137073,
+            "localadmin_id":404328179,
+            "locality_id":1394291683,
+            "region_id":85682319
+        }
+    ],
     "wof:id":1394291683,
-    "wof:lastmodified":1565139045,
+    "wof:lastmodified":1565442912,
     "wof:name":"Finsterwald b. Entlebuch",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328179,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

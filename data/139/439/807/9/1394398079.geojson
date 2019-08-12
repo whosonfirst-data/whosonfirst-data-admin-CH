@@ -112,8 +112,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1126111701,
-        85633051
+        85682309,
+        102191581,
+        404568915,
+        85633051,
+        101854411,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,15 +130,19 @@
     "wof:geomhash":"1b899979fbc1e6b807fbd21bbe829191",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111701,
-            "neighbourhood_id":1394398079
+            "county_id":102063055,
+            "localadmin_id":404568915,
+            "locality_id":101854411,
+            "neighbourhood_id":1394398079,
+            "region_id":85682309
         }
     ],
     "wof:id":1394398079,
-    "wof:lastmodified":1565242800,
+    "wof:lastmodified":1565441949,
     "wof:name":"Hofstetten",
-    "wof:parent_id":-1,
+    "wof:parent_id":101854411,
     "wof:placetype":"neighbourhood",
     "wof:population":2,
     "wof:population_rank":1,

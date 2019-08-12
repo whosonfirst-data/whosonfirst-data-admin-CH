@@ -58,15 +58,30 @@
     "reversegeo:longitude":8.770293,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682269,
+        102191581,
+        404573577,
+        85633051,
+        102062975
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"3cbf9555e4781221c86e66f03cbf4c06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062975,
+            "localadmin_id":404573577,
+            "locality_id":1394290843,
+            "region_id":85682269
+        }
+    ],
     "wof:id":1394290843,
-    "wof:lastmodified":1565299316,
+    "wof:lastmodified":1565442972,
     "wof:name":"Caviano",
-    "wof:parent_id":-1,
+    "wof:parent_id":404573577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

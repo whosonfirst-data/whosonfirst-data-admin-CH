@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209140209,
-        85633051
+        85682301,
+        102191581,
+        404568309,
+        85633051,
+        1394297967,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"8bd209bca68b31a997cd45653f78e31e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209140209,
-            "neighbourhood_id":1394399365
+            "county_id":102062999,
+            "localadmin_id":404568309,
+            "locality_id":1394297967,
+            "neighbourhood_id":1394399365,
+            "region_id":85682301
         }
     ],
     "wof:id":1394399365,
-    "wof:lastmodified":1565230718,
+    "wof:lastmodified":1565439712,
     "wof:name":"Moleson",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394297967,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

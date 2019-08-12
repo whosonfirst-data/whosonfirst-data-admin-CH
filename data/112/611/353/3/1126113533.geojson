@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569275,
+        85633051,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"9fb0982293da6c3fee06590344e30eda",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113533
+            "county_id":102062779,
+            "localadmin_id":404569275,
+            "locality_id":1126113533,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113533,
-    "wof:lastmodified":1505185750,
+    "wof:lastmodified":1565453040,
     "wof:name":"S\u00e4gissen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569275,
     "wof:placetype":"locality",
     "wof:population":23,
     "wof:population_rank":1,

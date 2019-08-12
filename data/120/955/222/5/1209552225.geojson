@@ -45,7 +45,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682301,
+        102191581,
+        1175611207,
+        85633051,
+        102062765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +59,18 @@
     "wof:geomhash":"527182fd93bfe1823a222de7f2a6ca45",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209552225
+            "county_id":102062765,
+            "localadmin_id":1175611207,
+            "locality_id":1209552225,
+            "region_id":85682301
         }
     ],
     "wof:id":1209552225,
-    "wof:lastmodified":1565138999,
+    "wof:lastmodified":1565430303,
     "wof:name":"Kleingurmels",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1175611207,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

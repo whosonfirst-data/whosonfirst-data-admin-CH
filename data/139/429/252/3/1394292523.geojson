@@ -43,15 +43,30 @@
     "reversegeo:longitude":6.730794,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404570011,
+        85633051,
+        102062813
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"161f7e33fb8d44ff6e1bbdb2252735c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062813,
+            "localadmin_id":404570011,
+            "locality_id":1394292523,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394292523,
-    "wof:lastmodified":1565299404,
+    "wof:lastmodified":1565443249,
     "wof:name":"M\u00e9zery-pr\u00e8s-Donneloye",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570011,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

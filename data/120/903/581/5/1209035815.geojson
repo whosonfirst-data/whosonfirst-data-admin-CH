@@ -31,7 +31,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        404568341,
+        85633051,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"1cf047e9f890161ff2ede13bdf474c64",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209035815
+            "county_id":102062861,
+            "localadmin_id":404568341,
+            "locality_id":1209035815,
+            "region_id":85682381
         }
     ],
     "wof:id":1209035815,
-    "wof:lastmodified":1565230529,
+    "wof:lastmodified":1565430623,
     "wof:name":"Buttenried",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

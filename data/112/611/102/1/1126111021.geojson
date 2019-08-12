@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"acf6fc05a6b311d627fd055cf46e75f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111021
+            "county_id":102062825,
+            "locality_id":1126111021,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111021,
-    "wof:lastmodified":1505185742,
+    "wof:lastmodified":1565453056,
     "wof:name":"Mittelberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062825,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

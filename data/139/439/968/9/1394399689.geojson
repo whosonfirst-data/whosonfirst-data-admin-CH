@@ -93,8 +93,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209244075,
-        85633051
+        85682365,
+        102191581,
+        404328721,
+        85633051,
+        1394287459,
+        1394137123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,15 +109,19 @@
     "wof:geomhash":"b68ba50232cdd0b27c30daef408cdbec",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209244075,
-            "neighbourhood_id":1394399689
+            "county_id":1394137123,
+            "localadmin_id":404328721,
+            "locality_id":1394287459,
+            "neighbourhood_id":1394399689,
+            "region_id":85682365
         }
     ],
     "wof:id":1394399689,
-    "wof:lastmodified":1565298956,
+    "wof:lastmodified":1565441238,
     "wof:name":"Ammansegg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394287459,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -72,9 +72,10 @@
     "woe:name_adm1":"Kanton Schwyz",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        85633051,
         85682305,
+        102191581,
+        1394254135,
+        85633051,
         102062795
     ],
     "wof:breaches":[],
@@ -92,14 +93,15 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062795,
+            "localadmin_id":1394254135,
             "locality_id":1125908369,
             "region_id":85682305
         }
     ],
     "wof:id":1125908369,
-    "wof:lastmodified":1565139286,
+    "wof:lastmodified":1565458811,
     "wof:name":"Bennau",
-    "wof:parent_id":102062795,
+    "wof:parent_id":1394254135,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

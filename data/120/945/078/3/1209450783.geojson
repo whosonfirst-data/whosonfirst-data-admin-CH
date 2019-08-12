@@ -34,7 +34,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682275,
+        102191581,
+        1394254075,
+        85633051,
+        1394237541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +48,18 @@
     "wof:geomhash":"7e018049715a36abce9e0851957a6884",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209450783
+            "county_id":1394237541,
+            "localadmin_id":1394254075,
+            "locality_id":1209450783,
+            "region_id":85682275
         }
     ],
     "wof:id":1209450783,
-    "wof:lastmodified":1565230534,
+    "wof:lastmodified":1565430852,
     "wof:name":"Steinegg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394254075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

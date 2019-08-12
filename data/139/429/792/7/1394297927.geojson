@@ -55,15 +55,30 @@
     "reversegeo:longitude":7.538434,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404571461,
+        85633051,
+        102063061
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"fdeb4415fc2d5dbd3e6b55ea717cc8e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063061,
+            "localadmin_id":404571461,
+            "locality_id":1394297927,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394297927,
-    "wof:lastmodified":1565299373,
+    "wof:lastmodified":1565443140,
     "wof:name":"L\u00e4ngenb\u00fchl",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

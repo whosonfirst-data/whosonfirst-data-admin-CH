@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209136425,
-        85633051
+        85682249,
+        102191581,
+        404328119,
+        85633051,
+        1125798033,
+        102063003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"76236c1a22e278d91a3ba906c4e27307",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209136425,
-            "neighbourhood_id":1394399145
+            "county_id":102063003,
+            "localadmin_id":404328119,
+            "locality_id":1125798033,
+            "neighbourhood_id":1394399145,
+            "region_id":85682249
         }
     ],
     "wof:id":1394399145,
-    "wof:lastmodified":1565230755,
+    "wof:lastmodified":1565441187,
     "wof:name":"Hintersackberg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125798033,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

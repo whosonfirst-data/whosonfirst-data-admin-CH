@@ -64,15 +64,30 @@
     "reversegeo:longitude":8.689745,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682377,
+        102191581,
+        404328157,
+        85633051,
+        102062879
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"69ca1cdd5e496094c1aee435d685bd8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062879,
+            "localadmin_id":404328157,
+            "locality_id":1394297871,
+            "region_id":85682377
+        }
+    ],
     "wof:id":1394297871,
-    "wof:lastmodified":1565299412,
+    "wof:lastmodified":1565443274,
     "wof:name":"B\u00fcrglen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

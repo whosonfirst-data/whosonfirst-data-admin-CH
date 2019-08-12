@@ -25,15 +25,30 @@
     "reversegeo:longitude":6.957907,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404568449,
+        85633051,
+        102062865
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"a08f04dde2757f8a53202bff13afc2b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062865,
+            "localadmin_id":404568449,
+            "locality_id":1394297843,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394297843,
-    "wof:lastmodified":1565139051,
+    "wof:lastmodified":1565443078,
     "wof:name":"Montagne-de-Sonvilier",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568449,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

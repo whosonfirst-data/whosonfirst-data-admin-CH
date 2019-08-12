@@ -52,8 +52,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1126113317,
-        85633051
+        85682309,
+        102191581,
+        404571153,
+        85633051,
+        1125833261,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,15 +70,19 @@
     "wof:geomhash":"e5c198d63044854b6586e065efae290e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113317,
-            "neighbourhood_id":1394398219
+            "county_id":102062893,
+            "localadmin_id":404571153,
+            "locality_id":1125833261,
+            "neighbourhood_id":1394398219,
+            "region_id":85682309
         }
     ],
     "wof:id":1394398219,
-    "wof:lastmodified":1565242007,
+    "wof:lastmodified":1565440362,
     "wof:name":"Werd",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125833261,
     "wof:placetype":"neighbourhood",
     "wof:population":4,
     "wof:population_rank":1,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":1109856.194755,
+    "geom:area_square_m":1109856.194756,
     "geom:bbox":"8.56833456922,47.384609464,8.58283962138,47.3980597792",
     "geom:latitude":47.391387,
     "geom:longitude":8.575794,
@@ -62,7 +62,10 @@
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
         85682309,
+        102191581,
+        1394254167,
         85633051,
+        101748463,
         102063071
     ],
     "wof:breaches":[],
@@ -75,8 +78,11 @@
     "wof:geomhash":"252c018fd367455d6f5088f648b59676",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063071,
+            "localadmin_id":1394254167,
+            "locality_id":101748463,
             "neighbourhood_id":85799881,
             "region_id":85682309
         }
@@ -85,9 +91,9 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527269385,
+    "wof:lastmodified":1565423070,
     "wof:name":"Chlosterli",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

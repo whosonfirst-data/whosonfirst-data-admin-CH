@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209035435,
-        85633051
+        85682353,
+        102191581,
+        404328337,
+        85633051,
+        101854191,
+        1394137099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"691cccb04f85393b921910f4af917bd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209035435,
-            "neighbourhood_id":1394398785
+            "county_id":1394137099,
+            "localadmin_id":404328337,
+            "locality_id":101854191,
+            "neighbourhood_id":1394398785,
+            "region_id":85682353
         }
     ],
     "wof:id":1394398785,
-    "wof:lastmodified":1565230771,
+    "wof:lastmodified":1565441815,
     "wof:name":"Schoenenbueel",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854191,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -22,15 +22,26 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682359
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"fe11988600c2c92f18f104a166ee8212",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394237543,
+            "region_id":85682359
+        }
+    ],
     "wof:id":1394237543,
-    "wof:lastmodified":1565139035,
+    "wof:lastmodified":1565439689,
     "wof:name":"Neuch\u00e2tel (unincorporated)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682359,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:statistical_gore":1,

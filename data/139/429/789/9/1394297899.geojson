@@ -25,15 +25,30 @@
     "reversegeo:longitude":8.717631,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682285,
+        102191581,
+        404328265,
+        85633051,
+        1394137109
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"a8da8d15fe973132fb1f34d49275fd15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137109,
+            "localadmin_id":404328265,
+            "locality_id":1394297899,
+            "region_id":85682285
+        }
+    ],
     "wof:id":1394297899,
-    "wof:lastmodified":1565139058,
+    "wof:lastmodified":1565443280,
     "wof:name":"Barzheim",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328265,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

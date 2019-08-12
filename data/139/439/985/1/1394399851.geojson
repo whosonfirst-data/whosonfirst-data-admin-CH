@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209249821,
-        85633051
+        85682319,
+        102191581,
+        1394254139,
+        85633051,
+        101854025,
+        1394137073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"bf3dd5bc5f464490d722ce3f1ee7bd63",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209249821,
-            "neighbourhood_id":1394399851
+            "county_id":1394137073,
+            "localadmin_id":1394254139,
+            "locality_id":101854025,
+            "neighbourhood_id":1394399851,
+            "region_id":85682319
         }
     ],
     "wof:id":1394399851,
-    "wof:lastmodified":1565230753,
+    "wof:lastmodified":1565581467,
     "wof:name":"Strickegg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854025,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

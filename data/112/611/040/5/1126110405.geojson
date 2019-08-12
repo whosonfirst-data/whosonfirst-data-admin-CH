@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569213,
+        85633051,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"91ca7cb4f0e0440b84bf903cf73c6ee7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110405
+            "county_id":102062995,
+            "localadmin_id":404569213,
+            "locality_id":1126110405,
+            "region_id":85682309
         }
     ],
     "wof:id":1126110405,
-    "wof:lastmodified":1505185726,
+    "wof:lastmodified":1565453366,
     "wof:name":"Langensteg",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569213,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

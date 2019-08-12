@@ -29,8 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209649699,
-        85633051
+        85682255,
+        102191581,
+        1394253983,
+        85633051,
+        1126026393,
+        102062885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,19 @@
     "wof:geomhash":"608bd13710b36957a414d6d603b9bb76",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209649699,
-            "neighbourhood_id":1394401155
+            "county_id":102062885,
+            "localadmin_id":1394253983,
+            "locality_id":1126026393,
+            "neighbourhood_id":1394401155,
+            "region_id":85682255
         }
     ],
     "wof:id":1394401155,
-    "wof:lastmodified":1565230684,
+    "wof:lastmodified":1565581395,
     "wof:name":"Salategnas",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126026393,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

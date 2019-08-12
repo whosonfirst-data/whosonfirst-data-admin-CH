@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102063047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"c2f36ca31909673ecf9a29a3cad137e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125411335
+            "county_id":102063047,
+            "localadmin_id":1125411335,
+            "region_id":85682325
         }
     ],
     "wof:id":1125411335,
-    "wof:lastmodified":1505248222,
+    "wof:lastmodified":1565462328,
     "wof:name":"Oron-le-Ch\u00e2tel",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063047,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

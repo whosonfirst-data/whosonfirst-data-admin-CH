@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569213,
+        85633051,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"0f98eebcdaf2ea231411fd30839d461e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112775
+            "county_id":102062995,
+            "localadmin_id":404569213,
+            "locality_id":1126112775,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112775,
-    "wof:lastmodified":1505185727,
+    "wof:lastmodified":1565454135,
     "wof:name":"Rotgrueb",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569213,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

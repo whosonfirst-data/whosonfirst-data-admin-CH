@@ -25,15 +25,30 @@
     "reversegeo:longitude":8.086681,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682329,
+        102191581,
+        404568961,
+        85633051,
+        102062977
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"d00a40e913b84ec00ec653f149f16280",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062977,
+            "localadmin_id":404568961,
+            "locality_id":1394293559,
+            "region_id":85682329
+        }
+    ],
     "wof:id":1394293559,
-    "wof:lastmodified":1565139046,
+    "wof:lastmodified":1565442950,
     "wof:name":"Rheinsulz",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568961,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -139,15 +139,30 @@
     "reversegeo:longitude":9.582816,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        1394253983,
+        85633051,
+        102062885
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"9915d3cf37f8cb1c35498d1159c16ed1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062885,
+            "localadmin_id":1394253983,
+            "locality_id":1394290601,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394290601,
-    "wof:lastmodified":1565299403,
+    "wof:lastmodified":1565581391,
     "wof:name":"Riom",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394253983,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

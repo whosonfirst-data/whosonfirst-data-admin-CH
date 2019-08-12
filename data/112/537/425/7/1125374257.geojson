@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"59c3da1290e6b1990a24d195dbb8333c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125374257
+            "county_id":102062861,
+            "localadmin_id":1125374257,
+            "region_id":85682381
         }
     ],
     "wof:id":1125374257,
-    "wof:lastmodified":1505248126,
+    "wof:lastmodified":1565458347,
     "wof:name":"Bowil",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

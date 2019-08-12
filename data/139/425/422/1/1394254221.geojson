@@ -48,22 +48,35 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682365,
+        1394137123
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"089f97f6842fa871a5c85053fad2b9e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137123,
+            "localadmin_id":1394254221,
+            "region_id":85682365
+        }
+    ],
     "wof:id":1394254221,
-    "wof:lastmodified":1565298435,
+    "wof:lastmodified":1565581455,
     "wof:name":"Drei H\u00f6fe",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404328797,
         404328895
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

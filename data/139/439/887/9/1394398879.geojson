@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209040621,
-        85633051
+        85682269,
+        102191581,
+        404571565,
+        85633051,
+        1125898015,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"22fb4c40ee2b95555716c7eb89f456b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209040621,
-            "neighbourhood_id":1394398879
+            "county_id":102062767,
+            "localadmin_id":404571565,
+            "locality_id":1125898015,
+            "neighbourhood_id":1394398879,
+            "region_id":85682269
         }
     ],
     "wof:id":1394398879,
-    "wof:lastmodified":1565230732,
+    "wof:lastmodified":1565440271,
     "wof:name":"Bavoggio",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125898015,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

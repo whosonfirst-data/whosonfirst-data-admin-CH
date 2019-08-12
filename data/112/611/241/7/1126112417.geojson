@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404573529,
+        85633051,
+        102062933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"39d9de1dced73740a00a3d9972549598",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112417
+            "county_id":102062933,
+            "localadmin_id":404573529,
+            "locality_id":1126112417,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112417,
-    "wof:lastmodified":1505185756,
+    "wof:lastmodified":1565454150,
     "wof:name":"Brand",
-    "wof:parent_id":-1,
+    "wof:parent_id":404573529,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

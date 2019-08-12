@@ -61,15 +61,30 @@
     "reversegeo:longitude":8.783255,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682305,
+        102191581,
+        404568583,
+        85633051,
+        102062919
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"d7391d5079c3f5c7d0d7f5bd622cc58e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062919,
+            "localadmin_id":404568583,
+            "locality_id":1394386129,
+            "region_id":85682305
+        }
+    ],
     "wof:id":1394386129,
-    "wof:lastmodified":1565299248,
+    "wof:lastmodified":1565442692,
     "wof:name":"Pf\u00e4ffikon",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568583,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

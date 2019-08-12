@@ -30,15 +30,26 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682365
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"941ceac8d6cf8e13c6431ca9c74b4ba3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137093,
+            "region_id":85682365
+        }
+    ],
     "wof:id":1394137093,
-    "wof:lastmodified":1565139032,
+    "wof:lastmodified":1565438721,
     "wof:name":"Gosgen",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682365,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

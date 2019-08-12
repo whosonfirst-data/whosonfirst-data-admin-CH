@@ -52,18 +52,33 @@
     "reversegeo:longitude":7.567581,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682361,
+        102191581,
+        404571475,
+        85633051,
+        102062971
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404571475
     ],
     "wof:country":"CH",
     "wof:geomhash":"845f2a8d2b050826d390ba78a9f80459",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062971,
+            "localadmin_id":404571475,
+            "locality_id":1394290481,
+            "region_id":85682361
+        }
+    ],
     "wof:id":1394290481,
-    "wof:lastmodified":1565299316,
+    "wof:lastmodified":1565442971,
     "wof:name":"Binningen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682269,
+        102191581,
+        404571673,
+        85633051,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"2caa2888e65db40fe90e3177b08da2bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209243171
+            "county_id":102062767,
+            "localadmin_id":404571673,
+            "locality_id":1209243171,
+            "region_id":85682269
         }
     ],
     "wof:id":1209243171,
-    "wof:lastmodified":1565230525,
+    "wof:lastmodified":1565430399,
     "wof:name":"Confine",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404571673,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

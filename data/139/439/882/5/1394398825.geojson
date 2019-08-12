@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209036011,
-        85633051
+        85682319,
+        102191581,
+        404328179,
+        85633051,
+        1125929489,
+        1394137073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"ed61753719df6d33801cbada5cf43145",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209036011,
-            "neighbourhood_id":1394398825
+            "county_id":1394137073,
+            "localadmin_id":404328179,
+            "locality_id":1125929489,
+            "neighbourhood_id":1394398825,
+            "region_id":85682319
         }
     ],
     "wof:id":1394398825,
-    "wof:lastmodified":1565230770,
+    "wof:lastmodified":1565441763,
     "wof:name":"Oberbachguet",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125929489,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

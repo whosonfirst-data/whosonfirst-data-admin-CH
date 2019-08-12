@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404571995,
+        85633051,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"8b32b6a2cf28fa9fc03129c75df1ab98",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111879
+            "county_id":102062893,
+            "localadmin_id":404571995,
+            "locality_id":1126111879,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111879,
-    "wof:lastmodified":1505185766,
+    "wof:lastmodified":1565453648,
     "wof:name":"Meierhof",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571995,
     "wof:placetype":"locality",
     "wof:population":20,
     "wof:population_rank":1,

@@ -30,8 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209251035,
-        85633051
+        85682255,
+        102191581,
+        404567795,
+        85633051,
+        1360215991,
+        102062773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,19 @@
     "wof:geomhash":"ca14b802a92d1a49d60b601dc8d0f4db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209251035,
-            "neighbourhood_id":1394399893
+            "county_id":102062773,
+            "localadmin_id":404567795,
+            "locality_id":1360215991,
+            "neighbourhood_id":1394399893,
+            "region_id":85682255
         }
     ],
     "wof:id":1394399893,
-    "wof:lastmodified":1565230788,
+    "wof:lastmodified":1565442445,
     "wof:name":"Cumpadials",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1360215991,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

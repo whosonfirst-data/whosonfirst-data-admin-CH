@@ -147,8 +147,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209651397,
-        85633051
+        85682341,
+        102191581,
+        1394254039,
+        85633051,
+        1126036705,
+        102063057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -158,15 +162,19 @@
     "wof:geomhash":"62a05618d1dfecdb384986d71e5b684c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209651397,
-            "neighbourhood_id":1394401243
+            "county_id":102063057,
+            "localadmin_id":1394254039,
+            "locality_id":1126036705,
+            "neighbourhood_id":1394401243,
+            "region_id":85682341
         }
     ],
     "wof:id":1394401243,
-    "wof:lastmodified":1565298316,
+    "wof:lastmodified":1565437504,
     "wof:name":"Leh",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126036705,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

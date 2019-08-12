@@ -30,15 +30,26 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682353
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"e4efe5351d03156ab55ad7b975a68792",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137103,
+            "region_id":85682353
+        }
+    ],
     "wof:id":1394137103,
-    "wof:lastmodified":1565139034,
+    "wof:lastmodified":1565438834,
     "wof:name":"Vorderland",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682353,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

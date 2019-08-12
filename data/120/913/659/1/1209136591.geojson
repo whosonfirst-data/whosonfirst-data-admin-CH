@@ -92,7 +92,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682325,
+        102191581,
+        404572283,
+        85633051,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,14 +110,18 @@
     "wof:geomhash":"e7d455ed6ee925e7f2320680076f685d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209136591
+            "county_id":102063049,
+            "localadmin_id":404572283,
+            "locality_id":1209136591,
+            "region_id":85682325
         }
     ],
     "wof:id":1209136591,
-    "wof:lastmodified":1565297329,
+    "wof:lastmodified":1565430469,
     "wof:name":"Luins",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404572283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

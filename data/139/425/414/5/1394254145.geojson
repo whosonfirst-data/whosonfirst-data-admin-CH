@@ -81,25 +81,38 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682269,
+        102062975
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"aa505f88ea291656a6dd607ff0543039",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062975,
+            "localadmin_id":1394254145,
+            "region_id":85682269
+        }
+    ],
     "wof:id":1394254145,
-    "wof:lastmodified":1565298441,
+    "wof:lastmodified":1565581516,
     "wof:name":"Onsernone",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404568109,
         404568289,
         404568771,
         404570123,
         1175611169
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

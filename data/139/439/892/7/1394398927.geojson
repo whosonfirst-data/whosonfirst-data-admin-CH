@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209041339,
-        85633051
+        85682337,
+        102191581,
+        404569255,
+        85633051,
+        1327170895,
+        102062955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"c7ce26fbf7ca0cc1301b87baaaed315e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209041339,
-            "neighbourhood_id":1394398927
+            "county_id":102062955,
+            "localadmin_id":404569255,
+            "locality_id":1327170895,
+            "neighbourhood_id":1394398927,
+            "region_id":85682337
         }
     ],
     "wof:id":1394398927,
-    "wof:lastmodified":1565230737,
+    "wof:lastmodified":1565440483,
     "wof:name":"Loewenhaus",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1327170895,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

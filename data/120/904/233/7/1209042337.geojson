@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        404567761,
+        85633051,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"528c67689c2b877adf347f9f4d419d4b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209042337
+            "county_id":102062831,
+            "localadmin_id":404567761,
+            "locality_id":1209042337,
+            "region_id":85682381
         }
     ],
     "wof:id":1209042337,
-    "wof:lastmodified":1565230530,
+    "wof:lastmodified":1565430671,
     "wof:name":"Rossacher",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404567761,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

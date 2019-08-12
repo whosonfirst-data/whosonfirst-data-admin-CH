@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"425880bfc2f8517a011d863f5831d28f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125365889
+            "county_id":102062909,
+            "localadmin_id":1125365889,
+            "region_id":85682381
         }
     ],
     "wof:id":1125365889,
-    "wof:lastmodified":1505248113,
+    "wof:lastmodified":1565459146,
     "wof:name":"Busswil bei B\u00fcren",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

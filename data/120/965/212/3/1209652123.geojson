@@ -45,7 +45,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682255,
+        102191581,
+        1394254157,
+        85633051,
+        102062773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +59,18 @@
     "wof:geomhash":"7854dda1d911a045050fc7dc7e9e0f29",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209652123
+            "county_id":102062773,
+            "localadmin_id":1394254157,
+            "locality_id":1209652123,
+            "region_id":85682255
         }
     ],
     "wof:id":1209652123,
-    "wof:lastmodified":1565138998,
+    "wof:lastmodified":1565581530,
     "wof:name":"Dardin",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394254157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

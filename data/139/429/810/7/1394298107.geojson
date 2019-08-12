@@ -52,15 +52,30 @@
     "reversegeo:longitude":7.466365,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682365,
+        102191581,
+        404328395,
+        85633051,
+        1394137095
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"1ab21b0b3fb5e3cd1d911a9e7b281ddd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137095,
+            "localadmin_id":404328395,
+            "locality_id":1394298107,
+            "region_id":85682365
+        }
+    ],
     "wof:id":1394298107,
-    "wof:lastmodified":1565299318,
+    "wof:lastmodified":1565442977,
     "wof:name":"Brunnenthal",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

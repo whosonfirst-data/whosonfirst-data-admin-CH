@@ -55,15 +55,30 @@
     "reversegeo:longitude":9.191405,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682337,
+        102191581,
+        404570053,
+        85633051,
+        102062953
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"d4882fd0fac0a1985260aa0387249abb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062953,
+            "localadmin_id":404570053,
+            "locality_id":1394296291,
+            "region_id":85682337
+        }
+    ],
     "wof:id":1394296291,
-    "wof:lastmodified":1565299322,
+    "wof:lastmodified":1565442991,
     "wof:name":"Oberhofen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

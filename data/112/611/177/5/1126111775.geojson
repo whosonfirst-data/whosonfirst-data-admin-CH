@@ -37,7 +37,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404567873,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,18 @@
     "wof:geomhash":"9da349ed8d57dae32f24c6f1e2fd7e1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111775
+            "county_id":102063055,
+            "localadmin_id":404567873,
+            "locality_id":1126111775,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111775,
-    "wof:lastmodified":1505185762,
+    "wof:lastmodified":1565454635,
     "wof:name":"Oberwinterthur (Kreis 2) / Weieracker",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567873,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

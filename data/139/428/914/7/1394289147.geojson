@@ -148,15 +148,30 @@
     "reversegeo:longitude":6.810322,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682301,
+        102191581,
+        1394254193,
+        85633051,
+        102062945
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"fc629c7c7b6fbdf37e01b9a9c728bfcf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062945,
+            "localadmin_id":1394254193,
+            "locality_id":1394289147,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394289147,
-    "wof:lastmodified":1565299275,
+    "wof:lastmodified":1565581682,
     "wof:name":"Font",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

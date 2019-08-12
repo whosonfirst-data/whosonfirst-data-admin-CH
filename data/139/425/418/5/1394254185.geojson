@@ -99,22 +99,35 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682255,
+        102062803
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"ee1d151be5318cc1f78309ffa800fa7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062803,
+            "localadmin_id":1394254185,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394254185,
-    "wof:lastmodified":1565298489,
+    "wof:lastmodified":1565581839,
     "wof:name":"Luzein",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062803,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404567975,
         404568241
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

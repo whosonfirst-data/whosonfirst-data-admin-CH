@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209141835,
-        85633051
+        85682301,
+        102191581,
+        404571463,
+        85633051,
+        1126014799,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"fc98a50fa7d888671502615ad2b75aac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209141835,
-            "neighbourhood_id":1394399463
+            "county_id":102062999,
+            "localadmin_id":404571463,
+            "locality_id":1126014799,
+            "neighbourhood_id":1394399463,
+            "region_id":85682301
         }
     ],
     "wof:id":1394399463,
-    "wof:lastmodified":1565230748,
+    "wof:lastmodified":1565440878,
     "wof:name":"Les Bioleires",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126014799,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

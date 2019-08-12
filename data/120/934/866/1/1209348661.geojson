@@ -30,7 +30,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682337,
+        102191581,
+        404569441,
+        85633051,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +44,18 @@
     "wof:geomhash":"eb30cc011b2b87888d16c28e7c3038bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209348661
+            "county_id":102062953,
+            "localadmin_id":404569441,
+            "locality_id":1209348661,
+            "region_id":85682337
         }
     ],
     "wof:id":1209348661,
-    "wof:lastmodified":1565230532,
+    "wof:lastmodified":1565430740,
     "wof:name":"Emmishofen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404569441,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

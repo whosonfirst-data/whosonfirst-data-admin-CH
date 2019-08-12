@@ -98,8 +98,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209250749,
-        85633051
+        85682269,
+        102191581,
+        404572121,
+        85633051,
+        1125971861,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,15 +113,19 @@
     "wof:geomhash":"19f831d3ec9b0ab920308935e3066bd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209250749,
-            "neighbourhood_id":1394399879
+            "county_id":102062767,
+            "localadmin_id":404572121,
+            "locality_id":1125971861,
+            "neighbourhood_id":1394399879,
+            "region_id":85682269
         }
     ],
     "wof:id":1394399879,
-    "wof:lastmodified":1565299186,
+    "wof:lastmodified":1565442395,
     "wof:name":"Selva",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125971861,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

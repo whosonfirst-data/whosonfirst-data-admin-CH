@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568687,
+        85633051,
+        102062967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"669eeb4ff9723e23b713f8b918c6f70d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110641
+            "county_id":102062967,
+            "localadmin_id":404568687,
+            "locality_id":1126110641,
+            "region_id":85682309
         }
     ],
     "wof:id":1126110641,
-    "wof:lastmodified":1505185732,
+    "wof:lastmodified":1565453578,
     "wof:name":"Talg\u00fcetli",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568687,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

@@ -91,18 +91,33 @@
     "reversegeo:longitude":7.431315,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404568059,
+        85633051,
+        102062831
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404568059
     ],
     "wof:country":"CH",
     "wof:geomhash":"03a86fe2eb1f3aac6e2d5c6e91b48318",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062831,
+            "localadmin_id":404568059,
+            "locality_id":1394289193,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394289193,
-    "wof:lastmodified":1565299292,
+    "wof:lastmodified":1565442881,
     "wof:name":"Oberwil im Simmental",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568059,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

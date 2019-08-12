@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682275,
+        102191581,
+        1394254075,
+        85633051,
+        1394237541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"64c041702565ed05cdfa4da6fc88cbf9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209043121
+            "county_id":1394237541,
+            "localadmin_id":1394254075,
+            "locality_id":1209043121,
+            "region_id":85682275
         }
     ],
     "wof:id":1209043121,
-    "wof:lastmodified":1565230530,
+    "wof:lastmodified":1565430674,
     "wof:name":"Bollenwees",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394254075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

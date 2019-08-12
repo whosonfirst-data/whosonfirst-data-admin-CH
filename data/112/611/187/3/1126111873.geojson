@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404572243,
+        85633051,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"420dc4ebbc806d36eceb7586143c9375",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111873
+            "county_id":102062893,
+            "localadmin_id":404572243,
+            "locality_id":1126111873,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111873,
-    "wof:lastmodified":1505185765,
+    "wof:lastmodified":1565453652,
     "wof:name":"Wiesent\u00e4li",
-    "wof:parent_id":-1,
+    "wof:parent_id":404572243,
     "wof:placetype":"locality",
     "wof:population":7,
     "wof:population_rank":1,

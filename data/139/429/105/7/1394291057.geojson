@@ -112,18 +112,33 @@
     "reversegeo:longitude":7.493798,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404570927,
+        85633051,
+        102062861
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404570927
     ],
     "wof:country":"CH",
     "wof:geomhash":"be7cfb253e8e8f87342f8d83bd2d544e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":404570927,
+            "locality_id":1394291057,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394291057,
-    "wof:lastmodified":1565299304,
+    "wof:lastmodified":1565442919,
     "wof:name":"Ostermundigen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570927,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

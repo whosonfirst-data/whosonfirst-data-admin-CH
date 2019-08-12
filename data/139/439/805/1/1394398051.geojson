@@ -55,8 +55,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1126111065,
-        85633051
+        85682309,
+        102191581,
+        1394253973,
+        85633051,
+        1125908497,
+        1394212863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,15 +73,19 @@
     "wof:geomhash":"d0b5b8c63ad5366747f64056c0e72fc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111065,
-            "neighbourhood_id":1394398051
+            "county_id":1394212863,
+            "localadmin_id":1394253973,
+            "locality_id":1125908497,
+            "neighbourhood_id":1394398051,
+            "region_id":85682309
         }
     ],
     "wof:id":1394398051,
-    "wof:lastmodified":1565290454,
+    "wof:lastmodified":1565440792,
     "wof:name":"Liebenfels",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125908497,
     "wof:placetype":"neighbourhood",
     "wof:population":7,
     "wof:population_rank":1,

@@ -25,15 +25,30 @@
     "reversegeo:longitude":7.874464,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404569997,
+        85633051,
+        102062759
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"d2ac7b6e819ed1d678dd1d6b77360617",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062759,
+            "localadmin_id":404569997,
+            "locality_id":1394297965,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394297965,
-    "wof:lastmodified":1565139046,
+    "wof:lastmodified":1565442948,
     "wof:name":"Goldswil b. Interlaken",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

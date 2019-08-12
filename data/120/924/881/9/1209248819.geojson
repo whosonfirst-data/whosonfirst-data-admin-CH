@@ -31,7 +31,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682301,
+        102191581,
+        404571165,
+        85633051,
+        102063029
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"792ee62facccecea2ebbf731410dbde8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209248819
+            "county_id":102063029,
+            "localadmin_id":404571165,
+            "locality_id":1209248819,
+            "region_id":85682301
         }
     ],
     "wof:id":1209248819,
-    "wof:lastmodified":1565230524,
+    "wof:lastmodified":1565430361,
     "wof:name":"Corsalettes",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404571165,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

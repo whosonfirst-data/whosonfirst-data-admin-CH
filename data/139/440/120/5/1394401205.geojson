@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209651033,
-        85633051
+        85682329,
+        102191581,
+        404569199,
+        85633051,
+        1125770587,
+        102062989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"75ce3310f8d626b2e052af4a793c0ee0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209651033,
-            "neighbourhood_id":1394401205
+            "county_id":102062989,
+            "localadmin_id":404569199,
+            "locality_id":1125770587,
+            "neighbourhood_id":1394401205,
+            "region_id":85682329
         }
     ],
     "wof:id":1394401205,
-    "wof:lastmodified":1565230623,
+    "wof:lastmodified":1565435049,
     "wof:name":"Bruggletz",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125770587,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

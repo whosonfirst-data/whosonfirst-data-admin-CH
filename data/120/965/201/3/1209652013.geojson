@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        404568311,
+        85633051,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"722b73cd879432fa3a16c6abe480c7eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209652013
+            "county_id":102062837,
+            "localadmin_id":404568311,
+            "locality_id":1209652013,
+            "region_id":85682381
         }
     ],
     "wof:id":1209652013,
-    "wof:lastmodified":1565230521,
+    "wof:lastmodified":1565430232,
     "wof:name":"Buchgasse",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568311,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

@@ -63,8 +63,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209036063,
-        85633051
+        85682255,
+        102191581,
+        1394253983,
+        85633051,
+        1125933797,
+        102062885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,15 +78,19 @@
     "wof:geomhash":"0acdae8ea056174cebcde68d1e6f8e9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209036063,
-            "neighbourhood_id":1394398831
+            "county_id":102062885,
+            "localadmin_id":1394253983,
+            "locality_id":1125933797,
+            "neighbourhood_id":1394398831,
+            "region_id":85682255
         }
     ],
     "wof:id":1394398831,
-    "wof:lastmodified":1565299037,
+    "wof:lastmodified":1565581392,
     "wof:name":"Rodas",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125933797,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

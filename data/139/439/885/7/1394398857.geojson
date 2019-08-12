@@ -30,8 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209040507,
-        85633051
+        85682301,
+        102191581,
+        404569979,
+        85633051,
+        1126003057,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,19 @@
     "wof:geomhash":"f7c90e100e2073e81fd8529f89ad57ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209040507,
-            "neighbourhood_id":1394398857
+            "county_id":102062891,
+            "localadmin_id":404569979,
+            "locality_id":1126003057,
+            "neighbourhood_id":1394398857,
+            "region_id":85682301
         }
     ],
     "wof:id":1394398857,
-    "wof:lastmodified":1565230771,
+    "wof:lastmodified":1565441787,
     "wof:name":"Niedermuhren",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126003057,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

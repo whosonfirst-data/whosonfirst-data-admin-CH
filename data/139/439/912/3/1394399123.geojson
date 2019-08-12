@@ -29,8 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209043785,
-        85633051
+        85682381,
+        102191581,
+        404567771,
+        85633051,
+        1125911275,
+        102062821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,19 @@
     "wof:geomhash":"fe60cb70d633a6e18d0ded986cf94687",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209043785,
-            "neighbourhood_id":1394399123
+            "county_id":102062821,
+            "localadmin_id":404567771,
+            "locality_id":1125911275,
+            "neighbourhood_id":1394399123,
+            "region_id":85682381
         }
     ],
     "wof:id":1394399123,
-    "wof:lastmodified":1565230749,
+    "wof:lastmodified":1565440931,
     "wof:name":"Hornkessel",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125911275,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

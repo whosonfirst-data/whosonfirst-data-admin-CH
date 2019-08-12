@@ -81,24 +81,37 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682269,
+        102062941
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"a7797cf64d0a082c8c0c877c934fc71a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062941,
+            "localadmin_id":1394254173,
+            "region_id":85682269
+        }
+    ],
     "wof:id":1394254173,
-    "wof:lastmodified":1565298472,
+    "wof:lastmodified":1565581727,
     "wof:name":"Riviera",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062941,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404568247,
         404568645,
         404568683,
         404568759
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

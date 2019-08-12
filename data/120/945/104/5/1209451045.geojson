@@ -132,7 +132,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682315,
+        102191581,
+        404328305,
+        85633051,
+        102062973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,14 +150,18 @@
     "wof:geomhash":"c6f7af938052027a671bb72e90c53cf7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209451045
+            "county_id":102062973,
+            "localadmin_id":404328305,
+            "locality_id":1209451045,
+            "region_id":85682315
         }
     ],
     "wof:id":1209451045,
-    "wof:lastmodified":1565297344,
+    "wof:lastmodified":1565430843,
     "wof:name":"Hergiswil",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328305,
     "wof:placetype":"locality",
     "wof:population":5437,
     "wof:population_rank":5,

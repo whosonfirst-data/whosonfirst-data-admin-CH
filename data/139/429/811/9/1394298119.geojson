@@ -25,15 +25,30 @@
     "reversegeo:longitude":7.651955,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        1394254147,
+        85633051,
+        102062861
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"027594df0d6e7a54088608213e345f84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":1394254147,
+            "locality_id":1394298119,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394298119,
-    "wof:lastmodified":1565139047,
+    "wof:lastmodified":1565581509,
     "wof:name":"Aeschlen b. Oberdiessbach",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

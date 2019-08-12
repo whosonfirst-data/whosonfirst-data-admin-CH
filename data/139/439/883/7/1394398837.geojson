@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209036095,
-        85633051
+        85682319,
+        102191581,
+        1394254139,
+        85633051,
+        101854025,
+        1394137073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"361c41cfe8bf0d6bcc16929da29900dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209036095,
-            "neighbourhood_id":1394398837
+            "county_id":1394137073,
+            "localadmin_id":1394254139,
+            "locality_id":101854025,
+            "neighbourhood_id":1394398837,
+            "region_id":85682319
         }
     ],
     "wof:id":1394398837,
-    "wof:lastmodified":1565230767,
+    "wof:lastmodified":1565581467,
     "wof:name":"Obermatt",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854025,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

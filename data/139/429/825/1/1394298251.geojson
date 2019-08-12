@@ -114,15 +114,26 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682285
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"11eece1465e2d8b5de1c475882c0025b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394298251,
+            "region_id":85682285
+        }
+    ],
     "wof:id":1394298251,
-    "wof:lastmodified":1565299386,
+    "wof:lastmodified":1565443189,
     "wof:name":"Stein",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682285,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

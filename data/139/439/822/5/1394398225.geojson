@@ -130,8 +130,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1126113425,
-        85633051
+        85682309,
+        102191581,
+        404568511,
+        85633051,
+        1125896199,
+        102062967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -144,15 +148,19 @@
     "wof:geomhash":"49fdde21e75c3c7ad0ecae34180ee537",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113425,
-            "neighbourhood_id":1394398225
+            "county_id":102062967,
+            "localadmin_id":404568511,
+            "locality_id":1125896199,
+            "neighbourhood_id":1394398225,
+            "region_id":85682309
         }
     ],
     "wof:id":1394398225,
-    "wof:lastmodified":1565242784,
+    "wof:lastmodified":1565441923,
     "wof:name":"Egg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125896199,
     "wof:placetype":"neighbourhood",
     "wof:population":2,
     "wof:population_rank":1,

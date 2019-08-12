@@ -25,15 +25,30 @@
     "reversegeo:longitude":9.042009,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682269,
+        102191581,
+        1394254171,
+        85633051,
+        102062767
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"d6da19a2d9a81344ad04b7b30666dda0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062767,
+            "localadmin_id":1394254171,
+            "locality_id":1394290975,
+            "region_id":85682269
+        }
+    ],
     "wof:id":1394290975,
-    "wof:lastmodified":1565139049,
+    "wof:lastmodified":1565581715,
     "wof:name":"Maglio di Colla",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254171,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

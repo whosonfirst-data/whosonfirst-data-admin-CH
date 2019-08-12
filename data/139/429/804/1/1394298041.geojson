@@ -91,18 +91,33 @@
     "reversegeo:longitude":8.627418,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        404569727,
+        85633051,
+        102062801
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404569727
     ],
     "wof:country":"CH",
     "wof:geomhash":"37440030c784af6306d9e72750b91f29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062801,
+            "localadmin_id":404569727,
+            "locality_id":1394298041,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394298041,
-    "wof:lastmodified":1565299326,
+    "wof:lastmodified":1565443002,
     "wof:name":"Buch am Irchel",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -31,7 +31,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682337,
+        102191581,
+        404568431,
+        85633051,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"9163cece5fe9a877784add4706d93788",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209651603
+            "county_id":102062869,
+            "localadmin_id":404568431,
+            "locality_id":1209651603,
+            "region_id":85682337
         }
     ],
     "wof:id":1209651603,
-    "wof:lastmodified":1565230521,
+    "wof:lastmodified":1565430212,
     "wof:name":"Reutenen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568431,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

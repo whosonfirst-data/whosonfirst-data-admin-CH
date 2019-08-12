@@ -40,7 +40,10 @@
     "woe:name_adm1":"Baden-W\u00fcrttemberg",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682361,
+        102062971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"dec3e7d42a4e766fc7ddbc3a5c5e8797",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125301377
+            "county_id":102062971,
+            "localadmin_id":1125301377,
+            "region_id":85682361
         }
     ],
     "wof:id":1125301377,
-    "wof:lastmodified":1505248004,
+    "wof:lastmodified":1565458403,
     "wof:name":"Gemeinde Grenzach-Wyhlen",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062971,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

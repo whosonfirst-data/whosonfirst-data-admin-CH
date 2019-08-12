@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209035157,
-        85633051
+        85682309,
+        102191581,
+        404569861,
+        85633051,
+        1125952571,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"71554cf4d6af948e5ed0341b80dedd20",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209035157,
-            "neighbourhood_id":1394398745
+            "county_id":102062801,
+            "localadmin_id":404569861,
+            "locality_id":1125952571,
+            "neighbourhood_id":1394398745,
+            "region_id":85682309
         }
     ],
     "wof:id":1394398745,
-    "wof:lastmodified":1565230732,
+    "wof:lastmodified":1565440261,
     "wof:name":"Ammenstieg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125952571,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

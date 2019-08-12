@@ -92,7 +92,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682347,
+        102191581,
+        1394254037,
+        85633051,
+        102062791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,14 +107,18 @@
     "wof:geomhash":"e08a1e0d487c9eac56e354d7b7dd2b0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209449661
+            "county_id":102062791,
+            "localadmin_id":1394254037,
+            "locality_id":1209449661,
+            "region_id":85682347
         }
     ],
     "wof:id":1209449661,
-    "wof:lastmodified":1565297346,
+    "wof:lastmodified":1565581884,
     "wof:name":"Montsevelier",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394254037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

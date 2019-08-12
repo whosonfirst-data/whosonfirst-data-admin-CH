@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209042601,
-        85633051
+        85682341,
+        102191581,
+        1394253985,
+        85633051,
+        1126007171,
+        102062815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"ab12071eea5b32c2ede49811a7f2c104",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209042601,
-            "neighbourhood_id":1394398977
+            "county_id":102062815,
+            "localadmin_id":1394253985,
+            "locality_id":1126007171,
+            "neighbourhood_id":1394398977,
+            "region_id":85682341
         }
     ],
     "wof:id":1394398977,
-    "wof:lastmodified":1565230783,
+    "wof:lastmodified":1565581401,
     "wof:name":"Hinterbergen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126007171,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -40,15 +40,30 @@
     "reversegeo:longitude":8.688902,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        404568915,
+        85633051,
+        102063055
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"61fee532df3c6b229adabd91e4ffa0a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063055,
+            "localadmin_id":404568915,
+            "locality_id":1394298017,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394298017,
-    "wof:lastmodified":1565299401,
+    "wof:lastmodified":1565443238,
     "wof:name":"Riet",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568915,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

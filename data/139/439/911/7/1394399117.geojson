@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209043739,
-        85633051
+        85682315,
+        102191581,
+        404328125,
+        85633051,
+        1125930585,
+        102062973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"6060f1b4f17b73ffb43f99f4d963d6ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209043739,
-            "neighbourhood_id":1394399117
+            "county_id":102062973,
+            "localadmin_id":404328125,
+            "locality_id":1125930585,
+            "neighbourhood_id":1394399117,
+            "region_id":85682315
         }
     ],
     "wof:id":1394399117,
-    "wof:lastmodified":1565230783,
+    "wof:lastmodified":1565442290,
     "wof:name":"Unter Sack",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125930585,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

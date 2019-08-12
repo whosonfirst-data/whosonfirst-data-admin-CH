@@ -97,15 +97,30 @@
     "reversegeo:longitude":7.561849,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682281,
+        102191581,
+        404567707,
+        85633051,
+        102062985
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"4e489e6acf30cf99171093ec904557d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062985,
+            "localadmin_id":404567707,
+            "locality_id":1394348315,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394348315,
-    "wof:lastmodified":1565299516,
+    "wof:lastmodified":1565443739,
     "wof:name":"La Forclaz",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

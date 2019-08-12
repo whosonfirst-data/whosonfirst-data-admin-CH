@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209140735,
-        85633051
+        85682315,
+        102191581,
+        404328389,
+        85633051,
+        101853921,
+        102062973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"f83993a13d20d2520f366941c3ae0e37",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209140735,
-            "neighbourhood_id":1394399413
+            "county_id":102062973,
+            "localadmin_id":404328389,
+            "locality_id":101853921,
+            "neighbourhood_id":1394399413,
+            "region_id":85682315
         }
     ],
     "wof:id":1394399413,
-    "wof:lastmodified":1565230748,
+    "wof:lastmodified":1565440896,
     "wof:name":"Aumueli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101853921,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

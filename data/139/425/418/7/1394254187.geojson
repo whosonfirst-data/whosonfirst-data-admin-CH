@@ -60,15 +60,28 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682309,
+        1394212863
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"dc26f42d81e292f241a21e137e0f9ba6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394212863,
+            "localadmin_id":1394254187,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394254187,
-    "wof:lastmodified":1565298487,
+    "wof:lastmodified":1565438478,
     "wof:name":"Greifensee",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394212863,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

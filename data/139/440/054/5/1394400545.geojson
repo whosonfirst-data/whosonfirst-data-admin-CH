@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209449183,
-        85633051
+        85682301,
+        102191581,
+        404568925,
+        85633051,
+        1226680113,
+        102062867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"3ca27a6e4741e29569f77b15e29a894d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209449183,
-            "neighbourhood_id":1394400545
+            "county_id":102062867,
+            "localadmin_id":404568925,
+            "locality_id":1226680113,
+            "neighbourhood_id":1394400545,
+            "region_id":85682301
         }
     ],
     "wof:id":1394400545,
-    "wof:lastmodified":1565230601,
+    "wof:lastmodified":1565434197,
     "wof:name":"Fin de Vau",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1226680113,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

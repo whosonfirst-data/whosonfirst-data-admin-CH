@@ -75,18 +75,32 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682325,
+        102062969
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"66606646b3941796ad0af1e6d8299d82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062969,
+            "localadmin_id":1394253987,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394253987,
-    "wof:lastmodified":1565298426,
+    "wof:lastmodified":1565581383,
     "wof:name":"Lucens",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404570319,
         404571785,
         404572209,
@@ -94,7 +108,6 @@
         404573291,
         404573345
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

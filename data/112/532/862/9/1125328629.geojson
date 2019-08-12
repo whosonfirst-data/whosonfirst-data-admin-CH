@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682281,
+        102062859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"647e34a58c702085590d77b0015eee70",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125328629
+            "county_id":102062859,
+            "localadmin_id":1125328629,
+            "region_id":85682281
         }
     ],
     "wof:id":1125328629,
-    "wof:lastmodified":1505248057,
+    "wof:lastmodified":1565452822,
     "wof:name":"Saas Grund",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062859,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

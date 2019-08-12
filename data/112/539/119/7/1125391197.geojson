@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682255,
+        102062773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"8135f9266a4003b19fb9d218fe63d1f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125391197
+            "county_id":102062773,
+            "localadmin_id":1125391197,
+            "region_id":85682255
         }
     ],
     "wof:id":1125391197,
-    "wof:lastmodified":1505248169,
+    "wof:lastmodified":1565458432,
     "wof:name":"Breil/Brigels",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

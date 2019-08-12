@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404573089,
+        85633051,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"f63f0ba8bd1ab27fa3cca6d577ef120c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111871
+            "county_id":102062893,
+            "localadmin_id":404573089,
+            "locality_id":1126111871,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111871,
-    "wof:lastmodified":1505185765,
+    "wof:lastmodified":1565453651,
     "wof:name":"Wyler",
-    "wof:parent_id":-1,
+    "wof:parent_id":404573089,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

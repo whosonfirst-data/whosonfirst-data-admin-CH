@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682319,
+        102191581,
+        404328453,
+        85633051,
+        1394137079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"7b08a0544f40823bec7ea8be00512510",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209551551
+            "county_id":1394137079,
+            "localadmin_id":404328453,
+            "locality_id":1209551551,
+            "region_id":85682319
         }
     ],
     "wof:id":1209551551,
-    "wof:lastmodified":1565230523,
+    "wof:lastmodified":1565430298,
     "wof:name":"Obergummen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328453,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

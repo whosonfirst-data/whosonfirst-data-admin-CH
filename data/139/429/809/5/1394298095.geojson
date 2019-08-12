@@ -25,15 +25,30 @@
     "reversegeo:longitude":7.24128,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682281,
+        102191581,
+        404568439,
+        85633051,
+        102063045
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"f1abbaf662a06d0ca28e3bbafe1853a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063045,
+            "localadmin_id":404568439,
+            "locality_id":1394298095,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394298095,
-    "wof:lastmodified":1565139056,
+    "wof:lastmodified":1565443217,
     "wof:name":"Auddes-sur-Riddes",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

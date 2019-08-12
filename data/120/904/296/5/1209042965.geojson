@@ -30,7 +30,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682377,
+        102191581,
+        404328157,
+        85633051,
+        102062879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +44,18 @@
     "wof:geomhash":"1414842356d130d1c75d55c0a4b9717f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209042965
+            "county_id":102062879,
+            "localadmin_id":404328157,
+            "locality_id":1209042965,
+            "region_id":85682377
         }
     ],
     "wof:id":1209042965,
-    "wof:lastmodified":1565230531,
+    "wof:lastmodified":1565430696,
     "wof:name":"Kinzeralp",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

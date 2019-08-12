@@ -45,7 +45,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682301,
+        102191581,
+        404569511,
+        85633051,
+        102062867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +59,18 @@
     "wof:geomhash":"512cb1266f69fc6cbb6e38b7880263b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209251003
+            "county_id":102062867,
+            "localadmin_id":404569511,
+            "locality_id":1209251003,
+            "region_id":85682301
         }
     ],
     "wof:id":1209251003,
-    "wof:lastmodified":1565139000,
+    "wof:lastmodified":1565430445,
     "wof:name":"Blessens",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404569511,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -45,24 +45,35 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682309,
+        102062801
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"c199fef98acf0c7865f31e3d4700ce14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062801,
+            "localadmin_id":1394254219,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394254219,
-    "wof:lastmodified":1565298467,
+    "wof:lastmodified":1565581695,
     "wof:name":"Stammheim",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062801,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404569915,
         404570501,
         404570507
-    ],
-    "wof:supersedes":[
-        1125771369
     ],
     "wof:tags":[]
 },

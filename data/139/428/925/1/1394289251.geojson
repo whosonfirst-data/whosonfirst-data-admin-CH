@@ -28,15 +28,30 @@
     "reversegeo:longitude":7.329478,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682281,
+        102191581,
+        404567831,
+        85633051,
+        102062915
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"f00abb877110f9485f76f63e8f3f6e42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062915,
+            "localadmin_id":404567831,
+            "locality_id":1394289251,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394289251,
-    "wof:lastmodified":1565139041,
+    "wof:lastmodified":1565442816,
     "wof:name":"Beuson",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

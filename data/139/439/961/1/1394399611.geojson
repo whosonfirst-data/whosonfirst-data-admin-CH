@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209243509,
-        85633051
+        85682337,
+        102191581,
+        404570477,
+        85633051,
+        1394287195,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"be9dc7bea217e8fb9ca10e30cd36ea92",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209243509,
-            "neighbourhood_id":1394399611
+            "county_id":102062869,
+            "localadmin_id":404570477,
+            "locality_id":1394287195,
+            "neighbourhood_id":1394399611,
+            "region_id":85682337
         }
     ],
     "wof:id":1394399611,
-    "wof:lastmodified":1565230757,
+    "wof:lastmodified":1565441260,
     "wof:name":"Roemerstrasse",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394287195,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

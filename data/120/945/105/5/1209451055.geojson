@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682337,
+        102191581,
+        404569681,
+        85633051,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"544a58fa506f40cc0ef796d8381f461e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209451055
+            "county_id":102062953,
+            "localadmin_id":404569681,
+            "locality_id":1209451055,
+            "region_id":85682337
         }
     ],
     "wof:id":1209451055,
-    "wof:lastmodified":1565230534,
+    "wof:lastmodified":1565430846,
     "wof:name":"Oberhoehnwilen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404569681,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Jura",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682347,
+        102063059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"25bdd5529395ffd7d7e0e8a39c636f66",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125376849
+            "county_id":102063059,
+            "localadmin_id":1125376849,
+            "region_id":85682347
         }
     ],
     "wof:id":1125376849,
-    "wof:lastmodified":1505248132,
+    "wof:lastmodified":1565458381,
     "wof:name":"Alle",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

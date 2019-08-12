@@ -102,15 +102,28 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682305,
+        102062811
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"d4ffb0a1aadb433a00da040cb7131867",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062811,
+            "localadmin_id":1394254119,
+            "region_id":85682305
+        }
+    ],
     "wof:id":1394254119,
-    "wof:lastmodified":1565298476,
+    "wof:lastmodified":1565438386,
     "wof:name":"K\u00fcssnacht",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062811,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

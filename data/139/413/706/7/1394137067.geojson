@@ -30,15 +30,26 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682255
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"c02a9b2bb01b1d61da01238be58bfc06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137067,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394137067,
-    "wof:lastmodified":1565139031,
+    "wof:lastmodified":1565438633,
     "wof:name":"Engiadina Bassa/Val Mustair",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682255,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209137081,
-        85633051
+        85682305,
+        102191581,
+        404568029,
+        85633051,
+        1125897373,
+        102062887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"19a1b452910d9692779808583ee4b4ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209137081,
-            "neighbourhood_id":1394399251
+            "county_id":102062887,
+            "localadmin_id":404568029,
+            "locality_id":1125897373,
+            "neighbourhood_id":1394399251,
+            "region_id":85682305
         }
     ],
     "wof:id":1394399251,
-    "wof:lastmodified":1565230754,
+    "wof:lastmodified":1565441123,
     "wof:name":"Breiten",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125897373,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

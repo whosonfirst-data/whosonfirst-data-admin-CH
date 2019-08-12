@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209243361,
-        85633051
+        85682337,
+        102191581,
+        404569243,
+        85633051,
+        1125934747,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"d5ed346968efc3aef11bd530bce7f613",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209243361,
-            "neighbourhood_id":1394399607
+            "county_id":102062953,
+            "localadmin_id":404569243,
+            "locality_id":1125934747,
+            "neighbourhood_id":1394399607,
+            "region_id":85682337
         }
     ],
     "wof:id":1394399607,
-    "wof:lastmodified":1565230762,
+    "wof:lastmodified":1565441433,
     "wof:name":"Chrutgaertli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125934747,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -67,8 +67,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1126112161,
-        85633051
+        85682309,
+        102191581,
+        404570639,
+        85633051,
+        1108980065,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,15 +85,19 @@
     "wof:geomhash":"41c1e6017940b67c612b57818700407b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112161,
-            "neighbourhood_id":1394398127
+            "county_id":102062995,
+            "localadmin_id":404570639,
+            "locality_id":1108980065,
+            "neighbourhood_id":1394398127,
+            "region_id":85682309
         }
     ],
     "wof:id":1394398127,
-    "wof:lastmodified":1565242674,
+    "wof:lastmodified":1565441729,
     "wof:name":"Lindenhof",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108980065,
     "wof:placetype":"neighbourhood",
     "wof:population":7,
     "wof:population_rank":1,

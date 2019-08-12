@@ -100,15 +100,30 @@
     "reversegeo:longitude":10.001677,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        404570165,
+        85633051,
+        102062857
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"645c1bdd7608901bd8d01c25c74f5ad7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062857,
+            "localadmin_id":404570165,
+            "locality_id":1394297009,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394297009,
-    "wof:lastmodified":1565299311,
+    "wof:lastmodified":1565442951,
     "wof:name":"Madulain",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570165,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

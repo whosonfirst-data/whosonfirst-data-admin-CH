@@ -25,15 +25,30 @@
     "reversegeo:longitude":6.10637,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682291,
+        102191581,
+        404328733,
+        85633051,
+        102062917
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"812928e971e1cb10e9c2724180e583dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062917,
+            "localadmin_id":404328733,
+            "locality_id":1394297905,
+            "region_id":85682291
+        }
+    ],
     "wof:id":1394297905,
-    "wof:lastmodified":1565139044,
+    "wof:lastmodified":1565442905,
     "wof:name":"Gen\u00e8ve",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

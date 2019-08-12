@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404571821,
+        85633051,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"1d90eebc99a57a35e2a695ff7dac4640",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113369
+            "county_id":102062775,
+            "localadmin_id":404571821,
+            "locality_id":1126113369,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113369,
-    "wof:lastmodified":1505185718,
+    "wof:lastmodified":1565452967,
     "wof:name":"N\u00e4cher Moos",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571821,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

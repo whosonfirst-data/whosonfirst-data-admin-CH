@@ -48,22 +48,35 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682365,
+        1394137095
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"3d62833b7654ed8ada98bcd474de46cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137095,
+            "localadmin_id":1394253975,
+            "region_id":85682365
+        }
+    ],
     "wof:id":1394253975,
-    "wof:lastmodified":1565298435,
+    "wof:lastmodified":1565581450,
     "wof:name":"L\u00fcsslingen-Nennigkofen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394137095,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404328711,
         404328795
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

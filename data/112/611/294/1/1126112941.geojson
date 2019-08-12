@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404571875,
+        85633051,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"e78ffd6c11457325a81921fc15c03ff9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112941
+            "county_id":102062995,
+            "localadmin_id":404571875,
+            "locality_id":1126112941,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112941,
-    "wof:lastmodified":1505185725,
+    "wof:lastmodified":1565453503,
     "wof:name":"Kreuz\u00e4ckern",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571875,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

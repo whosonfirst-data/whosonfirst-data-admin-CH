@@ -497,7 +497,10 @@
     "wd:wordcount":2693,
     "wof:belongsto":[
         85682291,
+        102191581,
+        404328283,
         85633051,
+        101748445,
         102062917
     ],
     "wof:breaches":[],
@@ -511,8 +514,11 @@
     "wof:geomhash":"660cc050822c7e8e7637886b814c3dcd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062917,
+            "localadmin_id":404328283,
+            "locality_id":101748445,
             "neighbourhood_id":85897669,
             "region_id":85682291
         }
@@ -521,9 +527,9 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565237920,
+    "wof:lastmodified":1565428547,
     "wof:name":"Nations",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748445,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

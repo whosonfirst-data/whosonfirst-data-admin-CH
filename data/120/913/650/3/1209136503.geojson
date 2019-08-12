@@ -31,7 +31,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682319,
+        102191581,
+        404328225,
+        85633051,
+        1394137077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"8bf2559f7766c4263d600f32bbb53615",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209136503
+            "county_id":1394137077,
+            "localadmin_id":404328225,
+            "locality_id":1209136503,
+            "region_id":85682319
         }
     ],
     "wof:id":1209136503,
-    "wof:lastmodified":1565230526,
+    "wof:lastmodified":1565430473,
     "wof:name":"Maettiwil",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328225,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

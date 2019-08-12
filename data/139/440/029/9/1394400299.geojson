@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209351129,
-        85633051
+        85682319,
+        102191581,
+        404328205,
+        85633051,
+        1125771959,
+        1394137075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"3e3769dccb0e02159f47565994d629f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209351129,
-            "neighbourhood_id":1394400299
+            "county_id":1394137075,
+            "localadmin_id":404328205,
+            "locality_id":1125771959,
+            "neighbourhood_id":1394400299,
+            "region_id":85682319
         }
     ],
     "wof:id":1394400299,
-    "wof:lastmodified":1565230657,
+    "wof:lastmodified":1565436362,
     "wof:name":"Oberspaerbelegg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125771959,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

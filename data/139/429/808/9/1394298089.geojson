@@ -25,15 +25,30 @@
     "reversegeo:longitude":7.115745,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682301,
+        102191581,
+        404571449,
+        85633051,
+        102062999
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"d1c0f42cac571ad0cfc314ffb73b48f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062999,
+            "localadmin_id":404571449,
+            "locality_id":1394298089,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394298089,
-    "wof:lastmodified":1565139056,
+    "wof:lastmodified":1565443223,
     "wof:name":"Villarbeney",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571449,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

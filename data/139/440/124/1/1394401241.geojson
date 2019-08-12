@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209651393,
-        85633051
+        85682315,
+        102191581,
+        404328317,
+        85633051,
+        1394289129,
+        102062973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"4e2ac2dcbc7a57f123cf4eed445d8364",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209651393,
-            "neighbourhood_id":1394401241
+            "county_id":102062973,
+            "localadmin_id":404328317,
+            "locality_id":1394289129,
+            "neighbourhood_id":1394401241,
+            "region_id":85682315
         }
     ],
     "wof:id":1394401241,
-    "wof:lastmodified":1565230686,
+    "wof:lastmodified":1565437501,
     "wof:name":"Waltersberg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394289129,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

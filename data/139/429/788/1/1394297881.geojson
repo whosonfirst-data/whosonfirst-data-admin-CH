@@ -73,15 +73,30 @@
     "reversegeo:longitude":9.733059,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        404568491,
+        85633051,
+        102062857
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"2d2b6956914847a4f0e2a93e7b7a7227",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062857,
+            "localadmin_id":404568491,
+            "locality_id":1394297881,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394297881,
-    "wof:lastmodified":1565299405,
+    "wof:lastmodified":1565443253,
     "wof:name":"Bever",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568491,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

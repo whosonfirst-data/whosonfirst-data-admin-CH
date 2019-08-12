@@ -31,7 +31,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682337,
+        102191581,
+        404570891,
+        85633051,
+        102062959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"5a6cc2fe788797abe7d52e43d56792df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209345019
+            "county_id":102062959,
+            "localadmin_id":404570891,
+            "locality_id":1209345019,
+            "region_id":85682337
         }
     ],
     "wof:id":1209345019,
-    "wof:lastmodified":1565230532,
+    "wof:lastmodified":1565430764,
     "wof:name":"Hatswil",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404570891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

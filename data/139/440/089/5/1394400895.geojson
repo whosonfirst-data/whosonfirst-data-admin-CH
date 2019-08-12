@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209552253,
-        85633051
+        85682353,
+        102191581,
+        404328233,
+        85633051,
+        101876001,
+        1394137085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"8216824a327a297884eda16b7979bd1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209552253,
-            "neighbourhood_id":1394400895
+            "county_id":1394137085,
+            "localadmin_id":404328233,
+            "locality_id":101876001,
+            "neighbourhood_id":1394400895,
+            "region_id":85682353
         }
     ],
     "wof:id":1394400895,
-    "wof:lastmodified":1565230649,
+    "wof:lastmodified":1565436059,
     "wof:name":"Maettli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101876001,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

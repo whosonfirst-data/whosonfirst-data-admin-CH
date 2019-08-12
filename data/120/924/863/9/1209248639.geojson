@@ -30,7 +30,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682281,
+        102191581,
+        404567877,
+        85633051,
+        102063031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +44,18 @@
     "wof:geomhash":"9edfbb26f0f0fe931081964d850ac59a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209248639
+            "county_id":102063031,
+            "localadmin_id":404567877,
+            "locality_id":1209248639,
+            "region_id":85682281
         }
     ],
     "wof:id":1209248639,
-    "wof:lastmodified":1565230525,
+    "wof:lastmodified":1565430396,
     "wof:name":"Freiche",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404567877,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

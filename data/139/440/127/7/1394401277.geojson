@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209651925,
-        85633051
+        85682381,
+        102191581,
+        404568311,
+        85633051,
+        1125771387,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"f0f6c491d3bb77db904e525c2d9c4c15",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209651925,
-            "neighbourhood_id":1394401277
+            "county_id":102062837,
+            "localadmin_id":404568311,
+            "locality_id":1125771387,
+            "neighbourhood_id":1394401277,
+            "region_id":85682381
         }
     ],
     "wof:id":1394401277,
-    "wof:lastmodified":1565230622,
+    "wof:lastmodified":1565435030,
     "wof:name":"Spitzfeld",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125771387,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

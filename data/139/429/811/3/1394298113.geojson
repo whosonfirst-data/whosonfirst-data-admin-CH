@@ -55,15 +55,30 @@
     "reversegeo:longitude":8.011617,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682281,
+        102191581,
+        404570973,
+        85633051,
+        102063037
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"14471a85a2d3823aa629f08079b51519",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063037,
+            "localadmin_id":404570973,
+            "locality_id":1394298113,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394298113,
-    "wof:lastmodified":1565299314,
+    "wof:lastmodified":1565442967,
     "wof:name":"Bitsch",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

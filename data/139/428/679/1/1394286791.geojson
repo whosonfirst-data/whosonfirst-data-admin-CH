@@ -76,15 +76,30 @@
     "reversegeo:longitude":6.618793,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404570325,
+        85633051,
+        102062813
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"77daab1e0b5298888fe8ad7f78447c56",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062813,
+            "localadmin_id":404570325,
+            "locality_id":1394286791,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394286791,
-    "wof:lastmodified":1565299284,
+    "wof:lastmodified":1565442853,
     "wof:name":"Fontaines-sur-Grandson",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570325,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

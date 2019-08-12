@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209040685,
-        85633051
+        85682285,
+        102191581,
+        404328259,
+        85633051,
+        1125900499,
+        1394137101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"0ff7be97348fbe97961b619736864779",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209040685,
-            "neighbourhood_id":1394398887
+            "county_id":1394137101,
+            "localadmin_id":404328259,
+            "locality_id":1125900499,
+            "neighbourhood_id":1394398887,
+            "region_id":85682285
         }
     ],
     "wof:id":1394398887,
-    "wof:lastmodified":1565230736,
+    "wof:lastmodified":1565440451,
     "wof:name":"In Wiesen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125900499,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

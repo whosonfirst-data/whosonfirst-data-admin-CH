@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209446169,
-        85633051
+        85682337,
+        102191581,
+        404570219,
+        85633051,
+        1276906387,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"f38cc69362f020c5f0da686f46e1fe7b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209446169,
-            "neighbourhood_id":1394400425
+            "county_id":102062869,
+            "localadmin_id":404570219,
+            "locality_id":1276906387,
+            "neighbourhood_id":1394400425,
+            "region_id":85682337
         }
     ],
     "wof:id":1394400425,
-    "wof:lastmodified":1565230649,
+    "wof:lastmodified":1565436071,
     "wof:name":"Weckingen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1276906387,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

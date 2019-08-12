@@ -46,18 +46,33 @@
     "reversegeo:longitude":9.42472,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        404571383,
+        85633051,
+        1394137069
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404571383
     ],
     "wof:country":"CH",
     "wof:geomhash":"be9ddb6bb0626dd865539717c5bb44dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137069,
+            "localadmin_id":404571383,
+            "locality_id":1394294933,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394294933,
-    "wof:lastmodified":1565299389,
+    "wof:lastmodified":1565443198,
     "wof:name":"Donat",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

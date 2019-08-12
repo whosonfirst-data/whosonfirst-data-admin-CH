@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569139,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"e4232a3cb98a85995e0a82e381f716de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112737
+            "county_id":102063055,
+            "localadmin_id":404569139,
+            "locality_id":1126112737,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112737,
-    "wof:lastmodified":1505185764,
+    "wof:lastmodified":1565453232,
     "wof:name":"Hornwiden",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569139,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

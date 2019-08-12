@@ -64,18 +64,33 @@
     "reversegeo:longitude":8.107808,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682319,
+        102191581,
+        404328415,
+        85633051,
+        1394137077
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404328415
     ],
     "wof:country":"CH",
     "wof:geomhash":"92a60ceaad08c5c55950b96cc649f556",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137077,
+            "localadmin_id":404328415,
+            "locality_id":1394291009,
+            "region_id":85682319
+        }
+    ],
     "wof:id":1394291009,
-    "wof:lastmodified":1565299365,
+    "wof:lastmodified":1565443114,
     "wof:name":"Oberkirch",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328415,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

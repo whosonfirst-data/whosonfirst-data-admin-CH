@@ -32,7 +32,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        404567771,
+        85633051,
+        102062821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"54399fd6717b91f247d791d7f594d588",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209445697
+            "county_id":102062821,
+            "localadmin_id":404567771,
+            "locality_id":1209445697,
+            "region_id":85682381
         }
     ],
     "wof:id":1209445697,
-    "wof:lastmodified":1537590798,
+    "wof:lastmodified":1565430873,
     "wof:name":"Balteli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404567771,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

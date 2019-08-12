@@ -50,7 +50,10 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682329,
+        102062977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +66,17 @@
     "wof:geomhash":"b0f3afcec5ed54f626c90f175ad6f871",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125295377
+            "county_id":102062977,
+            "localadmin_id":1125295377,
+            "region_id":85682329
         }
     ],
     "wof:id":1125295377,
-    "wof:lastmodified":1505185700,
+    "wof:lastmodified":1565457308,
     "wof:name":"Sulz",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062977,
     "wof:placetype":"localadmin",
     "wof:population":1215,
     "wof:population_rank":3,

@@ -44,7 +44,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682269,
+        102191581,
+        404567987,
+        85633051,
+        102062975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +58,18 @@
     "wof:geomhash":"66c454c996d13601f3979b222aca38ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209549745
+            "county_id":102062975,
+            "localadmin_id":404567987,
+            "locality_id":1209549745,
+            "region_id":85682269
         }
     ],
     "wof:id":1209549745,
-    "wof:lastmodified":1565138998,
+    "wof:lastmodified":1565430203,
     "wof:name":"Moneto",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404567987,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

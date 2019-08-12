@@ -94,18 +94,33 @@
     "reversegeo:longitude":7.597601,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682281,
+        102191581,
+        404569821,
+        85633051,
+        102062761
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404569821
     ],
     "wof:country":"CH",
     "wof:geomhash":"617c1e98b2c63b207c006e49a7a795ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062761,
+            "localadmin_id":404569821,
+            "locality_id":1394298147,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394298147,
-    "wof:lastmodified":1565299383,
+    "wof:lastmodified":1565443171,
     "wof:name":"Inden",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569821,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -101,7 +101,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682269,
+        102191581,
+        404572267,
+        85633051,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,14 +119,18 @@
     "wof:geomhash":"0c693d7bb367219fe9ef06ed9d277c9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209351097
+            "county_id":102062767,
+            "localadmin_id":404572267,
+            "locality_id":1209351097,
+            "region_id":85682269
         }
     ],
     "wof:id":1209351097,
-    "wof:lastmodified":1565297332,
+    "wof:lastmodified":1565430597,
     "wof:name":"Aranno",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404572267,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

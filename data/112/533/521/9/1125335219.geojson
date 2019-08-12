@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682381,
+        102063041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"7e1ee5c284bc10b3e0cd2ea204a57702",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125335219
+            "county_id":102063041,
+            "localadmin_id":1125335219,
+            "region_id":85682381
         }
     ],
     "wof:id":1125335219,
-    "wof:lastmodified":1505248066,
+    "wof:lastmodified":1565452476,
     "wof:name":"Twann",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063041,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

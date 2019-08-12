@@ -98,8 +98,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209043453,
-        85633051
+        85682341,
+        102191581,
+        404567763,
+        85633051,
+        1126040423,
+        102062963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,15 +114,19 @@
     "wof:geomhash":"403f1b67352ee69592e6e65d0c90649c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209043453,
-            "neighbourhood_id":1394399085
+            "county_id":102062963,
+            "localadmin_id":404567763,
+            "locality_id":1126040423,
+            "neighbourhood_id":1394399085,
+            "region_id":85682341
         }
     ],
     "wof:id":1394399085,
-    "wof:lastmodified":1565298720,
+    "wof:lastmodified":1565439995,
     "wof:name":"Pfaefers Dorf",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126040423,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

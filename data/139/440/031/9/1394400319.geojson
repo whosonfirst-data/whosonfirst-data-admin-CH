@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209351219,
-        85633051
+        85682337,
+        102191581,
+        404569447,
+        85633051,
+        101854475,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"20ff4f4fd3ecd644ef7448668ee716f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209351219,
-            "neighbourhood_id":1394400319
+            "county_id":102062953,
+            "localadmin_id":404569447,
+            "locality_id":101854475,
+            "neighbourhood_id":1394400319,
+            "region_id":85682337
         }
     ],
     "wof:id":1394400319,
-    "wof:lastmodified":1565230606,
+    "wof:lastmodified":1565434403,
     "wof:name":"Nagelshausen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854475,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

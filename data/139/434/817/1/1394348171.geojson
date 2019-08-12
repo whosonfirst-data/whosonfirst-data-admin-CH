@@ -85,18 +85,33 @@
     "reversegeo:longitude":6.377967,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404570155,
+        85633051,
+        102062873
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404570155
     ],
     "wof:country":"CH",
     "wof:geomhash":"7aedb083742cacdc4b65d7b2d26deeb4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062873,
+            "localadmin_id":404570155,
+            "locality_id":1394348171,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394348171,
-    "wof:lastmodified":1565299514,
+    "wof:lastmodified":1565443734,
     "wof:name":"Ballens",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

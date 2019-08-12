@@ -91,15 +91,30 @@
     "reversegeo:longitude":7.331826,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404570577,
+        85633051,
+        102062865
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"8e011a20f422a1519e57e81e8acd54a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062865,
+            "localadmin_id":404570577,
+            "locality_id":1394296087,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394296087,
-    "wof:lastmodified":1565299395,
+    "wof:lastmodified":1565443218,
     "wof:name":"Romont",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

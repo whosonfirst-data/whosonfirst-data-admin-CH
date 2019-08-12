@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568957,
+        85633051,
+        102062933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"08a06d3a77afb94d425e751d13b21408",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111439
+            "county_id":102062933,
+            "localadmin_id":404568957,
+            "locality_id":1126111439,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111439,
-    "wof:lastmodified":1505185755,
+    "wof:lastmodified":1565453750,
     "wof:name":"Drittenberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568957,
     "wof:placetype":"locality",
     "wof:population":7,
     "wof:population_rank":1,

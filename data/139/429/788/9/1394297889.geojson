@@ -76,15 +76,30 @@
     "reversegeo:longitude":7.521161,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404568457,
+        85633051,
+        102062861
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"69b50344313e05f283f2dced08c95018",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":404568457,
+            "locality_id":1394297889,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394297889,
-    "wof:lastmodified":1565299404,
+    "wof:lastmodified":1565443249,
     "wof:name":"Belpberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568457,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

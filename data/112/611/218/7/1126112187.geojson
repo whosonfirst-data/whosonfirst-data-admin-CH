@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569927,
+        85633051,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"45c83bbe75ad0d9ad236abb770941e12",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112187
+            "county_id":102062995,
+            "localadmin_id":404569927,
+            "locality_id":1126112187,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112187,
-    "wof:lastmodified":1505185727,
+    "wof:lastmodified":1565453193,
     "wof:name":"L\u00e4tten",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569927,
     "wof:placetype":"locality",
     "wof:population":10,
     "wof:population_rank":1,

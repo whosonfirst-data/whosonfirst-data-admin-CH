@@ -25,15 +25,30 @@
     "reversegeo:longitude":9.820024,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        404568065,
+        85633051,
+        102062857
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"71e8bd1378a831566f7882c54a6f6748",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062857,
+            "localadmin_id":404568065,
+            "locality_id":1394298133,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394298133,
-    "wof:lastmodified":1565139054,
+    "wof:lastmodified":1565443182,
     "wof:name":"Silvaplana-Surlej",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568065,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

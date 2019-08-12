@@ -104,7 +104,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        1394254155,
+        85633051,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,14 +119,18 @@
     "wof:geomhash":"5bf950e710604047de17c6e1dc20b769",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209348289
+            "county_id":102062861,
+            "localadmin_id":1394254155,
+            "locality_id":1209348289,
+            "region_id":85682381
         }
     ],
     "wof:id":1209348289,
-    "wof:lastmodified":1565297338,
+    "wof:lastmodified":1565581538,
     "wof:name":"Scheunen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394254155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

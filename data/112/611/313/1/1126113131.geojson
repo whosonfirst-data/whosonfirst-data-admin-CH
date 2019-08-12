@@ -37,7 +37,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569273,
+        85633051,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,18 @@
     "wof:geomhash":"4a4f0a78da15d26cb05876a78b0dfbc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113131
+            "county_id":102062775,
+            "localadmin_id":404569273,
+            "locality_id":1126113131,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113131,
-    "wof:lastmodified":1505185717,
+    "wof:lastmodified":1565453818,
     "wof:name":"Sellenb\u00fcren / M\u00fcli",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569273,
     "wof:placetype":"locality",
     "wof:population":7,
     "wof:population_rank":1,

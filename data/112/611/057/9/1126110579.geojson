@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568281,
+        85633051,
+        102062967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"cac49b95c7ff93c9fb411a28e397cdad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110579
+            "county_id":102062967,
+            "localadmin_id":404568281,
+            "locality_id":1126110579,
+            "region_id":85682309
         }
     ],
     "wof:id":1126110579,
-    "wof:lastmodified":1505185731,
+    "wof:lastmodified":1565454431,
     "wof:name":"Eggwegwald",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568281,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

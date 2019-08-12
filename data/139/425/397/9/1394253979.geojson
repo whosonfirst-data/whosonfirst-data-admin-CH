@@ -111,22 +111,35 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682281,
+        102062761
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"56b1ee2ac027783620d2473bc4e959b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062761,
+            "localadmin_id":1394253979,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394253979,
-    "wof:lastmodified":1565298430,
+    "wof:lastmodified":1565581424,
     "wof:name":"Leuk",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062761,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404568071,
         404569489
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

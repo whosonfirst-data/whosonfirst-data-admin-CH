@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        404570089,
+        85633051,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"2ec3e69388db1a0addb0377123757a63",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209550117
+            "county_id":102062861,
+            "localadmin_id":404570089,
+            "locality_id":1209550117,
+            "region_id":85682381
         }
     ],
     "wof:id":1209550117,
-    "wof:lastmodified":1565230523,
+    "wof:lastmodified":1565430302,
     "wof:name":"Moosrain",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404570089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

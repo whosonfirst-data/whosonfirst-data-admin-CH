@@ -183,22 +183,35 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682269,
+        102062975
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"5a4a49113ffac637d78ceb5c05d72a2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062975,
+            "localadmin_id":1394254169,
+            "region_id":85682269
+        }
+    ],
     "wof:id":1394254169,
-    "wof:lastmodified":1565298479,
+    "wof:lastmodified":1565581780,
     "wof:name":"Locarno",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404569815,
         404569869
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

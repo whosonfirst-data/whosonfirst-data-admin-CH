@@ -119,7 +119,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682255,
+        102191581,
+        1394254047,
+        85633051,
+        102062773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,14 +134,18 @@
     "wof:geomhash":"a5fe8342c25610c30a3b2ac53a70ab75",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209249575
+            "county_id":102062773,
+            "localadmin_id":1394254047,
+            "locality_id":1209249575,
+            "region_id":85682255
         }
     ],
     "wof:id":1209249575,
-    "wof:lastmodified":1565297325,
+    "wof:lastmodified":1565581904,
     "wof:name":"Cumbel",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394254047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -30,8 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209042497,
-        85633051
+        85682337,
+        102191581,
+        404569263,
+        85633051,
+        1125797113,
+        102062955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,19 @@
     "wof:geomhash":"0a4cec7fa88f03e250d72f601f799c74",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209042497,
-            "neighbourhood_id":1394398963
+            "county_id":102062955,
+            "localadmin_id":404569263,
+            "locality_id":1125797113,
+            "neighbourhood_id":1394398963,
+            "region_id":85682337
         }
     ],
     "wof:id":1394398963,
-    "wof:lastmodified":1565230777,
+    "wof:lastmodified":1565442039,
     "wof:name":"Heiligkreuz",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125797113,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

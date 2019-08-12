@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209139815,
-        85633051
+        85682365,
+        102191581,
+        404328477,
+        85633051,
+        1125918555,
+        1394137115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"30a1c7a92a7e3f4113347f201912e9de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209139815,
-            "neighbourhood_id":1394399305
+            "county_id":1394137115,
+            "localadmin_id":404328477,
+            "locality_id":1125918555,
+            "neighbourhood_id":1394399305,
+            "region_id":85682365
         }
     ],
     "wof:id":1394399305,
-    "wof:lastmodified":1565230725,
+    "wof:lastmodified":1565439983,
     "wof:name":"Herrenmatt",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125918555,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

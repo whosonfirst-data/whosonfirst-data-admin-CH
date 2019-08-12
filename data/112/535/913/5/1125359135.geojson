@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"ce648fa6a4ff1bc772c1d1c13f7ff0eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125359135
+            "county_id":102062909,
+            "localadmin_id":1125359135,
+            "region_id":85682381
         }
     ],
     "wof:id":1125359135,
-    "wof:lastmodified":1505185773,
+    "wof:lastmodified":1565452803,
     "wof:name":"Rapperswil (BE)",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
     "wof:population":2586,
     "wof:population_rank":4,

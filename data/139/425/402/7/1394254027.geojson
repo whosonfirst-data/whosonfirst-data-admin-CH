@@ -81,24 +81,37 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682301,
+        102062765
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"bf7d2a0b0e5fc9a0c7741e049c03bb8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062765,
+            "localadmin_id":1394254027,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394254027,
-    "wof:lastmodified":1565298494,
+    "wof:lastmodified":1565581873,
     "wof:name":"Courtepin",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404569965,
         404571347,
         404571675,
         404571761
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

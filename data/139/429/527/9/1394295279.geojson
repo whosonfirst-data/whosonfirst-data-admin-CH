@@ -25,15 +25,30 @@
     "reversegeo:longitude":8.254838,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682371,
+        102191581,
+        404328153,
+        85633051,
+        102062787
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"58d1e42ad2fa774ce1c0ee2ce8d67d21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062787,
+            "localadmin_id":404328153,
+            "locality_id":1394295279,
+            "region_id":85682371
+        }
+    ],
     "wof:id":1394295279,
-    "wof:lastmodified":1565139050,
+    "wof:lastmodified":1565443062,
     "wof:name":"Pilatus Kulm",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

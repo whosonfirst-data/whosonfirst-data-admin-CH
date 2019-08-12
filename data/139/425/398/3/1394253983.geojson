@@ -48,18 +48,32 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682255,
+        102062885
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"bc9f3c6b7efb28ca7b175ec7853cd240",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062885,
+            "localadmin_id":1394253983,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394253983,
-    "wof:lastmodified":1565298426,
+    "wof:lastmodified":1565581397,
     "wof:name":"Surses",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062885,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404567845,
         404567965,
         404567969,
@@ -71,7 +85,6 @@
         404570533,
         1175611165
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

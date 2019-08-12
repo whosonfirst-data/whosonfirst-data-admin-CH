@@ -136,15 +136,30 @@
     "reversegeo:longitude":6.822723,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682281,
+        102191581,
+        404568601,
+        85633051,
+        102063065
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"36f634c63679f877baa7c99d71c9924e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063065,
+            "localadmin_id":404568601,
+            "locality_id":1394347885,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394347885,
-    "wof:lastmodified":1565299517,
+    "wof:lastmodified":1565443741,
     "wof:name":"Monthey",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568601,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

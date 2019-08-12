@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209549607,
-        85633051
+        85682285,
+        102191581,
+        404328643,
+        85633051,
+        1125997333,
+        1394137119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"5324a48f0723a6e078324c43f4edb78d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209549607,
-            "neighbourhood_id":1394400795
+            "county_id":1394137119,
+            "localadmin_id":404328643,
+            "locality_id":1125997333,
+            "neighbourhood_id":1394400795,
+            "region_id":85682285
         }
     ],
     "wof:id":1394400795,
-    "wof:lastmodified":1565230586,
+    "wof:lastmodified":1565433602,
     "wof:name":"In jungen Eichen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125997333,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

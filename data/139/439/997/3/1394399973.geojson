@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209251773,
-        85633051
+        85682269,
+        102191581,
+        404573567,
+        85633051,
+        1126013573,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"85375120d708d2fa8acc2f74369d6092",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209251773,
-            "neighbourhood_id":1394399973
+            "county_id":102062767,
+            "localadmin_id":404573567,
+            "locality_id":1126013573,
+            "neighbourhood_id":1394399973,
+            "region_id":85682269
         }
     ],
     "wof:id":1394399973,
-    "wof:lastmodified":1565230726,
+    "wof:lastmodified":1565440032,
     "wof:name":"Montino",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126013573,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"f5a9e2d76f9c699512991f5c6844af74",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125367923
+            "county_id":102062861,
+            "localadmin_id":1125367923,
+            "region_id":85682381
         }
     ],
     "wof:id":1125367923,
-    "wof:lastmodified":1505185769,
+    "wof:lastmodified":1565459150,
     "wof:name":"Clavaleyres",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
     "wof:population":49,
     "wof:population_rank":1,

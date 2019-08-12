@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209451161,
-        85633051
+        85682309,
+        102191581,
+        404569713,
+        85633051,
+        1126051093,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"6a203bfda0fd49d53edd5adbe49dd88f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209451161,
-            "neighbourhood_id":1394400629
+            "county_id":102062801,
+            "localadmin_id":404569713,
+            "locality_id":1126051093,
+            "neighbourhood_id":1394400629,
+            "region_id":85682309
         }
     ],
     "wof:id":1394400629,
-    "wof:lastmodified":1565230600,
+    "wof:lastmodified":1565434162,
     "wof:name":"Ruetenen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126051093,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

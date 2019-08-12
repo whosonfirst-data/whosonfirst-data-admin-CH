@@ -28,15 +28,30 @@
     "reversegeo:longitude":8.828194,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        1394254087,
+        85633051,
+        102063055
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"a3f5d6916dbae299737408e4b10d3d9b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063055,
+            "localadmin_id":1394254087,
+            "locality_id":1394386113,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394386113,
-    "wof:lastmodified":1565217583,
+    "wof:lastmodified":1565581589,
     "wof:name":"Kefikon",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254087,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -43,15 +43,30 @@
     "reversegeo:longitude":8.765612,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        404567873,
+        85633051,
+        102063055
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"418e493807bbd554516b1081e93b26c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063055,
+            "localadmin_id":404567873,
+            "locality_id":1394292291,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394292291,
-    "wof:lastmodified":1565299312,
+    "wof:lastmodified":1565442954,
     "wof:name":"Stadel",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567873,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

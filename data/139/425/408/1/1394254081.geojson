@@ -48,23 +48,36 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682255,
+        1394137067
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"8e246dee09bd0806e59e92c502562091",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137067,
+            "localadmin_id":1394254081,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394254081,
-    "wof:lastmodified":1565298453,
+    "wof:lastmodified":1565581602,
     "wof:name":"Valsot",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394137067,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404567857,
         404567861,
         404569597
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

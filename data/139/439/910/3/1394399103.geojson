@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209043635,
-        85633051
+        85682301,
+        102191581,
+        404567951,
+        85633051,
+        1125999803,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"141f108b371fef579346338534dab721",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209043635,
-            "neighbourhood_id":1394399103
+            "county_id":102062999,
+            "localadmin_id":404567951,
+            "locality_id":1125999803,
+            "neighbourhood_id":1394399103,
+            "region_id":85682301
         }
     ],
     "wof:id":1394399103,
-    "wof:lastmodified":1565230791,
+    "wof:lastmodified":1565442568,
     "wof:name":"Stuetzli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125999803,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

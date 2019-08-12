@@ -129,7 +129,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        1394253969,
+        85633051,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,14 +144,18 @@
     "wof:geomhash":"88907963aa2e4c4b59926e6a88f1ed3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209035699
+            "county_id":102062861,
+            "localadmin_id":1394253969,
+            "locality_id":1209035699,
+            "region_id":85682381
         }
     ],
     "wof:id":1209035699,
-    "wof:lastmodified":1565297333,
+    "wof:lastmodified":1565581366,
     "wof:name":"M\u00fchledorf",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394253969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

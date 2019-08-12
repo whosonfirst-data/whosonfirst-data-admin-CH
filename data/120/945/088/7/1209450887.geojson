@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682337,
+        102191581,
+        404569023,
+        85633051,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"b1d7c7917eee918638cc627ce96ba380",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209450887
+            "county_id":102062869,
+            "localadmin_id":404569023,
+            "locality_id":1209450887,
+            "region_id":85682337
         }
     ],
     "wof:id":1209450887,
-    "wof:lastmodified":1565230534,
+    "wof:lastmodified":1565430867,
     "wof:name":"Grundwies",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404569023,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

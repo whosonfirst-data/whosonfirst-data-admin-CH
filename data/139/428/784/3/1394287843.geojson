@@ -25,15 +25,30 @@
     "reversegeo:longitude":7.639744,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        1394254147,
+        85633051,
+        102062861
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"d9426950b9e8720716a9ba262a645d73",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":1394254147,
+            "locality_id":1394287843,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394287843,
-    "wof:lastmodified":1565139041,
+    "wof:lastmodified":1565581509,
     "wof:name":"Bleiken b. Oberdiessbach",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

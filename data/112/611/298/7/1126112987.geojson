@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"bc41aa48ca9510ad0414aeb77a38604b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112987
+            "county_id":102062825,
+            "locality_id":1126112987,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112987,
-    "wof:lastmodified":1505185741,
+    "wof:lastmodified":1565454383,
     "wof:name":"Sch\u00fctzenmatt",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062825,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

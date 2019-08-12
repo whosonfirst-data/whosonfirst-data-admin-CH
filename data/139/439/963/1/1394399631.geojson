@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209243839,
-        85633051
+        85682381,
+        102191581,
+        404567735,
+        85633051,
+        101854137,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"56d56684d8aef3b858fbb30bc703804b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209243839,
-            "neighbourhood_id":1394399631
+            "county_id":102062759,
+            "localadmin_id":404567735,
+            "locality_id":101854137,
+            "neighbourhood_id":1394399631,
+            "region_id":85682381
         }
     ],
     "wof:id":1394399631,
-    "wof:lastmodified":1565230726,
+    "wof:lastmodified":1565440026,
     "wof:name":"Gygermatte",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854137,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

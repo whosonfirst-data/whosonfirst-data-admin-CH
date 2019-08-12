@@ -31,7 +31,10 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682341,
+        102062815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"4d6acff1f28e4fb5ed52727e4565634e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209446547
+            "county_id":102062815,
+            "locality_id":1209446547,
+            "region_id":85682341
         }
     ],
     "wof:id":1209446547,
-    "wof:lastmodified":1565230535,
+    "wof:lastmodified":1565430907,
     "wof:name":"Hintergoldingen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":102062815,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

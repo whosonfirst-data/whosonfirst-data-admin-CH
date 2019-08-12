@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209650189,
-        85633051
+        85682319,
+        102191581,
+        404328115,
+        85633051,
+        1126049387,
+        1394137073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"232d552411fe31cea3af3dc37c073926",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209650189,
-            "neighbourhood_id":1394401175
+            "county_id":1394137073,
+            "localadmin_id":404328115,
+            "locality_id":1126049387,
+            "neighbourhood_id":1394401175,
+            "region_id":85682319
         }
     ],
     "wof:id":1394401175,
-    "wof:lastmodified":1565230632,
+    "wof:lastmodified":1565435400,
     "wof:name":"Neuhuettli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126049387,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

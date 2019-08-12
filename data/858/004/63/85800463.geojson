@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000353,
-    "geom:area_square_m":2951335.387156,
+    "geom:area_square_m":2951335.387155,
     "geom:bbox":"8.54461669922,47.3819948141,8.57070922852,47.4039263543",
     "geom:latitude":47.39311,
     "geom:longitude":8.556027,
@@ -64,7 +64,9 @@
     "wof:belongsto":[
         85682309,
         102191581,
+        1394254167,
         85633051,
+        101748463,
         102063071
     ],
     "wof:breaches":[],
@@ -80,7 +82,8 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063071,
-            "locality_id":-1,
+            "localadmin_id":1394254167,
+            "locality_id":101748463,
             "neighbourhood_id":85800463,
             "region_id":85682309
         }
@@ -89,9 +92,9 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1527270470,
+    "wof:lastmodified":1565428627,
     "wof:name":"Rigiblick",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

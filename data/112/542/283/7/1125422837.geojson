@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682255,
+        102062881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"67dfd56df32b3ae7e0880632e7062ee3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125422837
+            "county_id":102062881,
+            "localadmin_id":1125422837,
+            "region_id":85682255
         }
     ],
     "wof:id":1125422837,
-    "wof:lastmodified":1505185774,
+    "wof:lastmodified":1565457560,
     "wof:name":"Trimmis",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062881,
     "wof:placetype":"localadmin",
     "wof:population":3188,
     "wof:population_rank":4,

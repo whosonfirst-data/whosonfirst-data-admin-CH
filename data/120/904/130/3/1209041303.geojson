@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682337,
+        102191581,
+        404568967,
+        85633051,
+        102062955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"780552d7de226adf3b123e72d8e0e561",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209041303
+            "county_id":102062955,
+            "localadmin_id":404568967,
+            "locality_id":1209041303,
+            "region_id":85682337
         }
     ],
     "wof:id":1209041303,
-    "wof:lastmodified":1565230531,
+    "wof:lastmodified":1565430690,
     "wof:name":"Hofen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

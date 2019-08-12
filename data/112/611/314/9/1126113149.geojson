@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404571057,
+        85633051,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"f149e40f752e4f05f85442ae69c94985",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113149
+            "county_id":102062801,
+            "localadmin_id":404571057,
+            "locality_id":1126113149,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113149,
-    "wof:lastmodified":1505185718,
+    "wof:lastmodified":1565453843,
     "wof:name":"Hofmatt",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571057,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

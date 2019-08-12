@@ -25,15 +25,30 @@
     "reversegeo:longitude":7.83854,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404567921,
+        85633051,
+        102062837
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"501b9b7967417fd87ac5d5452de1329d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062837,
+            "localadmin_id":404567921,
+            "locality_id":1394290151,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394290151,
-    "wof:lastmodified":1565139046,
+    "wof:lastmodified":1565442957,
     "wof:name":"Wasen im Emmental",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -52,15 +52,30 @@
     "reversegeo:longitude":7.070361,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682347,
+        102191581,
+        404567895,
+        85633051,
+        102063059
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"4c9a8cf55a392b1e0c627a1888a63965",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063059,
+            "localadmin_id":404567895,
+            "locality_id":1394297823,
+            "region_id":85682347
+        }
+    ],
     "wof:id":1394297823,
-    "wof:lastmodified":1565299343,
+    "wof:lastmodified":1565443058,
     "wof:name":"Ocourt",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

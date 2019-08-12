@@ -138,8 +138,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209140669,
-        85633051
+        85682325,
+        102191581,
+        404572287,
+        85633051,
+        1394297911,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -149,15 +153,19 @@
     "wof:geomhash":"2f16085ad313ce9503e04a73b46815c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209140669,
-            "neighbourhood_id":1394399393
+            "county_id":102062873,
+            "localadmin_id":404572287,
+            "locality_id":1394297911,
+            "neighbourhood_id":1394399393,
+            "region_id":85682325
         }
     ],
     "wof:id":1394399393,
-    "wof:lastmodified":1565298706,
+    "wof:lastmodified":1565439938,
     "wof:name":"Saint Denis",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394297911,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

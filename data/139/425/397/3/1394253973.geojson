@@ -24,15 +24,28 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682309,
+        1394212863
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"1c737fe00b06ad3dd11b98a9d9176fbc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394212863,
+            "localadmin_id":1394253973,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394253973,
-    "wof:lastmodified":1565139021,
+    "wof:lastmodified":1565438090,
     "wof:name":"Z\u00fcrichsee",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394212863,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

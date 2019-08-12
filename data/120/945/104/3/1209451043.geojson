@@ -110,7 +110,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682255,
+        102191581,
+        1394254103,
+        85633051,
+        102062773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,14 +125,18 @@
     "wof:geomhash":"763227cd6dff3022e8d9becd270433af",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209451043
+            "county_id":102062773,
+            "localadmin_id":1394254103,
+            "locality_id":1209451043,
+            "region_id":85682255
         }
     ],
     "wof:id":1209451043,
-    "wof:lastmodified":1565297343,
+    "wof:lastmodified":1565581749,
     "wof:name":"Castrisch",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394254103,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

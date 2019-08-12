@@ -28,15 +28,30 @@
     "reversegeo:longitude":7.131462,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682281,
+        102191581,
+        404568717,
+        85633051,
+        102062807
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"4173f0cb59f8d0a102fd12d2ec182ebe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062807,
+            "localadmin_id":404568717,
+            "locality_id":1394297713,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394297713,
-    "wof:lastmodified":1565139050,
+    "wof:lastmodified":1565443056,
     "wof:name":"Vens",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568717,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

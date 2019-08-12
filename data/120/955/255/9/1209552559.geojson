@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682337,
+        102191581,
+        404569043,
+        85633051,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"c02c1b70f04a667fedcda9a26f1678c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209552559
+            "county_id":102062869,
+            "localadmin_id":404569043,
+            "locality_id":1209552559,
+            "region_id":85682337
         }
     ],
     "wof:id":1209552559,
-    "wof:lastmodified":1565230523,
+    "wof:lastmodified":1565430312,
     "wof:name":"Eggmuehle",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404569043,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

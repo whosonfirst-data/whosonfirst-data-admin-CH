@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209035915,
-        85633051
+        85682263,
+        102191581,
+        404328221,
+        85633051,
+        101853755,
+        102063067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"5c8a9c85504362fafc830a0e99dc7e7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209035915,
-            "neighbourhood_id":1394398821
+            "county_id":102063067,
+            "localadmin_id":404328221,
+            "locality_id":101853755,
+            "neighbourhood_id":1394398821,
+            "region_id":85682263
         }
     ],
     "wof:id":1394398821,
-    "wof:lastmodified":1565230770,
+    "wof:lastmodified":1565441762,
     "wof:name":"Unterfuren",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101853755,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

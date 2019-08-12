@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682337,
+        102191581,
+        404568869,
+        85633051,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"11560f2c1682b7a48e95c4d1dcfa6ad5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209346001
+            "county_id":102062869,
+            "localadmin_id":404568869,
+            "locality_id":1209346001,
+            "region_id":85682337
         }
     ],
     "wof:id":1209346001,
-    "wof:lastmodified":1565230533,
+    "wof:lastmodified":1565430786,
     "wof:name":"Egelsee",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

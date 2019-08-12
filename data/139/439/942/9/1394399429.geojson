@@ -48,8 +48,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209140787,
-        85633051
+        85682381,
+        102191581,
+        404567867,
+        85633051,
+        101854133,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +63,19 @@
     "wof:geomhash":"4671a2115ef2307cc5fbc394c05dafd4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209140787,
-            "neighbourhood_id":1394399429
+            "county_id":102062831,
+            "localadmin_id":404567867,
+            "locality_id":101854133,
+            "neighbourhood_id":1394399429,
+            "region_id":85682381
         }
     ],
     "wof:id":1394399429,
-    "wof:lastmodified":1565299198,
+    "wof:lastmodified":1565442448,
     "wof:name":"Burst",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854133,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

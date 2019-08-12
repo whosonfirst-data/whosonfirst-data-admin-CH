@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568915,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"b5deb86dc11da5992b26a2a4cb5c4ef1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111677
+            "county_id":102063055,
+            "localadmin_id":404568915,
+            "locality_id":1126111677,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111677,
-    "wof:lastmodified":1505185760,
+    "wof:lastmodified":1565453143,
     "wof:name":"Letzbach",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568915,
     "wof:placetype":"locality",
     "wof:population":7,
     "wof:population_rank":1,

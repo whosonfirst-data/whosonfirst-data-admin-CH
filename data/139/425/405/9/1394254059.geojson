@@ -108,22 +108,35 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682319,
+        1394137077
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"b6aa065798e0716c43b4e14f911b25cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137077,
+            "localadmin_id":1394254059,
+            "region_id":85682319
+        }
+    ],
     "wof:id":1394254059,
-    "wof:lastmodified":1565298490,
+    "wof:lastmodified":1565581843,
     "wof:name":"Berom\u00fcnster",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404328207,
         404328371
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

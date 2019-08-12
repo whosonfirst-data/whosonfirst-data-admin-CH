@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682341,
+        102191581,
+        404570039,
+        85633051,
+        102062847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"48a7810d911913adab646fd52a6730e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209140715
+            "county_id":102062847,
+            "localadmin_id":404570039,
+            "locality_id":1209140715,
+            "region_id":85682341
         }
     ],
     "wof:id":1209140715,
-    "wof:lastmodified":1565230527,
+    "wof:lastmodified":1565430506,
     "wof:name":"Unterau",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404570039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

@@ -71,7 +71,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682325,
+        102191581,
+        404568391,
+        85633051,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,14 +86,18 @@
     "wof:geomhash":"0b8b32468b1294a1ab150e058bbfcc32",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209348479
+            "county_id":102062969,
+            "localadmin_id":404568391,
+            "locality_id":1209348479,
+            "region_id":85682325
         }
     ],
     "wof:id":1209348479,
-    "wof:lastmodified":1565297340,
+    "wof:lastmodified":1565430779,
     "wof:name":"Marnand",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

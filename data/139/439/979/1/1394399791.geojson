@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209249133,
-        85633051
+        85682305,
+        102191581,
+        404567971,
+        85633051,
+        101854013,
+        102062887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"4d5dabd352f7c1498f2b5f476b48df78",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209249133,
-            "neighbourhood_id":1394399791
+            "county_id":102062887,
+            "localadmin_id":404567971,
+            "locality_id":101854013,
+            "neighbourhood_id":1394399791,
+            "region_id":85682305
         }
     ],
     "wof:id":1394399791,
-    "wof:lastmodified":1565230747,
+    "wof:lastmodified":1565440860,
     "wof:name":"Herrenfeld",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854013,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

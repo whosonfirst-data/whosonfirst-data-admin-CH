@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"9aa96ff5791f31a1e02b85e7add30bac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111665
+            "county_id":102063055,
+            "locality_id":1126111665,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111665,
-    "wof:lastmodified":1505185760,
+    "wof:lastmodified":1565453022,
     "wof:name":"H\u00fcttstall",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063055,
     "wof:placetype":"locality",
     "wof:population":1,
     "wof:population_rank":1,

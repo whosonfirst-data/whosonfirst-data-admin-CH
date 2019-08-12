@@ -79,18 +79,33 @@
     "reversegeo:longitude":7.028682,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682347,
+        102191581,
+        404571671,
+        85633051,
+        102062875
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404571671
     ],
     "wof:country":"CH",
     "wof:geomhash":"c6abaf06fba50728bf66e4916e7903d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062875,
+            "localadmin_id":404571671,
+            "locality_id":1394297815,
+            "region_id":85682347
+        }
+    ],
     "wof:id":1394297815,
-    "wof:lastmodified":1565299409,
+    "wof:lastmodified":1565443259,
     "wof:name":"La Chaux-des-Breuleux",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

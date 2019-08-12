@@ -25,15 +25,30 @@
     "reversegeo:longitude":8.69294,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682305,
+        102191581,
+        404567971,
+        85633051,
+        102062887
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"d78fe4e5c844ca910a9cc075738131de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062887,
+            "localadmin_id":404567971,
+            "locality_id":1394298025,
+            "region_id":85682305
+        }
+    ],
     "wof:id":1394298025,
-    "wof:lastmodified":1565139049,
+    "wof:lastmodified":1565443025,
     "wof:name":"Rickenbach b. Schwyz",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567971,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

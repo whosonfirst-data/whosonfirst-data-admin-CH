@@ -46,8 +46,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1126111703,
-        85633051
+        85682309,
+        102191581,
+        404568915,
+        85633051,
+        1394298017,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,15 +64,19 @@
     "wof:geomhash":"bbcc954dc0195f36fda8dfaf0edde5e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111703,
-            "neighbourhood_id":1394398085
+            "county_id":102063055,
+            "localadmin_id":404568915,
+            "locality_id":1394298017,
+            "neighbourhood_id":1394398085,
+            "region_id":85682309
         }
     ],
     "wof:id":1394398085,
-    "wof:lastmodified":1565242891,
+    "wof:lastmodified":1565442124,
     "wof:name":"Oberfeld",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394298017,
     "wof:placetype":"neighbourhood",
     "wof:population":7,
     "wof:population_rank":1,

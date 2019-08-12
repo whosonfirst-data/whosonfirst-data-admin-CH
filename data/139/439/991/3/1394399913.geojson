@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209251159,
-        85633051
+        85682337,
+        102191581,
+        404569621,
+        85633051,
+        1343397217,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"68f3a19a305d2939ab6f14a522457e41",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209251159,
-            "neighbourhood_id":1394399913
+            "county_id":102062953,
+            "localadmin_id":404569621,
+            "locality_id":1343397217,
+            "neighbourhood_id":1394399913,
+            "region_id":85682337
         }
     ],
     "wof:id":1394399913,
-    "wof:lastmodified":1565230722,
+    "wof:lastmodified":1565439862,
     "wof:name":"Martinsmuehle",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1343397217,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

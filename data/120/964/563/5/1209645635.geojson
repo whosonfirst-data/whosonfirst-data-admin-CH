@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        404567867,
+        85633051,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"4b4e2dfcde6910a23013047db6b3dc42",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209645635
+            "county_id":102062831,
+            "localadmin_id":404567867,
+            "locality_id":1209645635,
+            "region_id":85682381
         }
     ],
     "wof:id":1209645635,
-    "wof:lastmodified":1565230522,
+    "wof:lastmodified":1565430260,
     "wof:name":"Vorderhasli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404567867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

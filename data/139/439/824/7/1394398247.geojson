@@ -109,8 +109,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1126113553,
-        85633051
+        85682309,
+        102191581,
+        404569159,
+        85633051,
+        1126013023,
+        1394212863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,15 +127,19 @@
     "wof:geomhash":"6c9f049daff67d4d8bd4b319ca6b16b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113553,
-            "neighbourhood_id":1394398247
+            "county_id":1394212863,
+            "localadmin_id":404569159,
+            "locality_id":1126013023,
+            "neighbourhood_id":1394398247,
+            "region_id":85682309
         }
     ],
     "wof:id":1394398247,
-    "wof:lastmodified":1565242662,
+    "wof:lastmodified":1565441705,
     "wof:name":"Neuheim",
-    "wof:parent_id":-1,
+    "wof:parent_id":1126013023,
     "wof:placetype":"neighbourhood",
     "wof:population":2,
     "wof:population_rank":1,

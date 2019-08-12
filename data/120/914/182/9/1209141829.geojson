@@ -31,7 +31,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682325,
+        102191581,
+        404569699,
+        85633051,
+        102062783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"86e29586577fb136cb93abf832d4e59a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209141829
+            "county_id":102062783,
+            "localadmin_id":404569699,
+            "locality_id":1209141829,
+            "region_id":85682325
         }
     ],
     "wof:id":1209141829,
-    "wof:lastmodified":1565230528,
+    "wof:lastmodified":1565430547,
     "wof:name":"Crebelley",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404569699,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

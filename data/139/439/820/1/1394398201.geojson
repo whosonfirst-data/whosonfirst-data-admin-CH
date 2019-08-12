@@ -52,8 +52,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1126113103,
-        85633051
+        85682309,
+        102191581,
+        404568273,
+        85633051,
+        101854391,
+        102062933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,15 +70,19 @@
     "wof:geomhash":"3adaa72863511306eab34f51cb2ce2db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113103,
-            "neighbourhood_id":1394398201
+            "county_id":102062933,
+            "localadmin_id":404568273,
+            "locality_id":101854391,
+            "neighbourhood_id":1394398201,
+            "region_id":85682309
         }
     ],
     "wof:id":1394398201,
-    "wof:lastmodified":1565241899,
+    "wof:lastmodified":1565440152,
     "wof:name":"Seefeld",
-    "wof:parent_id":-1,
+    "wof:parent_id":101854391,
     "wof:placetype":"neighbourhood",
     "wof:population":3,
     "wof:population_rank":1,

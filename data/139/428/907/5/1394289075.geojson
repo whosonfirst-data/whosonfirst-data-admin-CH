@@ -25,15 +25,30 @@
     "reversegeo:longitude":6.890378,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404568205,
+        85633051,
+        102062833
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"047a0f3e1e2d5e514f43ec0dab8beaa1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062833,
+            "localadmin_id":404568205,
+            "locality_id":1394289075,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394289075,
-    "wof:lastmodified":1565139039,
+    "wof:lastmodified":1565442761,
     "wof:name":"Chailly-Montreux",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

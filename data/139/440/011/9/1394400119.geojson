@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209348517,
-        85633051
+        85682285,
+        102191581,
+        404328265,
+        85633051,
+        1310342389,
+        1394137109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"7247f8f1532413834e311e226489ff27",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209348517,
-            "neighbourhood_id":1394400119
+            "county_id":1394137109,
+            "localadmin_id":404328265,
+            "locality_id":1310342389,
+            "neighbourhood_id":1394400119,
+            "region_id":85682285
         }
     ],
     "wof:id":1394400119,
-    "wof:lastmodified":1565230656,
+    "wof:lastmodified":1565436317,
     "wof:name":"Hohtannen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1310342389,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

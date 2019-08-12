@@ -51,24 +51,37 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682255,
+        102062773
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"721cf3f0787afb494ea7efe023c173ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062773,
+            "localadmin_id":1394254079,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394254079,
-    "wof:lastmodified":1565298457,
+    "wof:lastmodified":1565581636,
     "wof:name":"Safiental",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404567799,
         404568487,
         404568791,
         404569495
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

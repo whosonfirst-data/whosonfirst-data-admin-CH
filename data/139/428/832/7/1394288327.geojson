@@ -82,15 +82,30 @@
     "reversegeo:longitude":8.998555,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682341,
+        102191581,
+        1394253995,
+        85633051,
+        102062815
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"9f781cfc5f64325336626575f3beba84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062815,
+            "localadmin_id":1394253995,
+            "locality_id":1394288327,
+            "region_id":85682341
+        }
+    ],
     "wof:id":1394288327,
-    "wof:lastmodified":1565299265,
+    "wof:lastmodified":1565581419,
     "wof:name":"Ernetschwil",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394253995,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

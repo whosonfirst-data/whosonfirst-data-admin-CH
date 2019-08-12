@@ -91,15 +91,30 @@
     "reversegeo:longitude":9.093773,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        1394254093,
+        85633051,
+        102062903
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"cbffb3e62eb830541bb4d0ed6c22fe7d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062903,
+            "localadmin_id":1394254093,
+            "locality_id":1394298127,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394298127,
-    "wof:lastmodified":1565299378,
+    "wof:lastmodified":1565581626,
     "wof:name":"Arvigo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

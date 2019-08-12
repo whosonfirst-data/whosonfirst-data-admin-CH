@@ -30,15 +30,26 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682319
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"d9c130f6309f54dbdb3d514d8e4873da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137117,
+            "region_id":85682319
+        }
+    ],
     "wof:id":1394137117,
-    "wof:lastmodified":1565139034,
+    "wof:lastmodified":1565438858,
     "wof:name":"Luzern-Stadt",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682319,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

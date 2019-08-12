@@ -52,15 +52,30 @@
     "reversegeo:longitude":6.34668,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404569931,
+        85633051,
+        102062873
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"5ebe53f2eab8cd2e9b8c143d52a5fd6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062873,
+            "localadmin_id":404569931,
+            "locality_id":1394289113,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394289113,
-    "wof:lastmodified":1565299290,
+    "wof:lastmodified":1565442872,
     "wof:name":"Pizy",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

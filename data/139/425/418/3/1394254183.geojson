@@ -42,24 +42,37 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682301,
+        102062945
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"6cbb09f813aad536e3127b869cdde5d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062945,
+            "localadmin_id":1394254183,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394254183,
-    "wof:lastmodified":1565298489,
+    "wof:lastmodified":1565581832,
     "wof:name":"Belmont-Broye",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062945,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404570035,
         404570103,
         404571487,
         404571841
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

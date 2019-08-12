@@ -22,15 +22,26 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682325
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"983e04a07764de1d2280f88198178f82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394212859,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394212859,
-    "wof:lastmodified":1565139038,
+    "wof:lastmodified":1565442740,
     "wof:name":"Vaud (unincorporated)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682325,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:statistical_gore":1,

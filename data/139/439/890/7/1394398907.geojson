@@ -31,8 +31,12 @@
     "mz:is_funky":1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209041105,
-        85633051
+        85682371,
+        102191581,
+        404328137,
+        85633051,
+        101853897,
+        102062787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,19 @@
     "wof:geomhash":"048a0f6cdc112d8209ef77dc05626498",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209041105,
-            "neighbourhood_id":1394398907
+            "county_id":102062787,
+            "localadmin_id":404328137,
+            "locality_id":101853897,
+            "neighbourhood_id":1394398907,
+            "region_id":85682371
         }
     ],
     "wof:id":1394398907,
-    "wof:lastmodified":1565230783,
+    "wof:lastmodified":1565442250,
     "wof:name":"Kirchhofen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101853897,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

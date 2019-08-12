@@ -40,7 +40,10 @@
     "woe:name_adm1":"Kanton Luzern",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682319,
+        1394137075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"18a23ede2421d6084fa5a726dafadae9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125304303
+            "county_id":1394137075,
+            "localadmin_id":1125304303,
+            "region_id":85682319
         }
     ],
     "wof:id":1125304303,
-    "wof:lastmodified":1505248009,
+    "wof:lastmodified":1565458395,
     "wof:name":"Willisau Stadt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

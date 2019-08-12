@@ -110,7 +110,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569057,
+        85633051,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,14 +127,18 @@
     "wof:geomhash":"646b2f39f673c8870dc71ef7d20fec74",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112885
+            "county_id":102062775,
+            "localadmin_id":404569057,
+            "locality_id":1126112885,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112885,
-    "wof:lastmodified":1565230829,
+    "wof:lastmodified":1565453313,
     "wof:name":"Sch\u00f6nau",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569057,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

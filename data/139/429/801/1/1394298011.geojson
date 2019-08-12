@@ -49,15 +49,30 @@
     "reversegeo:longitude":6.588015,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404569641,
+        85633051,
+        102062949
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"a7288fd10674a6defd0d086ba42909de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062949,
+            "localadmin_id":404569641,
+            "locality_id":1394298011,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394298011,
-    "wof:lastmodified":1565299401,
+    "wof:lastmodified":1565443241,
     "wof:name":"Goumoens-le-Jux",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569641,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

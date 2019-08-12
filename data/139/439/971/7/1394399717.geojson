@@ -30,8 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209244351,
-        85633051
+        85682291,
+        102191581,
+        404328405,
+        85633051,
+        1125778417,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,19 @@
     "wof:geomhash":"c8fbdef9186b302e3486912d89c8afa8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209244351,
-            "neighbourhood_id":1394399717
+            "county_id":102062917,
+            "localadmin_id":404328405,
+            "locality_id":1125778417,
+            "neighbourhood_id":1394399717,
+            "region_id":85682291
         }
     ],
     "wof:id":1394399717,
-    "wof:lastmodified":1565230752,
+    "wof:lastmodified":1565441059,
     "wof:name":"Lullier",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125778417,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

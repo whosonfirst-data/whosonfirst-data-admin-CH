@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209350525,
-        85633051
+        85682255,
+        102191581,
+        404567733,
+        85633051,
+        1125802819,
+        102062903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"fc3d39af1f4fc0d202356c009a54cb05",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209350525,
-            "neighbourhood_id":1394400233
+            "county_id":102062903,
+            "localadmin_id":404567733,
+            "locality_id":1125802819,
+            "neighbourhood_id":1394400233,
+            "region_id":85682255
         }
     ],
     "wof:id":1394400233,
-    "wof:lastmodified":1565230583,
+    "wof:lastmodified":1565433497,
     "wof:name":"Gumegna",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125802819,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209451661,
-        85633051
+        85682255,
+        102191581,
+        1394254077,
+        85633051,
+        1125897953,
+        102063001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"d29c0c58c47215d956ce3d6376eac9ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209451661,
-            "neighbourhood_id":1394400661
+            "county_id":102063001,
+            "localadmin_id":1394254077,
+            "locality_id":1125897953,
+            "neighbourhood_id":1394400661,
+            "region_id":85682255
         }
     ],
     "wof:id":1394400661,
-    "wof:lastmodified":1565230671,
+    "wof:lastmodified":1565581641,
     "wof:name":"Medergen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125897953,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

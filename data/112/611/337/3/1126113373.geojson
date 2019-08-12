@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404571821,
+        85633051,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"c31f68860ebcd07f4fa82996c6e4ec51",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126113373
+            "county_id":102062775,
+            "localadmin_id":404571821,
+            "locality_id":1126113373,
+            "region_id":85682309
         }
     ],
     "wof:id":1126113373,
-    "wof:lastmodified":1505185718,
+    "wof:lastmodified":1565453069,
     "wof:name":"Egg\u00e4cher",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571821,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

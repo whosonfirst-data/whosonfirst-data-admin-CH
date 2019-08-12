@@ -30,8 +30,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209041557,
-        85633051
+        85682305,
+        102191581,
+        1394254135,
+        85633051,
+        101854007,
+        102062795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,19 @@
     "wof:geomhash":"8bac89fb5dccaff110685331ce21bbc2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209041557,
-            "neighbourhood_id":1394398943
+            "county_id":102062795,
+            "localadmin_id":1394254135,
+            "locality_id":101854007,
+            "neighbourhood_id":1394398943,
+            "region_id":85682305
         }
     ],
     "wof:id":1394398943,
-    "wof:lastmodified":1565230743,
+    "wof:lastmodified":1565440690,
     "wof:name":"Birchli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854007,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

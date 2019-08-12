@@ -33,8 +33,12 @@
         "state_id":2347097
     },
     "wof:belongsto":[
+        85682341,
+        102191581,
+        404568363,
         85633051,
-        85682341
+        1327368731,
+        102062963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102553937,
+            "continent_id":102191581,
             "country_id":85633051,
+            "county_id":102062963,
+            "localadmin_id":404568363,
+            "locality_id":1327368731,
+            "neighbourhood_id":-1,
             "region_id":85682341
         }
     ],
     "wof:id":102553937,
-    "wof:lastmodified":1565237613,
+    "wof:lastmodified":1565422237,
     "wof:name":"Flugplatz Bad Ragaz",
-    "wof:parent_id":85682341,
+    "wof:parent_id":1327368731,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

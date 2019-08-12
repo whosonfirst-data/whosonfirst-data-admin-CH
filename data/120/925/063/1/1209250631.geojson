@@ -51,7 +51,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682281,
+        102191581,
+        404567953,
+        85633051,
+        102062985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +65,18 @@
     "wof:geomhash":"2f0a18a39652e18e96c9e5e37e3c62b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209250631
+            "county_id":102062985,
+            "localadmin_id":404567953,
+            "locality_id":1209250631,
+            "region_id":85682281
         }
     ],
     "wof:id":1209250631,
-    "wof:lastmodified":1565139000,
+    "wof:lastmodified":1565430436,
     "wof:name":"St-Romain",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404567953,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

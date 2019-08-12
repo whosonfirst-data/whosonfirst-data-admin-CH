@@ -94,15 +94,30 @@
     "reversegeo:longitude":7.49312,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404571395,
+        85633051,
+        102062861
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"63783ee5819c9751633048f4d6d1ba14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":404571395,
+            "locality_id":1394289089,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394289089,
-    "wof:lastmodified":1565299258,
+    "wof:lastmodified":1565442773,
     "wof:name":"R\u00fcmligen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

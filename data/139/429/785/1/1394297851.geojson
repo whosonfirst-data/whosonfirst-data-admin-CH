@@ -82,15 +82,30 @@
     "reversegeo:longitude":7.51375,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682365,
+        102191581,
+        1394254001,
+        85633051,
+        1394137095
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"cc0baaeee9efc8d32d01dd2127edece9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137095,
+            "localadmin_id":1394254001,
+            "locality_id":1394297851,
+            "region_id":85682365
+        }
+    ],
     "wof:id":1394297851,
-    "wof:lastmodified":1565299341,
+    "wof:lastmodified":1565581659,
     "wof:name":"Kyburg-Buchegg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

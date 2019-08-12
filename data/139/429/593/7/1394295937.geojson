@@ -25,18 +25,33 @@
     "reversegeo:longitude":6.257694,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404569231,
+        85633051,
+        102063049
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404569231
     ],
     "wof:country":"CH",
     "wof:geomhash":"3651ba253e7c78e62eb41cb8e154cb19",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063049,
+            "localadmin_id":404569231,
+            "locality_id":1394295937,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394295937,
-    "wof:lastmodified":1565228159,
+    "wof:lastmodified":1565442910,
     "wof:name":"St-George",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

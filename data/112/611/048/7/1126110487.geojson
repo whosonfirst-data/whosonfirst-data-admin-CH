@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569855,
+        85633051,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"f954c0d8db87e2db7a58523543ceff13",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110487
+            "county_id":102062995,
+            "localadmin_id":404569855,
+            "locality_id":1126110487,
+            "region_id":85682309
         }
     ],
     "wof:id":1126110487,
-    "wof:lastmodified":1505185728,
+    "wof:lastmodified":1565453238,
     "wof:name":"Felsenhof",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569855,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

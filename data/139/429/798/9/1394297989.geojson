@@ -25,15 +25,30 @@
     "reversegeo:longitude":7.095869,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404568509,
+        85633051,
+        102062865
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"0aada277b1080f0b406d6af80dd14a93",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062865,
+            "localadmin_id":404568509,
+            "locality_id":1394297989,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394297989,
-    "wof:lastmodified":1565139045,
+    "wof:lastmodified":1565442922,
     "wof:name":"Montagne-de-Courtelary",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568509,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

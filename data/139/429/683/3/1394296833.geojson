@@ -61,18 +61,33 @@
     "reversegeo:longitude":7.550769,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682361,
+        102191581,
+        404570307,
+        85633051,
+        102062971
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404570307
     ],
     "wof:country":"CH",
     "wof:geomhash":"9a810cc68a2cfe7bc948eb9b897e30a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062971,
+            "localadmin_id":404570307,
+            "locality_id":1394296833,
+            "region_id":85682361
+        }
+    ],
     "wof:id":1394296833,
-    "wof:lastmodified":1565299387,
+    "wof:lastmodified":1565443191,
     "wof:name":"Oberwil",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570307,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

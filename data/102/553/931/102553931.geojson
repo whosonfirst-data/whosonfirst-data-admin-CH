@@ -45,8 +45,12 @@
         "state_id":2347105
     },
     "wof:belongsto":[
+        85682325,
+        102191581,
+        404567693,
         85633051,
-        85682325
+        1193046703,
+        102063021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +64,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102553931,
+            "continent_id":102191581,
             "country_id":85633051,
+            "county_id":102063021,
+            "localadmin_id":404567693,
+            "locality_id":1193046703,
+            "neighbourhood_id":-1,
             "region_id":85682325
         }
     ],
     "wof:id":102553931,
-    "wof:lastmodified":1565237609,
+    "wof:lastmodified":1565422233,
     "wof:name":"Aerodrome de la Cote",
-    "wof:parent_id":85682325,
+    "wof:parent_id":1193046703,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

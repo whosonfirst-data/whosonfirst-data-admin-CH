@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569959,
+        85633051,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"39424fbc403a2d6922a1ccc3b1b6aa6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111375
+            "county_id":102062779,
+            "localadmin_id":404569959,
+            "locality_id":1126111375,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111375,
-    "wof:lastmodified":1505185753,
+    "wof:lastmodified":1565454061,
     "wof:name":"Sennenhaus",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569959,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

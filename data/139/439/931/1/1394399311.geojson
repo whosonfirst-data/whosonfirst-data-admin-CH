@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209139817,
-        85633051
+        85682309,
+        102191581,
+        404569139,
+        85633051,
+        1394297691,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"3aaf2fbc72982c023b16bc26bb1d05b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209139817,
-            "neighbourhood_id":1394399311
+            "county_id":102063055,
+            "localadmin_id":404569139,
+            "locality_id":1394297691,
+            "neighbourhood_id":1394399311,
+            "region_id":85682309
         }
     ],
     "wof:id":1394399311,
-    "wof:lastmodified":1565230719,
+    "wof:lastmodified":1565439734,
     "wof:name":"Zehntenfrei",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394297691,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

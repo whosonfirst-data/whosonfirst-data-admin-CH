@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682269,
+        102191581,
+        404573227,
+        85633051,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"cb86e463645890408a41f1f1d633a50c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209345971
+            "county_id":102062767,
+            "localadmin_id":404573227,
+            "locality_id":1209345971,
+            "region_id":85682269
         }
     ],
     "wof:id":1209345971,
-    "wof:lastmodified":1565230532,
+    "wof:lastmodified":1565430768,
     "wof:name":"Formighe",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404573227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

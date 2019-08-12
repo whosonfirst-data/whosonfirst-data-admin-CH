@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682319,
+        102191581,
+        404328211,
+        85633051,
+        1394137079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"6608d4b9e991e716c2af3809dfcc8d89",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209645541
+            "county_id":1394137079,
+            "localadmin_id":404328211,
+            "locality_id":1209645541,
+            "region_id":85682319
         }
     ],
     "wof:id":1209645541,
-    "wof:lastmodified":1565230522,
+    "wof:lastmodified":1565430271,
     "wof:name":"Ettisbuehl",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328211,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

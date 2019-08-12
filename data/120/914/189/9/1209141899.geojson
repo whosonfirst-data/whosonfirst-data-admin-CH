@@ -68,7 +68,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682325,
+        102191581,
+        404568735,
+        85633051,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,14 +83,18 @@
     "wof:geomhash":"3b5febda1841a8822dd90de9710c9f24",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209141899
+            "county_id":102062949,
+            "localadmin_id":404568735,
+            "locality_id":1209141899,
+            "region_id":85682325
         }
     ],
     "wof:id":1209141899,
-    "wof:lastmodified":1565297331,
+    "wof:lastmodified":1565430519,
     "wof:name":"Montaubion-Chardonney",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

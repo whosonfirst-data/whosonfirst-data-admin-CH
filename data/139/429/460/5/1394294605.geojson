@@ -124,15 +124,30 @@
     "reversegeo:longitude":9.003861,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682269,
+        102191581,
+        404567711,
+        85633051,
+        102063035
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"6c1549f0e434ff558d40da344913a733",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063035,
+            "localadmin_id":404567711,
+            "locality_id":1394294605,
+            "region_id":85682269
+        }
+    ],
     "wof:id":1394294605,
-    "wof:lastmodified":1565299391,
+    "wof:lastmodified":1565443206,
     "wof:name":"Aquila",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -24,15 +24,28 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682341,
+        102063057
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"cafe24f15d4cb52912b9da53b8bbd8df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063057,
+            "localadmin_id":1394254039,
+            "region_id":85682341
+        }
+    ],
     "wof:id":1394254039,
-    "wof:lastmodified":1565139030,
+    "wof:lastmodified":1565438525,
     "wof:name":"Bodensee",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063057,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"2f108331958c27cce0fb9084b5648d9c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110977
+            "county_id":102062825,
+            "locality_id":1126110977,
+            "region_id":85682309
         }
     ],
     "wof:id":1126110977,
-    "wof:lastmodified":1505185741,
+    "wof:lastmodified":1565453562,
     "wof:name":"Ober-Chalchtaren",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062825,
     "wof:placetype":"locality",
     "wof:population":3,
     "wof:population_rank":1,

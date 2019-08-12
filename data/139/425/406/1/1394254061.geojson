@@ -30,18 +30,30 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682359
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"19c24da932af1871cc418fad773441c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "localadmin_id":1394254061,
+            "region_id":85682359
+        }
+    ],
     "wof:id":1394254061,
-    "wof:lastmodified":1565298450,
+    "wof:lastmodified":1565581574,
     "wof:name":"La Grande-B\u00e9roche",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404569025,
         404569633,
         404570379,
@@ -49,7 +61,6 @@
         404573241,
         404573303
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

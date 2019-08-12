@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569147,
+        85633051,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"ae2f7c678b4893d3a2a448d6837b88cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110459
+            "county_id":102062995,
+            "localadmin_id":404569147,
+            "locality_id":1126110459,
+            "region_id":85682309
         }
     ],
     "wof:id":1126110459,
-    "wof:lastmodified":1505185727,
+    "wof:lastmodified":1565454121,
     "wof:name":"Im Hasli",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569147,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

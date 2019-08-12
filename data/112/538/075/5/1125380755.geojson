@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682301,
+        102062765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"5c197a823ed260e33dbd861feae012b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125380755
+            "county_id":102062765,
+            "localadmin_id":1125380755,
+            "region_id":85682301
         }
     ],
     "wof:id":1125380755,
-    "wof:lastmodified":1505185772,
+    "wof:lastmodified":1565459111,
     "wof:name":"Muntelier",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
     "wof:population":955,
     "wof:population_rank":2,

@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209249471,
-        85633051
+        85682381,
+        102191581,
+        404568913,
+        85633051,
+        1293137259,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"fb2a58236c8a3eefbd22cd524301652c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209249471,
-            "neighbourhood_id":1394399839
+            "county_id":102062837,
+            "localadmin_id":404568913,
+            "locality_id":1293137259,
+            "neighbourhood_id":1394399839,
+            "region_id":85682381
         }
     ],
     "wof:id":1394399839,
-    "wof:lastmodified":1565230746,
+    "wof:lastmodified":1565440828,
     "wof:name":"Burkhalten",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1293137259,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

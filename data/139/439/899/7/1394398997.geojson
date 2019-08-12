@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209042897,
-        85633051
+        85682325,
+        102191581,
+        404568735,
+        85633051,
+        1326866501,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"7fb3f8b51846bbe01896cfb9c1078259",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209042897,
-            "neighbourhood_id":1394398997
+            "county_id":102062949,
+            "localadmin_id":404568735,
+            "locality_id":1326866501,
+            "neighbourhood_id":1394398997,
+            "region_id":85682325
         }
     ],
     "wof:id":1394398997,
-    "wof:lastmodified":1565230782,
+    "wof:lastmodified":1565442221,
     "wof:name":"Chalet a Chuet",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1326866501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -29,8 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209451637,
-        85633051
+        85682381,
+        102191581,
+        404567939,
+        85633051,
+        1243300141,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,19 @@
     "wof:geomhash":"8c79fb0298e64fae9afe4ba5382b1591",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209451637,
-            "neighbourhood_id":1394400655
+            "county_id":102062861,
+            "localadmin_id":404567939,
+            "locality_id":1243300141,
+            "neighbourhood_id":1394400655,
+            "region_id":85682381
         }
     ],
     "wof:id":1394400655,
-    "wof:lastmodified":1565230599,
+    "wof:lastmodified":1565434108,
     "wof:name":"Hirschhorn",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1243300141,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

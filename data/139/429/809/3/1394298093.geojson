@@ -25,15 +25,30 @@
     "reversegeo:longitude":8.259562,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682371,
+        102191581,
+        404328151,
+        85633051,
+        102062787
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"b8ae569d99958a51875a4ba58bff0de9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062787,
+            "localadmin_id":404328151,
+            "locality_id":1394298093,
+            "region_id":85682371
+        }
+    ],
     "wof:id":1394298093,
-    "wof:lastmodified":1565139056,
+    "wof:lastmodified":1565443213,
     "wof:name":"Fl\u00fceli-Ranft",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328151,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

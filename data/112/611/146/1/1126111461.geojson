@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404570485,
+        85633051,
+        102062933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"ae87265002e9837f196bbd85e40665c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111461
+            "county_id":102062933,
+            "localadmin_id":404570485,
+            "locality_id":1126111461,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111461,
-    "wof:lastmodified":1505185755,
+    "wof:lastmodified":1565454657,
     "wof:name":"Leibacher",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570485,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

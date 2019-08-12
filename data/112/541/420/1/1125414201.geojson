@@ -47,7 +47,10 @@
     "woe:name_adm1":"Kanton Schwyz",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682305,
+        102062883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +63,17 @@
     "wof:geomhash":"6253d8a60c273e12b29a412e90c7ac82",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125414201
+            "county_id":102062883,
+            "localadmin_id":1125414201,
+            "region_id":85682305
         }
     ],
     "wof:id":1125414201,
-    "wof:lastmodified":1505185770,
+    "wof:lastmodified":1565462343,
     "wof:name":"Gersau",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062883,
     "wof:placetype":"localadmin",
     "wof:population":2240,
     "wof:population_rank":4,

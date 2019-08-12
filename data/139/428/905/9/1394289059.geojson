@@ -94,18 +94,33 @@
     "reversegeo:longitude":9.930209,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        404567887,
+        85633051,
+        102062857
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404567887
     ],
     "wof:country":"CH",
     "wof:geomhash":"796b2f7d806e13b6f512616b44f2890d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062857,
+            "localadmin_id":404567887,
+            "locality_id":1394289059,
+            "region_id":85682255
+        }
+    ],
     "wof:id":1394289059,
-    "wof:lastmodified":1565299280,
+    "wof:lastmodified":1565442841,
     "wof:name":"La Punt-Chamues-ch",
-    "wof:parent_id":-1,
+    "wof:parent_id":404567887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

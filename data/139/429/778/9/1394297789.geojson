@@ -25,15 +25,30 @@
     "reversegeo:longitude":8.786546,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        404570901,
+        85633051,
+        102063055
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"34c8e08b7e8914f4249ea6a9e3d26884",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063055,
+            "localadmin_id":404570901,
+            "locality_id":1394297789,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394297789,
-    "wof:lastmodified":1565139049,
+    "wof:lastmodified":1565443041,
     "wof:name":"Rickenbach Sulz",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570901,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

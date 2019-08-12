@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209251573,
-        85633051
+        85682319,
+        102191581,
+        404328345,
+        85633051,
+        1125994513,
+        1394137077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"ec83c2c54a41ec90fdbb72f911b27a05",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209251573,
-            "neighbourhood_id":1394399959
+            "county_id":1394137077,
+            "localadmin_id":404328345,
+            "locality_id":1125994513,
+            "neighbourhood_id":1394399959,
+            "region_id":85682319
         }
     ],
     "wof:id":1394399959,
-    "wof:lastmodified":1565230757,
+    "wof:lastmodified":1565441244,
     "wof:name":"Mittelhupraechtigen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125994513,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

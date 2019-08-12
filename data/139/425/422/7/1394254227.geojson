@@ -39,15 +39,28 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682275,
+        1394237541
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"d706c7de3b9fc0551743e5b670f2704c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394237541,
+            "localadmin_id":1394254227,
+            "region_id":85682275
+        }
+    ],
     "wof:id":1394254227,
-    "wof:lastmodified":1565298435,
+    "wof:lastmodified":1565438101,
     "wof:name":"Schwende",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394237541,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

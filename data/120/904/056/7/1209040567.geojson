@@ -114,7 +114,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404571181,
+        85633051,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,14 +132,18 @@
     "wof:geomhash":"6abbcfca2bede00f031f7ae69f3f5d1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209040567
+            "county_id":102062893,
+            "localadmin_id":404571181,
+            "locality_id":1209040567,
+            "region_id":85682309
         }
     ],
     "wof:id":1209040567,
-    "wof:lastmodified":1565297336,
+    "wof:lastmodified":1565430698,
     "wof:name":"Aesch",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404571181,
     "wof:placetype":"locality",
     "wof:population":879,
     "wof:population_rank":2,

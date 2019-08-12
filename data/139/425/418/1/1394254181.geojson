@@ -120,22 +120,33 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682359
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"c25a188519b58db2b1fdcc0a63d58767",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "localadmin_id":1394254181,
+            "region_id":85682359
+        }
+    ],
     "wof:id":1394254181,
-    "wof:lastmodified":1565298488,
+    "wof:lastmodified":1565581830,
     "wof:name":"Rochefort",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404568569,
         404571271
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

@@ -104,8 +104,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209248695,
-        85633051
+        85682341,
+        102191581,
+        404567763,
+        85633051,
+        1126022915,
+        102062963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,15 +119,19 @@
     "wof:geomhash":"f961a814ab8dbf768ef51de88dda0847",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209248695,
-            "neighbourhood_id":1394399751
+            "county_id":102062963,
+            "localadmin_id":404567763,
+            "locality_id":1126022915,
+            "neighbourhood_id":1394399751,
+            "region_id":85682341
         }
     ],
     "wof:id":1394399751,
-    "wof:lastmodified":1565299240,
+    "wof:lastmodified":1565442651,
     "wof:name":"Balen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126022915,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

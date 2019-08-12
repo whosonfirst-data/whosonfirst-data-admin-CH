@@ -88,18 +88,33 @@
     "reversegeo:longitude":8.944727,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682269,
+        102191581,
+        404573465,
+        85633051,
+        102062767
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404573465
     ],
     "wof:country":"CH",
     "wof:geomhash":"c231d6fbf2f1afb12f16c01af8be6442",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062767,
+            "localadmin_id":404573465,
+            "locality_id":1394289097,
+            "region_id":85682269
+        }
+    ],
     "wof:id":1394289097,
-    "wof:lastmodified":1565299251,
+    "wof:lastmodified":1565442748,
     "wof:name":"Savosa",
-    "wof:parent_id":-1,
+    "wof:parent_id":404573465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

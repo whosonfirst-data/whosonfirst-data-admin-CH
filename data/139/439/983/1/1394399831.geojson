@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209249447,
-        85633051
+        85682361,
+        102191581,
+        404569527,
+        85633051,
+        1125793369,
+        102062911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"3b899c251bf68a3152bdb3c6d55443dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209249447,
-            "neighbourhood_id":1394399831
+            "county_id":102062911,
+            "localadmin_id":404569527,
+            "locality_id":1125793369,
+            "neighbourhood_id":1394399831,
+            "region_id":85682361
         }
     ],
     "wof:id":1394399831,
-    "wof:lastmodified":1565230746,
+    "wof:lastmodified":1565440832,
     "wof:name":"Hinterbirch",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125793369,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

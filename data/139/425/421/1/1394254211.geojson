@@ -96,22 +96,35 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682329,
+        102062851
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"3d7b054b3179918a69afc56ab22c151c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062851,
+            "localadmin_id":1394254211,
+            "region_id":85682329
+        }
+    ],
     "wof:id":1394254211,
-    "wof:lastmodified":1565298468,
+    "wof:lastmodified":1565581704,
     "wof:name":"Reitnau",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062851,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404570969,
         404573051
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

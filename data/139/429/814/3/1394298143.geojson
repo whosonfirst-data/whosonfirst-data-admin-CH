@@ -58,18 +58,33 @@
     "reversegeo:longitude":6.763995,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404568673,
+        85633051,
+        102063047
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404568673
     ],
     "wof:country":"CH",
     "wof:geomhash":"2ce07c10404030e18eced752c17c27ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063047,
+            "localadmin_id":404568673,
+            "locality_id":1394298143,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394298143,
-    "wof:lastmodified":1565299384,
+    "wof:lastmodified":1565443175,
     "wof:name":"Forel",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568673,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

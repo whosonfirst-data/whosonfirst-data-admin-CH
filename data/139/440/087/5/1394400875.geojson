@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209551993,
-        85633051
+        85682337,
+        102191581,
+        404569775,
+        85633051,
+        1125913393,
+        102062955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"eff7109d1c3eac8fe301d0c7a902f5a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209551993,
-            "neighbourhood_id":1394400875
+            "county_id":102062955,
+            "localadmin_id":404569775,
+            "locality_id":1125913393,
+            "neighbourhood_id":1394400875,
+            "region_id":85682337
         }
     ],
     "wof:id":1394400875,
-    "wof:lastmodified":1565230651,
+    "wof:lastmodified":1565436147,
     "wof:name":"Geissbuehl",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125913393,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -45,7 +45,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633051
+        85682301,
+        102191581,
+        404568893,
+        85633051,
+        102062867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +59,18 @@
     "wof:geomhash":"61978f533986b3b7d13b0e6ecaf0e454",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209451475
+            "county_id":102062867,
+            "localadmin_id":404568893,
+            "locality_id":1209451475,
+            "region_id":85682301
         }
     ],
     "wof:id":1209451475,
-    "wof:lastmodified":1565139003,
+    "wof:lastmodified":1565430873,
     "wof:name":"Villargiroud",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568893,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

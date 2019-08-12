@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209348761,
-        85633051
+        85682337,
+        102191581,
+        404568383,
+        85633051,
+        1125775787,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"bd3b96062db08e48615a66a18686cce1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209348761,
-            "neighbourhood_id":1394400167
+            "county_id":102062953,
+            "localadmin_id":404568383,
+            "locality_id":1125775787,
+            "neighbourhood_id":1394400167,
+            "region_id":85682337
         }
     ],
     "wof:id":1394400167,
-    "wof:lastmodified":1565230656,
+    "wof:lastmodified":1565436337,
     "wof:name":"Mannenmuehle",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125775787,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

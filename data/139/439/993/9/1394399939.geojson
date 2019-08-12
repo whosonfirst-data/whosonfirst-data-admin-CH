@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209251463,
-        85633051
+        85682285,
+        102191581,
+        404328265,
+        85633051,
+        101854481,
+        1394137109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"4cdb374f9f664b5f04d75269e0fb02e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209251463,
-            "neighbourhood_id":1394399939
+            "county_id":1394137109,
+            "localadmin_id":404328265,
+            "locality_id":101854481,
+            "neighbourhood_id":1394399939,
+            "region_id":85682285
         }
     ],
     "wof:id":1394399939,
-    "wof:lastmodified":1565230761,
+    "wof:lastmodified":1565441401,
     "wof:name":"Huettenleben",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854481,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

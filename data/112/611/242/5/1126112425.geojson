@@ -37,7 +37,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569019,
+        85633051,
+        102062933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,18 @@
     "wof:geomhash":"09d02c0c521ae964f141cd05f7282520",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112425
+            "county_id":102062933,
+            "localadmin_id":404569019,
+            "locality_id":1126112425,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112425,
-    "wof:lastmodified":1505185757,
+    "wof:lastmodified":1565453274,
     "wof:name":"Gutenswil / Neur\u00fcti",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569019,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,

@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209546615,
-        85633051
+        85682255,
+        102191581,
+        404568025,
+        85633051,
+        1310629387,
+        102063001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"ff4376085bb1c34afc1f704b73ad2d5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209546615,
-            "neighbourhood_id":1394400731
+            "county_id":102063001,
+            "localadmin_id":404568025,
+            "locality_id":1310629387,
+            "neighbourhood_id":1394400731,
+            "region_id":85682255
         }
     ],
     "wof:id":1394400731,
-    "wof:lastmodified":1565230651,
+    "wof:lastmodified":1565436150,
     "wof:name":"Schluocht",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1310629387,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2374310.428493,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.382553,46.962404,7.382553,46.962404",
     "geom:latitude":46.962404,
     "geom:longitude":7.382553,
@@ -64,11 +64,12 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85682381,
         102191581,
-        404567985,
+        404568177,
         85633051,
-        102062861,
-        85682381
+        1394297795,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,8 +85,8 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062861,
-            "localadmin_id":404567985,
-            "locality_id":-1,
+            "localadmin_id":404568177,
+            "locality_id":1394297795,
             "neighbourhood_id":85799967,
             "region_id":85682381
         }
@@ -94,9 +95,9 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1531861995,
+    "wof:lastmodified":1565423096,
     "wof:name":"Eymatt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394297795,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

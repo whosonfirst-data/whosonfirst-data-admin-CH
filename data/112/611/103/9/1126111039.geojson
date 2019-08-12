@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568875,
+        85633051,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"e37d0f787239f83c108375f5b2b8e29d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111039
+            "county_id":102062769,
+            "localadmin_id":404568875,
+            "locality_id":1126111039,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111039,
-    "wof:lastmodified":1505185743,
+    "wof:lastmodified":1565452982,
     "wof:name":"Zelg",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568875,
     "wof:placetype":"locality",
     "wof:population":4,
     "wof:population_rank":1,

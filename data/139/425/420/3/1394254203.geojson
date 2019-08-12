@@ -81,23 +81,36 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682301,
+        102062891
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"7819d4301a0cacb03c6f36dd02a27a56",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062891,
+            "localadmin_id":1394254203,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394254203,
-    "wof:lastmodified":1565298486,
+    "wof:lastmodified":1565581823,
     "wof:name":"Plaffeien",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062891,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404567923,
         404571167,
         404573189
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

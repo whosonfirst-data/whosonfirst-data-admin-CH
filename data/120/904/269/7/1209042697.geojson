@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682341,
+        102191581,
+        404568847,
+        85633051,
+        102062947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"40b5f8cb5bd9fce4b8ff90c50b18dde0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209042697
+            "county_id":102062947,
+            "localadmin_id":404568847,
+            "locality_id":1209042697,
+            "region_id":85682341
         }
     ],
     "wof:id":1209042697,
-    "wof:lastmodified":1565230530,
+    "wof:lastmodified":1565430670,
     "wof:name":"Burg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

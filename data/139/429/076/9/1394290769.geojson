@@ -100,15 +100,30 @@
     "reversegeo:longitude":8.080783,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682319,
+        102191581,
+        404328253,
+        85633051,
+        1394137077
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"8b81698b9a8c72f02625362a5690d4f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137077,
+            "localadmin_id":404328253,
+            "locality_id":1394290769,
+            "region_id":85682319
+        }
+    ],
     "wof:id":1394290769,
-    "wof:lastmodified":1565299322,
+    "wof:lastmodified":1565442990,
     "wof:name":"Triengen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

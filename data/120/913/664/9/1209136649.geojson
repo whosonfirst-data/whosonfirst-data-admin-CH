@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682255,
+        102062803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"9144a8bd2b506b6cf592125e0e9ba44d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209136649
+            "county_id":102062803,
+            "locality_id":1209136649,
+            "region_id":85682255
         }
     ],
     "wof:id":1209136649,
-    "wof:lastmodified":1565230526,
+    "wof:lastmodified":1565430485,
     "wof:name":"Glatteggen",
-    "wof:parent_id":85633051,
+    "wof:parent_id":102062803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

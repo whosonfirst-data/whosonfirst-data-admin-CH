@@ -30,15 +30,26 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682365
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"2138348efc9961cfa27e71016da15bd2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394137095,
+            "region_id":85682365
+        }
+    ],
     "wof:id":1394137095,
-    "wof:lastmodified":1565139032,
+    "wof:lastmodified":1565438725,
     "wof:name":"Bucheggberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682365,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

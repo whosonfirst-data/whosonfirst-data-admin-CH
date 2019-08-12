@@ -30,7 +30,11 @@
     "mz:is_current":0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682249,
+        102191581,
+        404328109,
+        85633051,
+        102063003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +44,18 @@
     "wof:geomhash":"99ba20a9d49afe4d0ffb3fbb3e4f0233",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209549751
+            "county_id":102063003,
+            "localadmin_id":404328109,
+            "locality_id":1209549751,
+            "region_id":85682249
         }
     ],
     "wof:id":1209549751,
-    "wof:lastmodified":1565230521,
+    "wof:lastmodified":1565430204,
     "wof:name":"Ober Staffel",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404328109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

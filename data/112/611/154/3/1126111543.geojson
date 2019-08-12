@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404570707,
+        85633051,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"8a95116893cb206f6da30342c9b1bfdc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111543
+            "county_id":102063055,
+            "localadmin_id":404570707,
+            "locality_id":1126111543,
+            "region_id":85682309
         }
     ],
     "wof:id":1126111543,
-    "wof:lastmodified":1505185758,
+    "wof:lastmodified":1565453898,
     "wof:name":"Eichh\u00f6lzli",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570707,
     "wof:placetype":"locality",
     "wof:population":8,
     "wof:population_rank":1,

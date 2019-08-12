@@ -40,15 +40,30 @@
     "reversegeo:longitude":8.237992,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682281,
+        102191581,
+        404568187,
+        85633051,
+        102063031
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"8697a3833b75543793d499100a8fbc3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063031,
+            "localadmin_id":404568187,
+            "locality_id":1394293493,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394293493,
-    "wof:lastmodified":1565299345,
+    "wof:lastmodified":1565443064,
     "wof:name":"M\u00fchlebach",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568187,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

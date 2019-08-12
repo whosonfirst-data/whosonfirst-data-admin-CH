@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682381,
+        102191581,
+        404570759,
+        85633051,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"1e03f0e38651af1637c10bfe2b786b0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209546305
+            "county_id":102063013,
+            "localadmin_id":404570759,
+            "locality_id":1209546305,
+            "region_id":85682381
         }
     ],
     "wof:id":1209546305,
-    "wof:lastmodified":1565230521,
+    "wof:lastmodified":1565430201,
     "wof:name":"Hinterwil",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404570759,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

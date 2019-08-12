@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682301,
+        102191581,
+        404568447,
+        85633051,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"b6c40ffd8b811530e6f39125ef08209d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209646677
+            "county_id":102062999,
+            "localadmin_id":404568447,
+            "locality_id":1209646677,
+            "region_id":85682301
         }
     ],
     "wof:id":1209646677,
-    "wof:lastmodified":1565230522,
+    "wof:lastmodified":1565430245,
     "wof:name":"Petit-Pre-de-Chene",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404568447,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

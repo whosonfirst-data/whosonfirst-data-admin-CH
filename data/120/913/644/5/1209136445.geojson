@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682269,
+        102063063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"c186ade20798b9298a7a766cb062e855",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209136445
+            "county_id":102063063,
+            "locality_id":1209136445,
+            "region_id":85682269
         }
     ],
     "wof:id":1209136445,
-    "wof:lastmodified":1565230526,
+    "wof:lastmodified":1565430464,
     "wof:name":"Perfetta",
-    "wof:parent_id":85633051,
+    "wof:parent_id":102063063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209449647,
-        85633051
+        85682381,
+        102191581,
+        404568863,
+        85633051,
+        1126043065,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"8e6a96d6074f6f4d543a42c24b502b36",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209449647,
-            "neighbourhood_id":1394400565
+            "county_id":102062837,
+            "localadmin_id":404568863,
+            "locality_id":1126043065,
+            "neighbourhood_id":1394400565,
+            "region_id":85682381
         }
     ],
     "wof:id":1394400565,
-    "wof:lastmodified":1565230678,
+    "wof:lastmodified":1565437189,
     "wof:name":"Bergenhuesi",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126043065,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

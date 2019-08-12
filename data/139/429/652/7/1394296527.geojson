@@ -94,18 +94,33 @@
     "reversegeo:longitude":7.520859,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682361,
+        102191581,
+        404571651,
+        85633051,
+        102062971
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404571651
     ],
     "wof:country":"CH",
     "wof:geomhash":"d263adf6b573adf30acce0ca1d29bcb4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062971,
+            "localadmin_id":404571651,
+            "locality_id":1394296527,
+            "region_id":85682361
+        }
+    ],
     "wof:id":1394296527,
-    "wof:lastmodified":1565299392,
+    "wof:lastmodified":1565443207,
     "wof:name":"Biel-Benken",
-    "wof:parent_id":-1,
+    "wof:parent_id":404571651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

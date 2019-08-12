@@ -47,7 +47,10 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682301,
+        102063025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +63,17 @@
     "wof:geomhash":"522b1904cc2d4ab6419407d85ff2d18e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125411799
+            "county_id":102063025,
+            "localadmin_id":1125411799,
+            "region_id":85682301
         }
     ],
     "wof:id":1125411799,
-    "wof:lastmodified":1505185769,
+    "wof:lastmodified":1565462348,
     "wof:name":"Ch\u00e2tel-St.-Denis",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063025,
     "wof:placetype":"localadmin",
     "wof:population":6455,
     "wof:population_rank":5,

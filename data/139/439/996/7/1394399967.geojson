@@ -39,8 +39,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209251623,
-        85633051
+        85682341,
+        102191581,
+        404568277,
+        85633051,
+        101854265,
+        102062755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +54,19 @@
     "wof:geomhash":"15e2529f7093a04d94c61e918a1ce3a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209251623,
-            "neighbourhood_id":1394399967
+            "county_id":102062755,
+            "localadmin_id":404568277,
+            "locality_id":101854265,
+            "neighbourhood_id":1394399967,
+            "region_id":85682341
         }
     ],
     "wof:id":1394399967,
-    "wof:lastmodified":1565298691,
+    "wof:lastmodified":1565439874,
     "wof:name":"Kleinberg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101854265,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

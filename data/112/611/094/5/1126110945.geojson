@@ -110,7 +110,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569159,
+        85633051,
+        1394212863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,14 +127,18 @@
     "wof:geomhash":"925b12d91676d0fa42a7d032544534b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110945
+            "county_id":1394212863,
+            "localadmin_id":404569159,
+            "locality_id":1126110945,
+            "region_id":85682309
         }
     ],
     "wof:id":1126110945,
-    "wof:lastmodified":1565230830,
+    "wof:lastmodified":1565454553,
     "wof:name":"Rain",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569159,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

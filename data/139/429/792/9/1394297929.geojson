@@ -127,18 +127,33 @@
     "reversegeo:longitude":7.651243,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682297,
+        102191581,
+        404328417,
+        85633051,
+        102062895
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404328417
     ],
     "wof:country":"CH",
     "wof:geomhash":"68b9f9df928815820e7be37fbeb920b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062895,
+            "localadmin_id":404328417,
+            "locality_id":1394297929,
+            "region_id":85682297
+        }
+    ],
     "wof:id":1394297929,
-    "wof:lastmodified":1565299373,
+    "wof:lastmodified":1565443139,
     "wof:name":"Riehen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404328417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

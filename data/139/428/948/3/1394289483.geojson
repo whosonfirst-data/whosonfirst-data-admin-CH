@@ -88,18 +88,33 @@
     "reversegeo:longitude":7.842402,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404573153,
+        85633051,
+        102063013
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404573153
     ],
     "wof:country":"CH",
     "wof:geomhash":"1b353115bbd63b76db4744d69be4b72e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063013,
+            "localadmin_id":404573153,
+            "locality_id":1394289483,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394289483,
-    "wof:lastmodified":1565299267,
+    "wof:lastmodified":1565442797,
     "wof:name":"Reisiswil",
-    "wof:parent_id":-1,
+    "wof:parent_id":404573153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

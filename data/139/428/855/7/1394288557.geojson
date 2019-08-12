@@ -55,15 +55,30 @@
     "reversegeo:longitude":6.584677,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682325,
+        102191581,
+        404570001,
+        85633051,
+        102062813
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"7959a59bc05349ee9485a8251e61a6a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062813,
+            "localadmin_id":404570001,
+            "locality_id":1394288557,
+            "region_id":85682325
+        }
+    ],
     "wof:id":1394288557,
-    "wof:lastmodified":1565299287,
+    "wof:lastmodified":1565442862,
     "wof:name":"Villars-sous-Champvent",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

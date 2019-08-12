@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404569727,
+        85633051,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"164eb78a23c8a88cc673a8779a33f0d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126112025
+            "county_id":102062801,
+            "localadmin_id":404569727,
+            "locality_id":1126112025,
+            "region_id":85682309
         }
     ],
     "wof:id":1126112025,
-    "wof:lastmodified":1505185718,
+    "wof:lastmodified":1565453599,
     "wof:name":"B\u00e4hl",
-    "wof:parent_id":-1,
+    "wof:parent_id":404569727,
     "wof:placetype":"locality",
     "wof:population":5,
     "wof:population_rank":1,

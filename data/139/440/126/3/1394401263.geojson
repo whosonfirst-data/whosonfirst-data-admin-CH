@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209651859,
-        85633051
+        85682319,
+        102191581,
+        404328307,
+        85633051,
+        1126016061,
+        1394137077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"7fe5ca146ecf1addac0c166ea6eb37a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209651859,
-            "neighbourhood_id":1394401263
+            "county_id":1394137077,
+            "localadmin_id":404328307,
+            "locality_id":1126016061,
+            "neighbourhood_id":1394401263,
+            "region_id":85682319
         }
     ],
     "wof:id":1394401263,
-    "wof:lastmodified":1565230630,
+    "wof:lastmodified":1565435316,
     "wof:name":"Unterallmend",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1126016061,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

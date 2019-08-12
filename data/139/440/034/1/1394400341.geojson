@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209351567,
-        85633051
+        85682337,
+        102191581,
+        404570219,
+        85633051,
+        1125898071,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"01262f618b0383c79a04cfa6bb6ac04b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209351567,
-            "neighbourhood_id":1394400341
+            "county_id":102062869,
+            "localadmin_id":404570219,
+            "locality_id":1125898071,
+            "neighbourhood_id":1394400341,
+            "region_id":85682337
         }
     ],
     "wof:id":1394400341,
-    "wof:lastmodified":1565230674,
+    "wof:lastmodified":1565437046,
     "wof:name":"Nergeten",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1125898071,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

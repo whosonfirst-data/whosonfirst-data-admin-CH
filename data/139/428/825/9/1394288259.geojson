@@ -115,18 +115,33 @@
     "reversegeo:longitude":7.636283,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682361,
+        102191581,
+        404572345,
+        85633051,
+        102062971
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404572345
     ],
     "wof:country":"CH",
     "wof:geomhash":"41a831a854bd3446bfecb8814c3046b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062971,
+            "localadmin_id":404572345,
+            "locality_id":1394288259,
+            "region_id":85682361
+        }
+    ],
     "wof:id":1394288259,
-    "wof:lastmodified":1565299285,
+    "wof:lastmodified":1565442854,
     "wof:name":"Birsfelden",
-    "wof:parent_id":-1,
+    "wof:parent_id":404572345,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

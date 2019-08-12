@@ -82,15 +82,30 @@
     "reversegeo:longitude":7.368385,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682281,
+        102191581,
+        1394253989,
+        85633051,
+        102062827
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"6320726244ae042f5c5b6e0ffa75b321",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062827,
+            "localadmin_id":1394253989,
+            "locality_id":1394289057,
+            "region_id":85682281
+        }
+    ],
     "wof:id":1394289057,
-    "wof:lastmodified":1565299280,
+    "wof:lastmodified":1565581376,
     "wof:name":"Les Agettes",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394253989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

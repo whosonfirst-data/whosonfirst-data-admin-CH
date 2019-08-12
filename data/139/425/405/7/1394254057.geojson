@@ -39,26 +39,39 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682275,
+        1394237541
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         1125956923
     ],
     "wof:country":"CH",
     "wof:geomhash":"5abf044ea29b9055d7618bbe89a4a90e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":1394237541,
+            "localadmin_id":1394254057,
+            "region_id":85682275
+        }
+    ],
     "wof:id":1394254057,
-    "wof:lastmodified":1565298490,
+    "wof:lastmodified":1565581850,
     "wof:name":"Oberegg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394237541,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404328099,
         404328101,
         404328107
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

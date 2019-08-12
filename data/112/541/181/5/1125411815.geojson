@@ -56,7 +56,10 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102063071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,14 +72,17 @@
     "wof:geomhash":"6abda3d7897ae7e9c395c23744d102b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125411815
+            "county_id":102063071,
+            "localadmin_id":1125411815,
+            "region_id":85682309
         }
     ],
     "wof:id":1125411815,
-    "wof:lastmodified":1505185775,
+    "wof:lastmodified":1565462337,
     "wof:name":"Z\u00fcrich",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063071,
     "wof:placetype":"localadmin",
     "wof:population":396955,
     "wof:population_rank":10,

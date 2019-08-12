@@ -34,7 +34,10 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682309,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"a422d169e2be09d8a4fb0edb85df39d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125380717
+            "county_id":102062769,
+            "localadmin_id":1125380717,
+            "region_id":85682309
         }
     ],
     "wof:id":1125380717,
-    "wof:lastmodified":1505185771,
+    "wof:lastmodified":1565459103,
     "wof:name":"Herrliberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062769,
     "wof:placetype":"localadmin",
     "wof:population":6295,
     "wof:population_rank":5,

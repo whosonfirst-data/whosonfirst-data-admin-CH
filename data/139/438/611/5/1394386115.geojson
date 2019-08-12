@@ -76,18 +76,33 @@
     "reversegeo:longitude":8.436962,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682309,
+        102191581,
+        404570959,
+        85633051,
+        102062995
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404570959
     ],
     "wof:country":"CH",
     "wof:geomhash":"3ca7680e9def181ef27fbaa0d4c069ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062995,
+            "localadmin_id":404570959,
+            "locality_id":1394386115,
+            "region_id":85682309
+        }
+    ],
     "wof:id":1394386115,
-    "wof:lastmodified":1565299248,
+    "wof:lastmodified":1565442691,
     "wof:name":"Buchs",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570959,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

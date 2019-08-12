@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682325,
+        102191581,
+        404571831,
+        85633051,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"f2cc0c3491e0b0746962a48a8d7ad1ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209035507
+            "county_id":102062949,
+            "localadmin_id":404571831,
+            "locality_id":1209035507,
+            "region_id":85682325
         }
     ],
     "wof:id":1209035507,
-    "wof:lastmodified":1565230529,
+    "wof:lastmodified":1565430622,
     "wof:name":"Paradis",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404571831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

@@ -58,15 +58,30 @@
     "reversegeo:longitude":6.960186,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682347,
+        102191581,
+        1394254073,
+        85633051,
+        102063059
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"cdc6a4a899c370f5ee5c6572e708a160",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063059,
+            "localadmin_id":1394254073,
+            "locality_id":1394289701,
+            "region_id":85682347
+        }
+    ],
     "wof:id":1394289701,
-    "wof:lastmodified":1565299267,
+    "wof:lastmodified":1565581644,
     "wof:name":"Rocourt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

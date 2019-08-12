@@ -29,8 +29,12 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209350729,
-        85633051
+        85682263,
+        102191581,
+        404328275,
+        85633051,
+        101875975,
+        102063067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,19 @@
     "wof:geomhash":"c93c31fbde9cbd55ad77f8527ca36fea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209350729,
-            "neighbourhood_id":1394400259
+            "county_id":102063067,
+            "localadmin_id":404328275,
+            "locality_id":101875975,
+            "neighbourhood_id":1394400259,
+            "region_id":85682263
         }
     ],
     "wof:id":1394400259,
-    "wof:lastmodified":1565230593,
+    "wof:lastmodified":1565433898,
     "wof:name":"Lindencham",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101875975,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

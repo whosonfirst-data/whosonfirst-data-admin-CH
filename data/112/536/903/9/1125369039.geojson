@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682281,
+        102062965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"49c7a7374bcff171560ec7cfacf6d111",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125369039
+            "county_id":102062965,
+            "localadmin_id":1125369039,
+            "region_id":85682281
         }
     ],
     "wof:id":1125369039,
-    "wof:lastmodified":1505248115,
+    "wof:lastmodified":1565459147,
     "wof:name":"St.-Maurice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062965,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

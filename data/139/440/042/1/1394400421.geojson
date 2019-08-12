@@ -32,8 +32,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209445995,
-        85633051
+        85682337,
+        102191581,
+        404568383,
+        85633051,
+        1276371197,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,19 @@
     "wof:geomhash":"c99823cfc646013c584ccd239e5dcba6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209445995,
-            "neighbourhood_id":1394400421
+            "county_id":102062953,
+            "localadmin_id":404568383,
+            "locality_id":1276371197,
+            "neighbourhood_id":1394400421,
+            "region_id":85682337
         }
     ],
     "wof:id":1394400421,
-    "wof:lastmodified":1565230649,
+    "wof:lastmodified":1565436069,
     "wof:name":"Aufhaeusern",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1276371197,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

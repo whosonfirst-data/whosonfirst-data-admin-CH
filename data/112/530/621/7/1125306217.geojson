@@ -40,7 +40,10 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
-        85633051
+        102191581,
+        85633051,
+        85682325,
+        102063021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"af70218e388f30f882cc3a0695c3b20d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":1125306217
+            "county_id":102063021,
+            "localadmin_id":1125306217,
+            "region_id":85682325
         }
     ],
     "wof:id":1125306217,
-    "wof:lastmodified":1505248011,
+    "wof:lastmodified":1565458393,
     "wof:name":"Tannay",
-    "wof:parent_id":-1,
+    "wof:parent_id":102063021,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

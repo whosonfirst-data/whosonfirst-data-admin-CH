@@ -33,8 +33,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209450137,
-        85633051
+        85682319,
+        102191581,
+        404328175,
+        85633051,
+        1394291739,
+        1394137075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,19 @@
     "wof:geomhash":"79722b1987b2abd8e771a9b7ae4bdf0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209450137,
-            "neighbourhood_id":1394400583
+            "county_id":1394137075,
+            "localadmin_id":404328175,
+            "locality_id":1394291739,
+            "neighbourhood_id":1394400583,
+            "region_id":85682319
         }
     ],
     "wof:id":1394400583,
-    "wof:lastmodified":1565230681,
+    "wof:lastmodified":1565437302,
     "wof:name":"Vorderhuebeli",
-    "wof:parent_id":85633051,
+    "wof:parent_id":1394291739,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

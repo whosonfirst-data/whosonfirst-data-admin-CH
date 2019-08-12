@@ -203,9 +203,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        102191581,
-        85633051,
         85682305,
+        102191581,
+        1394254135,
+        85633051,
         102062795
     ],
     "wof:breaches":[],
@@ -225,6 +226,7 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062795,
+            "localadmin_id":1394254135,
             "locality_id":101854007,
             "region_id":85682305
         }
@@ -233,9 +235,9 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565244315,
+    "wof:lastmodified":1565444224,
     "wof:name":"Einsiedeln",
-    "wof:parent_id":102062795,
+    "wof:parent_id":1394254135,
     "wof:placetype":"locality",
     "wof:population":13148,
     "wof:population_rank":6,

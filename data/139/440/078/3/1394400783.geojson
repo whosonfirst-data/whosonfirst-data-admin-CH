@@ -39,8 +39,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209549257,
-        85633051
+        85682381,
+        102191581,
+        404573389,
+        85633051,
+        101875853,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +54,19 @@
     "wof:geomhash":"4605d4c7ed6ae65eb79ef7dcc663371f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209549257,
-            "neighbourhood_id":1394400783
+            "county_id":102062837,
+            "localadmin_id":404573389,
+            "locality_id":101875853,
+            "neighbourhood_id":1394400783,
+            "region_id":85682381
         }
     ],
     "wof:id":1394400783,
-    "wof:lastmodified":1565297676,
+    "wof:lastmodified":1565434063,
     "wof:name":"Zimmerberg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":101875853,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

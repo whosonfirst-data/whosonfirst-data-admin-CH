@@ -103,18 +103,33 @@
     "reversegeo:longitude":8.939714,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682337,
+        102191581,
+        404570477,
+        85633051,
+        102062869
+    ],
     "wof:breaches":[],
     "wof:coterminous":[
         404570477
     ],
     "wof:country":"CH",
     "wof:geomhash":"43f83c244de54f21ecf1998ce00ca290",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062869,
+            "localadmin_id":404570477,
+            "locality_id":1394287195,
+            "region_id":85682337
+        }
+    ],
     "wof:id":1394287195,
-    "wof:lastmodified":1565299291,
+    "wof:lastmodified":1565442878,
     "wof:name":"Felben-Wellhausen",
-    "wof:parent_id":-1,
+    "wof:parent_id":404570477,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

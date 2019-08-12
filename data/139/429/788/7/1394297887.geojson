@@ -88,15 +88,30 @@
     "reversegeo:longitude":7.411036,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        1394254005,
+        85633051,
+        102062909
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"1e604a22dac64b88f85aadd1acc198ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062909,
+            "localadmin_id":1394254005,
+            "locality_id":1394297887,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394297887,
-    "wof:lastmodified":1565299405,
+    "wof:lastmodified":1565581671,
     "wof:name":"Rapperswil",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394254005,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

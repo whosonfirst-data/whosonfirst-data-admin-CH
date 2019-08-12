@@ -55,8 +55,12 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1126111565,
-        85633051
+        85682309,
+        102191581,
+        404572171,
+        85633051,
+        1125818983,
+        102063055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,15 +73,19 @@
     "wof:geomhash":"051b5348c816c78e94d5974e8981aa4e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126111565,
-            "neighbourhood_id":1394398065
+            "county_id":102063055,
+            "localadmin_id":404572171,
+            "locality_id":1125818983,
+            "neighbourhood_id":1394398065,
+            "region_id":85682309
         }
     ],
     "wof:id":1394398065,
-    "wof:lastmodified":1565242910,
+    "wof:lastmodified":1565442168,
     "wof:name":"Weinberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125818983,
     "wof:placetype":"neighbourhood",
     "wof:population":6,
     "wof:population_rank":1,

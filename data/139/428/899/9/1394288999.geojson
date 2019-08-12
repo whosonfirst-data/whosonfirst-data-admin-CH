@@ -88,15 +88,30 @@
     "reversegeo:longitude":7.181163,
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682301,
+        102191581,
+        404568671,
+        85633051,
+        102063029
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"c10ccbebb9e4f32610732b252b3abed4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102063029,
+            "localadmin_id":404568671,
+            "locality_id":1394288999,
+            "region_id":85682301
+        }
+    ],
     "wof:id":1394288999,
-    "wof:lastmodified":1565299288,
+    "wof:lastmodified":1565442865,
     "wof:name":"Le Mouret",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],

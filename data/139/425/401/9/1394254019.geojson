@@ -84,22 +84,35 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633051,
+        85682381,
+        102062861
+    ],
     "wof:breaches":[],
     "wof:country":"CH",
     "wof:geomhash":"14fd465681452e359fca2930c9b6dd96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":1394254019,
+            "region_id":85682381
+        }
+    ],
     "wof:id":1394254019,
-    "wof:lastmodified":1565298447,
+    "wof:lastmodified":1565581549,
     "wof:name":"Grossh\u00f6chstetten",
-    "wof:parent_id":-1,
+    "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         404571935,
         404571939
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [

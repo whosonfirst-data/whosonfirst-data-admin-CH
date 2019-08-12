@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633051
+        85682361,
+        102191581,
+        404570487,
+        85633051,
+        102062911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"7c0168c1fd3d64d9c738f4f419c4c96c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1209035341
+            "county_id":102062911,
+            "localadmin_id":404570487,
+            "locality_id":1209035341,
+            "region_id":85682361
         }
     ],
     "wof:id":1209035341,
-    "wof:lastmodified":1565230529,
+    "wof:lastmodified":1565430619,
     "wof:name":"Lauwilberg",
-    "wof:parent_id":85633051,
+    "wof:parent_id":404570487,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[

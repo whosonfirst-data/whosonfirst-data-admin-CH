@@ -34,7 +34,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633051
+        85682309,
+        102191581,
+        404568953,
+        85633051,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +50,18 @@
     "wof:geomhash":"872f909a68f354bcd55e4f7b8f7a863e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
-            "locality_id":1126110381
+            "county_id":102062995,
+            "localadmin_id":404568953,
+            "locality_id":1126110381,
+            "region_id":85682309
         }
     ],
     "wof:id":1126110381,
-    "wof:lastmodified":1505185726,
+    "wof:lastmodified":1565453473,
     "wof:name":"L\u00e4ttenhau",
-    "wof:parent_id":-1,
+    "wof:parent_id":404568953,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,
