@@ -29,9 +29,6 @@
     "name:eng_x_preferred":[
         "Les Eaux-Vives"
     ],
-    "name:eng_x_variant":[
-        "Les Eaux-Vives"
-    ],
     "name:fra_x_preferred":[
         "Eaux-Vives"
     ],
@@ -67,14 +64,14 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682291,
         102191581,
         404328283,
         85633051,
         101748445,
-        102062917
+        102062917,
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +96,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565423110,
+    "wof:lastmodified":1566247569,
     "wof:name":"Eaux-Vives",
     "wof:parent_id":101748445,
     "wof:placetype":"neighbourhood",
