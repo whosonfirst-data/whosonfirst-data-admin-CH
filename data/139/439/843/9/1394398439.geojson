@@ -26,8 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"7.42081,47.06593,7.43081,47.07593",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Vogelsang"
     ],
@@ -60,12 +63,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         1394254005,
         85633051,
         1394297887,
-        102062909
+        102062909,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1394398439,
-    "wof:lastmodified":1565581671,
+    "wof:lastmodified":1566640551,
     "wof:name":"Vogelsang",
     "wof:parent_id":1394297887,
     "wof:placetype":"neighbourhood",

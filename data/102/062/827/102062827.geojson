@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":46.250287,
     "lbl:longitude":7.356079,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.250287,
     "mps:longitude":7.356079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:als_x_preferred":[
         "Sion"
     ],
@@ -170,7 +173,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
@@ -192,7 +194,7 @@
         }
     ],
     "wof:id":102062827,
-    "wof:lastmodified":1565419201,
+    "wof:lastmodified":1566639283,
     "wof:name":"Sion",
     "wof:parent_id":85682281,
     "wof:placetype":"county",

@@ -9,15 +9,17 @@
     "geom:bbox":"6.57068,46.53005,6.57068,46.53005",
     "geom:latitude":46.53005,
     "geom:longitude":6.57068,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5454,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":5454,
     "iso:country":"CH",
+    "lbl:bbox":"6.56568,46.52505,6.57568,46.53505",
     "lbl:latitude":46.53005,
     "lbl:longitude":6.57068,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Chavannes"
@@ -94,19 +96,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20101278,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
         404573287,
         85633051,
         1394297855,
-        102062829
+        102062829,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":1394410477,
-    "wof:lastmodified":1565439060,
+    "wof:lastmodified":1566640404,
     "wof:name":"Chavannes",
     "wof:parent_id":1394297855,
     "wof:placetype":"neighbourhood",

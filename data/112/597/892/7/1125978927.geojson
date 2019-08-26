@@ -9,17 +9,19 @@
     "geom:bbox":"7.0337035,46.2877631,7.149184,46.3391618",
     "geom:latitude":46.316112,
     "geom:longitude":7.086984,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2500,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":2500,
     "iso:country":"CH",
     "lbl:latitude":46.29832,
     "lbl:longitude":7.05631,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.316112,
     "mps:longitude":7.086984,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Villars-sur-Ollon"
@@ -89,7 +91,7 @@
     "name:swe_x_preferred":[
         "Villars-sur-Ollon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villars"
     ],
     "nav:latitude":46.29832,
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":1125978927,
-    "wof:lastmodified":1565458946,
+    "wof:lastmodified":1566642070,
     "wof:name":"Villars-sur-Ollon",
     "wof:parent_id":404567917,
     "wof:placetype":"locality",

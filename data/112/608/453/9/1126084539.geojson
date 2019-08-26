@@ -9,24 +9,23 @@
     "geom:bbox":"8.44352,47.40338,8.44352,47.40338",
     "geom:latitude":47.40338,
     "geom:longitude":8.44352,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":1877,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":1877,
     "iso:country":"CH",
+    "lbl:bbox":"8.43852,47.39838,8.44852,47.40838",
     "lbl:latitude":47.40338,
     "lbl:longitude":8.44352,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Engstingerquartier"
     ],
     "name:eng_x_variant":[
         "Schlieren / Engstingerquartier"
-    ],
-    "name:unk_x_variant":[
-        "Engstingerquartier"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":160543,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570711,
         85633051,
         1125836255,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126084539,
-    "wof:lastmodified":1565459901,
+    "wof:lastmodified":1566642163,
     "wof:name":"Engstingerquartier",
     "wof:parent_id":1125836255,
     "wof:placetype":"neighbourhood",

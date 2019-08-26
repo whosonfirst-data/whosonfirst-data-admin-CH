@@ -10,8 +10,10 @@
     "geom:latitude":46.957355,
     "geom:longitude":7.455075,
     "iso:country":"CH",
+    "lbl:bbox":"7.45007497452,46.9523548465,7.46007497452,46.9623548465",
     "lbl:latitude":46.957355,
     "lbl:longitude":7.455075,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -27,14 +29,14 @@
     "name:eng_x_preferred":[
         "Spitalacker"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682381,
         102191581,
         1394254007,
         85633051,
         101748453,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +57,7 @@
         }
     ],
     "wof:id":1108944861,
-    "wof:lastmodified":1565431607,
+    "wof:lastmodified":1566639684,
     "wof:name":"Spitalacker",
     "wof:parent_id":101748453,
     "wof:placetype":"neighbourhood",

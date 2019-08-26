@@ -9,15 +9,17 @@
     "geom:bbox":"8.44373,47.43625,8.44373,47.43625",
     "geom:latitude":47.43625,
     "geom:longitude":8.44373,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":411,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":411,
     "iso:country":"CH",
+    "lbl:bbox":"8.43873,47.43125,8.44873,47.44125",
     "lbl:latitude":47.43625,
     "lbl:longitude":8.44373,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ady_x_preferred":[
         "\u041e\u0449\u0445\u044b"
@@ -445,9 +447,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0449"
     ],
-    "name:unk_x_variant":[
-        "Rain"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0631\u0634"
     ],
@@ -496,15 +495,15 @@
     "qs_pg:qs_id":618138,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571459,
         85633051,
         1125993773,
-        102062995
+        102062995,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -526,7 +525,7 @@
         }
     ],
     "wof:id":1126104937,
-    "wof:lastmodified":1565452918,
+    "wof:lastmodified":1566641706,
     "wof:name":"Rain",
     "wof:parent_id":1125993773,
     "wof:placetype":"neighbourhood",

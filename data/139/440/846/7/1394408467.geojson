@@ -9,15 +9,17 @@
     "geom:bbox":"8.88763,47.36509,8.88763,47.36509",
     "geom:latitude":47.36509,
     "geom:longitude":8.88763,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":17,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":17,
     "iso:country":"CH",
+    "lbl:bbox":"8.88263,47.36009,8.89263,47.37009",
     "lbl:latitude":47.36509,
     "lbl:longitude":8.88763,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Schwendi"
@@ -49,15 +51,15 @@
     "qs_pg:qs_id":620001,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254131,
         85633051,
         101854427,
-        102062779
+        102062779,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":1394408467,
-    "wof:lastmodified":1565581487,
+    "wof:lastmodified":1566640127,
     "wof:name":"Schwendi",
     "wof:parent_id":101854427,
     "wof:placetype":"neighbourhood",

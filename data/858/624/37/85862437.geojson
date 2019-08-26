@@ -10,8 +10,10 @@
     "geom:latitude":46.542131,
     "geom:longitude":6.589312,
     "iso:country":"CH",
+    "lbl:bbox":"6.584312,46.537131,6.594312,46.547131",
     "lbl:latitude":46.542131,
     "lbl:longitude":6.589312,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.544124,
     "mps:longitude":6.58953,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:fra_x_preferred":[
-        "Sur la Croix"
-    ],
-    "name:unk_x_variant":[
         "Sur la Croix"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -58,14 +57,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682325,
         102191581,
         404572139,
         85633051,
         1394295877,
-        102062829
+        102062829,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428592,
+    "wof:lastmodified":1566639475,
     "wof:name":"Sur la Croix",
     "wof:parent_id":1394295877,
     "wof:placetype":"neighbourhood",

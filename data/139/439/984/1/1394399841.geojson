@@ -26,8 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"7.04977,46.08277,7.05977,46.09277",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "La Croix"
     ],
@@ -60,12 +63,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568155,
         85633051,
         1125980393,
-        102063045
+        102063045,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1394399841,
-    "wof:lastmodified":1565440848,
+    "wof:lastmodified":1566640594,
     "wof:name":"La Croix",
     "wof:parent_id":1125980393,
     "wof:placetype":"neighbourhood",

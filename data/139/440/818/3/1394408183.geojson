@@ -26,8 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.55713,46.55327,8.56713,46.56327",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "Saint-Gothard",
         "Saint Gotthard",
@@ -36,12 +39,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567805,
         85633051,
         101853829,
-        102062931
+        102062931,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1394408183,
-    "wof:lastmodified":1565433451,
+    "wof:lastmodified":1566639835,
     "wof:name":"San Gottardo",
     "wof:parent_id":101853829,
     "wof:placetype":"neighbourhood",

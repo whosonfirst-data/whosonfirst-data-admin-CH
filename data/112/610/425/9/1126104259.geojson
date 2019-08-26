@@ -9,24 +9,23 @@
     "geom:bbox":"8.68338,47.26426,8.68338,47.26426",
     "geom:latitude":47.26426,
     "geom:longitude":8.68338,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":817,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":817,
     "iso:country":"CH",
+    "lbl:bbox":"8.67838,47.25926,8.68838,47.26926",
     "lbl:latitude":47.26426,
     "lbl:longitude":8.68338,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Chlidorf"
     ],
     "name:eng_x_variant":[
         "Uetikon / Chlidorf"
-    ],
-    "name:unk_x_variant":[
-        "Chlidorf"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":619886,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571553,
         85633051,
         1125880125,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126104259,
-    "wof:lastmodified":1565452842,
+    "wof:lastmodified":1566641696,
     "wof:name":"Chlidorf",
     "wof:parent_id":1125880125,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"7.58662,46.19688,7.58662,46.19688",
     "geom:latitude":46.19688,
     "geom:longitude":7.58662,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":226,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":226,
     "iso:country":"CH",
+    "lbl:bbox":"7.58162,46.19188,7.59162,46.20188",
     "lbl:latitude":46.19688,
     "lbl:longitude":7.58662,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Saint-Jean"
@@ -61,15 +63,15 @@
     "qs_pg:qs_id":575555,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567701,
         85633051,
         1125829067,
-        102062793
+        102062793,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":1394395307,
-    "wof:lastmodified":1565441233,
+    "wof:lastmodified":1566640637,
     "wof:name":"Saint-Jean",
     "wof:parent_id":1125829067,
     "wof:placetype":"neighbourhood",

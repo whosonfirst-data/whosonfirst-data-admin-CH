@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.47168,46.9229,8.48168,46.9329",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Staffel"
     ],
@@ -35,12 +38,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328197,
         85633051,
         1125817617,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1394402453,
-    "wof:lastmodified":1565433705,
+    "wof:lastmodified":1566639864,
     "wof:name":"Staffel",
     "wof:parent_id":1125817617,
     "wof:placetype":"neighbourhood",

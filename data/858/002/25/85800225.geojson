@@ -11,8 +11,10 @@
     "geom:longitude":6.610773,
     "gn:id":"",
     "iso:country":"CH",
+    "lbl:bbox":"6.605773,46.515704,6.615773,46.525704",
     "lbl:latitude":46.520704,
     "lbl:longitude":6.610773,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.520061,
     "mps:longitude":6.611022,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:fra_x_preferred":[
-        "Montoie"
-    ],
-    "name:unk_x_variant":[
         "Montoie"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682325,
         102191581,
         404567693,
         85633051,
         101748449,
-        102063021
+        102063021,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":783392,
-        "qs:id":850091,
         "qs_pg:id":850091
     },
     "wof:country":"CH",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428660,
+    "wof:lastmodified":1566639483,
     "wof:name":"Montoie",
     "wof:parent_id":101748449,
     "wof:placetype":"neighbourhood",

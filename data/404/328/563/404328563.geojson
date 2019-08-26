@@ -12,10 +12,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.412697,
     "lbl:longitude":9.507282,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.412697,
     "mps:longitude":9.507282,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Wald"
     ],
@@ -91,9 +94,6 @@
     "name:swe_x_preferred":[
         "Wald"
     ],
-    "name:unk_x_variant":[
-        "Wald"
-    ],
     "name:vol_x_preferred":[
         "Wald"
     ],
@@ -144,7 +144,7 @@
         }
     ],
     "wof:id":404328563,
-    "wof:lastmodified":1565450672,
+    "wof:lastmodified":1566641492,
     "wof:name":"Wald",
     "wof:parent_id":1394137103,
     "wof:placetype":"localadmin",

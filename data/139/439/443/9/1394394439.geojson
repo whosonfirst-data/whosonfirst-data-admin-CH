@@ -9,14 +9,17 @@
     "geom:bbox":"9.52068,47.33545,9.52068,47.33545",
     "geom:latitude":47.33545,
     "geom:longitude":9.52068,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"9.51568,47.33045,9.52568,47.34045",
     "lbl:latitude":47.33545,
     "lbl:longitude":9.52068,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0425\u0430\u0440\u0434"
@@ -132,18 +135,18 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":551548,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"Vorarlberg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682341,
         102191581,
         404568193,
         85633051,
         101854291,
-        102063005
+        102063005,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":1394394439,
-    "wof:lastmodified":1565441688,
+    "wof:lastmodified":1566640685,
     "wof:name":"Hard",
     "wof:parent_id":101854291,
     "wof:placetype":"neighbourhood",

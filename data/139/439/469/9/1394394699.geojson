@@ -9,15 +9,17 @@
     "geom:bbox":"8.79265,47.3624,8.79265,47.3624",
     "geom:latitude":47.3624,
     "geom:longitude":8.79265,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":2032,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":2032,
     "iso:country":"CH",
+    "lbl:bbox":"8.78765,47.3574,8.79765,47.3674",
     "lbl:latitude":47.3624,
     "lbl:longitude":8.79265,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Irgenhausen"
@@ -40,7 +42,7 @@
     "name:swe_x_preferred":[
         "Pf\u00e4ffikon / Irgenhausen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Irgenhusen"
     ],
     "qs_pg:aaroncc":"CH",
@@ -62,19 +64,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782845,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568617,
         85633051,
         101854407,
-        102062779
+        102062779,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":1394394699,
-    "wof:lastmodified":1565441982,
+    "wof:lastmodified":1566640718,
     "wof:name":"Irgenhausen",
     "wof:parent_id":101854407,
     "wof:placetype":"neighbourhood",

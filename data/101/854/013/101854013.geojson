@@ -13,6 +13,8 @@
     "iso:country":"CH",
     "lbl:latitude":47.019993,
     "lbl:longitude":8.656108,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.034494,
     "mps:longitude":8.666712,
     "mz:hierarchy_label":1,
@@ -190,9 +192,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0432\u0456\u0446"
     ],
-    "name:und_x_preferred":[
-        "Sviz"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0648\u06cc\u062a\u0633"
     ],
@@ -339,7 +338,6 @@
         "fct:id":"06a7da8e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2658665,
         "gp:id":784140,
-        "qs:id":182352,
         "qs_pg:id":182352,
         "wd:id":"Q68155",
         "wk:page":"Schwyz"
@@ -360,7 +358,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565444177,
+    "wof:lastmodified":1566640973,
     "wof:name":"Schwyz",
     "wof:parent_id":404567971,
     "wof:placetype":"locality",

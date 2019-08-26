@@ -9,17 +9,19 @@
     "geom:bbox":"7.3502286,46.2637212,7.3986235,46.3404897",
     "geom:latitude":46.30064,
     "geom:longitude":7.373295,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":862,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":862,
     "iso:country":"CH",
     "lbl:latitude":46.27362,
     "lbl:longitude":7.384,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.30064,
     "mps:longitude":7.373295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u0631\u0628\u0627\u0632"
@@ -90,7 +92,7 @@
     "name:swe_x_preferred":[
         "Arbaz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arbas"
     ],
     "name:vol_x_preferred":[
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":1126038029,
-    "wof:lastmodified":1565455454,
+    "wof:lastmodified":1566641842,
     "wof:name":"Arbaz",
     "wof:parent_id":404568629,
     "wof:placetype":"locality",

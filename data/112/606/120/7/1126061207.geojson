@@ -9,15 +9,17 @@
     "geom:bbox":"8.80441,47.25617,8.80441,47.25617",
     "geom:latitude":47.25617,
     "geom:longitude":8.80441,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":128,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":128,
     "iso:country":"CH",
+    "lbl:bbox":"8.79941,47.25117,8.80941,47.26117",
     "lbl:latitude":47.25617,
     "lbl:longitude":8.80441,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Seen"
@@ -37,9 +39,6 @@
     "name:swe_x_preferred":[
         "Seen"
     ],
-    "name:unk_x_variant":[
-        "Sonnenberg"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLX",
@@ -52,15 +51,15 @@
     "qs_pg:qs_id":618526,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569421,
         85633051,
         1125950163,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +82,7 @@
         }
     ],
     "wof:id":1126061207,
-    "wof:lastmodified":1565460364,
+    "wof:lastmodified":1566642200,
     "wof:name":"Sonnenberg",
     "wof:parent_id":1125950163,
     "wof:placetype":"neighbourhood",

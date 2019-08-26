@@ -12,6 +12,7 @@
     "iso:country":"CH",
     "lbl:latitude":47.540092,
     "lbl:longitude":7.600265,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
@@ -21,14 +22,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682297,
         102191581,
         404328241,
         85633051,
         101748459,
-        102062895
+        102062895,
+        85682297
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108944773,
-    "wof:lastmodified":1565431496,
+    "wof:lastmodified":1566639671,
     "wof:name":"Delsbergerallee",
     "wof:parent_id":101748459,
     "wof:placetype":"neighbourhood",

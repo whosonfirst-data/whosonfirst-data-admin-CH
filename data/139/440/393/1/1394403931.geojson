@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.81977,47.65645,8.82977,47.66645",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Buck"
     ],
@@ -62,12 +65,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404569317,
         85633051,
         1394297913,
-        102062869
+        102062869,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1394403931,
-    "wof:lastmodified":1565435849,
+    "wof:lastmodified":1566640100,
     "wof:name":"Buck",
     "wof:parent_id":1394297913,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.44396,47.08357,8.45396,47.09357",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Luterbach"
     ],
@@ -92,12 +95,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682305,
         102191581,
         1394254119,
         85633051,
         101854003,
-        102062811
+        102062811,
+        85682305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1394397809,
-    "wof:lastmodified":1565442514,
+    "wof:lastmodified":1566640771,
     "wof:name":"Luterbach",
     "wof:parent_id":101854003,
     "wof:placetype":"neighbourhood",

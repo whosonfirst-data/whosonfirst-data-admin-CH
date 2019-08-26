@@ -27,10 +27,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.82908,
     "lbl:longitude":7.53877,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.827605,
     "mps:longitude":7.530346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "M\u00fchledorf BE"
     ],
@@ -104,9 +107,6 @@
     "name:swe_x_preferred":[
         "M\u00fchledorf"
     ],
-    "name:und_x_variant":[
-        "M\u00fchledorf"
-    ],
     "name:vie_x_preferred":[
         "M\u00fchledorf"
     ],
@@ -153,7 +153,7 @@
         }
     ],
     "wof:id":1209035699,
-    "wof:lastmodified":1565581366,
+    "wof:lastmodified":1566639612,
     "wof:name":"M\u00fchledorf",
     "wof:parent_id":1394253969,
     "wof:placetype":"locality",

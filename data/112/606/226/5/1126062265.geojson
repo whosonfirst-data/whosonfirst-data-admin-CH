@@ -9,24 +9,23 @@
     "geom:bbox":"8.56633,47.29047,8.56633,47.29047",
     "geom:latitude":47.29047,
     "geom:longitude":8.56633,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":6829,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":6829,
     "iso:country":"CH",
+    "lbl:bbox":"8.56133,47.28547,8.57133,47.29547",
     "lbl:latitude":47.29047,
     "lbl:longitude":8.56633,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Dorfkern"
     ],
     "name:eng_x_variant":[
         "Thalwil / Dorfkern"
-    ],
-    "name:unk_x_variant":[
-        "Dorfkern"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":619443,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570343,
         85633051,
         1125938539,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126062265,
-    "wof:lastmodified":1565460154,
+    "wof:lastmodified":1566642182,
     "wof:name":"Dorfkern",
     "wof:parent_id":1125938539,
     "wof:placetype":"neighbourhood",

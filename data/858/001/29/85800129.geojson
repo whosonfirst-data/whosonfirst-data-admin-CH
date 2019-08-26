@@ -11,8 +11,10 @@
     "geom:longitude":6.647512,
     "gn:elevation":616,
     "iso:country":"CH",
+    "lbl:bbox":"6.642512,46.528343,6.652512,46.538343",
     "lbl:latitude":46.533343,
     "lbl:longitude":6.647512,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.534671,
     "mps:longitude":6.647082,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:fra_x_preferred":[
-        "La Sallaz"
-    ],
-    "name:unk_x_variant":[
         "La Sallaz"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -60,20 +59,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682325,
         102191581,
         404567693,
         85633051,
         101748449,
-        102063021
+        102063021,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7669702,
         "gp:id":783011,
-        "qs:id":410746,
         "qs_pg:id":410746
     },
     "wof:country":"CH",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428514,
+    "wof:lastmodified":1566639463,
     "wof:name":"La Sallaz",
     "wof:parent_id":101748449,
     "wof:placetype":"neighbourhood",

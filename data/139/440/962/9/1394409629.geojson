@@ -9,14 +9,17 @@
     "geom:bbox":"9.05827,46.17033,9.05827,46.17033",
     "geom:latitude":46.17033,
     "geom:longitude":9.05827,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"9.05327,46.16533,9.06327,46.17533",
     "lbl:latitude":46.17033,
     "lbl:longitude":9.05827,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0627\u0646\u0648"
@@ -171,18 +174,18 @@
     "qs_pg:woe_adm0":23424853,
     "qs_pg:woe_id":710835,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424853,
     "woe:name_adm0":"Italia",
     "woe:name_adm1":"Lombardia",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         1394254063,
         85633051,
         1125867809,
-        102062991
+        102062991,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":1394409629,
-    "wof:lastmodified":1565581581,
+    "wof:lastmodified":1566639796,
     "wof:name":"Bellano",
     "wof:parent_id":1125867809,
     "wof:placetype":"neighbourhood",

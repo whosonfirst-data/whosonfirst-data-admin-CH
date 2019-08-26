@@ -9,17 +9,19 @@
     "geom:bbox":"7.2818674,46.8486539,7.3592517,46.8890191",
     "geom:latitude":46.869377,
     "geom:longitude":7.326168,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2133,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":2133,
     "iso:country":"CH",
     "lbl:latitude":46.86587,
     "lbl:longitude":7.30998,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.869377,
     "mps:longitude":7.326168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Ueberstorf"
@@ -84,7 +86,7 @@
     "name:swe_x_preferred":[
         "Ueberstorf"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00dcberstorf"
     ],
     "name:vol_x_preferred":[
@@ -161,7 +163,7 @@
         }
     ],
     "wof:id":1125803993,
-    "wof:lastmodified":1565457635,
+    "wof:lastmodified":1566641963,
     "wof:name":"Ueberstorf",
     "wof:parent_id":404568825,
     "wof:placetype":"locality",

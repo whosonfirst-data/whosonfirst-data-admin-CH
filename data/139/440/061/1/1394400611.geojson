@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.75438,47.65874,8.76438,47.66874",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:afr_x_preferred":[
         "Eier"
     ],
@@ -317,12 +320,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568869,
         85633051,
         1360319819,
-        102062869
+        102062869,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -342,7 +345,7 @@
         }
     ],
     "wof:id":1394400611,
-    "wof:lastmodified":1565436875,
+    "wof:lastmodified":1566640212,
     "wof:name":"Egg",
     "wof:parent_id":1360319819,
     "wof:placetype":"neighbourhood",

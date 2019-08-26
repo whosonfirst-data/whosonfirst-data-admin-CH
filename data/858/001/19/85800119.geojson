@@ -11,8 +11,10 @@
     "geom:longitude":6.671612,
     "gn:id":"",
     "iso:country":"CH",
+    "lbl:bbox":"6.666612,46.544263,6.676612,46.554263",
     "lbl:latitude":46.549263,
     "lbl:longitude":6.671612,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.565302,
     "mps:longitude":6.693188,
     "mz:hierarchy_label":0,
@@ -84,9 +86,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041a\u0440\u0443\u0430-\u0411\u043b\u0430\u043d\u0448"
     ],
-    "name:unk_x_variant":[
-        "La Croix Blanche"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u06a9\u0631\u0648\u0626\u06cc-\u0628\u0644\u0627\u0646\u0634\u06cc"
     ],
@@ -137,19 +136,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682325,
         102191581,
         404571427,
         85633051,
         1125851281,
-        102063009
+        102063009,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":782982,
-        "qs:id":1152938,
         "qs_pg:id":1152938
     },
     "wof:country":"CH",
@@ -169,7 +167,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428517,
+    "wof:lastmodified":1566639463,
     "wof:name":"La Croix Blanche",
     "wof:parent_id":1125851281,
     "wof:placetype":"neighbourhood",

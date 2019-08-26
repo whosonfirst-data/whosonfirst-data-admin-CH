@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.99213,45.87414,9.00213,45.88414",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Bonello"
     ],
@@ -38,12 +41,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         1394254051,
         85633051,
         1277012983,
-        102063063
+        102063063,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1394396259,
-    "wof:lastmodified":1565581853,
+    "wof:lastmodified":1566640679,
     "wof:name":"Bonello",
     "wof:parent_id":1277012983,
     "wof:placetype":"neighbourhood",

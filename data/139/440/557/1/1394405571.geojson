@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"7.34756,46.2446,7.35756,46.2546",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:bre_x_preferred":[
         "Saint-Germain"
     ],
@@ -107,7 +110,6 @@
     ],
     "name:und_x_variant":[
         "Saint German",
-        "Saint-Germain",
         "St-Germain (Savi\u00e8se)",
         "St-Germain"
     ],
@@ -116,12 +118,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567871,
         85633051,
         1126049055,
-        102062827
+        102062827,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -141,7 +143,7 @@
         }
     ],
     "wof:id":1394405571,
-    "wof:lastmodified":1565433202,
+    "wof:lastmodified":1566639809,
     "wof:name":"Saint-Germain",
     "wof:parent_id":1126049055,
     "wof:placetype":"neighbourhood",

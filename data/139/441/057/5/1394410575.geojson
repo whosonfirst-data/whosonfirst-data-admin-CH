@@ -9,12 +9,15 @@
     "geom:bbox":"8.7333145,47.193175,8.7333145,47.193175",
     "geom:latitude":47.193175,
     "geom:longitude":8.733315,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CH",
+    "lbl:bbox":"8.7283145,47.188175,8.7383145,47.198175",
     "lbl:latitude":47.193175,
     "lbl:longitude":8.733315,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Wilen bei Wollerau"
@@ -52,18 +55,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20104835,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Schwyz",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682305,
         102191581,
         404568583,
         85633051,
         1243293151,
-        102062919
+        102062919,
+        85682305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1394410575,
-    "wof:lastmodified":1565439547,
+    "wof:lastmodified":1566640455,
     "wof:name":"Wilen bei Wollerau",
     "wof:parent_id":1243293151,
     "wof:placetype":"neighbourhood",

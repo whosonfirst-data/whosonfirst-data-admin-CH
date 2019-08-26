@@ -9,12 +9,15 @@
     "geom:bbox":"7.83063,46.184319,7.83063,46.184319",
     "geom:latitude":46.184319,
     "geom:longitude":7.83063,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CH",
+    "lbl:bbox":"7.82563,46.179319,7.83563,46.189319",
     "lbl:latitude":46.184319,
     "lbl:longitude":7.83063,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Gasenried"
@@ -49,18 +52,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20101829,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567821,
         85633051,
         101853227,
-        102062859
+        102062859,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1394395075,
-    "wof:lastmodified":1565441445,
+    "wof:lastmodified":1566640659,
     "wof:name":"Gasenried",
     "wof:parent_id":101853227,
     "wof:placetype":"neighbourhood",

@@ -28,10 +28,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.10763,
     "lbl:longitude":7.51343,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.116825,
     "mps:longitude":7.526236,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627"
     ],
@@ -131,9 +134,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u043b\u0430"
     ],
-    "name:und_x_variant":[
-        "Villa (Evol\u00e8ne)"
-    ],
     "name:uzb_x_preferred":[
         "Villa"
     ],
@@ -179,7 +179,7 @@
         }
     ],
     "wof:id":1209345081,
-    "wof:lastmodified":1565430762,
+    "wof:lastmodified":1566639622,
     "wof:name":"Villa",
     "wof:parent_id":404567707,
     "wof:placetype":"locality",

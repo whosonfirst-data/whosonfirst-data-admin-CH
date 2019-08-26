@@ -25,9 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "name:afr_x_preferred":[
         "Baret"
     ],
@@ -159,12 +161,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567843,
         85633051,
         1126049759,
-        102062821
+        102062821,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -184,7 +186,7 @@
         }
     ],
     "wof:id":1394402797,
-    "wof:lastmodified":1565436181,
+    "wof:lastmodified":1566640136,
     "wof:name":"Beret",
     "wof:parent_id":1126049759,
     "wof:placetype":"neighbourhood",

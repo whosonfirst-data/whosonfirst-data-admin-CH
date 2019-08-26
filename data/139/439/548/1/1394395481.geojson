@@ -9,12 +9,15 @@
     "geom:bbox":"7.160759,46.77658,7.160759,46.77658",
     "geom:latitude":46.77658,
     "geom:longitude":7.160759,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CH",
+    "lbl:bbox":"7.155759,46.77158,7.165759,46.78158",
     "lbl:latitude":46.77658,
     "lbl:longitude":7.160759,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Marly-le-Grand"
@@ -49,18 +52,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":783257,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682301,
         102191581,
         404570383,
         85633051,
         101853923,
-        102063029
+        102063029,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1394395481,
-    "wof:lastmodified":1565442562,
+    "wof:lastmodified":1566640775,
     "wof:name":"Marly-le-Grand",
     "wof:parent_id":101853923,
     "wof:placetype":"neighbourhood",

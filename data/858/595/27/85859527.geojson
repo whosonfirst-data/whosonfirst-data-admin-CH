@@ -11,8 +11,10 @@
     "geom:longitude":8.63441,
     "gn:population":2015,
     "iso:country":"CH",
+    "lbl:bbox":"8.62941,47.402493,8.63941,47.412493",
     "lbl:latitude":47.407493,
     "lbl:longitude":8.63441,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.404885,
     "mps:longitude":8.654292,
     "mz:hierarchy_label":0,
@@ -81,9 +83,6 @@
     "name:swe_x_preferred":[
         "Wangen"
     ],
-    "name:unk_x_variant":[
-        "Wangen"
-    ],
     "name:vol_x_preferred":[
         "Wangen"
     ],
@@ -116,21 +115,21 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570291,
         85633051,
         1394297825,
-        102062933
+        102062933,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6294626,
         "gp:id":15001178,
-        "qs:id":273709
+        "qs_pg:id":273709
     },
     "wof:country":"CH",
     "wof:geomhash":"f75933324651bec61fc260a82d052910",
@@ -149,7 +148,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428488,
+    "wof:lastmodified":1566639458,
     "wof:name":"Wangen",
     "wof:parent_id":1394297825,
     "wof:placetype":"neighbourhood",

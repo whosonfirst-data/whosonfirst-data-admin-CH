@@ -11,8 +11,10 @@
     "geom:longitude":7.375746,
     "gn:elevation":569,
     "iso:country":"CH",
+    "lbl:bbox":"7.370746,46.919536,7.380746,46.929536",
     "lbl:latitude":46.924536,
     "lbl:longitude":7.375746,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.921302,
     "mps:longitude":7.37205,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Niederwargen"
-    ],
-    "name:unk_x_variant":[
-        "Niederwangen"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -65,20 +64,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567993,
         85633051,
         1394297231,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7669801,
         "gp:id":783520,
-        "qs:id":271815,
         "qs_pg:id":271815
     },
     "wof:country":"CH",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428610,
+    "wof:lastmodified":1566639477,
     "wof:name":"Niederwangen",
     "wof:parent_id":1394297231,
     "wof:placetype":"neighbourhood",

@@ -9,24 +9,23 @@
     "geom:bbox":"8.54879,47.52337,8.54879,47.52337",
     "geom:latitude":47.52337,
     "geom:longitude":8.54879,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":1863,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":1863,
     "iso:country":"CH",
+    "lbl:bbox":"8.54379,47.51837,8.55379,47.52837",
     "lbl:latitude":47.52337,
     "lbl:longitude":8.54879,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Gst\u00fcckt"
     ],
     "name:eng_x_variant":[
         "B\u00fclach / Gst\u00fcckt"
-    ],
-    "name:unk_x_variant":[
-        "Gst\u00fcckt"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":1053643,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568829,
         85633051,
         101854385,
-        102063019
+        102063019,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126094855,
-    "wof:lastmodified":1565461490,
+    "wof:lastmodified":1566642300,
     "wof:name":"Gst\u00fcckt",
     "wof:parent_id":101854385,
     "wof:placetype":"neighbourhood",

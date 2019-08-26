@@ -10,8 +10,10 @@
     "geom:latitude":46.914566,
     "geom:longitude":7.40374,
     "iso:country":"CH",
+    "lbl:bbox":"7.39874,46.909566,7.40874,46.919566",
     "lbl:latitude":46.914566,
     "lbl:longitude":7.40374,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.897273,
     "mps:longitude":7.39432,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
     "name:pol_x_preferred":[
         "Schwanden"
     ],
-    "name:unk_x_variant":[
-        "Schwanden"
-    ],
     "qs:gn_adm0_cc":"CH",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2660119,
@@ -80,21 +79,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":40,
     "wof:belongsto":[
-        85682381,
         102191581,
         404567993,
         85633051,
         1125851419,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2658685,
         "gp:id":784128,
-        "qs:id":979272,
         "qs_pg:id":979272
     },
     "wof:country":"CH",
@@ -114,7 +112,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428650,
+    "wof:lastmodified":1566639482,
     "wof:name":"Schwanden",
     "wof:parent_id":1125851419,
     "wof:placetype":"neighbourhood",

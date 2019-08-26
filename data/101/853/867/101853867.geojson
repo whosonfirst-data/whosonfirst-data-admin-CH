@@ -12,10 +12,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.445865,
     "lbl:longitude":6.1578,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.451045,
     "mps:longitude":6.14144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Saint-Cergue"
     ],
@@ -82,9 +85,6 @@
     "name:swe_x_preferred":[
         "Saint-Cergue"
     ],
-    "name:unk_x_variant":[
-        "Saint-Cergue"
-    ],
     "name:vol_x_preferred":[
         "Saint-Cergue"
     ],
@@ -129,9 +129,11 @@
     "wof:concordances":{
         "gn:id":2658876,
         "gp:id":784252,
-        "qs:id":7,
-        "qs_pg:id":218158,
+        "qs_pg:id":7,
         "wd:id":"Q69335"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":218158
     },
     "wof:country":"CH",
     "wof:geomhash":"a7f63da0b3365b626dc044535a927637",
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":101853867,
-    "wof:lastmodified":1565443979,
+    "wof:lastmodified":1566640946,
     "wof:name":"St-Cergue",
     "wof:parent_id":404568419,
     "wof:placetype":"locality",

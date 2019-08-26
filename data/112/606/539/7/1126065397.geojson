@@ -9,24 +9,23 @@
     "geom:bbox":"8.6744,47.21847,8.6744,47.21847",
     "geom:latitude":47.21847,
     "geom:longitude":8.6744,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":1252,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":1252,
     "iso:country":"CH",
+    "lbl:bbox":"8.6694,47.21347,8.6794,47.22347",
     "lbl:latitude":47.21847,
     "lbl:longitude":8.6744,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Eichweid"
     ],
     "name:eng_x_variant":[
         "W\u00e4denswil / Eichweid"
-    ],
-    "name:unk_x_variant":[
-        "Eichweid"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":1053694,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394253971,
         85633051,
         101854439,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126065397,
-    "wof:lastmodified":1565581436,
+    "wof:lastmodified":1566642207,
     "wof:name":"Eichweid",
     "wof:parent_id":101854439,
     "wof:placetype":"neighbourhood",

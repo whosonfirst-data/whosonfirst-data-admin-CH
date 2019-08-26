@@ -9,15 +9,17 @@
     "geom:bbox":"9.06036,46.76986,9.06036,46.76986",
     "geom:latitude":46.76986,
     "geom:longitude":9.06036,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1344,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":1344,
     "iso:country":"CH",
+    "lbl:bbox":"9.05536,46.76486,9.06536,46.77486",
     "lbl:latitude":46.76986,
     "lbl:longitude":9.06036,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Breil/Brigels"
@@ -106,9 +108,6 @@
     "name:swe_x_preferred":[
         "Breil/Brigels"
     ],
-    "name:unk_x_variant":[
-        "Breil/Brigels"
-    ],
     "name:uzb_x_preferred":[
         "Breil/Brigels"
     ],
@@ -133,15 +132,15 @@
     "qs_pg:qs_id":1243757,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         1394254157,
         85633051,
         1126054887,
-        102062773
+        102062773,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -164,7 +163,7 @@
         }
     ],
     "wof:id":1394396117,
-    "wof:lastmodified":1565581531,
+    "wof:lastmodified":1566640554,
     "wof:name":"Bre\u00edl",
     "wof:parent_id":1126054887,
     "wof:placetype":"neighbourhood",

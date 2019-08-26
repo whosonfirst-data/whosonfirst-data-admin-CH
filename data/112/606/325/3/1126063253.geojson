@@ -9,24 +9,23 @@
     "geom:bbox":"8.39655,47.42987,8.39655,47.42987",
     "geom:latitude":47.42987,
     "geom:longitude":8.39655,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":80,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":80,
     "iso:country":"CH",
+    "lbl:bbox":"8.39155,47.42487,8.40155,47.43487",
     "lbl:latitude":47.42987,
     "lbl:longitude":8.39655,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "B\u00f6sgr\u00fcet"
     ],
     "name:eng_x_variant":[
         "Oetwil / B\u00f6sgr\u00fcet"
-    ],
-    "name:unk_x_variant":[
-        "B\u00f6sgr\u00fcet"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":621176,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404572243,
         85633051,
         1108980331,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126063253,
-    "wof:lastmodified":1565460423,
+    "wof:lastmodified":1566642205,
     "wof:name":"B\u00f6sgr\u00fcet",
     "wof:parent_id":1108980331,
     "wof:placetype":"neighbourhood",

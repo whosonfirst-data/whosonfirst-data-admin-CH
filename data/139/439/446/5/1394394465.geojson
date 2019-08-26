@@ -9,15 +9,17 @@
     "geom:bbox":"7.50081,47.02667,7.50081,47.02667",
     "geom:latitude":47.02667,
     "geom:longitude":7.50081,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5258,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":5258,
     "iso:country":"CH",
+    "lbl:bbox":"7.49581,47.02167,7.50581,47.03167",
     "lbl:latitude":47.02667,
     "lbl:longitude":7.50081,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Urtenen"
@@ -44,19 +46,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":784518,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404570517,
         85633051,
         101854095,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":1394394465,
-    "wof:lastmodified":1565440362,
+    "wof:lastmodified":1566640543,
     "wof:name":"Urtenen",
     "wof:parent_id":101854095,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.265216,
     "lbl:longitude":7.832248,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.250135,
     "mps:longitude":7.828812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Murgenthal"
     ],
@@ -89,7 +92,7 @@
     "name:swe_x_preferred":[
         "Murgenthal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Murgental"
     ],
     "name:uzb_x_preferred":[
@@ -143,10 +146,12 @@
     "wof:concordances":{
         "gn:id":7286598,
         "gp:id":783449,
-        "qs:id":92348,
-        "qs_pg:id":316536,
+        "qs_pg:id":92348,
         "wd:id":"Q64478",
         "wk:page":"Murgenthal"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":316536
     },
     "wof:country":"CH",
     "wof:geomhash":"58b9c64125eeede9ba8717f2ddf58550",
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":101854319,
-    "wof:lastmodified":1565444477,
+    "wof:lastmodified":1566641010,
     "wof:name":"Murgenthal",
     "wof:parent_id":404568665,
     "wof:placetype":"locality",

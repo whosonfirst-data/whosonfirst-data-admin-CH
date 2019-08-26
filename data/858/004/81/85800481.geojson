@@ -13,6 +13,7 @@
     "iso:country":"CH",
     "lbl:latitude":47.414805,
     "lbl:longitude":8.47863,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.416007,
     "mps:longitude":8.477719,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:deu_x_preferred":[
-        "Rutihof"
-    ],
-    "name:unk_x_variant":[
         "Rutihof"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -60,21 +58,20 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254167,
         85633051,
         101748463,
-        102063071
+        102063071,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6295481,
         "gp:id":783974,
-        "qs:id":182329,
         "qs_pg:id":182329
     },
     "wof:country":"CH",
@@ -94,7 +91,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428619,
+    "wof:lastmodified":1566639478,
     "wof:name":"R\u00fctihof",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",

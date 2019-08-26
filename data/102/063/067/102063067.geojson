@@ -12,10 +12,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.156916,
     "lbl:longitude":8.537321,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.156916,
     "mps:longitude":8.537321,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Zug (unincorporated)"
     ],
@@ -30,7 +33,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":102063067,
-    "wof:lastmodified":1565422230,
+    "wof:lastmodified":1566639363,
     "wof:name":"Zug (unincorporated)",
     "wof:parent_id":85682263,
     "wof:placetype":"county",

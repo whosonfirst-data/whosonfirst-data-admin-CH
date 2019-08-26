@@ -26,8 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"6.10984,46.27591,6.11984,46.28591",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Bossy"
     ],
@@ -39,12 +42,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682291,
         102191581,
         404328557,
         85633051,
         1125901721,
-        102062917
+        102062917,
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1394406609,
-    "wof:lastmodified":1565434380,
+    "wof:lastmodified":1566639938,
     "wof:name":"Bossy",
     "wof:parent_id":1125901721,
     "wof:placetype":"neighbourhood",

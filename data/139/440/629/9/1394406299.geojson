@@ -26,8 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"7.76991,46.40901,7.77991,46.41901",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Lauchernalp"
     ],
@@ -36,12 +39,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         404568933,
         85633051,
         1125915151,
-        102063037
+        102063037,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1394406299,
-    "wof:lastmodified":1565434020,
+    "wof:lastmodified":1566639898,
     "wof:name":"Lauchernalp",
     "wof:parent_id":1125915151,
     "wof:placetype":"neighbourhood",

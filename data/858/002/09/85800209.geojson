@@ -11,8 +11,10 @@
     "geom:longitude":6.636608,
     "gn:id":"",
     "iso:country":"CH",
+    "lbl:bbox":"6.631608,46.506818,6.641608,46.516818",
     "lbl:latitude":46.511818,
     "lbl:longitude":6.636608,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.511626,
     "mps:longitude":6.636408,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:fra_x_preferred":[
-        "Mont Choisi"
-    ],
-    "name:unk_x_variant":[
         "Mont Choisi"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682325,
         102191581,
         404567693,
         85633051,
         101748449,
-        102063021
+        102063021,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":783364,
-        "qs:id":1152945,
         "qs_pg:id":1152945
     },
     "wof:country":"CH",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428658,
+    "wof:lastmodified":1566639483,
     "wof:name":"Mont Choisi",
     "wof:parent_id":101748449,
     "wof:placetype":"neighbourhood",

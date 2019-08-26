@@ -11,8 +11,10 @@
     "geom:longitude":6.590911,
     "gn:id":"",
     "iso:country":"CH",
+    "lbl:bbox":"6.585911,46.529532,6.595911,46.539532",
     "lbl:latitude":46.534532,
     "lbl:longitude":6.590911,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.532414,
     "mps:longitude":6.592846,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:fra_x_preferred":[
-        "Sur Roche"
-    ],
-    "name:unk_x_variant":[
         "Sur Roche"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682325,
         102191581,
         404572139,
         85633051,
         1394295877,
-        102062829
+        102062829,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20104367,
-        "qs:id":1328499,
         "qs_pg:id":1328499
     },
     "wof:country":"CH",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428594,
+    "wof:lastmodified":1566639475,
     "wof:name":"Sur Roche",
     "wof:parent_id":1394295877,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"8.4621,47.35285,8.4621,47.35285",
     "geom:latitude":47.35285,
     "geom:longitude":8.4621,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":169,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":169,
     "iso:country":"CH",
+    "lbl:bbox":"8.4571,47.34785,8.4671,47.35785",
     "lbl:latitude":47.35285,
     "lbl:longitude":8.4621,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0430\u043d\u0434\u0438\u043a\u043e\u043d"
@@ -54,19 +56,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20102583,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569459,
         85633051,
         101854437,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":1394409599,
-    "wof:lastmodified":1565435562,
+    "wof:lastmodified":1566640069,
     "wof:name":"Landikon",
     "wof:parent_id":101854437,
     "wof:placetype":"neighbourhood",

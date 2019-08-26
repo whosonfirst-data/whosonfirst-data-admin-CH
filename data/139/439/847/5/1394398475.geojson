@@ -26,9 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Engi"
     ],
@@ -46,12 +48,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682365,
         102191581,
         404328423,
         85633051,
         1126007371,
-        1394137121
+        1394137121,
+        85682365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1394398475,
-    "wof:lastmodified":1565441801,
+    "wof:lastmodified":1566640698,
     "wof:name":"Engi",
     "wof:parent_id":1126007371,
     "wof:placetype":"neighbourhood",

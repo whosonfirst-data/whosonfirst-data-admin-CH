@@ -9,14 +9,17 @@
     "geom:bbox":"10.25857,46.77559,10.25857,46.77559",
     "geom:latitude":46.77559,
     "geom:longitude":10.25857,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"10.25357,46.77059,10.26357,46.78059",
     "lbl:latitude":46.77559,
     "lbl:longitude":10.25857,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0424\u0430\u043d\u0442\u0430\u043d\u0430"
@@ -123,18 +126,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782470,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         1394253967,
         85633051,
         1126021565,
-        1394137067
+        1394137067,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":1394407333,
-    "wof:lastmodified":1565581372,
+    "wof:lastmodified":1566640068,
     "wof:name":"Fontana",
     "wof:parent_id":1126021565,
     "wof:placetype":"neighbourhood",

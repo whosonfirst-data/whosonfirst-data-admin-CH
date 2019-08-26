@@ -9,16 +9,19 @@
     "geom:bbox":"9.0877858,46.2033806,9.113719,46.2163858",
     "geom:latitude":46.210777,
     "geom:longitude":9.104687,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
     "lbl:latitude":46.21264,
     "lbl:longitude":9.10049,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.210777,
     "mps:longitude":9.104687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u0648\u0631\u0627"
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Laura"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monti Laura"
     ],
     "name:vie_x_preferred":[
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1125832237,
-    "wof:lastmodified":1565463131,
+    "wof:lastmodified":1566642445,
     "wof:name":"Laura",
     "wof:parent_id":404568141,
     "wof:placetype":"locality",

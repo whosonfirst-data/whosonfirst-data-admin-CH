@@ -9,15 +9,17 @@
     "geom:bbox":"9.1085,46.77368,9.1085,46.77368",
     "geom:latitude":46.77368,
     "geom:longitude":9.1085,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":362,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":362,
     "iso:country":"CH",
+    "lbl:bbox":"9.1035,46.76868,9.1135,46.77868",
     "lbl:latitude":46.77368,
     "lbl:longitude":9.1085,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Waltensburg/Vuorz"
@@ -92,9 +94,6 @@
     "name:swe_x_preferred":[
         "Waltensburg/Vuorz"
     ],
-    "name:unk_x_variant":[
-        "Waltensburg/Vuorz"
-    ],
     "name:uzb_x_preferred":[
         "Waltensburg/Vuorz"
     ],
@@ -128,19 +127,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":784647,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         1394254157,
         85633051,
         1394293001,
-        102062773
+        102062773,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -164,7 +163,7 @@
         }
     ],
     "wof:id":1394397917,
-    "wof:lastmodified":1565581531,
+    "wof:lastmodified":1566640497,
     "wof:name":"Waltensburg",
     "wof:parent_id":1394293001,
     "wof:placetype":"neighbourhood",

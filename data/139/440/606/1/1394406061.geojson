@@ -9,15 +9,17 @@
     "geom:bbox":"8.70796,47.4993,8.70796,47.4993",
     "geom:latitude":47.4993,
     "geom:longitude":8.70796,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":22,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":22,
     "iso:country":"CH",
+    "lbl:bbox":"8.70296,47.4943,8.71296,47.5043",
     "lbl:latitude":47.4993,
     "lbl:longitude":8.70796,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Waldhof"
@@ -37,9 +39,6 @@
     "name:pol_x_preferred":[
         "Waldhof"
     ],
-    "name:unk_x_variant":[
-        "Waldhof"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLL",
@@ -52,15 +51,15 @@
     "qs_pg:qs_id":621002,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404567873,
         85633051,
         101748461,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +81,7 @@
         }
     ],
     "wof:id":1394406061,
-    "wof:lastmodified":1565436944,
+    "wof:lastmodified":1566640220,
     "wof:name":"Waldhof",
     "wof:parent_id":101748461,
     "wof:placetype":"neighbourhood",

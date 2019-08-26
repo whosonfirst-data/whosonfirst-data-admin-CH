@@ -9,16 +9,17 @@
     "geom:bbox":"8.58724,47.44455,8.58724,47.44455",
     "geom:latitude":47.44455,
     "geom:longitude":8.58724,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":1153,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":1153,
     "iso:country":"CH",
     "lbl:latitude":47.44455,
     "lbl:longitude":8.58724,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0628\u064a\u062a\u0633"
@@ -110,9 +111,6 @@
     "name:tur_x_preferred":[
         "Spitz"
     ],
-    "name:unk_x_variant":[
-        "Spitz"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLX",
@@ -125,15 +123,15 @@
     "qs_pg:qs_id":1053652,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568627,
         85633051,
         1125851437,
-        102063019
+        102063019,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,7 +153,7 @@
         }
     ],
     "wof:id":1126094873,
-    "wof:lastmodified":1565461546,
+    "wof:lastmodified":1566642306,
     "wof:name":"Spitz",
     "wof:parent_id":1125851437,
     "wof:placetype":"neighbourhood",

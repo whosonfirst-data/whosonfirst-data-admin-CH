@@ -9,12 +9,15 @@
     "geom:bbox":"8.1227265,46.4115615,8.1227265,46.4115615",
     "geom:latitude":46.411561,
     "geom:longitude":8.122727,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CH",
+    "lbl:bbox":"8.1177265,46.4065615,8.1277265,46.4165615",
     "lbl:latitude":46.411561,
     "lbl:longitude":8.122727,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u064a\u063a\u064a\u0634\u0648\u0631\u0646"
@@ -76,18 +79,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20101568,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404569583,
         85633051,
         1126000381,
-        102063031
+        102063031,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1394394589,
-    "wof:lastmodified":1565441928,
+    "wof:lastmodified":1566640712,
     "wof:name":"Eggishorn",
     "wof:parent_id":1126000381,
     "wof:placetype":"neighbourhood",

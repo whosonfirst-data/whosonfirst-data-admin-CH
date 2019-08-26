@@ -26,8 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"7.50158,46.28137,7.51158,46.29137",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e8\u05d9\u05df"
     ],
@@ -36,12 +39,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682281,
         102191581,
         1394254217,
         85633051,
         1125948665,
-        102062793
+        102062793,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1394397411,
-    "wof:lastmodified":1565581701,
+    "wof:lastmodified":1566640633,
     "wof:name":"Corin",
     "wof:parent_id":1125948665,
     "wof:placetype":"neighbourhood",

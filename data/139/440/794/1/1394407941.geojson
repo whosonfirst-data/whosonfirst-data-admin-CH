@@ -9,12 +9,15 @@
     "geom:bbox":"6.97176,47.364166,6.97176,47.364166",
     "geom:latitude":47.364166,
     "geom:longitude":6.97176,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CH",
+    "lbl:bbox":"6.96676,47.359166,6.97676,47.369166",
     "lbl:latitude":47.364166,
     "lbl:longitude":6.97176,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Le Fol"
@@ -43,18 +46,18 @@
     "qs_pg:woe_adm0":23424819,
     "qs_pg:woe_id":20211694,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424819,
     "woe:name_adm0":"France",
     "woe:name_adm1":"Franche-Comt\u00e9",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682347,
         102191581,
         1394254073,
         85633051,
         1126043209,
-        102063059
+        102063059,
+        85682347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1394407941,
-    "wof:lastmodified":1565581645,
+    "wof:lastmodified":1566640074,
     "wof:name":"Le Fol",
     "wof:parent_id":1126043209,
     "wof:placetype":"neighbourhood",

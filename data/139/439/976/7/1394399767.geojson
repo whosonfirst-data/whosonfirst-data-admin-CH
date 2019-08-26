@@ -25,9 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Oberhofen"
     ],
@@ -57,12 +59,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568951,
         85633051,
         1126016105,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":1394399767,
-    "wof:lastmodified":1565441092,
+    "wof:lastmodified":1566640622,
     "wof:name":"Oberhofen",
     "wof:parent_id":1126016105,
     "wof:placetype":"neighbourhood",

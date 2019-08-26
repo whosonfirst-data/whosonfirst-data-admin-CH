@@ -10,8 +10,10 @@
     "geom:latitude":47.495422,
     "geom:longitude":8.72158,
     "iso:country":"CH",
+    "lbl:bbox":"8.71658,47.490422,8.72658,47.500422",
     "lbl:latitude":47.495422,
     "lbl:longitude":8.72158,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.493579,
     "mps:longitude":8.707861,
     "mz:hierarchy_label":0,
@@ -71,9 +73,6 @@
     "name:swe_x_preferred":[
         "T\u00f6ss"
     ],
-    "name:unk_x_variant":[
-        "T\u00f6ss"
-    ],
     "name:zho_x_preferred":[
         "\u6258\u65af"
     ],
@@ -106,15 +105,15 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":79,
     "wof:belongsto":[
-        85682309,
         102191581,
         404567873,
         85633051,
         101748461,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,7 +137,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428649,
+    "wof:lastmodified":1566639482,
     "wof:name":"T\u00f6ss",
     "wof:parent_id":101748461,
     "wof:placetype":"neighbourhood",

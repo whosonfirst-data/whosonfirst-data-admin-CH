@@ -9,15 +9,17 @@
     "geom:bbox":"8.89135,47.33082,8.89135,47.33082",
     "geom:latitude":47.33082,
     "geom:longitude":8.89135,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":5,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":5,
     "iso:country":"CH",
+    "lbl:bbox":"8.88635,47.32582,8.89635,47.33582",
     "lbl:latitude":47.33082,
     "lbl:longitude":8.89135,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Berghof"
@@ -49,15 +51,15 @@
     "qs_pg:qs_id":618455,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568511,
         85633051,
         1125896199,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":1394408589,
-    "wof:lastmodified":1565434560,
+    "wof:lastmodified":1566639958,
     "wof:name":"Berghof",
     "wof:parent_id":1125896199,
     "wof:placetype":"neighbourhood",

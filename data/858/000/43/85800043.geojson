@@ -10,8 +10,10 @@
     "geom:latitude":46.979532,
     "geom:longitude":7.414926,
     "iso:country":"CH",
+    "lbl:bbox":"7.409926,46.974532,7.419926,46.984532",
     "lbl:latitude":46.979532,
     "lbl:longitude":7.414926,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.982755,
     "mps:longitude":7.411306,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:deu_x_preferred":[
-        "Herrenschwanden"
-    ],
-    "name:unk_x_variant":[
         "Herrenschwanden"
     ],
     "qs:gn_fcode":"PPL",
@@ -57,20 +56,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682381,
         102191581,
         404569289,
         85633051,
         1394296241,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6935438,
         "gp:id":782750,
-        "qs:id":1145017,
         "qs_pg:id":1145017
     },
     "wof:country":"CH",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428496,
+    "wof:lastmodified":1566639460,
     "wof:name":"Herrenschwanden",
     "wof:parent_id":1394296241,
     "wof:placetype":"neighbourhood",

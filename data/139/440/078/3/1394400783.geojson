@@ -25,9 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Zimmerberg"
     ],
@@ -39,12 +41,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404573389,
         85633051,
         101875853,
-        102062837
+        102062837,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":1394400783,
-    "wof:lastmodified":1565434063,
+    "wof:lastmodified":1566639903,
     "wof:name":"Zimmerberg",
     "wof:parent_id":101875853,
     "wof:placetype":"neighbourhood",

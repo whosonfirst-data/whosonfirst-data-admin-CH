@@ -9,15 +9,17 @@
     "geom:bbox":"7.41714,46.25152,7.41714,46.25152",
     "geom:latitude":46.25152,
     "geom:longitude":7.41714,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1937,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":1937,
     "iso:country":"CH",
+    "lbl:bbox":"7.41214,46.24652,7.42214,46.25652",
     "lbl:latitude":46.25152,
     "lbl:longitude":7.41714,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Saint-L\u00e9onard"
@@ -94,9 +96,6 @@
     "name:swe_x_preferred":[
         "Saint-L\u00e9onard"
     ],
-    "name:unk_x_variant":[
-        "Saint-L\u00e9onard"
-    ],
     "name:vol_x_preferred":[
         "Saint-L\u00e9onard"
     ],
@@ -125,19 +124,19 @@
     "qs_pg:woe_adm0":23424853,
     "qs_pg:woe_id":20141450,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424853,
     "woe:name_adm0":"Italia",
     "woe:name_adm1":"Valle d'Aosta",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         1394253989,
         85633051,
         1310139829,
-        102062827
+        102062827,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -161,7 +160,7 @@
         }
     ],
     "wof:id":1394397435,
-    "wof:lastmodified":1565581376,
+    "wof:lastmodified":1566640755,
     "wof:name":"Saint-Leonard",
     "wof:parent_id":1310139829,
     "wof:placetype":"neighbourhood",

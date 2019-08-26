@@ -13,6 +13,7 @@
     "iso:country":"CH",
     "lbl:latitude":47.353466,
     "lbl:longitude":8.511514,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.360266,
     "mps:longitude":8.526682,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:deu_x_preferred":[
-        "Albisgutli"
-    ],
-    "name:unk_x_variant":[
         "Albisgutli"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -59,19 +57,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254167,
         85633051,
         101748463,
-        102063071
+        102063071,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":781563,
-        "qs:id":1283411,
         "qs_pg:id":1283411
     },
     "wof:country":"CH",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565423079,
+    "wof:lastmodified":1566639425,
     "wof:name":"Albisgutli",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",

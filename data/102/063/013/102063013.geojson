@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":47.179165,
     "lbl:longitude":7.772774,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.179165,
     "mps:longitude":7.772774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:als_x_preferred":[
         "Oberaargau"
     ],
@@ -56,7 +59,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":102063013,
-    "wof:lastmodified":1565421194,
+    "wof:lastmodified":1566639341,
     "wof:name":"Oberaargau",
     "wof:parent_id":85682381,
     "wof:placetype":"county",

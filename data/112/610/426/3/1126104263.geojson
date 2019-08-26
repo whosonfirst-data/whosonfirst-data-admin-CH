@@ -9,24 +9,23 @@
     "geom:bbox":"8.68238,47.26171,8.68238,47.26171",
     "geom:latitude":47.26171,
     "geom:longitude":8.68238,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":173,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":173,
     "iso:country":"CH",
+    "lbl:bbox":"8.67738,47.25671,8.68738,47.26671",
     "lbl:latitude":47.26171,
     "lbl:longitude":8.68238,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Wissenrain"
     ],
     "name:eng_x_variant":[
         "Uetikon / Wissenrain"
-    ],
-    "name:unk_x_variant":[
-        "Wissenrain"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":619887,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571553,
         85633051,
         1125880125,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126104263,
-    "wof:lastmodified":1565452907,
+    "wof:lastmodified":1566641704,
     "wof:name":"Wissenrain",
     "wof:parent_id":1125880125,
     "wof:placetype":"neighbourhood",

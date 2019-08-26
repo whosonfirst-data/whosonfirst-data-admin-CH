@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.535702,
     "lbl:longitude":8.739222,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.534254,
     "mps:longitude":8.726113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Seuzach"
     ],
@@ -146,10 +149,12 @@
     "wof:concordances":{
         "gn:id":7287158,
         "gp:id":784180,
-        "qs:id":1053725,
-        "qs_pg:id":1220559,
+        "qs_pg:id":1053725,
         "wd:id":"Q65805",
         "wk:page":"Seuzach"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1220559
     },
     "wof:coterminous":[
         404570427
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":101854409,
-    "wof:lastmodified":1565444237,
+    "wof:lastmodified":1566640980,
     "wof:name":"Seuzach",
     "wof:parent_id":404570427,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"6.5421126,46.8988863,6.5772947,46.922252",
     "geom:latitude":46.908841,
     "geom:longitude":6.559968,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":595,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":595,
     "iso:country":"CH",
     "lbl:latitude":46.91111,
     "lbl:longitude":6.56219,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.908841,
     "mps:longitude":6.559968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Saint-Sulpice NE"
@@ -48,9 +50,6 @@
     ],
     "name:swe_x_preferred":[
         "Saint-Sulpice"
-    ],
-    "name:unk_x_variant":[
-        "Saint-Sulpice NE"
     ],
     "nav:latitude":46.91111,
     "nav:longitude":6.56219,
@@ -112,7 +111,7 @@
         }
     ],
     "wof:id":1125891953,
-    "wof:lastmodified":1565457338,
+    "wof:lastmodified":1566641943,
     "wof:name":"St-Sulpice",
     "wof:parent_id":404567767,
     "wof:placetype":"locality",

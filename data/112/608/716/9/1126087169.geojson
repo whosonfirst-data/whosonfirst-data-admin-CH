@@ -9,15 +9,17 @@
     "geom:bbox":"8.61769,47.28335,8.61769,47.28335",
     "geom:latitude":47.28335,
     "geom:longitude":8.61769,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":336,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":336,
     "iso:country":"CH",
+    "lbl:bbox":"8.61269,47.27835,8.62269,47.28835",
     "lbl:latitude":47.28335,
     "lbl:longitude":8.61769,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Tobel"
@@ -34,9 +36,6 @@
     "name:epo_x_preferred":[
         "Tobel"
     ],
-    "name:unk_x_variant":[
-        "Tobel"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLX",
@@ -49,15 +48,15 @@
     "qs_pg:qs_id":619673,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568775,
         85633051,
         101854399,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":1126087169,
-    "wof:lastmodified":1565459961,
+    "wof:lastmodified":1566642167,
     "wof:name":"Tobel",
     "wof:parent_id":101854399,
     "wof:placetype":"neighbourhood",

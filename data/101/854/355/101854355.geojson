@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.265907,
     "lbl:longitude":8.202215,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":47.266491,
     "mps:longitude":8.208604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Beinwil am See"
     ],
@@ -111,9 +114,6 @@
     "name:swe_x_preferred":[
         "Beinwil am See"
     ],
-    "name:unk_x_variant":[
-        "Beinwil"
-    ],
     "name:uzb_x_preferred":[
         "Beinwil am See"
     ],
@@ -166,9 +166,11 @@
         "fct:id":"06a66564-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2661576,
         "gp:id":781763,
-        "qs:id":979431,
         "qs_pg:id":477561,
         "wd:id":"Q65000"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":979431
     },
     "wof:coterminous":[
         404571781
@@ -189,7 +191,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565444132,
+    "wof:lastmodified":1566640967,
     "wof:name":"Beinwil am See",
     "wof:parent_id":404571781,
     "wof:placetype":"locality",

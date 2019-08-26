@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.059265,
     "lbl:longitude":8.073857,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.054733,
     "mps:longitude":8.072603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Wolhusen"
     ],
@@ -149,10 +152,12 @@
     "wof:concordances":{
         "gn:id":7287608,
         "gp:id":784738,
-        "qs:id":1037227,
         "qs_pg:id":182401,
         "wd:id":"Q7125",
         "wk:page":"Wolhusen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1037227
     },
     "wof:country":"CH",
     "wof:geomhash":"5d5731d011be1bc681889081bc9e907b",
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":101854041,
-    "wof:lastmodified":1565444160,
+    "wof:lastmodified":1566640970,
     "wof:name":"Wolhusen",
     "wof:parent_id":404328323,
     "wof:placetype":"locality",

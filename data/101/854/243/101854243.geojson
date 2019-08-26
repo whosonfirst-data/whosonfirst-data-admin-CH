@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.224926,
     "lbl:longitude":8.943762,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.224536,
     "mps:longitude":8.941921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Schmerikon"
     ],
@@ -131,10 +134,12 @@
     "wof:concordances":{
         "gn:id":2658720,
         "gp:id":784099,
-        "qs:id":249613,
-        "qs_pg:id":1152956,
+        "qs_pg:id":249613,
         "wd:id":"Q66684",
         "wk:page":"Schmerikon"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1152956
     },
     "wof:coterminous":[
         404570917
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":101854243,
-    "wof:lastmodified":1565444187,
+    "wof:lastmodified":1566640974,
     "wof:name":"Schmerikon",
     "wof:parent_id":404570917,
     "wof:placetype":"locality",

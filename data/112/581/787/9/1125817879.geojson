@@ -9,17 +9,19 @@
     "geom:bbox":"8.9910737,45.8513312,9.0269507,45.8788983",
     "geom:latitude":45.865395,
     "geom:longitude":9.008518,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2150,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":2150,
     "iso:country":"CH",
     "lbl:latitude":45.86061,
     "lbl:longitude":9.00932,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.865395,
     "mps:longitude":9.008518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Castel San Pietro TI"
@@ -96,7 +98,7 @@
     "name:swe_x_preferred":[
         "Castel San Pietro"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Castello San Pietro"
     ],
     "name:vol_x_preferred":[
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":1125817879,
-    "wof:lastmodified":1565457007,
+    "wof:lastmodified":1566641919,
     "wof:name":"Castel San Pietro",
     "wof:parent_id":404569315,
     "wof:placetype":"locality",

@@ -9,15 +9,17 @@
     "geom:bbox":"8.67555,47.19429,8.67555,47.19429",
     "geom:latitude":47.19429,
     "geom:longitude":8.67555,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":47,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":47,
     "iso:country":"CH",
+    "lbl:bbox":"8.67055,47.18929,8.68055,47.19929",
     "lbl:latitude":47.19429,
     "lbl:longitude":8.67555,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Haslen"
@@ -56,19 +58,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":785761,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Glarus",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569159,
         85633051,
         1126013023,
-        1394212863
+        1394212863,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":1394408883,
-    "wof:lastmodified":1565434039,
+    "wof:lastmodified":1566639900,
     "wof:name":"Haslen",
     "wof:parent_id":1126013023,
     "wof:placetype":"neighbourhood",

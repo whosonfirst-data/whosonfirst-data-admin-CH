@@ -9,16 +9,17 @@
     "geom:bbox":"8.52373,47.29342,8.52373,47.29342",
     "geom:latitude":47.29342,
     "geom:longitude":8.52373,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11,
-    "gn:population":60,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":11,
     "iso:country":"CH",
     "lbl:latitude":47.29342,
     "lbl:longitude":8.52373,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Waldi"
@@ -59,15 +60,15 @@
     "qs_pg:qs_id":619100,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"quattroshapes_pg",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570347,
         85633051,
         1125934999,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1394399985,
-    "wof:lastmodified":1565439853,
+    "wof:lastmodified":1566640484,
     "wof:name":"Waldi",
     "wof:parent_id":1125934999,
     "wof:placetype":"neighbourhood",

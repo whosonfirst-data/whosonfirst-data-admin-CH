@@ -9,15 +9,17 @@
     "geom:bbox":"8.68138,47.50321,8.68138,47.50321",
     "geom:latitude":47.50321,
     "geom:longitude":8.68138,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":4,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":4,
     "iso:country":"CH",
+    "lbl:bbox":"8.67638,47.49821,8.68638,47.50821",
     "lbl:latitude":47.50321,
     "lbl:longitude":8.68138,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Guggenb\u00fchl"
@@ -29,9 +31,6 @@
         "Guggenb\u00fchl"
     ],
     "name:swe_x_preferred":[
-        "Guggenb\u00fchl"
-    ],
-    "name:unk_x_variant":[
         "Guggenb\u00fchl"
     ],
     "qs_pg:aaroncc":"CH",
@@ -46,15 +45,15 @@
     "qs_pg:qs_id":621047,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404567873,
         85633051,
         101748461,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +75,7 @@
         }
     ],
     "wof:id":1394395867,
-    "wof:lastmodified":1565440918,
+    "wof:lastmodified":1566640603,
     "wof:name":"Guggenb\u00fchl",
     "wof:parent_id":101748461,
     "wof:placetype":"neighbourhood",

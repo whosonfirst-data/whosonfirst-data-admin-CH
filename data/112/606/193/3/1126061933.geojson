@@ -9,24 +9,23 @@
     "geom:bbox":"8.40835,47.44728,8.40835,47.44728",
     "geom:latitude":47.44728,
     "geom:longitude":8.40835,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":754,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":754,
     "iso:country":"CH",
+    "lbl:bbox":"8.40335,47.44228,8.41335,47.45228",
     "lbl:latitude":47.44728,
     "lbl:longitude":8.40835,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Bifang"
     ],
     "name:eng_x_variant":[
         "D\u00e4nikon / Bifang"
-    ],
-    "name:unk_x_variant":[
-        "Bifang"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":618145,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404572187,
         85633051,
         1126008931,
-        102062995
+        102062995,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126061933,
-    "wof:lastmodified":1565460069,
+    "wof:lastmodified":1566642174,
     "wof:name":"Bifang",
     "wof:parent_id":1126008931,
     "wof:placetype":"neighbourhood",

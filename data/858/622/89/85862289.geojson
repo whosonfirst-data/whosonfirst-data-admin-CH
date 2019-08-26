@@ -11,8 +11,10 @@
     "geom:longitude":8.305163,
     "gn:population":57,
     "iso:country":"CH",
+    "lbl:bbox":"8.300163,47.026808,8.310163,47.036808",
     "lbl:latitude":47.031808,
     "lbl:longitude":8.305163,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.023037,
     "mps:longitude":8.30332,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:deu_x_preferred":[
-        "Allmend"
-    ],
-    "name:unk_x_variant":[
         "Allmend"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -60,21 +59,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682319,
         102191581,
         404328203,
         85633051,
         101748451,
-        1394137117
+        1394137117,
+        85682319
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6294261,
         "gp:id":20100686,
-        "qs:id":898874,
         "qs_pg:id":898874
     },
     "wof:country":"CH",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428554,
+    "wof:lastmodified":1566639469,
     "wof:name":"Allmend",
     "wof:parent_id":101748451,
     "wof:placetype":"neighbourhood",

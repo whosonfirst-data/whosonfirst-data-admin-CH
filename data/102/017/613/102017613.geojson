@@ -12,10 +12,13 @@
     "iso:country":"CH",
     "lbl:latitude":-55.943064,
     "lbl:longitude":-67.227281,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-55.943064,
     "mps:longitude":-67.227281,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kaap Hoorn"
     ],
@@ -250,7 +253,7 @@
     "name:ukr_x_variant":[
         "\u043c\u0438\u0441 \u0413\u043e\u0440\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cape Hoorn"
     ],
     "name:urd_x_preferred":[
@@ -282,9 +285,8 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":5107,
-    "wof:belongs_to":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -306,7 +308,7 @@
         }
     ],
     "wof:id":102017613,
-    "wof:lastmodified":1565422272,
+    "wof:lastmodified":1566639369,
     "wof:name":"Cape Horn",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

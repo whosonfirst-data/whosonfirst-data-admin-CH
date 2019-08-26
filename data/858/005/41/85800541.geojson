@@ -13,6 +13,7 @@
     "iso:country":"CH",
     "lbl:latitude":47.548872,
     "lbl:longitude":7.5803,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.547649,
     "mps:longitude":7.575091,
     "mz:hierarchy_label":1,
@@ -32,9 +33,6 @@
         "Skt Margarethen",
         "Skt. Margarethen",
         "St Margarethen"
-    ],
-    "name:unk_x_variant":[
-        "St. Margarethen"
     ],
     "qs:gn_adm0_cc":"CH",
     "qs:gn_id":0,
@@ -64,19 +62,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682297,
         102191581,
         404328241,
         85633051,
         101748459,
-        102062895
+        102062895,
+        85682297
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":784257,
-        "qs:id":1079866,
         "qs_pg:id":1079866
     },
     "wof:country":"CH",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428645,
+    "wof:lastmodified":1566639482,
     "wof:name":"St. Margarethen",
     "wof:parent_id":101748459,
     "wof:placetype":"neighbourhood",

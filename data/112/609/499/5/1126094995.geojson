@@ -9,15 +9,17 @@
     "geom:bbox":"8.67968,47.50904,8.67968,47.50904",
     "geom:latitude":47.50904,
     "geom:longitude":8.67968,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":1227,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":1227,
     "iso:country":"CH",
+    "lbl:bbox":"8.67468,47.50404,8.68468,47.51404",
     "lbl:latitude":47.50904,
     "lbl:longitude":8.67968,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "W\u00fclflingen"
@@ -29,9 +31,6 @@
         "Niederfeld"
     ],
     "name:swe_x_preferred":[
-        "Niederfeld"
-    ],
-    "name:unk_x_variant":[
         "Niederfeld"
     ],
     "qs_pg:aaroncc":"CH",
@@ -46,15 +45,15 @@
     "qs_pg:qs_id":1053708,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404567873,
         85633051,
         101748461,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +76,7 @@
         }
     ],
     "wof:id":1126094995,
-    "wof:lastmodified":1565461507,
+    "wof:lastmodified":1566642301,
     "wof:name":"Niederfeld",
     "wof:parent_id":101748461,
     "wof:placetype":"neighbourhood",

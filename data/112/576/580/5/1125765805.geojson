@@ -9,17 +9,19 @@
     "geom:bbox":"7.9100012,47.1963915,7.9541947,47.2255506",
     "geom:latitude":47.210487,
     "geom:longitude":7.932057,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":769,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":769,
     "iso:country":"CH",
     "lbl:latitude":47.21757,
     "lbl:longitude":7.94459,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":47.210487,
     "mps:longitude":7.932057,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0420\u0438\u0447\u0435\u043d\u0442\u0445\u0430\u043b"
@@ -57,7 +59,7 @@
     "name:swe_x_preferred":[
         "Richenthal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Richental"
     ],
     "name:uzb_x_preferred":[
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":1125765805,
-    "wof:lastmodified":1565461819,
+    "wof:lastmodified":1566642330,
     "wof:name":"Richenthal",
     "wof:parent_id":404328219,
     "wof:placetype":"locality",

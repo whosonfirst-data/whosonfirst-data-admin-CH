@@ -12,10 +12,13 @@
     "iso:country":"CH",
     "lbl:latitude":-34.05721,
     "lbl:longitude":-71.94397,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-34.05721,
     "mps:longitude":-71.94397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041d\u0430\u0432\u0438\u0434\u0430\u0434"
     ],
@@ -87,7 +90,7 @@
     "qs:source":"Lquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577
     ],
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gn:id":8261253,
         "gp:id":348717,
-        "qs:id":1042627,
+        "qs_pg:id":1042627,
         "wd:id":"Q51045",
         "wk:page":"Navidad, Chile"
     },
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":102018099,
-    "wof:lastmodified":1565422256,
+    "wof:lastmodified":1566639367,
     "wof:name":"Navidad",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

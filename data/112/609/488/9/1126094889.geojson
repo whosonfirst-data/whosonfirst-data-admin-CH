@@ -9,25 +9,23 @@
     "geom:bbox":"8.51888,47.31637,8.51888,47.31637",
     "geom:latitude":47.31637,
     "geom:longitude":8.51888,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":1553,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":1553,
     "iso:country":"CH",
     "lbl:latitude":47.31637,
     "lbl:longitude":8.51888,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "H\u00fcndli-Zopf"
     ],
     "name:eng_x_variant":[
         "Adliswil / H\u00fcndli-Zopf"
-    ],
-    "name:unk_x_variant":[
-        "H\u00fcndli-Zopf"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -41,15 +39,15 @@
     "qs_pg:qs_id":1053669,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570347,
         85633051,
         1125934999,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +69,7 @@
         }
     ],
     "wof:id":1126094889,
-    "wof:lastmodified":1565461537,
+    "wof:lastmodified":1566642304,
     "wof:name":"H\u00fcndli-Zopf",
     "wof:parent_id":1125934999,
     "wof:placetype":"neighbourhood",

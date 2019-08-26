@@ -12,6 +12,7 @@
     "iso:country":"CH",
     "lbl:latitude":46.210561,
     "lbl:longitude":6.147369,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
@@ -24,14 +25,14 @@
     "name:fra_x_preferred":[
         "P\u00e2quis Navigation"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682291,
         102191581,
         404328283,
         85633051,
         101748445,
-        102062917
+        102062917,
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1108944911,
-    "wof:lastmodified":1565431542,
+    "wof:lastmodified":1566639676,
     "wof:name":"Paquis Navigation",
     "wof:parent_id":101748445,
     "wof:placetype":"neighbourhood",

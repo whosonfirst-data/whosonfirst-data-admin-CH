@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"7.36362,46.94719,7.37362,46.95719",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:cat_x_preferred":[
         "Riedern"
     ],
@@ -70,8 +73,7 @@
         "Riedern"
     ],
     "name:und_x_variant":[
-        "Riederen",
-        "Riedern"
+        "Riederen"
     ],
     "name:uzb_x_preferred":[
         "Riedern"
@@ -84,12 +86,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         1394254007,
         85633051,
         101748453,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1394409467,
-    "wof:lastmodified":1565434879,
+    "wof:lastmodified":1566639993,
     "wof:name":"Riedern",
     "wof:parent_id":101748453,
     "wof:placetype":"neighbourhood",

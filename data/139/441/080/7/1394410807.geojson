@@ -9,14 +9,17 @@
     "geom:bbox":"7.95741,46.08406,7.95741,46.08406",
     "geom:latitude":46.08406,
     "geom:longitude":7.95741,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"7.95241,46.07906,7.96241,46.08906",
     "lbl:latitude":46.08406,
     "lbl:longitude":7.95741,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Zermeiggern"
@@ -42,18 +45,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":784767,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567789,
         85633051,
         1125808747,
-        102062859
+        102062859,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1394410807,
-    "wof:lastmodified":1565439365,
+    "wof:lastmodified":1566640437,
     "wof:name":"Zermeiggern",
     "wof:parent_id":1125808747,
     "wof:placetype":"neighbourhood",

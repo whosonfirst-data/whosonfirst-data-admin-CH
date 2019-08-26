@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":46.675085,
     "lbl:longitude":6.91936,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.675085,
     "mps:longitude":6.91936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Districte de la Gl\u00e2ne"
     ],
@@ -114,7 +117,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":102062867,
-    "wof:lastmodified":1565419635,
+    "wof:lastmodified":1566639294,
     "wof:name":"La Glane",
     "wof:parent_id":85682301,
     "wof:placetype":"county",

@@ -42,6 +42,7 @@
     ],
     "lbl:latitude":46.332097,
     "lbl:longitude":8.814564,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.332097,
     "mps:longitude":8.814564,
     "mz:hierarchy_label":1,
@@ -372,9 +373,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0456\u0447\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Cantone Ticino"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0686\u06cc\u0646\u0648"
     ],
@@ -465,10 +463,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:area_km":"2,811",
     "statoids:area_mi":"1,085",
     "statoids:as_of_date":"2010-12-31",
@@ -518,11 +515,10 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1565662357,
+    "wof:lastmodified":1566639450,
     "wof:name":"Ticino",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"canton",
     "wof:population":333753,
     "wof:population_rank":10,

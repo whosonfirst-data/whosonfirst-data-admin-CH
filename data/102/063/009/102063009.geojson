@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":46.542265,
     "lbl:longitude":6.638795,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.542265,
     "mps:longitude":6.638795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Lausanne"
     ],
@@ -326,7 +329,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
@@ -346,7 +348,7 @@
         }
     ],
     "wof:id":102063009,
-    "wof:lastmodified":1565421336,
+    "wof:lastmodified":1566639345,
     "wof:name":"Lausanne",
     "wof:parent_id":85682325,
     "wof:placetype":"county",

@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":47.627159,
     "lbl:longitude":9.14619,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.627159,
     "mps:longitude":9.14619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u0648\u0632\u0644\u064a\u0646\u063a\u0646"
     ],
@@ -179,7 +182,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2672,
     "wof:belongsto":[
@@ -203,7 +205,7 @@
         }
     ],
     "wof:id":102062953,
-    "wof:lastmodified":1565419051,
+    "wof:lastmodified":1566639279,
     "wof:name":"Kreuzlingen",
     "wof:parent_id":85682337,
     "wof:placetype":"county",

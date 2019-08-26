@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":47.380545,
     "lbl:longitude":8.531428,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.380545,
     "mps:longitude":8.531428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Z\u00fcrich"
     ],
@@ -47,7 +50,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":102063071,
-    "wof:lastmodified":1565421219,
+    "wof:lastmodified":1566639342,
     "wof:name":"Zurich",
     "wof:parent_id":85682309,
     "wof:placetype":"county",

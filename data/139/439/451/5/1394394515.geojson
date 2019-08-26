@@ -9,14 +9,17 @@
     "geom:bbox":"8.6,46.65,8.6,46.65",
     "geom:latitude":46.65,
     "geom:longitude":8.6,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"8.595,46.645,8.605,46.655",
     "lbl:latitude":46.65,
     "lbl:longitude":8.6,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Loch"
@@ -108,18 +111,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":783176,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Uri",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682377,
         102191581,
         404328117,
         85633051,
         1125889439,
-        102062879
+        102062879,
+        85682377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1394394515,
-    "wof:lastmodified":1565442022,
+    "wof:lastmodified":1566640723,
     "wof:name":"Loch",
     "wof:parent_id":1125889439,
     "wof:placetype":"neighbourhood",

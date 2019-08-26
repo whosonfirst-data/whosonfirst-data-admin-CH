@@ -12,10 +12,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.89542,
     "lbl:longitude":7.301317,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.906484,
     "mps:longitude":7.299721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Neuenegg"
     ],
@@ -137,9 +140,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":785071,
-        "qs:id":8,
-        "qs_pg:id":1309981,
+        "qs_pg:id":8,
         "wd:id":"Q66125"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1309981
     },
     "wof:country":"CH",
     "wof:geomhash":"ec0572cccda06f660c1babbf4d46bfe8",
@@ -154,7 +159,7 @@
         }
     ],
     "wof:id":101854155,
-    "wof:lastmodified":1565444323,
+    "wof:lastmodified":1566640990,
     "wof:name":"Neuenegg",
     "wof:parent_id":404568537,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"CH",
     "lbl:latitude":46.213373,
     "lbl:longitude":6.151575,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
@@ -120,14 +121,14 @@
     "name:zho_x_preferred":[
         "\u5a01\u723e\u905c"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682291,
         102191581,
         404328283,
         85633051,
         101748445,
-        102062917
+        102062917,
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1108944919,
-    "wof:lastmodified":1565431541,
+    "wof:lastmodified":1566639675,
     "wof:name":"Wilson",
     "wof:parent_id":101748445,
     "wof:placetype":"neighbourhood",

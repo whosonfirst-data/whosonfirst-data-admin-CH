@@ -9,24 +9,23 @@
     "geom:bbox":"8.73067,47.53039,8.73067,47.53039",
     "geom:latitude":47.53039,
     "geom:longitude":8.73067,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":985,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":985,
     "iso:country":"CH",
+    "lbl:bbox":"8.72567,47.52539,8.73567,47.53539",
     "lbl:latitude":47.53039,
     "lbl:longitude":8.73067,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hochgr\u00fct-Scheidweg"
     ],
     "name:eng_x_variant":[
         "Seuzach Dorf / Hochgr\u00fct-Scheidweg"
-    ],
-    "name:unk_x_variant":[
-        "Hochgr\u00fct-Scheidweg"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":620942,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570427,
         85633051,
         101854409,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126063041,
-    "wof:lastmodified":1565460473,
+    "wof:lastmodified":1566642209,
     "wof:name":"Hochgr\u00fct-Scheidweg",
     "wof:parent_id":101854409,
     "wof:placetype":"neighbourhood",

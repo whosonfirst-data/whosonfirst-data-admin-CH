@@ -10,8 +10,10 @@
     "geom:latitude":46.973806,
     "geom:longitude":7.519537,
     "iso:country":"CH",
+    "lbl:bbox":"7.514537,46.968806,7.524537,46.978806",
     "lbl:latitude":46.973806,
     "lbl:longitude":7.519537,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.976523,
     "mps:longitude":7.523767,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:deu_x_preferred":[
-        "Flugbrunnen"
-    ],
-    "name:unk_x_variant":[
         "Flugbrunnen"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -58,14 +57,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568803,
         85633051,
         1125979963,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565423100,
+    "wof:lastmodified":1566639428,
     "wof:name":"Flugbrunnen",
     "wof:parent_id":1125979963,
     "wof:placetype":"neighbourhood",

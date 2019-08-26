@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"9.00209,47.56257,9.01209,47.57257",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Burg"
     ],
@@ -101,12 +104,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404569405,
         85633051,
         1226682515,
-        102062869
+        102062869,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1394409299,
-    "wof:lastmodified":1565437421,
+    "wof:lastmodified":1566640274,
     "wof:name":"Burg",
     "wof:parent_id":1226682515,
     "wof:placetype":"neighbourhood",

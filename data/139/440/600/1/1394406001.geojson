@@ -9,15 +9,17 @@
     "geom:bbox":"8.67993,47.4688,8.67993,47.4688",
     "geom:latitude":47.4688,
     "geom:longitude":8.67993,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":13,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":13,
     "iso:country":"CH",
+    "lbl:bbox":"8.67493,47.4638,8.68493,47.4738",
     "lbl:latitude":47.4688,
     "lbl:longitude":8.67993,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Moos"
@@ -70,15 +72,15 @@
     "qs_pg:qs_id":620718,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570707,
         85633051,
         1125884635,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":1394406001,
-    "wof:lastmodified":1565437194,
+    "wof:lastmodified":1566640248,
     "wof:name":"Moos",
     "wof:parent_id":1125884635,
     "wof:placetype":"neighbourhood",

@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":46.503657,
     "lbl:longitude":8.942422,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.503657,
     "mps:longitude":8.942422,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:als_x_preferred":[
         "Blenio"
     ],
@@ -137,7 +140,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2401,
     "wof:belongsto":[
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":102063035,
-    "wof:lastmodified":1565422177,
+    "wof:lastmodified":1566639361,
     "wof:name":"Blenio",
     "wof:parent_id":85682269,
     "wof:placetype":"county",

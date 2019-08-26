@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.60858,46.28212,8.61858,46.29212",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:cat_x_preferred":[
         "Rotonda"
     ],
@@ -67,20 +70,19 @@
         "\u0420\u043e\u0442\u043e\u043d\u0434\u0430"
     ],
     "name:und_x_variant":[
-        "Rotunda",
-        "Rotonda"
+        "Rotunda"
     ],
     "name:uzb_x_preferred":[
         "Rotonda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567787,
         85633051,
         1125771231,
-        102062957
+        102062957,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":1394399807,
-    "wof:lastmodified":1565442429,
+    "wof:lastmodified":1566640764,
     "wof:name":"Rotonda",
     "wof:parent_id":1125771231,
     "wof:placetype":"neighbourhood",

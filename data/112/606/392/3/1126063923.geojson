@@ -9,20 +9,22 @@
     "geom:bbox":"8.70215,47.4789,8.70215,47.4789",
     "geom:latitude":47.4789,
     "geom:longitude":8.70215,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":8672,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":8672,
     "iso:country":"CH",
+    "lbl:bbox":"8.69715,47.4739,8.70715,47.4839",
     "lbl:latitude":47.4789,
     "lbl:longitude":8.70215,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "T\u00f6ss (Kreis 4)"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Winterthur T\u00f6ss"
     ],
     "qs_pg:aaroncc":"CH",
@@ -37,15 +39,15 @@
     "qs_pg:qs_id":92336,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404567873,
         85633051,
         101748461,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1126063923,
-    "wof:lastmodified":1565460439,
+    "wof:lastmodified":1566642206,
     "wof:name":"T\u00f6ss (Kreis 4)",
     "wof:parent_id":101748461,
     "wof:placetype":"neighbourhood",

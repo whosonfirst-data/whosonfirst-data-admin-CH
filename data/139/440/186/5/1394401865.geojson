@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"9.47717,47.02999,9.48717,47.03999",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Rheinau"
     ],
@@ -68,12 +71,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682341,
         102191581,
         404568219,
         85633051,
         1125771701,
-        102062963
+        102062963,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1394401865,
-    "wof:lastmodified":1565435180,
+    "wof:lastmodified":1566640027,
     "wof:name":"Rheinau",
     "wof:parent_id":1125771701,
     "wof:placetype":"neighbourhood",

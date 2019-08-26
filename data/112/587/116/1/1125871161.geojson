@@ -9,17 +9,19 @@
     "geom:bbox":"8.4722385,46.9144258,8.5588519,46.9798139",
     "geom:latitude":46.946,
     "geom:longitude":8.52034,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":1232,
+    "gn:country":"CH",
+    "gn:fcode":"PPLA3",
     "gn:population":1232,
     "iso:country":"CH",
     "lbl:latitude":46.95658,
     "lbl:longitude":8.51467,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.946,
     "mps:longitude":8.52034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Emmetten"
@@ -105,7 +107,7 @@
     "name:swe_x_preferred":[
         "Emmetten"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Emmeuen"
     ],
     "name:uzb_x_preferred":[
@@ -182,7 +184,7 @@
         }
     ],
     "wof:id":1125871161,
-    "wof:lastmodified":1565458260,
+    "wof:lastmodified":1566642013,
     "wof:name":"Emmetten",
     "wof:parent_id":404328209,
     "wof:placetype":"locality",

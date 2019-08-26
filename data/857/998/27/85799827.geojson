@@ -15,6 +15,7 @@
     "iso:country":"CH",
     "lbl:latitude":47.537587,
     "lbl:longitude":7.569517,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.538585,
     "mps:longitude":7.558567,
     "mz:hierarchy_label":1,
@@ -122,9 +123,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043d\u043d\u0456\u043d\u0433\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Binningen"
-    ],
     "name:uzb_x_preferred":[
         "Binningen"
     ],
@@ -169,22 +167,21 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":2376,
     "wof:belongsto":[
-        85682361,
         102191581,
         404571475,
         85633051,
         1394290481,
-        102062971
+        102062971,
+        85682361
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2661499,
         "gp:id":781825,
-        "qs:id":484188,
         "qs_pg:id":484188,
         "wd:id":"Q69621",
         "wk:page":"Binningen, Switzerland"
@@ -206,7 +203,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565423065,
+    "wof:lastmodified":1566639423,
     "wof:name":"Binningen",
     "wof:parent_id":1394290481,
     "wof:placetype":"neighbourhood",

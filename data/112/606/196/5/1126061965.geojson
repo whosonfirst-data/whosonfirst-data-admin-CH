@@ -9,25 +9,23 @@
     "geom:bbox":"8.50126,47.4626,8.50126,47.4626",
     "geom:latitude":47.4626,
     "geom:longitude":8.50126,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":27,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":27,
     "iso:country":"CH",
     "lbl:latitude":47.4626,
     "lbl:longitude":8.50126,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sandrain"
     ],
     "name:eng_x_variant":[
         "Oberhasli / Sandrain"
-    ],
-    "name:unk_x_variant":[
-        "Sandrain"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -41,15 +39,15 @@
     "qs_pg:qs_id":618198,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569487,
         85633051,
         1125863329,
-        102062995
+        102062995,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +69,7 @@
         }
     ],
     "wof:id":1126061965,
-    "wof:lastmodified":1565460451,
+    "wof:lastmodified":1566642207,
     "wof:name":"Sandrain",
     "wof:parent_id":1125863329,
     "wof:placetype":"neighbourhood",

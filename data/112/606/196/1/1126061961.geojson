@@ -9,24 +9,23 @@
     "geom:bbox":"8.50429,47.48672,8.50429,47.48672",
     "geom:latitude":47.48672,
     "geom:longitude":8.50429,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":34,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":34,
     "iso:country":"CH",
+    "lbl:bbox":"8.49929,47.48172,8.50929,47.49172",
     "lbl:latitude":47.48672,
     "lbl:longitude":8.50429,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "S\u00fcdstrasse"
     ],
     "name:eng_x_variant":[
         "Niederglatt / S\u00fcdstrasse"
-    ],
-    "name:unk_x_variant":[
-        "S\u00fcdstrasse"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":618175,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571875,
         85633051,
         1125851767,
-        102062995
+        102062995,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126061961,
-    "wof:lastmodified":1565460450,
+    "wof:lastmodified":1566642207,
     "wof:name":"S\u00fcdstrasse",
     "wof:parent_id":1125851767,
     "wof:placetype":"neighbourhood",

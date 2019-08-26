@@ -9,17 +9,19 @@
     "geom:bbox":"8.6864202,47.0224519,8.7446908,47.0913637",
     "geom:latitude":47.057795,
     "geom:longitude":8.714523,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":559,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":559,
     "iso:country":"CH",
     "lbl:latitude":47.06954,
     "lbl:longitude":8.71602,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":47.057795,
     "mps:longitude":8.714523,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Alpthal"
@@ -90,7 +92,7 @@
     "name:swe_x_preferred":[
         "Alpthal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alptal"
     ],
     "name:uzb_x_preferred":[
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":1125911873,
-    "wof:lastmodified":1565459477,
+    "wof:lastmodified":1566642117,
     "wof:name":"Alpthal",
     "wof:parent_id":404568479,
     "wof:placetype":"locality",

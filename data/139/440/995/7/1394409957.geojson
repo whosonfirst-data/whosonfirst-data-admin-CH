@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.8088,47.69169,8.8188,47.70169",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Wilen"
     ],
@@ -104,12 +107,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682285,
         102191581,
         404328359,
         85633051,
         1125827155,
-        1394298251
+        1394298251,
+        85682285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1394409957,
-    "wof:lastmodified":1565435485,
+    "wof:lastmodified":1566640061,
     "wof:name":"Wilen",
     "wof:parent_id":1125827155,
     "wof:placetype":"neighbourhood",

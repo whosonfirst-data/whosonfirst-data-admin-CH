@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.704754,
     "lbl:longitude":8.856038,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.745612,
     "mps:longitude":8.848121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0633\u064a\u0646\u062a\u064a\u0633"
     ],
@@ -166,10 +169,12 @@
     "wof:concordances":{
         "gn:id":2661009,
         "gp:id":782245,
-        "qs:id":847027,
-        "qs_pg:id":1152933,
+        "qs_pg:id":847027,
         "wd:id":"Q68347",
         "wk:page":"Disentis"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1152933
     },
     "wof:country":"CH",
     "wof:geomhash":"9387dca06e50e3e9d63b3588e0fa0e84",
@@ -184,7 +189,7 @@
         }
     ],
     "wof:id":101853969,
-    "wof:lastmodified":1565444023,
+    "wof:lastmodified":1566640952,
     "wof:name":"Disentis/Must\u00e9r",
     "wof:parent_id":404567815,
     "wof:placetype":"locality",

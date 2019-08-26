@@ -9,24 +9,23 @@
     "geom:bbox":"8.67834,47.37096,8.67834,47.37096",
     "geom:latitude":47.37096,
     "geom:longitude":8.67834,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":242,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":242,
     "iso:country":"CH",
+    "lbl:bbox":"8.67334,47.36596,8.68334,47.37596",
     "lbl:latitude":47.37096,
     "lbl:longitude":8.67834,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sandacher"
     ],
     "name:eng_x_variant":[
         "Greifensee / Sandacher"
-    ],
-    "name:unk_x_variant":[
-        "Sandacher"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":620495,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571561,
         85633051,
         1125897361,
-        1394212863
+        1394212863,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126062905,
-    "wof:lastmodified":1565460717,
+    "wof:lastmodified":1566642231,
     "wof:name":"Sandacher",
     "wof:parent_id":1125897361,
     "wof:placetype":"neighbourhood",

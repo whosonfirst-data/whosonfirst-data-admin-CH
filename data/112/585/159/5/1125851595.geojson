@@ -9,17 +9,19 @@
     "geom:bbox":"9.0537139,46.2129781,9.1244934,46.3076427",
     "geom:latitude":46.252464,
     "geom:longitude":9.088288,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":733,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":733,
     "iso:country":"CH",
     "lbl:latitude":46.23922,
     "lbl:longitude":9.10641,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.252464,
     "mps:longitude":9.088288,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "San Vittore"
@@ -95,9 +97,6 @@
     ],
     "name:swe_x_preferred":[
         "San Vittore"
-    ],
-    "name:unk_x_variant":[
-        "S. Vittore"
     ],
     "name:uzb_x_preferred":[
         "San Vittore"
@@ -176,7 +175,7 @@
         }
     ],
     "wof:id":1125851595,
-    "wof:lastmodified":1565461888,
+    "wof:lastmodified":1566642338,
     "wof:name":"S. Vittore",
     "wof:parent_id":404568631,
     "wof:placetype":"locality",

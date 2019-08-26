@@ -9,15 +9,17 @@
     "geom:bbox":"8.85494,47.31405,8.85494,47.31405",
     "geom:latitude":47.31405,
     "geom:longitude":8.85494,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":200,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":200,
     "iso:country":"CH",
+    "lbl:bbox":"8.84994,47.30905,8.85994,47.31905",
     "lbl:latitude":47.31405,
     "lbl:longitude":8.85494,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fra_x_preferred":[
         "Ringwil"
@@ -42,19 +44,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20103843,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568503,
         85633051,
         101854405,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1394407859,
-    "wof:lastmodified":1565435010,
+    "wof:lastmodified":1566640008,
     "wof:name":"Ringwil",
     "wof:parent_id":101854405,
     "wof:placetype":"neighbourhood",

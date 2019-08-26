@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"9.00335,45.87212,9.01335,45.88212",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Caviano"
     ],
@@ -62,12 +65,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404569315,
         85633051,
         1125817879,
-        102063063
+        102063063,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1394403559,
-    "wof:lastmodified":1565433347,
+    "wof:lastmodified":1566639824,
     "wof:name":"Caviano",
     "wof:parent_id":1125817879,
     "wof:placetype":"neighbourhood",

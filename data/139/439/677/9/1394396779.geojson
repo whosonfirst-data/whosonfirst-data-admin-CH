@@ -9,15 +9,17 @@
     "geom:bbox":"8.81092,47.62487,8.81092,47.62487",
     "geom:latitude":47.62487,
     "geom:longitude":8.81092,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":9,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":9,
     "iso:country":"CH",
+    "lbl:bbox":"8.80592,47.61987,8.81592,47.62987",
     "lbl:latitude":47.62487,
     "lbl:longitude":8.81092,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Lindenhof"
@@ -46,15 +48,15 @@
     "qs_pg:qs_id":617633,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254219,
         85633051,
         1394289121,
-        102062801
+        102062801,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1394396779,
-    "wof:lastmodified":1565581691,
+    "wof:lastmodified":1566640710,
     "wof:name":"Lindenhof",
     "wof:parent_id":1394289121,
     "wof:placetype":"neighbourhood",

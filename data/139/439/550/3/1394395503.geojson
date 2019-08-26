@@ -9,15 +9,17 @@
     "geom:bbox":"8.64752,47.18304,8.64752,47.18304",
     "geom:latitude":47.18304,
     "geom:longitude":8.64752,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":17,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":17,
     "iso:country":"CH",
+    "lbl:bbox":"8.64252,47.17804,8.65252,47.18804",
     "lbl:latitude":47.18304,
     "lbl:longitude":8.64752,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Gschwend"
@@ -40,15 +42,15 @@
     "qs_pg:qs_id":619431,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394253971,
         85633051,
         1125773725,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1394395503,
-    "wof:lastmodified":1565581440,
+    "wof:lastmodified":1566640501,
     "wof:name":"Gschwend",
     "wof:parent_id":1125773725,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":6.601319,
     "gn:id":"",
     "iso:country":"CH",
+    "lbl:bbox":"6.596319,46.516512,6.606319,46.526512",
     "lbl:latitude":46.521512,
     "lbl:longitude":6.601319,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.52202,
     "mps:longitude":6.600047,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:fra_x_preferred":[
-        "Bois de Vaux"
-    ],
-    "name:unk_x_variant":[
         "Bois de Vaux"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682325,
         102191581,
         404567693,
         85633051,
         101748449,
-        102063021
+        102063021,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20100978,
-        "qs:id":430871,
         "qs_pg:id":430871
     },
     "wof:country":"CH",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428562,
+    "wof:lastmodified":1566639471,
     "wof:name":"Bois de Vaux",
     "wof:parent_id":101748449,
     "wof:placetype":"neighbourhood",

@@ -9,24 +9,23 @@
     "geom:bbox":"8.47192,47.42923,8.47192,47.42923",
     "geom:latitude":47.42923,
     "geom:longitude":8.47192,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":401,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":401,
     "iso:country":"CH",
+    "lbl:bbox":"8.46692,47.42423,8.47692,47.43423",
     "lbl:latitude":47.42923,
     "lbl:longitude":8.47192,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hofwiesen"
     ],
     "name:eng_x_variant":[
         "Regensdorf / Hofwiesen"
-    ],
-    "name:unk_x_variant":[
-        "Hofwiesen"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":618278,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568953,
         85633051,
         101854445,
-        102062995
+        102062995,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126062043,
-    "wof:lastmodified":1565460253,
+    "wof:lastmodified":1566642190,
     "wof:name":"Hofwiesen",
     "wof:parent_id":101854445,
     "wof:placetype":"neighbourhood",

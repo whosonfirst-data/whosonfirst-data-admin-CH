@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.45481,47.65215,8.46481,47.66215",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:bre_x_preferred":[
         "Blomberg"
     ],
@@ -80,12 +83,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682285,
         102191581,
         404328259,
         85633051,
         1125900499,
-        1394137101
+        1394137101,
+        85682285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1394428453,
-    "wof:lastmodified":1565443327,
+    "wof:lastmodified":1566640869,
     "wof:name":"Blomberg",
     "wof:parent_id":1125900499,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"8.77829,47.25839,8.77829,47.25839",
     "geom:latitude":47.25839,
     "geom:longitude":8.77829,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":44,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":44,
     "iso:country":"CH",
+    "lbl:bbox":"8.77329,47.25339,8.78329,47.26339",
     "lbl:latitude":47.25839,
     "lbl:longitude":8.77829,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "L\u00fctzelsee"
@@ -46,15 +48,15 @@
     "qs_pg:qs_id":619577,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568875,
         85633051,
         101854401,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1394400983,
-    "wof:lastmodified":1565434270,
+    "wof:lastmodified":1566639927,
     "wof:name":"L\u00fctzelsee",
     "wof:parent_id":101854401,
     "wof:placetype":"neighbourhood",

@@ -9,17 +9,19 @@
     "geom:bbox":"8.2323822,46.9860154,8.3052658,47.0467427",
     "geom:latitude":47.0199,
     "geom:longitude":8.268213,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":25010,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":25010,
     "iso:country":"CH",
     "lbl:latitude":47.03537,
     "lbl:longitude":8.27631,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.0199,
     "mps:longitude":8.268213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Kriens"
@@ -138,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0456\u043d\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krienz"
     ],
     "name:uzb_x_preferred":[
@@ -215,7 +217,7 @@
         }
     ],
     "wof:id":1126023109,
-    "wof:lastmodified":1565455072,
+    "wof:lastmodified":1566641798,
     "wof:name":"Kriens",
     "wof:parent_id":404328217,
     "wof:placetype":"locality",

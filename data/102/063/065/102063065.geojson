@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":46.247087,
     "lbl:longitude":6.909079,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.247087,
     "mps:longitude":6.909079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062b\u064a"
     ],
@@ -170,7 +173,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1956,
     "wof:belongsto":[
@@ -193,7 +195,7 @@
         }
     ],
     "wof:id":102063065,
-    "wof:lastmodified":1565421274,
+    "wof:lastmodified":1566639344,
     "wof:name":"Monthey",
     "wof:parent_id":85682281,
     "wof:placetype":"county",

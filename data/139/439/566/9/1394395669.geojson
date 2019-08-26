@@ -9,15 +9,17 @@
     "geom:bbox":"8.77937,47.43383,8.77937,47.43383",
     "geom:latitude":47.43383,
     "geom:longitude":8.77937,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":3,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":3,
     "iso:country":"CH",
+    "lbl:bbox":"8.77437,47.42883,8.78437,47.43883",
     "lbl:latitude":47.43383,
     "lbl:longitude":8.77937,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Lindenberg"
@@ -73,15 +75,15 @@
     "qs_pg:qs_id":620285,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569157,
         85633051,
         1125898429,
-        102062779
+        102062779,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1394395669,
-    "wof:lastmodified":1565439902,
+    "wof:lastmodified":1566640490,
     "wof:name":"Lindenberg",
     "wof:parent_id":1125898429,
     "wof:placetype":"neighbourhood",

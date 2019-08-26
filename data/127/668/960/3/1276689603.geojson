@@ -27,10 +27,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.74191,
     "lbl:longitude":9.40535,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.748612,
     "mps:longitude":9.396498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Pr\u00e4z"
     ],
@@ -79,9 +82,6 @@
     "name:swe_x_preferred":[
         "Pr\u00e4z"
     ],
-    "name:und_x_variant":[
-        "Pr\u00e4z"
-    ],
     "name:uzb_x_preferred":[
         "Pr\u00e4z"
     ],
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":1276689603,
-    "wof:lastmodified":1565429795,
+    "wof:lastmodified":1566639562,
     "wof:name":"Pr\u00e4z",
     "wof:parent_id":404568257,
     "wof:placetype":"locality",

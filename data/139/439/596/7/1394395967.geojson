@@ -9,14 +9,17 @@
     "geom:bbox":"9.58171,46.60977,9.58171,46.60977",
     "geom:latitude":46.60977,
     "geom:longitude":9.58171,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"9.57671,46.60477,9.58671,46.61477",
     "lbl:latitude":46.60977,
     "lbl:longitude":9.58171,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_historical":[
         "Reams"
@@ -39,9 +42,6 @@
     "name:roh_x_preferred":[
         "Riom"
     ],
-    "name:unk_x_variant":[
-        "Riom"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPL",
@@ -61,18 +61,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":783827,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         1394253983,
         85633051,
         1394290601,
-        102062885
+        102062885,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1394395967,
-    "wof:lastmodified":1565581392,
+    "wof:lastmodified":1566640665,
     "wof:name":"Reams",
     "wof:parent_id":1394290601,
     "wof:placetype":"neighbourhood",

@@ -9,12 +9,15 @@
     "geom:bbox":"8.374478,47.394263,8.374478,47.394263",
     "geom:latitude":47.394263,
     "geom:longitude":8.374478,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CH",
+    "lbl:bbox":"8.369478,47.389263,8.379478,47.399263",
     "lbl:latitude":47.394263,
     "lbl:longitude":8.374478,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Bernold d'Utrecht"
@@ -40,18 +43,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":28996793,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682329,
         102191581,
         404570929,
         85633051,
         1125871143,
-        102062843
+        102062843,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1394406373,
-    "wof:lastmodified":1565436867,
+    "wof:lastmodified":1566640211,
     "wof:name":"Bernold",
     "wof:parent_id":1125871143,
     "wof:placetype":"neighbourhood",

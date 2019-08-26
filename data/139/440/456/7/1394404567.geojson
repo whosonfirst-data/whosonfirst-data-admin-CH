@@ -9,15 +9,17 @@
     "geom:bbox":"8.4993,47.27681,8.4993,47.27681",
     "geom:latitude":47.27681,
     "geom:longitude":8.4993,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":1,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":1,
     "iso:country":"CH",
+    "lbl:bbox":"8.4943,47.27181,8.5043,47.28181",
     "lbl:latitude":47.27681,
     "lbl:longitude":8.4993,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Seehof"
@@ -64,15 +66,15 @@
     "qs_pg:qs_id":617172,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570297,
         85633051,
         1394297339,
-        102062775
+        102062775,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":1394404567,
-    "wof:lastmodified":1565436799,
+    "wof:lastmodified":1566640203,
     "wof:name":"Seehof",
     "wof:parent_id":1394297339,
     "wof:placetype":"neighbourhood",

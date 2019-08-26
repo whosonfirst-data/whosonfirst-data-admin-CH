@@ -25,8 +25,11 @@
     "gn:population":9,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.7854,47.25928,8.7954,47.26928",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Engelberg"
     ],
@@ -135,12 +138,12 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569421,
         85633051,
         1125950163,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":1394401045,
-    "wof:lastmodified":1565432875,
+    "wof:lastmodified":1566639772,
     "wof:name":"Engelberg",
     "wof:parent_id":1125950163,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":45.996937,
     "lbl:longitude":8.898325,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.000588,
     "mps:longitude":8.902693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Agno TI"
     ],
@@ -148,10 +151,12 @@
         "fct:id":"06a64750-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2661836,
         "gp:id":781553,
-        "qs:id":182473,
-        "qs_pg:id":1061527,
+        "qs_pg:id":182473,
         "wd:id":"Q67109",
         "wk:page":"Agno, Ticino"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1061527
     },
     "wof:coterminous":[
         404572355
@@ -172,7 +177,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1565443831,
+    "wof:lastmodified":1566640928,
     "wof:name":"Agno",
     "wof:parent_id":404572355,
     "wof:placetype":"locality",

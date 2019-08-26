@@ -9,16 +9,19 @@
     "geom:bbox":"8.1834352,46.4080355,8.3136942,46.5138797",
     "geom:latitude":46.453638,
     "geom:longitude":8.261927,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
     "lbl:latitude":46.46989,
     "lbl:longitude":8.24164,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.453638,
     "mps:longitude":8.261927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Reckingen-Gluringen"
@@ -82,9 +85,6 @@
         "Reckingen-Gluringen"
     ],
     "name:swe_x_preferred":[
-        "Reckingen-Gluringen"
-    ],
-    "name:unk_x_variant":[
         "Reckingen-Gluringen"
     ],
     "name:vol_x_preferred":[
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":1125881871,
-    "wof:lastmodified":1565581760,
+    "wof:lastmodified":1566641929,
     "wof:name":"Reckingen",
     "wof:parent_id":1394254117,
     "wof:placetype":"locality",

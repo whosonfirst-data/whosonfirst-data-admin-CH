@@ -9,15 +9,17 @@
     "geom:bbox":"8.8486,47.48007,8.8486,47.48007",
     "geom:latitude":47.48007,
     "geom:longitude":8.8486,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":20,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":20,
     "iso:country":"CH",
+    "lbl:bbox":"8.8436,47.47507,8.8536,47.48507",
     "lbl:latitude":47.48007,
     "lbl:longitude":8.8486,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Steig"
@@ -34,15 +36,15 @@
     "qs_pg:qs_id":620848,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254209,
         85633051,
         1125922929,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":1394403573,
-    "wof:lastmodified":1565581791,
+    "wof:lastmodified":1566640068,
     "wof:name":"Steig",
     "wof:parent_id":1125922929,
     "wof:placetype":"neighbourhood",

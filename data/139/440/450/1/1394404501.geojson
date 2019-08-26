@@ -9,15 +9,17 @@
     "geom:bbox":"8.87916,47.37021,8.87916,47.37021",
     "geom:latitude":47.37021,
     "geom:longitude":8.87916,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":3,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":3,
     "iso:country":"CH",
+    "lbl:bbox":"8.87416,47.36521,8.88416,47.37521",
     "lbl:latitude":47.37021,
     "lbl:longitude":8.87916,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Sommerau"
@@ -97,15 +99,15 @@
     "qs_pg:qs_id":619992,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254131,
         85633051,
         101854427,
-        102062779
+        102062779,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":1394404501,
-    "wof:lastmodified":1565581489,
+    "wof:lastmodified":1566640230,
     "wof:name":"Sommerau",
     "wof:parent_id":101854427,
     "wof:placetype":"neighbourhood",

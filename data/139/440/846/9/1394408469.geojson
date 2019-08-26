@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.69473,46.12436,8.70473,46.13436",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u067e\u0631\u06cc\u0627"
     ],
@@ -137,12 +140,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404573575,
         85633051,
         101853213,
-        102062975
+        102062975,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":1394408469,
-    "wof:lastmodified":1565436089,
+    "wof:lastmodified":1566640127,
     "wof:name":"Esperia",
     "wof:parent_id":101853213,
     "wof:placetype":"neighbourhood",

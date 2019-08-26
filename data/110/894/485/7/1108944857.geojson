@@ -10,8 +10,10 @@
     "geom:latitude":46.972321,
     "geom:longitude":7.443516,
     "iso:country":"CH",
+    "lbl:bbox":"7.43851643599,46.9673207336,7.44851643599,46.9773207336",
     "lbl:latitude":46.972321,
     "lbl:longitude":7.443516,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -21,14 +23,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682381,
         102191581,
         1394254007,
         85633051,
         101748453,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +53,7 @@
         }
     ],
     "wof:id":1108944857,
-    "wof:lastmodified":1565431480,
+    "wof:lastmodified":1566639669,
     "wof:name":"Felsenau",
     "wof:parent_id":101748453,
     "wof:placetype":"neighbourhood",

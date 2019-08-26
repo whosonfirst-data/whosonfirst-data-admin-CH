@@ -12,10 +12,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.411712,
     "lbl:longitude":9.251598,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.417608,
     "mps:longitude":9.249359,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Gossau"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Gossau"
     ],
-    "name:unk_x_variant":[
-        "Gossau"
-    ],
     "name:zho_x_preferred":[
         "\u6208\u7d39"
     ],
@@ -124,7 +124,9 @@
     "wof:concordances":{
         "gn:id":2660549,
         "gp:id":782607,
-        "qs:id":2,
+        "qs_pg:id":2
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1960
     },
     "wof:country":"CH",
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101876009,
-    "wof:lastmodified":1565443887,
+    "wof:lastmodified":1566640934,
     "wof:name":"Gossau",
     "wof:parent_id":404568327,
     "wof:placetype":"locality",

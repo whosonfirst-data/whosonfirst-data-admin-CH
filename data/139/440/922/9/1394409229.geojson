@@ -9,20 +9,22 @@
     "geom:bbox":"8.74499,46.22637,8.74499,46.22637",
     "geom:latitude":46.22637,
     "geom:longitude":8.74499,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":818,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":818,
     "iso:country":"CH",
+    "lbl:bbox":"8.73999,46.22137,8.74999,46.23137",
     "lbl:latitude":46.22637,
     "lbl:longitude":8.74499,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ita_x_preferred":[
         "Gordemo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gordevio"
     ],
     "qs_pg:aaroncc":"CH",
@@ -46,19 +48,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20101915,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404568331,
         85633051,
         1125936749,
-        102062957
+        102062957,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":1394409229,
-    "wof:lastmodified":1565435253,
+    "wof:lastmodified":1566640034,
     "wof:name":"Gordemo",
     "wof:parent_id":1125936749,
     "wof:placetype":"neighbourhood",

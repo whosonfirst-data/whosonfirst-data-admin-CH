@@ -9,14 +9,17 @@
     "geom:bbox":"9.54064,46.71264,9.54064,46.71264",
     "geom:latitude":46.71264,
     "geom:longitude":9.54064,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"9.53564,46.70764,9.54564,46.71764",
     "lbl:latitude":46.71264,
     "lbl:longitude":9.54064,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:roh_x_preferred":[
         "Sporz"
@@ -40,18 +43,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":784246,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568091,
         85633051,
         1394296679,
-        102062885
+        102062885,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1394410103,
-    "wof:lastmodified":1565439461,
+    "wof:lastmodified":1566640447,
     "wof:name":"Sporz",
     "wof:parent_id":1394296679,
     "wof:placetype":"neighbourhood",

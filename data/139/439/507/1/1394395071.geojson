@@ -9,14 +9,17 @@
     "geom:bbox":"10.03333,46.33333,10.03333,46.33333",
     "geom:latitude":46.33333,
     "geom:longitude":10.03333,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"10.02833,46.32833,10.03833,46.33833",
     "lbl:latitude":46.33333,
     "lbl:longitude":10.03333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "San Carlo"
@@ -54,7 +57,7 @@
     "name:swe_x_preferred":[
         "San Carlo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aion"
     ],
     "qs_pg:aaroncc":"CH",
@@ -78,18 +81,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":784016,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567719,
         85633051,
         101853965,
-        102062777
+        102062777,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1394395071,
-    "wof:lastmodified":1565441444,
+    "wof:lastmodified":1566640659,
     "wof:name":"San Carlo",
     "wof:parent_id":101853965,
     "wof:placetype":"neighbourhood",

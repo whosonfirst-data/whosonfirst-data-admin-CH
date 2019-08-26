@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.29496,
     "lbl:longitude":7.880608,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.2913,
     "mps:longitude":7.869814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Visp"
     ],
@@ -184,10 +187,12 @@
     "wof:concordances":{
         "gn:id":2658112,
         "gp:id":784605,
-        "qs:id":189579,
-        "qs_pg:id":1152959,
+        "qs_pg:id":189579,
         "wd:id":"Q64147",
         "wk:page":"Visp"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1152959
     },
     "wof:country":"CH",
     "wof:geomhash":"b65642571cca9ff5b3e01c61bd63bbd4",
@@ -202,7 +207,7 @@
         }
     ],
     "wof:id":101874797,
-    "wof:lastmodified":1565443747,
+    "wof:lastmodified":1566640915,
     "wof:name":"Visp",
     "wof:parent_id":404569115,
     "wof:placetype":"locality",

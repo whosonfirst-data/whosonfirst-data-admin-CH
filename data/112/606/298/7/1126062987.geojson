@@ -9,24 +9,23 @@
     "geom:bbox":"8.77969,47.57352,8.77969,47.57352",
     "geom:latitude":47.57352,
     "geom:longitude":8.77969,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":442,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":442,
     "iso:country":"CH",
+    "lbl:bbox":"8.77469,47.56852,8.78469,47.57852",
     "lbl:latitude":47.57352,
     "lbl:longitude":8.77969,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Altikon (Dorf)"
     ],
     "name:eng_x_variant":[
         "Altikon / Altikon (Dorf)"
-    ],
-    "name:unk_x_variant":[
-        "Altikon (Dorf)"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":620662,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570389,
         85633051,
         1125890061,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126062987,
-    "wof:lastmodified":1565460640,
+    "wof:lastmodified":1566642224,
     "wof:name":"Altikon (Dorf)",
     "wof:parent_id":1125890061,
     "wof:placetype":"neighbourhood",

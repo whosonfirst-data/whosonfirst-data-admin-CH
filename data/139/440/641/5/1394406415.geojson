@@ -9,14 +9,17 @@
     "geom:bbox":"7.95096,46.70441,7.95096,46.70441",
     "geom:latitude":46.70441,
     "geom:longitude":7.95096,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"7.94596,46.69941,7.95596,46.70941",
     "lbl:latitude":46.70441,
     "lbl:longitude":7.95096,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Rengg"
@@ -48,18 +51,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20103771,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Obwalden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568453,
         85633051,
         1125793423,
-        102062759
+        102062759,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1394406415,
-    "wof:lastmodified":1565436571,
+    "wof:lastmodified":1566640179,
     "wof:name":"Rengg",
     "wof:parent_id":1125793423,
     "wof:placetype":"neighbourhood",

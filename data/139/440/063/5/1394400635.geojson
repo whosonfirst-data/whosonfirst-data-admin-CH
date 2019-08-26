@@ -26,8 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.319,47.37812,8.329,47.38812",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Sulz"
     ],
@@ -69,12 +72,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682329,
         102191581,
         404571295,
         85633051,
         1126007299,
-        102062843
+        102062843,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1394400635,
-    "wof:lastmodified":1565434532,
+    "wof:lastmodified":1566639955,
     "wof:name":"Sulz",
     "wof:parent_id":1126007299,
     "wof:placetype":"neighbourhood",

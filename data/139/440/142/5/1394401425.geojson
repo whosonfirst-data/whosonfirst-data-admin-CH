@@ -9,24 +9,23 @@
     "geom:bbox":"8.61952,47.27714,8.61952,47.27714",
     "geom:latitude":47.27714,
     "geom:longitude":8.61952,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":19,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":19,
     "iso:country":"CH",
+    "lbl:bbox":"8.61452,47.27214,8.62452,47.28214",
     "lbl:latitude":47.27714,
     "lbl:longitude":8.61952,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Mariafeld"
     ],
     "name:eng_x_variant":[
         "Feldmeilen / Mariafeld"
-    ],
-    "name:unk_x_variant":[
-        "Mariafeld"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":619686,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568775,
         85633051,
         101854399,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1394401425,
-    "wof:lastmodified":1565434905,
+    "wof:lastmodified":1566639996,
     "wof:name":"Mariafeld",
     "wof:parent_id":101854399,
     "wof:placetype":"neighbourhood",

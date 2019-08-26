@@ -11,8 +11,10 @@
     "geom:longitude":8.042605,
     "gn:population":3762,
     "iso:country":"CH",
+    "lbl:bbox":"8.037605,47.389946,8.047605,47.399946",
     "lbl:latitude":47.394946,
     "lbl:longitude":8.042605,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.407045,
     "mps:longitude":8.013732,
     "mz:hierarchy_label":0,
@@ -102,9 +104,6 @@
     "name:swe_x_preferred":[
         "Erlinsbach"
     ],
-    "name:unk_x_variant":[
-        "Erlinsbach"
-    ],
     "name:uzb_x_preferred":[
         "Erlinsbach"
     ],
@@ -144,22 +143,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":937,
     "wof:belongsto":[
-        85682329,
         102191581,
         404569227,
         85633051,
         101854331,
-        102062989
+        102062989,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7285754,
         "gp:id":15001059,
-        "qs:id":1085788,
         "qs_pg:id":1085788,
         "wd:id":"Q65415",
         "wk:page":"Erlinsbach, Aargau"
@@ -181,7 +179,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428489,
+    "wof:lastmodified":1566639458,
     "wof:name":"Erlinsbach",
     "wof:parent_id":101854331,
     "wof:placetype":"neighbourhood",

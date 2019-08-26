@@ -9,24 +9,23 @@
     "geom:bbox":"8.51972,47.5739,8.51972,47.5739",
     "geom:latitude":47.5739,
     "geom:longitude":8.51972,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":347,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":347,
     "iso:country":"CH",
+    "lbl:bbox":"8.51472,47.5689,8.52472,47.5789",
     "lbl:latitude":47.5739,
     "lbl:longitude":8.51972,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Mettlen"
     ],
     "name:eng_x_variant":[
         "Seglingen / Mettlen"
-    ],
-    "name:unk_x_variant":[
-        "Mettlen"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":617824,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569993,
         85633051,
         101854387,
-        102063019
+        102063019,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126061861,
-    "wof:lastmodified":1565460385,
+    "wof:lastmodified":1566642201,
     "wof:name":"Mettlen",
     "wof:parent_id":101854387,
     "wof:placetype":"neighbourhood",

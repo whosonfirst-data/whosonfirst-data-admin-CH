@@ -9,14 +9,17 @@
     "geom:bbox":"7.96957,47.31837,7.96957,47.31837",
     "geom:latitude":47.31837,
     "geom:longitude":7.96957,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"7.96457,47.31337,7.97457,47.32337",
     "lbl:latitude":47.31837,
     "lbl:longitude":7.96957,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Spiegel"
@@ -72,18 +75,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":23405929,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85682329,
         102191581,
         404570915,
         85633051,
         101854337,
-        102062851
+        102062851,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1126105721,
-    "wof:lastmodified":1565452873,
+    "wof:lastmodified":1566641700,
     "wof:name":"Spiegel",
     "wof:parent_id":101854337,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":7.416686,
     "gn:elevation":630,
     "iso:country":"CH",
+    "lbl:bbox":"7.411686,46.91084,7.421686,46.92084",
     "lbl:latitude":46.91584,
     "lbl:longitude":7.416686,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.902051,
     "mps:longitude":7.421835,
     "mz:hierarchy_label":0,
@@ -57,9 +59,6 @@
     "name:spa_x_preferred":[
         "K\u00f6niz"
     ],
-    "name:unk_x_variant":[
-        "Schliern"
-    ],
     "qs:gn_adm0_cc":"CH",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2660119,
@@ -90,20 +89,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567993,
         85633051,
         1125851419,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7669414,
         "gp:id":784095,
-        "qs:id":1065759,
         "qs_pg:id":1065759
     },
     "wof:country":"CH",
@@ -123,7 +121,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428612,
+    "wof:lastmodified":1566639477,
     "wof:name":"Schliern",
     "wof:parent_id":1125851419,
     "wof:placetype":"neighbourhood",

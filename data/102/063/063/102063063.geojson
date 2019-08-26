@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":45.873978,
     "lbl:longitude":8.988621,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.873978,
     "mps:longitude":8.988621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:als_x_preferred":[
         "Mendrisio"
     ],
@@ -137,7 +140,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":102063063,
-    "wof:lastmodified":1565421394,
+    "wof:lastmodified":1566639347,
     "wof:name":"Mendrisio",
     "wof:parent_id":85682269,
     "wof:placetype":"county",

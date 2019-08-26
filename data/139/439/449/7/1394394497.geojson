@@ -9,14 +9,17 @@
     "geom:bbox":"8.58611,46.98724,8.58611,46.98724",
     "geom:latitude":46.98724,
     "geom:longitude":8.58611,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"8.58111,46.98224,8.59111,46.99224",
     "lbl:latitude":46.98724,
     "lbl:longitude":8.58611,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Treib"
@@ -54,18 +57,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":784428,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Uri",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682377,
         102191581,
         404328279,
         85633051,
         1125981895,
-        102062879
+        102062879,
+        85682377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1394394497,
-    "wof:lastmodified":1565440219,
+    "wof:lastmodified":1566640527,
     "wof:name":"Treib",
     "wof:parent_id":1125981895,
     "wof:placetype":"neighbourhood",

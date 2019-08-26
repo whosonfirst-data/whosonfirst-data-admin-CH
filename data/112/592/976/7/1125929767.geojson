@@ -9,17 +9,19 @@
     "geom:bbox":"9.1678222,46.7439816,9.2174251,46.7665531",
     "geom:latitude":46.754791,
     "geom:longitude":9.190603,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":234,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":234,
     "iso:country":"CH",
     "lbl:latitude":46.76112,
     "lbl:longitude":9.19853,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.754791,
     "mps:longitude":9.190603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0443\u0432\u0435\u043d"
@@ -85,9 +87,6 @@
         "Luven"
     ],
     "name:swe_x_preferred":[
-        "Luven"
-    ],
-    "name:unk_x_variant":[
         "Luven"
     ],
     "name:uzb_x_preferred":[
@@ -162,7 +161,7 @@
         }
     ],
     "wof:id":1125929767,
-    "wof:lastmodified":1565581749,
+    "wof:lastmodified":1566641669,
     "wof:name":"Luven",
     "wof:parent_id":1394254103,
     "wof:placetype":"locality",

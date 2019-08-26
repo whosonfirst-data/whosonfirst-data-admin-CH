@@ -25,9 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "name:ady_x_preferred":[
         "\u041e\u0449\u0445\u044b"
     ],
@@ -489,12 +491,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567761,
         85633051,
         1125796485,
-        102062831
+        102062831,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -514,7 +516,7 @@
         }
     ],
     "wof:id":1394405981,
-    "wof:lastmodified":1565436006,
+    "wof:lastmodified":1566640118,
     "wof:name":"Rain",
     "wof:parent_id":1125796485,
     "wof:placetype":"neighbourhood",

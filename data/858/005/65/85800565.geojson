@@ -9,13 +9,13 @@
     "geom:bbox":"8.58032226563,47.3672974118,8.63346860924,47.3946304339",
     "geom:latitude":47.382109,
     "geom:longitude":8.603456,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":164,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":164,
     "iso:country":"CH",
     "lbl:latitude":47.383575,
     "lbl:longitude":8.587229,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.382543,
     "mps:longitude":8.599575,
     "mz:hierarchy_label":1,
@@ -29,9 +29,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:deu_x_preferred":[
-        "Tobelhof"
-    ],
-    "name:unk_x_variant":[
         "Tobelhof"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -81,21 +78,20 @@
     "qs_pg:woe_id":784412,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254167,
         85633051,
         101748463,
-        102063071
+        102063071,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6295463,
         "gp:id":784412,
-        "qs:id":221964,
         "qs_pg:id":221964
     },
     "wof:country":"CH",
@@ -115,7 +111,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428640,
+    "wof:lastmodified":1566639481,
     "wof:name":"Tobelhof",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",

@@ -9,24 +9,23 @@
     "geom:bbox":"8.41611,47.42057,8.41611,47.42057",
     "geom:latitude":47.42057,
     "geom:longitude":8.41611,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":601,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":601,
     "iso:country":"CH",
+    "lbl:bbox":"8.41111,47.41557,8.42111,47.42557",
     "lbl:latitude":47.42057,
     "lbl:longitude":8.41611,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Haslern"
     ],
     "name:eng_x_variant":[
         "Geroldswil / Haslern"
-    ],
-    "name:unk_x_variant":[
-        "Haslern"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":621168,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404573179,
         85633051,
         1125792865,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126063231,
-    "wof:lastmodified":1565460352,
+    "wof:lastmodified":1566642199,
     "wof:name":"Haslern",
     "wof:parent_id":1125792865,
     "wof:placetype":"neighbourhood",

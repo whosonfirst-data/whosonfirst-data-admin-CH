@@ -9,15 +9,17 @@
     "geom:bbox":"9.15632,46.69937,9.15632,46.69937",
     "geom:latitude":46.69937,
     "geom:longitude":9.15632,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":175,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":175,
     "iso:country":"CH",
+    "lbl:bbox":"9.15132,46.69437,9.16132,46.70437",
     "lbl:latitude":46.69937,
     "lbl:longitude":9.15632,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0412\u0438\u0433\u0435\u043d\u0441"
@@ -91,9 +93,6 @@
     "name:swe_x_preferred":[
         "Vignogn"
     ],
-    "name:unk_x_variant":[
-        "Vignogn"
-    ],
     "name:uzb_x_preferred":[
         "Vignogn"
     ],
@@ -115,15 +114,15 @@
     "qs_pg:qs_id":92339,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         1394254047,
         85633051,
         1394296633,
-        102062773
+        102062773,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,7 +145,7 @@
         }
     ],
     "wof:id":1394395091,
-    "wof:lastmodified":1565581905,
+    "wof:lastmodified":1566640662,
     "wof:name":"Vigens",
     "wof:parent_id":1394296633,
     "wof:placetype":"neighbourhood",

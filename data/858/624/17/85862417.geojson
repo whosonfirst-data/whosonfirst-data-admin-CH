@@ -11,8 +11,10 @@
     "geom:longitude":6.638026,
     "gn:id":"",
     "iso:country":"CH",
+    "lbl:bbox":"6.633026,46.514777,6.643026,46.524777",
     "lbl:latitude":46.519777,
     "lbl:longitude":6.638026,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.518098,
     "mps:longitude":6.642724,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:rus_x_variant":[
         "\u041c\u043e\u043d-\u0420\u0435\u043f\u043e"
     ],
-    "name:unk_x_variant":[
-        "Mon Repos"
-    ],
     "qs:gn_adm0_cc":"CH",
     "qs:gn_id":0,
     "qs:gn_local":2659994,
@@ -80,20 +79,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":153,
     "wof:belongsto":[
-        85682325,
         102191581,
         404567693,
         85633051,
         101748449,
-        102063021
+        102063021,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20103113,
-        "qs:id":890174,
         "qs_pg:id":890174
     },
     "wof:country":"CH",
@@ -113,7 +111,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428590,
+    "wof:lastmodified":1566639475,
     "wof:name":"Mon Repos",
     "wof:parent_id":101748449,
     "wof:placetype":"neighbourhood",

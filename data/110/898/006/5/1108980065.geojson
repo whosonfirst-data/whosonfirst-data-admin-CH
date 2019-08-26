@@ -9,17 +9,19 @@
     "geom:bbox":"8.3576934,47.4808561,8.3921081,47.5288719",
     "geom:latitude":47.502904,
     "geom:longitude":8.375062,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":733,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":733,
     "iso:country":"CH",
     "lbl:latitude":47.50614,
     "lbl:longitude":8.37711,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":47.502904,
     "mps:longitude":8.375062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0646\u064a\u062f\u0631\u0641\u064a\u0646\u064a\u0646\u063a\u0646"
@@ -87,7 +89,7 @@
     "name:swe_x_preferred":[
         "Niederweningen / Niederweningen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Niederweningen (Dorf)"
     ],
     "name:uzb_x_preferred":[
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":1108980065,
-    "wof:lastmodified":1565431695,
+    "wof:lastmodified":1566639692,
     "wof:name":"Niederweningen",
     "wof:parent_id":404570639,
     "wof:placetype":"locality",

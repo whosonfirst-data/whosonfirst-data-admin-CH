@@ -9,17 +9,19 @@
     "geom:bbox":"6.13689,46.20277,6.13689,46.20277",
     "geom:latitude":46.20277,
     "geom:longitude":6.13689,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"CH",
     "lbl:latitude":46.20277,
     "lbl:longitude":6.13689,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Coulouvreni\u00e8re"
     ],
     "qs_pg:aaroncc":"CH",
@@ -43,18 +45,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782980,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Gen\u00e8ve",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85682291,
         102191581,
         404328283,
         85633051,
         101748445,
-        102062917
+        102062917,
+        85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1126083427,
-    "wof:lastmodified":1565459945,
+    "wof:lastmodified":1566642166,
     "wof:name":"La Coulouvreni\u00e8re",
     "wof:parent_id":101748445,
     "wof:placetype":"neighbourhood",

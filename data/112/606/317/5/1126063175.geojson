@@ -9,15 +9,17 @@
     "geom:bbox":"8.4605,47.36001,8.4605,47.36001",
     "geom:latitude":47.36001,
     "geom:longitude":8.4605,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":669,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":669,
     "iso:country":"CH",
+    "lbl:bbox":"8.4555,47.35501,8.4655,47.36501",
     "lbl:latitude":47.36001,
     "lbl:longitude":8.4605,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Haslen"
@@ -43,9 +45,6 @@
     "name:pol_x_preferred":[
         "Haslen"
     ],
-    "name:unk_x_variant":[
-        "Haslen"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLX",
@@ -58,15 +57,15 @@
     "qs_pg:qs_id":621121,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569459,
         85633051,
         101854437,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
         }
     ],
     "wof:id":1126063175,
-    "wof:lastmodified":1565460813,
+    "wof:lastmodified":1566642238,
     "wof:name":"Haslen",
     "wof:parent_id":101854437,
     "wof:placetype":"neighbourhood",

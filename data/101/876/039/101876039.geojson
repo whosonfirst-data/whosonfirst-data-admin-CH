@@ -12,10 +12,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.348103,
     "lbl:longitude":8.272992,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.350254,
     "mps:longitude":8.283847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Wohlen AG"
     ],
@@ -139,9 +142,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u0454\u043d"
     ],
-    "name:unk_x_variant":[
-        "Wohlen"
-    ],
     "name:uzb_x_preferred":[
         "Wohlen"
     ],
@@ -193,9 +193,11 @@
     "wof:concordances":{
         "gn:id":2657963,
         "gp:id":784732,
-        "qs:id":1,
-        "qs_pg:id":461836,
+        "qs_pg:id":1,
         "wd:id":"Q68244"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":461836
     },
     "wof:country":"CH",
     "wof:geomhash":"1f1bb133b2fc6438ba557be03e11a474",
@@ -210,7 +212,7 @@
         }
     ],
     "wof:id":101876039,
-    "wof:lastmodified":1565443894,
+    "wof:lastmodified":1566640935,
     "wof:name":"Wohlen",
     "wof:parent_id":404569205,
     "wof:placetype":"locality",

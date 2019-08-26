@@ -9,14 +9,17 @@
     "geom:bbox":"8.08145,46.11598,8.08145,46.11598",
     "geom:latitude":46.11598,
     "geom:longitude":8.08145,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"8.07645,46.11098,8.08645,46.12098",
     "lbl:latitude":46.11598,
     "lbl:longitude":8.08145,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Gmeinalp"
@@ -42,18 +45,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782585,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567827,
         85633051,
         1125908813,
-        102063023
+        102063023,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1394409059,
-    "wof:lastmodified":1565435926,
+    "wof:lastmodified":1566640108,
     "wof:name":"Gmeinalp",
     "wof:parent_id":1125908813,
     "wof:placetype":"neighbourhood",

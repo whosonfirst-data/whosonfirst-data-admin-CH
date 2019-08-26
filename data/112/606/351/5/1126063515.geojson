@@ -9,24 +9,23 @@
     "geom:bbox":"8.45737,47.27669,8.45737,47.27669",
     "geom:latitude":47.27669,
     "geom:longitude":8.45737,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":977,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":977,
     "iso:country":"CH",
+    "lbl:bbox":"8.45237,47.27169,8.46237,47.28169",
     "lbl:latitude":47.27669,
     "lbl:longitude":8.45737,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Butzen"
     ],
     "name:eng_x_variant":[
         "Affoltern / Butzen"
-    ],
-    "name:unk_x_variant":[
-        "Butzen"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":617212,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569659,
         85633051,
         101854379,
-        102062775
+        102062775,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126063515,
-    "wof:lastmodified":1565460501,
+    "wof:lastmodified":1566642211,
     "wof:name":"Butzen",
     "wof:parent_id":101854379,
     "wof:placetype":"neighbourhood",

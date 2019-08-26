@@ -9,15 +9,17 @@
     "geom:bbox":"8.62621,47.39491,8.62621,47.39491",
     "geom:latitude":47.39491,
     "geom:longitude":8.62621,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":732,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":732,
     "iso:country":"CH",
+    "lbl:bbox":"8.62121,47.38991,8.63121,47.39991",
     "lbl:latitude":47.39491,
     "lbl:longitude":8.62621,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Aesch"
@@ -64,9 +66,6 @@
     "name:swe_x_preferred":[
         "Aesch"
     ],
-    "name:unk_x_variant":[
-        "Aesch"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLX",
@@ -79,15 +78,15 @@
     "qs_pg:qs_id":620384,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569055,
         85633051,
         1125826975,
-        102062933
+        102062933,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +108,7 @@
         }
     ],
     "wof:id":1126062835,
-    "wof:lastmodified":1565460539,
+    "wof:lastmodified":1566642215,
     "wof:name":"Aesch",
     "wof:parent_id":1125826975,
     "wof:placetype":"neighbourhood",

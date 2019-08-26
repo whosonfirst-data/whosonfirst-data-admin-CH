@@ -26,8 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"9.44562,46.55821,9.45562,46.56821",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:arg_x_preferred":[
         "Cresta"
     ],
@@ -51,12 +54,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567855,
         85633051,
         1125996937,
-        1394137069
+        1394137069,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1394397677,
-    "wof:lastmodified":1565441300,
+    "wof:lastmodified":1566640644,
     "wof:name":"Cresta",
     "wof:parent_id":1125996937,
     "wof:placetype":"neighbourhood",

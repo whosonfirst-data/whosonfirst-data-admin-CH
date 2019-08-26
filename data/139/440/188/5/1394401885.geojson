@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"9.39089,47.35173,9.40089,47.36173",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Schlatt"
     ],
@@ -74,12 +77,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682275,
         102191581,
         404328097,
         85633051,
         1394298071,
-        1394237541
+        1394237541,
+        85682275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1394401885,
-    "wof:lastmodified":1565435102,
+    "wof:lastmodified":1566640019,
     "wof:name":"Schlatt",
     "wof:parent_id":1394298071,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"9.37477,47.42391,9.37477,47.42391",
     "geom:latitude":47.42391,
     "geom:longitude":9.37477,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":70572,
+    "gn:country":"CH",
+    "gn:fcode":"PPLA",
     "gn:population":70572,
     "iso:country":"CH",
+    "lbl:bbox":"9.36977,47.41891,9.37977,47.42891",
     "lbl:latitude":47.42391,
     "lbl:longitude":9.37477,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "St. Gallen"
@@ -247,9 +249,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u0413\u0430\u043b\u043b\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "San Gallo"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u06a9\u062a \u06af\u0627\u0644\u0646"
     ],
@@ -280,15 +279,15 @@
     "qs_pg:qs_id":1037252,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682341,
         102191581,
         404568129,
         85633051,
         101748457,
-        102062847
+        102062847,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -311,7 +310,7 @@
         }
     ],
     "wof:id":1394409113,
-    "wof:lastmodified":1565437357,
+    "wof:lastmodified":1566640266,
     "wof:name":"Sankt Gallen",
     "wof:parent_id":101748457,
     "wof:placetype":"neighbourhood",

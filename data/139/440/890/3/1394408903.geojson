@@ -9,12 +9,15 @@
     "geom:bbox":"8.9458,45.976779,8.9458,45.976779",
     "geom:latitude":45.976779,
     "geom:longitude":8.9458,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CH",
+    "lbl:bbox":"8.9408,45.971779,8.9508,45.981779",
     "lbl:latitude":45.976779,
     "lbl:longitude":8.9458,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "San Salvatore"
@@ -61,18 +64,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":28997046,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         1394254171,
         85633051,
         1126008905,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1394408903,
-    "wof:lastmodified":1565581722,
+    "wof:lastmodified":1566640259,
     "wof:name":"San Salvatore",
     "wof:parent_id":1126008905,
     "wof:placetype":"neighbourhood",

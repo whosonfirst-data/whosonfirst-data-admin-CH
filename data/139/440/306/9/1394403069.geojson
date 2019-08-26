@@ -9,15 +9,17 @@
     "geom:bbox":"8.73302,47.28749,8.73302,47.28749",
     "geom:latitude":47.28749,
     "geom:longitude":8.73302,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":17,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":17,
     "iso:country":"CH",
+    "lbl:bbox":"8.72802,47.28249,8.73802,47.29249",
     "lbl:latitude":47.28749,
     "lbl:longitude":8.73302,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Rohr"
@@ -88,15 +90,15 @@
     "qs_pg:qs_id":620467,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568957,
         85633051,
         1125931511,
-        102062933
+        102062933,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1394403069,
-    "wof:lastmodified":1565433227,
+    "wof:lastmodified":1566639811,
     "wof:name":"Rohr",
     "wof:parent_id":1125931511,
     "wof:placetype":"neighbourhood",

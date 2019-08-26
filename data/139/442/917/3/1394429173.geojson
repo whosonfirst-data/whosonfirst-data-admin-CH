@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"7.49669,47.185,7.50669,47.195",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "L\u00fcsslingen"
     ],
@@ -75,9 +78,6 @@
     "name:swe_x_preferred":[
         "L\u00fcsslingen"
     ],
-    "name:und_x_variant":[
-        "L\u00fcsslingen"
-    ],
     "name:uzb_x_preferred":[
         "L\u00fcsslingen"
     ],
@@ -92,12 +92,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682365,
         102191581,
         1394253975,
         85633051,
         1125793579,
-        1394137095
+        1394137095,
+        85682365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":1394429173,
-    "wof:lastmodified":1565581450,
+    "wof:lastmodified":1566640913,
     "wof:name":"Luesslingen",
     "wof:parent_id":1125793579,
     "wof:placetype":"neighbourhood",

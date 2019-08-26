@@ -9,17 +9,19 @@
     "geom:bbox":"9.4421124,46.6695097,9.5019364,46.7117941",
     "geom:latitude":46.69079,
     "geom:longitude":9.464976,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":834,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":834,
     "iso:country":"CH",
     "lbl:latitude":46.70041,
     "lbl:longitude":9.45404,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.69079,
     "mps:longitude":9.464976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Sils im Domleschg"
@@ -90,7 +92,7 @@
     "name:swe_x_preferred":[
         "Sils im Domleschg"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sils"
     ],
     "name:uzb_x_preferred":[
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":1125915879,
-    "wof:lastmodified":1565459520,
+    "wof:lastmodified":1566642123,
     "wof:name":"Sils im Domleschg",
     "wof:parent_id":404569949,
     "wof:placetype":"locality",

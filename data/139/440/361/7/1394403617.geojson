@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.68745,47.62481,8.69745,47.63481",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Sommerau"
     ],
@@ -95,12 +98,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569861,
         85633051,
         1125952571,
-        102062801
+        102062801,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1394403617,
-    "wof:lastmodified":1565435420,
+    "wof:lastmodified":1566640053,
     "wof:name":"Sommerau",
     "wof:parent_id":1125952571,
     "wof:placetype":"neighbourhood",

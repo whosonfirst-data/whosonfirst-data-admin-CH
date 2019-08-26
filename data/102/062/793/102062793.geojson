@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":46.163293,
     "lbl:longitude":7.592291,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.163293,
     "mps:longitude":7.592291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u064a\u0631"
     ],
@@ -191,7 +194,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3212,
     "wof:belongsto":[
@@ -215,7 +217,7 @@
         }
     ],
     "wof:id":102062793,
-    "wof:lastmodified":1565419996,
+    "wof:lastmodified":1566639305,
     "wof:name":"Sierre",
     "wof:parent_id":85682281,
     "wof:placetype":"county",

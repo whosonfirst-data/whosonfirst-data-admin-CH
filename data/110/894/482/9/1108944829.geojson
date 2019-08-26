@@ -10,8 +10,10 @@
     "geom:latitude":46.94048,
     "geom:longitude":7.441828,
     "iso:country":"CH",
+    "lbl:bbox":"7.4368284316,46.9354802394,7.4468284316,46.9454802394",
     "lbl:latitude":46.94048,
     "lbl:longitude":7.441828,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -21,14 +23,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682381,
         102191581,
         1394254007,
         85633051,
         101748453,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -47,7 +49,7 @@
         }
     ],
     "wof:id":1108944829,
-    "wof:lastmodified":1565431482,
+    "wof:lastmodified":1566639669,
     "wof:name":"Sandrain",
     "wof:parent_id":101748453,
     "wof:placetype":"neighbourhood",

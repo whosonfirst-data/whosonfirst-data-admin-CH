@@ -9,15 +9,17 @@
     "geom:bbox":"8.71374,47.29247,8.71374,47.29247",
     "geom:latitude":47.29247,
     "geom:longitude":8.71374,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":88,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":88,
     "iso:country":"CH",
+    "lbl:bbox":"8.70874,47.28747,8.71874,47.29747",
     "lbl:latitude":47.29247,
     "lbl:longitude":8.71374,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bih_x_preferred":[
         "\u0932\u0942\u0939\u093f"
@@ -55,15 +57,15 @@
     "qs_pg:qs_id":620461,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568957,
         85633051,
         1125931511,
-        102062933
+        102062933,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":1394395865,
-    "wof:lastmodified":1565440921,
+    "wof:lastmodified":1566640603,
     "wof:name":"Loo",
     "wof:parent_id":1125931511,
     "wof:placetype":"neighbourhood",

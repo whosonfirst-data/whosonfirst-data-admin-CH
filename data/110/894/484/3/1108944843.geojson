@@ -10,8 +10,10 @@
     "geom:latitude":46.948537,
     "geom:longitude":7.45476,
     "iso:country":"CH",
+    "lbl:bbox":"7.44976026184,46.9435373525,7.45976026184,46.9535373525",
     "lbl:latitude":46.948537,
     "lbl:longitude":7.45476,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -21,14 +23,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_metro":30,
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682381,
         102191581,
         1394254007,
         85633051,
         101748453,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -47,7 +49,7 @@
         }
     ],
     "wof:id":1108944843,
-    "wof:lastmodified":1565431507,
+    "wof:lastmodified":1566639672,
     "wof:name":"Weissesquartier",
     "wof:parent_id":101748453,
     "wof:placetype":"neighbourhood",

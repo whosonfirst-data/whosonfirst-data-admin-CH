@@ -26,8 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.3422,47.13554,8.3522,47.14554",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Wald"
     ],
@@ -102,12 +105,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682319,
         102191581,
         404328425,
         85633051,
         1126008853,
-        1394137081
+        1394137081,
+        85682319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1394401089,
-    "wof:lastmodified":1565435991,
+    "wof:lastmodified":1566640116,
     "wof:name":"Wald",
     "wof:parent_id":1126008853,
     "wof:placetype":"neighbourhood",

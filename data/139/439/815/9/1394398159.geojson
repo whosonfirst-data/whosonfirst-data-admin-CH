@@ -9,15 +9,17 @@
     "geom:bbox":"8.64122,47.23386,8.64122,47.23386",
     "geom:latitude":47.23386,
     "geom:longitude":8.64122,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"HSE",
-    "gn:gn_pop":2,
+    "gn:country":"CH",
+    "gn:fcode":"HSE",
     "gn:population":2,
     "iso:country":"CH",
+    "lbl:bbox":"8.63622,47.22886,8.64622,47.23886",
     "lbl:latitude":47.23386,
     "lbl:longitude":8.64122,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Oberr\u00fcti"
@@ -112,14 +114,14 @@
     "qs_pg:qs_id":619454,
     "qs_pg:qs_pg_placetype":"locality_funky",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
         85633051,
         101854439,
-        102062825,
-        85682309
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -141,7 +143,7 @@
         }
     ],
     "wof:id":1394398159,
-    "wof:lastmodified":1565441752,
+    "wof:lastmodified":1566640693,
     "wof:name":"Ober-R\u00fcti",
     "wof:parent_id":101854439,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"8.4547,47.39486,8.4547,47.39486",
     "geom:latitude":47.39486,
     "geom:longitude":8.4547,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":260,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":260,
     "iso:country":"CH",
+    "lbl:bbox":"8.4497,47.38986,8.4597,47.39986",
     "lbl:latitude":47.39486,
     "lbl:longitude":8.4547,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u063a\u0648\u062c\u0644"
@@ -46,9 +48,6 @@
     "name:swe_x_preferred":[
         "Struth\u00e4tta"
     ],
-    "name:unk_x_variant":[
-        "Gugel"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLX",
@@ -61,15 +60,15 @@
     "qs_pg:qs_id":103275,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570711,
         85633051,
         1125836255,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +90,7 @@
         }
     ],
     "wof:id":1126064049,
-    "wof:lastmodified":1565460737,
+    "wof:lastmodified":1566642232,
     "wof:name":"Gugel",
     "wof:parent_id":1125836255,
     "wof:placetype":"neighbourhood",

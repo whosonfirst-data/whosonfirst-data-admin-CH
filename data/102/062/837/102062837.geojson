@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":46.960852,
     "lbl:longitude":7.791527,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.960852,
     "mps:longitude":7.791527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:als_x_preferred":[
         "Emmental"
     ],
@@ -129,7 +132,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":281,
     "wof:belongsto":[
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":102062837,
-    "wof:lastmodified":1565420763,
+    "wof:lastmodified":1566639329,
     "wof:name":"Emmental",
     "wof:parent_id":85682381,
     "wof:placetype":"county",

@@ -9,15 +9,17 @@
     "geom:bbox":"8.13323,47.55377,8.13323,47.55377",
     "geom:latitude":47.55377,
     "geom:longitude":8.13323,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":289,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":289,
     "iso:country":"CH",
+    "lbl:bbox":"8.12823,47.54877,8.13823,47.55877",
     "lbl:latitude":47.55377,
     "lbl:longitude":8.13323,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Oberhofen"
@@ -78,19 +80,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":783600,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682329,
         102191581,
         404568551,
         85633051,
         1125931513,
-        102062977
+        102062977,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":1394408755,
-    "wof:lastmodified":1565433993,
+    "wof:lastmodified":1566639896,
     "wof:name":"Oberhofen bei Etzgen",
     "wof:parent_id":1125931513,
     "wof:placetype":"neighbourhood",

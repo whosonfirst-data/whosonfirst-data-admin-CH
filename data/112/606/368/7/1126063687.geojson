@@ -9,24 +9,23 @@
     "geom:bbox":"8.86366,47.50166,8.86366,47.50166",
     "geom:latitude":47.50166,
     "geom:longitude":8.86366,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":940,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":940,
     "iso:country":"CH",
+    "lbl:bbox":"8.85866,47.49666,8.86866,47.50666",
     "lbl:latitude":47.50166,
     "lbl:longitude":8.86366,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Neu-Elgg"
     ],
     "name:eng_x_variant":[
         "Elgg / Neu-Elgg"
-    ],
-    "name:unk_x_variant":[
-        "Neu-Elgg"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":620757,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254209,
         85633051,
         1125874781,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126063687,
-    "wof:lastmodified":1565581790,
+    "wof:lastmodified":1566642208,
     "wof:name":"Neu-Elgg",
     "wof:parent_id":1125874781,
     "wof:placetype":"neighbourhood",

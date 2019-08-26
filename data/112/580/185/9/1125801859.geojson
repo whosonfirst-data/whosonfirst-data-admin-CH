@@ -9,17 +9,19 @@
     "geom:bbox":"7.653705,46.1107496,7.7541836,46.2877887",
     "geom:latitude":46.192423,
     "geom:longitude":7.696375,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":135,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":135,
     "iso:country":"CH",
     "lbl:latitude":46.28154,
     "lbl:longitude":7.69531,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":46.192423,
     "mps:longitude":7.696375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Oberems"
@@ -85,9 +87,6 @@
         "Oberems"
     ],
     "name:swe_x_preferred":[
-        "Oberems"
-    ],
-    "name:unk_x_variant":[
         "Oberems"
     ],
     "name:vie_x_preferred":[
@@ -161,7 +160,7 @@
         }
     ],
     "wof:id":1125801859,
-    "wof:lastmodified":1565458171,
+    "wof:lastmodified":1566642002,
     "wof:name":"Oberems",
     "wof:parent_id":404568005,
     "wof:placetype":"locality",

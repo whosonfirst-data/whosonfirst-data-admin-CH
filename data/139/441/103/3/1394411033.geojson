@@ -9,12 +9,15 @@
     "geom:bbox":"6.0988,46.4560095,6.0988,46.4560095",
     "geom:latitude":46.45601,
     "geom:longitude":6.0988,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CH",
+    "lbl:bbox":"6.0938,46.4510095,6.1038,46.4610095",
     "lbl:latitude":46.45601,
     "lbl:longitude":6.0988,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:por_x_preferred":[
         "Passo da Givrine"
@@ -37,18 +40,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20101344,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
         404568419,
         85633051,
         1125808593,
-        102063049
+        102063049,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1394411033,
-    "wof:lastmodified":1565438893,
+    "wof:lastmodified":1566640388,
     "wof:name":"Col de la Givrine",
     "wof:parent_id":1125808593,
     "wof:placetype":"neighbourhood",

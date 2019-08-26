@@ -9,15 +9,17 @@
     "geom:bbox":"8.75372,47.5649,8.75372,47.5649",
     "geom:latitude":47.5649,
     "geom:longitude":8.75372,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":103,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":103,
     "iso:country":"CH",
+    "lbl:bbox":"8.74872,47.5599,8.75872,47.5699",
     "lbl:latitude":47.5649,
     "lbl:longitude":8.75372,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0625\u0634\u0644\u064a\u0643\u0648\u0646"
@@ -126,19 +128,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20101644,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570557,
         85633051,
         1126043969,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":1394408345,
-    "wof:lastmodified":1565434652,
+    "wof:lastmodified":1566639968,
     "wof:name":"Eschlikon",
     "wof:parent_id":1126043969,
     "wof:placetype":"neighbourhood",

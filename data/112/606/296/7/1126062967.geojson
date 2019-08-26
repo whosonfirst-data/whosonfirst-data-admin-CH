@@ -9,24 +9,23 @@
     "geom:bbox":"8.71828,47.31536,8.71828,47.31536",
     "geom:latitude":47.31536,
     "geom:longitude":8.71828,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":534,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":534,
     "iso:country":"CH",
+    "lbl:bbox":"8.71328,47.31036,8.72328,47.32036",
     "lbl:latitude":47.31536,
     "lbl:longitude":8.71828,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hohfurren"
     ],
     "name:eng_x_variant":[
         "M\u00f6nchaltorf / Hohfurren"
-    ],
-    "name:unk_x_variant":[
-        "Hohfurren"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":620554,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404573529,
         85633051,
         1125807279,
-        102062933
+        102062933,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126062967,
-    "wof:lastmodified":1565460656,
+    "wof:lastmodified":1566642225,
     "wof:name":"Hohfurren",
     "wof:parent_id":1125807279,
     "wof:placetype":"neighbourhood",

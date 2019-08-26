@@ -9,16 +9,17 @@
     "geom:bbox":"8.5122,47.41814,8.5122,47.41814",
     "geom:latitude":47.41814,
     "geom:longitude":8.5122,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":17241,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":17241,
     "iso:country":"CH",
     "lbl:latitude":47.41814,
     "lbl:longitude":8.5122,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Affoltern"
@@ -50,9 +51,6 @@
     "name:swe_x_preferred":[
         "Affoltern"
     ],
-    "name:unk_x_variant":[
-        "Affoltern"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLX",
@@ -65,15 +63,15 @@
     "qs_pg:qs_id":1053719,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254167,
         85633051,
         101748463,
-        102063071
+        102063071,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +93,7 @@
         }
     ],
     "wof:id":1126095023,
-    "wof:lastmodified":1565461480,
+    "wof:lastmodified":1566642298,
     "wof:name":"Affoltern",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",

@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":47.443651,
     "lbl:longitude":9.143801,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.443651,
     "mps:longitude":9.143801,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:als_x_preferred":[
         "Wil"
     ],
@@ -146,7 +149,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":102062947,
-    "wof:lastmodified":1565419804,
+    "wof:lastmodified":1566639298,
     "wof:name":"Wil",
     "wof:parent_id":85682341,
     "wof:placetype":"county",

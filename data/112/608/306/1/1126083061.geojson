@@ -9,17 +9,19 @@
     "geom:bbox":"7.67682,47.52958,7.67682,47.52958",
     "geom:latitude":47.52958,
     "geom:longitude":7.67682,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
     "lbl:latitude":47.52958,
     "lbl:longitude":7.67682,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saline"
     ],
     "qs_pg:aaroncc":"CH",
@@ -43,18 +45,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":784135,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Basel-Land",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85682361,
         102191581,
         404569637,
         85633051,
         101874801,
-        102062929
+        102062929,
+        85682361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1126083061,
-    "wof:lastmodified":1565459882,
+    "wof:lastmodified":1566642161,
     "wof:name":"Schweizerhalle",
     "wof:parent_id":101874801,
     "wof:placetype":"neighbourhood",

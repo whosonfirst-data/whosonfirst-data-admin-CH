@@ -9,24 +9,23 @@
     "geom:bbox":"8.5578,47.3048,8.5578,47.3048",
     "geom:latitude":47.3048,
     "geom:longitude":8.5578,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":222,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":222,
     "iso:country":"CH",
+    "lbl:bbox":"8.5528,47.2998,8.5628,47.3098",
     "lbl:latitude":47.3048,
     "lbl:longitude":8.5578,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "R\u00f6rli"
     ],
     "name:eng_x_variant":[
         "R\u00fcschlikon / R\u00f6rli"
-    ],
-    "name:unk_x_variant":[
-        "R\u00f6rli"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":619373,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571543,
         85633051,
         1125851455,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126061241,
-    "wof:lastmodified":1565460774,
+    "wof:lastmodified":1566642235,
     "wof:name":"R\u00f6rli",
     "wof:parent_id":1125851455,
     "wof:placetype":"neighbourhood",
