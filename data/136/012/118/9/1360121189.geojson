@@ -27,10 +27,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.32639,
     "lbl:longitude":7.34483,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.322062,
     "mps:longitude":7.344853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Ch\u00e2tillon JU"
     ],
@@ -92,9 +95,6 @@
     "name:swe_x_preferred":[
         "Ch\u00e2tillon"
     ],
-    "name:und_x_variant":[
-        "Ch\u00e2tillon"
-    ],
     "name:vol_x_preferred":[
         "Ch\u00e2tillon"
     ],
@@ -141,7 +141,7 @@
         }
     ],
     "wof:id":1360121189,
-    "wof:lastmodified":1565432445,
+    "wof:lastmodified":1566639741,
     "wof:name":"Ch\u00e2tillon",
     "wof:parent_id":404571175,
     "wof:placetype":"locality",

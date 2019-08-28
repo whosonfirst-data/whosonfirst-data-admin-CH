@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":47.555749,
     "lbl:longitude":7.874896,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.555749,
     "mps:longitude":7.874896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:als_x_preferred":[
         "Rheinfelden AG"
     ],
@@ -207,7 +210,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2365,
     "wof:belongsto":[
@@ -231,7 +233,7 @@
         }
     ],
     "wof:id":102062905,
-    "wof:lastmodified":1565420208,
+    "wof:lastmodified":1566639313,
     "wof:name":"Rheinfelden",
     "wof:parent_id":85682329,
     "wof:placetype":"county",

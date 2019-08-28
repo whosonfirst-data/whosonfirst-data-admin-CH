@@ -9,15 +9,17 @@
     "geom:bbox":"8.80342,47.48832,8.80342,47.48832",
     "geom:latitude":47.48832,
     "geom:longitude":8.80342,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":8,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":8,
     "iso:country":"CH",
+    "lbl:bbox":"8.79842,47.48332,8.80842,47.49332",
     "lbl:latitude":47.48832,
     "lbl:longitude":8.80342,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041c\u0430\u0430\u0441"
@@ -58,9 +60,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "Maas"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLL",
@@ -73,15 +72,15 @@
     "qs_pg:qs_id":103248,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404567873,
         85633051,
         1277110841,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +102,7 @@
         }
     ],
     "wof:id":1394406897,
-    "wof:lastmodified":1565433833,
+    "wof:lastmodified":1566639878,
     "wof:name":"Maas",
     "wof:parent_id":1277110841,
     "wof:placetype":"neighbourhood",

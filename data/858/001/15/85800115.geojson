@@ -10,8 +10,10 @@
     "geom:latitude":46.544557,
     "geom:longitude":6.617775,
     "iso:country":"CH",
+    "lbl:bbox":"6.612775,46.539557,6.622775,46.549557",
     "lbl:latitude":46.544557,
     "lbl:longitude":6.617775,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.554126,
     "mps:longitude":6.61793,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:fra_x_preferred":[
-        "La Blecherette"
-    ],
-    "name:unk_x_variant":[
         "La Blecherette"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -58,14 +57,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682325,
         102191581,
         404567693,
         85633051,
         101748449,
-        102063021
+        102063021,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428528,
+    "wof:lastmodified":1566639465,
     "wof:name":"La Blecherette",
     "wof:parent_id":101748449,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"6.93101,47.02866,6.93101,47.02866",
     "geom:latitude":47.02866,
     "geom:longitude":6.93101,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":820,
+    "gn:country":"CH",
+    "gn:fcode":"ADM3",
     "gn:population":820,
     "iso:country":"CH",
+    "lbl:bbox":"6.92601,47.02366,6.93601,47.03366",
     "lbl:latitude":47.02866,
     "lbl:longitude":6.93101,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Fenin-Vilars-Saules"
@@ -90,18 +92,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20101700,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Neuch\u00e2tel",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682359,
         102191581,
         1394254123,
         85633051,
-        1210047205
+        1210047205,
+        85682359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":1394408351,
-    "wof:lastmodified":1565581546,
+    "wof:lastmodified":1566639936,
     "wof:name":"Fenin-Vilars-Saules",
     "wof:parent_id":1210047205,
     "wof:placetype":"neighbourhood",

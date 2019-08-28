@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"9.34946,46.81904,9.35946,46.82904",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u063a"
     ],
@@ -110,12 +113,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568043,
         85633051,
         1125891367,
-        102062839
+        102062839,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1394405869,
-    "wof:lastmodified":1565434955,
+    "wof:lastmodified":1566640002,
     "wof:name":"Digg",
     "wof:parent_id":1125891367,
     "wof:placetype":"neighbourhood",

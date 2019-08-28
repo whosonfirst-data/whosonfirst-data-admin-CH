@@ -9,15 +9,17 @@
     "geom:bbox":"8.61935,47.39778,8.61935,47.39778",
     "geom:latitude":47.39778,
     "geom:longitude":8.61935,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":113,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":113,
     "iso:country":"CH",
+    "lbl:bbox":"8.61435,47.39278,8.62435,47.40278",
     "lbl:latitude":47.39778,
     "lbl:longitude":8.61935,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Bahnhofstrasse"
@@ -46,9 +48,6 @@
     "name:tur_x_preferred":[
         "Bahnhofstrasse"
     ],
-    "name:unk_x_variant":[
-        "Bahnhofstrasse"
-    ],
     "name:zho_x_preferred":[
         "\u8eca\u7ad9\u5927\u8857"
     ],
@@ -64,15 +63,15 @@
     "qs_pg:qs_id":620404,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569055,
         85633051,
         1125826975,
-        102062933
+        102062933,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +93,7 @@
         }
     ],
     "wof:id":1126062871,
-    "wof:lastmodified":1565460119,
+    "wof:lastmodified":1566642179,
     "wof:name":"Bahnhofstrasse",
     "wof:parent_id":1125826975,
     "wof:placetype":"neighbourhood",

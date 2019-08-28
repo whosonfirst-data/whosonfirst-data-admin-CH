@@ -15,6 +15,7 @@
     "iso:country":"CH",
     "lbl:latitude":47.373676,
     "lbl:longitude":8.484537,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.371384,
     "mps:longitude":8.485919,
     "mz:hierarchy_label":1,
@@ -63,9 +64,6 @@
     "name:tur_x_preferred":[
         "Albisrieden"
     ],
-    "name:unk_x_variant":[
-        "Albisrieden"
-    ],
     "qs:gn_adm0_cc":"CH",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2657896,
@@ -95,22 +93,21 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":159,
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254167,
         85633051,
         101748463,
-        102063071
+        102063071,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6295512,
         "gp:id":781564,
-        "qs:id":491432,
         "qs_pg:id":491432,
         "wd:id":"Q80797",
         "wk:page":"Albisrieden"
@@ -132,7 +129,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565423079,
+    "wof:lastmodified":1566639425,
     "wof:name":"Albisrieden",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",

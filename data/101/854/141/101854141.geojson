@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.938949,
     "lbl:longitude":7.785087,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.933335,
     "mps:longitude":7.785437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Langnau im Emmental"
     ],
@@ -120,7 +123,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043d\u0433\u043d\u0430\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Langnau"
     ],
     "name:vie_x_preferred":[
@@ -174,9 +177,11 @@
     "wof:concordances":{
         "gn:id":6640317,
         "gp:id":783039,
-        "qs:id":847026,
         "qs_pg:id":160950,
         "wd:id":"Q66300"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":847026
     },
     "wof:country":"CH",
     "wof:geomhash":"8d6527240debec4bbc07e5a420286b2d",
@@ -191,7 +196,7 @@
         }
     ],
     "wof:id":101854141,
-    "wof:lastmodified":1565444469,
+    "wof:lastmodified":1566641010,
     "wof:name":"Langnau im Emmental",
     "wof:parent_id":404568031,
     "wof:placetype":"locality",

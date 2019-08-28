@@ -9,14 +9,17 @@
     "geom:bbox":"9.83333,46.55,9.83333,46.55",
     "geom:latitude":46.55,
     "geom:longitude":9.83333,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"9.82833,46.545,9.83833,46.555",
     "lbl:latitude":46.55,
     "lbl:longitude":9.83333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Spinas"
@@ -27,7 +30,7 @@
     "name:nld_x_preferred":[
         "Spinas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alp Spinas"
     ],
     "qs_pg:aaroncc":"CH",
@@ -51,18 +54,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":784241,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568491,
         85633051,
         1125993673,
-        102062857
+        102062857,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1394395035,
-    "wof:lastmodified":1565440057,
+    "wof:lastmodified":1566640508,
     "wof:name":"Spinas",
     "wof:parent_id":1125993673,
     "wof:placetype":"neighbourhood",

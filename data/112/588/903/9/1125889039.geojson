@@ -9,17 +9,19 @@
     "geom:bbox":"8.4699341,47.4588046,8.5030322,47.49465",
     "geom:latitude":47.478095,
     "geom:longitude":8.484297,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2848,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":2848,
     "iso:country":"CH",
     "lbl:latitude":47.48012,
     "lbl:longitude":8.48576,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.478095,
     "mps:longitude":8.484297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0646\u064a\u062f\u0631\u0647\u0627\u0632\u0644\u064a"
@@ -90,7 +92,7 @@
     "name:swe_x_preferred":[
         "Niederhasli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Niederhasli (Dorf)"
     ],
     "name:uzb_x_preferred":[
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":1125889039,
-    "wof:lastmodified":1565457209,
+    "wof:lastmodified":1566641932,
     "wof:name":"Niederhasli",
     "wof:parent_id":404569487,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"8.73319,47.34874,8.73319,47.34874",
     "geom:latitude":47.34874,
     "geom:longitude":8.73319,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":5100,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":5100,
     "iso:country":"CH",
+    "lbl:bbox":"8.72819,47.34374,8.73819,47.35374",
     "lbl:latitude":47.34874,
     "lbl:longitude":8.73319,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ober-Uster"
     ],
     "qs_pg:aaroncc":"CH",
@@ -41,19 +43,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20103324,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568273,
         85633051,
         101854391,
-        102062933
+        102062933,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1394394819,
-    "wof:lastmodified":1565441711,
+    "wof:lastmodified":1566640688,
     "wof:name":"Niederuster",
     "wof:parent_id":101854391,
     "wof:placetype":"neighbourhood",

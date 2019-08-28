@@ -11,8 +11,10 @@
     "geom:longitude":8.305902,
     "gn:population":152,
     "iso:country":"CH",
+    "lbl:bbox":"8.300902,47.04638,8.310902,47.05638",
     "lbl:latitude":47.05138,
     "lbl:longitude":8.305902,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.051787,
     "mps:longitude":8.2952,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:deu_x_preferred":[
-        "Gutsch"
-    ],
-    "name:unk_x_variant":[
         "Gutsch"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -60,21 +59,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682319,
         102191581,
         404328203,
         85633051,
         101748451,
-        1394137117
+        1394137117,
+        85682319
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6293571,
         "gp:id":20102030,
-        "qs:id":893060,
         "qs_pg:id":893060
     },
     "wof:country":"CH",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428571,
+    "wof:lastmodified":1566639472,
     "wof:name":"Gutsch",
     "wof:parent_id":101748451,
     "wof:placetype":"neighbourhood",

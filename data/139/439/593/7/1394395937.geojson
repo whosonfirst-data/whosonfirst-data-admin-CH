@@ -9,15 +9,17 @@
     "geom:bbox":"8.80384,47.29353,8.80384,47.29353",
     "geom:latitude":47.29353,
     "geom:longitude":8.80384,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":94,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":94,
     "iso:country":"CH",
+    "lbl:bbox":"8.79884,47.28853,8.80884,47.29853",
     "lbl:latitude":47.29353,
     "lbl:longitude":8.80384,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:nor_x_preferred":[
         "Hellberg"
@@ -49,19 +51,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20102130,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568687,
         85633051,
         1260218389,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":1394395937,
-    "wof:lastmodified":1565439777,
+    "wof:lastmodified":1566640477,
     "wof:name":"Hellberg",
     "wof:parent_id":1260218389,
     "wof:placetype":"neighbourhood",

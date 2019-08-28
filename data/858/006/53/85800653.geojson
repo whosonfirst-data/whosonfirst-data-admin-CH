@@ -13,6 +13,7 @@
     "iso:country":"CH",
     "lbl:latitude":47.358048,
     "lbl:longitude":8.58995,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.359453,
     "mps:longitude":8.620874,
     "mz:hierarchy_label":1,
@@ -52,9 +53,6 @@
     "name:nld_x_preferred":[
         "Witikon"
     ],
-    "name:unk_x_variant":[
-        "Witikon"
-    ],
     "name:zho_x_preferred":[
         "\u5a01\u8482\u80af"
     ],
@@ -87,22 +85,21 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":102,
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254167,
         85633051,
         101748463,
-        102063071
+        102063071,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2657969,
         "gp:id":784726,
-        "qs:id":229028,
         "qs_pg:id":229028,
         "wd:id":"Q392079",
         "wk:page":"Witikon"
@@ -124,7 +121,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428541,
+    "wof:lastmodified":1566639467,
     "wof:name":"Witikon",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",

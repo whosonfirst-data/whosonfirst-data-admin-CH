@@ -11,8 +11,10 @@
     "geom:longitude":6.681149,
     "gn:population":1352,
     "iso:country":"CH",
+    "lbl:bbox":"6.676149,46.499,6.686149,46.509",
     "lbl:latitude":46.504,
     "lbl:longitude":6.681149,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.502163,
     "mps:longitude":6.685496,
     "mz:hierarchy_label":0,
@@ -90,9 +92,6 @@
     "name:swe_x_preferred":[
         "Paudex"
     ],
-    "name:unk_x_variant":[
-        "Paudex"
-    ],
     "name:vol_x_preferred":[
         "Paudex"
     ],
@@ -126,22 +125,21 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":2046,
     "wof:belongsto":[
-        85682325,
         102191581,
         404567693,
         85633051,
         101853877,
-        102063021
+        102063021,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2659246,
         "gp:id":783689,
-        "qs:id":889267,
         "qs_pg:id":889267,
         "wd:id":"Q70248",
         "wk:page":"Paudex"
@@ -163,7 +161,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428623,
+    "wof:lastmodified":1566639479,
     "wof:name":"Paudex",
     "wof:parent_id":101853877,
     "wof:placetype":"neighbourhood",

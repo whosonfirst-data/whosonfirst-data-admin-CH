@@ -25,9 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Ferch"
     ],
@@ -36,12 +38,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682319,
         102191581,
         404328201,
         85633051,
         1394297791,
-        1394137075
+        1394137075,
+        85682319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1394406905,
-    "wof:lastmodified":1565436812,
+    "wof:lastmodified":1566640205,
     "wof:name":"Ferch",
     "wof:parent_id":1394297791,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"8.80982,47.33319,8.80982,47.33319",
     "geom:latitude":47.33319,
     "geom:longitude":8.80982,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":4377,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":4377,
     "iso:country":"CH",
+    "lbl:bbox":"8.80482,47.32819,8.81482,47.33819",
     "lbl:latitude":47.33319,
     "lbl:longitude":8.80982,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Kempten"
@@ -169,9 +171,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043c\u043f\u0442\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Kempten"
-    ],
     "name:uzb_x_preferred":[
         "Kempten"
     ],
@@ -199,15 +198,15 @@
     "qs_pg:qs_id":160484,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568793,
         85633051,
         101854397,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -229,7 +228,7 @@
         }
     ],
     "wof:id":1126064635,
-    "wof:lastmodified":1565460236,
+    "wof:lastmodified":1566642188,
     "wof:name":"Kempten",
     "wof:parent_id":101854397,
     "wof:placetype":"neighbourhood",

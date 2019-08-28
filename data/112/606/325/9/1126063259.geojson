@@ -9,24 +9,23 @@
     "geom:bbox":"8.39957,47.42815,8.39957,47.42815",
     "geom:latitude":47.42815,
     "geom:longitude":8.39957,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":190,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":190,
     "iso:country":"CH",
+    "lbl:bbox":"8.39457,47.42315,8.40457,47.43315",
     "lbl:latitude":47.42815,
     "lbl:longitude":8.39957,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sood"
     ],
     "name:eng_x_variant":[
         "Oetwil / Sood"
-    ],
-    "name:unk_x_variant":[
-        "Sood"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":621178,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404572243,
         85633051,
         1108980331,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126063259,
-    "wof:lastmodified":1565460420,
+    "wof:lastmodified":1566642204,
     "wof:name":"Sood",
     "wof:parent_id":1108980331,
     "wof:placetype":"neighbourhood",

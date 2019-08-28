@@ -10,8 +10,10 @@
     "geom:latitude":46.518856,
     "geom:longitude":6.691813,
     "iso:country":"CH",
+    "lbl:bbox":"6.686813,46.513856,6.696813,46.523856",
     "lbl:latitude":46.518856,
     "lbl:longitude":6.691813,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.518488,
     "mps:longitude":6.704965,
     "mz:hierarchy_label":0,
@@ -119,9 +121,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u043c\u043e\u043d\u0442"
     ],
-    "name:unk_x_variant":[
-        "Belmont"
-    ],
     "name:vol_x_preferred":[
         "Belmont"
     ],
@@ -154,14 +153,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682325,
         102191581,
         404570157,
         85633051,
         1125986637,
-        102063047
+        102063047,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -184,7 +183,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565423083,
+    "wof:lastmodified":1566639426,
     "wof:name":"Belmont",
     "wof:parent_id":1125986637,
     "wof:placetype":"neighbourhood",

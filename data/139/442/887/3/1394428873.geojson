@@ -26,8 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.41135,47.40888,8.42135,47.41888",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:cat_x_preferred":[
         "Au"
     ],
@@ -39,12 +42,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571153,
         85633051,
         1125833261,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1394428873,
-    "wof:lastmodified":1565443358,
+    "wof:lastmodified":1566640872,
     "wof:name":"Au",
     "wof:parent_id":1125833261,
     "wof:placetype":"neighbourhood",

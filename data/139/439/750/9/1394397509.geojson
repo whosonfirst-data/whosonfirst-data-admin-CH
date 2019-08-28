@@ -9,15 +9,17 @@
     "geom:bbox":"8.87284,47.28899,8.87284,47.28899",
     "geom:latitude":47.28899,
     "geom:longitude":8.87284,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":5,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":5,
     "iso:country":"CH",
+    "lbl:bbox":"8.86784,47.28399,8.87784,47.29399",
     "lbl:latitude":47.28899,
     "lbl:longitude":8.87284,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Spiegelberg"
@@ -100,15 +102,15 @@
     "qs_pg:qs_id":103159,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568503,
         85633051,
         1126032603,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":1394397509,
-    "wof:lastmodified":1565441504,
+    "wof:lastmodified":1566640665,
     "wof:name":"Spiegelberg",
     "wof:parent_id":1126032603,
     "wof:placetype":"neighbourhood",

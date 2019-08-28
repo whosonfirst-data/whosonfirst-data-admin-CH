@@ -11,8 +11,10 @@
     "geom:longitude":8.234952,
     "gn:id":"",
     "iso:country":"CH",
+    "lbl:bbox":"8.229952,47.010779,8.239952,47.020779",
     "lbl:latitude":47.015779,
     "lbl:longitude":8.234952,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.016579,
     "mps:longitude":8.255013,
     "mz:hierarchy_label":0,
@@ -78,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0435\u0440\u043d\u0430\u0443"
     ],
-    "name:unk_x_variant":[
-        "Obernau"
-    ],
     "name:uzb_x_preferred":[
         "Obernau"
     ],
@@ -129,20 +128,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":29,
     "wof:belongsto":[
-        85682319,
         102191581,
         404328217,
         85633051,
         1394296127,
-        1394137079
+        1394137079,
+        85682319
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15001146,
-        "qs:id":895453,
         "qs_pg:id":895453
     },
     "wof:country":"CH",
@@ -162,7 +160,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428491,
+    "wof:lastmodified":1566639459,
     "wof:name":"Obernau",
     "wof:parent_id":1394296127,
     "wof:placetype":"neighbourhood",

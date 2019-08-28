@@ -26,8 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.56167,47.17833,8.57167,47.18833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "Kuonz",
         "Kuoni",
@@ -35,12 +38,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682263,
         102191581,
         404328215,
         85633051,
         1125852479,
-        102063067
+        102063067,
+        85682263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1394408249,
-    "wof:lastmodified":1565436293,
+    "wof:lastmodified":1566640148,
     "wof:name":"Kuenz",
     "wof:parent_id":1125852479,
     "wof:placetype":"neighbourhood",

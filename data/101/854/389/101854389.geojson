@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.389523,
     "lbl:longitude":8.673712,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.394182,
     "mps:longitude":8.681786,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Volketswil"
     ],
@@ -164,10 +167,12 @@
     "wof:concordances":{
         "gn:id":7287492,
         "gp:id":784610,
-        "qs:id":92321,
-        "qs_pg:id":1075143,
+        "qs_pg:id":92321,
         "wd:id":"Q69754",
         "wk:page":"Volketswil"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1075143
     },
     "wof:country":"CH",
     "wof:geomhash":"17da2be13648bd593114e667f24bb667",
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":101854389,
-    "wof:lastmodified":1565444462,
+    "wof:lastmodified":1566641009,
     "wof:name":"Volketswil",
     "wof:parent_id":404569019,
     "wof:placetype":"locality",

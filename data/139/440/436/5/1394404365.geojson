@@ -9,12 +9,15 @@
     "geom:bbox":"9.540596,47.280044,9.540596,47.280044",
     "geom:latitude":47.280044,
     "geom:longitude":9.540596,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CH",
+    "lbl:bbox":"9.535596,47.275044,9.545596,47.285044",
     "lbl:latitude":47.280044,
     "lbl:longitude":9.540596,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0631\u0648\u063a\u0644"
@@ -175,18 +178,18 @@
     "qs_pg:woe_adm0":23424879,
     "qs_pg:woe_id":856446,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424879,
     "woe:name_adm0":"Liechtenstein",
     "woe:name_adm1":"Ruggell",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682341,
         102191581,
         404569941,
         85633051,
         1126007435,
-        102063005
+        102063005,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":1394404365,
-    "wof:lastmodified":1565434446,
+    "wof:lastmodified":1566639945,
     "wof:name":"Ruggell",
     "wof:parent_id":1126007435,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"8.53299,47.24496,8.53299,47.24496",
     "geom:latitude":47.24496,
     "geom:longitude":8.53299,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":3253,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":3253,
     "iso:country":"CH",
+    "lbl:bbox":"8.52799,47.23996,8.53799,47.24996",
     "lbl:latitude":47.24496,
     "lbl:longitude":8.53299,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Hausen am Albis"
@@ -27,9 +29,6 @@
     ],
     "name:eng_x_variant":[
         "Hausen am Albis / Hausen (Dorf)"
-    ],
-    "name:unk_x_variant":[
-        "Hausen (Dorf)"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -43,15 +42,15 @@
     "qs_pg:qs_id":575583,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569057,
         85633051,
         1125787475,
-        102062775
+        102062775,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +72,7 @@
         }
     ],
     "wof:id":1126086791,
-    "wof:lastmodified":1565459928,
+    "wof:lastmodified":1566642165,
     "wof:name":"Hausen (Dorf)",
     "wof:parent_id":1125787475,
     "wof:placetype":"neighbourhood",

@@ -9,24 +9,23 @@
     "geom:bbox":"8.5876,47.26584,8.5876,47.26584",
     "geom:latitude":47.26584,
     "geom:longitude":8.5876,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":2690,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":2690,
     "iso:country":"CH",
+    "lbl:bbox":"8.5826,47.26084,8.5926,47.27084",
     "lbl:latitude":47.26584,
     "lbl:longitude":8.5876,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Scheller-Stockerstrasse"
     ],
     "name:eng_x_variant":[
         "Horgen / Scheller-Stockerstrasse"
-    ],
-    "name:unk_x_variant":[
-        "Scheller-Stockerstrasse"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":1053674,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254109,
         85633051,
         101854375,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126094901,
-    "wof:lastmodified":1565581735,
+    "wof:lastmodified":1566642301,
     "wof:name":"Scheller-Stockerstrasse",
     "wof:parent_id":101854375,
     "wof:placetype":"neighbourhood",

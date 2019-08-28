@@ -9,16 +9,19 @@
     "geom:bbox":"9.8988048,46.5676138,9.966349,46.6277726",
     "geom:latitude":46.590683,
     "geom:longitude":9.932358,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
     "lbl:latitude":46.58333,
     "lbl:longitude":9.93333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.590683,
     "mps:longitude":9.932358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041c\u0430\u0434\u0443\u043b\u0430\u0438\u043d"
@@ -104,9 +107,6 @@
     "name:swe_x_preferred":[
         "Madulain"
     ],
-    "name:unk_x_variant":[
-        "Madulain"
-    ],
     "name:uzb_x_preferred":[
         "Madulain"
     ],
@@ -180,7 +180,7 @@
         }
     ],
     "wof:id":1125941735,
-    "wof:lastmodified":1565452100,
+    "wof:lastmodified":1566641617,
     "wof:name":"Madulain",
     "wof:parent_id":404570165,
     "wof:placetype":"locality",

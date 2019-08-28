@@ -9,14 +9,17 @@
     "geom:bbox":"8.78333,45.96667,8.78333,45.96667",
     "geom:latitude":45.96667,
     "geom:longitude":8.78333,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"8.77833,45.96167,8.78833,45.97167",
     "lbl:latitude":45.96667,
     "lbl:longitude":8.78333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ita_x_preferred":[
         "Fornasette"
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782475,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85685231,
         102191581,
         404467843,
         85633253,
-        404227497
+        404227497,
+        85685231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1394409271,
-    "wof:lastmodified":1565437479,
+    "wof:lastmodified":1566640280,
     "wof:name":"Fornasette",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

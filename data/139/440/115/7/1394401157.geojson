@@ -9,12 +9,15 @@
     "geom:bbox":"7.059488,47.13306,7.059488,47.13306",
     "geom:latitude":47.13306,
     "geom:longitude":7.059488,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CH",
+    "lbl:bbox":"7.054488,47.12806,7.064488,47.13806",
     "lbl:latitude":47.13306,
     "lbl:longitude":7.059488,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Col du Chasseral"
@@ -49,18 +52,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20101265,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568339,
         85633051,
         1125901705,
-        102062865
+        102062865,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1394401157,
-    "wof:lastmodified":1565437416,
+    "wof:lastmodified":1566640273,
     "wof:name":"Chasseral Pass",
     "wof:parent_id":1125901705,
     "wof:placetype":"neighbourhood",

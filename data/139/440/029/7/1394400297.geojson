@@ -25,9 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Kien"
     ],
@@ -42,12 +44,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567765,
         85633051,
         101854175,
-        102062831
+        102062831,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1394400297,
-    "wof:lastmodified":1565436363,
+    "wof:lastmodified":1566640156,
     "wof:name":"Kien",
     "wof:parent_id":101854175,
     "wof:placetype":"neighbourhood",

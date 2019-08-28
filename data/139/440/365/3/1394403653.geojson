@@ -25,9 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Giebel"
     ],
@@ -48,12 +50,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682377,
         102191581,
         404328325,
         85633051,
         1126015901,
-        102062879
+        102062879,
+        85682377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1394403653,
-    "wof:lastmodified":1565432977,
+    "wof:lastmodified":1566639784,
     "wof:name":"Giebel",
     "wof:parent_id":1126015901,
     "wof:placetype":"neighbourhood",

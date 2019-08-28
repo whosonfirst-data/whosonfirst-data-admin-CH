@@ -9,14 +9,17 @@
     "geom:bbox":"8.38123,47.33382,8.38123,47.33382",
     "geom:latitude":47.33382,
     "geom:longitude":8.38123,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"8.37623,47.32882,8.38623,47.33882",
     "lbl:latitude":47.33382,
     "lbl:longitude":8.38123,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Oberwil"
@@ -75,18 +78,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":783631,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682329,
         102191581,
         404571161,
         85633051,
         1394297915,
-        102062877
+        102062877,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1394397807,
-    "wof:lastmodified":1565442515,
+    "wof:lastmodified":1566640771,
     "wof:name":"Oberwil",
     "wof:parent_id":1394297915,
     "wof:placetype":"neighbourhood",

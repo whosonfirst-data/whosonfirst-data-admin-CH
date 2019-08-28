@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.316837,
     "lbl:longitude":8.792896,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.324398,
     "mps:longitude":8.804647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:als_x_preferred":[
         "Wetzikon ZH"
     ],
@@ -162,9 +165,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0442\u0446\u0456\u043a\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Wetzikon"
-    ],
     "name:uzb_x_preferred":[
         "Wetzikon"
     ],
@@ -216,7 +216,6 @@
     "wof:concordances":{
         "gn:id":2658010,
         "gp:id":784687,
-        "qs:id":479746,
         "qs_pg:id":479746,
         "wd:id":"Q68305",
         "wk:page":"Wetzikon"
@@ -237,7 +236,7 @@
         }
     ],
     "wof:id":101854397,
-    "wof:lastmodified":1565444138,
+    "wof:lastmodified":1566640967,
     "wof:name":"Wetzikon",
     "wof:parent_id":404568793,
     "wof:placetype":"locality",

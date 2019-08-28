@@ -10,8 +10,10 @@
     "geom:latitude":46.972535,
     "geom:longitude":7.427867,
     "iso:country":"CH",
+    "lbl:bbox":"7.42286663259,46.9675354778,7.43286663259,46.9775354778",
     "lbl:latitude":46.972535,
     "lbl:longitude":7.427867,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,14 +26,14 @@
     "name:deu_x_preferred":[
         "Neubr\u00fcck"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682381,
         102191581,
         404569289,
         85633051,
         1394296241,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1108944853,
-    "wof:lastmodified":1565431482,
+    "wof:lastmodified":1566639669,
     "wof:name":"Neubrueck",
     "wof:parent_id":1394296241,
     "wof:placetype":"neighbourhood",

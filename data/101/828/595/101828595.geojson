@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.453901,
     "lbl:longitude":9.648927,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.452941,
     "mps:longitude":9.627571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "St. Margrethen"
     ],
@@ -90,9 +93,6 @@
     "name:swe_x_preferred":[
         "Sankt Margrethen"
     ],
-    "name:unk_x_variant":[
-        "Sankt Margrethen"
-    ],
     "name:uzb_x_preferred":[
         "St. Margrethen"
     ],
@@ -140,10 +140,12 @@
     "wof:concordances":{
         "gn:id":7669950,
         "gp:id":784258,
-        "qs:id":1037273,
         "qs_pg:id":217342,
         "wd:id":"Q66243",
         "wk:page":"St. Margrethen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1037273
     },
     "wof:coterminous":[
         404570631
@@ -161,7 +163,7 @@
         }
     ],
     "wof:id":101828595,
-    "wof:lastmodified":1565443759,
+    "wof:lastmodified":1566640917,
     "wof:name":"St. Margrethen",
     "wof:parent_id":404570631,
     "wof:placetype":"locality",

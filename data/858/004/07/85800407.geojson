@@ -11,8 +11,10 @@
     "geom:longitude":6.589837,
     "gn:id":"",
     "iso:country":"CH",
+    "lbl:bbox":"6.584837,46.513093,6.594837,46.523093",
     "lbl:latitude":46.518093,
     "lbl:longitude":6.589837,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.514943,
     "mps:longitude":6.588274,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:fra_x_preferred":[
-        "Plage de Vidy"
-    ],
-    "name:unk_x_variant":[
         "Plage de Vidy"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682325,
         102191581,
         404567693,
         85633051,
         101748449,
-        102063021
+        102063021,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":783733,
-        "qs:id":1194216,
         "qs_pg:id":1194216
     },
     "wof:country":"CH",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428623,
+    "wof:lastmodified":1566639479,
     "wof:name":"Plage de Vidy",
     "wof:parent_id":101748449,
     "wof:placetype":"neighbourhood",

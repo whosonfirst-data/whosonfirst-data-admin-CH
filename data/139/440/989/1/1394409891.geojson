@@ -9,16 +9,19 @@
     "geom:bbox":"9.96966,46.44474,9.96966,46.44474",
     "geom:latitude":46.44474,
     "geom:longitude":9.96966,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"9.96466,46.43974,9.97466,46.44974",
     "lbl:latitude":46.44474,
     "lbl:longitude":9.96966,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bernina Suot"
     ],
     "qs_pg:aaroncc":"CH",
@@ -42,18 +45,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":781791,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567777,
         85633051,
         1125922677,
-        102062857
+        102062857,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1394409891,
-    "wof:lastmodified":1565437625,
+    "wof:lastmodified":1566640296,
     "wof:name":"Berninah\u00e4user",
     "wof:parent_id":1125922677,
     "wof:placetype":"neighbourhood",

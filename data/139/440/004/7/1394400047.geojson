@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.23337,47.5567,8.24337,47.5667",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:fra_x_preferred":[
         "\u00c8re Eien"
     ],
@@ -50,12 +53,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682329,
         102191581,
         404570467,
         85633051,
         1108979783,
-        102062841
+        102062841,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1394400047,
-    "wof:lastmodified":1565436769,
+    "wof:lastmodified":1566640200,
     "wof:name":"Eien",
     "wof:parent_id":1108979783,
     "wof:placetype":"neighbourhood",

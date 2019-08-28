@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"9.8487,46.82844,9.8587,46.83844",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Davos Wolfgang"
     ],
@@ -36,17 +39,14 @@
     "name:ita_x_preferred":[
         "Wolfgang Pass"
     ],
-    "name:und_x_variant":[
-        "Davos Wolfgang"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567695,
         85633051,
         1125783293,
-        102062803
+        102062803,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1394401165,
-    "wof:lastmodified":1565434950,
+    "wof:lastmodified":1566640001,
     "wof:name":"Wolfgang",
     "wof:parent_id":1125783293,
     "wof:placetype":"neighbourhood",

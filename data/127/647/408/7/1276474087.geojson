@@ -27,10 +27,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.04774,
     "lbl:longitude":7.5247,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.048416,
     "mps:longitude":7.524927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "M\u00fcnchringen"
     ],
@@ -82,9 +85,6 @@
     "name:swe_x_preferred":[
         "M\u00fcnchringen"
     ],
-    "name:und_x_variant":[
-        "M\u00fcnchringen"
-    ],
     "name:vie_x_preferred":[
         "M\u00fcnchringen"
     ],
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":1276474087,
-    "wof:lastmodified":1565581538,
+    "wof:lastmodified":1566639563,
     "wof:name":"M\u00fcnchringen",
     "wof:parent_id":1394254155,
     "wof:placetype":"locality",

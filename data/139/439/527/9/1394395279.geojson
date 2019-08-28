@@ -9,15 +9,17 @@
     "geom:bbox":"8.53393,47.22467,8.53393,47.22467",
     "geom:latitude":47.22467,
     "geom:longitude":8.53393,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":15,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":15,
     "iso:country":"CH",
+    "lbl:bbox":"8.52893,47.21967,8.53893,47.22967",
     "lbl:latitude":47.22467,
     "lbl:longitude":8.53393,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Allenwinden"
@@ -49,19 +51,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":785400,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Zug",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570293,
         85633051,
         1394291971,
-        102062775
+        102062775,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":1394395279,
-    "wof:lastmodified":1565441010,
+    "wof:lastmodified":1566640611,
     "wof:name":"Allenwinden",
     "wof:parent_id":1394291971,
     "wof:placetype":"neighbourhood",

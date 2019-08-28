@@ -27,10 +27,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.64633,
     "lbl:longitude":6.81175,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.641316,
     "mps:longitude":6.813029,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Montet"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "Montet"
     ],
-    "name:und_x_variant":[
-        "Montet (Gl\u00e2ne)"
-    ],
     "name:vol_x_preferred":[
         "Montet"
     ],
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1326664135,
-    "wof:lastmodified":1565418370,
+    "wof:lastmodified":1566639246,
     "wof:name":"Montet",
     "wof:parent_id":404573057,
     "wof:placetype":"locality",

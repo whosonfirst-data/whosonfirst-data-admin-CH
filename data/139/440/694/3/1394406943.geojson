@@ -9,14 +9,17 @@
     "geom:bbox":"7.44847,47.19234,7.44847,47.19234",
     "geom:latitude":47.19234,
     "geom:longitude":7.44847,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"7.44347,47.18734,7.45347,47.19734",
     "lbl:latitude":47.19234,
     "lbl:longitude":7.44847,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Altreu"
@@ -54,18 +57,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20100707,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Solothurn",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682365,
         102191581,
         404328273,
         85633051,
         101854227,
-        1394137087
+        1394137087,
+        85682365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1394406943,
-    "wof:lastmodified":1565434371,
+    "wof:lastmodified":1566639937,
     "wof:name":"Altreu",
     "wof:parent_id":101854227,
     "wof:placetype":"neighbourhood",

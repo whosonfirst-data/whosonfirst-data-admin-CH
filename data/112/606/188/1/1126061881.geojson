@@ -9,24 +9,23 @@
     "geom:bbox":"8.58596,47.52402,8.58596,47.52402",
     "geom:latitude":47.52402,
     "geom:longitude":8.58596,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":461,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":461,
     "iso:country":"CH",
+    "lbl:bbox":"8.58096,47.51902,8.59096,47.52902",
     "lbl:latitude":47.52402,
     "lbl:longitude":8.58596,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Klinik Hard"
     ],
     "name:eng_x_variant":[
         "Embrach / Klinik Hard"
-    ],
-    "name:unk_x_variant":[
-        "Klinik Hard"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":617845,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569171,
         85633051,
         101854415,
-        102063019
+        102063019,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126061881,
-    "wof:lastmodified":1565460375,
+    "wof:lastmodified":1566642200,
     "wof:name":"Klinik Hard",
     "wof:parent_id":101854415,
     "wof:placetype":"neighbourhood",

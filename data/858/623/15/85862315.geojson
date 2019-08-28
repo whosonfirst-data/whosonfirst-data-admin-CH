@@ -11,8 +11,10 @@
     "geom:longitude":7.583008,
     "gn:id":"",
     "iso:country":"CH",
+    "lbl:bbox":"7.578008,47.510035,7.588008,47.520035",
     "lbl:latitude":47.515035,
     "lbl:longitude":7.583008,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.515345,
     "mps:longitude":7.580603,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:deu_x_preferred":[
-        "Bottmingerhof"
-    ],
-    "name:unk_x_variant":[
         "Bottmingerhof"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682361,
         102191581,
         404572129,
         85633051,
         1394295415,
-        102062971
+        102062971,
+        85682361
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20101008,
-        "qs:id":1177326,
         "qs_pg:id":1177326
     },
     "wof:country":"CH",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428578,
+    "wof:lastmodified":1566639473,
     "wof:name":"Bottmingerhof",
     "wof:parent_id":1394295415,
     "wof:placetype":"neighbourhood",

@@ -9,17 +9,19 @@
     "geom:bbox":"6.3850751,46.718684,6.4359874,46.752717",
     "geom:latitude":46.734885,
     "geom:longitude":6.410394,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":849,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":849,
     "iso:country":"CH",
     "lbl:latitude":46.73055,
     "lbl:longitude":6.41556,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.734885,
     "mps:longitude":6.410394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0411\u0430\u043b\u0435\u0433"
@@ -75,7 +77,7 @@
     "name:swe_x_preferred":[
         "Ballaigues"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baillaigues"
     ],
     "name:vie_x_preferred":[
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":1126008825,
-    "wof:lastmodified":1565461407,
+    "wof:lastmodified":1566642290,
     "wof:name":"Ballaigues",
     "wof:parent_id":404569995,
     "wof:placetype":"locality",

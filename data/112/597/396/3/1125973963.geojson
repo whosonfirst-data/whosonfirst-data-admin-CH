@@ -9,17 +9,19 @@
     "geom:bbox":"8.2334093,47.4883331,8.2801188,47.5192798",
     "geom:latitude":47.506725,
     "geom:longitude":8.25842,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6344,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":6344,
     "iso:country":"CH",
     "lbl:latitude":47.50213,
     "lbl:longitude":8.25554,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.506725,
     "mps:longitude":8.25842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0646\u062a\u0631\u0633\u064a\u063a\u064a\u0646\u062a\u0627\u0644"
@@ -96,7 +98,7 @@
     "name:swe_x_preferred":[
         "Untersiggenthal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Unter-Siggental"
     ],
     "name:uzb_x_preferred":[
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":1125973963,
-    "wof:lastmodified":1565458882,
+    "wof:lastmodified":1566642066,
     "wof:name":"Untersiggenthal",
     "wof:parent_id":404570201,
     "wof:placetype":"locality",

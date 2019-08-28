@@ -9,16 +9,19 @@
     "geom:bbox":"8.5018529,46.5734048,8.6149406,46.6394313",
     "geom:latitude":46.606622,
     "geom:longitude":8.561711,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
     "lbl:latitude":46.61956,
     "lbl:longitude":8.56977,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.606622,
     "mps:longitude":8.561711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0425\u043e\u0441\u043f\u0435\u043d\u0442\u0430\u043b"
@@ -95,9 +98,6 @@
     "name:swe_x_preferred":[
         "Hospental"
     ],
-    "name:unk_x_variant":[
-        "Hospental"
-    ],
     "name:uzb_x_preferred":[
         "Hospental"
     ],
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":1125937677,
-    "wof:lastmodified":1565452351,
+    "wof:lastmodified":1566641647,
     "wof:name":"Hospental",
     "wof:parent_id":404328193,
     "wof:placetype":"locality",

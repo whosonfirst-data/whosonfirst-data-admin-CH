@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.83532,47.64103,8.84532,47.65103",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Berg"
     ],
@@ -125,12 +128,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404569317,
         85633051,
         1242708967,
-        102062869
+        102062869,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":1394403797,
-    "wof:lastmodified":1565434791,
+    "wof:lastmodified":1566639983,
     "wof:name":"Berg",
     "wof:parent_id":1242708967,
     "wof:placetype":"neighbourhood",

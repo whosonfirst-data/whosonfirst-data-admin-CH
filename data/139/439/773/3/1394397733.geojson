@@ -9,15 +9,17 @@
     "geom:bbox":"8.69758,47.41236,8.69758,47.41236",
     "geom:latitude":47.41236,
     "geom:longitude":8.69758,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":385,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":385,
     "iso:country":"CH",
+    "lbl:bbox":"8.69258,47.40736,8.70258,47.41736",
     "lbl:latitude":47.41236,
     "lbl:longitude":8.69758,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0411\u0438\u0441\u0438\u043a\u043e\u043d"
@@ -56,19 +58,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20100938,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254029,
         85633051,
         1108979881,
-        102062779
+        102062779,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":1394397733,
-    "wof:lastmodified":1565581868,
+    "wof:lastmodified":1566640769,
     "wof:name":"Bisikon",
     "wof:parent_id":1108979881,
     "wof:placetype":"neighbourhood",

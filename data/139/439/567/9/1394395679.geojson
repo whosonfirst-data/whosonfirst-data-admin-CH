@@ -26,8 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.91712,46.71021,8.92712,46.72021",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:cat_x_preferred":[
         "Laus"
     ],
@@ -51,12 +54,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567795,
         85633051,
         1360215991,
-        102062773
+        102062773,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1394395679,
-    "wof:lastmodified":1565439786,
+    "wof:lastmodified":1566640478,
     "wof:name":"Laus",
     "wof:parent_id":1360215991,
     "wof:placetype":"neighbourhood",

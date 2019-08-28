@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"9.08255,47.63307,9.09255,47.64307",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Hohenrain"
     ],
@@ -104,12 +107,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404569243,
         85633051,
         1125787139,
-        102062953
+        102062953,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1394402279,
-    "wof:lastmodified":1565433514,
+    "wof:lastmodified":1566639842,
     "wof:name":"Hohenrain",
     "wof:parent_id":1125787139,
     "wof:placetype":"neighbourhood",

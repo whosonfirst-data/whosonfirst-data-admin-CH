@@ -10,8 +10,10 @@
     "geom:latitude":46.507449,
     "geom:longitude":6.625993,
     "iso:country":"CH",
+    "lbl:bbox":"6.620993,46.502449,6.630993,46.512449",
     "lbl:latitude":46.507449,
     "lbl:longitude":6.625993,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.508299,
     "mps:longitude":6.625463,
     "mz:hierarchy_label":0,
@@ -58,23 +60,22 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":46.507072,
     "wd:longitude":6.626764,
     "wd:wordcount":347,
     "wof:belongsto":[
-        85682325,
         102191581,
         404567693,
         85633051,
         101748449,
-        102063021
+        102063021,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2659265,
         "gp:id":783672,
-        "qs:id":801970,
         "qs_pg:id":801970,
         "wd:id":"Q870499",
         "wk:page":"Ouchy"
@@ -96,7 +97,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428606,
+    "wof:lastmodified":1566639477,
     "wof:name":"Ouchy",
     "wof:parent_id":101748449,
     "wof:placetype":"neighbourhood",

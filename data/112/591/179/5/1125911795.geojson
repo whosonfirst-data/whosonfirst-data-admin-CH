@@ -9,17 +9,19 @@
     "geom:bbox":"6.9091282,47.0495105,6.9445868,47.0783876",
     "geom:latitude":47.063809,
     "geom:longitude":6.927387,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1655,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":1655,
     "iso:country":"CH",
     "lbl:latitude":47.06629,
     "lbl:longitude":6.93332,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.063809,
     "mps:longitude":6.927387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Ch\u00e9zard-Saint-Martin"
@@ -75,7 +77,7 @@
     "name:swe_x_preferred":[
         "Ch\u00e9zard-Saint-Martin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint-Martin-Ch\u00e9zard"
     ],
     "name:vol_x_preferred":[
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":1125911795,
-    "wof:lastmodified":1565581543,
+    "wof:lastmodified":1566642146,
     "wof:name":"Ch\u00e9zard-St-Martin",
     "wof:parent_id":1394254123,
     "wof:placetype":"locality",

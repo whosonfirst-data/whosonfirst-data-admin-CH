@@ -9,24 +9,23 @@
     "geom:bbox":"8.63415,47.27129,8.63415,47.27129",
     "geom:latitude":47.27129,
     "geom:longitude":8.63415,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":25,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":25,
     "iso:country":"CH",
+    "lbl:bbox":"8.62915,47.26629,8.63915,47.27629",
     "lbl:latitude":47.27129,
     "lbl:longitude":8.63415,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Seehalden"
     ],
     "name:eng_x_variant":[
         "Meilen / Seehalden"
-    ],
-    "name:unk_x_variant":[
-        "Seehalden"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":619708,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568775,
         85633051,
         101854399,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126104231,
-    "wof:lastmodified":1565452846,
+    "wof:lastmodified":1566641697,
     "wof:name":"Seehalden",
     "wof:parent_id":101854399,
     "wof:placetype":"neighbourhood",

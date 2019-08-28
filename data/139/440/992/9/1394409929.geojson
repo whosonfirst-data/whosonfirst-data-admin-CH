@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.72856,46.14865,8.73856,46.15865",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0627\u0646\u0648"
     ],
@@ -140,12 +143,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404571251,
         85633051,
         1394289051,
-        102062975
+        102062975,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":1394409929,
-    "wof:lastmodified":1565435538,
+    "wof:lastmodified":1566640066,
     "wof:name":"Porano",
     "wof:parent_id":1394289051,
     "wof:placetype":"neighbourhood",

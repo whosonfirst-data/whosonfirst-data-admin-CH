@@ -27,10 +27,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.76766,
     "lbl:longitude":7.71142,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":46.766885,
     "mps:longitude":7.719245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Teuffenthal BE"
     ],
@@ -103,9 +106,6 @@
     "name:swe_x_preferred":[
         "Teuffenthal"
     ],
-    "name:und_x_variant":[
-        "Teuffenthal b. Thun"
-    ],
     "name:vie_x_preferred":[
         "Teuffenthal"
     ],
@@ -156,7 +156,7 @@
         }
     ],
     "wof:id":1193052445,
-    "wof:lastmodified":1565431057,
+    "wof:lastmodified":1566639641,
     "wof:name":"Teuffenthal b. Thun",
     "wof:parent_id":404567947,
     "wof:placetype":"locality",

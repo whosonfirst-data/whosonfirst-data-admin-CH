@@ -9,15 +9,17 @@
     "geom:bbox":"8.69815,47.21633,8.69815,47.21633",
     "geom:latitude":47.21633,
     "geom:longitude":8.69815,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":49,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":49,
     "iso:country":"CH",
+    "lbl:bbox":"8.69315,47.21133,8.70315,47.22133",
     "lbl:latitude":47.21633,
     "lbl:longitude":8.69815,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "M\u00fclenen"
@@ -37,15 +39,15 @@
     "qs_pg:qs_id":619307,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394253973,
         85633051,
         101876053,
-        1394212863
+        1394212863,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1394405425,
-    "wof:lastmodified":1565435311,
+    "wof:lastmodified":1566640040,
     "wof:name":"M\u00fclenen",
     "wof:parent_id":101876053,
     "wof:placetype":"neighbourhood",

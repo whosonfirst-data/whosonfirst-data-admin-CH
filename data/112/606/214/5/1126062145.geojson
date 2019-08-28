@@ -9,16 +9,17 @@
     "geom:bbox":"8.51918,47.30327,8.51918,47.30327",
     "geom:latitude":47.30327,
     "geom:longitude":8.51918,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":89,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":89,
     "iso:country":"CH",
     "lbl:latitude":47.30327,
     "lbl:longitude":8.51918,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Wil"
@@ -122,9 +123,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Wil"
-    ],
     "name:uzb_x_preferred":[
         "Wil"
     ],
@@ -146,15 +144,15 @@
     "qs_pg:qs_id":619083,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570347,
         85633051,
         1125934999,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -176,7 +174,7 @@
         }
     ],
     "wof:id":1126062145,
-    "wof:lastmodified":1565460586,
+    "wof:lastmodified":1566642219,
     "wof:name":"Wil",
     "wof:parent_id":1125934999,
     "wof:placetype":"neighbourhood",

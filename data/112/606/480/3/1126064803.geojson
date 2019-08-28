@@ -9,15 +9,17 @@
     "geom:bbox":"8.39719,47.40819,8.39719,47.40819",
     "geom:latitude":47.40819,
     "geom:longitude":8.39719,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":2619,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":2619,
     "iso:country":"CH",
+    "lbl:bbox":"8.39219,47.40319,8.40219,47.41319",
     "lbl:latitude":47.40819,
     "lbl:longitude":8.39719,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Vorstadt"
@@ -34,9 +36,6 @@
     "name:nld_x_preferred":[
         "Voorstad"
     ],
-    "name:unk_x_variant":[
-        "Vorstadt"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLX",
@@ -49,15 +48,15 @@
     "qs_pg:qs_id":160533,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569939,
         85633051,
         1125853019,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":1126064803,
-    "wof:lastmodified":1565460582,
+    "wof:lastmodified":1566642218,
     "wof:name":"Vorstadt",
     "wof:parent_id":1125853019,
     "wof:placetype":"neighbourhood",

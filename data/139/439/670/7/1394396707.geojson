@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"9.71344,46.93682,9.72344,46.94682",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Buchen"
     ],
@@ -122,12 +125,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         1394254185,
         85633051,
         1394297933,
-        102062803
+        102062803,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1394396707,
-    "wof:lastmodified":1565581838,
+    "wof:lastmodified":1566640706,
     "wof:name":"Buchen",
     "wof:parent_id":1394297933,
     "wof:placetype":"neighbourhood",

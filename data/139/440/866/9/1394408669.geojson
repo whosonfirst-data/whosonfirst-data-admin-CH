@@ -9,15 +9,17 @@
     "geom:bbox":"8.82137,47.26013,8.82137,47.26013",
     "geom:latitude":47.26013,
     "geom:longitude":8.82137,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":14,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":14,
     "iso:country":"CH",
+    "lbl:bbox":"8.81637,47.25513,8.82637,47.26513",
     "lbl:latitude":47.26013,
     "lbl:longitude":8.82137,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0644"
@@ -124,15 +126,15 @@
     "qs_pg:qs_id":618538,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569421,
         85633051,
         1125928913,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":1394408669,
-    "wof:lastmodified":1565434131,
+    "wof:lastmodified":1566639910,
     "wof:name":"Zell",
     "wof:parent_id":1125928913,
     "wof:placetype":"neighbourhood",

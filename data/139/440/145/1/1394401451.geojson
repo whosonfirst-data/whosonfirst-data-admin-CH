@@ -9,15 +9,17 @@
     "geom:bbox":"8.65602,47.26916,8.65602,47.26916",
     "geom:latitude":47.26916,
     "geom:longitude":8.65602,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":9,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":9,
     "iso:country":"CH",
+    "lbl:bbox":"8.65102,47.26416,8.66102,47.27416",
     "lbl:latitude":47.26916,
     "lbl:longitude":8.65602,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Gie\u00dfen"
@@ -175,9 +177,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0441\u0441\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Giessen"
-    ],
     "name:vol_x_preferred":[
         "Gie\u00dfen"
     ],
@@ -196,15 +195,15 @@
     "qs_pg:qs_id":619750,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568775,
         85633051,
         101854399,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -226,7 +225,7 @@
         }
     ],
     "wof:id":1394401451,
-    "wof:lastmodified":1565434857,
+    "wof:lastmodified":1566639991,
     "wof:name":"Giessen",
     "wof:parent_id":101854399,
     "wof:placetype":"neighbourhood",

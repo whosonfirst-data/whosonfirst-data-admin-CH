@@ -9,15 +9,17 @@
     "geom:bbox":"8.55602,47.29178,8.55602,47.29178",
     "geom:latitude":47.29178,
     "geom:longitude":8.55602,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":1568,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":1568,
     "iso:country":"CH",
+    "lbl:bbox":"8.55102,47.28678,8.56102,47.29678",
     "lbl:latitude":47.29178,
     "lbl:longitude":8.55602,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Berg"
@@ -118,9 +120,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0433"
     ],
-    "name:unk_x_variant":[
-        "Berg"
-    ],
     "name:vol_x_preferred":[
         "Berg"
     ],
@@ -136,15 +135,15 @@
     "qs_pg:qs_id":1053685,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570343,
         85633051,
         1125938539,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,7 +165,7 @@
         }
     ],
     "wof:id":1126065799,
-    "wof:lastmodified":1565460814,
+    "wof:lastmodified":1566642239,
     "wof:name":"Berg",
     "wof:parent_id":1125938539,
     "wof:placetype":"neighbourhood",

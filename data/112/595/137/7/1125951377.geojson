@@ -9,17 +9,19 @@
     "geom:bbox":"9.9666926,46.5438693,10.1023629,46.635918",
     "geom:latitude":46.593313,
     "geom:longitude":10.041053,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":701,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":701,
     "iso:country":"CH",
     "lbl:latitude":46.61179,
     "lbl:longitude":9.98354,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.593313,
     "mps:longitude":10.041053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "S-chanf"
@@ -96,9 +98,6 @@
     "name:swe_x_preferred":[
         "S-chanf"
     ],
-    "name:unk_x_variant":[
-        "S-chanf"
-    ],
     "name:uzb_x_preferred":[
         "S-chanf"
     ],
@@ -170,7 +169,7 @@
         }
     ],
     "wof:id":1125951377,
-    "wof:lastmodified":1565452751,
+    "wof:lastmodified":1566641689,
     "wof:name":"S-chanf",
     "wof:parent_id":404567751,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.417729,
     "lbl:longitude":7.075629,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.421297,
     "mps:longitude":7.070987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Porrentruy"
     ],
@@ -245,9 +248,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0440\u0430\u043d\u0442\u0440\u044e\u0457"
     ],
-    "name:unk_x_variant":[
-        "Pruntrut"
-    ],
     "name:vec_x_preferred":[
         "Porrentruy"
     ],
@@ -310,7 +310,6 @@
     "wof:concordances":{
         "gn:id":2659171,
         "gp:id":783754,
-        "qs:id":801973,
         "qs_pg:id":801973,
         "wd:id":"Q68256",
         "wk:page":"Porrentruy"
@@ -331,7 +330,7 @@
         }
     ],
     "wof:id":101854239,
-    "wof:lastmodified":1565444420,
+    "wof:lastmodified":1566641003,
     "wof:name":"Porrentruy",
     "wof:parent_id":404568941,
     "wof:placetype":"locality",

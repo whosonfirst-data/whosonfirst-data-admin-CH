@@ -13,6 +13,7 @@
     "iso:country":"CH",
     "lbl:latitude":47.370084,
     "lbl:longitude":8.569198,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.372314,
     "mps:longitude":8.579917,
     "mz:hierarchy_label":1,
@@ -123,22 +124,21 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":70,
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254167,
         85633051,
         101748463,
-        102063071
+        102063071,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6295331,
         "gp:id":784219,
-        "qs:id":1080910,
         "qs_pg:id":1080910,
         "wd:id":"Q7561944"
     },
@@ -159,7 +159,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428638,
+    "wof:lastmodified":1566639480,
     "wof:name":"Sonnenberg",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",

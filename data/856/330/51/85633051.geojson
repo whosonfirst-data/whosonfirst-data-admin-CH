@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":46.730219,
     "lbl:longitude":7.509687,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":46.730219,
     "mps:longitude":7.509687,
     "mz:hierarchy_label":1,
@@ -954,15 +956,8 @@
     "name:ukr_x_preferred":[
         "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Sviss"
-    ],
     "name:und_x_variant":[
-        "Suisu",
-        "Szwajcaria"
-    ],
-    "name:unk_x_variant":[
-        "Schweiz"
+        "Suisu"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u06cc\u0679\u0632\u0631\u0644\u06cc\u0646\u0688"
@@ -1117,7 +1112,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"41",
     "statoids:ds":"CH",
@@ -1162,7 +1157,7 @@
         "mzb:id":"switzerland",
         "ne:adm0_a3":"CHE",
         "nyt:id":"N73171286702446838651",
-        "qs:id":1032435,
+        "qs_pg:id":1032435,
         "uncrt:id":"CH",
         "wd:id":"Q39",
         "wk:page":"Switzerland",
@@ -1191,7 +1186,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1565662347,
+    "wof:lastmodified":1566639430,
     "wof:name":"Switzerland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

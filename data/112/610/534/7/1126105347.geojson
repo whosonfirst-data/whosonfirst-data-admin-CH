@@ -9,16 +9,17 @@
     "geom:bbox":"8.47149,47.34152,8.47149,47.34152",
     "geom:latitude":47.34152,
     "geom:longitude":8.47149,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":3605,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":3605,
     "iso:country":"CH",
     "lbl:latitude":47.34152,
     "lbl:longitude":8.47149,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Wettswil am Albis"
@@ -28,9 +29,6 @@
     ],
     "name:eng_x_variant":[
         "Wettswil / Wettswil (Dorf)"
-    ],
-    "name:unk_x_variant":[
-        "Wettswil (Dorf)"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -44,15 +42,15 @@
     "qs_pg:qs_id":103097,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571821,
         85633051,
         1394297985,
-        102062775
+        102062775,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +72,7 @@
         }
     ],
     "wof:id":1126105347,
-    "wof:lastmodified":1565452834,
+    "wof:lastmodified":1566641695,
     "wof:name":"Wettswil (Dorf)",
     "wof:parent_id":1394297985,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"8.43027,47.39489,8.43027,47.39489",
     "geom:latitude":47.39489,
     "geom:longitude":8.43027,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":2587,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":2587,
     "iso:country":"CH",
+    "lbl:bbox":"8.42527,47.38989,8.43527,47.39989",
     "lbl:latitude":47.39489,
     "lbl:longitude":8.43027,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Spital"
@@ -46,9 +48,6 @@
     "name:swe_x_preferred":[
         "Spital"
     ],
-    "name:unk_x_variant":[
-        "Spital"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLX",
@@ -61,15 +60,15 @@
     "qs_pg:qs_id":160544,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570711,
         85633051,
         1125836255,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +90,7 @@
         }
     ],
     "wof:id":1126104537,
-    "wof:lastmodified":1565452862,
+    "wof:lastmodified":1566641699,
     "wof:name":"Spital",
     "wof:parent_id":1125836255,
     "wof:placetype":"neighbourhood",

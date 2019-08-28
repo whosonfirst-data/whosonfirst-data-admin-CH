@@ -9,17 +9,19 @@
     "geom:bbox":"8.0411168,47.3208834,8.0861011,47.347367",
     "geom:latitude":47.332945,
     "geom:longitude":8.062713,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3419,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":3419,
     "iso:country":"CH",
     "lbl:latitude":47.33671,
     "lbl:longitude":8.05408,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.332945,
     "mps:longitude":8.062713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Muhen"
@@ -93,7 +95,7 @@
     "name:swe_x_preferred":[
         "Muhen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mittel-Muhen"
     ],
     "name:uzb_x_preferred":[
@@ -171,7 +173,7 @@
         }
     ],
     "wof:id":1126035687,
-    "wof:lastmodified":1565455411,
+    "wof:lastmodified":1566641837,
     "wof:name":"Muhen",
     "wof:parent_id":404570575,
     "wof:placetype":"locality",

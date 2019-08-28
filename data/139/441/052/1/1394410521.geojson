@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.47018,46.95758,8.48018,46.96758",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Wil"
     ],
@@ -134,12 +137,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328197,
         85633051,
         1125817617,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":1394410521,
-    "wof:lastmodified":1565439142,
+    "wof:lastmodified":1566640413,
     "wof:name":"Wil",
     "wof:parent_id":1125817617,
     "wof:placetype":"neighbourhood",

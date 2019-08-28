@@ -9,15 +9,17 @@
     "geom:bbox":"8.72425,47.24838,8.72425,47.24838",
     "geom:latitude":47.24838,
     "geom:longitude":8.72425,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":231,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":231,
     "iso:country":"CH",
+    "lbl:bbox":"8.71925,47.24338,8.72925,47.25338",
     "lbl:latitude":47.24838,
     "lbl:longitude":8.72425,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Binz"
@@ -55,15 +57,15 @@
     "qs_pg:qs_id":619860,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568597,
         85633051,
         101876051,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1394405693,
-    "wof:lastmodified":1565432855,
+    "wof:lastmodified":1566639770,
     "wof:name":"Binz",
     "wof:parent_id":101876051,
     "wof:placetype":"neighbourhood",

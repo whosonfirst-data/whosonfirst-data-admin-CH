@@ -9,12 +9,15 @@
     "geom:bbox":"7.718067,47.536354,7.718067,47.536354",
     "geom:latitude":47.536354,
     "geom:longitude":7.718067,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CH",
+    "lbl:bbox":"7.713067,47.531354,7.723067,47.541354",
     "lbl:latitude":47.536354,
     "lbl:longitude":7.718067,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Augst"
@@ -121,18 +124,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":781682,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Basel-Land",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682329,
         102191581,
         404571291,
         85633051,
         1125968061,
-        102062905
+        102062905,
+        85682329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":1394396237,
-    "wof:lastmodified":1565441774,
+    "wof:lastmodified":1566640695,
     "wof:name":"Augst",
     "wof:parent_id":1125968061,
     "wof:placetype":"neighbourhood",

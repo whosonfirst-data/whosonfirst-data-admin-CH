@@ -26,8 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.95929,47.22685,8.96929,47.23685",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Brugg"
     ],
@@ -135,12 +138,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682341,
         102191581,
         404570435,
         85633051,
         101854283,
-        102062815
+        102062815,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":1394428795,
-    "wof:lastmodified":1565443536,
+    "wof:lastmodified":1566640891,
     "wof:name":"Brugg",
     "wof:parent_id":101854283,
     "wof:placetype":"neighbourhood",

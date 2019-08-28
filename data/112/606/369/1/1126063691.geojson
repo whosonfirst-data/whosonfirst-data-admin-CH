@@ -9,15 +9,17 @@
     "geom:bbox":"8.43927,47.35151,8.43927,47.35151",
     "geom:latitude":47.35151,
     "geom:longitude":8.43927,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":296,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":296,
     "iso:country":"CH",
+    "lbl:bbox":"8.43427,47.34651,8.44427,47.35651",
     "lbl:latitude":47.35151,
     "lbl:longitude":8.43927,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Oberdorf"
@@ -76,9 +78,6 @@
     "name:swe_x_preferred":[
         "Oberdorf"
     ],
-    "name:unk_x_variant":[
-        "Oberdorf"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLX",
@@ -91,15 +90,15 @@
     "qs_pg:qs_id":621116,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569459,
         85633051,
         101854437,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,7 +120,7 @@
         }
     ],
     "wof:id":1126063691,
-    "wof:lastmodified":1565460480,
+    "wof:lastmodified":1566642210,
     "wof:name":"Oberdorf",
     "wof:parent_id":101854437,
     "wof:placetype":"neighbourhood",

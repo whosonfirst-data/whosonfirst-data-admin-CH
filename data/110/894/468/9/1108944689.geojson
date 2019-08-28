@@ -10,8 +10,10 @@
     "geom:latitude":47.454209,
     "geom:longitude":7.546928,
     "iso:country":"CH",
+    "lbl:bbox":"7.54192816253,47.4492088108,7.55192816253,47.4592088108",
     "lbl:latitude":47.454209,
     "lbl:longitude":7.546928,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,14 +35,14 @@
     "name:gsw_x_preferred":[
         "Bruederholz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682361,
         102191581,
         404570535,
         85633051,
         1126049771,
-        102062757
+        102062757,
+        85682361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1108944689,
-    "wof:lastmodified":1565431658,
+    "wof:lastmodified":1566639689,
     "wof:name":"Bruderholz",
     "wof:parent_id":1126049771,
     "wof:placetype":"neighbourhood",

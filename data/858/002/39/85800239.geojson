@@ -10,8 +10,10 @@
     "geom:latitude":46.932929,
     "geom:longitude":7.503939,
     "iso:country":"CH",
+    "lbl:bbox":"7.498939,46.927929,7.508939,46.937929",
     "lbl:latitude":46.932929,
     "lbl:longitude":7.503939,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.933111,
     "mps:longitude":7.502663,
     "mz:hierarchy_label":0,
@@ -59,9 +61,6 @@
     "name:swe_x_preferred":[
         "Muri"
     ],
-    "name:unk_x_variant":[
-        "Muri"
-    ],
     "name:vol_x_preferred":[
         "Muri"
     ],
@@ -94,14 +93,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682381,
         102191581,
         404570409,
         85633051,
         1394290297,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,7 +123,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428659,
+    "wof:lastmodified":1566639483,
     "wof:name":"Muri",
     "wof:parent_id":1394290297,
     "wof:placetype":"neighbourhood",

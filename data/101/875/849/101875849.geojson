@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.27945,
     "lbl:longitude":7.370438,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.278712,
     "mps:longitude":7.359885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Moutier"
     ],
@@ -115,9 +118,6 @@
     "name:swe_x_preferred":[
         "Moutier"
     ],
-    "name:unk_x_variant":[
-        "M\u00fcnster"
-    ],
     "name:vie_x_preferred":[
         "Moutier"
     ],
@@ -165,10 +165,12 @@
         "fct:id":"06a76e5a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2659545,
         "gp:id":783442,
-        "qs:id":339836,
-        "qs_pg:id":480759,
+        "qs_pg:id":339836,
         "wd:id":"Q67157",
         "wk:page":"Moutier"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":480759
     },
     "wof:coterminous":[
         404568613
@@ -189,7 +191,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565443785,
+    "wof:lastmodified":1566640922,
     "wof:name":"Moutier",
     "wof:parent_id":404568613,
     "wof:placetype":"locality",

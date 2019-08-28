@@ -11,8 +11,10 @@
     "geom:longitude":6.623291,
     "gn:id":"",
     "iso:country":"CH",
+    "lbl:bbox":"6.618291,46.508828,6.628291,46.518828",
     "lbl:latitude":46.513828,
     "lbl:longitude":6.623291,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.513041,
     "mps:longitude":6.623382,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:fra_x_preferred":[
-        "Cret de Montriond"
-    ],
-    "name:unk_x_variant":[
         "Cret de Montriond"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682325,
         102191581,
         404567693,
         85633051,
         101748449,
-        102063021
+        102063021,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20101406,
-        "qs:id":1154116,
         "qs_pg:id":1154116
     },
     "wof:country":"CH",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428561,
+    "wof:lastmodified":1566639470,
     "wof:name":"Cret de Montriond",
     "wof:parent_id":101748449,
     "wof:placetype":"neighbourhood",

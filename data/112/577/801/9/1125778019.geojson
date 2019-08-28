@@ -9,16 +9,19 @@
     "geom:bbox":"7.6818651,46.4952033,7.8272693,46.6163674",
     "geom:latitude":46.556113,
     "geom:longitude":7.760806,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
     "lbl:latitude":46.58796,
     "lbl:longitude":7.72394,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.556113,
     "mps:longitude":7.760806,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Reichenbach im Kandertal"
@@ -92,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u0445\u0435\u043d\u0431\u0430\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kienthal"
     ],
     "name:vol_x_preferred":[
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":1125778019,
-    "wof:lastmodified":1565462796,
+    "wof:lastmodified":1566642425,
     "wof:name":"Kiental",
     "wof:parent_id":404567765,
     "wof:placetype":"locality",

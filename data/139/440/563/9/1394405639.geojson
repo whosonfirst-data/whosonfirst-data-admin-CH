@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"7.80499,46.6988,7.81499,46.7088",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Mauren"
     ],
@@ -149,12 +152,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568293,
         85633051,
         1125778673,
-        102062759
+        102062759,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":1394405639,
-    "wof:lastmodified":1565435702,
+    "wof:lastmodified":1566640084,
     "wof:name":"Mauren",
     "wof:parent_id":1125778673,
     "wof:placetype":"neighbourhood",

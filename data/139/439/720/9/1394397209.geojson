@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.89956,46.01166,8.90956,46.02166",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0642\u0629"
     ],
@@ -101,12 +104,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404570771,
         85633051,
         1126037807,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1394397209,
-    "wof:lastmodified":1565442640,
+    "wof:lastmodified":1566640783,
     "wof:name":"Barca",
     "wof:parent_id":1126037807,
     "wof:placetype":"neighbourhood",

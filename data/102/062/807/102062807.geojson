@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":46.000406,
     "lbl:longitude":7.209015,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.000406,
     "mps:longitude":7.209015,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:arg_x_preferred":[
         "Entremont"
     ],
@@ -122,7 +125,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":65,
     "wof:belongsto":[
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":102062807,
-    "wof:lastmodified":1565420616,
+    "wof:lastmodified":1566639325,
     "wof:name":"Entremont",
     "wof:parent_id":85682281,
     "wof:placetype":"county",

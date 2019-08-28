@@ -9,17 +9,19 @@
     "geom:bbox":"8.79748,47.48656,8.79748,47.48656",
     "geom:latitude":47.48656,
     "geom:longitude":8.79748,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":46,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":46,
     "iso:country":"CH",
+    "lbl:bbox":"8.79248,47.48156,8.80248,47.49156",
     "lbl:latitude":47.48656,
     "lbl:longitude":8.79748,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Unter Ricketwil"
     ],
     "qs_pg:aaroncc":"CH",
@@ -34,15 +36,15 @@
     "qs_pg:qs_id":621016,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404567873,
         85633051,
         1277110841,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":1126063081,
-    "wof:lastmodified":1565460038,
+    "wof:lastmodified":1566642172,
     "wof:name":"Unter Ricketwil",
     "wof:parent_id":1277110841,
     "wof:placetype":"neighbourhood",

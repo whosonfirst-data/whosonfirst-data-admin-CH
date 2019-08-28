@@ -11,8 +11,10 @@
     "geom:longitude":8.287595,
     "gn:id":"",
     "iso:country":"CH",
+    "lbl:bbox":"8.282595,47.06198,8.292595,47.07198",
     "lbl:latitude":47.06698,
     "lbl:longitude":8.287595,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.072277,
     "mps:longitude":8.28104,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Reussbuhl"
     ],
     "name:deu_x_preferred":[
-        "Reussb\u00fchl"
-    ],
-    "name:unk_x_variant":[
         "Reussb\u00fchl"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -63,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682319,
         102191581,
         404328203,
         85633051,
         101748451,
-        1394137117
+        1394137117,
+        85682319
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15001147,
-        "qs:id":1306490,
         "qs_pg:id":1306490
     },
     "wof:country":"CH",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428492,
+    "wof:lastmodified":1566639459,
     "wof:name":"Reussb\u00fchl",
     "wof:parent_id":101748451,
     "wof:placetype":"neighbourhood",

@@ -9,17 +9,19 @@
     "geom:bbox":"9.263907,47.5585697,9.2996478,47.5819665",
     "geom:latitude":47.571271,
     "geom:longitude":9.283864,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":492,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":492,
     "iso:country":"CH",
     "lbl:latitude":47.5675,
     "lbl:longitude":9.28919,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":47.571271,
     "mps:longitude":9.283864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Sommeri"
@@ -87,7 +89,7 @@
     "name:swe_x_preferred":[
         "Sommeri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Niedersommeri"
     ],
     "name:uzb_x_preferred":[
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":1125910151,
-    "wof:lastmodified":1565459384,
+    "wof:lastmodified":1566642106,
     "wof:name":"Sommeri",
     "wof:parent_id":404571601,
     "wof:placetype":"locality",

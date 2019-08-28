@@ -9,15 +9,17 @@
     "geom:bbox":"8.77809,47.3302,8.77809,47.3302",
     "geom:latitude":47.3302,
     "geom:longitude":8.77809,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":29,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":29,
     "iso:country":"CH",
+    "lbl:bbox":"8.77309,47.3252,8.78309,47.3352",
     "lbl:latitude":47.3302,
     "lbl:longitude":8.77809,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Flos"
@@ -52,15 +54,15 @@
     "qs_pg:qs_id":619058,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568793,
         85633051,
         101854397,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":1394399869,
-    "wof:lastmodified":1565442678,
+    "wof:lastmodified":1566640786,
     "wof:name":"Flos",
     "wof:parent_id":101854397,
     "wof:placetype":"neighbourhood",

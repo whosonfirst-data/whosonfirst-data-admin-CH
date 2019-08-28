@@ -9,17 +9,19 @@
     "geom:bbox":"8.5410195,47.7247762,8.619734,47.7530971",
     "geom:latitude":47.737671,
     "geom:longitude":8.578046,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":555,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":555,
     "iso:country":"CH",
     "lbl:latitude":47.73378,
     "lbl:longitude":8.5853,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":47.737671,
     "mps:longitude":8.578046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0425\u0435\u043c\u0435\u043d\u0442\u0430\u043b"
@@ -67,9 +69,6 @@
         "Hemmental"
     ],
     "name:swe_x_preferred":[
-        "Hemmental"
-    ],
-    "name:unk_x_variant":[
         "Hemmental"
     ],
     "name:vol_x_preferred":[
@@ -137,7 +136,7 @@
         }
     ],
     "wof:id":1125888055,
-    "wof:lastmodified":1565457167,
+    "wof:lastmodified":1566641928,
     "wof:name":"Hemmental",
     "wof:parent_id":404328173,
     "wof:placetype":"locality",

@@ -25,9 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Mauer"
     ],
@@ -57,12 +59,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567921,
         85633051,
         101854145,
-        102062837
+        102062837,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":1394410751,
-    "wof:lastmodified":1565439410,
+    "wof:lastmodified":1566640442,
     "wof:name":"Mauer",
     "wof:parent_id":101854145,
     "wof:placetype":"neighbourhood",

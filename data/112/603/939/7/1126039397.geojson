@@ -9,17 +9,19 @@
     "geom:bbox":"8.6141157,47.2990534,8.6728478,47.3450192",
     "geom:latitude":47.32157,
     "geom:longitude":8.646312,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":284,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":284,
     "iso:country":"CH",
     "lbl:latitude":47.32516,
     "lbl:longitude":8.64341,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":47.32157,
     "mps:longitude":8.646312,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Forch"
@@ -38,9 +40,6 @@
     ],
     "name:pnb_x_preferred":[
         "\u0641\u0648\u0631\u062e"
-    ],
-    "name:unk_x_variant":[
-        "Forch"
     ],
     "nav:latitude":47.32516,
     "nav:longitude":8.64341,
@@ -89,7 +88,7 @@
         }
     ],
     "wof:id":1126039397,
-    "wof:lastmodified":1565455402,
+    "wof:lastmodified":1566641836,
     "wof:name":"Forch",
     "wof:parent_id":404568929,
     "wof:placetype":"locality",

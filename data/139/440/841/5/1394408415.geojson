@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.36021,46.97985,8.37021,46.98985",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Niederwil"
     ],
@@ -61,17 +64,16 @@
         "Niederwil"
     ],
     "name:und_x_variant":[
-        "Niderwil",
-        "Niederwil"
+        "Niderwil"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328301,
         85633051,
         1310637187,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":1394408415,
-    "wof:lastmodified":1565436053,
+    "wof:lastmodified":1566640123,
     "wof:name":"Niederwil",
     "wof:parent_id":1310637187,
     "wof:placetype":"neighbourhood",

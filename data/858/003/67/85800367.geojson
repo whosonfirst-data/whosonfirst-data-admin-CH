@@ -13,6 +13,7 @@
     "iso:country":"CH",
     "lbl:latitude":47.508781,
     "lbl:longitude":7.555679,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.511505,
     "mps:longitude":7.546682,
     "mz:hierarchy_label":1,
@@ -111,9 +112,6 @@
     "name:swe_x_preferred":[
         "Oberwil"
     ],
-    "name:unk_x_variant":[
-        "Oberwil"
-    ],
     "name:uzb_x_preferred":[
         "Oberwil"
     ],
@@ -158,22 +156,21 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":1919,
     "wof:belongsto":[
-        85682361,
         102191581,
         404570307,
         85633051,
         1394296833,
-        102062971
+        102062971,
+        85682361
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2659321,
         "gp:id":783630,
-        "qs:id":1084697,
         "qs_pg:id":1084697,
         "wd:id":"Q69724",
         "wk:page":"Oberwil, Basel-Landschaft"
@@ -195,7 +192,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428603,
+    "wof:lastmodified":1566639476,
     "wof:name":"Oberwil",
     "wof:parent_id":1394296833,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.971398,
     "lbl:longitude":7.356041,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.97407,
     "mps:longitude":7.351122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Wohlen bei Bern"
     ],
@@ -282,10 +285,12 @@
     "wof:concordances":{
         "gn:id":2657964,
         "gp:id":784733,
-        "qs:id":250171,
-        "qs_pg:id":1037228,
+        "qs_pg:id":250171,
         "wd:id":"Q67613",
         "wk:page":"Wohlen bei Bern"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1037228
     },
     "wof:country":"CH",
     "wof:geomhash":"6aeee719bb015504986849e40d1e021e",
@@ -300,7 +305,7 @@
         }
     ],
     "wof:id":101854073,
-    "wof:lastmodified":1565444345,
+    "wof:lastmodified":1566640993,
     "wof:name":"Wohlen b. Bern",
     "wof:parent_id":404568177,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"CH",
     "lbl:latitude":47.370549,
     "lbl:longitude":8.560557,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.36979,
     "mps:longitude":8.560803,
     "mz:hierarchy_label":1,
@@ -52,9 +53,6 @@
     "name:slv_x_preferred":[
         "Hottingen"
     ],
-    "name:unk_x_variant":[
-        "Hottingen"
-    ],
     "qs:gn_adm0_cc":"CH",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2657896,
@@ -84,22 +82,21 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":113,
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254167,
         85633051,
         101748463,
-        102063071
+        102063071,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6295507,
         "gp:id":782803,
-        "qs:id":160568,
         "qs_pg:id":160568,
         "wd:id":"Q693454",
         "wk:page":"Hottingen (Z\u00fcrich)"
@@ -121,7 +118,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428504,
+    "wof:lastmodified":1566639461,
     "wof:name":"Hottingen",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",

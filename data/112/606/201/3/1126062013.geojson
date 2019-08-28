@@ -9,15 +9,17 @@
     "geom:bbox":"8.38672,47.46167,8.38672,47.46167",
     "geom:latitude":47.46167,
     "geom:longitude":8.38672,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":264,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":264,
     "iso:country":"CH",
+    "lbl:bbox":"8.38172,47.45667,8.39172,47.46667",
     "lbl:latitude":47.46167,
     "lbl:longitude":8.38672,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Dorf"
@@ -55,9 +57,6 @@
     "name:swe_x_preferred":[
         "Dorf"
     ],
-    "name:unk_x_variant":[
-        "Dorf"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLX",
@@ -70,15 +69,15 @@
     "qs_pg:qs_id":618246,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570525,
         85633051,
         1125919651,
-        102062995
+        102062995,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +99,7 @@
         }
     ],
     "wof:id":1126062013,
-    "wof:lastmodified":1565460677,
+    "wof:lastmodified":1566642227,
     "wof:name":"Dorf",
     "wof:parent_id":1125919651,
     "wof:placetype":"neighbourhood",

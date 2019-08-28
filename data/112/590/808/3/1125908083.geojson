@@ -9,17 +9,19 @@
     "geom:bbox":"8.3256279,47.4786082,8.3632757,47.5122568",
     "geom:latitude":47.494312,
     "geom:longitude":8.346814,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1790,
-    "gn:population":4519,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":1790,
     "iso:country":"CH",
     "lbl:latitude":47.5025,
     "lbl:longitude":8.34729,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.494312,
     "mps:longitude":8.346814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Ehrendingen"
@@ -78,7 +80,7 @@
     "name:swe_x_preferred":[
         "Ehrendingen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Unterehrendingen"
     ],
     "name:uzb_x_preferred":[
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":1125908083,
-    "wof:lastmodified":1565458822,
+    "wof:lastmodified":1566642059,
     "wof:name":"Ehrendingen",
     "wof:parent_id":404570491,
     "wof:placetype":"locality",

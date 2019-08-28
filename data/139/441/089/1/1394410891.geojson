@@ -9,12 +9,15 @@
     "geom:bbox":"7.499124,47.008873,7.499124,47.008873",
     "geom:latitude":47.008873,
     "geom:longitude":7.499124,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CH",
+    "lbl:bbox":"7.494124,47.003873,7.504124,47.013873",
     "lbl:latitude":47.008873,
     "lbl:longitude":7.499124,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Sand"
@@ -349,18 +352,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":28997047,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404570517,
         85633051,
         101854095,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -382,7 +385,7 @@
         }
     ],
     "wof:id":1394410891,
-    "wof:lastmodified":1565439337,
+    "wof:lastmodified":1566640433,
     "wof:name":"Sand",
     "wof:parent_id":101854095,
     "wof:placetype":"neighbourhood",

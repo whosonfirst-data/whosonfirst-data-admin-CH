@@ -9,24 +9,23 @@
     "geom:bbox":"8.64591,47.24303,8.64591,47.24303",
     "geom:latitude":47.24303,
     "geom:longitude":8.64591,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":2562,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":2562,
     "iso:country":"CH",
+    "lbl:bbox":"8.64091,47.23803,8.65091,47.24803",
     "lbl:latitude":47.24303,
     "lbl:longitude":8.64591,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Mittel-Dorf"
     ],
     "name:eng_x_variant":[
         "Au / Mittel-Dorf"
-    ],
-    "name:unk_x_variant":[
-        "Mittel-Dorf"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":1053689,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394253971,
         85633051,
         1125893543,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126094935,
-    "wof:lastmodified":1565581436,
+    "wof:lastmodified":1566642307,
     "wof:name":"Mittel-Dorf",
     "wof:parent_id":1125893543,
     "wof:placetype":"neighbourhood",

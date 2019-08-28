@@ -9,14 +9,17 @@
     "geom:bbox":"7.48962,46.05379,7.48962,46.05379",
     "geom:latitude":46.05379,
     "geom:longitude":7.48962,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"7.48462,46.04879,7.49462,46.05879",
     "lbl:latitude":46.05379,
     "lbl:longitude":7.48962,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fra_x_preferred":[
         "La Gouille"
@@ -42,18 +45,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782990,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567707,
         85633051,
         1125781279,
-        102062985
+        102062985,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1394394725,
-    "wof:lastmodified":1565441746,
+    "wof:lastmodified":1566640692,
     "wof:name":"La Gouille",
     "wof:parent_id":1125781279,
     "wof:placetype":"neighbourhood",

@@ -26,8 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.89578,47.47403,8.90578,47.48403",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:chv_x_preferred":[
         "\u042d\u0442\u0442\u0435\u043d\u0445\u0430\u0443\u0437\u0435\u043d"
     ],
@@ -57,12 +60,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404568605,
         85633051,
         1125976971,
-        102062981
+        102062981,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1394409319,
-    "wof:lastmodified":1565432847,
+    "wof:lastmodified":1566639769,
     "wof:name":"Ettenhausen",
     "wof:parent_id":1125976971,
     "wof:placetype":"neighbourhood",

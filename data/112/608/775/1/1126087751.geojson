@@ -9,24 +9,23 @@
     "geom:bbox":"8.78957,47.53969,8.78957,47.53969",
     "geom:latitude":47.53969,
     "geom:longitude":8.78957,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":95,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":95,
     "iso:country":"CH",
+    "lbl:bbox":"8.78457,47.53469,8.79457,47.54469",
     "lbl:latitude":47.53969,
     "lbl:longitude":8.78957,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Steinler"
     ],
     "name:eng_x_variant":[
         "Sulz / Steinler"
-    ],
-    "name:unk_x_variant":[
-        "Steinler"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":620911,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570901,
         85633051,
         1394297789,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126087751,
-    "wof:lastmodified":1565459943,
+    "wof:lastmodified":1566642165,
     "wof:name":"Steinler",
     "wof:parent_id":1394297789,
     "wof:placetype":"neighbourhood",

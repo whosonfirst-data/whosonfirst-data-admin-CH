@@ -9,17 +9,19 @@
     "geom:bbox":"8.1877097,47.422455,8.2336846,47.4425556",
     "geom:latitude":47.432161,
     "geom:longitude":8.212159,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3884,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":3884,
     "iso:country":"CH",
     "lbl:latitude":47.43587,
     "lbl:longitude":8.20801,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.432161,
     "mps:longitude":8.212159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Birr AG"
@@ -102,7 +104,7 @@
     "name:swe_x_preferred":[
         "Birr"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Birr-Lufig"
     ],
     "name:uzb_x_preferred":[
@@ -182,7 +184,7 @@
         }
     ],
     "wof:id":1125916295,
-    "wof:lastmodified":1565459415,
+    "wof:lastmodified":1566642110,
     "wof:name":"Birr",
     "wof:parent_id":404571239,
     "wof:placetype":"locality",

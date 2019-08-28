@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.38124,46.92374,8.39124,46.93374",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:dan_x_preferred":[
         "Dellen"
     ],
@@ -77,12 +80,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682315,
         102191581,
         404328333,
         85633051,
         1126051145,
-        102062973
+        102062973,
+        85682315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1394404147,
-    "wof:lastmodified":1565433752,
+    "wof:lastmodified":1566639869,
     "wof:name":"Dellen",
     "wof:parent_id":1126051145,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"9.17556,46.67082,9.18556,46.68082",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "St. Martin"
     ],
@@ -92,12 +95,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         1394254033,
         85633051,
         1343991955,
-        102062773
+        102062773,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1394399031,
-    "wof:lastmodified":1565581893,
+    "wof:lastmodified":1566640651,
     "wof:name":"Sankt Martin",
     "wof:parent_id":1343991955,
     "wof:placetype":"neighbourhood",

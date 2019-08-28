@@ -9,24 +9,23 @@
     "geom:bbox":"8.79753,47.55368,8.79753,47.55368",
     "geom:latitude":47.55368,
     "geom:longitude":8.79753,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":252,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":252,
     "iso:country":"CH",
+    "lbl:bbox":"8.79253,47.54868,8.80253,47.55868",
     "lbl:latitude":47.55368,
     "lbl:longitude":8.79753,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "B\u00fcel"
     ],
     "name:eng_x_variant":[
         "Rickenbach / B\u00fcel"
-    ],
-    "name:unk_x_variant":[
-        "B\u00fcel"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":620905,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570901,
         85633051,
         1125771245,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126063009,
-    "wof:lastmodified":1565459976,
+    "wof:lastmodified":1566642168,
     "wof:name":"B\u00fcel",
     "wof:parent_id":1125771245,
     "wof:placetype":"neighbourhood",

@@ -9,17 +9,19 @@
     "geom:bbox":"8.5495824,47.0099762,8.6080925,47.0460536",
     "geom:latitude":47.024776,
     "geom:longitude":8.580484,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":913,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":913,
     "iso:country":"CH",
     "lbl:latitude":47.03528,
     "lbl:longitude":8.58118,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":47.024776,
     "mps:longitude":8.580484,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Lauerz"
@@ -90,7 +92,7 @@
     "name:swe_x_preferred":[
         "Lauerz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lowerz"
     ],
     "name:uzb_x_preferred":[
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":1126057043,
-    "wof:lastmodified":1565455131,
+    "wof:lastmodified":1566641804,
     "wof:name":"Lauerz",
     "wof:parent_id":404569961,
     "wof:placetype":"locality",

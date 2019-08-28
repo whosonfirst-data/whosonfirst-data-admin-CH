@@ -25,8 +25,11 @@
     "gn:population":8784,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"7.78238,46.93436,7.79238,46.94436",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:als_x_preferred":[
         "Langnau"
     ],
@@ -57,18 +60,15 @@
     "name:swe_x_preferred":[
         "Langnau"
     ],
-    "name:und_x_variant":[
-        "Langnau im Emmental"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568031,
         85633051,
         101854141,
-        102062837
+        102062837,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1394402701,
-    "wof:lastmodified":1565436063,
+    "wof:lastmodified":1566640124,
     "wof:name":"Langnau",
     "wof:parent_id":101854141,
     "wof:placetype":"neighbourhood",

@@ -27,10 +27,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.21221,
     "lbl:longitude":6.9863,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.201421,
     "mps:longitude":6.96877,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "V\u00e9rossaz"
     ],
@@ -85,9 +88,6 @@
     "name:swe_x_preferred":[
         "V\u00e9rossaz"
     ],
-    "name:und_x_variant":[
-        "V\u00e9rossaz"
-    ],
     "name:vol_x_preferred":[
         "V\u00e9rossaz"
     ],
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":1326964727,
-    "wof:lastmodified":1565418696,
+    "wof:lastmodified":1566639264,
     "wof:name":"V\u00e9rossaz",
     "wof:parent_id":404568985,
     "wof:placetype":"locality",

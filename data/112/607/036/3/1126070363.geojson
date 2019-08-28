@@ -9,15 +9,17 @@
     "geom:bbox":"8.38528,47.45679,8.38528,47.45679",
     "geom:latitude":47.45679,
     "geom:longitude":8.38528,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":235,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":235,
     "iso:country":"CH",
+    "lbl:bbox":"8.38028,47.45179,8.39028,47.46179",
     "lbl:latitude":47.45679,
     "lbl:longitude":8.38528,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Br\u00fchl"
@@ -88,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u044e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Br\u00fchl"
-    ],
     "name:vol_x_preferred":[
         "Br\u00fchl"
     ],
@@ -109,15 +108,15 @@
     "qs_pg:qs_id":103149,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570525,
         85633051,
         1125919651,
-        102062995
+        102062995,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -139,7 +138,7 @@
         }
     ],
     "wof:id":1126070363,
-    "wof:lastmodified":1565461468,
+    "wof:lastmodified":1566642297,
     "wof:name":"Br\u00fchl",
     "wof:parent_id":1125919651,
     "wof:placetype":"neighbourhood",

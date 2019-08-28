@@ -25,9 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "name:afr_x_preferred":[
         "Aten"
     ],
@@ -225,12 +227,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682305,
         102191581,
         404567971,
         85633051,
         101854013,
-        102062887
+        102062887,
+        85682305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -250,7 +252,7 @@
         }
     ],
     "wof:id":1394428945,
-    "wof:lastmodified":1565443463,
+    "wof:lastmodified":1566640884,
     "wof:name":"Aten",
     "wof:parent_id":101854013,
     "wof:placetype":"neighbourhood",

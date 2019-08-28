@@ -9,12 +9,15 @@
     "geom:bbox":"6.753677,46.485383,6.753677,46.485383",
     "geom:latitude":46.485383,
     "geom:longitude":6.753677,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CH",
+    "lbl:bbox":"6.748677,46.480383,6.758677,46.490383",
     "lbl:latitude":46.485383,
     "lbl:longitude":6.753677,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Treytorrens"
@@ -76,18 +79,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20104448,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
         404567693,
         85633051,
         1125801883,
-        102063021
+        102063021,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1394409983,
-    "wof:lastmodified":1565433015,
+    "wof:lastmodified":1566639788,
     "wof:name":"Treytorrens",
     "wof:parent_id":1125801883,
     "wof:placetype":"neighbourhood",

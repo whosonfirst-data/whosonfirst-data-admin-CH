@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":47.290704,
     "lbl:longitude":8.13866,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.290704,
     "mps:longitude":8.13866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0644\u0645"
     ],
@@ -131,7 +134,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":168,
     "wof:belongsto":[
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":102062983,
-    "wof:lastmodified":1565419686,
+    "wof:lastmodified":1566639296,
     "wof:name":"Kulm",
     "wof:parent_id":85682329,
     "wof:placetype":"county",

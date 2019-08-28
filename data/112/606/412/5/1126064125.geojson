@@ -9,24 +9,23 @@
     "geom:bbox":"8.67765,47.26654,8.67765,47.26654",
     "geom:latitude":47.26654,
     "geom:longitude":8.67765,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":1040,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":1040,
     "iso:country":"CH",
+    "lbl:bbox":"8.67265,47.26154,8.68265,47.27154",
     "lbl:latitude":47.26654,
     "lbl:longitude":8.67765,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Grossdorf"
     ],
     "name:eng_x_variant":[
         "Uetikon / Grossdorf"
-    ],
-    "name:unk_x_variant":[
-        "Grossdorf"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":160500,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571553,
         85633051,
         1125880125,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126064125,
-    "wof:lastmodified":1565460179,
+    "wof:lastmodified":1566642184,
     "wof:name":"Grossdorf",
     "wof:parent_id":1125880125,
     "wof:placetype":"neighbourhood",

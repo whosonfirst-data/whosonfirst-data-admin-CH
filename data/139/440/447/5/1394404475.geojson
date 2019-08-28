@@ -9,15 +9,17 @@
     "geom:bbox":"8.64981,47.18865,8.64981,47.18865",
     "geom:latitude":47.18865,
     "geom:longitude":8.64981,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":13,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":13,
     "iso:country":"CH",
+    "lbl:bbox":"8.64481,47.18365,8.65481,47.19365",
     "lbl:latitude":47.18865,
     "lbl:longitude":8.64981,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Buchen"
@@ -118,15 +120,15 @@
     "qs_pg:qs_id":619425,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394253971,
         85633051,
         1125773725,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":1394404475,
-    "wof:lastmodified":1565581445,
+    "wof:lastmodified":1566639839,
     "wof:name":"Buchen",
     "wof:parent_id":1125773725,
     "wof:placetype":"neighbourhood",

@@ -9,16 +9,19 @@
     "geom:bbox":"7.2233728,46.17732,7.2675061,46.2050859",
     "geom:latitude":46.189867,
     "geom:longitude":7.240792,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
     "lbl:latitude":46.19212,
     "lbl:longitude":7.23689,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.189867,
     "mps:longitude":7.240792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Saint-Pierre-de-Clages"
@@ -39,9 +42,6 @@
         "Saint-Pierre-de-Clages"
     ],
     "name:spa_x_preferred":[
-        "Saint-Pierre-de-Clages"
-    ],
-    "name:unk_x_variant":[
         "Saint-Pierre-de-Clages"
     ],
     "name:zho_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1125784331,
-    "wof:lastmodified":1565462281,
+    "wof:lastmodified":1566642375,
     "wof:name":"St-Pierre-de-Clages",
     "wof:parent_id":404568221,
     "wof:placetype":"locality",

@@ -9,19 +9,22 @@
     "geom:bbox":"9.19917,47.43957,9.19917,47.43957",
     "geom:latitude":47.43957,
     "geom:longitude":9.19917,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"9.19417,47.43457,9.20417,47.44457",
     "lbl:latitude":47.43957,
     "lbl:longitude":9.19917,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Niederwil SG"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Niederwil"
     ],
     "qs_pg:aaroncc":"CH",
@@ -45,18 +48,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20103331,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton St. Gallen",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682341,
         102191581,
         404568723,
         85633051,
         1394292175,
-        102062947
+        102062947,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1394406319,
-    "wof:lastmodified":1565437284,
+    "wof:lastmodified":1566640258,
     "wof:name":"Niederwil bei Gossau",
     "wof:parent_id":1394292175,
     "wof:placetype":"neighbourhood",

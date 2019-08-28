@@ -9,24 +9,23 @@
     "geom:bbox":"8.77413,47.45748,8.77413,47.45748",
     "geom:latitude":47.45748,
     "geom:longitude":8.77413,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":1040,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":1040,
     "iso:country":"CH",
+    "lbl:bbox":"8.76913,47.45248,8.77913,47.46248",
     "lbl:latitude":47.45748,
     "lbl:longitude":8.77413,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kollbrunn (Dorfkern)"
     ],
     "name:eng_x_variant":[
         "Kollbrunn / Kollbrunn (Dorfkern)"
-    ],
-    "name:unk_x_variant":[
-        "Kollbrunn (Dorfkern)"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":160532,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569139,
         85633051,
         1259520143,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126064585,
-    "wof:lastmodified":1565460592,
+    "wof:lastmodified":1566642220,
     "wof:name":"Kollbrunn (Dorfkern)",
     "wof:parent_id":1259520143,
     "wof:placetype":"neighbourhood",

@@ -9,24 +9,23 @@
     "geom:bbox":"8.42763,47.38495,8.42763,47.38495",
     "geom:latitude":47.38495,
     "geom:longitude":8.42763,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":743,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":743,
     "iso:country":"CH",
+    "lbl:bbox":"8.42263,47.37995,8.43263,47.38995",
     "lbl:latitude":47.38495,
     "lbl:longitude":8.42763,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Heidenkeller"
     ],
     "name:eng_x_variant":[
         "Urdorf / Heidenkeller"
-    ],
-    "name:unk_x_variant":[
-        "Heidenkeller"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":621217,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570425,
         85633051,
         101854435,
-        102062893
+        102062893,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126063285,
-    "wof:lastmodified":1565460808,
+    "wof:lastmodified":1566642238,
     "wof:name":"Heidenkeller",
     "wof:parent_id":101854435,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,15 @@
     "geom:bbox":"8.48419189453,47.3537105539,8.51715087891,47.3729823456",
     "geom:latitude":47.361833,
     "geom:longitude":8.502045,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":9909,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:latitude":47.36372,
     "gn:longitude":8.50417,
     "gn:population":9909,
     "iso:country":"CH",
     "lbl:latitude":47.359263,
     "lbl:longitude":8.501522,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.361141,
     "mps:longitude":8.503383,
     "mz:hierarchy_label":1,
@@ -46,9 +46,6 @@
         "Friesenberg"
     ],
     "name:nld_x_preferred":[
-        "Friesenberg"
-    ],
-    "name:unk_x_variant":[
         "Friesenberg"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -98,25 +95,24 @@
     "qs_pg:woe_id":782493,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"wk",
     "wd:latitude":47.3647,
     "wd:longitude":8.507925,
     "wd:population":10696,
     "wd:wordcount":373,
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254167,
         85633051,
         101748463,
-        102063071
+        102063071,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6295497,
         "gp:id":782493,
-        "qs:id":491446,
         "qs_pg:id":491446,
         "wd:id":"Q693357",
         "wk:page":"Friesenberg"
@@ -138,7 +134,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565423099,
+    "wof:lastmodified":1566639428,
     "wof:name":"Friesenberg",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",

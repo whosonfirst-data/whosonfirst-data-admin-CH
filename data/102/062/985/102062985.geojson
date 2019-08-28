@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":46.078403,
     "lbl:longitude":7.455919,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.078403,
     "mps:longitude":7.455919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Districte d'H\u00e9rens"
     ],
@@ -114,7 +117,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":102062985,
-    "wof:lastmodified":1565419823,
+    "wof:lastmodified":1566639299,
     "wof:name":"Herens",
     "wof:parent_id":85682281,
     "wof:placetype":"county",

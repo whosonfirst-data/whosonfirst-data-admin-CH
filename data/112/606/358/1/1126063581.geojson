@@ -9,25 +9,23 @@
     "geom:bbox":"8.55442,47.31428,8.55442,47.31428",
     "geom:latitude":47.31428,
     "geom:longitude":8.55442,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":381,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":381,
     "iso:country":"CH",
     "lbl:latitude":47.31428,
     "lbl:longitude":8.55442,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Lindengut"
     ],
     "name:eng_x_variant":[
         "R\u00fcschlikon / Lindengut"
-    ],
-    "name:unk_x_variant":[
-        "Lindengut"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -41,15 +39,15 @@
     "qs_pg:qs_id":619357,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571543,
         85633051,
         1125851455,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +69,7 @@
         }
     ],
     "wof:id":1126063581,
-    "wof:lastmodified":1565460506,
+    "wof:lastmodified":1566642212,
     "wof:name":"Lindengut",
     "wof:parent_id":1125851455,
     "wof:placetype":"neighbourhood",

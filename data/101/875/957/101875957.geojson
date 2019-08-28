@@ -14,10 +14,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.313619,
     "lbl:longitude":7.987174,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.283532,
     "mps:longitude":7.986816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Brig-Glis"
     ],
@@ -183,7 +186,7 @@
     "name:swe_x_preferred":[
         "Brig-Glis"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brigue"
     ],
     "name:vol_x_preferred":[
@@ -232,10 +235,12 @@
     "wof:concordances":{
         "gn:id":2661394,
         "gp:id":20101049,
-        "qs:id":407882,
-        "qs_pg:id":1014709,
+        "qs_pg:id":407882,
         "wd:id":"Q15583",
         "wk:page":"Brig-Glis"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1014709
     },
     "wof:country":"CH",
     "wof:geomhash":"bc6ececb546856ec3bc6b11522e6bc77",
@@ -250,7 +255,7 @@
         }
     ],
     "wof:id":101875957,
-    "wof:lastmodified":1565443775,
+    "wof:lastmodified":1566640921,
     "wof:name":"Brig",
     "wof:parent_id":404568149,
     "wof:placetype":"locality",

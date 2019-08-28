@@ -9,12 +9,15 @@
     "geom:bbox":"9.419912,47.002719,9.419912,47.002719",
     "geom:latitude":47.002719,
     "geom:longitude":9.419912,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CH",
+    "lbl:bbox":"9.414912,46.997719,9.424912,47.007719",
     "lbl:latitude":47.002719,
     "lbl:longitude":9.419912,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Pizol"
@@ -58,18 +61,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":28997018,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton St. Gallen",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682341,
         102191581,
         404568219,
         85633051,
         1126008565,
-        102062963
+        102062963,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1394410991,
-    "wof:lastmodified":1565439148,
+    "wof:lastmodified":1566640413,
     "wof:name":"Pizol",
     "wof:parent_id":1126008565,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"8.88573,47.26698,8.88573,47.26698",
     "geom:latitude":47.26698,
     "geom:longitude":8.88573,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"HSE",
-    "gn:gn_pop":5,
+    "gn:country":"CH",
+    "gn:fcode":"HSE",
     "gn:population":5,
     "iso:country":"CH",
+    "lbl:bbox":"8.88073,47.26198,8.89073,47.27198",
     "lbl:latitude":47.26698,
     "lbl:longitude":8.88573,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Riedern"
@@ -85,15 +87,15 @@
     "qs_pg:qs_id":618895,
     "qs_pg:qs_pg_placetype":"locality_funky",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569759,
         85633051,
         101854403,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":1394398025,
-    "wof:lastmodified":1565440774,
+    "wof:lastmodified":1566640586,
     "wof:name":"Riederen",
     "wof:parent_id":101854403,
     "wof:placetype":"neighbourhood",

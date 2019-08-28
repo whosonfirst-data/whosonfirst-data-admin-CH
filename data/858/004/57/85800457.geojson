@@ -13,6 +13,7 @@
     "iso:country":"CH",
     "lbl:latitude":47.35655,
     "lbl:longitude":8.558406,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.35464,
     "mps:longitude":8.557403,
     "mz:hierarchy_label":1,
@@ -58,10 +59,6 @@
     "name:swe_x_preferred":[
         "Diesbach"
     ],
-    "name:unk_x_variant":[
-        "Diesbach",
-        "Riesbach"
-    ],
     "name:uzb_x_preferred":[
         "Diesbach"
     ],
@@ -94,21 +91,20 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254167,
         85633051,
         101748463,
-        102063071
+        102063071,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2661020,
         "gp:id":783879,
-        "qs:id":1158974,
         "qs_pg:id":1158974,
         "wd:id":"Q689492",
         "wk:page":"Diesbach, Glarus"
@@ -130,7 +126,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428613,
+    "wof:lastmodified":1566639477,
     "wof:name":"Riesbach",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",

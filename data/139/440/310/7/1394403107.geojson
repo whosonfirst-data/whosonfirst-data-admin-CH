@@ -9,16 +9,17 @@
     "geom:bbox":"8.64687,47.36776,8.64687,47.36776",
     "geom:latitude":47.36776,
     "geom:longitude":8.64687,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":237,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":237,
     "iso:country":"CH",
     "lbl:latitude":47.36776,
     "lbl:longitude":8.64687,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Neuhaus"
@@ -80,15 +81,15 @@
     "qs_pg:qs_id":620485,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570485,
         85633051,
         1125897793,
-        102062933
+        102062933,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1394403107,
-    "wof:lastmodified":1565437741,
+    "wof:lastmodified":1566640310,
     "wof:name":"Neuhaus",
     "wof:parent_id":1125897793,
     "wof:placetype":"neighbourhood",

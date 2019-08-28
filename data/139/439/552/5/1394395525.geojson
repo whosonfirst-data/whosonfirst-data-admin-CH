@@ -9,15 +9,17 @@
     "geom:bbox":"8.78179,47.23767,8.78179,47.23767",
     "geom:latitude":47.23767,
     "geom:longitude":8.78179,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":20,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":20,
     "iso:country":"CH",
+    "lbl:bbox":"8.77679,47.23267,8.78679,47.24267",
     "lbl:latitude":47.23767,
     "lbl:longitude":8.78179,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Rosenberg"
@@ -31,9 +33,6 @@
         ],
         "Feldbach / Rosenberg"
     ],
-    "name:unk_x_variant":[
-        "Rosenberg"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLL",
@@ -46,15 +45,15 @@
     "qs_pg:qs_id":619628,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394253973,
         85633051,
         1125908497,
-        1394212863
+        1394212863,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +76,7 @@
         }
     ],
     "wof:id":1394395525,
-    "wof:lastmodified":1565441335,
+    "wof:lastmodified":1566640647,
     "wof:name":"Rosenberg",
     "wof:parent_id":1125908497,
     "wof:placetype":"neighbourhood",

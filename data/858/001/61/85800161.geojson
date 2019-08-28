@@ -10,8 +10,10 @@
     "geom:latitude":46.517884,
     "geom:longitude":6.566888,
     "iso:country":"CH",
+    "lbl:bbox":"6.561888,46.512884,6.571888,46.522884",
     "lbl:latitude":46.517884,
     "lbl:longitude":6.566888,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.507993,
     "mps:longitude":6.565387,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:fra_x_preferred":[
-        "Les Pierrettes"
-    ],
-    "name:unk_x_variant":[
         "Les Pierrettes"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -58,14 +57,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682325,
         102191581,
         404567693,
         85633051,
         101748449,
-        102063021
+        102063021,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428508,
+    "wof:lastmodified":1566639461,
     "wof:name":"Les Pierrettes",
     "wof:parent_id":101748449,
     "wof:placetype":"neighbourhood",

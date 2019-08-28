@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.661774,
     "lbl:longitude":8.858706,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.666126,
     "mps:longitude":8.858209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Stein am Rhein"
     ],
@@ -158,10 +161,12 @@
     "wof:concordances":{
         "gn:id":6292152,
         "gp:id":784307,
-        "qs:id":1267662,
         "qs_pg:id":618679,
         "wd:id":"Q11939",
         "wk:page":"Stein am Rhein"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1267662
     },
     "wof:coterminous":[
         404328605
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":101854477,
-    "wof:lastmodified":1565444172,
+    "wof:lastmodified":1566640972,
     "wof:name":"Stein am Rhein",
     "wof:parent_id":404328605,
     "wof:placetype":"locality",

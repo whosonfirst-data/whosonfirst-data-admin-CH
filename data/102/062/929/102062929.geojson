@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":47.487016,
     "lbl:longitude":7.741815,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.487016,
     "mps:longitude":7.741815,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0633\u062a\u0644"
     ],
@@ -212,7 +215,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2784,
     "wof:belongsto":[
@@ -235,7 +237,7 @@
         }
     ],
     "wof:id":102062929,
-    "wof:lastmodified":1565420860,
+    "wof:lastmodified":1566639331,
     "wof:name":"Liestal",
     "wof:parent_id":85682361,
     "wof:placetype":"county",

@@ -9,15 +9,17 @@
     "geom:bbox":"8.63044,47.27309,8.63044,47.27309",
     "geom:latitude":47.27309,
     "geom:longitude":8.63044,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":100,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":100,
     "iso:country":"CH",
+    "lbl:bbox":"8.62544,47.26809,8.63544,47.27809",
     "lbl:latitude":47.27309,
     "lbl:longitude":8.63044,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Schilt"
@@ -29,9 +31,6 @@
         "\u10e8\u10d8\u10da\u10e2\u10d8"
     ],
     "name:nno_x_preferred":[
-        "Schilt"
-    ],
-    "name:unk_x_variant":[
         "Schilt"
     ],
     "qs_pg:aaroncc":"CH",
@@ -46,15 +45,15 @@
     "qs_pg:qs_id":619703,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568775,
         85633051,
         101854399,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +75,7 @@
         }
     ],
     "wof:id":1126062397,
-    "wof:lastmodified":1565460666,
+    "wof:lastmodified":1566642225,
     "wof:name":"Schilt",
     "wof:parent_id":101854399,
     "wof:placetype":"neighbourhood",

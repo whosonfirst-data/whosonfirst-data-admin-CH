@@ -11,8 +11,10 @@
     "geom:longitude":6.648504,
     "gn:population":859,
     "iso:country":"CH",
+    "lbl:bbox":"6.643504,46.521272,6.653504,46.531272",
     "lbl:latitude":46.526272,
     "lbl:longitude":6.648504,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.525178,
     "mps:longitude":6.649602,
     "mz:hierarchy_label":0,
@@ -90,9 +92,8 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0440\u0440\u0435\u043c\u0435\u043d\u0433\u0430"
     ],
-    "name:unk_x_variant":[
-        "Thusy",
-        "Bethusy"
+    "name:und_x_variant":[
+        "Thusy"
     ],
     "name:uzb_x_preferred":[
         "Torremenga"
@@ -135,21 +136,21 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682325,
         102191581,
         404567693,
         85633051,
         101748449,
-        102063021
+        102063021,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2972636,
         "gp:id":20100903,
-        "qs:id":1163838,
+        "qs_pg:id":1163838,
         "wk:page":"Torremenga"
     },
     "wof:country":"CH",
@@ -169,7 +170,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428573,
+    "wof:lastmodified":1566639472,
     "wof:name":"Bethusy",
     "wof:parent_id":101748449,
     "wof:placetype":"neighbourhood",

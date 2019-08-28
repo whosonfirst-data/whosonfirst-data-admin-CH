@@ -9,15 +9,17 @@
     "geom:bbox":"8.65848,47.47669,8.65848,47.47669",
     "geom:latitude":47.47669,
     "geom:longitude":8.65848,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":5,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":5,
     "iso:country":"CH",
+    "lbl:bbox":"8.65348,47.47169,8.66348,47.48169",
     "lbl:latitude":47.47669,
     "lbl:longitude":8.65848,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Berk"
@@ -349,15 +351,15 @@
     "qs_pg:qs_id":620705,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570707,
         85633051,
         1125884635,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -379,7 +381,7 @@
         }
     ],
     "wof:id":1394403375,
-    "wof:lastmodified":1565433164,
+    "wof:lastmodified":1566639804,
     "wof:name":"Birch",
     "wof:parent_id":1125884635,
     "wof:placetype":"neighbourhood",

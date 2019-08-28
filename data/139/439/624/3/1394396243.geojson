@@ -9,15 +9,17 @@
     "geom:bbox":"8.03689,46.6989,8.03689,46.6989",
     "geom:latitude":46.6989,
     "geom:longitude":8.03689,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":264,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":264,
     "iso:country":"CH",
+    "lbl:bbox":"8.03189,46.6939,8.04189,46.7039",
     "lbl:latitude":46.6989,
     "lbl:longitude":8.03689,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "L\u00fctschental"
@@ -121,15 +123,15 @@
     "qs_pg:qs_id":92355,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568015,
         85633051,
         101854149,
-        102062759
+        102062759,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":1394396243,
-    "wof:lastmodified":1565441794,
+    "wof:lastmodified":1566640697,
     "wof:name":"L\u00fctschental",
     "wof:parent_id":101854149,
     "wof:placetype":"neighbourhood",

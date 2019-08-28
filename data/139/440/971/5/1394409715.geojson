@@ -9,15 +9,17 @@
     "geom:bbox":"8.78724,47.50232,8.78724,47.50232",
     "geom:latitude":47.50232,
     "geom:longitude":8.78724,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":675,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":675,
     "iso:country":"CH",
+    "lbl:bbox":"8.78224,47.49732,8.79224,47.50732",
     "lbl:latitude":47.50232,
     "lbl:longitude":8.78724,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "R\u00fcmikon"
@@ -114,19 +116,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20103932,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570247,
         85633051,
         1394295585,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":1394409715,
-    "wof:lastmodified":1565435186,
+    "wof:lastmodified":1566640028,
     "wof:name":"R\u00fcmikon",
     "wof:parent_id":1394295585,
     "wof:placetype":"neighbourhood",

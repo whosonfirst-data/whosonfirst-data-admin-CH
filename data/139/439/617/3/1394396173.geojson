@@ -9,15 +9,17 @@
     "geom:bbox":"8.48728,47.29034,8.48728,47.29034",
     "geom:latitude":47.29034,
     "geom:longitude":8.48728,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":9,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":9,
     "iso:country":"CH",
+    "lbl:bbox":"8.48228,47.28534,8.49228,47.29534",
     "lbl:latitude":47.29034,
     "lbl:longitude":8.48728,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Scheller"
@@ -40,15 +42,15 @@
     "qs_pg:qs_id":617162,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570297,
         85633051,
         1394297339,
-        102062775
+        102062775,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1394396173,
-    "wof:lastmodified":1565440246,
+    "wof:lastmodified":1566640530,
     "wof:name":"Scheller",
     "wof:parent_id":1394297339,
     "wof:placetype":"neighbourhood",

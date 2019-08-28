@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.8158,45.9979,8.8258,46.0079",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:azb_x_preferred":[
         "\u0642\u0631\u0648\u0645\u0648"
     ],
@@ -134,12 +137,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404572183,
         85633051,
         1126016751,
-        102062767
+        102062767,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":1394403323,
-    "wof:lastmodified":1565435668,
+    "wof:lastmodified":1566640080,
     "wof:name":"Gromo",
     "wof:parent_id":1126016751,
     "wof:placetype":"neighbourhood",

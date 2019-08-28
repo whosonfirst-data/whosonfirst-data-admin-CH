@@ -9,14 +9,17 @@
     "geom:bbox":"7.95925,46.73633,7.95925,46.73633",
     "geom:latitude":46.73633,
     "geom:longitude":7.95925,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"7.95425,46.73133,7.96425,46.74133",
     "lbl:latitude":46.73633,
     "lbl:longitude":7.95925,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Oberried"
@@ -69,18 +72,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":783609,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568579,
         85633051,
         1394297961,
-        102062759
+        102062759,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1394408741,
-    "wof:lastmodified":1565433676,
+    "wof:lastmodified":1566639861,
     "wof:name":"Oberried",
     "wof:parent_id":1394297961,
     "wof:placetype":"neighbourhood",

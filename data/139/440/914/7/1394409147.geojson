@@ -9,16 +9,19 @@
     "geom:bbox":"7.48333,46.56667,7.48333,46.56667",
     "geom:latitude":46.56667,
     "geom:longitude":7.48333,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"7.47833,46.56167,7.48833,46.57167",
     "lbl:latitude":46.56667,
     "lbl:longitude":7.48333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kurhaus"
     ],
     "qs_pg:aaroncc":"CH",
@@ -42,18 +45,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782641,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567761,
         85633051,
         1209248803,
-        102062831
+        102062831,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1394409147,
-    "wof:lastmodified":1565435367,
+    "wof:lastmodified":1566640047,
     "wof:name":"Grimmialp",
     "wof:parent_id":1209248803,
     "wof:placetype":"neighbourhood",

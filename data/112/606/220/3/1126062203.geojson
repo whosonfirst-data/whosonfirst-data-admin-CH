@@ -9,25 +9,23 @@
     "geom:bbox":"8.53716,47.27986,8.53716,47.27986",
     "geom:latitude":47.27986,
     "geom:longitude":8.53716,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":104,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":104,
     "iso:country":"CH",
     "lbl:latitude":47.27986,
     "lbl:longitude":8.53716,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Unter-Rengg"
     ],
     "name:eng_x_variant":[
         "Langnau / Unter-Rengg"
-    ],
-    "name:unk_x_variant":[
-        "Unter-Rengg"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -41,15 +39,15 @@
     "qs_pg:qs_id":619288,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570117,
         85633051,
         1394290047,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +69,7 @@
         }
     ],
     "wof:id":1126062203,
-    "wof:lastmodified":1565460103,
+    "wof:lastmodified":1566642177,
     "wof:name":"Unter-Rengg",
     "wof:parent_id":1394290047,
     "wof:placetype":"neighbourhood",

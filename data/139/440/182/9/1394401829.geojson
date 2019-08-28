@@ -9,15 +9,17 @@
     "geom:bbox":"8.6826,47.27239,8.6826,47.27239",
     "geom:latitude":47.27239,
     "geom:longitude":8.6826,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":161,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":161,
     "iso:country":"CH",
+    "lbl:bbox":"8.6776,47.26739,8.6876,47.27739",
     "lbl:latitude":47.27239,
     "lbl:longitude":8.6826,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bar_x_preferred":[
         "Bergheim"
@@ -94,15 +96,15 @@
     "qs_pg:qs_id":619909,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571553,
         85633051,
         1125880125,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":1394401829,
-    "wof:lastmodified":1565437914,
+    "wof:lastmodified":1566640328,
     "wof:name":"Bergheim",
     "wof:parent_id":1125880125,
     "wof:placetype":"neighbourhood",

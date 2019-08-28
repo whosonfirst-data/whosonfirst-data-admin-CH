@@ -9,14 +9,17 @@
     "geom:bbox":"9.94041,46.45078,9.94041,46.45078",
     "geom:latitude":46.45078,
     "geom:longitude":9.94041,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"9.93541,46.44578,9.94541,46.45578",
     "lbl:latitude":46.45078,
     "lbl:longitude":9.94041,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Morteratsch"
@@ -48,18 +51,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":783412,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404567777,
         85633051,
         1125922677,
-        102062857
+        102062857,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1394395205,
-    "wof:lastmodified":1565441032,
+    "wof:lastmodified":1566640614,
     "wof:name":"Morteratsch",
     "wof:parent_id":1125922677,
     "wof:placetype":"neighbourhood",

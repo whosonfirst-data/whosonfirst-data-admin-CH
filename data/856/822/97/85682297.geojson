@@ -42,6 +42,7 @@
     ],
     "lbl:latitude":47.558334,
     "lbl:longitude":7.598995,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.558334,
     "mps:longitude":7.598995,
     "mz:hierarchy_label":1,
@@ -329,7 +330,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0437\u0435\u043b\u044c-\u0428\u0442\u0430\u0434\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baselstadt"
     ],
     "name:urd_x_preferred":[
@@ -425,10 +426,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:area_km":"37",
     "statoids:area_mi":"14",
     "statoids:as_of_date":"2010-12-31",
@@ -478,11 +478,10 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1565662360,
+    "wof:lastmodified":1566639456,
     "wof:name":"Basel-City",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"canton",
     "wof:population":184950,
     "wof:population_rank":9,

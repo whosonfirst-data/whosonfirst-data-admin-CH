@@ -9,17 +9,19 @@
     "geom:bbox":"8.5830621,47.3751788,8.6528808,47.4103719",
     "geom:latitude":47.393624,
     "geom:longitude":8.620168,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":19882,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":19882,
     "iso:country":"CH",
     "lbl:latitude":47.39724,
     "lbl:longitude":8.61872,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.393624,
     "mps:longitude":8.620168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u0648\u0628\u064a\u0646\u062f\u0648\u0631\u0641"
@@ -141,7 +143,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u044e\u0431\u0435\u043d\u0434\u043e\u0440\u0444"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Duebendorf"
     ],
     "name:uzb_x_preferred":[
@@ -221,7 +223,7 @@
         }
     ],
     "wof:id":1125826975,
-    "wof:lastmodified":1565461723,
+    "wof:lastmodified":1566642320,
     "wof:name":"D\u00fcbendorf",
     "wof:parent_id":404569055,
     "wof:placetype":"locality",

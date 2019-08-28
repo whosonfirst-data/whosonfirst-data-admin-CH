@@ -9,17 +9,19 @@
     "geom:bbox":"9.1001847,46.16917,9.2023228,46.2508655",
     "geom:latitude":46.207968,
     "geom:longitude":9.152534,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":129,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":129,
     "iso:country":"CH",
     "lbl:latitude":46.23512,
     "lbl:longitude":9.12622,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":46.207968,
     "mps:longitude":9.152534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Roveredo"
@@ -95,9 +97,6 @@
     ],
     "name:szl_x_preferred":[
         "Roveredo"
-    ],
-    "name:unk_x_variant":[
-        "Roveredo GR"
     ],
     "name:uzb_x_preferred":[
         "Roveredo"
@@ -175,7 +174,7 @@
         }
     ],
     "wof:id":1125773789,
-    "wof:lastmodified":1565462722,
+    "wof:lastmodified":1566642416,
     "wof:name":"Roveredo",
     "wof:parent_id":404568141,
     "wof:placetype":"locality",

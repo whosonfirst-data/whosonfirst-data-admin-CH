@@ -9,12 +9,15 @@
     "geom:bbox":"8.687744,46.172059,8.687744,46.172059",
     "geom:latitude":46.172059,
     "geom:longitude":8.687744,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CH",
+    "lbl:bbox":"8.682744,46.167059,8.692744,46.177059",
     "lbl:latitude":46.172059,
     "lbl:longitude":8.687744,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Costa"
@@ -118,18 +121,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20101388,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682269,
         102191581,
         404567987,
         85633051,
         1125944481,
-        102062975
+        102062975,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1394406175,
-    "wof:lastmodified":1565433654,
+    "wof:lastmodified":1566639859,
     "wof:name":"Costa",
     "wof:parent_id":1125944481,
     "wof:placetype":"neighbourhood",

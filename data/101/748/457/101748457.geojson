@@ -13,6 +13,8 @@
     "iso:country":"CH",
     "lbl:latitude":47.432,
     "lbl:longitude":9.38115,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":47.422037,
     "mps:longitude":9.371566,
     "mz:hierarchy_label":1,
@@ -246,9 +248,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u0413\u0430\u043b\u043b\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "San Gallo"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u06a9\u062a \u06af\u0627\u0644\u0646"
     ],
@@ -395,10 +394,12 @@
         "gn:id":2658822,
         "gp:id":784254,
         "loc:id":"n80004388",
-        "qs:id":1037252,
-        "qs_pg:id":1079876,
+        "qs_pg:id":1037252,
         "wd:id":"Q25607",
         "wk:page":"St. Gallen"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079876
     },
     "wof:coterminous":[
         404568129
@@ -416,7 +417,7 @@
         }
     ],
     "wof:id":101748457,
-    "wof:lastmodified":1565443823,
+    "wof:lastmodified":1566640927,
     "wof:name":"St. Gallen",
     "wof:parent_id":404568129,
     "wof:placetype":"locality",

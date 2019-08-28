@@ -25,9 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "La Salette"
     ],
@@ -45,12 +47,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682301,
         102191581,
         404569083,
         85633051,
         1242712977,
-        102063025
+        102063025,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1394407961,
-    "wof:lastmodified":1565433255,
+    "wof:lastmodified":1566639814,
     "wof:name":"La Salette",
     "wof:parent_id":1242712977,
     "wof:placetype":"neighbourhood",

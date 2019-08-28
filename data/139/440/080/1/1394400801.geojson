@@ -9,15 +9,17 @@
     "geom:bbox":"8.66468,47.20154,8.66468,47.20154",
     "geom:latitude":47.20154,
     "geom:longitude":8.66468,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":8,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":8,
     "iso:country":"CH",
+    "lbl:bbox":"8.65968,47.19654,8.66968,47.20654",
     "lbl:latitude":47.20154,
     "lbl:longitude":8.66468,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Erni"
@@ -37,15 +39,15 @@
     "qs_pg:qs_id":619510,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394253971,
         85633051,
         101854439,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1394400801,
-    "wof:lastmodified":1565581441,
+    "wof:lastmodified":1566640140,
     "wof:name":"Erni",
     "wof:parent_id":101854439,
     "wof:placetype":"neighbourhood",

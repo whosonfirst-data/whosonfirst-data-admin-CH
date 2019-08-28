@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"9.03627,47.63161,9.04627,47.64161",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Sonnenberg"
     ],
@@ -95,12 +98,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682337,
         102191581,
         404570391,
         85633051,
         1125956171,
-        102062953
+        102062953,
+        85682337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1394402811,
-    "wof:lastmodified":1565434097,
+    "wof:lastmodified":1566639907,
     "wof:name":"Sonnenberg",
     "wof:parent_id":1125956171,
     "wof:placetype":"neighbourhood",

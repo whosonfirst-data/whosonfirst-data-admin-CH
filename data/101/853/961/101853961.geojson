@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.498322,
     "lbl:longitude":9.843629,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.490468,
     "mps:longitude":9.817411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "St. Moritz"
     ],
@@ -236,7 +239,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u041c\u043e\u0440\u0456\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sankt Moritz-Dorf"
     ],
     "name:urd_x_preferred":[
@@ -303,7 +306,6 @@
         "gp:id":784032,
         "loc:id":"n82108024",
         "nyt:id":"N50723356178133827811",
-        "qs:id":2236,
         "qs_pg:id":2236,
         "wd:id":"Q68986",
         "wk:page":"St. Moritz"
@@ -324,7 +326,7 @@
         }
     ],
     "wof:id":101853961,
-    "wof:lastmodified":1565444014,
+    "wof:lastmodified":1566640950,
     "wof:name":"St. Moritz",
     "wof:parent_id":404568307,
     "wof:placetype":"locality",

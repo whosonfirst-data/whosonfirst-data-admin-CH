@@ -25,9 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Stams"
     ],
@@ -99,12 +101,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568085,
         85633051,
         1394297841,
-        102062881
+        102062881,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":1394396295,
-    "wof:lastmodified":1565440442,
+    "wof:lastmodified":1566640551,
     "wof:name":"Stams",
     "wof:parent_id":1394297841,
     "wof:placetype":"neighbourhood",

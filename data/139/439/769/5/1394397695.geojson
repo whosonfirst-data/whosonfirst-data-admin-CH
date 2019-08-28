@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.89229,47.24808,8.90229,47.25808",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0646\u064a\u063a"
     ],
@@ -44,12 +47,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682341,
         102191581,
         1394253985,
         85633051,
         1276690727,
-        102062815
+        102062815,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1394397695,
-    "wof:lastmodified":1565581401,
+    "wof:lastmodified":1566640652,
     "wof:name":"Honegg",
     "wof:parent_id":1276690727,
     "wof:placetype":"neighbourhood",

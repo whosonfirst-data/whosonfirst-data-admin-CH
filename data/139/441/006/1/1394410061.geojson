@@ -9,15 +9,17 @@
     "geom:bbox":"8.50646,47.47778,8.50646,47.47778",
     "geom:latitude":47.47778,
     "geom:longitude":8.50646,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1115,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":1115,
     "iso:country":"CH",
+    "lbl:bbox":"8.50146,47.47278,8.51146,47.48278",
     "lbl:latitude":47.47778,
     "lbl:longitude":8.50646,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0647\u0648\u0641\u0634\u062a\u064a\u062a\u0646"
@@ -116,19 +118,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20102213,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570209,
         85633051,
         1125792793,
-        102062995
+        102062995,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":1394410061,
-    "wof:lastmodified":1565439219,
+    "wof:lastmodified":1566640420,
     "wof:name":"Hofstetten",
     "wof:parent_id":1125792793,
     "wof:placetype":"neighbourhood",

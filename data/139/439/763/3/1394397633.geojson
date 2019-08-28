@@ -9,15 +9,17 @@
     "geom:bbox":"8.53678,47.4865,8.53678,47.4865",
     "geom:latitude":47.4865,
     "geom:longitude":8.53678,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":4,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":4,
     "iso:country":"CH",
+    "lbl:bbox":"8.53178,47.4815,8.54178,47.4915",
     "lbl:latitude":47.4865,
     "lbl:longitude":8.53678,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
         "Nuraka"
@@ -301,15 +303,15 @@
     "qs_pg:qs_id":618227,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570209,
         85633051,
         1125792793,
-        102062995
+        102062995,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -331,7 +333,7 @@
         }
     ],
     "wof:id":1394397633,
-    "wof:lastmodified":1565439702,
+    "wof:lastmodified":1566640469,
     "wof:name":"Hell",
     "wof:parent_id":1125792793,
     "wof:placetype":"neighbourhood",

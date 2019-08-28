@@ -9,15 +9,17 @@
     "geom:bbox":"6.62184,46.61301,6.62184,46.61301",
     "geom:latitude":46.61301,
     "geom:longitude":6.62184,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":888,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":888,
     "iso:country":"CH",
+    "lbl:bbox":"6.61684,46.60801,6.62684,46.61801",
     "lbl:latitude":46.61301,
     "lbl:longitude":6.62184,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Assens VD"
@@ -51,19 +53,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20100842,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85682325,
         102191581,
         404571163,
         85633051,
         1394297921,
-        102062949
+        102062949,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1126085941,
-    "wof:lastmodified":1565459881,
+    "wof:lastmodified":1566642161,
     "wof:name":"Bassenges",
     "wof:parent_id":1394297921,
     "wof:placetype":"neighbourhood",

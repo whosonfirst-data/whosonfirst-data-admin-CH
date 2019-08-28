@@ -9,15 +9,17 @@
     "geom:bbox":"8.42837,47.56194,8.42837,47.56194",
     "geom:latitude":47.56194,
     "geom:longitude":8.42837,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":70,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":70,
     "iso:country":"CH",
+    "lbl:bbox":"8.42337,47.55694,8.43337,47.56694",
     "lbl:latitude":47.56194,
     "lbl:longitude":8.42837,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "See-Winkel"
@@ -25,7 +27,7 @@
     "name:eng_x_variant":[
         "Weiach / Bedmen / See-Winkel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bedmen / See-Winkel"
     ],
     "qs_pg:aaroncc":"CH",
@@ -40,15 +42,15 @@
     "qs_pg:qs_id":618405,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569855,
         85633051,
         1125842447,
-        102062995
+        102062995,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1126062093,
-    "wof:lastmodified":1565460604,
+    "wof:lastmodified":1566642221,
     "wof:name":"See-Winkel",
     "wof:parent_id":1125842447,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,17 @@
     "geom:bbox":"8.6499,47.33308,8.6499,47.33308",
     "geom:latitude":47.33308,
     "geom:longitude":8.6499,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":32,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":32,
     "iso:country":"CH",
+    "lbl:bbox":"8.6449,47.32808,8.6549,47.33808",
     "lbl:latitude":47.33308,
     "lbl:longitude":8.6499,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Wassberg"
@@ -34,15 +36,15 @@
     "qs_pg:qs_id":620523,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568929,
         85633051,
         1126039397,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":1394403141,
-    "wof:lastmodified":1565435318,
+    "wof:lastmodified":1566640041,
     "wof:name":"Wassberg",
     "wof:parent_id":1126039397,
     "wof:placetype":"neighbourhood",

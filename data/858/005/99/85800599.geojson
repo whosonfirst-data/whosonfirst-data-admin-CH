@@ -10,8 +10,10 @@
     "geom:latitude":46.933452,
     "geom:longitude":7.450751,
     "iso:country":"CH",
+    "lbl:bbox":"7.445751,46.928452,7.455751,46.938452",
     "lbl:latitude":46.933452,
     "lbl:longitude":7.450751,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.926521,
     "mps:longitude":7.454146,
     "mz:hierarchy_label":0,
@@ -44,9 +46,6 @@
     "name:swe_x_preferred":[
         "Wabern"
     ],
-    "name:unk_x_variant":[
-        "Wabern"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"BE",
@@ -75,20 +74,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682381,
         102191581,
         1394254007,
         85633051,
         101748453,
-        102062861
+        102062861,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2658084,
         "gp:id":784626,
-        "qs:id":1267840,
         "qs_pg:id":1267840
     },
     "wof:country":"CH",
@@ -108,7 +106,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428643,
+    "wof:lastmodified":1566639481,
     "wof:name":"Wabern",
     "wof:parent_id":101748453,
     "wof:placetype":"neighbourhood",

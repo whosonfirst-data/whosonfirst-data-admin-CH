@@ -13,6 +13,7 @@
     "iso:country":"CH",
     "lbl:latitude":47.341899,
     "lbl:longitude":8.572202,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.339101,
     "mps:longitude":8.569583,
     "mz:hierarchy_label":1,
@@ -156,9 +157,6 @@
     "name:szl_x_preferred":[
         "Zollikon"
     ],
-    "name:unk_x_variant":[
-        "Zollikon"
-    ],
     "name:uzb_x_preferred":[
         "Zollikon"
     ],
@@ -203,22 +201,21 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":757,
     "wof:belongsto":[
-        85682309,
         102191581,
         404569951,
         85633051,
         1394297833,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2657912,
         "gp:id":784781,
-        "qs:id":182407,
         "qs_pg:id":182407,
         "wd:id":"Q218691",
         "wk:page":"Zollikon"
@@ -240,7 +237,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428541,
+    "wof:lastmodified":1566639467,
     "wof:name":"Zollikon",
     "wof:parent_id":1394297833,
     "wof:placetype":"neighbourhood",

@@ -9,16 +9,19 @@
     "geom:bbox":"8.8314633,46.5403131,8.9410393,46.5841006",
     "geom:latitude":46.559815,
     "geom:longitude":8.889444,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
     "lbl:latitude":46.55694,
     "lbl:longitude":8.93581,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.559815,
     "mps:longitude":8.889444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:arg_x_preferred":[
         "Campo"
@@ -80,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u043f\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Campo Blenio"
     ],
     "name:vec_x_preferred":[
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1125963487,
-    "wof:lastmodified":1565459214,
+    "wof:lastmodified":1566642090,
     "wof:name":"Campo",
     "wof:parent_id":404567711,
     "wof:placetype":"locality",

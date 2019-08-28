@@ -9,17 +9,19 @@
     "geom:bbox":"6.1079155,46.221928,6.1360271,46.2479037",
     "geom:latitude":46.233816,
     "geom:longitude":6.122062,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9781,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":9781,
     "iso:country":"CH",
     "lbl:latitude":46.22642,
     "lbl:longitude":6.1233,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.233816,
     "mps:longitude":6.122062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Grand-Saconnex"
@@ -222,9 +224,6 @@
     "name:swe_x_preferred":[
         "Grand-Saconnex"
     ],
-    "name:unk_x_variant":[
-        "Grand-Saconnex"
-    ],
     "name:vec_x_preferred":[
         "Grand-Saconnex"
     ],
@@ -314,7 +313,7 @@
         }
     ],
     "wof:id":1125995669,
-    "wof:lastmodified":1565458463,
+    "wof:lastmodified":1566642025,
     "wof:name":"Le Grand-Saconnex",
     "wof:parent_id":404328733,
     "wof:placetype":"locality",

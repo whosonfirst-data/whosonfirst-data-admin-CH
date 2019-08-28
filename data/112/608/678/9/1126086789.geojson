@@ -9,15 +9,17 @@
     "geom:bbox":"8.82418,47.36334,8.82418,47.36334",
     "geom:latitude":47.36334,
     "geom:longitude":8.82418,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":1502,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":1502,
     "iso:country":"CH",
+    "lbl:bbox":"8.81918,47.35834,8.82918,47.36834",
     "lbl:latitude":47.36334,
     "lbl:longitude":8.82418,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Hittnau (Dorf)"
@@ -43,15 +45,15 @@
     "qs_pg:qs_id":575582,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569141,
         85633051,
         1125805101,
-        102062779
+        102062779,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1126086789,
-    "wof:lastmodified":1565459925,
+    "wof:lastmodified":1566642164,
     "wof:name":"Hittnau (Dorf)",
     "wof:parent_id":1125805101,
     "wof:placetype":"neighbourhood",

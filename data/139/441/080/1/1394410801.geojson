@@ -9,19 +9,22 @@
     "geom:bbox":"7.9629,46.02018,7.9629,46.02018",
     "geom:latitude":46.02018,
     "geom:longitude":7.9629,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"7.9579,46.01518,7.9679,46.02518",
     "lbl:latitude":46.02018,
     "lbl:longitude":7.9629,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:heb_x_preferred":[
         "\u05d3\u05d9\u05e1\u05d8\u05dc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Distel Alp"
     ],
     "qs_pg:aaroncc":"CH",
@@ -45,18 +48,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782247,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         404567789,
         85633051,
         1125808747,
-        102062859
+        102062859,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1394410801,
-    "wof:lastmodified":1565439367,
+    "wof:lastmodified":1566640437,
     "wof:name":"Distel",
     "wof:parent_id":1125808747,
     "wof:placetype":"neighbourhood",

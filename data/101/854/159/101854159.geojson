@@ -13,10 +13,13 @@
     "iso:country":"CH",
     "lbl:latitude":47.139721,
     "lbl:longitude":7.374063,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":47.141646,
     "mps:longitude":7.369663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "B\u00fcren an der Aare"
     ],
@@ -33,18 +36,14 @@
         "B\u00fcren an der Aare"
     ],
     "name:deu_x_colloquial":[
-        "Bueren",
-        "Bueren  an der Aare",
-        "Buren",
-        "Buren  an der Aare",
+        "Bueren an der Aare",
         "Buren an der Aare"
     ],
     "name:deu_x_preferred":[
         "B\u00fcren an der Aare"
     ],
     "name:deu_x_variant":[
-        "B\u00fcren  an der Aare",
-        "B\u00fcren"
+        "B\u00fcren an der Aare"
     ],
     "name:eng_x_preferred":[
         "B\u00fcren an der Aare"
@@ -112,7 +111,7 @@
     "name:swe_x_preferred":[
         "B\u00fcren an der Aare"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00fcren"
     ],
     "name:vie_x_preferred":[
@@ -164,10 +163,12 @@
         "fct:id":"06a688b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2661324,
         "gp:id":785649,
-        "qs:id":1084349,
-        "qs_pg:id":1191057,
+        "qs_pg:id":1084349,
         "wd:id":"Q66360",
         "wk:page":"B\u00fcren an der Aare"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1191057
     },
     "wof:coterminous":[
         404569183
@@ -188,7 +189,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565444113,
+    "wof:lastmodified":1566640964,
     "wof:name":"B\u00fcren an der Aare",
     "wof:parent_id":404569183,
     "wof:placetype":"locality",

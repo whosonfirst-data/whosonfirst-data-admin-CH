@@ -12,10 +12,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.932901,
     "lbl:longitude":8.405282,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.932901,
     "mps:longitude":8.405282,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nidwalden"
     ],
@@ -30,7 +33,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":102062973,
-    "wof:lastmodified":1565420931,
+    "wof:lastmodified":1566639332,
     "wof:name":"Nidwalden",
     "wof:parent_id":85682315,
     "wof:placetype":"county",

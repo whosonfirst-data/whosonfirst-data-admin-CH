@@ -9,15 +9,17 @@
     "geom:bbox":"8.79249,47.45207,8.79249,47.45207",
     "geom:latitude":47.45207,
     "geom:longitude":8.79249,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":55,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":55,
     "iso:country":"CH",
+    "lbl:bbox":"8.78749,47.44707,8.79749,47.45707",
     "lbl:latitude":47.45207,
     "lbl:longitude":8.79249,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Sch\u00f6ntal"
@@ -85,9 +87,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043d\u0442\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Sch\u00f6ntal"
-    ],
     "name:uzb_x_preferred":[
         "Sch\u00f6ntal"
     ],
@@ -112,15 +111,15 @@
     "qs_pg:qs_id":621065,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569139,
         85633051,
         1394297691,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,7 +141,7 @@
         }
     ],
     "wof:id":1126063149,
-    "wof:lastmodified":1565460410,
+    "wof:lastmodified":1566642203,
     "wof:name":"Sch\u00f6ntal",
     "wof:parent_id":1394297691,
     "wof:placetype":"neighbourhood",

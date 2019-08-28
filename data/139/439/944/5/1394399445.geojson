@@ -26,9 +26,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Moron"
     ],
@@ -52,12 +54,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404569037,
         85633051,
         1125786343,
-        102062865
+        102062865,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1394399445,
-    "wof:lastmodified":1565442603,
+    "wof:lastmodified":1566640780,
     "wof:name":"Moron",
     "wof:parent_id":1125786343,
     "wof:placetype":"neighbourhood",

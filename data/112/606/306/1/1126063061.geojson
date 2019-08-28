@@ -9,24 +9,23 @@
     "geom:bbox":"8.78424,47.52457,8.78424,47.52457",
     "geom:latitude":47.52457,
     "geom:longitude":8.78424,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":433,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":433,
     "iso:country":"CH",
+    "lbl:bbox":"8.77924,47.51957,8.78924,47.52957",
     "lbl:latitude":47.52457,
     "lbl:longitude":8.78424,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Leingr\u00fcebler-Wasserfuri"
     ],
     "name:eng_x_variant":[
         "Wiesendangen / Leingr\u00fcebler-Wasserfuri"
-    ],
-    "name:unk_x_variant":[
-        "Leingr\u00fcebler-Wasserfuri"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":620982,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254087,
         85633051,
         1126056153,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":1126063061,
-    "wof:lastmodified":1565581589,
+    "wof:lastmodified":1566642173,
     "wof:name":"Leingr\u00fcebler-Wasserfuri",
     "wof:parent_id":1126056153,
     "wof:placetype":"neighbourhood",

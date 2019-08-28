@@ -12,6 +12,7 @@
     "iso:country":"CH",
     "lbl:latitude":47.531161,
     "lbl:longitude":7.611214,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.530184,
     "mps:longitude":7.60805,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
         "Neue Welt"
     ],
     "name:nld_x_preferred":[
-        "Neue Welt"
-    ],
-    "name:unk_x_variant":[
         "Neue Welt"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -67,21 +65,20 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":772,
     "wof:belongsto":[
-        85682361,
         102191581,
         404570515,
         85633051,
         1394289055,
-        102062971
+        102062971,
+        85682361
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2659488,
         "gp:id":783481,
-        "qs:id":406163,
         "qs_pg:id":406163,
         "wd:id":"Q1632452"
     },
@@ -102,7 +99,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428659,
+    "wof:lastmodified":1566639483,
     "wof:name":"Neue Welt",
     "wof:parent_id":1394289055,
     "wof:placetype":"neighbourhood",

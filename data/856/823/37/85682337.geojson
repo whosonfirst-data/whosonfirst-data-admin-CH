@@ -45,6 +45,7 @@
     ],
     "lbl:latitude":47.586509,
     "lbl:longitude":9.062952,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.586509,
     "mps:longitude":9.062952,
     "mz:hierarchy_label":1,
@@ -301,7 +302,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u0433\u0430\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Thurgovia"
     ],
     "name:urd_x_preferred":[
@@ -391,10 +392,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:area_km":"1,013",
     "statoids:area_mi":"391",
     "statoids:as_of_date":"2010-12-31",
@@ -444,11 +444,10 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1565662353,
+    "wof:lastmodified":1566639442,
     "wof:name":"Thurgau",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"canton",
     "wof:population":248444,
     "wof:population_rank":10,

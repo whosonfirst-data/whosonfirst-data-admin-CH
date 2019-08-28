@@ -9,23 +9,22 @@
     "geom:bbox":"8.76249,47.481,8.76249,47.481",
     "geom:latitude":47.481,
     "geom:longitude":8.76249,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":2362,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":2362,
     "iso:country":"CH",
+    "lbl:bbox":"8.75749,47.476,8.76749,47.486",
     "lbl:latitude":47.481,
     "lbl:longitude":8.76249,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Ganzenb\u00fchl"
     ],
     "name:eng_x_preferred":[
-        "Ganzenb\u00fchl"
-    ],
-    "name:unk_x_variant":[
         "Ganzenb\u00fchl"
     ],
     "qs_pg:aaroncc":"CH",
@@ -40,15 +39,15 @@
     "qs_pg:qs_id":160530,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404567873,
         85633051,
         101748461,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +70,7 @@
         }
     ],
     "wof:id":1126064839,
-    "wof:lastmodified":1565460139,
+    "wof:lastmodified":1566642180,
     "wof:name":"Ganzenb\u00fchl",
     "wof:parent_id":101748461,
     "wof:placetype":"neighbourhood",

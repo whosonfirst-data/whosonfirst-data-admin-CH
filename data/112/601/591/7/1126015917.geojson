@@ -9,17 +9,19 @@
     "geom:bbox":"9.2130403,46.8061999,9.3249805,46.916268",
     "geom:latitude":46.863973,
     "geom:longitude":9.269402,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2536,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":2536,
     "iso:country":"CH",
     "lbl:latitude":46.83705,
     "lbl:longitude":9.28458,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.863973,
     "mps:longitude":9.269402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Flims"
@@ -117,9 +119,6 @@
     "name:swe_x_preferred":[
         "Flims"
     ],
-    "name:unk_x_variant":[
-        "Flims Dorf"
-    ],
     "name:uzb_x_preferred":[
         "Flims"
     ],
@@ -194,7 +193,7 @@
         }
     ],
     "wof:id":1126015917,
-    "wof:lastmodified":1565461107,
+    "wof:lastmodified":1566642262,
     "wof:name":"Flims Dorf",
     "wof:parent_id":404567999,
     "wof:placetype":"locality",

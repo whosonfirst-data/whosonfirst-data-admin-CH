@@ -9,16 +9,19 @@
     "geom:bbox":"9.7941471,46.4688193,9.8178691,46.4867163",
     "geom:latitude":46.476573,
     "geom:longitude":9.805799,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
     "lbl:latitude":46.47635,
     "lbl:longitude":9.81002,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.476573,
     "mps:longitude":9.805799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Champf\u00e8r"
@@ -47,7 +50,7 @@
     "name:roh_x_preferred":[
         "Champf\u00e8r"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Champfer"
     ],
     "nav:latitude":46.47635,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125919099,
-    "wof:lastmodified":1565459316,
+    "wof:lastmodified":1566642098,
     "wof:name":"Champf\u00e8r",
     "wof:parent_id":404568065,
     "wof:placetype":"locality",

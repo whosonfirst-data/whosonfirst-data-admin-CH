@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"6.99166,46.27844,7.00166,46.28844",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Villy"
     ],
@@ -77,12 +80,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682325,
         102191581,
         404567917,
         85633051,
         101853865,
-        102062783
+        102062783,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1394429075,
-    "wof:lastmodified":1565443306,
+    "wof:lastmodified":1566640867,
     "wof:name":"Villy",
     "wof:parent_id":101853865,
     "wof:placetype":"neighbourhood",

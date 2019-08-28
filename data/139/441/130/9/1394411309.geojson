@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"9.87699,46.50814,9.88699,46.51814",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Acla"
     ],
@@ -44,12 +47,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568003,
         85633051,
         101853959,
-        102062857
+        102062857,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1394411309,
-    "wof:lastmodified":1565439330,
+    "wof:lastmodified":1566640433,
     "wof:name":"Acla",
     "wof:parent_id":101853959,
     "wof:placetype":"neighbourhood",

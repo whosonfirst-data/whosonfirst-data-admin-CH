@@ -28,10 +28,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.81576,
     "lbl:longitude":6.49931,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.80853,
     "mps:longitude":6.498402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "La Sagne"
     ],
@@ -83,9 +86,6 @@
     "name:swe_x_preferred":[
         "La Sagne"
     ],
-    "name:und_x_variant":[
-        "La Sagne (Ste-Croix)"
-    ],
     "name:vol_x_preferred":[
         "La Sagne"
     ],
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":1310334923,
-    "wof:lastmodified":1565432430,
+    "wof:lastmodified":1566639740,
     "wof:name":"La Sagne",
     "wof:parent_id":404568127,
     "wof:placetype":"locality",

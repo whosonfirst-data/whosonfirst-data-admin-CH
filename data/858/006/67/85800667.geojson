@@ -13,6 +13,7 @@
     "iso:country":"CH",
     "lbl:latitude":47.340601,
     "lbl:longitude":8.533028,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.341574,
     "mps:longitude":8.530582,
     "mz:hierarchy_label":1,
@@ -52,9 +53,6 @@
     "name:tur_x_preferred":[
         "Wollishofen"
     ],
-    "name:unk_x_variant":[
-        "Wollishofen"
-    ],
     "qs:gn_adm0_cc":"CH",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2657896,
@@ -84,22 +82,21 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":260,
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254167,
         85633051,
         101748463,
-        102063071
+        102063071,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6295495,
         "gp:id":784740,
-        "qs:id":182405,
         "qs_pg:id":182405,
         "wd:id":"Q642353",
         "wk:page":"Wollishofen"
@@ -121,7 +118,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565428533,
+    "wof:lastmodified":1566639466,
     "wof:name":"Wollishofen",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",

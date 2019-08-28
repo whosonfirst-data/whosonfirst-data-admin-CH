@@ -9,15 +9,17 @@
     "geom:bbox":"8.55437,47.30721,8.55437,47.30721",
     "geom:latitude":47.30721,
     "geom:longitude":8.55437,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":103,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":103,
     "iso:country":"CH",
+    "lbl:bbox":"8.54937,47.30221,8.55937,47.31221",
     "lbl:latitude":47.30721,
     "lbl:longitude":8.55437,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Weingarten"
@@ -73,9 +75,6 @@
     "name:swe_x_preferred":[
         "Weingarten"
     ],
-    "name:unk_x_variant":[
-        "Weingarten"
-    ],
     "name:vol_x_preferred":[
         "Weingarten"
     ],
@@ -91,15 +90,15 @@
     "qs_pg:qs_id":619369,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571543,
         85633051,
         1125851455,
-        102062825
+        102062825,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,7 +120,7 @@
         }
     ],
     "wof:id":1126061229,
-    "wof:lastmodified":1565460815,
+    "wof:lastmodified":1566642239,
     "wof:name":"Weingarten",
     "wof:parent_id":1125851455,
     "wof:placetype":"neighbourhood",

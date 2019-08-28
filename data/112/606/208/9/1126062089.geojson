@@ -9,15 +9,17 @@
     "geom:bbox":"8.41275,47.49848,8.41275,47.49848",
     "geom:latitude":47.49848,
     "geom:longitude":8.41275,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":331,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":331,
     "iso:country":"CH",
+    "lbl:bbox":"8.40775,47.49348,8.41775,47.50348",
     "lbl:latitude":47.49848,
     "lbl:longitude":8.41275,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0647\u0646\u0647\u0648\u0641"
@@ -34,9 +36,6 @@
     "name:swe_x_preferred":[
         "Bahnhof"
     ],
-    "name:unk_x_variant":[
-        "Bahnhof"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLX",
@@ -49,15 +48,15 @@
     "qs_pg:qs_id":618354,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571679,
         85633051,
         1125858099,
-        102062995
+        102062995,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":1126062089,
-    "wof:lastmodified":1565460681,
+    "wof:lastmodified":1566642227,
     "wof:name":"Bahnhof",
     "wof:parent_id":1125858099,
     "wof:placetype":"neighbourhood",

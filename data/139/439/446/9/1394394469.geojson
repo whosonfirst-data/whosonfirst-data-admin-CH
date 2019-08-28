@@ -9,15 +9,17 @@
     "geom:bbox":"8.62165,47.27873,8.62165,47.27873",
     "geom:latitude":47.27873,
     "geom:longitude":8.62165,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3732,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":3732,
     "iso:country":"CH",
+    "lbl:bbox":"8.61665,47.27373,8.62665,47.28373",
     "lbl:latitude":47.27873,
     "lbl:longitude":8.62165,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Feldmeilen"
@@ -271,19 +273,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782420,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568775,
         85633051,
         101854399,
-        102062769
+        102062769,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -307,7 +309,7 @@
         }
     ],
     "wof:id":1394394469,
-    "wof:lastmodified":1565440356,
+    "wof:lastmodified":1566640542,
     "wof:name":"Feldmeilen",
     "wof:parent_id":101854399,
     "wof:placetype":"neighbourhood",

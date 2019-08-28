@@ -14,6 +14,8 @@
     "iso:country":"CH",
     "lbl:latitude":47.137077,
     "lbl:longitude":7.251739,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":47.14879,
     "mps:longitude":7.260713,
     "mz:hierarchy_label":1,
@@ -398,10 +400,12 @@
         "fct:id":"06a31e90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6698596,
         "gp:id":785125,
-        "qs:id":1715,
-        "qs_pg:id":1321859,
+        "qs_pg:id":1715,
         "wd:id":"Q1034",
         "wk:page":"Biel/Bienne"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1321859
     },
     "wof:coterminous":[
         404568547
@@ -422,7 +426,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565443812,
+    "wof:lastmodified":1566640925,
     "wof:name":"Biel/Bienne",
     "wof:parent_id":404568547,
     "wof:placetype":"locality",

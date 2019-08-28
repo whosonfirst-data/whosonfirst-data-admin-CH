@@ -9,14 +9,17 @@
     "geom:bbox":"9.07039,47.33715,9.07039,47.33715",
     "geom:latitude":47.33715,
     "geom:longitude":9.07039,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"9.06539,47.33215,9.07539,47.34215",
     "lbl:latitude":47.33715,
     "lbl:longitude":9.07039,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Kennelbach"
@@ -102,18 +105,18 @@
     "qs_pg:woe_adm0":23424750,
     "qs_pg:woe_id":551583,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424750,
     "woe:name_adm0":"\u00d6sterreich",
     "woe:name_adm1":"Vorarlberg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682341,
         102191581,
         1394254031,
         85633051,
         1259916061,
-        102062771
+        102062771,
+        85682341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1394404709,
-    "wof:lastmodified":1565581889,
+    "wof:lastmodified":1566639877,
     "wof:name":"Kennelbach",
     "wof:parent_id":1259916061,
     "wof:placetype":"neighbourhood",

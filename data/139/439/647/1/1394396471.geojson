@@ -9,15 +9,17 @@
     "geom:bbox":"8.79755,47.2449,8.79755,47.2449",
     "geom:latitude":47.2449,
     "geom:longitude":8.79755,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":35,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":35,
     "iso:country":"CH",
+    "lbl:bbox":"8.79255,47.2399,8.80255,47.2499",
     "lbl:latitude":47.2449,
     "lbl:longitude":8.79755,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:als_x_preferred":[
         "Schlatt"
@@ -80,19 +82,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20104081,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         1394253973,
         85633051,
         1125908497,
-        1394212863
+        1394212863,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":1394396471,
-    "wof:lastmodified":1565441725,
+    "wof:lastmodified":1566640690,
     "wof:name":"Schlatt",
     "wof:parent_id":1125908497,
     "wof:placetype":"neighbourhood",

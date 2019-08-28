@@ -9,15 +9,17 @@
     "geom:bbox":"8.81522,47.49898,8.81522,47.49898",
     "geom:latitude":47.49898,
     "geom:longitude":8.81522,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":658,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":658,
     "iso:country":"CH",
+    "lbl:bbox":"8.81022,47.49398,8.82022,47.50398",
     "lbl:latitude":47.49898,
     "lbl:longitude":8.81522,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0447\u043e\u0442\u0438\u043a\u043e\u043d"
@@ -60,19 +62,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20104120,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570247,
         85633051,
         1394295585,
-        102063055
+        102063055,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":1394408461,
-    "wof:lastmodified":1565436093,
+    "wof:lastmodified":1566640128,
     "wof:name":"Schottikon",
     "wof:parent_id":1394295585,
     "wof:placetype":"neighbourhood",

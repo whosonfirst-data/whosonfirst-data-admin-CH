@@ -9,15 +9,17 @@
     "geom:bbox":"8.68151,47.37042,8.68151,47.37042",
     "geom:latitude":47.37042,
     "geom:longitude":8.68151,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":1064,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":1064,
     "iso:country":"CH",
+    "lbl:bbox":"8.67651,47.36542,8.68651,47.37542",
     "lbl:latitude":47.37042,
     "lbl:longitude":8.68151,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Seilerwis"
@@ -25,7 +27,7 @@
     "name:eng_x_variant":[
         "Greifensee / M\u00fcllerwis / Seilerwis"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00fcllerwis / Seilerwis"
     ],
     "qs_pg:aaroncc":"CH",
@@ -40,15 +42,15 @@
     "qs_pg:qs_id":160507,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404571561,
         85633051,
         1125897361,
-        1394212863
+        1394212863,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1126082661,
-    "wof:lastmodified":1565459888,
+    "wof:lastmodified":1566642162,
     "wof:name":"Seilerwis",
     "wof:parent_id":1125897361,
     "wof:placetype":"neighbourhood",

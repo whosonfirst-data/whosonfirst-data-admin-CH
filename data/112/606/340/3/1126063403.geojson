@@ -9,15 +9,17 @@
     "geom:bbox":"8.65952,47.78423,8.65952,47.78423",
     "geom:latitude":47.78423,
     "geom:longitude":8.65952,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":205,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":205,
     "iso:country":"CH",
+    "lbl:bbox":"8.65452,47.77923,8.66452,47.78923",
     "lbl:latitude":47.78423,
     "lbl:longitude":8.65952,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Altdorf SH"
@@ -34,15 +36,15 @@
     "qs_pg:qs_id":644048,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682285,
         102191581,
         404328265,
         85633051,
         1276908905,
-        1394137109
+        1394137109,
+        85682285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":1126063403,
-    "wof:lastmodified":1565460381,
+    "wof:lastmodified":1566642201,
     "wof:name":"Thayngen, Altdorf",
     "wof:parent_id":1276908905,
     "wof:placetype":"neighbourhood",

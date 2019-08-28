@@ -25,9 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Wasser"
     ],
@@ -42,12 +44,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567761,
         85633051,
         1125796485,
-        102062831
+        102062831,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1394395357,
-    "wof:lastmodified":1565440080,
+    "wof:lastmodified":1566640510,
     "wof:name":"Wasser",
     "wof:parent_id":1125796485,
     "wof:placetype":"neighbourhood",

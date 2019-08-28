@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"7.84271,46.71201,7.85271,46.72201",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0635\u0642\u0627\u0644"
     ],
@@ -62,12 +65,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682381,
         102191581,
         404567989,
         85633051,
         1126025285,
-        102062759
+        102062759,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1394428483,
-    "wof:lastmodified":1565443560,
+    "wof:lastmodified":1566640894,
     "wof:name":"Bort",
     "wof:parent_id":1126025285,
     "wof:placetype":"neighbourhood",

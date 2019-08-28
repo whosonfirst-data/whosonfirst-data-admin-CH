@@ -10,8 +10,10 @@
     "geom:latitude":46.514834,
     "geom:longitude":6.600021,
     "iso:country":"CH",
+    "lbl:bbox":"6.595021,46.509834,6.605021,46.519834",
     "lbl:latitude":46.514834,
     "lbl:longitude":6.600021,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.513902,
     "mps:longitude":6.599252,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Vidy"
     ],
     "name:fra_x_preferred":[
-        "Vidy"
-    ],
-    "name:unk_x_variant":[
         "Vidy"
     ],
     "qs:gn_adm0_cc":"CH",
@@ -62,21 +61,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":121,
     "wof:belongsto":[
-        85682325,
         102191581,
         404567693,
         85633051,
         101748449,
-        102063021
+        102063021,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6615402,
         "gp:id":784579,
-        "qs:id":241067,
         "qs_pg:id":241067,
         "wd:id":"Q3557836",
         "wk:page":"Vidy"
@@ -98,7 +96,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1565428635,
+    "wof:lastmodified":1566639480,
     "wof:name":"Vidy",
     "wof:parent_id":101748449,
     "wof:placetype":"neighbourhood",

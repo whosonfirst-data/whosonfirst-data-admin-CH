@@ -9,16 +9,19 @@
     "geom:bbox":"7.46805,46.30569,7.46805,46.30569",
     "geom:latitude":46.30569,
     "geom:longitude":7.46805,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"7.46305,46.30069,7.47305,46.31069",
     "lbl:latitude":46.30569,
     "lbl:longitude":7.46805,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Crans"
     ],
     "qs_pg:aaroncc":"CH",
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20100625,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682281,
         102191581,
         85633051,
         1125970931,
-        102062793,
-        85682281
+        102062793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1394406553,
-    "wof:lastmodified":1565436725,
+    "wof:lastmodified":1566640195,
     "wof:name":"Crans-sur-Sierre",
     "wof:parent_id":1125970931,
     "wof:placetype":"neighbourhood",

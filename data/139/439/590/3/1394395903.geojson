@@ -9,15 +9,17 @@
     "geom:bbox":"8.48082,47.28687,8.48082,47.28687",
     "geom:latitude":47.28687,
     "geom:longitude":8.48082,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":5,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":5,
     "iso:country":"CH",
+    "lbl:bbox":"8.47582,47.28187,8.48582,47.29187",
     "lbl:latitude":47.28687,
     "lbl:longitude":8.48082,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bar_x_preferred":[
         "Ried"
@@ -64,15 +66,15 @@
     "qs_pg:qs_id":617164,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404570297,
         85633051,
         1394297339,
-        102062775
+        102062775,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":1394395903,
-    "wof:lastmodified":1565441358,
+    "wof:lastmodified":1566640650,
     "wof:name":"Ried",
     "wof:parent_id":1394297339,
     "wof:placetype":"neighbourhood",

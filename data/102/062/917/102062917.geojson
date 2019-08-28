@@ -12,10 +12,13 @@
     "iso:country":"CH",
     "lbl:latitude":46.19593,
     "lbl:longitude":6.128052,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.19593,
     "mps:longitude":6.128052,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Gen\u00e8ve"
     ],
@@ -30,7 +33,6 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":102062917,
-    "wof:lastmodified":1565421089,
+    "wof:lastmodified":1566639337,
     "wof:name":"Gen\u00e8ve",
     "wof:parent_id":85682291,
     "wof:placetype":"county",

@@ -9,14 +9,17 @@
     "geom:bbox":"9.34023,46.83339,9.34023,46.83339",
     "geom:latitude":46.83339,
     "geom:longitude":9.34023,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"9.33523,46.82839,9.34523,46.83839",
     "lbl:latitude":46.83339,
     "lbl:longitude":9.34023,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Trinserm\u00fchle"
@@ -45,18 +48,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":784442,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682255,
         102191581,
         404568043,
         85633051,
         1125835845,
-        102062839
+        102062839,
+        85682255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1394410449,
-    "wof:lastmodified":1565439426,
+    "wof:lastmodified":1566640444,
     "wof:name":"Trinserm\u00fchle",
     "wof:parent_id":1125835845,
     "wof:placetype":"neighbourhood",

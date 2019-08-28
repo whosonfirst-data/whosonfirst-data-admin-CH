@@ -25,8 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:bbox":"8.6834,46.11702,8.6934,46.12702",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Rovere"
     ],
@@ -53,12 +56,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682269,
         102191581,
         404573575,
         85633051,
         101853213,
-        102062975
+        102062975,
+        85682269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1394396815,
-    "wof:lastmodified":1565440147,
+    "wof:lastmodified":1566640518,
     "wof:name":"Rovere",
     "wof:parent_id":101853213,
     "wof:placetype":"neighbourhood",

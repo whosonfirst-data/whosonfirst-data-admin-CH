@@ -9,14 +9,17 @@
     "geom:bbox":"8.1705,46.75261,8.1705,46.75261",
     "geom:latitude":46.75261,
     "geom:longitude":8.1705,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"8.1655,46.74761,8.1755,46.75761",
     "lbl:latitude":46.75261,
     "lbl:longitude":8.1705,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Hasliberg Hohfluh"
@@ -42,18 +45,18 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782786,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682381,
         102191581,
         404568101,
         85633051,
         1394286389,
-        102062759
+        102062759,
+        85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1394395493,
-    "wof:lastmodified":1565442285,
+    "wof:lastmodified":1566640751,
     "wof:name":"Hohfluh",
     "wof:parent_id":1394286389,
     "wof:placetype":"neighbourhood",

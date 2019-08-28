@@ -15,6 +15,7 @@
     "iso:country":"CH",
     "lbl:latitude":47.386309,
     "lbl:longitude":8.481595,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.387192,
     "mps:longitude":8.476844,
     "mz:hierarchy_label":1,
@@ -57,9 +58,6 @@
     "name:tur_x_preferred":[
         "Altstetten"
     ],
-    "name:unk_x_variant":[
-        "Altstetten"
-    ],
     "qs:gn_adm0_cc":"CH",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2657896,
@@ -89,22 +87,21 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":668,
     "wof:belongsto":[
-        85682309,
         102191581,
         1394254167,
         85633051,
         101748463,
-        102063071
+        102063071,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6295513,
         "gp:id":781610,
-        "qs:id":480593,
         "qs_pg:id":480593,
         "wd:id":"Q445711",
         "wk:page":"Altstetten (Z\u00fcrich)"
@@ -126,7 +123,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1565423085,
+    "wof:lastmodified":1566639426,
     "wof:name":"Altstetten",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",

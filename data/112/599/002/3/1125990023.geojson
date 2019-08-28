@@ -9,16 +9,19 @@
     "geom:bbox":"9.7215931,46.419345,9.7633524,46.4537055",
     "geom:latitude":46.437091,
     "geom:longitude":9.742379,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
     "lbl:latitude":46.4347,
     "lbl:longitude":9.75688,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.437091,
     "mps:longitude":9.742379,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Sils Baselgia"
@@ -31,9 +34,6 @@
     ],
     "name:roh_x_preferred":[
         "Segl Baselgia"
-    ],
-    "name:unk_x_variant":[
-        "Sils/Segl Baselgia"
     ],
     "nav:latitude":46.4347,
     "nav:longitude":9.75688,
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125990023,
-    "wof:lastmodified":1565458555,
+    "wof:lastmodified":1566642037,
     "wof:name":"Sils/Segl Baselgia",
     "wof:parent_id":404567881,
     "wof:placetype":"locality",

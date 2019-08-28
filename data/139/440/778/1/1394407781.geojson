@@ -9,15 +9,17 @@
     "geom:bbox":"7.47487,46.28844,7.47487,46.28844",
     "geom:latitude":46.28844,
     "geom:longitude":7.47487,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2773,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":2773,
     "iso:country":"CH",
+    "lbl:bbox":"7.46987,46.28344,7.47987,46.29344",
     "lbl:latitude":46.28844,
     "lbl:longitude":7.47487,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Chermignon"
@@ -85,9 +87,6 @@
     "name:swe_x_preferred":[
         "Chermignon-d'en Haut"
     ],
-    "name:unk_x_variant":[
-        "Chermignon"
-    ],
     "name:vol_x_preferred":[
         "Chermignon"
     ],
@@ -114,19 +113,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20101287,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682281,
         102191581,
         1394254217,
         85633051,
         1225978991,
-        102062793
+        102062793,
+        85682281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -150,7 +149,7 @@
         }
     ],
     "wof:id":1394407781,
-    "wof:lastmodified":1565581702,
+    "wof:lastmodified":1566640002,
     "wof:name":"Chermignon-d'en-Haut",
     "wof:parent_id":1225978991,
     "wof:placetype":"neighbourhood",

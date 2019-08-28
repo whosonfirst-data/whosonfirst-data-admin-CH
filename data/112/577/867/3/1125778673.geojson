@@ -9,17 +9,19 @@
     "geom:bbox":"7.7478249,46.6848804,7.8539135,46.7602463",
     "geom:latitude":46.716938,
     "geom:longitude":7.806178,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1188,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":1188,
     "iso:country":"CH",
     "lbl:latitude":46.69896,
     "lbl:longitude":7.79428,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.716938,
     "mps:longitude":7.806178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Beatenberg"
@@ -105,7 +107,7 @@
     "name:swe_x_preferred":[
         "Beatenberg"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beatenbeig"
     ],
     "name:vie_x_preferred":[
@@ -185,7 +187,7 @@
         }
     ],
     "wof:id":1125778673,
-    "wof:lastmodified":1565462690,
+    "wof:lastmodified":1566642412,
     "wof:name":"Beatenberg",
     "wof:parent_id":404568293,
     "wof:placetype":"locality",

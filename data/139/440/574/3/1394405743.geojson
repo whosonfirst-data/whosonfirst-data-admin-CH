@@ -25,9 +25,11 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Bruch"
     ],
@@ -69,12 +71,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682301,
         102191581,
         404567951,
         85633051,
         1125923263,
-        102062999
+        102062999,
+        85682301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":1394405743,
-    "wof:lastmodified":1565435357,
+    "wof:lastmodified":1566640046,
     "wof:name":"Bruch",
     "wof:parent_id":1125923263,
     "wof:placetype":"neighbourhood",

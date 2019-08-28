@@ -9,16 +9,17 @@
     "geom:bbox":"8.48771,47.33838,8.48771,47.33838",
     "geom:latitude":47.33838,
     "geom:longitude":8.48771,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":261,
+    "gn:country":"CH",
+    "gn:fcode":"PPLX",
     "gn:population":261,
     "iso:country":"CH",
     "lbl:latitude":47.33838,
     "lbl:longitude":8.48771,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Atrium"
@@ -62,9 +63,6 @@
     "name:tur_x_preferred":[
         "Avlu"
     ],
-    "name:unk_x_variant":[
-        "Atrium"
-    ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
     "qs_pg:gn_fcode":"PPLX",
@@ -77,15 +75,15 @@
     "qs_pg:qs_id":617399,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569273,
         85633051,
         1126029647,
-        102062775
+        102062775,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +105,7 @@
         }
     ],
     "wof:id":1126061773,
-    "wof:lastmodified":1565460787,
+    "wof:lastmodified":1566642236,
     "wof:name":"Atrium",
     "wof:parent_id":1126029647,
     "wof:placetype":"neighbourhood",

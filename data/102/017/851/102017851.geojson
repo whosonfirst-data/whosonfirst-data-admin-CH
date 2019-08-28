@@ -12,10 +12,13 @@
     "iso:country":"CH",
     "lbl:latitude":-41.825776,
     "lbl:longitude":-73.511318,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":-41.825776,
     "mps:longitude":-73.511318,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Cakao bo\u011faz\u0131"
     ],
@@ -62,13 +65,13 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3895774,
         "gp:id":349996,
-        "qs:id":232959,
+        "qs_pg:id":232959,
         "wd:id":"Q1058373",
         "wk:page":"Chacao Channel"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102017851,
-    "wof:lastmodified":1565422262,
+    "wof:lastmodified":1566639368,
     "wof:name":"Chacao",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

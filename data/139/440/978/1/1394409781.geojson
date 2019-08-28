@@ -9,15 +9,17 @@
     "geom:bbox":"8.87538,47.34668,8.87538,47.34668",
     "geom:latitude":47.34668,
     "geom:longitude":8.87538,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":22,
+    "gn:country":"CH",
+    "gn:fcode":"PPL",
     "gn:population":22,
     "iso:country":"CH",
+    "lbl:bbox":"8.87038,47.34168,8.88038,47.35168",
     "lbl:latitude":47.34668,
     "lbl:longitude":8.87538,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Tanne"
@@ -45,19 +47,19 @@
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":20104387,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
     "woe:name_adm1":"Kanton Appenzell Ausserrhoden",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682309,
         102191581,
         404568511,
         85633051,
         1126035931,
-        102062967
+        102062967,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":1394409781,
-    "wof:lastmodified":1565435124,
+    "wof:lastmodified":1566640021,
     "wof:name":"Tanne",
     "wof:parent_id":1126035931,
     "wof:placetype":"neighbourhood",

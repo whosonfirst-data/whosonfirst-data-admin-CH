@@ -9,15 +9,17 @@
     "geom:bbox":"8.65234,47.62094,8.65234,47.62094",
     "geom:latitude":47.62094,
     "geom:longitude":8.65234,
-    "gn:gn_country":"CH",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":9,
+    "gn:country":"CH",
+    "gn:fcode":"PPLL",
     "gn:population":9,
     "iso:country":"CH",
+    "lbl:bbox":"8.64734,47.61594,8.65734,47.62594",
     "lbl:latitude":47.62094,
     "lbl:longitude":8.65234,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Z\u00fcrich"
@@ -49,15 +51,15 @@
     "qs_pg:qs_id":617610,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85682309,
         102191581,
         404569005,
         85633051,
         1125913375,
-        102062801
+        102062801,
+        85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":1394395991,
-    "wof:lastmodified":1565441343,
+    "wof:lastmodified":1566640648,
     "wof:name":"Seefeld",
     "wof:parent_id":1125913375,
     "wof:placetype":"neighbourhood",
