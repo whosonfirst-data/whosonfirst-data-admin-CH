@@ -63,7 +63,6 @@
     "qs:type":"Commune",
     "src:geom":"ch-cadastre",
     "src:geom_alt":[
-        "quattroshapes_pg",
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -83,6 +82,9 @@
         1126019935
     ],
     "wof:country":"CH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bd0c650f5bb5d9c4243c30b6a6d83476",
     "wof:hierarchy":[
         {
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":1175611151,
-    "wof:lastmodified":1566639700,
+    "wof:lastmodified":1582222874,
     "wof:name":"Croy",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

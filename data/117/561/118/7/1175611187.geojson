@@ -90,7 +90,6 @@
     "qs:type":"Commune",
     "src:geom":"ch-cadastre",
     "src:geom_alt":[
-        "quattroshapes_pg",
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -109,6 +108,9 @@
         1126028143
     ],
     "wof:country":"CH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a3af03840bff6c8e88235dc93117a1dd",
     "wof:hierarchy":[
         {
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":1175611187,
-    "wof:lastmodified":1566639696,
+    "wof:lastmodified":1582222873,
     "wof:name":"Saint-Brais",
     "wof:parent_id":102062875,
     "wof:placetype":"localadmin",
