@@ -199,6 +199,7 @@
     "qs:type":"Town",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -218,6 +219,10 @@
         "wk:page":"Huasco"
     },
     "wof:country":"CH",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d31e175a11c310b5b96ed83c456398c7",
     "wof:hierarchy":[
         {
@@ -232,7 +237,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566639368,
+    "wof:lastmodified":1582222815,
     "wof:name":"Huasco",
     "wof:parent_id":102063175,
     "wof:placetype":"locality",

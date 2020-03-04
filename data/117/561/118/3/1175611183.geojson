@@ -105,7 +105,6 @@
     "qs:type":"Commune",
     "src:geom":"ch-cadastre",
     "src:geom_alt":[
-        "quattroshapes_pg",
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -121,6 +120,9 @@
         "qs_pg:id":1169889
     },
     "wof:country":"CH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"22b14f9f007a6c8e8d41ab94d9547b07",
     "wof:hierarchy":[
         {
@@ -132,7 +134,7 @@
         }
     ],
     "wof:id":1175611183,
-    "wof:lastmodified":1566639696,
+    "wof:lastmodified":1582222873,
     "wof:name":"Degersheim",
     "wof:parent_id":102062947,
     "wof:placetype":"localadmin",

@@ -111,7 +111,6 @@
     "qs:type":"Commune",
     "src:geom":"ch-cadastre",
     "src:geom_alt":[
-        "quattroshapes_pg",
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -131,6 +130,9 @@
         1125912217
     ],
     "wof:country":"CH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9dd527d36f023361d3c90d47f482038e",
     "wof:hierarchy":[
         {
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1175611209,
-    "wof:lastmodified":1566639696,
+    "wof:lastmodified":1582222873,
     "wof:name":"Flerden",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
