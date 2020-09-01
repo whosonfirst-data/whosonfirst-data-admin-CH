@@ -24,6 +24,9 @@
     "name:als_x_preferred":[
         "Brunnen SZ"
     ],
+    "name:cat_x_preferred":[
+        "Brunnen"
+    ],
     "name:ces_x_preferred":[
         "Brunnen"
     ],
@@ -33,6 +36,15 @@
     "name:deu_x_preferred":[
         "Brunnen SZ"
     ],
+    "name:deu_x_variant":[
+        "Brunnen"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Brunnen"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Brunnen"
+    ],
     "name:eng_x_preferred":[
         "Brunnen"
     ],
@@ -41,6 +53,9 @@
     ],
     "name:gsw_x_preferred":[
         "Brunne SZ"
+    ],
+    "name:gsw_x_variant":[
+        "Brunne"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0580\u0578\u0582\u0576\u0565\u0576"
@@ -100,9 +115,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        404568795,
         85633051,
         102062887,
+        404568795,
         85682305
     ],
     "wof:breaches":[],
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":1394410039,
-    "wof:lastmodified":1566640449,
+    "wof:lastmodified":1598917976,
     "wof:name":"Brunnen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

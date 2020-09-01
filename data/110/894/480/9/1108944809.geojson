@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.60120894774,47.5592285264,7.60120894774,47.5592285264",
+    "geom:bbox":"7.601209,47.559229,7.601209,47.559229",
     "geom:latitude":47.559229,
     "geom:longitude":7.601209,
     "iso:country":"CH",
@@ -40,6 +40,9 @@
     "name:jpn_x_preferred":[
         "\u30ed\u30fc\u30bc\u30f3\u30ac\u30eb\u30c6\u30f3"
     ],
+    "name:mkd_x_preferred":[
+        "\u0420\u043e\u0437\u0435\u043d\u0433\u0430\u0440\u0442\u0435\u043d"
+    ],
     "name:nld_x_preferred":[
         "Rosengarten"
     ],
@@ -61,17 +64,17 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        404328241,
         85633051,
-        101748459,
         102062895,
+        404328241,
+        101748459,
         85682297
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
     "wof:created":1491364619,
-    "wof:geomhash":"c177fe045fc4494221a1eb9bd0ecea4f",
+    "wof:geomhash":"7f2479ec437fe7d5403cfbd0a3df37e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108944809,
-    "wof:lastmodified":1566639686,
+    "wof:lastmodified":1598916333,
     "wof:name":"Rosengarten",
     "wof:parent_id":101748459,
     "wof:placetype":"neighbourhood",
@@ -94,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.60120894774074,
-    47.55922852637114,
-    7.60120894774074,
-    47.55922852637114
+    7.601209,
+    47.559229,
+    7.601209,
+    47.559229
 ],
-  "geometry": {"coordinates":[7.60120894774074,47.55922852637114],"type":"Point"}
+  "geometry": {"coordinates":[7.601209,47.559229],"type":"Point"}
 }

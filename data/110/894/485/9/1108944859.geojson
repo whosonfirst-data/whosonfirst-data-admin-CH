@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.44431752282,46.9582140512,7.44431752282,46.9582140512",
+    "geom:bbox":"7.444318,46.958214,7.444318,46.958214",
     "geom:latitude":46.958214,
     "geom:longitude":7.444318,
     "iso:country":"CH",
@@ -131,6 +131,9 @@
     "name:gle_x_preferred":[
         "Lorraine"
     ],
+    "name:gle_x_variant":[
+        "An Lorr\u00e1in"
+    ],
     "name:glg_x_preferred":[
         "Lorena"
     ],
@@ -173,6 +176,9 @@
     "name:kat_x_preferred":[
         "\u10da\u10dd\u10d7\u10d0\u10e0\u10d8\u10dc\u10d2\u10d8\u10d0"
     ],
+    "name:kaz_x_preferred":[
+        "\u041b\u043e\u0442\u0430\u0440\u0438\u043d\u0433\u0438\u044f"
+    ],
     "name:kir_x_preferred":[
         "\u041b\u043e\u0442\u0430\u0440\u0438\u043d\u0433\u0438\u044f"
     ],
@@ -206,6 +212,9 @@
     "name:mkd_x_preferred":[
         "\u041b\u043e\u0440\u0435\u043d\u0430"
     ],
+    "name:mon_x_preferred":[
+        "\u041b\u043e\u0442\u0430\u0440\u0438\u043d\u0433"
+    ],
     "name:msa_x_preferred":[
         "Lorraine"
     ],
@@ -226,6 +235,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a32\u0a4b\u0a30\u0a48\u0a28"
+    ],
+    "name:pcd_x_preferred":[
+        "Lorraine"
     ],
     "name:pfl_x_preferred":[
         "Lothringen"
@@ -323,17 +335,17 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        1394254007,
         85633051,
-        101748453,
         102062861,
+        1394254007,
+        101748453,
         85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
     "wof:created":1491364655,
-    "wof:geomhash":"b052d47d6ec39a888ac2f7335040111e",
+    "wof:geomhash":"655154dd169159a1c99a43f48e4f1251",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -346,7 +358,7 @@
         }
     ],
     "wof:id":1108944859,
-    "wof:lastmodified":1566639669,
+    "wof:lastmodified":1598916295,
     "wof:name":"Lorraine",
     "wof:parent_id":101748453,
     "wof:placetype":"neighbourhood",
@@ -356,10 +368,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.44431752282276,
-    46.95821405119531,
-    7.44431752282276,
-    46.95821405119531
+    7.444318,
+    46.958214,
+    7.444318,
+    46.958214
 ],
-  "geometry": {"coordinates":[7.44431752282276,46.95821405119531],"type":"Point"}
+  "geometry": {"coordinates":[7.444318,46.958214],"type":"Point"}
 }

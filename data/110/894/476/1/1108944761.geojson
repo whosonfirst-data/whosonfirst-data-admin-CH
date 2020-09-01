@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.56573224532,47.5545753366,7.56573224532,47.5545753366",
+    "geom:bbox":"7.565732,47.554575,7.565732,47.554575",
     "geom:latitude":47.554575,
     "geom:longitude":7.565732,
     "iso:country":"CH",
@@ -26,6 +26,9 @@
         "Gottfried Keller"
     ],
     "name:ara_x_preferred":[
+        "\u062c\u0648\u062a\u0641\u0631\u064a\u062f \u0643\u064a\u0644\u0644\u0631"
+    ],
+    "name:arz_x_preferred":[
         "\u062c\u0648\u062a\u0641\u0631\u064a\u062f \u0643\u064a\u0644\u0644\u0631"
     ],
     "name:bel_x_preferred":[
@@ -51,6 +54,9 @@
     ],
     "name:eus_x_preferred":[
         "Gottfried Keller"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u062a\u0641\u0631\u06cc\u062f \u06a9\u0644\u0631"
     ],
     "name:fin_x_preferred":[
         "Gottfried Keller"
@@ -130,17 +136,17 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        404328241,
         85633051,
-        101748459,
         102062895,
+        404328241,
+        101748459,
         85682297
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
     "wof:created":1491364592,
-    "wof:geomhash":"8e466c002e97c7743e45ed90b5aa8b0c",
+    "wof:geomhash":"54dc46d175d8ca75ee7e58edcf77cd34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":1108944761,
-    "wof:lastmodified":1566639670,
+    "wof:lastmodified":1598916299,
     "wof:name":"Gottfried Keller",
     "wof:parent_id":101748459,
     "wof:placetype":"neighbourhood",
@@ -163,10 +169,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.56573224532026,
-    47.55457533664364,
-    7.56573224532026,
-    47.55457533664364
+    7.565732,
+    47.554575,
+    7.565732,
+    47.554575
 ],
-  "geometry": {"coordinates":[7.56573224532026,47.55457533664364],"type":"Point"}
+  "geometry": {"coordinates":[7.565732,47.554575],"type":"Point"}
 }

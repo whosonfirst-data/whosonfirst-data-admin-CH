@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0646\u0632\u064a\u0631\u0647\u064a\u062f\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0435\u043d\u0446\u0435\u0440\u0445\u0430\u0439\u0434\u0435"
     ],
@@ -51,8 +54,14 @@
     "name:ita_x_preferred":[
         "Lenzerheide"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30f3\u30c4\u30a1\u30fc\u30cf\u30a4\u30c7"
+    ],
     "name:lav_x_preferred":[
         "Lencerheide"
+    ],
+    "name:ltz_x_preferred":[
+        "Lenzerheide"
     ],
     "name:nld_x_preferred":[
         "Lenzerheide"
@@ -71,6 +80,12 @@
     ],
     "name:slk_x_preferred":[
         "Lenzerheide"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041b\u0435\u043d\u0446\u0435\u0440\u0445\u0430\u0458\u0434\u0435"
+    ],
+    "name:srp_el_x_preferred":[
+        "Lencerhajde"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0435\u043d\u0446\u0435\u0440\u0445\u0430\u0458\u0434\u0435"
@@ -113,10 +128,10 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        404568091,
         85633051,
-        1394296679,
         102062885,
+        404568091,
+        1394296679,
         85682255
     ],
     "wof:breaches":[],
@@ -141,7 +156,7 @@
         }
     ],
     "wof:id":1394395453,
-    "wof:lastmodified":1566640624,
+    "wof:lastmodified":1598918383,
     "wof:name":"Lenzerheide",
     "wof:parent_id":1394296679,
     "wof:placetype":"neighbourhood",

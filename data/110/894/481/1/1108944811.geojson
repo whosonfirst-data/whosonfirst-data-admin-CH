@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.60721709896,47.5614680888,7.60721709896,47.5614680888",
+    "geom:bbox":"7.607217,47.561468,7.607217,47.561468",
     "geom:latitude":47.561468,
     "geom:longitude":7.607217,
     "iso:country":"CH",
@@ -34,6 +34,9 @@
     "name:epo_x_preferred":[
         "Soleco"
     ],
+    "name:est_x_preferred":[
+        "\u00dcksindus"
+    ],
     "name:fra_x_preferred":[
         "Solitude"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05ea\u05d1\u05d5\u05d3\u05d3\u05d5\u05ea"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0576\u0584\u0576\u0561\u0574\u0565\u056f\u0578\u0582\u057d\u0561\u0581\u0578\u0582\u0574"
     ],
     "name:ind_x_preferred":[
         "Kesendirian"
@@ -54,6 +60,9 @@
     ],
     "name:lit_x_preferred":[
         "Vienatv\u0117"
+    ],
+    "name:oci_x_preferred":[
+        "Solitud"
     ],
     "name:pnb_x_preferred":[
         "\u0642\u0644\u0639\u06c1 \u0633\u0648\u0644\u06cc\u0686\u06cc\u0648\u0688"
@@ -73,6 +82,9 @@
     "name:tam_x_preferred":[
         "\u0ba4\u0ba9\u0bbf\u0bae\u0bc8"
     ],
+    "name:tur_x_preferred":[
+        "Tecrit"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u01a1n \u0111\u1ed9c"
     ],
@@ -82,17 +94,17 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        404328241,
         85633051,
-        101748459,
         102062895,
+        404328241,
+        101748459,
         85682297
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
     "wof:created":1491364621,
-    "wof:geomhash":"8a381d15509d7ea5a41b360529f13df1",
+    "wof:geomhash":"7b627478024f98b0f9d7d59bd8284e64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":1108944811,
-    "wof:lastmodified":1566639682,
+    "wof:lastmodified":1598916324,
     "wof:name":"Solitude",
     "wof:parent_id":101748459,
     "wof:placetype":"neighbourhood",
@@ -115,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.60721709895712,
-    47.56146808876961,
-    7.60721709895712,
-    47.56146808876961
+    7.607217,
+    47.561468,
+    7.607217,
+    47.561468
 ],
-  "geometry": {"coordinates":[7.60721709895712,47.56146808876961],"type":"Point"}
+  "geometry": {"coordinates":[7.607217,47.561468],"type":"Point"}
 }

@@ -48,6 +48,9 @@
     "name:ita_x_preferred":[
         "Dailly"
     ],
+    "name:sco_x_preferred":[
+        "Dailly"
+    ],
     "name:spa_x_preferred":[
         "Dailly"
     ],
@@ -57,10 +60,10 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        404568997,
         85633051,
-        1125913605,
         102062783,
+        404568997,
+        1125913605,
         85682325
     ],
     "wof:breaches":[],
@@ -68,7 +71,7 @@
         "gn:id":2661054
     },
     "wof:country":"CH",
-    "wof:geomhash":"d25c732b99a2bb53e6bf2b031ee8e0f3",
+    "wof:geomhash":"b5d947d979a4dc5df93203b6f687f406",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1394398291,
-    "wof:lastmodified":1566640520,
+    "wof:lastmodified":1598918143,
     "wof:name":"Dailly",
     "wof:parent_id":1125913605,
     "wof:placetype":"neighbourhood",
@@ -94,9 +97,9 @@
 },
   "bbox": [
     7.0286,
-    46.20744000000001,
+    46.20744,
     7.0286,
-    46.20744000000001
+    46.20744
 ],
-  "geometry": {"coordinates":[7.0286,46.20744000000001],"type":"Point"}
+  "geometry": {"coordinates":[7.0286,46.20744],"type":"Point"}
 }

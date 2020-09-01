@@ -51,6 +51,9 @@
     "name:ast_x_preferred":[
         "Lluvia"
     ],
+    "name:atj_x_preferred":[
+        "Kimiwon"
+    ],
     "name:aym_x_preferred":[
         "Jallu"
     ],
@@ -77,6 +80,9 @@
     ],
     "name:bih_x_preferred":[
         "\u092c\u0930\u0916\u093e"
+    ],
+    "name:bih_x_variant":[
+        "\u092c\u0941\u0928\u0940"
     ],
     "name:bjn_x_preferred":[
         "Hujan"
@@ -126,6 +132,9 @@
     "name:dsb_x_preferred":[
         "De\u0161\u0107"
     ],
+    "name:dty_x_preferred":[
+        "\u0935\u0930\u094d\u0937\u093e"
+    ],
     "name:ell_x_preferred":[
         "\u0392\u03c1\u03bf\u03c7\u03ae"
     ],
@@ -153,6 +162,9 @@
     "name:fas_x_preferred":[
         "\u0628\u0627\u0631\u0627\u0646"
     ],
+    "name:fij_x_preferred":[
+        "Uca"
+    ],
     "name:fin_x_preferred":[
         "Sade"
     ],
@@ -164,6 +176,9 @@
     ],
     "name:ful_x_preferred":[
         "To\u0253o"
+    ],
+    "name:gcr_x_preferred":[
+        "Lapli"
     ],
     "name:gla_x_preferred":[
         "Uisge-adhair"
@@ -276,6 +291,9 @@
     "name:lav_x_preferred":[
         "Lietus"
     ],
+    "name:lez_x_preferred":[
+        "\u041c\u0430\u0440\u0444"
+    ],
     "name:lim_x_preferred":[
         "Raenger"
     ],
@@ -288,11 +306,17 @@
     "name:lmo_x_preferred":[
         "Pi\u00f6va"
     ],
+    "name:lmo_x_variant":[
+        "Pioeuva"
+    ],
     "name:ltz_x_preferred":[
         "Reen"
     ],
     "name:lug_x_preferred":[
         "Eryokanga n\u2019etonya"
+    ],
+    "name:mai_x_preferred":[
+        "\u0935\u0930\u094d\u0937\u093e"
     ],
     "name:mar_x_preferred":[
         "\u092a\u093e\u090a\u0938"
@@ -354,6 +378,9 @@
     "name:pnb_x_preferred":[
         "\u0645\u06cc\u0646\u06c1"
     ],
+    "name:pnb_x_variant":[
+        "\u0645\u06cc\u0646\u06be"
+    ],
     "name:pol_x_preferred":[
         "Deszcz"
     ],
@@ -393,6 +420,9 @@
     "name:slv_x_preferred":[
         "De\u017e"
     ],
+    "name:sme_x_preferred":[
+        "Arvi"
+    ],
     "name:snd_x_preferred":[
         "\u0628\u0631\u0633\u0627\u062a"
     ],
@@ -420,6 +450,9 @@
     "name:swe_x_preferred":[
         "Regn"
     ],
+    "name:szy_x_preferred":[
+        "udad"
+    ],
     "name:tam_x_preferred":[
         "\u0bae\u0bb4\u0bc8"
     ],
@@ -437,6 +470,9 @@
     ],
     "name:tgl_x_preferred":[
         "Ulan"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bbuha"
     ],
     "name:tuk_x_preferred":[
         "\u00ddagy\u015f"
@@ -461,6 +497,9 @@
     ],
     "name:vie_x_preferred":[
         "M\u01b0a"
+    ],
+    "name:vol_x_preferred":[
+        "Rein"
     ],
     "name:war_x_preferred":[
         "Uran"
@@ -499,10 +538,10 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        404568775,
         85633051,
-        101854399,
         102062769,
+        404568775,
+        101854399,
         85682309
     ],
     "wof:breaches":[],
@@ -525,7 +564,7 @@
         }
     ],
     "wof:id":1126062511,
-    "wof:lastmodified":1566642193,
+    "wof:lastmodified":1598921501,
     "wof:name":"Rain",
     "wof:parent_id":101854399,
     "wof:placetype":"neighbourhood",

@@ -42,6 +42,9 @@
     "name:ita_x_preferred":[
         "Waldegg"
     ],
+    "name:nds_x_preferred":[
+        "Waldegg"
+    ],
     "name:pol_x_preferred":[
         "Waldegg"
     ],
@@ -51,10 +54,10 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        404568847,
         85633051,
-        1126035649,
         102062947,
+        404568847,
+        1126035649,
         85682341
     ],
     "wof:breaches":[],
@@ -62,7 +65,7 @@
         "gn:id":11591154
     },
     "wof:country":"CH",
-    "wof:geomhash":"6edac648c1fe98ce49d17748dcb05b83",
+    "wof:geomhash":"46aea7e6a32dc25fff6af611b2e178d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1394410337,
-    "wof:lastmodified":1566640456,
+    "wof:lastmodified":1598917995,
     "wof:name":"Waldegg",
     "wof:parent_id":1126035649,
     "wof:placetype":"neighbourhood",
@@ -88,9 +91,9 @@
 },
   "bbox": [
     9.20429,
-    47.45959000000001,
+    47.45959,
     9.20429,
-    47.45959000000001
+    47.45959
 ],
-  "geometry": {"coordinates":[9.20429,47.45959000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.20429,47.45959],"type":"Point"}
 }
