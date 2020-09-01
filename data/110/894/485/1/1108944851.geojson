@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.43175762576,46.9569935751,7.43175762576,46.9569935751",
+    "geom:bbox":"7.431758,46.956994,7.431758,46.956994",
     "geom:latitude":46.956994,
     "geom:longitude":7.431758,
     "iso:country":"CH",
@@ -80,6 +80,9 @@
     "name:srp_x_preferred":[
         "\u041d\u043e\u0458\u0444\u0435\u043b\u0434"
     ],
+    "name:swe_x_preferred":[
+        "Neufeld"
+    ],
     "name:tur_x_preferred":[
         "Neufeld"
     ],
@@ -104,17 +107,17 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        1394254007,
         85633051,
-        101748453,
         102062861,
+        1394254007,
+        101748453,
         85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
     "wof:created":1491364652,
-    "wof:geomhash":"36c226b604fdfc5f3b6dc95cc0079810",
+    "wof:geomhash":"c9b42b9e31859bf2c31b4292c5009db5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1108944851,
-    "wof:lastmodified":1566639669,
+    "wof:lastmodified":1598916296,
     "wof:name":"Neufeld",
     "wof:parent_id":101748453,
     "wof:placetype":"neighbourhood",
@@ -137,10 +140,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.43175762575615,
-    46.95699357513283,
-    7.43175762575615,
-    46.95699357513283
+    7.431758,
+    46.956994,
+    7.431758,
+    46.956994
 ],
-  "geometry": {"coordinates":[7.43175762575615,46.95699357513283],"type":"Point"}
+  "geometry": {"coordinates":[7.431758,46.956994],"type":"Point"}
 }

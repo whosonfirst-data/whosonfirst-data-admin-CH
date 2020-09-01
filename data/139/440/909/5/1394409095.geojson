@@ -90,6 +90,9 @@
     "name:swe_x_preferred":[
         "Gurzelen"
     ],
+    "name:vec_x_preferred":[
+        "Gurzelen"
+    ],
     "name:vie_x_preferred":[
         "Gurzelen"
     ],
@@ -105,10 +108,10 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        404571119,
         85633051,
-        1125771801,
         102062909,
+        404571119,
+        1125771801,
         85682381
     ],
     "wof:breaches":[],
@@ -116,7 +119,7 @@
         "gn:id":11590143
     },
     "wof:country":"CH",
-    "wof:geomhash":"34f870fbbffc1cde32d9bf27cbe48eb2",
+    "wof:geomhash":"f86d66473ae87245c270e5aa7aebf7fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1394409095,
-    "wof:lastmodified":1566639763,
+    "wof:lastmodified":1598916438,
     "wof:name":"Gurzelen",
     "wof:parent_id":1125771801,
     "wof:placetype":"neighbourhood",
@@ -142,9 +145,9 @@
 },
   "bbox": [
     7.14783,
-    47.03664000000001,
+    47.03664,
     7.14783,
-    47.03664000000001
+    47.03664
 ],
-  "geometry": {"coordinates":[7.14783,47.03664000000001],"type":"Point"}
+  "geometry": {"coordinates":[7.14783,47.03664],"type":"Point"}
 }

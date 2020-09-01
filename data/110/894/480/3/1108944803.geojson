@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.58936430677,47.5648658627,7.58936430677,47.5648658627",
+    "geom:bbox":"7.589364,47.564866,7.589364,47.564866",
     "geom:latitude":47.564866,
     "geom:longitude":7.589364,
     "iso:country":"CH",
@@ -36,6 +36,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0424\u043b\u043e\u0440\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0989\u09a6\u09cd\u09ad\u09bf\u09a6\u0995\u09c1\u09b2"
     ],
     "name:bos_x_preferred":[
         "Flora"
@@ -90,6 +93,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0935\u0928\u0938\u094d\u092a\u0924\u093f"
+    ],
+    "name:hin_x_variant":[
+        "\u0935\u0928\u0938\u094d\u092a\u0924\u093f\u091c\u093e\u0924"
     ],
     "name:hrv_x_preferred":[
         "Flora"
@@ -211,8 +217,14 @@
     "name:ukr_x_preferred":[
         "\u0424\u043b\u043e\u0440\u0430"
     ],
+    "name:uzb_x_preferred":[
+        "Flora"
+    ],
     "name:war_x_preferred":[
         "Flora"
+    ],
+    "name:wuu_x_preferred":[
+        "\u690d\u7269\u76f8"
     ],
     "name:xmf_x_preferred":[
         "\u10e4\u10da\u10dd\u10e0\u10d0"
@@ -223,17 +235,17 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        404328241,
         85633051,
-        101748459,
         102062895,
+        404328241,
+        101748459,
         85682297
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
     "wof:created":1491364615,
-    "wof:geomhash":"a3b812974337fbc8efcf7b4d369694e1",
+    "wof:geomhash":"e8796fcd314e1b2fb4071b892325dde9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -246,7 +258,7 @@
         }
     ],
     "wof:id":1108944803,
-    "wof:lastmodified":1566639686,
+    "wof:lastmodified":1598916335,
     "wof:name":"Flora",
     "wof:parent_id":101748459,
     "wof:placetype":"neighbourhood",
@@ -256,10 +268,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.58936430677132,
-    47.56486586269488,
-    7.58936430677132,
-    47.56486586269488
+    7.589364,
+    47.564866,
+    7.589364,
+    47.564866
 ],
-  "geometry": {"coordinates":[7.58936430677132,47.56486586269488],"type":"Point"}
+  "geometry": {"coordinates":[7.589364,47.564866],"type":"Point"}
 }

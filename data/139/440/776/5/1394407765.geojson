@@ -39,6 +39,9 @@
     "name:ceb_x_preferred":[
         "Fontanella"
     ],
+    "name:ces_x_preferred":[
+        "Fontanella"
+    ],
     "name:deu_x_preferred":[
         "Fontanella"
     ],
@@ -81,10 +84,10 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        404568159,
         85633051,
-        1394289361,
         102062767,
+        404568159,
+        1394289361,
         85682269
     ],
     "wof:breaches":[],
@@ -92,7 +95,7 @@
         "gn:id":11113429
     },
     "wof:country":"CH",
-    "wof:geomhash":"968dc898ec2655635da3bb226822d180",
+    "wof:geomhash":"de098799727a5658c5beadc108889754",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1394407765,
-    "wof:lastmodified":1566640014,
+    "wof:lastmodified":1598917050,
     "wof:name":"Fontanella",
     "wof:parent_id":1394289361,
     "wof:placetype":"neighbourhood",
@@ -118,9 +121,9 @@
 },
   "bbox": [
     8.96108,
-    46.13229000000001,
+    46.13229,
     8.96108,
-    46.13229000000001
+    46.13229
 ],
-  "geometry": {"coordinates":[8.96108,46.13229000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.96108,46.13229],"type":"Point"}
 }

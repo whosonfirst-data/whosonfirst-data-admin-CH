@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.15157502797,46.2133725454,6.15157502797,46.2133725454",
+    "geom:bbox":"6.151575,46.213373,6.151575,46.213373",
     "geom:latitude":46.213373,
     "geom:longitude":6.151575,
     "iso:country":"CH",
@@ -38,6 +38,9 @@
         "Wilson"
     ],
     "name:ces_x_preferred":[
+        "Wilson"
+    ],
+    "name:dan_x_preferred":[
         "Wilson"
     ],
     "name:deu_x_preferred":[
@@ -73,7 +76,13 @@
     "name:lit_x_preferred":[
         "Wilson"
     ],
+    "name:nds_x_preferred":[
+        "Wilson"
+    ],
     "name:nld_x_preferred":[
+        "Wilson"
+    ],
+    "name:nor_x_preferred":[
         "Wilson"
     ],
     "name:pol_x_preferred":[
@@ -124,17 +133,17 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        404328283,
         85633051,
-        101748445,
         102062917,
+        404328283,
+        101748445,
         85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
     "wof:created":1491364688,
-    "wof:geomhash":"6acb861ea5980213de325c4f3b014e57",
+    "wof:geomhash":"ec774e13b54563eee0ce6c842576c843",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":1108944919,
-    "wof:lastmodified":1566639675,
+    "wof:lastmodified":1598916312,
     "wof:name":"Wilson",
     "wof:parent_id":101748445,
     "wof:placetype":"neighbourhood",
@@ -157,10 +166,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.15157502797482,
-    46.21337254541449,
-    6.15157502797482,
-    46.21337254541449
+    6.151575,
+    46.213373,
+    6.151575,
+    46.213373
 ],
-  "geometry": {"coordinates":[6.15157502797482,46.21337254541449],"type":"Point"}
+  "geometry": {"coordinates":[6.151575,46.213373],"type":"Point"}
 }

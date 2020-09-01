@@ -84,6 +84,9 @@
     "name:srp_x_preferred":[
         "\u0424\u0435\u043b\u0442\u0445\u0430\u0458\u043c"
     ],
+    "name:swe_x_preferred":[
+        "Veltheim"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u0435\u043b\u044c\u0442\u0433\u0430\u0439\u043c"
     ],
@@ -104,6 +107,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8d39\u5c14\u7279\u6d77\u59c6"
+    ],
+    "name:zho_x_variant":[
+        "\u5965\u5384\u6cb3\u7554\u8d39\u5c14\u7279\u6d77\u59c6"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -132,10 +138,10 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        404567873,
         85633051,
-        101748461,
         102063055,
+        404567873,
+        101748461,
         85682309
     ],
     "wof:breaches":[],
@@ -159,7 +165,7 @@
         }
     ],
     "wof:id":1394394667,
-    "wof:lastmodified":1566640742,
+    "wof:lastmodified":1598918684,
     "wof:name":"Veltheim",
     "wof:parent_id":101748461,
     "wof:placetype":"neighbourhood",

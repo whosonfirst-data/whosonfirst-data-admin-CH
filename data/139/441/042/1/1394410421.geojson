@@ -30,10 +30,16 @@
     "mz:is_current":-1,
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Lat"
+    ],
     "name:deu_x_preferred":[
         "Lat"
     ],
     "name:fra_x_preferred":[
+        "Lat"
+    ],
+    "name:hun_x_preferred":[
         "Lat"
     ],
     "name:ind_x_preferred":[
@@ -42,19 +48,28 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30c3\u30c8"
     ],
+    "name:lit_x_preferred":[
+        "LAT"
+    ],
     "name:msa_x_preferred":[
+        "Lat"
+    ],
+    "name:nld_x_preferred":[
         "Lat"
     ],
     "name:roh_x_preferred":[
         "Lat"
     ],
+    "name:swe_x_preferred":[
+        "Lat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        404568325,
         85633051,
-        1125806309,
         102062881,
+        404568325,
+        1125806309,
         85682255
     ],
     "wof:breaches":[],
@@ -62,7 +77,7 @@
         "gn:id":11591492
     },
     "wof:country":"CH",
-    "wof:geomhash":"46e4c6f6253b1781439cd8826da6f193",
+    "wof:geomhash":"1afb72d33f123bd10295affb117f5ab1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +90,7 @@
         }
     ],
     "wof:id":1394410421,
-    "wof:lastmodified":1566640434,
+    "wof:lastmodified":1598917944,
     "wof:name":"Lat",
     "wof:parent_id":1125806309,
     "wof:placetype":"neighbourhood",
@@ -88,9 +103,9 @@
 },
   "bbox": [
     9.53249,
-    46.91354000000001,
+    46.91354,
     9.53249,
-    46.91354000000001
+    46.91354
 ],
-  "geometry": {"coordinates":[9.53249,46.91354000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.53249,46.91354],"type":"Point"}
 }

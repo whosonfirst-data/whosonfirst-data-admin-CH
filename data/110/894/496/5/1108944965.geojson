@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.16144556212,46.1926801933,6.16144556212,46.1926801933",
+    "geom:bbox":"6.161446,46.19268,6.161446,46.19268",
     "geom:latitude":46.19268,
     "geom:longitude":6.161446,
     "iso:country":"CH",
@@ -25,11 +25,17 @@
     "name:ceb_x_preferred":[
         "Florissant"
     ],
+    "name:fra_x_preferred":[
+        "Florissant"
+    ],
     "name:pol_x_preferred":[
         "Florissant"
     ],
     "name:srp_x_preferred":[
         "\u0424\u043b\u043e\u0440\u0438\u0441\u0430\u043d\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Florissant"
     ],
     "name:ukr_x_preferred":[
         "\u0424\u043b\u043e\u0440\u0438\u0441\u0441\u0435\u043d\u0442"
@@ -40,17 +46,17 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        404328283,
         85633051,
-        101748445,
         102062917,
+        404328283,
+        101748445,
         85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
     "wof:created":1491364728,
-    "wof:geomhash":"231ca766d54dac0b1c741c5513569cdf",
+    "wof:geomhash":"25eae5ab36dab8e89eca256cddcaef82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108944965,
-    "wof:lastmodified":1566639677,
+    "wof:lastmodified":1598916314,
     "wof:name":"Florissant",
     "wof:parent_id":101748445,
     "wof:placetype":"neighbourhood",
@@ -73,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.161445562116,
-    46.19268019326931,
-    6.161445562116,
-    46.19268019326931
+    6.161446,
+    46.19268,
+    6.161446,
+    46.19268
 ],
-  "geometry": {"coordinates":[6.161445562116,46.19268019326931],"type":"Point"}
+  "geometry": {"coordinates":[6.161446,46.19268],"type":"Point"}
 }

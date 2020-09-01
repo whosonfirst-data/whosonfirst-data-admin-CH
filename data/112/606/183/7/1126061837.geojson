@@ -21,6 +21,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u062c\u0628\u0644 \u0627\u064a\u0631\u062a\u0634\u064a\u0644"
+    ],
     "name:ceb_x_preferred":[
         "Irchel"
     ],
@@ -35,6 +38,12 @@
     ],
     "name:epo_x_preferred":[
         "Irchel"
+    ],
+    "name:swe_x_preferred":[
+        "Irchel"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u723e\u8b1d\u723e\u5c71"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -52,10 +61,10 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        404568829,
         85633051,
-        101854385,
         102063019,
+        404568829,
+        101854385,
         85682309
     ],
     "wof:breaches":[],
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":1126061837,
-    "wof:lastmodified":1566642237,
+    "wof:lastmodified":1598921622,
     "wof:name":"Irchel",
     "wof:parent_id":101854385,
     "wof:placetype":"neighbourhood",

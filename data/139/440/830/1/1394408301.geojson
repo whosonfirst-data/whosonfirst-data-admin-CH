@@ -54,6 +54,9 @@
     "name:hye_x_preferred":[
         "\u054d\u0578\u0576\u0565\u0576\u0562\u0565\u0580\u0563"
     ],
+    "name:ile_x_preferred":[
+        "Sonnenberg"
+    ],
     "name:ita_x_preferred":[
         "Sonnenberg"
     ],
@@ -81,6 +84,9 @@
     "name:srp_x_preferred":[
         "\u0417\u043e\u043d\u0435\u043d\u0431\u0435\u0440\u0433"
     ],
+    "name:swe_x_preferred":[
+        "Sonnenberg"
+    ],
     "name:ukr_x_preferred":[
         "\u0417\u043e\u043d\u043d\u0435\u043d\u0431\u0435\u0440\u0433"
     ],
@@ -99,10 +105,10 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        404569775,
         85633051,
-        1125913393,
         102062955,
+        404569775,
+        1125913393,
         85682337
     ],
     "wof:breaches":[],
@@ -110,7 +116,7 @@
         "gn:id":11571402
     },
     "wof:country":"CH",
-    "wof:geomhash":"9dec7e90f85dbed81aa9a0218ca6839e",
+    "wof:geomhash":"7a82a7a144a83bff103aba0509662d27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1394408301,
-    "wof:lastmodified":1566640234,
+    "wof:lastmodified":1598917576,
     "wof:name":"Sonnenberg",
     "wof:parent_id":1125913393,
     "wof:placetype":"neighbourhood",
@@ -136,9 +142,9 @@
 },
   "bbox": [
     9.07461,
-    47.59444000000001,
+    47.59444,
     9.07461,
-    47.59444000000001
+    47.59444
 ],
-  "geometry": {"coordinates":[9.07461,47.59444000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.07461,47.59444],"type":"Point"}
 }

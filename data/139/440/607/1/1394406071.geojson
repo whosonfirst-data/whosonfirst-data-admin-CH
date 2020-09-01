@@ -39,10 +39,16 @@
     "name:ceb_x_preferred":[
         "Ponte"
     ],
+    "name:ces_x_preferred":[
+        "Ponte"
+    ],
     "name:deu_x_preferred":[
         "Ponte"
     ],
     "name:epo_x_preferred":[
+        "Ponte"
+    ],
+    "name:eus_x_preferred":[
         "Ponte"
     ],
     "name:fas_x_preferred":[
@@ -78,6 +84,9 @@
     "name:por_x_preferred":[
         "Ponte"
     ],
+    "name:ron_x_preferred":[
+        "Ponte"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u043d\u0442\u0435"
     ],
@@ -96,10 +105,10 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        404573577,
         85633051,
-        1125977989,
         102062975,
+        404573577,
+        1125977989,
         85682269
     ],
     "wof:breaches":[],
@@ -107,7 +116,7 @@
         "gn:id":11113385
     },
     "wof:country":"CH",
-    "wof:geomhash":"c7c255783ce27649deb2dd41966d3865",
+    "wof:geomhash":"f6f2173101630ac000aad6aa7b076911",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":1394406071,
-    "wof:lastmodified":1566640253,
+    "wof:lastmodified":1598917626,
     "wof:name":"Ponte",
     "wof:parent_id":1125977989,
     "wof:placetype":"neighbourhood",
@@ -133,9 +142,9 @@
 },
   "bbox": [
     8.87885,
-    46.14984000000001,
+    46.14984,
     8.87885,
-    46.14984000000001
+    46.14984
 ],
-  "geometry": {"coordinates":[8.87885,46.14984000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.87885,46.14984],"type":"Point"}
 }

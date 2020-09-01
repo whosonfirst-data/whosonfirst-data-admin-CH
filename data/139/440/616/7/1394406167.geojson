@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.49264,46.8269915,6.49264,46.8269915",
+    "geom:bbox":"6.49264,46.826991,6.49264,46.826991",
     "geom:latitude":46.826991,
     "geom:longitude":6.49264,
     "gn:country":null,
@@ -24,6 +24,9 @@
     ],
     "name:deu_x_preferred":[
         "Col des Etroits"
+    ],
+    "name:deu_x_variant":[
+        "Col des \u00c9troits"
     ],
     "name:fra_x_preferred":[
         "Col des \u00c9troits"
@@ -62,10 +65,10 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        404568127,
         85633051,
-        101767397,
         102062813,
+        404568127,
+        101767397,
         85682325
     ],
     "wof:breaches":[],
@@ -75,7 +78,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497292735,
-    "wof:geomhash":"2a7313ad0b58f735abb8c4ad917deb37",
+    "wof:geomhash":"9bac75ba09f77768a9e46be04ed01302",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1394406167,
-    "wof:lastmodified":1566639902,
+    "wof:lastmodified":1598916781,
     "wof:name":"Col des Etroits",
     "wof:parent_id":101767397,
     "wof:placetype":"neighbourhood",
@@ -101,9 +104,9 @@
 },
   "bbox": [
     6.49264,
-    46.8269915,
+    46.826991,
     6.49264,
-    46.8269915
+    46.826991
 ],
-  "geometry": {"coordinates":[6.49264,46.8269915],"type":"Point"}
+  "geometry": {"coordinates":[6.49264,46.826991],"type":"Point"}
 }

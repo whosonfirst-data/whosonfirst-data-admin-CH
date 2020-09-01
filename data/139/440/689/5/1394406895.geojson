@@ -39,6 +39,9 @@
     "name:arg_x_preferred":[
         "La Rochelle"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627 \u0631\u0648\u0634\u064a\u0644"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u0627 \u0631\u0648\u0634\u0644"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09be \u09b0\u09cb\u099a\u09cd\u09af\u09be\u09b2"
+    ],
+    "name:ben_x_variant":[
+        "\u09b2\u09be \u09b0\u09cb\u09b6\u09c7\u09b2"
     ],
     "name:bod_x_preferred":[
         "\u0f63\u0f0b\u0f62\u0f7c\u0f0b\u0f45\u0f7a\u0f0b\u0f63\u0f7a\u0f0d"
@@ -71,6 +77,9 @@
     ],
     "name:ces_x_preferred":[
         "La Rochelle"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0430-\u0420\u043e\u0448\u0435\u043b\u044c"
     ],
     "name:cym_x_preferred":[
         "La Rochelle"
@@ -131,6 +140,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30fb\u30ed\u30b7\u30a7\u30eb"
+    ],
+    "name:kab_x_preferred":[
+        "La Rochelle"
     ],
     "name:kat_x_preferred":[
         "\u10da\u10d0-\u10e0\u10dd\u10e8\u10d4\u10da\u10d8"
@@ -234,6 +246,9 @@
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0631\u0648\u0634\u06cc\u0644"
     ],
+    "name:vec_x_preferred":[
+        "La Rochelle"
+    ],
     "name:vep_x_preferred":[
         "La-Ro\u0161el'"
     ],
@@ -246,16 +261,22 @@
     "name:war_x_preferred":[
         "La Rochelle"
     ],
+    "name:wuu_x_preferred":[
+        "\u62c9\u7f57\u8c22\u5c14"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u7f57\u6b47\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u62c9\u7f57\u8c22\u5c14"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        404568821,
         85633051,
-        101853871,
         102062873,
+        404568821,
+        101853871,
         85682325
     ],
     "wof:breaches":[],
@@ -276,7 +297,7 @@
         }
     ],
     "wof:id":1394406895,
-    "wof:lastmodified":1566639878,
+    "wof:lastmodified":1598916723,
     "wof:name":"La Rochelle",
     "wof:parent_id":101853871,
     "wof:placetype":"neighbourhood",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.1227265,46.4115615,8.1227265,46.4115615",
+    "geom:bbox":"8.122727,46.411561,8.122727,46.411561",
     "geom:latitude":46.411561,
     "geom:longitude":8.122727,
     "gn:country":null,
@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u064a\u063a\u064a\u0634\u0648\u0631\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0628\u0644 \u064a\u062c\u064a\u0634\u0648\u0631\u0646"
+    ],
     "name:ceb_x_preferred":[
         "Eggishorn"
     ],
@@ -29,6 +32,9 @@
         "Eggishorn"
     ],
     "name:epo_x_preferred":[
+        "Eggishorn"
+    ],
+    "name:eus_x_preferred":[
         "Eggishorn"
     ],
     "name:fin_x_preferred":[
@@ -86,10 +92,10 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        404569583,
         85633051,
-        1126000381,
         102063031,
+        404569583,
+        1126000381,
         85682281
     ],
     "wof:breaches":[],
@@ -99,7 +105,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497299132,
-    "wof:geomhash":"369a5d8ba07e242fbea7b6febdaf6dda",
+    "wof:geomhash":"799265eacc7ccb01c9e07901173c7d6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1394394589,
-    "wof:lastmodified":1566640712,
+    "wof:lastmodified":1598918610,
     "wof:name":"Eggishorn",
     "wof:parent_id":1126000381,
     "wof:placetype":"neighbourhood",
@@ -124,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.1227265,
-    46.4115615,
-    8.1227265,
-    46.4115615
+    8.122727,
+    46.411561,
+    8.122727,
+    46.411561
 ],
-  "geometry": {"coordinates":[8.1227265,46.4115615],"type":"Point"}
+  "geometry": {"coordinates":[8.122727,46.411561],"type":"Point"}
 }

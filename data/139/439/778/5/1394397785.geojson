@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"9.641743,46.9802215,9.641743,46.9802215",
+    "geom:bbox":"9.641743,46.980221,9.641743,46.980221",
     "geom:latitude":46.980221,
     "geom:longitude":9.641743,
     "gn:country":null,
@@ -28,6 +28,9 @@
     "name:chv_x_preferred":[
         "\u0428\u043c\u0438\u0442\u0442\u0435\u043d"
     ],
+    "name:cym_x_preferred":[
+        "Schmitten"
+    ],
     "name:deu_x_preferred":[
         "Schmitten"
     ],
@@ -37,6 +40,9 @@
     "name:epo_x_preferred":[
         "Schmitten GR"
     ],
+    "name:epo_x_variant":[
+        "Schmitten"
+    ],
     "name:eus_x_preferred":[
         "Schmitten"
     ],
@@ -45,6 +51,9 @@
     ],
     "name:gsw_x_preferred":[
         "Schmitten GR"
+    ],
+    "name:gsw_x_variant":[
+        "Schmitten"
     ],
     "name:hun_x_preferred":[
         "Schmitten"
@@ -94,6 +103,9 @@
     "name:uzb_x_preferred":[
         "Schmitten"
     ],
+    "name:vec_x_preferred":[
+        "Schmitten"
+    ],
     "name:vol_x_preferred":[
         "Schmitten"
     ],
@@ -125,10 +137,10 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        404568011,
         85633051,
-        1360118407,
         102062803,
+        404568011,
+        1360118407,
         85682255
     ],
     "wof:breaches":[],
@@ -139,7 +151,7 @@
     },
     "wof:country":"CH",
     "wof:created":1497291617,
-    "wof:geomhash":"fd194392e97a8f2024ff6a086c3eb319",
+    "wof:geomhash":"f137ee54d71a0e184f106c8ca42bceaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,7 +164,7 @@
         }
     ],
     "wof:id":1394397785,
-    "wof:lastmodified":1566640603,
+    "wof:lastmodified":1598918337,
     "wof:name":"Schmitten",
     "wof:parent_id":1360118407,
     "wof:placetype":"neighbourhood",
@@ -165,9 +177,9 @@
 },
   "bbox": [
     9.641743,
-    46.9802215,
+    46.980221,
     9.641743,
-    46.9802215
+    46.980221
 ],
-  "geometry": {"coordinates":[9.641743,46.9802215],"type":"Point"}
+  "geometry": {"coordinates":[9.641743,46.980221],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.42162959942,46.9381556589,7.42162959942,46.9381556589",
+    "geom:bbox":"7.42163,46.938156,7.42163,46.938156",
     "geom:latitude":46.938156,
     "geom:longitude":7.42163,
     "iso:country":"CH",
@@ -26,6 +26,9 @@
     "name:als_x_preferred":[
         "Weissenstein"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0628\u0644 \u0648\u064a\u0633\u064a\u0646\u0633\u062a\u064a\u0646"
+    ],
     "name:ceb_x_preferred":[
         "Weissenstein"
     ],
@@ -44,20 +47,23 @@
     "name:nno_x_preferred":[
         "Weissenstein"
     ],
+    "name:zho_x_preferred":[
+        "\u9b4f\u68ee\u65bd\u6cf0\u56e0\u5c71"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        1394254007,
         85633051,
-        101748453,
         102062861,
+        1394254007,
+        101748453,
         85682381
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
     "wof:created":1491364639,
-    "wof:geomhash":"179c3b657cb7f746a728b20fb022f4ad",
+    "wof:geomhash":"bcf5a111e1730b33bd062f8213a2509b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108944827,
-    "wof:lastmodified":1566639670,
+    "wof:lastmodified":1598916297,
     "wof:name":"Weissenstein",
     "wof:parent_id":101748453,
     "wof:placetype":"neighbourhood",
@@ -80,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.42162959941998,
-    46.93815565893997,
-    7.42162959941998,
-    46.93815565893997
+    7.42163,
+    46.938156,
+    7.42163,
+    46.938156
 ],
-  "geometry": {"coordinates":[7.42162959941998,46.93815565893997],"type":"Point"}
+  "geometry": {"coordinates":[7.42163,46.938156],"type":"Point"}
 }

@@ -84,6 +84,9 @@
     "name:uzb_x_preferred":[
         "Himmelberg"
     ],
+    "name:vec_x_preferred":[
+        "Himmelberg"
+    ],
     "name:vol_x_preferred":[
         "Himmelberg"
     ],
@@ -96,10 +99,10 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        404569121,
         85633051,
-        1125918313,
         102062869,
+        404569121,
+        1125918313,
         85682337
     ],
     "wof:breaches":[],
@@ -107,7 +110,7 @@
         "gn:id":11571352
     },
     "wof:country":"CH",
-    "wof:geomhash":"64b67c0ec67788e95193b4ab885e86a5",
+    "wof:geomhash":"9ede2382b1e7f765fce4e62bfed3329c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1394404361,
-    "wof:lastmodified":1566639945,
+    "wof:lastmodified":1598916878,
     "wof:name":"Himmelberg",
     "wof:parent_id":1125918313,
     "wof:placetype":"neighbourhood",
@@ -133,9 +136,9 @@
 },
   "bbox": [
     8.97549,
-    47.60404000000001,
+    47.60404,
     8.97549,
-    47.60404000000001
+    47.60404
 ],
-  "geometry": {"coordinates":[8.97549,47.60404000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.97549,47.60404],"type":"Point"}
 }

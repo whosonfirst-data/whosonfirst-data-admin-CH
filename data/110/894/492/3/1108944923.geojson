@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.13500969676,46.2096504771,6.13500969676,46.2096504771",
+    "geom:bbox":"6.13501,46.20965,6.13501,46.20965",
     "geom:latitude":46.20965,
     "geom:longitude":6.13501,
     "iso:country":"CH",
@@ -100,6 +100,12 @@
     "name:jpn_x_preferred":[
         "\u30d7\u30ec\u30fc\u30ea\u30fc"
     ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccd\u0cb0\u0cc7\u0cb0\u0cbf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0435\u0440\u0438\u044f"
+    ],
     "name:kir_x_preferred":[
         "\u041f\u0440\u0435\u0440\u0438\u044f"
     ],
@@ -169,8 +175,14 @@
     "name:tha_x_preferred":[
         "\u0e41\u0e1e\u0e23\u0e23\u0e35"
     ],
+    "name:tur_x_preferred":[
+        "Prairie"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0440\u0456\u044f"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5927\u8349\u539f"
     ],
     "name:zho_x_preferred":[
         "\u5927\u8349\u539f"
@@ -178,17 +190,17 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        404328283,
         85633051,
-        101748445,
         102062917,
+        404328283,
+        101748445,
         85682291
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"CH",
     "wof:created":1491364699,
-    "wof:geomhash":"51cc50d50981056925b6e4c370e90934",
+    "wof:geomhash":"3cd718cd4c09db335141a627b1af9bb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,7 +213,7 @@
         }
     ],
     "wof:id":1108944923,
-    "wof:lastmodified":1566639691,
+    "wof:lastmodified":1598916348,
     "wof:name":"Prairie",
     "wof:parent_id":101748445,
     "wof:placetype":"neighbourhood",
@@ -211,10 +223,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.13500969676397,
-    46.20965047708741,
-    6.13500969676397,
-    46.20965047708741
+    6.13501,
+    46.20965,
+    6.13501,
+    46.20965
 ],
-  "geometry": {"coordinates":[6.13500969676397,46.20965047708741],"type":"Point"}
+  "geometry": {"coordinates":[6.13501,46.20965],"type":"Point"}
 }

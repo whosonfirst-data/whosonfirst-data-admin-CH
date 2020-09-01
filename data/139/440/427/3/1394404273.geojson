@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0631\u062c\u0648\u0646\u0628\u0631\u0627\u06a4\u0648\u062c\u0646"
+    ],
     "name:aze_x_preferred":[
         "Berg\u00fcn"
     ],
@@ -33,11 +36,20 @@
     "name:chv_x_preferred":[
         "\u0411\u0435\u0440\u0433\u044e\u043d"
     ],
+    "name:dan_x_preferred":[
+        "Berg\u00fcn/Bravuogn"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Berg\u00fcn/Bravuogn"
+    ],
     "name:deu_x_preferred":[
         "Berg\u00fcn"
     ],
     "name:deu_x_variant":[
         "Berg\u00fcn/Bravuogn"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Berg\u00fcn"
     ],
     "name:eng_x_preferred":[
         "Berg\u00fcn"
@@ -62,6 +74,9 @@
     ],
     "name:ita_x_preferred":[
         "Berg\u00fcn"
+    ],
+    "name:ita_x_variant":[
+        "Berg\u00fcn/Bravuogn"
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30eb\u30ae\u30e5\u30fc\u30f3"
@@ -93,6 +108,9 @@
     "name:pms_x_preferred":[
         "Berg\u00fcn/Bravuogn"
     ],
+    "name:por_br_x_preferred":[
+        "Berg\u00fcn/Bravuogn"
+    ],
     "name:por_x_preferred":[
         "Berg\u00fcn/Bravuogn"
     ],
@@ -116,6 +134,9 @@
     ],
     "name:uzb_x_preferred":[
         "Berg\u00fcn/Bravuogn"
+    ],
+    "name:vec_x_preferred":[
+        "Berg\u00fcn"
     ],
     "name:vol_x_preferred":[
         "Berg\u00fcn"
@@ -155,10 +176,10 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1394254025,
         85633051,
-        1394288499,
         102062885,
+        1394254025,
+        1394288499,
         85682255
     ],
     "wof:breaches":[],
@@ -183,7 +204,7 @@
         }
     ],
     "wof:id":1394404273,
-    "wof:lastmodified":1566640176,
+    "wof:lastmodified":1598917438,
     "wof:name":"Berg\u00fcn",
     "wof:parent_id":1394288499,
     "wof:placetype":"neighbourhood",

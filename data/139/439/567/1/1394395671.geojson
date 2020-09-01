@@ -51,6 +51,9 @@
     "name:arg_x_preferred":[
         "Auto"
     ],
+    "name:ary_x_preferred":[
+        "\u0637\u0648\u0645\u0648\u0628\u064a\u0644"
+    ],
     "name:arz_x_preferred":[
         "\u0639\u0631\u0628\u064a\u0647"
     ],
@@ -108,6 +111,9 @@
     "name:chu_x_preferred":[
         "\u0410\u0475\u0442\u043e\u043a\u0457\u043d\u0438\u0442\u043e"
     ],
+    "name:chv_x_preferred":[
+        "\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c"
+    ],
     "name:chy_x_preferred":[
         "Am\u00e2ho'hest\u00f4tse"
     ],
@@ -135,6 +141,9 @@
     "name:diq_x_preferred":[
         "Erebe"
     ],
+    "name:diq_x_variant":[
+        "Ereba"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03c5\u03c4\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03bf"
     ],
@@ -146,6 +155,9 @@
     ],
     "name:eus_x_preferred":[
         "Automobil"
+    ],
+    "name:ext_x_preferred":[
+        "Autom\u00f3vil"
     ],
     "name:fao_x_preferred":[
         "Bilar"
@@ -167,6 +179,9 @@
     ],
     "name:fry_x_preferred":[
         "Auto"
+    ],
+    "name:gcr_x_preferred":[
+        "Lotomobil"
     ],
     "name:gle_x_preferred":[
         "Gluaiste\u00e1n"
@@ -291,6 +306,9 @@
     "name:lmo_x_preferred":[
         "Vet\u00fcra"
     ],
+    "name:lmo_x_variant":[
+        "Vetura"
+    ],
     "name:ltz_x_preferred":[
         "Auto"
     ],
@@ -396,6 +414,9 @@
     "name:sah_x_preferred":[
         "\u041c\u0430\u0441\u0441\u044b\u044b\u043d\u0430"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5c\u1c5f\u1c79\u1c70\u1c64"
+    ],
     "name:sco_x_preferred":[
         "Automobile"
     ],
@@ -477,11 +498,17 @@
     "name:vec_x_preferred":[
         "Machina automobile"
     ],
+    "name:vec_x_variant":[
+        "Autom\u00f2bi\u0142e"
+    ],
     "name:vep_x_preferred":[
         "Avto"
     ],
     "name:vie_x_preferred":[
         "\u00d4 t\u00f4"
+    ],
+    "name:vol_x_preferred":[
+        "Tood"
     ],
     "name:war_x_preferred":[
         "Awto"
@@ -498,10 +525,10 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1394254171,
         85633051,
-        1394288029,
         102062767,
+        1394254171,
+        1394288029,
         85682269
     ],
     "wof:breaches":[],
@@ -522,7 +549,7 @@
         }
     ],
     "wof:id":1394395671,
-    "wof:lastmodified":1566640478,
+    "wof:lastmodified":1598918050,
     "wof:name":"Car",
     "wof:parent_id":1394288029,
     "wof:placetype":"neighbourhood",

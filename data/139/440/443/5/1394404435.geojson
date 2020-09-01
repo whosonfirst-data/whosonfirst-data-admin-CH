@@ -36,6 +36,9 @@
     "name:arc_x_preferred":[
         "\u071f\u0722\u072a\u0710"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0645\u0633\u0645\u064a\u0647"
+    ],
     "name:aze_x_preferred":[
         "Lira"
     ],
@@ -159,6 +162,9 @@
     "name:tgk_x_preferred":[
         "\u041b\u0438\u0440\u0438\u043a\u0430"
     ],
+    "name:tgk_x_variant":[
+        "\u0427\u0430\u043d\u0433\u0438 \u0440\u0443\u043c\u04e3"
+    ],
     "name:tur_x_preferred":[
         "Lir"
     ],
@@ -171,16 +177,19 @@
     "name:vie_x_preferred":[
         "\u0110\u00e0n Lia"
     ],
+    "name:vie_x_variant":[
+        "\u0110\u00e0n lia"
+    ],
     "name:zho_x_preferred":[
         "\u91cc\u62c9\u7434"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        404573389,
         85633051,
-        101875853,
         102062837,
+        404573389,
+        101875853,
         85682381
     ],
     "wof:breaches":[],
@@ -201,7 +210,7 @@
         }
     ],
     "wof:id":1394404435,
-    "wof:lastmodified":1566640146,
+    "wof:lastmodified":1598917376,
     "wof:name":"Lyre",
     "wof:parent_id":101875853,
     "wof:placetype":"neighbourhood",
