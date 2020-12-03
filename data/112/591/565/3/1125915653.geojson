@@ -13,8 +13,8 @@
     "gn:fcode":"ADM3",
     "gn:population":265,
     "iso:country":"CH",
-    "lbl:latitude":46.87601,
-    "lbl:longitude":6.74683,
+    "lbl:latitude":46.876852,
+    "lbl:longitude":6.755608,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":46.870164,
@@ -111,13 +111,13 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":785735,
-    "reversegeo:latitude":46.870164,
-    "reversegeo:longitude":6.771995,
+    "reversegeo:latitude":46.876852,
+    "reversegeo:longitude":6.755608,
     "src:geom":"ch-cadastre",
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "woe:adm0_id":23424957,
     "woe:name_adm0":"Schweiz",
@@ -126,7 +126,7 @@
     "wof:belongsto":[
         102191581,
         85633051,
-        404567833,
+        1394254061,
         85682359
     ],
     "wof:breaches":[],
@@ -146,15 +146,15 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "localadmin_id":404567833,
+            "localadmin_id":1394254061,
             "locality_id":1125915653,
             "region_id":85682359
         }
     ],
     "wof:id":1125915653,
-    "wof:lastmodified":1598921358,
+    "wof:lastmodified":1606866758,
     "wof:name":"Vaumarcus",
-    "wof:parent_id":404567833,
+    "wof:parent_id":1394254061,
     "wof:placetype":"locality",
     "wof:population":276,
     "wof:population_rank":2,
