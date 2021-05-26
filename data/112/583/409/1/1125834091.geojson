@@ -150,8 +150,8 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":782141,
-    "reversegeo:latitude":46.315953,
-    "reversegeo:longitude":6.200613,
+    "reversegeo:latitude":46.31682,
+    "reversegeo:longitude":6.19114,
     "src:geom":"ch-cadastre",
     "src:geom_alt":[
         "qs_pg"
@@ -163,11 +163,10 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
-        404567693,
         85633051,
-        102063021
+        102063021,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -190,15 +189,14 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063021,
-            "localadmin_id":404567693,
             "locality_id":1125834091,
             "region_id":85682325
         }
     ],
     "wof:id":1125834091,
-    "wof:lastmodified":1617129985,
+    "wof:lastmodified":1621988743,
     "wof:name":"Coppet",
-    "wof:parent_id":404567693,
+    "wof:parent_id":102063021,
     "wof:placetype":"locality",
     "wof:population":2124,
     "wof:population_rank":4,
