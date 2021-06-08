@@ -111,8 +111,8 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":784805,
-    "reversegeo:latitude":46.494107,
-    "reversegeo:longitude":6.529111,
+    "reversegeo:latitude":46.51854,
+    "reversegeo:longitude":6.52682,
     "src:geom":"ch-cadastre",
     "src:geom_alt":[
         "qs_pg"
@@ -124,11 +124,11 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
-        404567693,
         85633051,
-        102063021
+        102063021,
+        404573173,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,15 +151,15 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063021,
-            "localadmin_id":404567693,
+            "localadmin_id":404573173,
             "locality_id":1125883875,
             "region_id":85682325
         }
     ],
     "wof:id":1125883875,
-    "wof:lastmodified":1617131278,
+    "wof:lastmodified":1622665090,
     "wof:name":"Pr\u00e9verenges",
-    "wof:parent_id":404567693,
+    "wof:parent_id":404573173,
     "wof:placetype":"locality",
     "wof:population":4695,
     "wof:population_rank":4,

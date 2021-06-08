@@ -126,8 +126,8 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424957,
     "qs_pg:woe_id":783702,
-    "reversegeo:latitude":46.44273,
-    "reversegeo:longitude":6.370555,
+    "reversegeo:latitude":46.46821,
+    "reversegeo:longitude":6.36622,
     "src:geom":"ch-cadastre",
     "src:geom_alt":[
         "qs_pg"
@@ -139,11 +139,11 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682325,
         102191581,
-        404567693,
         85633051,
-        102063021
+        102063021,
+        404572163,
+        85682325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,15 +166,15 @@
             "continent_id":102191581,
             "country_id":85633051,
             "county_id":102063021,
-            "localadmin_id":404567693,
+            "localadmin_id":404572163,
             "locality_id":1125944999,
             "region_id":85682325
         }
     ],
     "wof:id":1125944999,
-    "wof:lastmodified":1617131310,
+    "wof:lastmodified":1622665091,
     "wof:name":"Perroy",
-    "wof:parent_id":404567693,
+    "wof:parent_id":404572163,
     "wof:placetype":"locality",
     "wof:population":1315,
     "wof:population_rank":3,
