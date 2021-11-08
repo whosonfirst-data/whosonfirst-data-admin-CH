@@ -149,6 +149,9 @@
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05e6\u05e8\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u0932\u0942\u091c\u093c\u0930\u094d\u0928"
+    ],
     "name:hrv_x_preferred":[
         "Luzern"
     ],
@@ -318,6 +321,9 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0446\u0435\u0440\u043d"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0632\u06cc\u0645"
+    ],
     "name:uzb_x_preferred":[
         "Luzern"
     ],
@@ -471,11 +477,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682319,
         102191581,
-        85633051,
-        1394137117,
         404328203,
-        85682319
+        85633051,
+        1394137117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -512,7 +518,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1598918966,
+    "wof:lastmodified":1636413516,
     "wof:name":"Luzern",
     "wof:parent_id":404328203,
     "wof:placetype":"locality",

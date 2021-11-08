@@ -20,19 +20,25 @@
     "mz:is_current":1,
     "mz:is_landuse_aoi":1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u09a6\u09c7\u09a8\u09cd\u09b8\u09bf"
+    ],
     "name:eng_x_preferred":[
         "Bodensee"
     ],
     "name:eng_x_variant":[
         "Bodensee (SG)"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u0921\u0947\u0928\u0938\u0940"
+    ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063057,
-        85682341
+        85682341,
+        102063057
     ],
     "wof:breaches":[],
     "wof:country":"CH",
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1394254039,
-    "wof:lastmodified":1606859077,
+    "wof:lastmodified":1636413512,
     "wof:name":"Bodensee",
     "wof:parent_id":102063057,
     "wof:placetype":"localadmin",
