@@ -36,6 +36,9 @@
     "name:bel_x_variant":[
         "\u0426\u0443\u0433"
     ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c1\u0997"
+    ],
     "name:bre_x_preferred":[
         "Zug"
     ],
@@ -113,6 +116,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e6\u05d5\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u0917"
     ],
     "name:hrv_x_preferred":[
         "Zug"
@@ -373,11 +379,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682263,
         102191581,
-        85633051,
-        102063067,
         404328199,
-        85682263
+        85633051,
+        102063067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -407,7 +413,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1598918953,
+    "wof:lastmodified":1636413516,
     "wof:name":"Zug",
     "wof:parent_id":404328199,
     "wof:placetype":"locality",
