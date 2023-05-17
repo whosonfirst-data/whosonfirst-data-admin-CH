@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2860",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00fcnenberg",
+    "eurostat:nuts_2021_id":"CH2860",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2860",
+    "eurostat:population":758,
+    "eurostat:population_year":2020,
     "geom:area":0.000593,
-    "geom:area_square_m":4958825.690898,
+    "geom:area_square_m":4958825.690899,
     "geom:bbox":"7.859182,47.413356,7.901505,47.447451",
     "geom:latitude":47.431956,
     "geom:longitude":7.880424,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062819,
-        85682361
+        85682361,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2860",
+        "eurostat:nuts_2021_id":"CH2860",
         "gn:id":7286986,
         "gp:id":12684316,
         "qs_pg:id":992513
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"cfdb96763f1f44d931aace0afceac1d3",
+    "wof:geomhash":"331d7cb4d8acbaac5144b1762fb40e54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571261,
-    "wof:lastmodified":1598920067,
+    "wof:lastmodified":1684351756,
     "wof:name":"R\u00fcnenberg",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",
+    "wof:population":758,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

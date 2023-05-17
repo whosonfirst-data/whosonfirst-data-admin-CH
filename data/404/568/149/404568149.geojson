@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brig-Glis",
+    "eurostat:nuts_2021_id":"CH6002",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6002",
+    "eurostat:population":13058,
+    "eurostat:population_year":2020,
     "geom:area":0.004396,
-    "geom:area_square_m":37566627.924033,
+    "geom:area_square_m":37566627.924031,
     "geom:bbox":"7.910182,46.254669,8.031173,46.32295",
     "geom:latitude":46.288357,
     "geom:longitude":7.978946,
@@ -169,14 +181,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063023,
-        85682281
+        85682281,
+        102063023
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6002",
+        "eurostat:nuts_2021_id":"CH6002",
         "gn:id":7285336,
         "gp:id":12683049,
         "qs_pg:id":898652
@@ -186,7 +202,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6a846ef8bf7939ffcea34e6c5093f3e3",
+    "wof:geomhash":"2d84c94ae8c63b6e1fc1dda2e18cb0c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404568149,
-    "wof:lastmodified":1598919758,
+    "wof:lastmodified":1684351713,
     "wof:name":"Brig-Glis",
     "wof:parent_id":102063023,
     "wof:placetype":"localadmin",
+    "wof:population":13058,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

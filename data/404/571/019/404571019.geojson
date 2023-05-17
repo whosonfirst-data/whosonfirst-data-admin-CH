@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6787",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Damphreux",
+    "eurostat:nuts_2021_id":"CH6787",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6787",
+    "eurostat:population":176,
+    "eurostat:population_year":2020,
     "geom:area":0.000676,
-    "geom:area_square_m":5651016.484545,
+    "geom:area_square_m":5651016.484546,
     "geom:bbox":"7.06640639179,47.4638784647,7.1292927245,47.4855218911",
     "geom:latitude":47.473391,
     "geom:longitude":7.101287,
@@ -94,6 +106,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -102,6 +116,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6787",
+        "eurostat:nuts_2021_id":"CH6787",
         "gn:id":7285621,
         "qs_pg:id":671282
     },
@@ -113,7 +129,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9b3392f8f4e1857ea7f757e2174e0b11",
+    "wof:geomhash":"b3ddec02aae7d09d7458e02ac03100b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":404571019,
-    "wof:lastmodified":1582223061,
+    "wof:lastmodified":1684351753,
     "wof:name":"Damphreux",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
+    "wof:population":176,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

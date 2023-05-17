@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5589",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prilly",
+    "eurostat:nuts_2021_id":"CH5589",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5589",
+    "eurostat:population":12399,
+    "eurostat:population_year":2020,
     "geom:area":0.000258,
     "geom:area_square_m":2196364.489408,
     "geom:bbox":"6.595512,46.52453,6.612865,46.551888",
@@ -130,6 +142,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -138,6 +152,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5589",
+        "eurostat:nuts_2021_id":"CH5589",
         "gn:id":7286839,
         "qs_pg:id":1040557
     },
@@ -149,7 +165,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5dfbed552378aa324c59d30db97666f1",
+    "wof:geomhash":"0559fbf5622a0352afa21b56a7862327",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +176,12 @@
         }
     ],
     "wof:id":404573055,
-    "wof:lastmodified":1617131292,
+    "wof:lastmodified":1684351770,
     "wof:name":"Prilly",
     "wof:parent_id":102062829,
     "wof:placetype":"localadmin",
+    "wof:population":12399,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

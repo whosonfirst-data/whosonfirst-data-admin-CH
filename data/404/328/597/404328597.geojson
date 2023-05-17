@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Udligenswil",
+    "eurostat:nuts_2021_id":"CH1067",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1067",
+    "eurostat:population":2280,
+    "eurostat:population_year":2020,
     "geom:area":0.000737,
     "geom:area_square_m":6208057.966328,
     "geom:bbox":"8.377386,47.070678,8.420572,47.111183",
@@ -114,14 +126,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137079,
-        85682319
+        85682319,
+        1394137079
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1067",
+        "eurostat:nuts_2021_id":"CH1067",
         "gn:id":7287357,
         "gp:id":12684530,
         "qs_pg:id":1145860
@@ -134,7 +150,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a52a2be677bd020b524c36f2b50cf76",
+    "wof:geomhash":"0a09a4d43bd0d95919def119e737548b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404328597,
-    "wof:lastmodified":1598920402,
+    "wof:lastmodified":1684351698,
     "wof:name":"Udligenswil",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",
+    "wof:population":2280,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0783",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hasliberg",
+    "eurostat:nuts_2021_id":"CH0783",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0783",
+    "eurostat:population":1164,
+    "eurostat:population_year":2020,
     "geom:area":0.004913,
-    "geom:area_square_m":41626580.324758,
+    "geom:area_square_m":41626580.324757,
     "geom:bbox":"8.142981,46.713975,8.325043,46.770316",
     "geom:latitude":46.746496,
     "geom:longitude":8.228352,
@@ -127,14 +139,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062759,
-        85682381
+        85682381,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0783",
+        "eurostat:nuts_2021_id":"CH0783",
         "gn:id":7286034,
         "gp:id":12682851,
         "qs_pg:id":466645
@@ -144,7 +160,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d80b4ea3964563c0023e03b13e013e10",
+    "wof:geomhash":"6b877432456dd9ce6dc007417cf4ebbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404568101,
-    "wof:lastmodified":1598919647,
+    "wof:lastmodified":1684351711,
     "wof:name":"Hasliberg",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":1164,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

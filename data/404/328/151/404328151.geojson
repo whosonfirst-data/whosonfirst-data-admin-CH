@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sachseln",
+    "eurostat:nuts_2021_id":"CH1406",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH064",
+    "eurostat:nuts_2021_level_lau":"CH1406",
+    "eurostat:population":5146,
+    "eurostat:population_year":2020,
     "geom:area":0.006777,
-    "geom:area_square_m":57322315.982224,
+    "geom:area_square_m":57322315.982221,
     "geom:bbox":"8.186441,46.781047,8.297087,46.889481",
     "geom:latitude":46.83583,
     "geom:longitude":8.244507,
@@ -113,14 +125,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062787,
-        85682371
+        85682371,
+        102062787
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1406",
+        "eurostat:nuts_2021_id":"CH1406",
         "gn:id":7287010,
         "gp:id":12682715,
         "qs_pg:id":466149
@@ -133,7 +149,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"73b9997e1f01899c84e606dc8fc317d7",
+    "wof:geomhash":"cdf0839822c062dd72e3bf00d66d0021",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404328151,
-    "wof:lastmodified":1598920280,
+    "wof:lastmodified":1684351690,
     "wof:name":"Sachseln",
     "wof:parent_id":102062787,
     "wof:placetype":"localadmin",
+    "wof:population":5146,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

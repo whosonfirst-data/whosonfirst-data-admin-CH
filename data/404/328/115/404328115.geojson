@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fl\u00fchli",
+    "eurostat:nuts_2021_id":"CH1004",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1004",
+    "eurostat:population":1961,
+    "eurostat:population_year":2020,
     "geom:area":0.012758,
-    "geom:area_square_m":107888894.961761,
+    "geom:area_square_m":107888894.961762,
     "geom:bbox":"7.947857,46.774989,8.071592,46.919322",
     "geom:latitude":46.848741,
     "geom:longitude":8.010147,
@@ -117,6 +129,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1004",
+        "eurostat:nuts_2021_id":"CH1004",
         "gn:id":7285842,
         "gp:id":12683478,
         "qs_pg:id":538635
@@ -134,7 +150,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4eb71565768a1f6c82b258ca0b504e37",
+    "wof:geomhash":"a5894b3b2582eed7975c5604fb519622",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404328115,
-    "wof:lastmodified":1617130367,
+    "wof:lastmodified":1684351689,
     "wof:name":"Fl\u00fchli",
     "wof:parent_id":1394137073,
     "wof:placetype":"localadmin",
+    "wof:population":1961,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5236",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Collina d'Oro",
+    "eurostat:nuts_2021_id":"CH5236",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5236",
+    "eurostat:population":4895,
+    "eurostat:population_year":2020,
     "geom:area":0.000864,
-    "geom:area_square_m":7426139.628646,
+    "geom:area_square_m":7426139.628644,
     "geom:bbox":"8.89150507875,45.9583413812,8.93874299925,45.9959255538",
     "geom:latitude":45.978206,
     "geom:longitude":8.914025,
@@ -90,6 +102,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -97,8 +111,12 @@
         102062767
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5236",
+        "eurostat:nuts_2021_id":"CH5236"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"406c3d6b06abc53c7058b322ade5fe86",
+    "wof:geomhash":"c8c4290229269f891da9adc8e3a8423b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +127,12 @@
         }
     ],
     "wof:id":1394254043,
-    "wof:lastmodified":1566640375,
+    "wof:lastmodified":1684351779,
     "wof:name":"Collina d'Oro",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":4895,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

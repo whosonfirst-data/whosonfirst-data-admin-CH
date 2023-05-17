@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0493",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Finsterhennen",
+    "eurostat:nuts_2021_id":"CH0493",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0493",
+    "eurostat:population":571,
+    "eurostat:population_year":2020,
     "geom:area":0.000422,
-    "geom:area_square_m":3559267.176842,
+    "geom:area_square_m":3559267.176843,
     "geom:bbox":"7.157997,47.007045,7.195799,47.036701",
     "geom:latitude":47.020626,
     "geom:longitude":7.179166,
@@ -117,14 +129,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0493",
+        "eurostat:nuts_2021_id":"CH0493"
+    },
     "wof:coterminous":[
         1125963137
     ],
@@ -132,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"91ada944112f279804e37df1f1e22e47",
+    "wof:geomhash":"258ee491fcea809897e3e2fbfe5d639a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +160,12 @@
         }
     ],
     "wof:id":404571889,
-    "wof:lastmodified":1598920039,
+    "wof:lastmodified":1684351764,
     "wof:name":"Finsterhennen",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":571,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

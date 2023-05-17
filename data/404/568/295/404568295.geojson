@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ergisch",
+    "eurostat:nuts_2021_id":"CH6104",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6104",
+    "eurostat:population":184,
+    "eurostat:population_year":2020,
     "geom:area":0.003445,
-    "geom:area_square_m":29455539.951659,
+    "geom:area_square_m":29455539.951658,
     "geom:bbox":"7.698456,46.204372,7.762483,46.301199",
     "geom:latitude":46.250539,
     "geom:longitude":7.728013,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062761,
-        85682281
+        85682281,
+        102062761
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6104",
+        "eurostat:nuts_2021_id":"CH6104",
         "gn:id":7285745,
         "gp:id":12685247,
         "qs_pg:id":671296
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4b918e4389b4202626efe0d2610c917b",
+    "wof:geomhash":"652a7ccf048ba74e5cacf7e31d998a52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568295,
-    "wof:lastmodified":1598919540,
+    "wof:lastmodified":1684351716,
     "wof:name":"Ergisch",
     "wof:parent_id":102062761,
     "wof:placetype":"localadmin",
+    "wof:population":184,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

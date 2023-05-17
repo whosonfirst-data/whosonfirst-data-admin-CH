@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wangen-Br\u00fcttisellen",
+    "eurostat:nuts_2021_id":"CH0200",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0200",
+    "eurostat:population":7906,
+    "eurostat:population_year":2020,
     "geom:area":0.000944,
-    "geom:area_square_m":7896837.502375,
+    "geom:area_square_m":7896837.502376,
     "geom:bbox":"8.622052,47.395553,8.670937,47.430769",
     "geom:latitude":47.41323,
     "geom:longitude":8.645953,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062933,
-        85682309
+        85682309,
+        102062933
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0200",
+        "eurostat:nuts_2021_id":"CH0200",
         "gn:id":7287541,
         "gp:id":12682897,
         "qs_pg:id":43285
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6e713c4df1b3781ff43fe8a156e58ef2",
+    "wof:geomhash":"8fed3ca96e0973e62a0a0e850353715e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404570291,
-    "wof:lastmodified":1598920694,
+    "wof:lastmodified":1684351745,
     "wof:name":"Wangen-Br\u00fcttisellen",
     "wof:parent_id":102062933,
     "wof:placetype":"localadmin",
+    "wof:population":7906,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

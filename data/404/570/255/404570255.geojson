@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3955",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Landquart",
+    "eurostat:nuts_2021_id":"CH3955",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3955",
+    "eurostat:population":8889,
+    "eurostat:population_year":2020,
     "geom:area":0.002229,
-    "geom:area_square_m":18808622.980049,
+    "geom:area_square_m":18808622.98005,
     "geom:bbox":"9.49834711977,46.9362453524,9.61162472838,46.9765680611",
     "geom:latitude":46.957978,
     "geom:longitude":9.558994,
@@ -72,6 +84,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -79,12 +93,15 @@
         102062881
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3955",
+        "eurostat:nuts_2021_id":"CH3955"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ee3ff84ed4d2b963bc41ef3bf420e525",
+    "wof:geomhash":"ebe11713cb6f506e8541129db05b6186",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +112,12 @@
         }
     ],
     "wof:id":404570255,
-    "wof:lastmodified":1582223111,
+    "wof:lastmodified":1684351744,
     "wof:name":"Landquart",
     "wof:parent_id":102062881,
     "wof:placetype":"localadmin",
+    "wof:population":8889,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

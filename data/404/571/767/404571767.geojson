@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5495",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Penthalaz",
+    "eurostat:nuts_2021_id":"CH5495",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5495",
+    "eurostat:population":3283,
+    "eurostat:population_year":2020,
     "geom:area":0.000454,
-    "geom:area_square_m":3859778.075445,
+    "geom:area_square_m":3859778.075446,
     "geom:bbox":"6.515518,46.598676,6.547469,46.62524",
     "geom:latitude":46.612764,
     "geom:longitude":6.529104,
@@ -88,14 +100,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062949,
-        85682325
+        85682325,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5495",
+        "eurostat:nuts_2021_id":"CH5495",
         "gn:id":7286778,
         "gp:id":12684189,
         "qs_pg:id":493271
@@ -108,7 +124,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"79afe199105672fcf89daf322d61592b",
+    "wof:geomhash":"7112c29e1b3f186bd163c9ac75f6ca06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404571767,
-    "wof:lastmodified":1598920135,
+    "wof:lastmodified":1684351763,
     "wof:name":"Penthalaz",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":3283,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

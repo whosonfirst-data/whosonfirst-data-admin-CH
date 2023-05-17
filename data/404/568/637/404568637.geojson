@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0591",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saxeten",
+    "eurostat:nuts_2021_id":"CH0591",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0591",
+    "eurostat:population":99,
+    "eurostat:population_year":2020,
     "geom:area":0.002277,
-    "geom:area_square_m":19332613.989237,
+    "geom:area_square_m":19332613.989238,
     "geom:bbox":"7.793568,46.596617,7.858814,46.653352",
     "geom:latitude":46.625324,
     "geom:longitude":7.827891,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062759,
-        85682381
+        85682381,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0591",
+        "eurostat:nuts_2021_id":"CH0591",
         "gn:id":7287068,
         "gp:id":12684356,
         "qs_pg:id":43851
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0008022fd8e9d32cc6d82d5bd56fa3bc",
+    "wof:geomhash":"1d229a75cb535070a63c1c438cdbd311",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404568637,
-    "wof:lastmodified":1598919701,
+    "wof:lastmodified":1684351722,
     "wof:name":"Saxeten",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":99,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

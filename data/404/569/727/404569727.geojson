@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buch am Irchel",
+    "eurostat:nuts_2021_id":"CH0024",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0024",
+    "eurostat:population":977,
+    "eurostat:population_year":2020,
     "geom:area":0.00122,
     "geom:area_square_m":10180556.069837,
     "geom:bbox":"8.5969156522,47.5270409454,8.65306764622,47.5668041697",
@@ -106,6 +118,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -114,6 +128,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0024",
+        "eurostat:nuts_2021_id":"CH0024",
         "gn:id":7285364,
         "gp:id":12683070,
         "qs_pg:id":671211
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"58daf2894cb9fb5554bc0f8b10c6124d",
+    "wof:geomhash":"820bb28f01a5fcf522afe4bd6fedecbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404569727,
-    "wof:lastmodified":1582222970,
+    "wof:lastmodified":1684351737,
     "wof:name":"Buch am Irchel",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",
+    "wof:population":977,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

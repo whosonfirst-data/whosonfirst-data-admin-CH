@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2067",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Le Ch\u00e2telard",
+    "eurostat:nuts_2021_id":"CH2067",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2067",
+    "eurostat:population":372,
+    "eurostat:population_year":2020,
     "geom:area":0.00088,
-    "geom:area_square_m":7466017.189879,
+    "geom:area_square_m":7466017.189878,
     "geom:bbox":"6.96795328697,46.6581993133,7.02171830565,46.6903272837",
     "geom:latitude":46.675547,
     "geom:longitude":6.994903,
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2067",
+        "eurostat:nuts_2021_id":"CH2067",
         "gn:id":7286296,
         "gp:id":12684840,
         "qs_pg:id":380105
@@ -60,7 +76,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7aa4506e9a7a0c80f61aa4c899223dad",
+    "wof:geomhash":"e622bfa91bd155c082aa5a340846fc08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +87,12 @@
         }
     ],
     "wof:id":404570445,
-    "wof:lastmodified":1582223108,
+    "wof:lastmodified":1684351746,
     "wof:name":"Le Ch\u00e2telard",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",
+    "wof:population":372,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

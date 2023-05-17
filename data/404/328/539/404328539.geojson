@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hildisrieden",
+    "eurostat:nuts_2021_id":"CH1088",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1088",
+    "eurostat:population":2334,
+    "eurostat:population_year":2020,
     "geom:area":0.000835,
-    "geom:area_square_m":7023321.956705,
+    "geom:area_square_m":7023321.956703,
     "geom:bbox":"8.202168,47.132043,8.252979,47.160657",
     "geom:latitude":47.147401,
     "geom:longitude":8.231844,
@@ -116,14 +128,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137077,
-        85682319
+        85682319,
+        1394137077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH1088",
+        "eurostat:nuts_2021_id":"CH1088"
+    },
     "wof:coterminous":[
         1125859717
     ],
@@ -131,7 +148,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ecdfea5b04a8565bf8f0b2507c0928e4",
+    "wof:geomhash":"3656dfb263925ef188a0dc8a1525c300",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +159,12 @@
         }
     ],
     "wof:id":404328539,
-    "wof:lastmodified":1598920392,
+    "wof:lastmodified":1684351697,
     "wof:name":"Hildisrieden",
     "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",
+    "wof:population":2334,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

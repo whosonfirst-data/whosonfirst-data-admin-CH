@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5539",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vuarrens",
+    "eurostat:nuts_2021_id":"CH5539",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5539",
+    "eurostat:population":1004,
+    "eurostat:population_year":2020,
     "geom:area":0.001055,
-    "geom:area_square_m":8945581.398233,
+    "geom:area_square_m":8945581.398235,
     "geom:bbox":"6.624518,46.667893,6.669096,46.70481",
     "geom:latitude":46.685823,
     "geom:longitude":6.645891,
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062949,
-        85682325
+        85682325,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5539",
+        "eurostat:nuts_2021_id":"CH5539",
         "gn:id":7287500,
         "gp:id":12684788,
         "qs_pg:id":671663
@@ -114,7 +130,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c96b6c38c42e5aa4b9adad0f37e76834",
+    "wof:geomhash":"1572327faa57e378b8286cc899d45b7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404570017,
-    "wof:lastmodified":1598920676,
+    "wof:lastmodified":1684351741,
     "wof:name":"Vuarrens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":1004,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

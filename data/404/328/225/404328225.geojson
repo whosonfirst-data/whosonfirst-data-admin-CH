@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neuenkirch",
+    "eurostat:nuts_2021_id":"CH1093",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1093",
+    "eurostat:population":7065,
+    "eurostat:population_year":2020,
     "geom:area":0.003113,
     "geom:area_square_m":26197007.645746,
     "geom:bbox":"8.156441,47.068679,8.239188,47.144627",
@@ -119,19 +131,24 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137077,
-        85682319
+        85682319,
+        1394137077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH1093",
+        "eurostat:nuts_2021_id":"CH1093"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aa1bd568b1b1edea35777a00cd539418",
+    "wof:geomhash":"05e7d767816bf2d0a66b7f353e9c2419",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +159,12 @@
         }
     ],
     "wof:id":404328225,
-    "wof:lastmodified":1598920442,
+    "wof:lastmodified":1684351692,
     "wof:name":"Neuenkirch",
     "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",
+    "wof:population":7065,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

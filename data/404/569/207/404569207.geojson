@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6712",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Develier",
+    "eurostat:nuts_2021_id":"CH6712",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6712",
+    "eurostat:population":1354,
+    "eurostat:population_year":2020,
     "geom:area":0.001485,
     "geom:area_square_m":12435496.538025,
     "geom:bbox":"7.245847,47.346244,7.314237,47.38023",
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062791,
-        85682347
+        85682347,
+        102062791
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6712",
+        "eurostat:nuts_2021_id":"CH6712",
         "gp:id":12684901,
         "qs_pg:id":939416
     },
@@ -116,7 +132,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8fe87fc88c59dfbc2d3e9ac76ce4cbd1",
+    "wof:geomhash":"c577ec08ffbad2784f9ea28de154450a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404569207,
-    "wof:lastmodified":1598919324,
+    "wof:lastmodified":1684351732,
     "wof:name":"Develier",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
+    "wof:population":1354,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

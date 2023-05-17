@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5727",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saint-Cergue",
+    "eurostat:nuts_2021_id":"CH5727",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5727",
+    "eurostat:population":2575,
+    "eurostat:population_year":2020,
     "geom:area":0.002842,
-    "geom:area_square_m":24214093.963461,
+    "geom:area_square_m":24214093.964154,
     "geom:bbox":"6.072802,46.421909,6.182147,46.481292",
     "geom:latitude":46.451482,
     "geom:longitude":6.127294,
@@ -103,6 +115,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -111,6 +125,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5727",
+        "eurostat:nuts_2021_id":"CH5727",
         "gn:id":7287024,
         "qs_pg:id":1154306
     },
@@ -119,7 +135,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8dbe7c51d6b0842e260c98bd79bbb2fe",
+    "wof:geomhash":"c5b073ec343904a1f13d2d3a0e3a26df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404568419,
-    "wof:lastmodified":1617131405,
+    "wof:lastmodified":1684351718,
     "wof:name":"Saint-Cergue",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":2575,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

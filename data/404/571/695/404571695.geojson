@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nuvilly",
+    "eurostat:nuts_2021_id":"CH2035",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2035",
+    "eurostat:population":426,
+    "eurostat:population_year":2020,
     "geom:area":0.000469,
     "geom:area_square_m":3972234.145494,
     "geom:bbox":"6.812426,46.772836,6.851603,46.799574",
@@ -99,14 +111,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062945,
-        85682301
+        85682301,
+        102062945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2035",
+        "eurostat:nuts_2021_id":"CH2035"
+    },
     "wof:coterminous":[
         1125771567
     ],
@@ -114,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"243bb7f6ef512d4710e4aa75dbdbfd0a",
+    "wof:geomhash":"c4b4274d9dbc31d5a70962816114a0b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404571695,
-    "wof:lastmodified":1598920090,
+    "wof:lastmodified":1684351762,
     "wof:name":"Nuvilly",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",
+    "wof:population":426,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mauensee",
+    "eurostat:nuts_2021_id":"CH1091",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1091",
+    "eurostat:population":1458,
+    "eurostat:population_year":2020,
     "geom:area":0.000856,
-    "geom:area_square_m":7194815.543225,
+    "geom:area_square_m":7194815.543227,
     "geom:bbox":"8.035398,47.156842,8.094189,47.190951",
     "geom:latitude":47.174596,
     "geom:longitude":8.062635,
@@ -81,14 +93,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137077,
-        85682319
+        85682319,
+        1394137077
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1091",
+        "eurostat:nuts_2021_id":"CH1091",
         "gn:id":7286463,
         "gp:id":12683954,
         "qs_pg:id":43683
@@ -98,7 +114,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"350fb19e26c1a6e0a32376962a57cf40",
+    "wof:geomhash":"7f487ef9df61655746d1363b6f0cf90c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":404328525,
-    "wof:lastmodified":1598920493,
+    "wof:lastmodified":1684351697,
     "wof:name":"Mauensee",
     "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",
+    "wof:population":1458,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

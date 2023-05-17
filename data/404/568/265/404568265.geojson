@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0562",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aeschi bei Spiez",
+    "eurostat:nuts_2021_id":"CH0562",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0562",
+    "eurostat:population":2217,
+    "eurostat:population_year":2020,
     "geom:area":0.00364,
     "geom:area_square_m":30913397.425036,
     "geom:bbox":"7.669363,46.584294,7.817803,46.667952",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062831,
-        85682381
+        85682381,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0562",
+        "eurostat:nuts_2021_id":"CH0562",
         "gn:id":7285028,
         "gp:id":12682723,
         "qs_pg:id":248417
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"857169a13f099f3f6f1c3420dbf3069c",
+    "wof:geomhash":"8d8ffb2e4120d8556bacafe2af9e38d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404568265,
-    "wof:lastmodified":1598919707,
+    "wof:lastmodified":1684351715,
     "wof:name":"Aeschi bei Spiez",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",
+    "wof:population":2217,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

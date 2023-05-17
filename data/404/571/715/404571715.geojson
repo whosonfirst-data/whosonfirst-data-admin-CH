@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0070",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wasterkingen",
+    "eurostat:nuts_2021_id":"CH0070",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0070",
+    "eurostat:population":560,
+    "eurostat:population_year":2020,
     "geom:area":0.000473,
-    "geom:area_square_m":3946924.048327,
+    "geom:area_square_m":3946924.048326,
     "geom:bbox":"8.456534,47.583913,8.487261,47.610665",
     "geom:latitude":47.595989,
     "geom:longitude":8.471983,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063019,
-        85682309
+        85682309,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0070",
+        "eurostat:nuts_2021_id":"CH0070",
         "gn:id":7287547,
         "gp:id":20075361,
         "qs_pg:id":202080
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3a653cbb30d838bf4961e02bbd7c87ef",
+    "wof:geomhash":"802f124725613289008916aaf74dec4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571715,
-    "wof:lastmodified":1598920107,
+    "wof:lastmodified":1684351762,
     "wof:name":"Wasterkingen",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",
+    "wof:population":560,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

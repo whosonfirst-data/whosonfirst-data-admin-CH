@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1217",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sisikon",
+    "eurostat:nuts_2021_id":"CH1217",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH062",
+    "eurostat:nuts_2021_level_lau":"CH1217",
+    "eurostat:population":369,
+    "eurostat:population_year":2020,
     "geom:area":0.002344,
-    "geom:area_square_m":19790524.994054,
+    "geom:area_square_m":19790524.994056,
     "geom:bbox":"8.595362,46.914583,8.707765,46.952733",
     "geom:latitude":46.935766,
     "geom:longitude":8.651491,
@@ -104,14 +116,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062879,
-        85682377
+        85682377,
+        102062879
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1217",
+        "eurostat:nuts_2021_id":"CH1217",
         "gp:id":12684413,
         "qs_pg:id":238835
     },
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"81a6b9d248418c20570d8e1a8666170f",
+    "wof:geomhash":"2433c64011a668c89d182d7cfd00c12c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404328269,
-    "wof:lastmodified":1598920341,
+    "wof:lastmodified":1684351693,
     "wof:name":"Sisikon",
     "wof:parent_id":102062879,
     "wof:placetype":"localadmin",
+    "wof:population":369,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6298",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Visperterminen",
+    "eurostat:nuts_2021_id":"CH6298",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6298",
+    "eurostat:population":1345,
+    "eurostat:population_year":2020,
     "geom:area":0.006021,
-    "geom:area_square_m":51493702.380925,
+    "geom:area_square_m":51493702.380926,
     "geom:bbox":"7.876709,46.185562,7.995223,46.287469",
     "geom:latitude":46.243029,
     "geom:longitude":7.940185,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062859,
-        85682281
+        85682281,
+        102062859
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6298",
+        "eurostat:nuts_2021_id":"CH6298",
         "gn:id":7287488,
         "gp:id":12684589,
         "qs_pg:id":106713
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ac9304672e22697209d898a7765b0e03",
+    "wof:geomhash":"c158a95c0b7831e690a4e944529f8bea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404567983,
-    "wof:lastmodified":1598919400,
+    "wof:lastmodified":1684351709,
     "wof:name":"Visperterminen",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",
+    "wof:population":1345,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

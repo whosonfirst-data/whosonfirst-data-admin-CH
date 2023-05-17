@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rue",
+    "eurostat:nuts_2021_id":"CH2097",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2097",
+    "eurostat:population":1526,
+    "eurostat:population_year":2020,
     "geom:area":0.001315,
-    "geom:area_square_m":11172129.698164,
+    "geom:area_square_m":11172129.698162,
     "geom:bbox":"6.80777918493,46.5771948538,6.85166880012,46.6339521696",
     "geom:latitude":46.607704,
     "geom:longitude":6.827511,
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2097",
+        "eurostat:nuts_2021_id":"CH2097",
         "gn:id":7286973,
         "qs_pg:id":1154303
     },
@@ -56,7 +72,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4c89e3021a19e888549c04c1dc568402",
+    "wof:geomhash":"6b373ec4620ecdbcb8b72b59025ce9fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,10 +83,12 @@
         }
     ],
     "wof:id":404569511,
-    "wof:lastmodified":1582222957,
+    "wof:lastmodified":1684351735,
     "wof:name":"Rue",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",
+    "wof:population":1526,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

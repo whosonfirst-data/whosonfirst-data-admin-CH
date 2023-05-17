@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2300",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Plasselb",
+    "eurostat:nuts_2021_id":"CH2300",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2300",
+    "eurostat:population":1048,
+    "eurostat:population_year":2020,
     "geom:area":0.002136,
-    "geom:area_square_m":18109235.898256,
+    "geom:area_square_m":18109235.898255,
     "geom:bbox":"7.192916,46.671421,7.272906,46.750915",
     "geom:latitude":46.711113,
     "geom:longitude":7.243718,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062891,
-        85682301
+        85682301,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2300",
+        "eurostat:nuts_2021_id":"CH2300",
         "gn:id":7286804,
         "gp:id":12684206,
         "qs_pg:id":1102336
@@ -120,7 +136,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ba8247cfab4fc7414850f3a944334bcf",
+    "wof:geomhash":"151e7473c6c3cbaa1f86b7d384a6cff0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404568699,
-    "wof:lastmodified":1598919694,
+    "wof:lastmodified":1684351723,
     "wof:name":"Plasselb",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",
+    "wof:population":1048,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

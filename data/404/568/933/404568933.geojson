@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wiler (L\u00f6tschen)",
+    "eurostat:nuts_2021_id":"CH6202",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6202",
+    "eurostat:population":565,
+    "eurostat:population_year":2020,
     "geom:area":0.001739,
-    "geom:area_square_m":14826493.576646,
+    "geom:area_square_m":14826493.576643,
     "geom:bbox":"7.744226,46.37684,7.829698,46.439964",
     "geom:latitude":46.407603,
     "geom:longitude":7.78704,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063037,
-        85682281
+        85682281,
+        102063037
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6202",
+        "eurostat:nuts_2021_id":"CH6202",
         "gn:id":7287581,
         "gp:id":12684636,
         "qs_pg:id":671688
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"dba5a135d5937c5ac33cbf2f6c0c1c1d",
+    "wof:geomhash":"8b324f76537b3eefbe6f51a677d5a376",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404568933,
-    "wof:lastmodified":1598919652,
+    "wof:lastmodified":1684351727,
     "wof:name":"Wiler",
     "wof:parent_id":102063037,
     "wof:placetype":"localadmin",
+    "wof:population":565,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

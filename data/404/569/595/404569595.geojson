@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5431",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mollens (VD)",
+    "eurostat:nuts_2021_id":"CH5431",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5431",
+    "eurostat:population":283,
+    "eurostat:population_year":2020,
     "geom:area":0.00129,
-    "geom:area_square_m":10962234.315616,
+    "geom:area_square_m":10962234.315615,
     "geom:bbox":"6.3061096729,46.5609261303,6.38930310588,46.5908954443",
     "geom:latitude":46.578706,
     "geom:longitude":6.355333,
@@ -76,6 +88,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -84,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5431",
+        "eurostat:nuts_2021_id":"CH5431",
         "gn:id":2659638,
         "gp:id":12683992,
         "qs_pg:id":43694
@@ -96,7 +112,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8701236a47974099fa812d48c4370e13",
+    "wof:geomhash":"3db7db972206129633e669a68118e0bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404569595,
-    "wof:lastmodified":1582222947,
+    "wof:lastmodified":1684351735,
     "wof:name":"Mollens",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":283,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

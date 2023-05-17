@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3252",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eichberg",
+    "eurostat:nuts_2021_id":"CH3252",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3252",
+    "eurostat:population":1535,
+    "eurostat:population_year":2020,
     "geom:area":0.000647,
     "geom:area_square_m":5422174.582908,
     "geom:bbox":"9.50216421472,47.3361678883,9.54056383121,47.3612753146",
@@ -85,6 +97,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -93,6 +107,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3252",
+        "eurostat:nuts_2021_id":"CH3252",
         "gn:id":7285713,
         "gp:id":12683362,
         "qs_pg:id":671290
@@ -102,7 +118,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d19b0d64d6ff7408c4535072ccbdf024",
+    "wof:geomhash":"fa36f75cd5e6e514a610bdcdefd360ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +129,12 @@
         }
     ],
     "wof:id":404571121,
-    "wof:lastmodified":1582223056,
+    "wof:lastmodified":1684351755,
     "wof:name":"Eichberg",
     "wof:parent_id":102063005,
     "wof:placetype":"localadmin",
+    "wof:population":1535,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

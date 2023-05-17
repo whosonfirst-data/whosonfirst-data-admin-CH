@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montet (Gl\u00e2ne)",
+    "eurostat:nuts_2021_id":"CH2089",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2089",
+    "eurostat:population":385,
+    "eurostat:population_year":2020,
     "geom:area":0.000259,
-    "geom:area_square_m":2195019.875036,
+    "geom:area_square_m":2195019.875035,
     "geom:bbox":"6.798555,46.628853,6.823564,46.650604",
     "geom:latitude":46.641314,
     "geom:longitude":6.813034,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062867,
-        85682301
+        85682301,
+        102062867
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2089",
+        "eurostat:nuts_2021_id":"CH2089",
         "gn:id":7286533,
         "gp:id":20075468,
         "qs_pg:id":106629
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"44d4a55f45b014bfbcbd8a82e6d71525",
+    "wof:geomhash":"3c6874690ea054b00d7a41f4cce1ed93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404573057,
-    "wof:lastmodified":1598919975,
+    "wof:lastmodified":1684351770,
     "wof:name":"Montet",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",
+    "wof:population":385,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

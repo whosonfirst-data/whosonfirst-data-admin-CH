@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seon",
+    "eurostat:nuts_2021_id":"CH4209",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4209",
+    "eurostat:population":5288,
+    "eurostat:population_year":2020,
     "geom:area":0.001145,
-    "geom:area_square_m":9593631.35547,
+    "geom:area_square_m":9593631.355472,
     "geom:bbox":"8.13522464102,47.3298170513,8.18244607002,47.3679500931",
     "geom:latitude":47.34819,
     "geom:longitude":8.157547,
@@ -64,6 +76,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4209",
+        "eurostat:nuts_2021_id":"CH4209",
         "gn:id":7287154,
         "gp:id":12684399,
         "qs_pg:id":325589
@@ -84,7 +100,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a080bf91ff519b781230d0c8dc2dd464",
+    "wof:geomhash":"c4ad02eb0f01018e519863dd1853c3d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404569843,
-    "wof:lastmodified":1582222951,
+    "wof:lastmodified":1684351739,
     "wof:name":"Seon",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",
+    "wof:population":5288,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

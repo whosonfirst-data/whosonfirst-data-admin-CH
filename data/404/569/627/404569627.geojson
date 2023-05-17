@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0585",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leissigen",
+    "eurostat:nuts_2021_id":"CH0585",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0585",
+    "eurostat:population":1123,
+    "eurostat:population_year":2020,
     "geom:area":0.00122,
-    "geom:area_square_m":10353611.664624,
+    "geom:area_square_m":10353611.664623,
     "geom:bbox":"7.744791,46.622194,7.809212,46.660319",
     "geom:latitude":46.641961,
     "geom:longitude":7.779547,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062759,
-        85682381
+        85682381,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0585",
+        "eurostat:nuts_2021_id":"CH0585",
         "gn:id":7286306,
         "gp:id":12683861,
         "qs_pg:id":247729
@@ -144,7 +160,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a5240a33c5c930c7a049cd7100aedb3f",
+    "wof:geomhash":"6476d71398a8887bb579251955179adf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404569627,
-    "wof:lastmodified":1598919198,
+    "wof:lastmodified":1684351736,
     "wof:name":"Leissigen",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":1123,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

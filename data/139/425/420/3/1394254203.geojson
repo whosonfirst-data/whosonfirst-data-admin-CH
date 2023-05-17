@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2299",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Plaffeien",
+    "eurostat:nuts_2021_id":"CH2299",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2299",
+    "eurostat:population":3594,
+    "eurostat:population_year":2020,
     "geom:area":0.007824,
     "geom:area_square_m":66359468.363858,
     "geom:bbox":"7.25118419855,46.635701363,7.38021258164,46.7655332413",
@@ -84,6 +96,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -91,8 +105,12 @@
         102062891
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2299",
+        "eurostat:nuts_2021_id":"CH2299"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"7819d4301a0cacb03c6f36dd02a27a56",
+    "wof:geomhash":"28345351c01df834695aa340d29b2771",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +121,12 @@
         }
     ],
     "wof:id":1394254203,
-    "wof:lastmodified":1566640369,
+    "wof:lastmodified":1684351784,
     "wof:name":"Plaffeien",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",
+    "wof:population":3594,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

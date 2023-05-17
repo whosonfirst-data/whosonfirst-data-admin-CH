@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6435",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Chaux-du-Milieu",
+    "eurostat:nuts_2021_id":"CH6435",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6435",
+    "eurostat:population":492,
+    "eurostat:population_year":2020,
     "geom:area":0.002047,
-    "geom:area_square_m":17261781.425725,
+    "geom:area_square_m":17261781.425724,
     "geom:bbox":"6.651241,46.974992,6.745427,47.032102",
     "geom:latitude":47.003958,
     "geom:longitude":6.695407,
@@ -97,6 +109,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6435",
+        "eurostat:nuts_2021_id":"CH6435",
         "gp:id":12684850,
         "qs_pg:id":1017692
     },
@@ -115,7 +131,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fd8f215862a9aca23b8c585e6a5dfd5a",
+    "wof:geomhash":"4a3d3de96ad314bca85c85eb22c21b1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404568753,
-    "wof:lastmodified":1598919481,
+    "wof:lastmodified":1684351724,
     "wof:name":"La Chaux-du-Milieu",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":492,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

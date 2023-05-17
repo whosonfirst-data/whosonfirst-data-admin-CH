@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1363",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Illgau",
+    "eurostat:nuts_2021_id":"CH1363",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1363",
+    "eurostat:population":802,
+    "eurostat:population_year":2020,
     "geom:area":0.001296,
-    "geom:area_square_m":10926254.985349,
+    "geom:area_square_m":10926254.98535,
     "geom:bbox":"8.693388,46.983594,8.776417,47.010851",
     "geom:latitude":46.996519,
     "geom:longitude":8.739936,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062887,
-        85682305
+        85682305,
+        102062887
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1363",
+        "eurostat:nuts_2021_id":"CH1363",
         "gn:id":7286134,
         "gp:id":12683719,
         "qs_pg:id":268142
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"af51b63b18a7d8e5abf9455195ee95fe",
+    "wof:geomhash":"92e58d5b0be4c3537a8d80b33f04acb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404569603,
-    "wof:lastmodified":1598919221,
+    "wof:lastmodified":1684351735,
     "wof:name":"Illgau",
     "wof:parent_id":102062887,
     "wof:placetype":"localadmin",
+    "wof:population":802,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2917",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lohn (SH)",
+    "eurostat:nuts_2021_id":"CH2917",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2917",
+    "eurostat:population":758,
+    "eurostat:population_year":2020,
     "geom:area":0.000584,
-    "geom:area_square_m":4851491.360265,
+    "geom:area_square_m":4851491.360267,
     "geom:bbox":"8.652337,47.742536,8.68947,47.769673",
     "geom:latitude":47.755755,
     "geom:longitude":8.670358,
@@ -90,14 +102,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137109,
-        85682285
+        85682285,
+        1394137109
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2917",
+        "eurostat:nuts_2021_id":"CH2917",
         "gn:id":7286366,
         "gp:id":12683899,
         "qs_pg:id":671437
@@ -110,7 +126,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b3eb49157317e02bfc4eb4ebb06dacf5",
+    "wof:geomhash":"d0700b8deae58293bd6cb6418ba7121f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":404328693,
-    "wof:lastmodified":1598920333,
+    "wof:lastmodified":1684351699,
     "wof:name":"Lohn",
     "wof:parent_id":1394137109,
     "wof:placetype":"localadmin",
+    "wof:population":758,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

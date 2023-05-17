@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vals",
+    "eurostat:nuts_2021_id":"CH3603",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3603",
+    "eurostat:population":1007,
+    "eurostat:population_year":2020,
     "geom:area":0.020604,
-    "geom:area_square_m":175105304.32441,
+    "geom:area_square_m":175105304.324398,
     "geom:bbox":"9.01663100176,46.493951653,9.24340796912,46.6821278914",
     "geom:latitude":46.584159,
     "geom:longitude":9.140566,
@@ -72,6 +84,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -79,11 +93,15 @@
         102062773
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3603",
+        "eurostat:nuts_2021_id":"CH3603"
+    },
     "wof:coterminous":[
         1125808783
     ],
     "wof:country":"CH",
-    "wof:geomhash":"aec8d5ef7453ed262e621e8eb554409b",
+    "wof:geomhash":"e397684a5fff88b7634aaebdcb29d0f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +112,12 @@
         }
     ],
     "wof:id":1394254033,
-    "wof:lastmodified":1566640375,
+    "wof:lastmodified":1684351779,
     "wof:name":"Vals",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
+    "wof:population":1007,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4312",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lengnau (AG)",
+    "eurostat:nuts_2021_id":"CH4312",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4312",
+    "eurostat:population":2744,
+    "eurostat:population_year":2020,
     "geom:area":0.001513,
-    "geom:area_square_m":12634656.133506,
+    "geom:area_square_m":12634656.133503,
     "geom:bbox":"8.288885,47.506245,8.354914,47.547308",
     "geom:latitude":47.52508,
     "geom:longitude":8.324125,
@@ -73,14 +85,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062841,
-        85682329
+        85682329,
+        102062841
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4312",
+        "eurostat:nuts_2021_id":"CH4312",
         "gn:id":7286312,
         "gp:id":12684542,
         "qs_pg:id":905037
@@ -93,7 +109,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"27c45f439f1e3c250ce3e93f883c9fd6",
+    "wof:geomhash":"f4df6555002c3c7460bec6bc1691238c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404569173,
-    "wof:lastmodified":1598919236,
+    "wof:lastmodified":1684351731,
     "wof:name":"Lengnau",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",
+    "wof:population":2744,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

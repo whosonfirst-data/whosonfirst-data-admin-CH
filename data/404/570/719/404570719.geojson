@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5910",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cronay",
+    "eurostat:nuts_2021_id":"CH5910",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5910",
+    "eurostat:population":385,
+    "eurostat:population_year":2020,
     "geom:area":0.000775,
-    "geom:area_square_m":6562176.045781,
+    "geom:area_square_m":6562176.045782,
     "geom:bbox":"6.676406,46.73921,6.725126,46.775524",
     "geom:latitude":46.756785,
     "geom:longitude":6.702881,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5910",
+        "eurostat:nuts_2021_id":"CH5910",
         "gn:id":7285596,
         "qs_pg:id":671272
     },
@@ -116,7 +132,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28a7bd1e6d0235f3f661f22b43ec4b70",
+    "wof:geomhash":"0448c16aab878f8faa7f074d94edc8cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404570719,
-    "wof:lastmodified":1598920717,
+    "wof:lastmodified":1684351750,
     "wof:name":"Cronay",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":385,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

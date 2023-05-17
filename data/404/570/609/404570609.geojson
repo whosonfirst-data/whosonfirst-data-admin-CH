@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2763",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arlesheim",
+    "eurostat:nuts_2021_id":"CH2763",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2763",
+    "eurostat:population":9129,
+    "eurostat:population_year":2020,
     "geom:area":0.000827,
-    "geom:area_square_m":6908398.258426,
+    "geom:area_square_m":6908398.258427,
     "geom:bbox":"7.606416,47.482733,7.655926,47.509611",
     "geom:latitude":47.495465,
     "geom:longitude":7.628315,
@@ -127,14 +139,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062971,
-        85682361
+        85682361,
+        102062971
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2763",
+        "eurostat:nuts_2021_id":"CH2763",
         "gn:id":7285096,
         "gp:id":12682823,
         "qs_pg:id":1115102
@@ -147,7 +163,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a1ddf99b853f61ea04c2e43d1ea0fd56",
+    "wof:geomhash":"23c12740c984adff629437869a9d92ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404570609,
-    "wof:lastmodified":1598920707,
+    "wof:lastmodified":1684351748,
     "wof:name":"Arlesheim",
     "wof:parent_id":102062971,
     "wof:placetype":"localadmin",
+    "wof:population":9129,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

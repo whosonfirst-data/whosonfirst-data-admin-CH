@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2481",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Witterswil",
+    "eurostat:nuts_2021_id":"CH2481",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2481",
+    "eurostat:population":1438,
+    "eurostat:population_year":2020,
     "geom:area":0.000319,
     "geom:area_square_m":2661803.544126,
     "geom:bbox":"7.51449,47.477952,7.536697,47.497398",
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137115,
-        85682365
+        85682365,
+        1394137115
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2481",
+        "eurostat:nuts_2021_id":"CH2481",
         "gn:id":7287597,
         "gp:id":12684933,
         "qs_pg:id":191102
@@ -128,7 +144,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ae8213ade6dffa3ef842cd874283b2ee",
+    "wof:geomhash":"4195407980ca1dbd09a503fc6f5b295e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328835,
-    "wof:lastmodified":1598920331,
+    "wof:lastmodified":1684351701,
     "wof:name":"Witterswil",
     "wof:parent_id":1394137115,
     "wof:placetype":"localadmin",
+    "wof:population":1438,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dietlikon",
+    "eurostat:nuts_2021_id":"CH0054",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0054",
+    "eurostat:population":7776,
+    "eurostat:population_year":2020,
     "geom:area":0.000506,
-    "geom:area_square_m":4235897.455291,
+    "geom:area_square_m":4235897.455292,
     "geom:bbox":"8.59617813428,47.4061209402,8.62901577808,47.4392026424",
     "geom:latitude":47.423964,
     "geom:longitude":8.615304,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -129,6 +143,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0054",
+        "eurostat:nuts_2021_id":"CH0054",
         "gp:id":12683310,
         "qs_pg:id":218913
     },
@@ -140,7 +156,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a40096422d6460321eb461aecb944878",
+    "wof:geomhash":"87a35c0ff1336956b58bab2e4336a5b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         }
     ],
     "wof:id":404571589,
-    "wof:lastmodified":1582223056,
+    "wof:lastmodified":1684351761,
     "wof:name":"Dietlikon",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",
+    "wof:population":7776,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

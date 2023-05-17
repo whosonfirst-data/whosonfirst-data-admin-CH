@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5625",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bussy-Chardonney",
+    "eurostat:nuts_2021_id":"CH5625",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5625",
+    "eurostat:population":375,
+    "eurostat:population_year":2020,
     "geom:area":0.000359,
-    "geom:area_square_m":3057924.630143,
+    "geom:area_square_m":3057924.630142,
     "geom:bbox":"6.420924,46.522612,6.45806,46.539442",
     "geom:latitude":46.530872,
     "geom:longitude":6.440951,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5625",
+        "eurostat:nuts_2021_id":"CH5625",
         "gp:id":12684739,
         "qs_pg:id":22219
     },
@@ -116,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"315847d8b99eb227bc8d07b2e87bfda2",
+    "wof:geomhash":"129ab7cfa99cf38564ecc3a264d36399",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404572107,
-    "wof:lastmodified":1598919818,
+    "wof:lastmodified":1684351766,
     "wof:name":"Bussy-Chardonney",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":375,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Simplon",
+    "eurostat:nuts_2021_id":"CH6009",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6009",
+    "eurostat:population":305,
+    "eurostat:population_year":2020,
     "geom:area":0.010607,
-    "geom:area_square_m":90772070.371849,
+    "geom:area_square_m":90772070.371851,
     "geom:bbox":"7.97968220669,46.1204293546,8.11551308941,46.274290123",
     "geom:latitude":46.203195,
     "geom:longitude":8.036315,
@@ -88,6 +100,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6009",
+        "eurostat:nuts_2021_id":"CH6009",
         "gp:id":12684410,
         "qs_pg:id":1097480
     },
@@ -107,7 +123,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5fb234562f92796734000bf6f64a9599",
+    "wof:geomhash":"9135500a71ebd824de6f472243fa3c41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":404567813,
-    "wof:lastmodified":1582222982,
+    "wof:lastmodified":1684351705,
     "wof:name":"Simplon",
     "wof:parent_id":102063023,
     "wof:placetype":"localadmin",
+    "wof:population":305,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

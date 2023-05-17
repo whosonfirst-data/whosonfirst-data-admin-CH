@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2464",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"L\u00fcsslingen-Nennigkofen",
+    "eurostat:nuts_2021_id":"CH2464",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2464",
+    "eurostat:population":1083,
+    "eurostat:population_year":2020,
     "geom:area":0.000927,
     "geom:area_square_m":7788281.636803,
     "geom:bbox":"7.47085492214,47.1711296693,7.51475960687,47.2045648785",
@@ -51,6 +63,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -58,8 +72,12 @@
         1394137095
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2464",
+        "eurostat:nuts_2021_id":"CH2464"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"3d62833b7654ed8ada98bcd474de46cd",
+    "wof:geomhash":"f8653ca12611233b759c3e5824b51a66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +88,12 @@
         }
     ],
     "wof:id":1394253975,
-    "wof:lastmodified":1566640345,
+    "wof:lastmodified":1684351777,
     "wof:name":"L\u00fcsslingen-Nennigkofen",
     "wof:parent_id":1394137095,
     "wof:placetype":"localadmin",
+    "wof:population":1083,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

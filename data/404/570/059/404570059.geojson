@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2844",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buus",
+    "eurostat:nuts_2021_id":"CH2844",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2844",
+    "eurostat:population":1066,
+    "eurostat:population_year":2020,
     "geom:area":0.001056,
-    "geom:area_square_m":8819690.54664,
+    "geom:area_square_m":8819690.546639,
     "geom:bbox":"7.841025,47.488609,7.896074,47.523753",
     "geom:latitude":47.504652,
     "geom:longitude":7.866005,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062819,
-        85682361
+        85682361,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2844",
+        "eurostat:nuts_2021_id":"CH2844",
         "gn:id":7285415,
         "gp:id":12683116,
         "qs_pg:id":538528
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"756b4368dbaec78ee418d25be3ae9906",
+    "wof:geomhash":"88f87d9563b07e855b32402635cfc398",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570059,
-    "wof:lastmodified":1598920692,
+    "wof:lastmodified":1684351742,
     "wof:name":"Buus",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",
+    "wof:population":1066,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

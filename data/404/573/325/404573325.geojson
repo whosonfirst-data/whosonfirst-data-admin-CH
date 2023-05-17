@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0937",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schwendibach",
+    "eurostat:nuts_2021_id":"CH0937",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0937",
+    "eurostat:population":250,
+    "eurostat:population_year":2020,
     "geom:area":0.000176,
     "geom:area_square_m":1489964.768774,
     "geom:bbox":"7.649557,46.764201,7.673234,46.77745",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0937",
+        "eurostat:nuts_2021_id":"CH0937",
         "gn:id":7287127,
         "gp:id":20075422,
         "qs_pg:id":50231
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"627d008abcef85198fad5d3266507ffe",
+    "wof:geomhash":"92312fd2b3806c12009c44aff19494df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404573325,
-    "wof:lastmodified":1598919943,
+    "wof:lastmodified":1684351773,
     "wof:name":"Schwendibach",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":250,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

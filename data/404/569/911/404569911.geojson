@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3296",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sargans",
+    "eurostat:nuts_2021_id":"CH3296",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3296",
+    "eurostat:population":6133,
+    "eurostat:population_year":2020,
     "geom:area":0.00112,
-    "geom:area_square_m":9438589.306269,
+    "geom:area_square_m":9438589.306272,
     "geom:bbox":"9.418531,47.039881,9.477246,47.068846",
     "geom:latitude":47.055583,
     "geom:longitude":9.44885,
@@ -139,14 +151,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062963,
-        85682341
+        85682341,
+        102062963
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3296",
+        "eurostat:nuts_2021_id":"CH3296",
         "gn:id":7287053,
         "gp:id":12684347,
         "qs_pg:id":1102353
@@ -159,7 +175,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"adfa05b477b98e77d5b0c08cbb58f24a",
+    "wof:geomhash":"a001cb2e0cb40773a7065729a0432dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404569911,
-    "wof:lastmodified":1598919344,
+    "wof:lastmodified":1684351740,
     "wof:name":"Sargans",
     "wof:parent_id":102062963,
     "wof:placetype":"localadmin",
+    "wof:population":6133,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

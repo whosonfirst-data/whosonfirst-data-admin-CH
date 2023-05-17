@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lenzburg",
+    "eurostat:nuts_2021_id":"CH4201",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4201",
+    "eurostat:population":10574,
+    "eurostat:population_year":2020,
     "geom:area":0.001348,
     "geom:area_square_m":11283107.573186,
     "geom:bbox":"8.144884,47.362513,8.204194,47.408703",
@@ -133,14 +145,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063017,
-        85682329
+        85682329,
+        102063017
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4201",
+        "eurostat:nuts_2021_id":"CH4201",
         "gn:id":7286318,
         "gp:id":12683864,
         "qs_pg:id":1145844
@@ -153,7 +169,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1ca876fa886112531e28d87f1d84a483",
+    "wof:geomhash":"76d034af420340d94d9506214869e2bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404569483,
-    "wof:lastmodified":1598919188,
+    "wof:lastmodified":1684351734,
     "wof:name":"Lenzburg",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",
+    "wof:population":10574,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

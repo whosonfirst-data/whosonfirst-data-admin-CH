@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ennetbaden",
+    "eurostat:nuts_2021_id":"CH4026",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4026",
+    "eurostat:population":3499,
+    "eurostat:population_year":2020,
     "geom:area":0.000252,
     "geom:area_square_m":2102801.697792,
     "geom:bbox":"8.309793,47.473083,8.341598,47.486689",
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062843,
-        85682329
+        85682329,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4026",
+        "eurostat:nuts_2021_id":"CH4026",
         "gp:id":12684976,
         "qs_pg:id":62061
     },
@@ -134,7 +150,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c325dfe509fcb4232adc0a7eb0acb7cf",
+    "wof:geomhash":"0d8f2ab0d50f2189330d6d51ae329a9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404573105,
-    "wof:lastmodified":1598919886,
+    "wof:lastmodified":1684351771,
     "wof:name":"Ennetbaden",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
+    "wof:population":3499,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

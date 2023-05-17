@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La C\u00f4te-aux-F\u00e9es",
+    "eurostat:nuts_2021_id":"CH6504",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6504",
+    "eurostat:population":442,
+    "eurostat:population_year":2020,
     "geom:area":0.001513,
-    "geom:area_square_m":12794054.499182,
+    "geom:area_square_m":12794054.499181,
     "geom:bbox":"6.460035,46.846588,6.527538,46.881973",
     "geom:latitude":46.863109,
     "geom:longitude":6.48757,
@@ -103,6 +115,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6504",
+        "eurostat:nuts_2021_id":"CH6504",
         "gn:id":7286245,
         "gp:id":12683248,
         "qs_pg:id":1115134
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a8220edb8b069a3f8f6ac0243f217dae",
+    "wof:geomhash":"5670657055b2deaf70ff54a69c0f134d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404569151,
-    "wof:lastmodified":1598919167,
+    "wof:lastmodified":1684351731,
     "wof:name":"La C\u00f4te-aux-F\u00e9es",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":442,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

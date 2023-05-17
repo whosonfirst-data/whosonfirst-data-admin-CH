@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bogis-Bossey",
+    "eurostat:nuts_2021_id":"CH5705",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5705",
+    "eurostat:population":888,
+    "eurostat:population_year":2020,
     "geom:area":0.000287,
-    "geom:area_square_m":2447637.597415,
+    "geom:area_square_m":2447637.597416,
     "geom:bbox":"6.157523,46.343711,6.194894,46.366077",
     "geom:latitude":46.353773,
     "geom:longitude":6.171616,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5705",
+        "eurostat:nuts_2021_id":"CH5705",
         "gp:id":12682999,
         "qs_pg:id":1153943
     },
@@ -119,7 +135,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a9ef13bc7ead75bc0d2ca56b7b3bfadc",
+    "wof:geomhash":"b9f212405db1b9faa075491dff116cc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404572377,
-    "wof:lastmodified":1598919803,
+    "wof:lastmodified":1684351769,
     "wof:name":"Bogis-Bossey",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":888,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6716",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mettembert",
+    "eurostat:nuts_2021_id":"CH6716",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6716",
+    "eurostat:population":107,
+    "eurostat:population_year":2020,
     "geom:area":0.000279,
-    "geom:area_square_m":2337783.465594,
+    "geom:area_square_m":2337783.465595,
     "geom:bbox":"7.298297,47.392693,7.359595,47.401388",
     "geom:latitude":47.397342,
     "geom:longitude":7.327373,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062791,
-        85682347
+        85682347,
+        102062791
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6716",
+        "eurostat:nuts_2021_id":"CH6716",
         "gn:id":7286496,
         "qs_pg:id":671460
     },
@@ -116,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c6a1b81d8bf8ef6399eb80a9accada79",
+    "wof:geomhash":"e7f1e7f27847f08d263b3070e04596fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404572425,
-    "wof:lastmodified":1598919773,
+    "wof:lastmodified":1684351770,
     "wof:name":"Mettembert",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
+    "wof:population":107,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

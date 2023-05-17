@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6636",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puplinge",
+    "eurostat:nuts_2021_id":"CH6636",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6636",
+    "eurostat:population":2468,
+    "eurostat:population_year":2020,
     "geom:area":0.000311,
-    "geom:area_square_m":2665074.744299,
+    "geom:area_square_m":2665074.744298,
     "geom:bbox":"6.217098,46.201318,6.247722,46.218926",
     "geom:latitude":46.210836,
     "geom:longitude":6.232183,
@@ -101,14 +113,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6636",
+        "eurostat:nuts_2021_id":"CH6636",
         "gn:id":7286843,
         "gp:id":12684226,
         "qs_pg:id":1188078
@@ -121,7 +137,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"25446cdad2e7ce152582dbd693024530",
+    "wof:geomhash":"c461a57bd27b0a872212386021244aea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404328833,
-    "wof:lastmodified":1598920343,
+    "wof:lastmodified":1684351701,
     "wof:name":"Puplinge",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":2468,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1094",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nottwil",
+    "eurostat:nuts_2021_id":"CH1094",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1094",
+    "eurostat:population":3858,
+    "eurostat:population_year":2020,
     "geom:area":0.001759,
-    "geom:area_square_m":14793669.445261,
+    "geom:area_square_m":14793669.44526,
     "geom:bbox":"8.101674,47.108357,8.1775,47.153151",
     "geom:latitude":47.130881,
     "geom:longitude":8.140821,
@@ -126,14 +138,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137077,
-        85682319
+        85682319,
+        1394137077
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1094",
+        "eurostat:nuts_2021_id":"CH1094",
         "gn:id":7286660,
         "gp:id":12684096,
         "qs_pg:id":248862
@@ -146,7 +162,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ce2db1853baa3a58bc057c593de7f27d",
+    "wof:geomhash":"f24576cdeef67076e2ad564a590bc29c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +173,12 @@
         }
     ],
     "wof:id":404328345,
-    "wof:lastmodified":1598920490,
+    "wof:lastmodified":1684351694,
     "wof:name":"Nottwil",
     "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",
+    "wof:population":3858,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

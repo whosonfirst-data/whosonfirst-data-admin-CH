@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5214",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porza",
+    "eurostat:nuts_2021_id":"CH5214",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5214",
+    "eurostat:population":1579,
+    "eurostat:population_year":2020,
     "geom:area":0.000181,
-    "geom:area_square_m":1557905.924216,
+    "geom:area_square_m":1557905.924215,
     "geom:bbox":"8.939314,46.019856,8.966319,46.032698",
     "geom:latitude":46.02692,
     "geom:longitude":8.953123,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5214",
+        "eurostat:nuts_2021_id":"CH5214",
         "gp:id":12685165,
         "qs_pg:id":241257
     },
@@ -116,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7125b17a74ca67597de4b54bd66b4faa",
+    "wof:geomhash":"3a58a591b3eaa23f6335beeb16243da9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404573305,
-    "wof:lastmodified":1598919957,
+    "wof:lastmodified":1684351773,
     "wof:name":"Porza",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":1579,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

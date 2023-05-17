@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giswil",
+    "eurostat:nuts_2021_id":"CH1403",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH064",
+    "eurostat:nuts_2021_level_lau":"CH1403",
+    "eurostat:population":3658,
+    "eurostat:population_year":2020,
     "geom:area":0.010135,
-    "geom:area_square_m":85733103.90546,
+    "geom:area_square_m":85733103.905459,
     "geom:bbox":"8.042196,46.785937,8.215991,46.887037",
     "geom:latitude":46.835856,
     "geom:longitude":8.11891,
@@ -119,14 +131,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062787,
-        85682371
+        85682371,
+        102062787
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1403",
+        "eurostat:nuts_2021_id":"CH1403",
         "gn:id":7285921,
         "gp:id":12682711,
         "qs_pg:id":195841
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b2e8da8ce43cd5b07c2e871b585f6f72",
+    "wof:geomhash":"450b63dc5d0ced6ddf395408938658b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404328129,
-    "wof:lastmodified":1598920361,
+    "wof:lastmodified":1684351690,
     "wof:name":"Giswil",
     "wof:parent_id":102062787,
     "wof:placetype":"localadmin",
+    "wof:population":3658,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

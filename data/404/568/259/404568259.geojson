@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3251",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altst\u00e4tten",
+    "eurostat:nuts_2021_id":"CH3251",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3251",
+    "eurostat:population":11733,
+    "eurostat:population_year":2020,
     "geom:area":0.004698,
-    "geom:area_square_m":39353544.038982,
+    "geom:area_square_m":39353544.038983,
     "geom:bbox":"9.483944,47.268929,9.593201,47.400268",
     "geom:latitude":47.351633,
     "geom:longitude":9.535409,
@@ -130,14 +142,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063005,
-        85682341
+        85682341,
+        102063005
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3251",
+        "eurostat:nuts_2021_id":"CH3251",
         "gn:id":7285064,
         "gp:id":12682791,
         "qs_pg:id":31993
@@ -147,7 +163,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"456062a3974f758fc827aa4620002934",
+    "wof:geomhash":"01bf2d062b5c2577e53373590b6c58c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404568259,
-    "wof:lastmodified":1598919536,
+    "wof:lastmodified":1684351715,
     "wof:name":"Altst\u00e4tten",
     "wof:parent_id":102063005,
     "wof:placetype":"localadmin",
+    "wof:population":11733,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

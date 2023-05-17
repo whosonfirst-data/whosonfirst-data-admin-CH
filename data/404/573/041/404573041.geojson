@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2832",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ramlinsburg",
+    "eurostat:nuts_2021_id":"CH2832",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2832",
+    "eurostat:population":715,
+    "eurostat:population_year":2020,
     "geom:area":0.000268,
     "geom:area_square_m":2241886.002414,
     "geom:bbox":"7.755366,47.44133,7.780328,47.457635",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062929,
-        85682361
+        85682361,
+        102062929
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2832",
+        "eurostat:nuts_2021_id":"CH2832",
         "gp:id":12685209,
         "qs_pg:id":1190523
     },
@@ -125,7 +141,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8324c5995b89a320a156cda547b0becd",
+    "wof:geomhash":"0d0fe270785214b96a75f818112c7ec9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404573041,
-    "wof:lastmodified":1598919896,
+    "wof:lastmodified":1684351770,
     "wof:name":"Ramlinsburg",
     "wof:parent_id":102062929,
     "wof:placetype":"localadmin",
+    "wof:population":715,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

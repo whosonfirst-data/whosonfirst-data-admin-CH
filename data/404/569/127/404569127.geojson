@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ossingen",
+    "eurostat:nuts_2021_id":"CH0037",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0037",
+    "eurostat:population":1641,
+    "eurostat:population_year":2020,
     "geom:area":0.001566,
-    "geom:area_square_m":13053917.353134,
+    "geom:area_square_m":13053917.353136,
     "geom:bbox":"8.686535,47.587871,8.754734,47.634709",
     "geom:latitude":47.612833,
     "geom:longitude":8.721109,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062801,
-        85682309
+        85682309,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0037",
+        "eurostat:nuts_2021_id":"CH0037",
         "gn:id":7286760,
         "gp:id":12684168,
         "qs_pg:id":996488
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e8385380951b59a8bd48def210e8e18",
+    "wof:geomhash":"22691f0c72e8d5e66f9436ffac0a0c82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404569127,
-    "wof:lastmodified":1598919243,
+    "wof:lastmodified":1684351730,
     "wof:name":"Ossingen",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",
+    "wof:population":1641,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

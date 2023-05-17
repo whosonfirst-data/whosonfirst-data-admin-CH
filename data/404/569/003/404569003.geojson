@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0952",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u00fcrrenroth",
+    "eurostat:nuts_2021_id":"CH0952",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0952",
+    "eurostat:population":1061,
+    "eurostat:population_year":2020,
     "geom:area":0.001674,
     "geom:area_square_m":14096342.978031,
     "geom:bbox":"7.736473,47.061037,7.810947,47.099811",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0952",
+        "eurostat:nuts_2021_id":"CH0952",
         "gn:id":7285683,
         "gp:id":12683339,
         "qs_pg:id":969702
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2afceb51e5fbd1dbb0662f4512e1896",
+    "wof:geomhash":"cd5ed36c0aa7ef049d4aca3981252f2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404569003,
-    "wof:lastmodified":1598919317,
+    "wof:lastmodified":1684351729,
     "wof:name":"D\u00fcrrenroth",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":1061,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

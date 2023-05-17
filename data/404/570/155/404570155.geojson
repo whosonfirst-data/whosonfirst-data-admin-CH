@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5423",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ballens",
+    "eurostat:nuts_2021_id":"CH5423",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5423",
+    "eurostat:population":537,
+    "eurostat:population_year":2020,
     "geom:area":0.000991,
     "geom:area_square_m":8425955.999702,
     "geom:bbox":"6.353013,46.53768,6.403328,46.572844",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5423",
+        "eurostat:nuts_2021_id":"CH5423",
         "gn:id":2661633,
         "gp:id":12682891,
         "qs_pg:id":421324
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"df9f2b831a052b7ef02bbf072746a838",
+    "wof:geomhash":"f3223d850518079c182f9bcbe8e4355e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570155,
-    "wof:lastmodified":1598920646,
+    "wof:lastmodified":1684351743,
     "wof:name":"Ballens",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":537,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

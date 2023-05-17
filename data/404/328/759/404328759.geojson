@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6614",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Choulex",
+    "eurostat:nuts_2021_id":"CH6614",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6614",
+    "eurostat:population":1179,
+    "eurostat:population_year":2020,
     "geom:area":0.000456,
-    "geom:area_square_m":3898681.485898,
+    "geom:area_square_m":3898681.485899,
     "geom:bbox":"6.20171,46.210418,6.243231,46.237187",
     "geom:latitude":46.226258,
     "geom:longitude":6.223845,
@@ -101,14 +113,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6614",
+        "eurostat:nuts_2021_id":"CH6614",
         "gp:id":12684761,
         "qs_pg:id":62058
     },
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b26486d4b6365f476c4b7928a717641a",
+    "wof:geomhash":"4d4c2d348fdeebad74c87dfefa5ef318",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404328759,
-    "wof:lastmodified":1598920418,
+    "wof:lastmodified":1684351700,
     "wof:name":"Choulex",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":1179,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

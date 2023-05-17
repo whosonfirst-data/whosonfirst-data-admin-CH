@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0582",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Iseltwald",
+    "eurostat:nuts_2021_id":"CH0582",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0582",
+    "eurostat:population":438,
+    "eurostat:population_year":2020,
     "geom:area":0.002577,
-    "geom:area_square_m":21854368.155915,
+    "geom:area_square_m":21854368.155914,
     "geom:bbox":"7.94017,46.669966,8.027547,46.731784",
     "geom:latitude":46.700003,
     "geom:longitude":7.991025,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062759,
-        85682381
+        85682381,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0582",
+        "eurostat:nuts_2021_id":"CH0582",
         "gn:id":7286148,
         "gp:id":12683733,
         "qs_pg:id":1078616
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b0dafd083da7644835b9d548f2fe0d31",
+    "wof:geomhash":"85e9c92e3175c8c3fb31c0fa1dbb6a2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404568453,
-    "wof:lastmodified":1598919564,
+    "wof:lastmodified":1684351719,
     "wof:name":"Iseltwald",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":438,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

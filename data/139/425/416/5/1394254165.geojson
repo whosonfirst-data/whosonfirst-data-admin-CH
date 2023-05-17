@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lupfig",
+    "eurostat:nuts_2021_id":"CH4104",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4104",
+    "eurostat:population":3113,
+    "eurostat:population_year":2020,
     "geom:area":0.001007,
     "geom:area_square_m":8422537.878937,
     "geom:bbox":"8.17152468807,47.4263179781,8.24028670813,47.4571559492",
@@ -93,6 +105,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -100,8 +114,12 @@
         102062993
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH4104",
+        "eurostat:nuts_2021_id":"CH4104"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"4d880edc042fe832e86ba325542b2305",
+    "wof:geomhash":"86679de54e85f861e7036d92827c48d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,10 +130,12 @@
         }
     ],
     "wof:id":1394254165,
-    "wof:lastmodified":1566640368,
+    "wof:lastmodified":1684351783,
     "wof:name":"Lupfig",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
+    "wof:population":3113,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

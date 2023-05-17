@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5816",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corcelles-pr\u00e8s-Payerne",
+    "eurostat:nuts_2021_id":"CH5816",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5816",
+    "eurostat:population":2480,
+    "eurostat:population_year":2020,
     "geom:area":0.001429,
-    "geom:area_square_m":12083665.241716,
+    "geom:area_square_m":12083665.241715,
     "geom:bbox":"6.943398,46.819294,6.992836,46.86879",
     "geom:latitude":46.842381,
     "geom:longitude":6.967207,
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062969,
-        85682325
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5816",
+        "eurostat:nuts_2021_id":"CH5816",
         "gn:id":7285554,
         "gp:id":12683236,
         "qs_pg:id":380065
@@ -111,7 +127,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"60b8f166495953155a4abc393d256553",
+    "wof:geomhash":"d715348a7b649c39659751a7df15327a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404569261,
-    "wof:lastmodified":1598919209,
+    "wof:lastmodified":1684351732,
     "wof:name":"Corcelles-pr\u00e8s-Payerne",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":2480,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

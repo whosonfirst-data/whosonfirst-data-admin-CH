@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0338",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rohrbach",
+    "eurostat:nuts_2021_id":"CH0338",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0338",
+    "eurostat:population":1480,
+    "eurostat:population_year":2020,
     "geom:area":0.000483,
     "geom:area_square_m":4065365.253718,
     "geom:bbox":"7.791051,47.121531,7.828306,47.141794",
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0338",
+        "eurostat:nuts_2021_id":"CH0338",
         "gn:id":7286932,
         "qs_pg:id":106665
     },
@@ -110,7 +126,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ec7e63794d11dde321db0f0cb434198c",
+    "wof:geomhash":"9e9cf5a3ea5921e385b9bd817a928295",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":404571667,
-    "wof:lastmodified":1598920077,
+    "wof:lastmodified":1684351761,
     "wof:name":"Rohrbach",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":1480,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

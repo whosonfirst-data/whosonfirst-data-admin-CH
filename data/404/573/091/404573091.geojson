@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6454",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hauterive (NE)",
+    "eurostat:nuts_2021_id":"CH6454",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6454",
+    "eurostat:population":2623,
+    "eurostat:population_year":2020,
     "geom:area":0.000254,
     "geom:area_square_m":2141033.008501,
     "geom:bbox":"6.95662179605,47.0056104108,6.98070474952,47.0280311577",
@@ -106,6 +118,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6454",
+        "eurostat:nuts_2021_id":"CH6454",
         "gn:id":7286041,
         "gp:id":12684859,
         "qs_pg:id":671379
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1cc8998ce41501bde337a04e46d2f137",
+    "wof:geomhash":"1b916ec5466be3f82e83a7b1e8f82a46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404573091,
-    "wof:lastmodified":1582223037,
+    "wof:lastmodified":1684351770,
     "wof:name":"Hauterive",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":2623,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2477",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Metzerlen-Mariastein",
+    "eurostat:nuts_2021_id":"CH2477",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2477",
+    "eurostat:population":933,
+    "eurostat:population_year":2020,
     "geom:area":0.001012,
     "geom:area_square_m":8457488.5283,
     "geom:bbox":"7.445214,47.44923,7.495142,47.482159",
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137115,
-        85682365
+        85682365,
+        1394137115
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2477",
+        "eurostat:nuts_2021_id":"CH2477",
         "gn:id":7286498,
         "qs_pg:id":671461
     },
@@ -124,7 +140,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"99a7973ae66f2718206c79d292fd0259",
+    "wof:geomhash":"b1095ace9778d129f7f2131f80bba16a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404328475,
-    "wof:lastmodified":1598920434,
+    "wof:lastmodified":1684351696,
     "wof:name":"Metzerlen-Mariastein",
     "wof:parent_id":1394137115,
     "wof:placetype":"localadmin",
+    "wof:population":933,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

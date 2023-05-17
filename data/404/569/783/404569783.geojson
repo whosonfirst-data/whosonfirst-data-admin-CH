@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2259",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Galmiz",
+    "eurostat:nuts_2021_id":"CH2259",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2259",
+    "eurostat:population":679,
+    "eurostat:population_year":2020,
     "geom:area":0.001174,
-    "geom:area_square_m":9910834.292126,
+    "geom:area_square_m":9910834.292128,
     "geom:bbox":"7.116371,46.940546,7.173725,46.977714",
     "geom:latitude":46.957916,
     "geom:longitude":7.144383,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062765,
-        85682301
+        85682301,
+        102062765
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2259",
+        "eurostat:nuts_2021_id":"CH2259",
         "gn:id":7285887,
         "gp:id":12683517,
         "qs_pg:id":671336
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9646454d5b849c06b922dd80fa61dfa2",
+    "wof:geomhash":"577e3467f93820a9ddb4a886c9f84e17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404569783,
-    "wof:lastmodified":1598919253,
+    "wof:lastmodified":1684351738,
     "wof:name":"Galmiz",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
+    "wof:population":679,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3237",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Thal",
+    "eurostat:nuts_2021_id":"CH3237",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3237",
+    "eurostat:population":6571,
+    "eurostat:population_year":2020,
     "geom:area":0.001156,
     "geom:area_square_m":9657996.022557,
     "geom:bbox":"9.529462,47.462734,9.583131,47.504194",
@@ -79,14 +91,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062855,
-        85682341
+        85682341,
+        102062855
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3237",
+        "eurostat:nuts_2021_id":"CH3237",
         "gn:id":7287296,
         "gp:id":12682785,
         "qs_pg:id":1040597
@@ -96,7 +112,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9b492fa82a1867fa028eadebc43c4667",
+    "wof:geomhash":"da2befa0c65eb75f89d0533cf41eea9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404569847,
-    "wof:lastmodified":1598919305,
+    "wof:lastmodified":1684351739,
     "wof:name":"Thal",
     "wof:parent_id":102062855,
     "wof:placetype":"localadmin",
+    "wof:population":6571,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

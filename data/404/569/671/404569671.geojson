@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0182",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wildberg",
+    "eurostat:nuts_2021_id":"CH0182",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0182",
+    "eurostat:population":1006,
+    "eurostat:population_year":2020,
     "geom:area":0.001259,
-    "geom:area_square_m":10536703.076488,
+    "geom:area_square_m":10536703.076486,
     "geom:bbox":"8.80294523207,47.39575789,8.85583246458,47.4405732891",
     "geom:latitude":47.417531,
     "geom:longitude":8.826194,
@@ -88,6 +100,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0182",
+        "eurostat:nuts_2021_id":"CH0182",
         "gn:id":7287576,
         "gp:id":12684506,
         "qs_pg:id":500421
@@ -105,7 +121,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9f21766f8772f8a2b88029db72d5fb99",
+    "wof:geomhash":"293eb1a0e790d61253bfa2eb0c77111a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404569671,
-    "wof:lastmodified":1582222962,
+    "wof:lastmodified":1684351736,
     "wof:name":"Wildberg",
     "wof:parent_id":102062779,
     "wof:placetype":"localadmin",
+    "wof:population":1006,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

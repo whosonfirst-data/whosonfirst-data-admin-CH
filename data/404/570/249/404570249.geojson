@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bremgarten (AG)",
+    "eurostat:nuts_2021_id":"CH4063",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4063",
+    "eurostat:population":7946,
+    "eurostat:population_year":2020,
     "geom:area":0.001352,
-    "geom:area_square_m":11329689.067608,
+    "geom:area_square_m":11329689.06761,
     "geom:bbox":"8.30093382645,47.3203412003,8.36371640711,47.3721963977",
     "geom:latitude":47.34666,
     "geom:longitude":8.333294,
@@ -100,6 +112,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -108,6 +122,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4063",
+        "eurostat:nuts_2021_id":"CH4063",
         "gn:id":7285324,
         "gp:id":12683040,
         "qs_pg:id":1115131
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fd150ff1938d8d793168b1b9ec020469",
+    "wof:geomhash":"b765943f59e4e3ca227c70120028bc7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404570249,
-    "wof:lastmodified":1582223107,
+    "wof:lastmodified":1684351744,
     "wof:name":"Bremgarten",
     "wof:parent_id":102062877,
     "wof:placetype":"localadmin",
+    "wof:population":7946,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

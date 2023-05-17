@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0983",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberbipp",
+    "eurostat:nuts_2021_id":"CH0983",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0983",
+    "eurostat:population":1767,
+    "eurostat:population_year":2020,
     "geom:area":0.001004,
-    "geom:area_square_m":8428532.759761,
+    "geom:area_square_m":8428532.759764,
     "geom:bbox":"7.644436,47.233498,7.716755,47.271812",
     "geom:latitude":47.254028,
     "geom:longitude":7.677559,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0983",
+        "eurostat:nuts_2021_id":"CH0983",
         "gn:id":7286674,
         "gp:id":12684112,
         "qs_pg:id":1154288
@@ -120,7 +136,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1789edc46af134189fe37abc59adcc7b",
+    "wof:geomhash":"d08562519521d7d51f7ccc893f22f9cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404570153,
-    "wof:lastmodified":1598920627,
+    "wof:lastmodified":1684351743,
     "wof:name":"Oberbipp",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":1767,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

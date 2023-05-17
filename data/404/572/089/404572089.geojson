@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0934",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberhofen am Thunersee",
+    "eurostat:nuts_2021_id":"CH0934",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0934",
+    "eurostat:population":2413,
+    "eurostat:population_year":2020,
     "geom:area":0.000319,
-    "geom:area_square_m":2704735.683842,
+    "geom:area_square_m":2704735.683844,
     "geom:bbox":"7.660678,46.716255,7.690491,46.744796",
     "geom:latitude":46.733752,
     "geom:longitude":7.677628,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0934",
+        "eurostat:nuts_2021_id":"CH0934",
         "gp:id":12684127,
         "qs_pg:id":218918
     },
@@ -140,7 +156,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"103faa7cb3bbf5d3827c41c2feb70c88",
+    "wof:geomhash":"ed3a62fca01227672e8abb4c4dfffa06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         }
     ],
     "wof:id":404572089,
-    "wof:lastmodified":1598919829,
+    "wof:lastmodified":1684351766,
     "wof:name":"Oberhofen am Thunersee",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":2413,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

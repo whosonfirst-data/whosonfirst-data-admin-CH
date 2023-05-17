@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villnachern",
+    "eurostat:nuts_2021_id":"CH4122",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4122",
+    "eurostat:population":1634,
+    "eurostat:population_year":2020,
     "geom:area":0.000686,
     "geom:area_square_m":5735540.386999,
     "geom:bbox":"8.134761,47.460076,8.193828,47.481441",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062993,
-        85682329
+        85682329,
+        102062993
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4122",
+        "eurostat:nuts_2021_id":"CH4122",
         "gn:id":7287480,
         "gp:id":20075547,
         "qs_pg:id":911123
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6a1473d2e387e1953116ff3242447743",
+    "wof:geomhash":"de09590c49ccfaa8c070ac8377ca1846",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570989,
-    "wof:lastmodified":1598920723,
+    "wof:lastmodified":1684351753,
     "wof:name":"Villnachern",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
+    "wof:population":1634,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

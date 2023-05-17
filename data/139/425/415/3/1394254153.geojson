@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5050",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serravalle",
+    "eurostat:nuts_2021_id":"CH5050",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5050",
+    "eurostat:population":2071,
+    "eurostat:population_year":2020,
     "geom:area":0.011329,
     "geom:area_square_m":96548687.636323,
     "geom:bbox":"8.91716998593,46.3751803255,9.10308965987,46.4927583302",
@@ -72,6 +84,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -79,8 +93,12 @@
         102063035
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5050",
+        "eurostat:nuts_2021_id":"CH5050"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"f2d39affe5af0017fdf8f79761d7ffe5",
+    "wof:geomhash":"8914a1e23ef76ab2d6131315d67c84fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +109,12 @@
         }
     ],
     "wof:id":1394254153,
-    "wof:lastmodified":1566640350,
+    "wof:lastmodified":1684351783,
     "wof:name":"Serravalle",
     "wof:parent_id":102063035,
     "wof:placetype":"localadmin",
+    "wof:population":2071,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

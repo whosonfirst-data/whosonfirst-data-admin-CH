@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2513",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Biberist",
+    "eurostat:nuts_2021_id":"CH2513",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2513",
+    "eurostat:population":8568,
+    "eurostat:population_year":2020,
     "geom:area":0.001454,
-    "geom:area_square_m":12216011.295361,
+    "geom:area_square_m":12216011.295362,
     "geom:bbox":"7.51043872118,47.1603639148,7.57827525083,47.2022645644",
     "geom:latitude":47.185041,
     "geom:longitude":7.547858,
@@ -102,6 +114,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2513",
+        "eurostat:nuts_2021_id":"CH2513",
         "gn:id":7285235,
         "gp:id":12682965,
         "qs_pg:id":221134
@@ -119,7 +135,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6261c440f856f4926a888e8bb06c453f",
+    "wof:geomhash":"79b9b50350a74f7ad11e20c524e1cede",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404328381,
-    "wof:lastmodified":1582223089,
+    "wof:lastmodified":1684351695,
     "wof:name":"Biberist",
     "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",
+    "wof:population":8568,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

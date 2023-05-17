@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Greppen",
+    "eurostat:nuts_2021_id":"CH1056",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1056",
+    "eurostat:population":1118,
+    "eurostat:population_year":2020,
     "geom:area":0.000621,
-    "geom:area_square_m":5233275.404665,
+    "geom:area_square_m":5233275.404666,
     "geom:bbox":"8.400471,47.047108,8.461833,47.065512",
     "geom:latitude":47.055804,
     "geom:longitude":8.432222,
@@ -114,14 +126,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137079,
-        85682319
+        85682319,
+        1394137079
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1056",
+        "eurostat:nuts_2021_id":"CH1056",
         "gn:id":7285977,
         "gp:id":12683600,
         "qs_pg:id":968211
@@ -134,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"80e83ee4aca6b2fb54d29658605ef9ee",
+    "wof:geomhash":"549f8e0998a4c83632ad2fdd9678a448",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404328671,
-    "wof:lastmodified":1598920433,
+    "wof:lastmodified":1684351699,
     "wof:name":"Greppen",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",
+    "wof:population":1118,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

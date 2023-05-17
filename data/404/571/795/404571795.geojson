@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0630",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Allmendingen",
+    "eurostat:nuts_2021_id":"CH0630",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0630",
+    "eurostat:population":590,
+    "eurostat:population_year":2020,
     "geom:area":0.00045,
     "geom:area_square_m":3800454.202779,
     "geom:bbox":"7.50358362548,46.9074242812,7.54078957835,46.9279636228",
@@ -64,6 +76,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0630",
+        "eurostat:nuts_2021_id":"CH0630",
         "gn:id":7285051,
         "gp:id":12684479,
         "qs_pg:id":671152
@@ -84,7 +100,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1683ccfe6758aa7db3deff93c6f27cc0",
+    "wof:geomhash":"e4ed5464ebdb056454d4698bc5e176f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404571795,
-    "wof:lastmodified":1582223059,
+    "wof:lastmodified":1684351763,
     "wof:name":"Allmendingen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":590,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

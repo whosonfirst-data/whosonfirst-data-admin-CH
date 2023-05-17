@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2220",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Le Mouret",
+    "eurostat:nuts_2021_id":"CH2220",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2220",
+    "eurostat:population":3154,
+    "eurostat:population_year":2020,
     "geom:area":0.002184,
-    "geom:area_square_m":18512551.244315,
+    "geom:area_square_m":18512551.244314,
     "geom:bbox":"7.149106,46.700743,7.220328,46.7597",
     "geom:latitude":46.731774,
     "geom:longitude":7.187486,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063029,
-        85682301
+        85682301,
+        102063029
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2220",
+        "eurostat:nuts_2021_id":"CH2220",
         "gn:id":7286311,
         "gp:id":24544637,
         "qs_pg:id":1164983
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8fa9849c95c0aa4d8048214308e55283",
+    "wof:geomhash":"b2ac3815c446a4651d3278a3f47c597b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404568671,
-    "wof:lastmodified":1598919665,
+    "wof:lastmodified":1684351723,
     "wof:name":"Le Mouret",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":3154,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

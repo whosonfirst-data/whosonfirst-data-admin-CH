@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3426",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zuzwil (SG)",
+    "eurostat:nuts_2021_id":"CH3426",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3426",
+    "eurostat:population":4785,
+    "eurostat:population_year":2020,
     "geom:area":0.00107,
-    "geom:area_square_m":8941907.913126,
+    "geom:area_square_m":8941907.913127,
     "geom:bbox":"9.064112,47.457653,9.135161,47.485606",
     "geom:latitude":47.471271,
     "geom:longitude":9.10216,
@@ -79,14 +91,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062947,
-        85682341
+        85682341,
+        102062947
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3426",
+        "eurostat:nuts_2021_id":"CH3426",
         "gn:id":7287653,
         "gp:id":12684675,
         "qs_pg:id":1001241
@@ -96,7 +112,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"75fadeb48866239b14bbc8c63244977e",
+    "wof:geomhash":"abeface5f5ac86f2489728dc8924a2d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404570019,
-    "wof:lastmodified":1598920679,
+    "wof:lastmodified":1684351741,
     "wof:name":"Zuzwil",
     "wof:parent_id":102062947,
     "wof:placetype":"localadmin",
+    "wof:population":4785,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

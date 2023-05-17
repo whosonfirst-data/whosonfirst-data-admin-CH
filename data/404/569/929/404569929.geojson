@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4047",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"W\u00fcrenlingen",
+    "eurostat:nuts_2021_id":"CH4047",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4047",
+    "eurostat:population":4702,
+    "eurostat:population_year":2020,
     "geom:area":0.00112,
-    "geom:area_square_m":9346820.19077,
+    "geom:area_square_m":9346820.190769,
     "geom:bbox":"8.225138,47.513703,8.282233,47.547933",
     "geom:latitude":47.532114,
     "geom:longitude":8.249236,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062843,
-        85682329
+        85682329,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4047",
+        "eurostat:nuts_2021_id":"CH4047",
         "gn:id":7287614,
         "gp:id":12682961,
         "qs_pg:id":1314174
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4292750ceddc2441defe9d446ca5fa6c",
+    "wof:geomhash":"fa9bf9678bf9b22e8400c5e29edb8d77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404569929,
-    "wof:lastmodified":1598919347,
+    "wof:lastmodified":1684351740,
     "wof:name":"W\u00fcrenlingen",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
+    "wof:population":4702,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Honau",
+    "eurostat:nuts_2021_id":"CH1057",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1057",
+    "eurostat:population":395,
+    "eurostat:population_year":2020,
     "geom:area":0.000148,
-    "geom:area_square_m":1242465.29939,
+    "geom:area_square_m":1242465.299391,
     "geom:bbox":"8.3995231842,47.12441478,8.41675948915,47.1405662614",
     "geom:latitude":47.132754,
     "geom:longitude":8.40928,
@@ -48,6 +60,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1057",
+        "eurostat:nuts_2021_id":"CH1057",
         "gp:id":20075434,
         "qs_pg:id":1252372
     },
@@ -67,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a201af6e942785187c8ea253c903634c",
+    "wof:geomhash":"0ad84e9eecbc15fb31df1bb16ebbee18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +94,12 @@
         }
     ],
     "wof:id":404328905,
-    "wof:lastmodified":1582223082,
+    "wof:lastmodified":1684351701,
     "wof:name":"Honau",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",
+    "wof:population":395,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

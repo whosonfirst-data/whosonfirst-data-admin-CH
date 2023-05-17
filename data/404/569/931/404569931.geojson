@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5422",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aubonne",
+    "eurostat:nuts_2021_id":"CH5422",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5422",
+    "eurostat:population":3241,
+    "eurostat:population_year":2020,
     "geom:area":0.001099,
-    "geom:area_square_m":9355027.186113,
+    "geom:area_square_m":9355027.186111,
     "geom:bbox":"6.327358,46.474597,6.406533,46.510474",
     "geom:latitude":46.491222,
     "geom:longitude":6.374993,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5422",
+        "eurostat:nuts_2021_id":"CH5422",
         "gn:id":7285114,
         "gp:id":12682849,
         "qs_pg:id":77252
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fd3c8bcea688c635f72fd378585be58b",
+    "wof:geomhash":"047470dcc120b8f580870a77c22cf18e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404569931,
-    "wof:lastmodified":1598919147,
+    "wof:lastmodified":1684351740,
     "wof:name":"Aubonne",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":3241,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

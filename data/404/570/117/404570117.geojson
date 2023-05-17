@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0136",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Langnau am Albis",
+    "eurostat:nuts_2021_id":"CH0136",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0136",
+    "eurostat:population":7547,
+    "eurostat:population_year":2020,
     "geom:area":0.00103,
-    "geom:area_square_m":8642184.560599,
+    "geom:area_square_m":8642184.560598,
     "geom:bbox":"8.503874,47.260302,8.552226,47.300546",
     "geom:latitude":47.279707,
     "geom:longitude":8.530074,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062825,
-        85682309
+        85682309,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0136",
+        "eurostat:nuts_2021_id":"CH0136",
         "gn:id":7286260,
         "gp:id":12683833,
         "qs_pg:id":1197171
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a390ea94750ea7d12ccb4b6b16c22bbd",
+    "wof:geomhash":"e13000fa3aec1cd697afa9a36f0cc2fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404570117,
-    "wof:lastmodified":1598920626,
+    "wof:lastmodified":1684351742,
     "wof:name":"Langnau am Albis",
     "wof:parent_id":102062825,
     "wof:placetype":"localadmin",
+    "wof:population":7547,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

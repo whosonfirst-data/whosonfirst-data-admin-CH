@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grossdietwil",
+    "eurostat:nuts_2021_id":"CH1131",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1131",
+    "eurostat:population":858,
+    "eurostat:population_year":2020,
     "geom:area":0.00121,
     "geom:area_square_m":10171087.463687,
     "geom:bbox":"7.875378,47.147312,7.933591,47.20286",
@@ -110,19 +122,24 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137075,
-        85682319
+        85682319,
+        1394137075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH1131",
+        "eurostat:nuts_2021_id":"CH1131"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9706340caa6dd3b1c52d0f0a0d00bb11",
+    "wof:geomhash":"292d054ccfb57a8ab163d9fc86c01938",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +150,12 @@
         }
     ],
     "wof:id":404328783,
-    "wof:lastmodified":1598920377,
+    "wof:lastmodified":1684351700,
     "wof:name":"Grossdietwil",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",
+    "wof:population":858,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4049",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ehrendingen",
+    "eurostat:nuts_2021_id":"CH4049",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4049",
+    "eurostat:population":4823,
+    "eurostat:population_year":2020,
     "geom:area":0.00087,
-    "geom:area_square_m":7271414.956174,
+    "geom:area_square_m":7271414.956173,
     "geom:bbox":"8.325616,47.478608,8.363263,47.512256",
     "geom:latitude":47.494312,
     "geom:longitude":8.346802,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062843,
-        85682329
+        85682329,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4049",
+        "eurostat:nuts_2021_id":"CH4049",
         "gn:id":7285711,
         "gp:id":28997185,
         "qs_pg:id":906202
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"821ad07d7db11055fd02cd2806dd8883",
+    "wof:geomhash":"4e6eb169b035645986a86ddedacfcac4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404570491,
-    "wof:lastmodified":1598920593,
+    "wof:lastmodified":1684351747,
     "wof:name":"Ehrendingen",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
+    "wof:population":4823,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

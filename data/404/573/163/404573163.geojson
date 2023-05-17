@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borex",
+    "eurostat:nuts_2021_id":"CH5706",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5706",
+    "eurostat:population":1132,
+    "eurostat:population_year":2020,
     "geom:area":0.000232,
     "geom:area_square_m":1980126.376977,
     "geom:bbox":"6.166986,46.370814,6.192511,46.389962",
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5706",
+        "eurostat:nuts_2021_id":"CH5706",
         "gn:id":7285296,
         "gp:id":12683013,
         "qs_pg:id":1169857
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9954e24052748ff9246f5dc8f81feaa4",
+    "wof:geomhash":"43c34eb7ece406f1a1677291a5682c22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404573163,
-    "wof:lastmodified":1598919951,
+    "wof:lastmodified":1684351771,
     "wof:name":"Borex",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":1132,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

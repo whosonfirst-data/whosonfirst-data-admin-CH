@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wolhusen",
+    "eurostat:nuts_2021_id":"CH1107",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1107",
+    "eurostat:population":4340,
+    "eurostat:population_year":2020,
     "geom:area":0.001692,
-    "geom:area_square_m":14255317.391913,
+    "geom:area_square_m":14255317.391915,
     "geom:bbox":"8.015784,47.028788,8.089969,47.082253",
     "geom:latitude":47.053198,
     "geom:longitude":8.056627,
@@ -116,6 +128,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -123,12 +137,15 @@
         1394137073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH1107",
+        "eurostat:nuts_2021_id":"CH1107"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b696ec07d37e69ec30a17faa576302a0",
+    "wof:geomhash":"ad4f605e92e28dd10dd7715551844b92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +156,12 @@
         }
     ],
     "wof:id":404328347,
-    "wof:lastmodified":1617131304,
+    "wof:lastmodified":1684351694,
     "wof:name":"Wolhusen",
     "wof:parent_id":1394137073,
     "wof:placetype":"localadmin",
+    "wof:population":4340,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

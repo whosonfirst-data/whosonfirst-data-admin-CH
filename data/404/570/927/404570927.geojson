@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0363",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ostermundigen",
+    "eurostat:nuts_2021_id":"CH0363",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0363",
+    "eurostat:population":17751,
+    "eurostat:population_year":2020,
     "geom:area":0.000705,
-    "geom:area_square_m":5947337.617532,
+    "geom:area_square_m":5947337.617531,
     "geom:bbox":"7.476902,46.940274,7.513254,46.971623",
     "geom:latitude":46.955882,
     "geom:longitude":7.495533,
@@ -133,14 +145,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0363",
+        "eurostat:nuts_2021_id":"CH0363",
         "gn:id":7286761,
         "qs_pg:id":1040554
     },
@@ -152,7 +168,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ee042dc8286fcfee4edb42cd74315532",
+    "wof:geomhash":"242b081d792bca896e63d99c277ac2c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +179,12 @@
         }
     ],
     "wof:id":404570927,
-    "wof:lastmodified":1598920715,
+    "wof:lastmodified":1684351752,
     "wof:name":"Ostermundigen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":17751,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

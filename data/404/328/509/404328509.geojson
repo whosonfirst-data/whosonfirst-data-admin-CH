@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2500",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trimbach",
+    "eurostat:nuts_2021_id":"CH2500",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2500",
+    "eurostat:population":6552,
+    "eurostat:population_year":2020,
     "geom:area":0.000904,
-    "geom:area_square_m":7574572.717033,
+    "geom:area_square_m":7574572.717031,
     "geom:bbox":"7.855771,47.356347,7.918652,47.385168",
     "geom:latitude":47.369734,
     "geom:longitude":7.889509,
@@ -69,14 +81,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137093,
-        85682365
+        85682365,
+        1394137093
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2500",
+        "eurostat:nuts_2021_id":"CH2500",
         "gn:id":7287333,
         "gp:id":12684518,
         "qs_pg:id":77667
@@ -89,7 +105,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cbe33a66ec53a1689e44b1dfde83270e",
+    "wof:geomhash":"ace7053cd4be848119b895cd153991ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":404328509,
-    "wof:lastmodified":1598920410,
+    "wof:lastmodified":1684351697,
     "wof:name":"Trimbach",
     "wof:parent_id":1394137093,
     "wof:placetype":"localadmin",
+    "wof:population":6552,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2475",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hochwald",
+    "eurostat:nuts_2021_id":"CH2475",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2475",
+    "eurostat:population":1310,
+    "eurostat:population_year":2020,
     "geom:area":0.000996,
     "geom:area_square_m":8324180.945177,
     "geom:bbox":"7.615262,47.437569,7.670913,47.47023",
@@ -60,14 +72,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137115,
-        85682365
+        85682365,
+        1394137115
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2475",
+        "eurostat:nuts_2021_id":"CH2475",
         "gn:id":7286094,
         "gp:id":12683694,
         "qs_pg:id":1188053
@@ -80,7 +96,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"891038b67dedd38611aee373f5c3002a",
+    "wof:geomhash":"b8ca9ff1398f0759c7cb089ef7309466",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +107,12 @@
         }
     ],
     "wof:id":404328477,
-    "wof:lastmodified":1598920299,
+    "wof:lastmodified":1684351696,
     "wof:name":"Hochwald",
     "wof:parent_id":1394137115,
     "wof:placetype":"localadmin",
+    "wof:population":1310,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

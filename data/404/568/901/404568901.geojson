@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gryon",
+    "eurostat:nuts_2021_id":"CH5405",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5405",
+    "eurostat:population":1332,
+    "eurostat:population_year":2020,
     "geom:area":0.001776,
     "geom:area_square_m":15177876.511814,
     "geom:bbox":"7.052411,46.266058,7.151396,46.310349",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062783,
-        85682325
+        85682325,
+        102062783
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5405",
+        "eurostat:nuts_2021_id":"CH5405",
         "gn:id":7285997,
         "gp:id":12682832,
         "qs_pg:id":190974
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"13d575d102fd2efcb55dcb7fd7eb20c3",
+    "wof:geomhash":"41feac1f9327767f4478e0c22d347fa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404568901,
-    "wof:lastmodified":1598919479,
+    "wof:lastmodified":1684351727,
     "wof:name":"Gryon",
     "wof:parent_id":102062783,
     "wof:placetype":"localadmin",
+    "wof:population":1332,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

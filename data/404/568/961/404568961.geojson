@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4170",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laufenburg",
+    "eurostat:nuts_2021_id":"CH4170",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4170",
+    "eurostat:population":3632,
+    "eurostat:population_year":2020,
     "geom:area":0.001729,
-    "geom:area_square_m":14428499.736374,
+    "geom:area_square_m":14428499.736372,
     "geom:bbox":"8.04603752692,47.5173296945,8.12199809373,47.564509845",
     "geom:latitude":47.541627,
     "geom:longitude":8.090187,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -120,6 +134,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4170",
+        "eurostat:nuts_2021_id":"CH4170",
         "gn:id":7286278,
         "gp:id":12683839,
         "qs_pg:id":1197243
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"473e229c6d47a23843c274d238bbbde8",
+    "wof:geomhash":"2fb061cb959e565535276ffd557dac04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404568961,
-    "wof:lastmodified":1582223007,
+    "wof:lastmodified":1684351728,
     "wof:name":"Laufenburg",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",
+    "wof:population":3632,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

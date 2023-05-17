@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0943",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uebeschi",
+    "eurostat:nuts_2021_id":"CH0943",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0943",
+    "eurostat:population":673,
+    "eurostat:population_year":2020,
     "geom:area":0.00052,
-    "geom:area_square_m":4407619.313567,
+    "geom:area_square_m":4407619.313568,
     "geom:bbox":"7.529043,46.727209,7.568555,46.752619",
     "geom:latitude":46.739454,
     "geom:longitude":7.547274,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0943",
+        "eurostat:nuts_2021_id":"CH0943",
         "gn:id":7287359,
         "gp:id":12685024,
         "qs_pg:id":44071
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ecd67fcc10658c2234c45ab0eb0dcbfa",
+    "wof:geomhash":"332c6b6c661fbee6700dea4b122e884b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404571497,
-    "wof:lastmodified":1598920072,
+    "wof:lastmodified":1684351759,
     "wof:name":"Uebeschi",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":673,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

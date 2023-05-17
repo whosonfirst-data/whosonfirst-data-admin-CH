@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2185",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corserey",
+    "eurostat:nuts_2021_id":"CH2185",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2185",
+    "eurostat:population":419,
+    "eurostat:population_year":2020,
     "geom:area":0.000404,
-    "geom:area_square_m":3420585.008096,
+    "geom:area_square_m":3420585.008097,
     "geom:bbox":"6.974122,46.758156,7.003057,46.784379",
     "geom:latitude":46.771852,
     "geom:longitude":6.989034,
@@ -102,14 +114,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063029,
-        85682301
+        85682301,
+        102063029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2185",
+        "eurostat:nuts_2021_id":"CH2185"
+    },
     "wof:coterminous":[
         1125915231
     ],
@@ -117,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"317f22d37ba12e83cfff8d84f0af1cee",
+    "wof:geomhash":"e280f3f3402333c7d6dca21b43ee4582",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404571949,
-    "wof:lastmodified":1598920114,
+    "wof:lastmodified":1684351765,
     "wof:name":"Corserey",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":419,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

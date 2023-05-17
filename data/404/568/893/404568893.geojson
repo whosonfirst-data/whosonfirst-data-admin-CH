@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villorsonnens",
+    "eurostat:nuts_2021_id":"CH2114",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2114",
+    "eurostat:population":1441,
+    "eurostat:population_year":2020,
     "geom:area":0.001821,
-    "geom:area_square_m":15439542.013021,
+    "geom:area_square_m":15439542.013019,
     "geom:bbox":"6.968454,46.6774,7.040687,46.737197",
     "geom:latitude":46.707354,
     "geom:longitude":7.000179,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062867,
-        85682301
+        85682301,
+        102062867
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2114",
+        "eurostat:nuts_2021_id":"CH2114",
         "gp:id":12684578,
         "qs_pg:id":259426
     },
@@ -119,7 +135,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d0f422c955df1fe2d5f08b7a018c660d",
+    "wof:geomhash":"a1ef383c19d99a5a36a4610ac2c48724",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404568893,
-    "wof:lastmodified":1598919560,
+    "wof:lastmodified":1684351727,
     "wof:name":"Villorsonnens",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",
+    "wof:population":1441,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

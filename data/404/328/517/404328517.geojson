@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6617",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cologny",
+    "eurostat:nuts_2021_id":"CH6617",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6617",
+    "eurostat:population":5574,
+    "eurostat:population_year":2020,
     "geom:area":0.000867,
-    "geom:area_square_m":7412971.24104,
+    "geom:area_square_m":7412971.241038,
     "geom:bbox":"6.161908,46.20133,6.201753,46.241235",
     "geom:latitude":46.222818,
     "geom:longitude":6.180849,
@@ -119,14 +131,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6617",
+        "eurostat:nuts_2021_id":"CH6617",
         "gn:id":2661145,
         "gp:id":12683216,
         "qs_pg:id":1060885
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f76a3a8a64a4bca028b08071e1193f31",
+    "wof:geomhash":"34265aa229e2075c011db57d09208cb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404328517,
-    "wof:lastmodified":1598920353,
+    "wof:lastmodified":1684351697,
     "wof:name":"Cologny",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":5574,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2230",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarsel-sur-Marly",
+    "eurostat:nuts_2021_id":"CH2230",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2230",
+    "eurostat:population":84,
+    "eurostat:population_year":2020,
     "geom:area":0.000164,
     "geom:area_square_m":1390709.972193,
     "geom:bbox":"7.161735,46.755524,7.191362,46.76724",
@@ -102,14 +114,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063029,
-        85682301
+        85682301,
+        102063029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2230",
+        "eurostat:nuts_2021_id":"CH2230"
+    },
     "wof:coterminous":[
         1343398047
     ],
@@ -117,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b4386504ae68ae6e961913fbceb0f5a",
+    "wof:geomhash":"c790ce699ce7c200223cf98ba630154f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404573351,
-    "wof:lastmodified":1598919951,
+    "wof:lastmodified":1684351773,
     "wof:name":"Villarsel-sur-Marly",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":84,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0632",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wichtrach",
+    "eurostat:nuts_2021_id":"CH0632",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0632",
+    "eurostat:population":4293,
+    "eurostat:population_year":2020,
     "geom:area":0.001368,
-    "geom:area_square_m":11570793.863024,
+    "geom:area_square_m":11570793.863025,
     "geom:bbox":"7.555006,46.824854,7.608714,46.862807",
     "geom:latitude":46.845305,
     "geom:longitude":7.579449,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0632",
+        "eurostat:nuts_2021_id":"CH0632",
         "gn:id":7287565,
         "gp:id":28997167,
         "qs_pg:id":1112773
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"96e186596c01a94375de4310bb73da58",
+    "wof:geomhash":"46aa15898dd1794786b63b56997615a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404569411,
-    "wof:lastmodified":1598919302,
+    "wof:lastmodified":1684351734,
     "wof:name":"Wichtrach",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":4293,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

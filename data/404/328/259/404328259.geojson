@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2974",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wilchingen",
+    "eurostat:nuts_2021_id":"CH2974",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2974",
+    "eurostat:population":1737,
+    "eurostat:population_year":2020,
     "geom:area":0.002527,
-    "geom:area_square_m":21040352.195702,
+    "geom:area_square_m":21040352.195699,
     "geom:bbox":"8.420709,47.638406,8.534608,47.688347",
     "geom:latitude":47.663222,
     "geom:longitude":8.477913,
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137101,
-        85682285
+        85682285,
+        1394137101
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2974",
+        "eurostat:nuts_2021_id":"CH2974",
         "gn:id":7287575,
         "gp:id":12684634,
         "qs_pg:id":961868
@@ -125,7 +141,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4cc6b49e583ba34243fa916c949d62ba",
+    "wof:geomhash":"07b3718b672ff72dc42feb4a8619edb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404328259,
-    "wof:lastmodified":1598920321,
+    "wof:lastmodified":1684351693,
     "wof:name":"Wilchingen",
     "wof:parent_id":1394137101,
     "wof:placetype":"localadmin",
+    "wof:population":1737,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6158",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vionnaz",
+    "eurostat:nuts_2021_id":"CH6158",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6158",
+    "eurostat:population":2728,
+    "eurostat:population_year":2020,
     "geom:area":0.002446,
     "geom:area_square_m":20896877.863317,
     "geom:bbox":"6.819818,46.288079,6.919768,46.325545",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063065,
-        85682281
+        85682281,
+        102063065
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6158",
+        "eurostat:nuts_2021_id":"CH6158",
         "gn:id":7287485,
         "gp:id":12684587,
         "qs_pg:id":1154336
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"806f5410f38f610b6e6bc021832a4c85",
+    "wof:geomhash":"26cbc9710b61379d385d7cfea56c9b37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404568565,
-    "wof:lastmodified":1598919646,
+    "wof:lastmodified":1684351721,
     "wof:name":"Vionnaz",
     "wof:parent_id":102063065,
     "wof:placetype":"localadmin",
+    "wof:population":2728,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

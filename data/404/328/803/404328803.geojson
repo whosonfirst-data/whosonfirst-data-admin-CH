@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2456",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"L\u00fcterswil-G\u00e4chliwil",
+    "eurostat:nuts_2021_id":"CH2456",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2456",
+    "eurostat:population":322,
+    "eurostat:population_year":2020,
     "geom:area":0.000363,
-    "geom:area_square_m":3050569.664494,
+    "geom:area_square_m":3050569.664495,
     "geom:bbox":"7.42755,47.108943,7.456646,47.133999",
     "geom:latitude":47.12117,
     "geom:longitude":7.44239,
@@ -105,14 +117,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137095,
-        85682365
+        85682365,
+        1394137095
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2456",
+        "eurostat:nuts_2021_id":"CH2456",
         "gn:id":7286400,
         "gp:id":12684925,
         "qs_pg:id":992549
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c0571b0edab37ab6e18d43dd6225445b",
+    "wof:geomhash":"717f9a74dc60fd26c96f52a7a3fe332c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404328803,
-    "wof:lastmodified":1598920329,
+    "wof:lastmodified":1684351700,
     "wof:name":"L\u00fcterswil-G\u00e4chliwil",
     "wof:parent_id":1394137095,
     "wof:placetype":"localadmin",
+    "wof:population":322,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

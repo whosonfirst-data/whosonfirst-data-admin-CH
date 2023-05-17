@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Perrefitte",
+    "eurostat:nuts_2021_id":"CH0701",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0701",
+    "eurostat:population":463,
+    "eurostat:population_year":2020,
     "geom:area":0.001019,
-    "geom:area_square_m":8545998.033113,
+    "geom:area_square_m":8545998.033112,
     "geom:bbox":"7.27994,47.26805,7.354266,47.288879",
     "geom:latitude":47.278074,
     "geom:longitude":7.319022,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062865,
-        85682381
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0701",
+        "eurostat:nuts_2021_id":"CH0701",
         "gn:id":7286781,
         "gp:id":12684192,
         "qs_pg:id":1015657
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1f3f3d7311ec660f81c05c6b52904f95",
+    "wof:geomhash":"ac6a050a07e262695709dc551145f4e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404570135,
-    "wof:lastmodified":1598920511,
+    "wof:lastmodified":1684351743,
     "wof:name":"Perrefitte",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":463,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vuisternens-devant-Romont",
+    "eurostat:nuts_2021_id":"CH2113",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2113",
+    "eurostat:population":2324,
+    "eurostat:population_year":2020,
     "geom:area":0.002822,
-    "geom:area_square_m":23956553.166956,
+    "geom:area_square_m":23956553.166969,
     "geom:bbox":"6.887707,46.613877,6.991835,46.694117",
     "geom:latitude":46.646141,
     "geom:longitude":6.934,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062867,
-        85682301
+        85682301,
+        102062867
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2113",
+        "eurostat:nuts_2021_id":"CH2113",
         "gp:id":20075474,
         "qs_pg:id":1312923
     },
@@ -116,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"adde189ff5df1b1c7005bbb7f131a880",
+    "wof:geomhash":"39a9ba13c4503ce69f84bf57d7a30142",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404568435,
-    "wof:lastmodified":1598919715,
+    "wof:lastmodified":1684351718,
     "wof:name":"Vuisternens-devant-Romont",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",
+    "wof:population":2324,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

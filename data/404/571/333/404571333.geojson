@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3582",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schluein",
+    "eurostat:nuts_2021_id":"CH3582",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3582",
+    "eurostat:population":648,
+    "eurostat:population_year":2020,
     "geom:area":0.000564,
-    "geom:area_square_m":4773926.758023,
+    "geom:area_square_m":4773926.758024,
     "geom:bbox":"9.204808,46.776713,9.243934,46.80914",
     "geom:latitude":46.788854,
     "geom:longitude":9.222408,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062773,
-        85682255
+        85682255,
+        102062773
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3582",
+        "eurostat:nuts_2021_id":"CH3582",
         "gn:id":7287097,
         "gp:id":12684366,
         "qs_pg:id":1170007
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c5f0c862b740e244232a5c6461c5c0df",
+    "wof:geomhash":"b5720b1989d877719702ec80f73acf92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404571333,
-    "wof:lastmodified":1598920153,
+    "wof:lastmodified":1684351757,
     "wof:name":"Schluein",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
+    "wof:population":648,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

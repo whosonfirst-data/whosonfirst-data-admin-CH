@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sempach",
+    "eurostat:nuts_2021_id":"CH1102",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1102",
+    "eurostat:population":4169,
+    "eurostat:population_year":2020,
     "geom:area":0.001384,
-    "geom:area_square_m":11644917.710709,
+    "geom:area_square_m":11644917.710711,
     "geom:bbox":"8.16475,47.118994,8.217436,47.1616",
     "geom:latitude":47.138302,
     "geom:longitude":8.194418,
@@ -129,14 +141,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137077,
-        85682319
+        85682319,
+        1394137077
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1102",
+        "eurostat:nuts_2021_id":"CH1102",
         "gn:id":7287148,
         "gp:id":12684398,
         "qs_pg:id":500396
@@ -149,7 +165,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2f6948a242df69172ceaa26dfd082c89",
+    "wof:geomhash":"3e156db16e6443b0493d0c6ab1d43045",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +176,12 @@
         }
     ],
     "wof:id":404328399,
-    "wof:lastmodified":1598920274,
+    "wof:lastmodified":1684351695,
     "wof:name":"Sempach",
     "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",
+    "wof:population":4169,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

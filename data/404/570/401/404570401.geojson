@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agarn",
+    "eurostat:nuts_2021_id":"CH6101",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6101",
+    "eurostat:population":718,
+    "eurostat:population_year":2020,
     "geom:area":0.000892,
-    "geom:area_square_m":7626651.814006,
+    "geom:area_square_m":7626651.814009,
     "geom:bbox":"7.642823,46.239023,7.685608,46.304838",
     "geom:latitude":46.271017,
     "geom:longitude":7.663276,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062761,
-        85682281
+        85682281,
+        102062761
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6101",
+        "eurostat:nuts_2021_id":"CH6101",
         "gn:id":7285039,
         "gp:id":12682731,
         "qs_pg:id":994657
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"89c47d02db16fdf9adefea386f363689",
+    "wof:geomhash":"e5f4ee470ea09b7abac4d954150c4a6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404570401,
-    "wof:lastmodified":1598920569,
+    "wof:lastmodified":1684351746,
     "wof:name":"Agarn",
     "wof:parent_id":102062761,
     "wof:placetype":"localadmin",
+    "wof:population":718,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5922",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montagny-pr\u00e8s-Yverdon",
+    "eurostat:nuts_2021_id":"CH5922",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5922",
+    "eurostat:population":737,
+    "eurostat:population_year":2020,
     "geom:area":0.000415,
     "geom:area_square_m":3509203.868161,
     "geom:bbox":"6.590721,46.78068,6.636209,46.798211",
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5922",
+        "eurostat:nuts_2021_id":"CH5922",
         "gp:id":12684001,
         "qs_pg:id":61936
     },
@@ -113,7 +129,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ca42f21d4cf1f8066e38190912a14474",
+    "wof:geomhash":"650314ff92bf22daa305f6b7edd92382",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":404571909,
-    "wof:lastmodified":1598919996,
+    "wof:lastmodified":1684351764,
     "wof:name":"Montagny-pr\u00e8s-Yverdon",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":737,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

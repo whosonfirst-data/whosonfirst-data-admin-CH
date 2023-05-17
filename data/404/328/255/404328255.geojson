@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2952",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schleitheim",
+    "eurostat:nuts_2021_id":"CH2952",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2952",
+    "eurostat:population":1681,
+    "eurostat:population_year":2020,
     "geom:area":0.002594,
     "geom:area_square_m":21564589.82989,
     "geom:bbox":"8.449786,47.725813,8.548813,47.776199",
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137105,
-        85682285
+        85682285,
+        1394137105
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2952",
+        "eurostat:nuts_2021_id":"CH2952",
         "gn:id":7287092,
         "gp:id":12684365,
         "qs_pg:id":500395
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"228b6f5cc31c00570264a4f7323e9d56",
+    "wof:geomhash":"a3c7e783792434bfb5cbb7b98e96e1d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328255,
-    "wof:lastmodified":1598920477,
+    "wof:lastmodified":1684351692,
     "wof:name":"Schleitheim",
     "wof:parent_id":1394137105,
     "wof:placetype":"localadmin",
+    "wof:population":1681,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

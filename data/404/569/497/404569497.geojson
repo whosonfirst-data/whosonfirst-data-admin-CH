@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wittnau",
+    "eurostat:nuts_2021_id":"CH4181",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4181",
+    "eurostat:population":1309,
+    "eurostat:population_year":2020,
     "geom:area":0.001342,
-    "geom:area_square_m":11214607.698987,
+    "geom:area_square_m":11214607.698988,
     "geom:bbox":"7.94002831262,47.4547907992,7.99632771306,47.4940621694",
     "geom:latitude":47.477095,
     "geom:longitude":7.96609,
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4181",
+        "eurostat:nuts_2021_id":"CH4181",
         "gn:id":7287599,
         "gp:id":12684642,
         "qs_pg:id":239625
@@ -60,7 +76,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b67446dc90dc5282ec4c1148155b5a61",
+    "wof:geomhash":"fc45ee3f15b23107f31ff2094e59e912",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +87,12 @@
         }
     ],
     "wof:id":404569497,
-    "wof:lastmodified":1582222953,
+    "wof:lastmodified":1684351735,
     "wof:name":"Wittnau",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",
+    "wof:population":1309,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

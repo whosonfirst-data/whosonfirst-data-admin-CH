@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0711",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sorvilier",
+    "eurostat:nuts_2021_id":"CH0711",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0711",
+    "eurostat:population":283,
+    "eurostat:population_year":2020,
     "geom:area":0.00082,
-    "geom:area_square_m":6884241.660646,
+    "geom:area_square_m":6884241.660648,
     "geom:bbox":"7.290687,47.215294,7.327452,47.251648",
     "geom:latitude":47.231466,
     "geom:longitude":7.307617,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062865,
-        85682381
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0711",
+        "eurostat:nuts_2021_id":"CH0711",
         "gp:id":12684872,
         "qs_pg:id":235878
     },
@@ -125,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9c74d4cfdd0288269023f46879914f5e",
+    "wof:geomhash":"0d22c1392720070cacefb14a42cbe5a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404570625,
-    "wof:lastmodified":1598920661,
+    "wof:lastmodified":1684351748,
     "wof:name":"Sorvilier",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":283,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

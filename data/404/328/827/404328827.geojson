@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2571",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boningen",
+    "eurostat:nuts_2021_id":"CH2571",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2571",
+    "eurostat:population":772,
+    "eurostat:population_year":2020,
     "geom:area":0.000328,
-    "geom:area_square_m":2749456.956094,
+    "geom:area_square_m":2749456.956093,
     "geom:bbox":"7.84057,47.288372,7.880742,47.313823",
     "geom:latitude":47.303493,
     "geom:longitude":7.854275,
@@ -111,14 +123,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137091,
-        85682365
+        85682365,
+        1394137091
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2571",
+        "eurostat:nuts_2021_id":"CH2571",
         "gn:id":7285291,
         "gp:id":12685228,
         "qs_pg:id":44124
@@ -131,7 +147,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0bf42cbf92c11d63458989e0aaccd8b4",
+    "wof:geomhash":"5a815c38a8777627d9ede570e280c9ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404328827,
-    "wof:lastmodified":1598920283,
+    "wof:lastmodified":1684351701,
     "wof:name":"Boningen",
     "wof:parent_id":1394137091,
     "wof:placetype":"localadmin",
+    "wof:population":772,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

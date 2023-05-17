@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Antoni",
+    "eurostat:nuts_2021_id":"CH2302",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2302",
+    "eurostat:population":2076,
+    "eurostat:population_year":2020,
     "geom:area":0.001979,
-    "geom:area_square_m":16746041.65872,
+    "geom:area_square_m":16746041.658723,
     "geom:bbox":"7.251175,46.793683,7.320947,46.855679",
     "geom:latitude":46.8186,
     "geom:longitude":7.282481,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062891,
-        85682301
+        85682301,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2302",
+        "eurostat:nuts_2021_id":"CH2302",
         "gn:id":7287219,
         "gp:id":12684339,
         "qs_pg:id":77594
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4ad360c7cc8a54f4d1deafa614e83390",
+    "wof:geomhash":"bb18e27789b88c51abecc6bf4895002b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404568789,
-    "wof:lastmodified":1598919748,
+    "wof:lastmodified":1684351725,
     "wof:name":"St. Antoni",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",
+    "wof:population":2076,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

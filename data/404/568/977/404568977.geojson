@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Port-Valais",
+    "eurostat:nuts_2021_id":"CH6154",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6154",
+    "eurostat:population":4108,
+    "eurostat:population_year":2020,
     "geom:area":0.001762,
-    "geom:area_square_m":15033155.403752,
+    "geom:area_square_m":15033155.403753,
     "geom:bbox":"6.821688,46.349252,6.886935,46.398356",
     "geom:latitude":46.368754,
     "geom:longitude":6.85812,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063065,
-        85682281
+        85682281,
+        102063065
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6154",
+        "eurostat:nuts_2021_id":"CH6154",
         "gn:id":7286822,
         "gp:id":12683027,
         "qs_pg:id":106653
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ae2b6481e931d686d1e2373676dc78e0",
+    "wof:geomhash":"f16063e593f85412c6ebd3846f7084ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568977,
-    "wof:lastmodified":1598919574,
+    "wof:lastmodified":1684351728,
     "wof:name":"Port-Valais",
     "wof:parent_id":102063065,
     "wof:placetype":"localadmin",
+    "wof:population":4108,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

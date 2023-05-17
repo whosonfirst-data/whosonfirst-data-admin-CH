@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0988",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seeberg",
+    "eurostat:nuts_2021_id":"CH0988",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0988",
+    "eurostat:population":1560,
+    "eurostat:population_year":2020,
     "geom:area":0.001992,
-    "geom:area_square_m":16757732.825921,
+    "geom:area_square_m":16757732.825919,
     "geom:bbox":"7.64813146259,47.1119952891,7.73047251783,47.1688954861",
     "geom:latitude":47.143019,
     "geom:longitude":7.684067,
@@ -81,6 +93,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -88,8 +102,12 @@
         102063013
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0988",
+        "eurostat:nuts_2021_id":"CH0988"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"b681ccc29951a0a8839110fb71a0dc89",
+    "wof:geomhash":"1aa7c2d07d7fe7e71fd825a6de11116e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +118,12 @@
         }
     ],
     "wof:id":1394254129,
-    "wof:lastmodified":1566640351,
+    "wof:lastmodified":1684351782,
     "wof:name":"Seeberg",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":1560,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

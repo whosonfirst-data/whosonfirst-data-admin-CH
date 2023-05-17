@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00f6merswil",
+    "eurostat:nuts_2021_id":"CH1039",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1039",
+    "eurostat:population":1789,
+    "eurostat:population_year":2020,
     "geom:area":0.002062,
     "geom:area_square_m":17330508.001014,
     "geom:bbox":"8.220477,47.141489,8.287298,47.212436",
@@ -117,14 +129,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137081,
-        85682319
+        85682319,
+        1394137081
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1039",
+        "eurostat:nuts_2021_id":"CH1039",
         "gn:id":7286941,
         "gp:id":12684290,
         "qs_pg:id":400297
@@ -134,7 +150,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4bf99fc721b9bb9d170ed81835f568a9",
+    "wof:geomhash":"db7fb3ddcf5428abde39aa1864a1665e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404328299,
-    "wof:lastmodified":1598920480,
+    "wof:lastmodified":1684351693,
     "wof:name":"R\u00f6merswil",
     "wof:parent_id":1394137081,
     "wof:placetype":"localadmin",
+    "wof:population":1789,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2964",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stein am Rhein",
+    "eurostat:nuts_2021_id":"CH2964",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2964",
+    "eurostat:population":3415,
+    "eurostat:population_year":2020,
     "geom:area":0.000725,
     "geom:area_square_m":6033355.224066,
     "geom:bbox":"8.836919,47.650085,8.876162,47.681061",
@@ -135,14 +147,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394298251,
-        85682285
+        85682285,
+        1394298251
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2964",
+        "eurostat:nuts_2021_id":"CH2964",
         "gn:id":7287228,
         "gp:id":12684459,
         "qs_pg:id":223858
@@ -155,7 +171,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c2a51dc5925bf68048f4eca58311bb90",
+    "wof:geomhash":"846d3a61a572ed5ad7a0846efc5edc7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +182,12 @@
         }
     ],
     "wof:id":404328605,
-    "wof:lastmodified":1598920323,
+    "wof:lastmodified":1684351698,
     "wof:name":"Stein am Rhein",
     "wof:parent_id":1394298251,
     "wof:placetype":"localadmin",
+    "wof:population":3415,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

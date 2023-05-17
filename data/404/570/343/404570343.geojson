@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Thalwil",
+    "eurostat:nuts_2021_id":"CH0141",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0141",
+    "eurostat:population":17990,
+    "eurostat:population_year":2020,
     "geom:area":0.000654,
-    "geom:area_square_m":5489368.772949,
+    "geom:area_square_m":5489368.772951,
     "geom:bbox":"8.542298,47.272729,8.579726,47.302282",
     "geom:latitude":47.287496,
     "geom:longitude":8.559094,
@@ -137,14 +149,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062825,
-        85682309
+        85682309,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0141",
+        "eurostat:nuts_2021_id":"CH0141",
         "gn:id":7287299,
         "gp:id":12685088,
         "qs_pg:id":1079240
@@ -157,7 +173,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f392fd3f7542ea5f5a891cf496d885e1",
+    "wof:geomhash":"13b650de840e694c84d37f07fc36a205",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +184,12 @@
         }
     ],
     "wof:id":404570343,
-    "wof:lastmodified":1598920741,
+    "wof:lastmodified":1684351745,
     "wof:name":"Thalwil",
     "wof:parent_id":102062825,
     "wof:placetype":"localadmin",
+    "wof:population":17990,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

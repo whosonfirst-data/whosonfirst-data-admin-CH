@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2615",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Erschwil",
+    "eurostat:nuts_2021_id":"CH2615",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2615",
+    "eurostat:population":924,
+    "eurostat:population_year":2020,
     "geom:area":0.000885,
     "geom:area_square_m":7409108.429091,
     "geom:bbox":"7.517713,47.358305,7.570623,47.384909",
@@ -105,14 +117,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137121,
-        85682365
+        85682365,
+        1394137121
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2615",
+        "eurostat:nuts_2021_id":"CH2615",
         "gn:id":7285762,
         "gp:id":12683408,
         "qs_pg:id":1325427
@@ -125,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"bead99de121c5196a4d7c12abdb7944d",
+    "wof:geomhash":"b9f041310caea34479376273779c92db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404328521,
-    "wof:lastmodified":1598920360,
+    "wof:lastmodified":1684351697,
     "wof:name":"Erschwil",
     "wof:parent_id":1394137121,
     "wof:placetype":"localadmin",
+    "wof:population":924,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

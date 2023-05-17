@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4274",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brittnau",
+    "eurostat:nuts_2021_id":"CH4274",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4274",
+    "eurostat:population":3954,
+    "eurostat:population_year":2020,
     "geom:area":0.001624,
-    "geom:area_square_m":13633747.792333,
+    "geom:area_square_m":13633747.792335,
     "geom:bbox":"7.891505,47.235895,7.961879,47.276254",
     "geom:latitude":47.2547,
     "geom:longitude":7.927488,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062851,
-        85682329
+        85682329,
+        102062851
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4274",
+        "eurostat:nuts_2021_id":"CH4274",
         "gn:id":7285343,
         "gp:id":12683051,
         "qs_pg:id":1188023
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"97ed884c30884437ed61dacc33e1f059",
+    "wof:geomhash":"5f0a953241966b01995246f6c907a932",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404569047,
-    "wof:lastmodified":1598919200,
+    "wof:lastmodified":1684351729,
     "wof:name":"Brittnau",
     "wof:parent_id":102062851,
     "wof:placetype":"localadmin",
+    "wof:population":3954,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

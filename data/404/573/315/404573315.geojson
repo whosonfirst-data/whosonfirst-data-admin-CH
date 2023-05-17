@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5732",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vich",
+    "eurostat:nuts_2021_id":"CH5732",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5732",
+    "eurostat:population":1036,
+    "eurostat:population_year":2020,
     "geom:area":0.000182,
-    "geom:area_square_m":1549610.539235,
+    "geom:area_square_m":1549610.539239,
     "geom:bbox":"6.23185685963,46.4134976218,6.25904101585,46.4463999113",
     "geom:latitude":46.428074,
     "geom:longitude":6.2494,
@@ -58,6 +70,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -66,6 +80,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5732",
+        "eurostat:nuts_2021_id":"CH5732",
         "gn:id":7287451,
         "gp:id":20075628,
         "qs_pg:id":1252398
@@ -78,7 +94,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b8a318575f7f46ea2871a1c560371deb",
+    "wof:geomhash":"37508863745469ebafdd148fbe1d9be0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         }
     ],
     "wof:id":404573315,
-    "wof:lastmodified":1582223039,
+    "wof:lastmodified":1684351773,
     "wof:name":"Vich",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":1036,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

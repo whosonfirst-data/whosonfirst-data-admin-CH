@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0535",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Deisswil bei M\u00fcnchenbuchsee",
+    "eurostat:nuts_2021_id":"CH0535",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0535",
+    "eurostat:population":86,
+    "eurostat:population_year":2020,
     "geom:area":0.000256,
-    "geom:area_square_m":2153409.135796,
+    "geom:area_square_m":2153409.135797,
     "geom:bbox":"7.439052,47.029622,7.467068,47.047129",
     "geom:latitude":47.037187,
     "geom:longitude":7.45333,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0535",
+        "eurostat:nuts_2021_id":"CH0535",
         "gp:id":20075381,
         "qs_pg:id":512887
     },
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"69055b15b5e9990d29a0f2431be2e501",
+    "wof:geomhash":"0ceda81f92e70f8647610e82ae16d553",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404573083,
-    "wof:lastmodified":1598919900,
+    "wof:lastmodified":1684351770,
     "wof:name":"Deisswil bei M\u00fcnchenbuchsee",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":86,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

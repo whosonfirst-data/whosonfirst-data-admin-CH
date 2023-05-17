@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3881",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Conters im Pr\u00e4ttigau",
+    "eurostat:nuts_2021_id":"CH3881",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3881",
+    "eurostat:population":226,
+    "eurostat:population_year":2020,
     "geom:area":0.002171,
-    "geom:area_square_m":18348709.150832,
+    "geom:area_square_m":18348709.150835,
     "geom:bbox":"9.759812,46.853858,9.815764,46.911195",
     "geom:latitude":46.885539,
     "geom:longitude":9.788538,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062803,
-        85682255
+        85682255,
+        102062803
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3881",
+        "eurostat:nuts_2021_id":"CH3881",
         "gn:id":7285542,
         "gp:id":12683228,
         "qs_pg:id":106554
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"bda87ed1e545a1106ccb75e6c145d20a",
+    "wof:geomhash":"0ecfb700b9fa4c71e441ae87b8b4ef97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404568681,
-    "wof:lastmodified":1598919499,
+    "wof:lastmodified":1684351723,
     "wof:name":"Conters im Pr\u00e4ttigau",
     "wof:parent_id":102062803,
     "wof:placetype":"localadmin",
+    "wof:population":226,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

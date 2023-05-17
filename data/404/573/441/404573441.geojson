@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paradiso",
+    "eurostat:nuts_2021_id":"CH5210",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5210",
+    "eurostat:population":4247,
+    "eurostat:population_year":2020,
     "geom:area":0.000255,
     "geom:area_square_m":2194707.037479,
     "geom:bbox":"8.93635850256,45.9827926208,8.96915732069,45.9943430333",
@@ -71,6 +83,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -79,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5210",
+        "eurostat:nuts_2021_id":"CH5210",
         "gn:id":7286771,
         "gp:id":12685161,
         "qs_pg:id":959084
@@ -91,7 +107,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7db2a6972c5c683a5e134fff9c8dcb98",
+    "wof:geomhash":"007aa724bf19c0a921f803df84d5def0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,10 +118,12 @@
         }
     ],
     "wof:id":404573441,
-    "wof:lastmodified":1582223037,
+    "wof:lastmodified":1684351774,
     "wof:name":"Paradiso",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":4247,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

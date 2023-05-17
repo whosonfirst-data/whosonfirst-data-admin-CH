@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sursee",
+    "eurostat:nuts_2021_id":"CH1103",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1103",
+    "eurostat:population":9955,
+    "eurostat:population_year":2020,
     "geom:area":0.000718,
     "geom:area_square_m":6034168.950735,
     "geom:bbox":"8.082425,47.162998,8.129701,47.193283",
@@ -135,14 +147,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137077,
-        85682319
+        85682319,
+        1394137077
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1103",
+        "eurostat:nuts_2021_id":"CH1103",
         "gn:id":7287268,
         "gp:id":12684474,
         "qs_pg:id":248467
@@ -155,7 +171,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3385a533fd0ad546bee0ae056fc7aac3",
+    "wof:geomhash":"24d8cd0ef7c5522d10132869c92b304b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +182,12 @@
         }
     ],
     "wof:id":404328603,
-    "wof:lastmodified":1598920336,
+    "wof:lastmodified":1684351698,
     "wof:name":"Sursee",
     "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",
+    "wof:population":9955,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

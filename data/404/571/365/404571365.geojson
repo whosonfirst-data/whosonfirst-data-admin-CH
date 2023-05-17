@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Othmarsingen",
+    "eurostat:nuts_2021_id":"CH4205",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4205",
+    "eurostat:population":2896,
+    "eurostat:population_year":2020,
     "geom:area":0.000563,
-    "geom:area_square_m":4709121.40879,
+    "geom:area_square_m":4709121.408791,
     "geom:bbox":"8.197701,47.39108,8.234513,47.414675",
     "geom:latitude":47.401554,
     "geom:longitude":8.214671,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063017,
-        85682329
+        85682329,
+        102063017
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4205",
+        "eurostat:nuts_2021_id":"CH4205",
         "gn:id":7286763,
         "gp:id":12684172,
         "qs_pg:id":1019584
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0562b396050ce60f51e59c0de4bc7aea",
+    "wof:geomhash":"53ba65489be69d98380ee06791633fd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404571365,
-    "wof:lastmodified":1598920004,
+    "wof:lastmodified":1684351758,
     "wof:name":"Othmarsingen",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",
+    "wof:population":2896,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

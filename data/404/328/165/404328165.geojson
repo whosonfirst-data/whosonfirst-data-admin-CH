@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lungern",
+    "eurostat:nuts_2021_id":"CH1405",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH064",
+    "eurostat:nuts_2021_level_lau":"CH1405",
+    "eurostat:population":2120,
+    "eurostat:population_year":2020,
     "geom:area":0.005475,
-    "geom:area_square_m":46351680.101887,
+    "geom:area_square_m":46351680.101888,
     "geom:bbox":"8.089881,46.754838,8.239066,46.819617",
     "geom:latitude":46.786812,
     "geom:longitude":8.167348,
@@ -122,14 +134,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062787,
-        85682371
+        85682371,
+        102062787
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1405",
+        "eurostat:nuts_2021_id":"CH1405",
         "gn:id":7286390,
         "gp:id":12683039,
         "qs_pg:id":1293270
@@ -142,7 +158,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6e7e21f6d2eb2433cca09c30478ac3ef",
+    "wof:geomhash":"b391bb7c05d05d2b71ba00ee47ff61a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,10 +169,12 @@
         }
     ],
     "wof:id":404328165,
-    "wof:lastmodified":1598920394,
+    "wof:lastmodified":1684351690,
     "wof:name":"Lungern",
     "wof:parent_id":102062787,
     "wof:placetype":"localadmin",
+    "wof:population":2120,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

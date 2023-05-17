@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4197",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hallwil",
+    "eurostat:nuts_2021_id":"CH4197",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4197",
+    "eurostat:population":875,
+    "eurostat:population_year":2020,
     "geom:area":0.000259,
-    "geom:area_square_m":2174086.639073,
+    "geom:area_square_m":2174086.639072,
     "geom:bbox":"8.164464,47.315812,8.188716,47.33652",
     "geom:latitude":47.326457,
     "geom:longitude":8.17792,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063017,
-        85682329
+        85682329,
+        102063017
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4197",
+        "eurostat:nuts_2021_id":"CH4197",
         "gn:id":7286028,
         "gp:id":12683640,
         "qs_pg:id":396255
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"516d06e9137dd29ff5fd3f3fe41e880a",
+    "wof:geomhash":"3ac8df12c0989975a1113bd836654319",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404573065,
-    "wof:lastmodified":1598919909,
+    "wof:lastmodified":1684351770,
     "wof:name":"Hallwil",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",
+    "wof:population":875,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

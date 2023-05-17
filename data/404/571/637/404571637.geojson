@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4221",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abtwil",
+    "eurostat:nuts_2021_id":"CH4221",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4221",
+    "eurostat:population":981,
+    "eurostat:population_year":2020,
     "geom:area":0.000491,
     "geom:area_square_m":4127105.343394,
     "geom:bbox":"8.33797458327,47.1567910785,8.36766755076,47.185585842",
@@ -85,6 +97,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -93,6 +107,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4221",
+        "eurostat:nuts_2021_id":"CH4221",
         "gn:id":7285017,
         "gp:id":12685084,
         "qs_pg:id":210210
@@ -105,7 +121,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"049d30dc56ea25dff9578689ac7c9ee9",
+    "wof:geomhash":"f98b2a3b4cfe6fada0d5a41e299a46d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404571637,
-    "wof:lastmodified":1582223062,
+    "wof:lastmodified":1684351761,
     "wof:name":"Abtwil",
     "wof:parent_id":102062809,
     "wof:placetype":"localadmin",
+    "wof:population":981,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2858",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rothenfluh",
+    "eurostat:nuts_2021_id":"CH2858",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2858",
+    "eurostat:population":766,
+    "eurostat:population_year":2020,
     "geom:area":0.001306,
-    "geom:area_square_m":10915178.080994,
+    "geom:area_square_m":10915178.080995,
     "geom:bbox":"7.889515,47.450639,7.947016,47.48545",
     "geom:latitude":47.470341,
     "geom:longitude":7.917724,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062819,
-        85682361
+        85682361,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2858",
+        "eurostat:nuts_2021_id":"CH2858",
         "gp:id":12684942,
         "qs_pg:id":1067455
     },
@@ -125,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"288eccdc1412fbd3b16c2d6ebbb76756",
+    "wof:geomhash":"ae05ad7e2822cd516d1e87f8bcb0765b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404569607,
-    "wof:lastmodified":1598919341,
+    "wof:lastmodified":1684351735,
     "wof:name":"Rothenfluh",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",
+    "wof:population":766,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

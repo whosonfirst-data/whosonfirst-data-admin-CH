@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1348",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vorderthal",
+    "eurostat:nuts_2021_id":"CH1348",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1348",
+    "eurostat:population":1015,
+    "eurostat:population_year":2020,
     "geom:area":0.003316,
-    "geom:area_square_m":27895565.900153,
+    "geom:area_square_m":27895565.900152,
     "geom:bbox":"8.841894,47.100131,8.944448,47.151374",
     "geom:latitude":47.126263,
     "geom:longitude":8.889345,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062927,
-        85682305
+        85682305,
+        102062927
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1348",
+        "eurostat:nuts_2021_id":"CH1348",
         "gn:id":7287495,
         "gp:id":12684252,
         "qs_pg:id":466163
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dce711b0d5292b13442125a7424baa26",
+    "wof:geomhash":"9ec5554aa002acf71efdd9e4de68ee07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404568319,
-    "wof:lastmodified":1598919749,
+    "wof:lastmodified":1684351716,
     "wof:name":"Vorderthal",
     "wof:parent_id":102062927,
     "wof:placetype":"localadmin",
+    "wof:population":1015,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

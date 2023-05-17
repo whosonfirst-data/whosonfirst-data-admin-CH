@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6773",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beurnev\u00e9sin",
+    "eurostat:nuts_2021_id":"CH6773",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6773",
+    "eurostat:population":123,
+    "eurostat:population_year":2020,
     "geom:area":0.000607,
-    "geom:area_square_m":5073237.277029,
+    "geom:area_square_m":5073237.277028,
     "geom:bbox":"7.11222,47.479639,7.159325,47.503874",
     "geom:latitude":47.492413,
     "geom:longitude":7.132812,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063059,
-        85682347
+        85682347,
+        102063059
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6773",
+        "eurostat:nuts_2021_id":"CH6773",
         "gn:id":7285228,
         "gp:id":12684897,
         "qs_pg:id":671188
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e33b3b8aa955192f184647c962c50f1c",
+    "wof:geomhash":"8d3e2e5be3b67baf6b4900e19ef1e9cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404571223,
-    "wof:lastmodified":1598920168,
+    "wof:lastmodified":1684351756,
     "wof:name":"Beurnev\u00e9sin",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
+    "wof:population":123,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

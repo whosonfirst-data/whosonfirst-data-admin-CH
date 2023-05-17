@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5842",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rossini\u00e8re",
+    "eurostat:nuts_2021_id":"CH5842",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5842",
+    "eurostat:population":546,
+    "eurostat:population_year":2020,
     "geom:area":0.002735,
-    "geom:area_square_m":23294520.164131,
+    "geom:area_square_m":23294520.164133,
     "geom:bbox":"7.017632,46.437293,7.107473,46.489039",
     "geom:latitude":46.465059,
     "geom:longitude":7.06193,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062833,
-        85682325
+        85682325,
+        102062833
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5842",
+        "eurostat:nuts_2021_id":"CH5842",
         "gn:id":7286956,
         "gp:id":12683815,
         "qs_pg:id":248412
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8d24deae585e44d601bf82cc560e7340",
+    "wof:geomhash":"ca6e434bbea4053a13d7b50ddc509919",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404568455,
-    "wof:lastmodified":1598919551,
+    "wof:lastmodified":1684351719,
     "wof:name":"Rossini\u00e8re",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",
+    "wof:population":546,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

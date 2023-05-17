@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u00f6ttingen",
+    "eurostat:nuts_2021_id":"CH4304",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4304",
+    "eurostat:population":4059,
+    "eurostat:population_year":2020,
     "geom:area":0.000827,
-    "geom:area_square_m":6904638.120869,
+    "geom:area_square_m":6904638.12087,
     "geom:bbox":"8.22525297296,47.5432986071,8.27752759116,47.5780730807",
     "geom:latitude":47.559969,
     "geom:longitude":8.252999,
@@ -70,6 +82,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -78,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4304",
+        "eurostat:nuts_2021_id":"CH4304",
         "gn:id":2660985,
         "gp:id":12683332,
         "qs_pg:id":190998
@@ -90,7 +106,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf98d177eb16ef2d75e878dccacf9b16",
+    "wof:geomhash":"168a2bbcfac70feec57d824e4ac90fe4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +117,12 @@
         }
     ],
     "wof:id":404570613,
-    "wof:lastmodified":1582223106,
+    "wof:lastmodified":1684351748,
     "wof:name":"D\u00f6ttingen",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",
+    "wof:population":4059,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

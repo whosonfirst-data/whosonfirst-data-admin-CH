@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberweningen",
+    "eurostat:nuts_2021_id":"CH0093",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0093",
+    "eurostat:population":1803,
+    "eurostat:population_year":2020,
     "geom:area":0.00059,
-    "geom:area_square_m":4930419.319424,
+    "geom:area_square_m":4930419.319426,
     "geom:bbox":"8.393312,47.4822,8.418728,47.533254",
     "geom:latitude":47.508826,
     "geom:longitude":8.405926,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062995,
-        85682309
+        85682309,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0093",
+        "eurostat:nuts_2021_id":"CH0093",
         "gn:id":7286719,
         "gp:id":12684141,
         "qs_pg:id":262666
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"28dc99a15cc1fc0f4f9f23657c6048af",
+    "wof:geomhash":"9a858da7ae9b204261b220e9c7029731",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571279,
-    "wof:lastmodified":1598920163,
+    "wof:lastmodified":1684351757,
     "wof:name":"Oberweningen",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",
+    "wof:population":1803,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

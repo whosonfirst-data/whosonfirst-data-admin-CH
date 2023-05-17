@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0662",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferenbalm",
+    "eurostat:nuts_2021_id":"CH0662",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0662",
+    "eurostat:population":1260,
+    "eurostat:population_year":2020,
     "geom:area":0.001079,
-    "geom:area_square_m":9105310.050007,
+    "geom:area_square_m":9105310.050006,
     "geom:bbox":"7.20196,46.914106,7.246511,46.963782",
     "geom:latitude":46.943175,
     "geom:longitude":7.224714,
@@ -111,14 +123,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0662",
+        "eurostat:nuts_2021_id":"CH0662",
         "gp:id":12682964,
         "qs_pg:id":261783
     },
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4731f7699e25608a2556a954a05761af",
+    "wof:geomhash":"4cf8573630fc2fc0e656cd5fa05f2996",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":1175611191,
-    "wof:lastmodified":1598916363,
+    "wof:lastmodified":1684351776,
     "wof:name":"Ferenbalm",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":1260,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

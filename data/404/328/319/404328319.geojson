@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1710",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Walchwil",
+    "eurostat:nuts_2021_id":"CH1710",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH066",
+    "eurostat:nuts_2021_level_lau":"CH1710",
+    "eurostat:population":3663,
+    "eurostat:population_year":2020,
     "geom:area":0.001882,
-    "geom:area_square_m":15835542.164696,
+    "geom:area_square_m":15835542.164697,
     "geom:bbox":"8.493045,47.089861,8.566336,47.127608",
     "geom:latitude":47.107562,
     "geom:longitude":8.528313,
@@ -113,14 +125,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063067,
-        85682263
+        85682263,
+        102063067
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1710",
+        "eurostat:nuts_2021_id":"CH1710",
         "gn:id":7287517,
         "gp:id":12684596,
         "qs_pg:id":1197429
@@ -133,7 +149,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"088b01f59f864b6e8de4062bc3fef656",
+    "wof:geomhash":"f26be408f50d8de8257eca3b96289afd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404328319,
-    "wof:lastmodified":1598920500,
+    "wof:lastmodified":1684351694,
     "wof:name":"Walchwil",
     "wof:parent_id":102063067,
     "wof:placetype":"localadmin",
+    "wof:population":3663,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

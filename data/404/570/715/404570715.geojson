@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sant'Antonino",
+    "eurostat:nuts_2021_id":"CH5017",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5017",
+    "eurostat:population":2525,
+    "eurostat:population_year":2020,
     "geom:area":0.000762,
-    "geom:area_square_m":6530770.125228,
+    "geom:area_square_m":6530770.125229,
     "geom:bbox":"8.931524,46.137522,8.999047,46.165858",
     "geom:latitude":46.153252,
     "geom:longitude":8.973569,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062991,
-        85682269
+        85682269,
+        102062991
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5017",
+        "eurostat:nuts_2021_id":"CH5017",
         "gn:id":7287678,
         "gp:id":12683119,
         "qs_pg:id":1118735
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"31b54f7b4534781cd2bcaf4793c43ffc",
+    "wof:geomhash":"06239ccd58e78a0683907fc1b3981983",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570715,
-    "wof:lastmodified":1598920612,
+    "wof:lastmodified":1684351750,
     "wof:name":"Sant'Antonino",
     "wof:parent_id":102062991,
     "wof:placetype":"localadmin",
+    "wof:population":2525,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dallenwil",
+    "eurostat:nuts_2021_id":"CH1503",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH065",
+    "eurostat:nuts_2021_level_lau":"CH1503",
+    "eurostat:population":1846,
+    "eurostat:population_year":2020,
     "geom:area":0.001827,
     "geom:area_square_m":15433946.842493,
     "geom:bbox":"8.336286,46.889954,8.39706,46.938213",
@@ -116,14 +128,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062973,
-        85682315
+        85682315,
+        102062973
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1503",
+        "eurostat:nuts_2021_id":"CH1503",
         "gn:id":7285618,
         "gp:id":12683287,
         "qs_pg:id":268990
@@ -133,7 +149,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"79ac4dd99b54ff9c7642ac8a8d61ec36",
+    "wof:geomhash":"d32f82c63a4cc9dbb8181d0b6216364e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404328333,
-    "wof:lastmodified":1598920413,
+    "wof:lastmodified":1684351694,
     "wof:name":"Dallenwil",
     "wof:parent_id":102062973,
     "wof:placetype":"localadmin",
+    "wof:population":1846,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

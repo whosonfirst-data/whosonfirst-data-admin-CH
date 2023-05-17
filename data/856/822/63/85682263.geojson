@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Zug",
+    "eurostat:name_local":"Zug",
+    "eurostat:nuts_2021_id":"CH066",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH066",
+    "eurostat:population":129787,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"1",
     "geom:area":0.028317,
-    "geom:area_square_m":238090904.461689,
+    "geom:area_square_m":238090904.461707,
     "geom:bbox":"8.394836,47.081031,8.701159,47.248375",
     "geom:latitude":47.157254,
     "geom:longitude":8.537315,
@@ -504,8 +518,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"239",
     "statoids:area_mi":"92",
     "statoids:as_of_date":"2010-12-31",
@@ -526,6 +540,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":10187,
+        "eurostat:nuts_2021_id":"CH066",
         "fips:code":"SZ24",
         "gn:id":2657907,
         "gp:id":2347106,
@@ -537,7 +552,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c0018b84a5779ccc9d5bb7cd781653e5",
+    "wof:geomhash":"48744a13caae75b8c97b2448b2e5500a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -559,12 +574,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1636413502,
+    "wof:lastmodified":1684351497,
     "wof:name":"Zug",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":113105,
+    "wof:population":129787,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"ZG",

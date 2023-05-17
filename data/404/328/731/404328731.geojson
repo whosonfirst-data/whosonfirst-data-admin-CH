@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cartigny",
+    "eurostat:nuts_2021_id":"CH6609",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6609",
+    "eurostat:population":974,
+    "eurostat:population_year":2020,
     "geom:area":0.000511,
     "geom:area_square_m":4371835.043782,
     "geom:bbox":"6.010781773,46.1637234528,6.0517708296,46.1861659179",
@@ -59,6 +71,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -67,6 +81,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6609",
+        "eurostat:nuts_2021_id":"CH6609",
         "gn:id":7285437,
         "gp:id":12683135,
         "qs_pg:id":1093247
@@ -79,7 +95,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e8d5b168741760964ee97f5acc94bb5c",
+    "wof:geomhash":"6407ae5831e3f5ca58e866736e4fcb4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +106,12 @@
         }
     ],
     "wof:id":404328731,
-    "wof:lastmodified":1582223070,
+    "wof:lastmodified":1684351700,
     "wof:name":"Cartigny",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":974,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

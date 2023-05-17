@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH9758",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lac L\u00e9man (VD)",
+    "eurostat:nuts_2021_id":"CH9758",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH9758",
     "geom:area":0.034838,
-    "geom:area_square_m":296832922.241585,
+    "geom:area_square_m":296832922.241591,
     "geom:bbox":"6.170322,46.284423,6.930895,46.518416",
     "geom:latitude":46.445257,
     "geom:longitude":6.562679,
@@ -44,16 +54,19 @@
     "wof:belongsto":[
         102191581,
         85633051,
-        102063021,
-        85682325
+        85682325,
+        102063021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH9758",
+        "eurostat:nuts_2021_id":"CH9758"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"28c85836606d22066b473e0b97124ccf",
+    "wof:geomhash":"9b5d395432d2fec8d35df29c68099df4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":404567693,
-    "wof:lastmodified":1606859079,
+    "wof:lastmodified":1684351702,
     "wof:name":"Lac L\u00e9man",
     "wof:parent_id":102063021,
     "wof:placetype":"localadmin",

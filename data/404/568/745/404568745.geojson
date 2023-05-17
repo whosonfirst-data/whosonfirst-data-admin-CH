@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1321",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Feusisberg",
+    "eurostat:nuts_2021_id":"CH1321",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1321",
+    "eurostat:population":5263,
+    "eurostat:population_year":2020,
     "geom:area":0.002077,
-    "geom:area_square_m":17455263.695599,
+    "geom:area_square_m":17455263.695602,
     "geom:bbox":"8.691992,47.150258,8.786739,47.194378",
     "geom:latitude":47.174732,
     "geom:longitude":8.731439,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062919,
-        85682305
+        85682305,
+        102062919
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1321",
+        "eurostat:nuts_2021_id":"CH1321",
         "gn:id":7285816,
         "gp:id":12683424,
         "qs_pg:id":1109139
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"370e0c74a5b6ae9dc8b49ac6159d507c",
+    "wof:geomhash":"be823c7e1518d9c8ae3ebbd531dfdffb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404568745,
-    "wof:lastmodified":1598919752,
+    "wof:lastmodified":1684351724,
     "wof:name":"Feusisberg",
     "wof:parent_id":102062919,
     "wof:placetype":"localadmin",
+    "wof:population":5263,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

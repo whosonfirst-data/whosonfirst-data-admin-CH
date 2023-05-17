@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0567",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reichenbach im Kandertal",
+    "eurostat:nuts_2021_id":"CH0567",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0567",
+    "eurostat:population":3608,
+    "eurostat:population_year":2020,
     "geom:area":0.014758,
-    "geom:area_square_m":125441139.43926,
+    "geom:area_square_m":125441139.439274,
     "geom:bbox":"7.611027,46.495204,7.827272,46.6468",
     "geom:latitude":46.575301,
     "geom:longitude":7.737058,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062831,
-        85682381
+        85682381,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0567",
+        "eurostat:nuts_2021_id":"CH0567",
         "gn:id":7286872,
         "gp:id":12683502,
         "qs_pg:id":1314163
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9e3e16144f38b181b59103ccedc8c04b",
+    "wof:geomhash":"1d8ae20392cae9301f2be2ee123ade8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404567765,
-    "wof:lastmodified":1598919379,
+    "wof:lastmodified":1684351704,
     "wof:name":"Reichenbach im Kandertal",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",
+    "wof:population":3608,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

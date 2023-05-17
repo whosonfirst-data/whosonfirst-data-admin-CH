@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belmont-Broye",
+    "eurostat:nuts_2021_id":"CH2053",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2053",
+    "eurostat:population":5521,
+    "eurostat:population_year":2020,
     "geom:area":0.003042,
-    "geom:area_square_m":25727371.908778,
+    "geom:area_square_m":25727371.908779,
     "geom:bbox":"6.97694564416,46.8165736727,7.05545580077,46.8807747287",
     "geom:latitude":46.848616,
     "geom:longitude":7.014186,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -52,8 +66,12 @@
         102062945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2053",
+        "eurostat:nuts_2021_id":"CH2053"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"6cbb09f813aad536e3127b869cdde5d0",
+    "wof:geomhash":"7191127a931bfa295b3c0379347c3200",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +82,12 @@
         }
     ],
     "wof:id":1394254183,
-    "wof:lastmodified":1566640370,
+    "wof:lastmodified":1684351783,
     "wof:name":"Belmont-Broye",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",
+    "wof:population":5521,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

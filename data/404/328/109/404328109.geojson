@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1631",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Glarus S\u00fcd",
+    "eurostat:nuts_2021_id":"CH1631",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH051",
+    "eurostat:nuts_2021_level_lau":"CH1631",
+    "eurostat:population":9494,
+    "eurostat:population_year":2020,
     "geom:area":0.050791,
-    "geom:area_square_m":428903289.282491,
+    "geom:area_square_m":428903289.282501,
     "geom:bbox":"8.87122834478,46.7964698429,9.25257712996,47.0399576389",
     "geom:latitude":46.927097,
     "geom:longitude":9.077878,
@@ -83,6 +95,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1631",
+        "eurostat:nuts_2021_id":"CH1631",
         "gn:id":8260333,
         "qs_pg:id":760509
     },
@@ -99,7 +115,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7ca8e4b1d15d1dae2c9257f425c8edfb",
+    "wof:geomhash":"f4def61a3e746a9b5c4c815300452fbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404328109,
-    "wof:lastmodified":1582223080,
+    "wof:lastmodified":1684351689,
     "wof:name":"Glarus S\u00fcd",
     "wof:parent_id":102063003,
     "wof:placetype":"localadmin",
+    "wof:population":9494,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

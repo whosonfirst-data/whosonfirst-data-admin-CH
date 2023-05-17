@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0663",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frauenkappelen",
+    "eurostat:nuts_2021_id":"CH0663",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0663",
+    "eurostat:population":1240,
+    "eurostat:population_year":2020,
     "geom:area":0.001098,
-    "geom:area_square_m":9263710.620924,
+    "geom:area_square_m":9263710.620923,
     "geom:bbox":"7.304793,46.94037,7.37151,46.967011",
     "geom:latitude":46.955355,
     "geom:longitude":7.333436,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0663",
+        "eurostat:nuts_2021_id":"CH0663",
         "gn:id":7285862,
         "gp:id":12682953,
         "qs_pg:id":671331
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"de6cc66015bd51bb9ad2ad9d6eadf400",
+    "wof:geomhash":"464dcfac6def73a52691457b675e9114",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404569945,
-    "wof:lastmodified":1598919357,
+    "wof:lastmodified":1684351740,
     "wof:name":"Frauenkappelen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":1240,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

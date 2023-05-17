@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6412",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peseux",
+    "eurostat:nuts_2021_id":"CH6412",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6412",
+    "eurostat:population":5813,
+    "eurostat:population_year":2020,
     "geom:area":0.000403,
     "geom:area_square_m":3395996.164747,
     "geom:bbox":"6.87426408732,46.9819766259,6.89962747097,47.0069433285",
@@ -67,6 +79,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -74,6 +88,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6412",
+        "eurostat:nuts_2021_id":"CH6412",
         "gn:id":7286785,
         "gp:id":12684195,
         "qs_pg:id":1118739
@@ -86,7 +102,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a60182a812361ba328624b5fc1c4cca2",
+    "wof:geomhash":"0586e810f34676834c4ccf397f867fc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,10 +112,12 @@
         }
     ],
     "wof:id":404571965,
-    "wof:lastmodified":1582223046,
+    "wof:lastmodified":1684351765,
     "wof:name":"Peseux",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":5813,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0394",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wengi",
+    "eurostat:nuts_2021_id":"CH0394",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0394",
+    "eurostat:population":613,
+    "eurostat:population_year":2020,
     "geom:area":0.000839,
-    "geom:area_square_m":7062846.831605,
+    "geom:area_square_m":7062846.831606,
     "geom:bbox":"7.364108,47.073698,7.42257,47.096969",
     "geom:latitude":47.086163,
     "geom:longitude":7.395387,
@@ -88,14 +100,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0394",
+        "eurostat:nuts_2021_id":"CH0394",
         "gn:id":7287559,
         "gp:id":12684621,
         "qs_pg:id":1154341
@@ -108,7 +124,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"790fe7ab9db504b5009c882f64873e1e",
+    "wof:geomhash":"0a75c40c131a66e215a845728014bdc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404570555,
-    "wof:lastmodified":1598920636,
+    "wof:lastmodified":1684351748,
     "wof:name":"Wengi",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":613,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

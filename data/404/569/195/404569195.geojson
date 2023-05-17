@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6456",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ligni\u00e8res",
+    "eurostat:nuts_2021_id":"CH6456",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6456",
+    "eurostat:population":968,
+    "eurostat:population_year":2020,
     "geom:area":0.001483,
     "geom:area_square_m":12485569.906462,
     "geom:bbox":"7.01306966749,47.0723299808,7.08705437119,47.112198883",
@@ -91,6 +103,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6456",
+        "eurostat:nuts_2021_id":"CH6456",
         "gn:id":7286352,
         "gp:id":12683890,
         "qs_pg:id":248859
@@ -107,7 +123,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0194687fc5b207d1f43fbbce5f7300e5",
+    "wof:geomhash":"748d710d25266674477cb5e21066e3ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":404569195,
-    "wof:lastmodified":1582222947,
+    "wof:lastmodified":1684351732,
     "wof:name":"Ligni\u00e8res",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":968,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

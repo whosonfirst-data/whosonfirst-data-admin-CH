@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5324",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avegno Gordevio",
+    "eurostat:nuts_2021_id":"CH5324",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5324",
+    "eurostat:population":1518,
+    "eurostat:population_year":2020,
     "geom:area":0.003185,
-    "geom:area_square_m":27250439.647756,
+    "geom:area_square_m":27250439.647752,
     "geom:bbox":"8.729259,46.189701,8.800123,46.259385",
     "geom:latitude":46.223902,
     "geom:longitude":8.765974,
@@ -93,19 +105,24 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062957,
-        85682269
+        85682269,
+        102062957
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5324",
+        "eurostat:nuts_2021_id":"CH5324"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"46c7fae1b7bfb28c719a663199b94641",
+    "wof:geomhash":"2598fcdfa335e40dd9aa79ed97ac75a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404568331,
-    "wof:lastmodified":1598919466,
+    "wof:lastmodified":1684351716,
     "wof:name":"Avegno Gordevio",
     "wof:parent_id":102062957,
     "wof:placetype":"localadmin",
+    "wof:population":1518,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

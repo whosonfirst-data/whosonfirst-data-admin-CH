@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riederalp",
+    "eurostat:nuts_2021_id":"CH6181",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6181",
+    "eurostat:population":452,
+    "eurostat:population_year":2020,
     "geom:area":0.002232,
-    "geom:area_square_m":19042615.630705,
+    "geom:area_square_m":19042615.630704,
     "geom:bbox":"8.001884,46.342394,8.064629,46.412187",
     "geom:latitude":46.379175,
     "geom:longitude":8.032657,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063037,
-        85682281
+        85682281,
+        102063037
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6181",
+        "eurostat:nuts_2021_id":"CH6181",
         "gn:id":7286904,
         "gp:id":28997189,
         "qs_pg:id":1314452
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"470b6f7b91eb601bded1aad7e4a1ff21",
+    "wof:geomhash":"3735bcfdcf3c001813a7a3fdc2e11a54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404568641,
-    "wof:lastmodified":1598919682,
+    "wof:lastmodified":1684351722,
     "wof:name":"Riederalp",
     "wof:parent_id":102063037,
     "wof:placetype":"localadmin",
+    "wof:population":452,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

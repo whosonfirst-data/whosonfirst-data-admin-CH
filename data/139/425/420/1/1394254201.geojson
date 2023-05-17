@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3988",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Obersaxen Mundaun",
+    "eurostat:nuts_2021_id":"CH3988",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3988",
+    "eurostat:population":1188,
+    "eurostat:population_year":2020,
     "geom:area":0.008278,
-    "geom:area_square_m":70171110.220187,
+    "geom:area_square_m":70171110.220191,
     "geom:bbox":"9.0101396729,46.6748235583,9.19068104704,46.7723830018",
     "geom:latitude":46.72424,
     "geom:longitude":9.083008,
@@ -48,6 +60,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -55,8 +69,12 @@
         102062773
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3988",
+        "eurostat:nuts_2021_id":"CH3988"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"cb2b1b89c1bbf120be9ec894cc04e66b",
+    "wof:geomhash":"a7ff750a894f3aa9ba346188dba54298",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,10 +85,12 @@
         }
     ],
     "wof:id":1394254201,
-    "wof:lastmodified":1566640369,
+    "wof:lastmodified":1684351784,
     "wof:name":"Obersaxen Mundaun",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
+    "wof:population":1188,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

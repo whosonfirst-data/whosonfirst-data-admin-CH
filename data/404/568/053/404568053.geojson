@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Andeer",
+    "eurostat:nuts_2021_id":"CH3701",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3701",
+    "eurostat:population":908,
+    "eurostat:population_year":2020,
     "geom:area":0.005435,
-    "geom:area_square_m":46180849.852616,
+    "geom:area_square_m":46180849.852619,
     "geom:bbox":"9.333801,46.541671,9.500896,46.623667",
     "geom:latitude":46.592406,
     "geom:longitude":9.431601,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -132,6 +146,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3701",
+        "eurostat:nuts_2021_id":"CH3701",
         "gn:id":7285075,
         "gp:id":12682798,
         "qs_pg:id":1310923
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf409a2611f3250fef0f007589199533",
+    "wof:geomhash":"603d9dc6cbc962a597dbdf1c4bfd028f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404568053,
-    "wof:lastmodified":1617131171,
+    "wof:lastmodified":1684351710,
     "wof:name":"Andeer",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
+    "wof:population":908,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

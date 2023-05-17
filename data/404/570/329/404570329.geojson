@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0337",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roggwil (BE)",
+    "eurostat:nuts_2021_id":"CH0337",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0337",
+    "eurostat:population":4083,
+    "eurostat:population_year":2020,
     "geom:area":0.000931,
     "geom:area_square_m":7820285.604366,
     "geom:bbox":"7.79020678067,47.2156204238,7.8389396184,47.2535412969",
@@ -70,6 +82,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -78,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0337",
+        "eurostat:nuts_2021_id":"CH0337",
         "gn:id":7286929,
         "gp:id":12684281,
         "qs_pg:id":106663
@@ -90,7 +106,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"39ce1196c9cd5d9aaec14a37ec32b145",
+    "wof:geomhash":"51434ad09243d223413ab5d945b6aad9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +117,12 @@
         }
     ],
     "wof:id":404570329,
-    "wof:lastmodified":1582223111,
+    "wof:lastmodified":1684351745,
     "wof:name":"Roggwil",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":4083,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Uri",
+    "eurostat:name_local":"Uri",
+    "eurostat:nuts_2021_id":"CH062",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH062",
+    "eurostat:population":37047,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.126785,
-    "geom:area_square_m":1073737791.818357,
+    "geom:area_square_m":1073737791.81834,
     "geom:bbox":"8.397357,46.527618,8.957801,46.993408",
     "geom:latitude":46.772025,
     "geom:longitude":8.628862,
@@ -420,8 +434,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"1,077",
     "statoids:area_mi":"416",
     "statoids:as_of_date":"2010-12-31",
@@ -441,6 +455,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":15948,
+        "eurostat:nuts_2021_id":"CH062",
         "fips:code":"SZ21",
         "gn:id":2658226,
         "gp:id":2347103,
@@ -452,7 +467,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"88e49363e9e06fc1b670283a6966eeaa",
+    "wof:geomhash":"5d4538268fc6bfa7352e26923e0b2a14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -474,12 +489,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1598916047,
+    "wof:lastmodified":1684351503,
     "wof:name":"Uri",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":35422,
+    "wof:population":37047,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"UR",

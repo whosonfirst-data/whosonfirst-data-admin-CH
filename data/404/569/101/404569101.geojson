@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5634",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Echichens",
+    "eurostat:nuts_2021_id":"CH5634",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5634",
+    "eurostat:population":3058,
+    "eurostat:population_year":2020,
     "geom:area":0.001556,
-    "geom:area_square_m":13234928.839984,
+    "geom:area_square_m":13234928.839986,
     "geom:bbox":"6.448562,46.521021,6.507431,46.567613",
     "geom:latitude":46.545093,
     "geom:longitude":6.481713,
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5634",
+        "eurostat:nuts_2021_id":"CH5634",
         "gp:id":12684730,
         "qs_pg:id":493295
     },
@@ -110,7 +126,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28cf040c63d9efb04188e04e89890178",
+    "wof:geomhash":"b0187550d7b5b2b870cd83efa16d30c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":404569101,
-    "wof:lastmodified":1598919279,
+    "wof:lastmodified":1684351730,
     "wof:name":"Echichens",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":3058,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

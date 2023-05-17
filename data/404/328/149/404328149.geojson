@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Erstfeld",
+    "eurostat:nuts_2021_id":"CH1206",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH062",
+    "eurostat:nuts_2021_level_lau":"CH1206",
+    "eurostat:population":3788,
+    "eurostat:population_year":2020,
     "geom:area":0.006964,
-    "geom:area_square_m":58934104.695456,
+    "geom:area_square_m":58934104.695457,
     "geom:bbox":"8.5175047467,46.7763679474,8.68301971097,46.849325353",
     "geom:latitude":46.812342,
     "geom:longitude":8.599393,
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -131,7 +145,10 @@
         102062879
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH1206",
+        "eurostat:nuts_2021_id":"CH1206"
+    },
     "wof:coterminous":[
         101853907
     ],
@@ -139,7 +156,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"31ab3f5a6a70773b5e4a1b3880f87e7d",
+    "wof:geomhash":"d299ef7bb58e445871b87a26ce74d78c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +167,12 @@
         }
     ],
     "wof:id":404328149,
-    "wof:lastmodified":1582223090,
+    "wof:lastmodified":1684351690,
     "wof:name":"Erstfeld",
     "wof:parent_id":102062879,
     "wof:placetype":"localadmin",
+    "wof:population":3788,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

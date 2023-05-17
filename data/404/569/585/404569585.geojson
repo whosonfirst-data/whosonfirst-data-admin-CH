@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4253",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Magden",
+    "eurostat:nuts_2021_id":"CH4253",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4253",
+    "eurostat:population":3914,
+    "eurostat:population_year":2020,
     "geom:area":0.001316,
-    "geom:area_square_m":10986403.287911,
+    "geom:area_square_m":10986403.28791,
     "geom:bbox":"7.783043,47.49676,7.835294,47.539914",
     "geom:latitude":47.520376,
     "geom:longitude":7.81013,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062905,
-        85682329
+        85682329,
+        102062905
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4253",
+        "eurostat:nuts_2021_id":"CH4253",
         "gn:id":7286415,
         "gp:id":12683927,
         "qs_pg:id":989361
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"bd7e34cba1f19812b9e7efc89522bd67",
+    "wof:geomhash":"c5178082eb9142867436efa5fcee3c11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404569585,
-    "wof:lastmodified":1598919348,
+    "wof:lastmodified":1684351735,
     "wof:name":"Magden",
     "wof:parent_id":102062905,
     "wof:placetype":"localadmin",
+    "wof:population":3914,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

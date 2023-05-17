@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2893",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reigoldswil",
+    "eurostat:nuts_2021_id":"CH2893",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2893",
+    "eurostat:population":1582,
+    "eurostat:population_year":2020,
     "geom:area":0.001102,
     "geom:area_square_m":9226369.205351,
     "geom:bbox":"7.663032,47.371178,7.712243,47.415558",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062911,
-        85682361
+        85682361,
+        102062911
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2893",
+        "eurostat:nuts_2021_id":"CH2893",
         "gn:id":7286875,
         "gp:id":12684247,
         "qs_pg:id":539033
@@ -141,7 +157,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3e39935a48e4ecb139b0c6ea9a582073",
+    "wof:geomhash":"09b7d8abb54a522710532f2b3656dc79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404569955,
-    "wof:lastmodified":1598919169,
+    "wof:lastmodified":1684351740,
     "wof:name":"Reigoldswil",
     "wof:parent_id":102062911,
     "wof:placetype":"localadmin",
+    "wof:population":1582,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

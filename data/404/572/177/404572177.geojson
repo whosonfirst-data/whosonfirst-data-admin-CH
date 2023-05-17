@@ -4,6 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5391",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Comunanza Cadenazzo/Monteceneri",
+    "eurostat:nuts_2021_id":"CH5391",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5391",
     "geom:area":0.000335,
     "geom:area_square_m":2869541.614875,
     "geom:bbox":"9.032519379,46.1318056784,9.0684642894,46.1498451043",
@@ -46,12 +56,15 @@
         102062991
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5391",
+        "eurostat:nuts_2021_id":"CH5391"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"40a1baadcdbafe34a5a0cbc80a840ec1",
+    "wof:geomhash":"382a75126a563d869262dc5db8855cf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +75,7 @@
         }
     ],
     "wof:id":404572177,
-    "wof:lastmodified":1582223034,
+    "wof:lastmodified":1684351767,
     "wof:name":"Comunanza Cadenazzo/Monteceneri",
     "wof:parent_id":102062991,
     "wof:placetype":"localadmin",

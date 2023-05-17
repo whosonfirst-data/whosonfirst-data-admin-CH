@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5535",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saint-Barth\u00e9lemy (VD)",
+    "eurostat:nuts_2021_id":"CH5535",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5535",
+    "eurostat:population":781,
+    "eurostat:population_year":2020,
     "geom:area":0.000484,
-    "geom:area_square_m":4112588.764492,
+    "geom:area_square_m":4112588.764491,
     "geom:bbox":"6.58293675036,46.6243449718,6.62012555067,46.6453401438",
     "geom:latitude":46.634837,
     "geom:longitude":6.602141,
@@ -43,6 +55,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -51,6 +65,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5535",
+        "eurostat:nuts_2021_id":"CH5535",
         "gn:id":7287021,
         "qs_pg:id":671578
     },
@@ -62,7 +78,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"71aeabf9f24fdabc7034ebe05d2aed05",
+    "wof:geomhash":"f6738093a559f4ef2a836e08fb3f9117",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404571643,
-    "wof:lastmodified":1582223048,
+    "wof:lastmodified":1684351761,
     "wof:name":"Saint-Barth\u00e9lemy",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":781,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

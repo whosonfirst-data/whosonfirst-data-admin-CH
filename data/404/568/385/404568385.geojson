@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6136",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Martigny",
+    "eurostat:nuts_2021_id":"CH6136",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6136",
+    "eurostat:population":18309,
+    "eurostat:population_year":2020,
     "geom:area":0.002908,
-    "geom:area_square_m":24932332.322794,
+    "geom:area_square_m":24932332.322793,
     "geom:bbox":"7.028459,46.073386,7.139159,46.138148",
     "geom:latitude":46.1072,
     "geom:longitude":7.081043,
@@ -193,14 +205,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063045,
-        85682281
+        85682281,
+        102063045
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6136",
+        "eurostat:nuts_2021_id":"CH6136",
         "gn:id":7286444,
         "gp:id":12683875,
         "qs_pg:id":1040533
@@ -213,7 +229,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"158b3784143ba8b57271d98c9b91e647",
+    "wof:geomhash":"233d606270f80e73c1c518e1e99539ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -224,10 +240,12 @@
         }
     ],
     "wof:id":404568385,
-    "wof:lastmodified":1598919594,
+    "wof:lastmodified":1684351717,
     "wof:name":"Martigny",
     "wof:parent_id":102063045,
     "wof:placetype":"localadmin",
+    "wof:population":18309,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

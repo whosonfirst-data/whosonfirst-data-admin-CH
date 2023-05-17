@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0335",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oeschenbach",
+    "eurostat:nuts_2021_id":"CH0335",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0335",
+    "eurostat:population":232,
+    "eurostat:population_year":2020,
     "geom:area":0.000464,
     "geom:area_square_m":3904432.841415,
     "geom:bbox":"7.725259,47.09869,7.762019,47.120761",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0335",
+        "eurostat:nuts_2021_id":"CH0335",
         "gn:id":7286729,
         "gp:id":12685050,
         "qs_pg:id":1018042
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1d72a8c806c534853b7a5581de653829",
+    "wof:geomhash":"8f272b6ac80b0642b8c49829975dc7dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571737,
-    "wof:lastmodified":1598920010,
+    "wof:lastmodified":1684351762,
     "wof:name":"Oeschenbach",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":232,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

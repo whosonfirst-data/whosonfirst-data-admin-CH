@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0941",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Thierachern",
+    "eurostat:nuts_2021_id":"CH0941",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0941",
+    "eurostat:population":2428,
+    "eurostat:population_year":2020,
     "geom:area":0.000886,
     "geom:area_square_m":7506207.746437,
     "geom:bbox":"7.540936,46.731579,7.593211,46.765191",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0941",
+        "eurostat:nuts_2021_id":"CH0941",
         "gn:id":7287302,
         "gp:id":12684497,
         "qs_pg:id":352673
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"deccbc04d00f1d531a6dbec5beeb416e",
+    "wof:geomhash":"1cf2f9b77310af65d4fc126500fafc30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404570441,
-    "wof:lastmodified":1598920559,
+    "wof:lastmodified":1684351746,
     "wof:name":"Thierachern",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":2428,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

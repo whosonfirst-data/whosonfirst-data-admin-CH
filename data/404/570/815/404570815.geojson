@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laufen-Uhwiesen",
+    "eurostat:nuts_2021_id":"CH0034",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0034",
+    "eurostat:population":1709,
+    "eurostat:population_year":2020,
     "geom:area":0.000752,
     "geom:area_square_m":6263445.108161,
     "geom:bbox":"8.606127,47.659827,8.679055,47.678829",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062801,
-        85682309
+        85682309,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0034",
+        "eurostat:nuts_2021_id":"CH0034",
         "gn:id":7286279,
         "gp:id":12684538,
         "qs_pg:id":671416
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ec4a37f878c900d792140f70f28d7ee3",
+    "wof:geomhash":"e559996456e63c60a67d99a342a17790",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404570815,
-    "wof:lastmodified":1598920669,
+    "wof:lastmodified":1684351751,
     "wof:name":"Laufen-Uhwiesen",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",
+    "wof:population":1709,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

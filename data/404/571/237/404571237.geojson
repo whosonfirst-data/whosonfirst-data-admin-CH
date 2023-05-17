@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fislisbach",
+    "eurostat:nuts_2021_id":"CH4027",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4027",
+    "eurostat:population":5546,
+    "eurostat:population_year":2020,
     "geom:area":0.000603,
-    "geom:area_square_m":5040388.229115,
+    "geom:area_square_m":5040388.229114,
     "geom:bbox":"8.268669,47.424848,8.314229,47.447825",
     "geom:latitude":47.437488,
     "geom:longitude":8.290749,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062843,
-        85682329
+        85682329,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4027",
+        "eurostat:nuts_2021_id":"CH4027",
         "gp:id":12685246,
         "qs_pg:id":62114
     },
@@ -134,7 +150,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"19402eccc1c225d0fa5bd2c4d0f5ae8d",
+    "wof:geomhash":"28c6a95f455ca347cc35c1abb070a868",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404571237,
-    "wof:lastmodified":1598920206,
+    "wof:lastmodified":1684351756,
     "wof:name":"Fislisbach",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
+    "wof:population":5546,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

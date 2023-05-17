@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponte Tresa",
+    "eurostat:nuts_2021_id":"CH5213",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5213",
+    "eurostat:population":800,
+    "eurostat:population_year":2020,
     "geom:area":0.000065,
     "geom:area_square_m":556605.401303,
     "geom:bbox":"8.853753,45.965435,8.864733,45.975906",
@@ -104,14 +116,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5213",
+        "eurostat:nuts_2021_id":"CH5213",
         "gn:id":7286815,
         "gp:id":12684210,
         "qs_pg:id":1102333
@@ -124,7 +140,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"00ea3b2a25fc9a6e80626aa386617adb",
+    "wof:geomhash":"bdff612c1a0e03d38d15dc8a819fac1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404573511,
-    "wof:lastmodified":1598919941,
+    "wof:lastmodified":1684351775,
     "wof:name":"Ponte Tresa",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":800,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

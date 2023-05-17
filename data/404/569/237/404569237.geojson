@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0586",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"L\u00fctschental",
+    "eurostat:nuts_2021_id":"CH0586",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0586",
+    "eurostat:population":216,
+    "eurostat:population_year":2020,
     "geom:area":0.001438,
-    "geom:area_square_m":12208848.378284,
+    "geom:area_square_m":12208848.378286,
     "geom:bbox":"7.925506,46.618198,7.979616,46.673278",
     "geom:latitude":46.643859,
     "geom:longitude":7.952171,
@@ -120,14 +132,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062759,
-        85682381
+        85682381,
+        102062759
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0586",
+        "eurostat:nuts_2021_id":"CH0586"
+    },
     "wof:coterminous":[
         1310140023
     ],
@@ -135,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"55947d289fb4296dd46d481243d1095f",
+    "wof:geomhash":"dc6f519c1bf54f1f27c1b4a80a2c0752",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +163,12 @@
         }
     ],
     "wof:id":404569237,
-    "wof:lastmodified":1598919337,
+    "wof:lastmodified":1684351732,
     "wof:name":"L\u00fctschental",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":216,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

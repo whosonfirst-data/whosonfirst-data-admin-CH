@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2547",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"G\u00fcnsberg",
+    "eurostat:nuts_2021_id":"CH2547",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2547",
+    "eurostat:population":1175,
+    "eurostat:population_year":2020,
     "geom:area":0.000625,
-    "geom:area_square_m":5248807.988069,
+    "geom:area_square_m":5248807.988068,
     "geom:bbox":"7.548114,47.249219,7.594903,47.276348",
     "geom:latitude":47.262967,
     "geom:longitude":7.574315,
@@ -105,14 +117,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137087,
-        85682365
+        85682365,
+        1394137087
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2547",
+        "eurostat:nuts_2021_id":"CH2547",
         "gp:id":12684912,
         "qs_pg:id":111802
     },
@@ -124,7 +140,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a2934b99f8fc2b915eec3983295ef470",
+    "wof:geomhash":"0c77636ccb3993136a774ce5b2489973",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404328669,
-    "wof:lastmodified":1598920329,
+    "wof:lastmodified":1684351699,
     "wof:name":"G\u00fcnsberg",
     "wof:parent_id":1394137087,
     "wof:placetype":"localadmin",
+    "wof:population":1175,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

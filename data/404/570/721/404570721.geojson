@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Adlikon",
+    "eurostat:nuts_2021_id":"CH0021",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0021",
+    "eurostat:population":707,
+    "eurostat:population_year":2020,
     "geom:area":0.000786,
-    "geom:area_square_m":6556104.183532,
+    "geom:area_square_m":6556104.183533,
     "geom:bbox":"8.6757019874,47.5718858165,8.73436015772,47.6050287591",
     "geom:latitude":47.585123,
     "geom:longitude":8.707116,
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0021",
+        "eurostat:nuts_2021_id":"CH0021",
         "gn:id":7285022,
         "gp:id":12685117,
         "qs_pg:id":671143
@@ -60,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7c98b8310ad4573d0191b416e233f9c4",
+    "wof:geomhash":"b3cb55dcb62b47ee4b823b97a29dcf14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +87,12 @@
         }
     ],
     "wof:id":404570721,
-    "wof:lastmodified":1582223112,
+    "wof:lastmodified":1684351750,
     "wof:name":"Adlikon",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",
+    "wof:population":707,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

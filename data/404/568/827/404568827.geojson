@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6433",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brot-Plamboz",
+    "eurostat:nuts_2021_id":"CH6433",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6433",
+    "eurostat:population":270,
+    "eurostat:population_year":2020,
     "geom:area":0.001902,
-    "geom:area_square_m":16047150.603076,
+    "geom:area_square_m":16047150.603074,
     "geom:bbox":"6.713916,46.957797,6.795156,47.018284",
     "geom:latitude":46.98485,
     "geom:longitude":6.753194,
@@ -97,6 +109,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6433",
+        "eurostat:nuts_2021_id":"CH6433",
         "gn:id":7285347,
         "gp:id":12683058,
         "qs_pg:id":538485
@@ -116,7 +132,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ebf4d716628c91ed568fab9b6d84795",
+    "wof:geomhash":"d0d6c11f3c3f1dabdf2b444a6f9db703",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404568827,
-    "wof:lastmodified":1598919495,
+    "wof:lastmodified":1684351725,
     "wof:name":"Brot-Plamboz",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":270,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

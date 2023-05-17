@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6642",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vandoeuvres",
+    "eurostat:nuts_2021_id":"CH6642",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6642",
+    "eurostat:population":2484,
+    "eurostat:population_year":2020,
     "geom:area":0.000515,
     "geom:area_square_m":4408270.394742,
     "geom:bbox":"6.18772061924,46.2069910253,6.2199948709,46.2328436594",
@@ -38,6 +50,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -46,6 +60,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6642",
+        "eurostat:nuts_2021_id":"CH6642",
         "gn:id":7287416,
         "gp:id":12683856,
         "qs_pg:id":213819
@@ -58,7 +74,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee626ba34a7929d2fcbc00a188277cad",
+    "wof:geomhash":"09adecd99b8677fecc97b3eb702c9121",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +85,12 @@
         }
     ],
     "wof:id":404328729,
-    "wof:lastmodified":1582223089,
+    "wof:lastmodified":1684351700,
     "wof:name":"Vandoeuvres",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":2484,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

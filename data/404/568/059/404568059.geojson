@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0766",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberwil im Simmental",
+    "eurostat:nuts_2021_id":"CH0766",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0766",
+    "eurostat:population":808,
+    "eurostat:population_year":2020,
     "geom:area":0.005413,
-    "geom:area_square_m":45940863.4431,
+    "geom:area_square_m":45940863.443098,
     "geom:bbox":"7.36928,46.597949,7.477584,46.702985",
     "geom:latitude":46.655903,
     "geom:longitude":7.431714,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062831,
-        85682381
+        85682381,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0766",
+        "eurostat:nuts_2021_id":"CH0766",
         "gn:id":7286722,
         "gp:id":12684024,
         "qs_pg:id":1118738
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9ee59244eef6e541d42fdcd34d771c39",
+    "wof:geomhash":"95f7736fed79fd23d1a813083115698c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404568059,
-    "wof:lastmodified":1598919704,
+    "wof:lastmodified":1684351711,
     "wof:name":"Oberwil im Simmental",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",
+    "wof:population":808,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

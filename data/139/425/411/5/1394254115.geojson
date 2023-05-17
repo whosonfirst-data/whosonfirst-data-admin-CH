@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2236",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gibloux",
+    "eurostat:nuts_2021_id":"CH2236",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2236",
+    "eurostat:population":7448,
+    "eurostat:population_year":2020,
     "geom:area":0.004267,
-    "geom:area_square_m":36174357.088181,
+    "geom:area_square_m":36174357.088185,
     "geom:bbox":"7.00400174284,46.6844435232,7.11500004505,46.7529243702",
     "geom:latitude":46.720065,
     "geom:longitude":7.061833,
@@ -24,6 +36,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -31,8 +45,12 @@
         102063029
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2236",
+        "eurostat:nuts_2021_id":"CH2236"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"5f0e80d92a11dade07144ec4c199c6f6",
+    "wof:geomhash":"fc560c83ef008c899b77072b5f1d6628",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,10 +61,12 @@
         }
     ],
     "wof:id":1394254115,
-    "wof:lastmodified":1566640368,
+    "wof:lastmodified":1684351781,
     "wof:name":"Gibloux",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":7448,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

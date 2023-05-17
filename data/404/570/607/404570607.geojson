@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0413",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Koppigen",
+    "eurostat:nuts_2021_id":"CH0413",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0413",
+    "eurostat:population":2095,
+    "eurostat:population_year":2020,
     "geom:area":0.000822,
-    "geom:area_square_m":6910585.817731,
+    "geom:area_square_m":6910585.817732,
     "geom:bbox":"7.583861,47.122063,7.626203,47.152675",
     "geom:latitude":47.135914,
     "geom:longitude":7.602711,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0413",
+        "eurostat:nuts_2021_id":"CH0413",
         "gn:id":7286218,
         "gp:id":12683781,
         "qs_pg:id":911077
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"2d7228a51c4b4e060eb8fa82b7346ced",
+    "wof:geomhash":"bcf496622713a7ea235b4849e192f1f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570607,
-    "wof:lastmodified":1598920703,
+    "wof:lastmodified":1684351748,
     "wof:name":"Koppigen",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":2095,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

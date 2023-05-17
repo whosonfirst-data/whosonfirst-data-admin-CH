@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2550",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Langendorf",
+    "eurostat:nuts_2021_id":"CH2550",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2550",
+    "eurostat:population":3782,
+    "eurostat:population_year":2020,
     "geom:area":0.000232,
     "geom:area_square_m":1947320.919782,
     "geom:bbox":"7.50161168486,47.2124031021,7.52818551268,47.2307676931",
@@ -39,6 +51,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2550",
+        "eurostat:nuts_2021_id":"CH2550",
         "gn:id":7286258,
         "gp:id":12684914,
         "qs_pg:id":902550
@@ -59,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"51858c00a47aa9688cd2aa721893194a",
+    "wof:geomhash":"cf2f8a2d125ebe356a916da02ef6839d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +86,12 @@
         }
     ],
     "wof:id":404328863,
-    "wof:lastmodified":1582223087,
+    "wof:lastmodified":1684351701,
     "wof:name":"Langendorf",
     "wof:parent_id":1394137087,
     "wof:placetype":"localadmin",
+    "wof:population":3782,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

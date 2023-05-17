@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0052",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bassersdorf",
+    "eurostat:nuts_2021_id":"CH0052",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0052",
+    "eurostat:population":11687,
+    "eurostat:population_year":2020,
     "geom:area":0.001076,
-    "geom:area_square_m":9001055.289734,
+    "geom:area_square_m":9001055.289733,
     "geom:bbox":"8.603052,47.420281,8.661369,47.459886",
     "geom:latitude":47.440384,
     "geom:longitude":8.630441,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063019,
-        85682309
+        85682309,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0052",
+        "eurostat:nuts_2021_id":"CH0052",
         "gn:id":7285165,
         "gp:id":12682912,
         "qs_pg:id":1310622
@@ -144,7 +160,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a0bc6f94d878494aadad661ca0ffdadb",
+    "wof:geomhash":"cc7875a33fbd10aaec2eae5901a386d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404570003,
-    "wof:lastmodified":1598920682,
+    "wof:lastmodified":1684351741,
     "wof:name":"Bassersdorf",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",
+    "wof:population":11687,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

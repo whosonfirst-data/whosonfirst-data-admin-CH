@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0261",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Z\u00fcrich",
+    "eurostat:nuts_2021_id":"CH0261",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0261",
+    "eurostat:population":415367,
+    "eurostat:population_year":2020,
     "geom:area":0.010943,
     "geom:area_square_m":91625193.106472,
     "geom:bbox":"8.448007,47.32022,8.625442,47.434666",
@@ -438,19 +450,25 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063071,
-        85682309
+        85682309,
+        102063071
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0261",
+        "eurostat:nuts_2021_id":"CH0261"
+    },
     "wof:coterminous":[
         101748463,
         102063071
     ],
     "wof:country":"CH",
-    "wof:geomhash":"009e52ec7132843ee20046631dedaf87",
+    "wof:geomhash":"1afcbfa548c96a021b821dfe780defd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -461,10 +479,12 @@
         }
     ],
     "wof:id":1394254167,
-    "wof:lastmodified":1607980765,
+    "wof:lastmodified":1684351783,
     "wof:name":"Z\u00fcrich",
     "wof:parent_id":102063071,
     "wof:placetype":"localadmin",
+    "wof:population":415367,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

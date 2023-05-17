@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0763",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Erlenbach im Simmental",
+    "eurostat:nuts_2021_id":"CH0763",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0763",
+    "eurostat:population":1746,
+    "eurostat:population_year":2020,
     "geom:area":0.004312,
     "geom:area_square_m":36594906.182508,
     "geom:bbox":"7.469913,46.61775,7.616177,46.694412",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062831,
-        85682381
+        85682381,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0763",
+        "eurostat:nuts_2021_id":"CH0763",
         "gn:id":7285752,
         "gp:id":12682858,
         "qs_pg:id":538402
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"189627a863970a7e2b35e27acf487f7d",
+    "wof:geomhash":"bf2fe845756bc5615ef1225e9a730834",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404568169,
-    "wof:lastmodified":1598919494,
+    "wof:lastmodified":1684351713,
     "wof:name":"Erlenbach im Simmental",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",
+    "wof:population":1746,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

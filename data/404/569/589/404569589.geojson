@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1349",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wangen (SZ)",
+    "eurostat:nuts_2021_id":"CH1349",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1349",
+    "eurostat:population":5054,
+    "eurostat:population_year":2020,
     "geom:area":0.001305,
-    "geom:area_square_m":10966056.524483,
+    "geom:area_square_m":10966056.524484,
     "geom:bbox":"8.86046741529,47.1754622716,8.91294873268,47.2147074332",
     "geom:latitude":47.197858,
     "geom:longitude":8.889325,
@@ -100,6 +112,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -108,6 +122,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1349",
+        "eurostat:nuts_2021_id":"CH1349",
         "gn:id":7287543,
         "gp:id":12684405,
         "qs_pg:id":671680
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"68dd8eb15460fe572563c502a9b14a84",
+    "wof:geomhash":"765d31533e8d51c0a54be03b36c76868",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404569589,
-    "wof:lastmodified":1582222957,
+    "wof:lastmodified":1684351735,
     "wof:name":"Wangen",
     "wof:parent_id":102062927,
     "wof:placetype":"localadmin",
+    "wof:population":5054,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

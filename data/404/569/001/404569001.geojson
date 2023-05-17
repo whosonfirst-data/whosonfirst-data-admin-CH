@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0435",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Ferri\u00e8re",
+    "eurostat:nuts_2021_id":"CH0435",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0435",
+    "eurostat:population":534,
+    "eurostat:population_year":2020,
     "geom:area":0.001679,
-    "geom:area_square_m":14118786.439093,
+    "geom:area_square_m":14118786.439091,
     "geom:bbox":"6.86149236953,47.1207428206,6.93402620563,47.1741133966",
     "geom:latitude":47.143375,
     "geom:longitude":6.900297,
@@ -94,6 +106,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -102,6 +116,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0435",
+        "eurostat:nuts_2021_id":"CH0435",
         "gn:id":7286247,
         "gp:id":12683805,
         "qs_pg:id":1188058
@@ -111,7 +127,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"54690bf665b296aad36d376a2bdbdbc7",
+    "wof:geomhash":"a435b454e05cbbaa4cf0c2ef2aca7770",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404569001,
-    "wof:lastmodified":1582222954,
+    "wof:lastmodified":1684351728,
     "wof:name":"La Ferri\u00e8re",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":534,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

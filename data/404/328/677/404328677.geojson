@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2580",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kappel (SO)",
+    "eurostat:nuts_2021_id":"CH2580",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2580",
+    "eurostat:population":3239,
+    "eurostat:population_year":2020,
     "geom:area":0.000607,
     "geom:area_square_m":5090452.442874,
     "geom:bbox":"7.83209874254,47.3108068847,7.88082440361,47.3333720027",
@@ -76,6 +88,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -84,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2580",
+        "eurostat:nuts_2021_id":"CH2580",
         "gn:id":7286182,
         "gp:id":12685227,
         "qs_pg:id":204424
@@ -96,7 +112,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d7cb5a4847170e331ba4cca0df22567d",
+    "wof:geomhash":"efba8aada3a715746fea3b6891f762cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404328677,
-    "wof:lastmodified":1582223084,
+    "wof:lastmodified":1684351699,
     "wof:name":"Kappel",
     "wof:parent_id":1394137091,
     "wof:placetype":"localadmin",
+    "wof:population":3239,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

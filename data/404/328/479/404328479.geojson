@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wikon",
+    "eurostat:nuts_2021_id":"CH1147",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1147",
+    "eurostat:population":1529,
+    "eurostat:population_year":2020,
     "geom:area":0.000984,
-    "geom:area_square_m":8258295.369209,
+    "geom:area_square_m":8258295.369211,
     "geom:bbox":"7.949162,47.254223,8.013754,47.281553",
     "geom:latitude":47.267711,
     "geom:longitude":7.979016,
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137075,
-        85682319
+        85682319,
+        1394137075
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1147",
+        "eurostat:nuts_2021_id":"CH1147",
         "gn:id":7287572,
         "gp:id":12684630,
         "qs_pg:id":952933
@@ -125,7 +141,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2228454bbec3a24ba74a6c10d83520bd",
+    "wof:geomhash":"2d86e311de8137826c11d19ad8c2e046",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404328479,
-    "wof:lastmodified":1598920303,
+    "wof:lastmodified":1684351696,
     "wof:name":"Wikon",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",
+    "wof:population":1529,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

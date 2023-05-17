@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Basel-Landschaft",
+    "eurostat:name_local":"Basel-Landschaft",
+    "eurostat:nuts_2021_id":"CH032",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:population":292817,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"1",
     "geom:area":0.061736,
-    "geom:area_square_m":516202755.653423,
+    "geom:area_square_m":516202755.653432,
     "geom:bbox":"7.325187,47.337882,7.961832,47.564361",
     "geom:latitude":47.451684,
     "geom:longitude":7.702198,
@@ -457,8 +471,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"428",
     "statoids:area_mi":"165",
     "statoids:as_of_date":"2010-12-31",
@@ -479,6 +493,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":10162,
+        "eurostat:nuts_2021_id":"CH032",
         "fips:code":"SZ03",
         "gn:id":2661603,
         "gp:id":2347085,
@@ -490,7 +505,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e11a435ead94ab3d2da70de685cad9c",
+    "wof:geomhash":"5655ce15adb46ba7e7665e0a94284e12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -512,12 +527,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1617131420,
+    "wof:lastmodified":1684351503,
     "wof:name":"Basel-Country",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":274404,
+    "wof:population":292817,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"BL",

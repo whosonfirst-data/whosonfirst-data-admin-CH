@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0886",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wattenwil",
+    "eurostat:nuts_2021_id":"CH0886",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0886",
+    "eurostat:population":2936,
+    "eurostat:population_year":2020,
     "geom:area":0.001712,
     "geom:area_square_m":14499665.015092,
     "geom:bbox":"7.459735,46.733475,7.520722,46.784248",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0886",
+        "eurostat:nuts_2021_id":"CH0886",
         "gn:id":7287548,
         "gp:id":12683614,
         "qs_pg:id":949228
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"04d1fb4578ed757c65418ecfb7cd6f92",
+    "wof:geomhash":"7c4375c9ebfd15e4af9be4bd8df9a044",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404568955,
-    "wof:lastmodified":1598919493,
+    "wof:lastmodified":1684351728,
     "wof:name":"Wattenwil",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":2936,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0973",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bettenhausen",
+    "eurostat:nuts_2021_id":"CH0973",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0973",
+    "eurostat:population":631,
+    "eurostat:population_year":2020,
     "geom:area":0.000467,
     "geom:area_square_m":3924250.096285,
     "geom:bbox":"7.69188318757,47.1579892147,7.72557278268,47.1823959784",
@@ -55,6 +67,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -63,6 +77,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0973",
+        "eurostat:nuts_2021_id":"CH0973",
         "gn:id":7285222,
         "qs_pg:id":671186
     },
@@ -71,7 +87,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a46051ca5b818ba0eb715f5b6905de4b",
+    "wof:geomhash":"daf5022f67a4d1d530dc95f3f1b427ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,10 +98,12 @@
         }
     ],
     "wof:id":404571727,
-    "wof:lastmodified":1582223067,
+    "wof:lastmodified":1684351762,
     "wof:name":"Bettenhausen",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":631,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

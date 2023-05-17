@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5756",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montcherand",
+    "eurostat:nuts_2021_id":"CH5756",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5756",
+    "eurostat:population":488,
+    "eurostat:population_year":2020,
     "geom:area":0.000362,
-    "geom:area_square_m":3065373.886614,
+    "geom:area_square_m":3065373.886615,
     "geom:bbox":"6.494163,46.725958,6.527452,46.743199",
     "geom:latitude":46.733987,
     "geom:longitude":6.510769,
@@ -93,14 +105,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5756",
+        "eurostat:nuts_2021_id":"CH5756"
+    },
     "wof:coterminous":[
         1125964637
     ],
@@ -108,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ffc8704560fc5799865d658b28ef06bc",
+    "wof:geomhash":"3184be076ec1dfc87499469b921428eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404572093,
-    "wof:lastmodified":1598919858,
+    "wof:lastmodified":1684351766,
     "wof:name":"Montcherand",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":488,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

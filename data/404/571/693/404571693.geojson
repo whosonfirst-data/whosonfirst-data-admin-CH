@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2198",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Granges-Paccot",
+    "eurostat:nuts_2021_id":"CH2198",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2198",
+    "eurostat:population":3750,
+    "eurostat:population_year":2020,
     "geom:area":0.00047,
     "geom:area_square_m":3980596.302939,
     "geom:bbox":"7.124199,46.811858,7.172014,46.832888",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063029,
-        85682301
+        85682301,
+        102063029
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2198",
+        "eurostat:nuts_2021_id":"CH2198",
         "gp:id":12684992,
         "qs_pg:id":235882
     },
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e58b570ce865ddc99008dc0fb0e93b94",
+    "wof:geomhash":"6873be11c480113616cd3998c1b92160",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404571693,
-    "wof:lastmodified":1598920077,
+    "wof:lastmodified":1684351762,
     "wof:name":"Granges-Paccot",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":3750,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

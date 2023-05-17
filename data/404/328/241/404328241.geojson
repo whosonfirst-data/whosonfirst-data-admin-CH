@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Basel",
+    "eurostat:nuts_2021_id":"CH2701",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH031",
+    "eurostat:nuts_2021_level_lau":"CH2701",
+    "eurostat:population":172258,
+    "eurostat:population_year":2020,
     "geom:area":0.00285,
-    "geom:area_square_m":23785947.935285,
+    "geom:area_square_m":23785947.935284,
     "geom:bbox":"7.554654,47.519292,7.634141,47.589896",
     "geom:latitude":47.557751,
     "geom:longitude":7.593595,
@@ -395,14 +407,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062895,
-        85682297
+        85682297,
+        102062895
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2701",
+        "eurostat:nuts_2021_id":"CH2701",
         "gn:id":7285161,
         "gp:id":12682721,
         "qs_pg:id":242308
@@ -415,7 +431,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6acaa6c827db15157e4fc1c77561a90e",
+    "wof:geomhash":"85a10e0c0180d8da12e4fcb23db18908",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -426,10 +442,12 @@
         }
     ],
     "wof:id":404328241,
-    "wof:lastmodified":1598920425,
+    "wof:lastmodified":1684351692,
     "wof:name":"Basel",
     "wof:parent_id":102062895,
     "wof:placetype":"localadmin",
+    "wof:population":172258,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

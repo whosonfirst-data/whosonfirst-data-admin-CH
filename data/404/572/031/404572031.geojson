@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hunzenschwil",
+    "eurostat:nuts_2021_id":"CH4200",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4200",
+    "eurostat:population":4016,
+    "eurostat:population_year":2020,
     "geom:area":0.000389,
     "geom:area_square_m":3254939.669034,
     "geom:bbox":"8.106122,47.372332,8.137243,47.392973",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063017,
-        85682329
+        85682329,
+        102063017
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4200",
+        "eurostat:nuts_2021_id":"CH4200",
         "gn:id":7286124,
         "gp:id":12685245,
         "qs_pg:id":248694
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7e88cd4c75df860dcec0d0bac6f1e6d4",
+    "wof:geomhash":"7e72edc6220589a5414bfd273b147a8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404572031,
-    "wof:lastmodified":1598919792,
+    "wof:lastmodified":1684351766,
     "wof:name":"Hunzenschwil",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",
+    "wof:population":4016,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

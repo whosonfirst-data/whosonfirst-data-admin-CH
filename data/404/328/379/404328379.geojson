@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schongau",
+    "eurostat:nuts_2021_id":"CH1041",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1041",
+    "eurostat:population":1039,
+    "eurostat:population_year":2020,
     "geom:area":0.001477,
-    "geom:area_square_m":12395166.023656,
+    "geom:area_square_m":12395166.023655,
     "geom:bbox":"8.24099003899,47.2477078518,8.30025540285,47.2871932907",
     "geom:latitude":47.267512,
     "geom:longitude":8.270481,
@@ -87,6 +99,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1041",
+        "eurostat:nuts_2021_id":"CH1041",
         "gn:id":7287111,
         "gp:id":12684077,
         "qs_pg:id":1293347
@@ -107,7 +123,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b151ea4aa1a2e6edb725713634e2bb8c",
+    "wof:geomhash":"b30848891a176a32899d74868c392126",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":404328379,
-    "wof:lastmodified":1582223076,
+    "wof:lastmodified":1684351695,
     "wof:name":"Schongau",
     "wof:parent_id":1394137081,
     "wof:placetype":"localadmin",
+    "wof:population":1039,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

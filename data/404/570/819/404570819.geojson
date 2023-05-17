@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4166",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Herznach",
+    "eurostat:nuts_2021_id":"CH4166",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4166",
+    "eurostat:population":1545,
+    "eurostat:population_year":2020,
     "geom:area":0.000747,
     "geom:area_square_m":6247040.953583,
     "geom:bbox":"8.015071,47.461965,8.078258,47.481543",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062977,
-        85682329
+        85682329,
+        102062977
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4166",
+        "eurostat:nuts_2021_id":"CH4166",
         "gn:id":7286077,
         "gp:id":12684959,
         "qs_pg:id":498953
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9c550743afaed940b4b6c9c24fc55b34",
+    "wof:geomhash":"897eccdddcb2fa6246472352d7ea7017",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570819,
-    "wof:lastmodified":1598920559,
+    "wof:lastmodified":1684351751,
     "wof:name":"Herznach",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",
+    "wof:population":1545,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

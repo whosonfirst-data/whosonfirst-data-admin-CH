@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6422",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Les Planchettes",
+    "eurostat:nuts_2021_id":"CH6422",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6422",
+    "eurostat:population":210,
+    "eurostat:population_year":2020,
     "geom:area":0.00139,
-    "geom:area_square_m":11699079.819798,
+    "geom:area_square_m":11699079.819799,
     "geom:bbox":"6.735472,47.087755,6.804502,47.127041",
     "geom:latitude":47.108201,
     "geom:longitude":6.771354,
@@ -97,6 +109,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6422",
+        "eurostat:nuts_2021_id":"CH6422",
         "gp:id":12684851,
         "qs_pg:id":1002573
     },
@@ -115,7 +131,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a576440dce0aade48328d34cd04b58c6",
+    "wof:geomhash":"71efd0af732c4e01fd87d47e09355d94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404569339,
-    "wof:lastmodified":1598919162,
+    "wof:lastmodified":1684351733,
     "wof:name":"Les Planchettes",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":210,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

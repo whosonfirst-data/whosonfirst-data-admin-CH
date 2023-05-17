@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"H\u00fcntwangen",
+    "eurostat:nuts_2021_id":"CH0061",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0061",
+    "eurostat:population":1031,
+    "eurostat:population_year":2020,
     "geom:area":0.000587,
     "geom:area_square_m":4894258.414192,
     "geom:bbox":"8.479273,47.580504,8.518117,47.605514",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063019,
-        85682309
+        85682309,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0061",
+        "eurostat:nuts_2021_id":"CH0061",
         "gn:id":7286123,
         "gp:id":12683357,
         "qs_pg:id":1218760
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"39948e6c15ac4efeee36431707d83a23",
+    "wof:geomhash":"d08cace77886e37caf1d6ef18d5ab28b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404571287,
-    "wof:lastmodified":1598920040,
+    "wof:lastmodified":1684351757,
     "wof:name":"H\u00fcntwangen",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",
+    "wof:population":1031,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

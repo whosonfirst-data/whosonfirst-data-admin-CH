@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reinach (AG)",
+    "eurostat:nuts_2021_id":"CH4141",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4141",
+    "eurostat:population":8501,
+    "eurostat:population_year":2020,
     "geom:area":0.001126,
-    "geom:area_square_m":9449144.648957,
+    "geom:area_square_m":9449144.648959,
     "geom:bbox":"8.142529,47.245511,8.206709,47.285377",
     "geom:latitude":47.261153,
     "geom:longitude":8.179288,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062983,
-        85682329
+        85682329,
+        102062983
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4141",
+        "eurostat:nuts_2021_id":"CH4141",
         "gn:id":7286876,
         "gp:id":12684248,
         "qs_pg:id":1102346
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a6362be11fb1932263f636cc5d500319",
+    "wof:geomhash":"dfba64afdf0d750cd41511ddfbb6fce5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404569909,
-    "wof:lastmodified":1598919145,
+    "wof:lastmodified":1684351740,
     "wof:name":"Reinach",
     "wof:parent_id":102062983,
     "wof:placetype":"localadmin",
+    "wof:population":8501,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

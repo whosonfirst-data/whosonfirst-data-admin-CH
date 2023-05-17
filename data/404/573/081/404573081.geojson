@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5885",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jongny",
+    "eurostat:nuts_2021_id":"CH5885",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5885",
+    "eurostat:population":1534,
+    "eurostat:population_year":2020,
     "geom:area":0.000253,
-    "geom:area_square_m":2153790.131347,
+    "geom:area_square_m":2153790.131346,
     "geom:bbox":"6.83219048009,46.4751389545,6.85832307267,46.5050549374",
     "geom:latitude":46.487623,
     "geom:longitude":6.846548,
@@ -97,6 +109,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -105,6 +119,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5885",
+        "eurostat:nuts_2021_id":"CH5885",
         "gp:id":12684822,
         "qs_pg:id":62060
     },
@@ -116,7 +132,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d1787ef8b1af2513c2b0b9241c11fb6",
+    "wof:geomhash":"f30cca336e72b33152350ef99a9e2b28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404573081,
-    "wof:lastmodified":1582223041,
+    "wof:lastmodified":1684351770,
     "wof:name":"Jongny",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",
+    "wof:population":1534,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

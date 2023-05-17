@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neuenhof",
+    "eurostat:nuts_2021_id":"CH4034",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4034",
+    "eurostat:population":8825,
+    "eurostat:population_year":2020,
     "geom:area":0.000641,
     "geom:area_square_m":5364180.970803,
     "geom:bbox":"8.304414,47.427797,8.346185,47.460036",
@@ -85,14 +97,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062843,
-        85682329
+        85682329,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4034",
+        "eurostat:nuts_2021_id":"CH4034",
         "gn:id":7286625,
         "gp:id":12684069,
         "qs_pg:id":241585
@@ -105,7 +121,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8808e24ad2665102bd0b05d471e624e3",
+    "wof:geomhash":"da6942fdf67fefeee0016fd2cf3df075",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404571149,
-    "wof:lastmodified":1598920243,
+    "wof:lastmodified":1684351755,
     "wof:name":"Neuenhof",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
+    "wof:population":8825,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

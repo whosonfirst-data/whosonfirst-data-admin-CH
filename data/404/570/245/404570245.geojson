@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6718",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Movelier",
+    "eurostat:nuts_2021_id":"CH6718",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6718",
+    "eurostat:population":422,
+    "eurostat:population_year":2020,
     "geom:area":0.000963,
-    "geom:area_square_m":8059663.832476,
+    "geom:area_square_m":8059663.832475,
     "geom:bbox":"7.298313,47.399568,7.36308,47.421517",
     "geom:latitude":47.409069,
     "geom:longitude":7.328434,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062791,
-        85682347
+        85682347,
+        102062791
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6718",
+        "eurostat:nuts_2021_id":"CH6718",
         "gn:id":7286567,
         "qs_pg:id":671472
     },
@@ -116,7 +132,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3f0f2ad4a194c5ea46e627d25f61c084",
+    "wof:geomhash":"3faa4aed1bc00b74f33524fd529ab7dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404570245,
-    "wof:lastmodified":1598920549,
+    "wof:lastmodified":1684351744,
     "wof:name":"Movelier",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
+    "wof:population":422,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

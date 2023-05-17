@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4080",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villmergen",
+    "eurostat:nuts_2021_id":"CH4080",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4080",
+    "eurostat:population":7328,
+    "eurostat:population_year":2020,
     "geom:area":0.001422,
-    "geom:area_square_m":11910642.394305,
+    "geom:area_square_m":11910642.394308,
     "geom:bbox":"8.211761,47.323549,8.265442,47.379646",
     "geom:latitude":47.348087,
     "geom:longitude":8.241656,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062877,
-        85682329
+        85682329,
+        102062877
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4080",
+        "eurostat:nuts_2021_id":"CH4080",
         "gn:id":7287479,
         "gp:id":12684584,
         "qs_pg:id":972400
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bdf013ce7f281ef65d0b3e8dc857fe71",
+    "wof:geomhash":"938345c53c241e6fe98d723b1c9c371b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404569291,
-    "wof:lastmodified":1598919329,
+    "wof:lastmodified":1684351733,
     "wof:name":"Villmergen",
     "wof:parent_id":102062877,
     "wof:placetype":"localadmin",
+    "wof:population":7328,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

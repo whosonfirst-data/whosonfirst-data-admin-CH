@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0626",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Walkringen",
+    "eurostat:nuts_2021_id":"CH0626",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0626",
+    "eurostat:population":1767,
+    "eurostat:population_year":2020,
     "geom:area":0.002034,
-    "geom:area_square_m":17165489.01817,
+    "geom:area_square_m":17165489.018168,
     "geom:bbox":"7.590394,46.932,7.66152,46.986473",
     "geom:latitude":46.960688,
     "geom:longitude":7.627351,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0626",
+        "eurostat:nuts_2021_id":"CH0626",
         "gn:id":7287526,
         "gp:id":12682971,
         "qs_pg:id":1322170
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4d47efaefc9e23888a703521a716ecdf",
+    "wof:geomhash":"8cc1d2fa456b7e19f5991ed02c476345",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568763,
-    "wof:lastmodified":1598919460,
+    "wof:lastmodified":1684351724,
     "wof:name":"Walkringen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":1767,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

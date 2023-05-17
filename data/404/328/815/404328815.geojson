@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aire-la-Ville",
+    "eurostat:nuts_2021_id":"CH6601",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6601",
+    "eurostat:population":1184,
+    "eurostat:population_year":2020,
     "geom:area":0.000341,
-    "geom:area_square_m":2918860.816254,
+    "geom:area_square_m":2918860.816253,
     "geom:bbox":"6.028153,46.181856,6.060383,46.199466",
     "geom:latitude":46.190228,
     "geom:longitude":6.042243,
@@ -110,14 +122,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6601",
+        "eurostat:nuts_2021_id":"CH6601",
         "gn:id":7285043,
         "gp:id":12682739,
         "qs_pg:id":248852
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fed325b41ee7f72ff40e96ee41c60e5b",
+    "wof:geomhash":"4fbcfcd9a7452449daef1055b85e3580",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404328815,
-    "wof:lastmodified":1598920436,
+    "wof:lastmodified":1684351701,
     "wof:name":"Aire-la-Ville",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":1184,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5754",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Juriens",
+    "eurostat:nuts_2021_id":"CH5754",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5754",
+    "eurostat:population":308,
+    "eurostat:population_year":2020,
     "geom:area":0.001099,
     "geom:area_square_m":9325908.617384,
     "geom:bbox":"6.39035,46.661817,6.46324,46.696155",
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5754",
+        "eurostat:nuts_2021_id":"CH5754",
         "gn:id":7286168,
         "qs_pg:id":671392
     },
@@ -110,7 +126,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e19341a27ee3d2f9989776351ffaab5a",
+    "wof:geomhash":"b5c6c0b7c3c3f4c5c77b47ade1a340d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":404569933,
-    "wof:lastmodified":1598919283,
+    "wof:lastmodified":1684351740,
     "wof:name":"Juriens",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":308,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

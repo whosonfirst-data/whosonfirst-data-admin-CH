@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberuzwil",
+    "eurostat:nuts_2021_id":"CH3407",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3407",
+    "eurostat:population":6413,
+    "eurostat:population_year":2020,
     "geom:area":0.001678,
     "geom:area_square_m":14036871.400094,
     "geom:bbox":"9.098433,47.399753,9.184037,47.439624",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062947,
-        85682341
+        85682341,
+        102062947
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3407",
+        "eurostat:nuts_2021_id":"CH3407",
         "gn:id":7286718,
         "gp:id":12684139,
         "qs_pg:id":671505
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a3f30cec17d86ba8a394acd89ac6d97c",
+    "wof:geomhash":"7726ed501672961938bd7743042c5255",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404569013,
-    "wof:lastmodified":1598919187,
+    "wof:lastmodified":1684351729,
     "wof:name":"Oberuzwil",
     "wof:parent_id":102062947,
     "wof:placetype":"localadmin",
+    "wof:population":6413,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5665",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chavannes-sur-Moudon",
+    "eurostat:nuts_2021_id":"CH5665",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5665",
+    "eurostat:population":215,
+    "eurostat:population_year":2020,
     "geom:area":0.000605,
     "geom:area_square_m":5134997.479741,
     "geom:bbox":"6.79729,46.647383,6.845841,46.675205",
@@ -93,14 +105,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062969,
-        85682325
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5665",
+        "eurostat:nuts_2021_id":"CH5665"
+    },
     "wof:coterminous":[
         1125860653
     ],
@@ -108,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a7223459e1f4d5ebbc1f240559246d43",
+    "wof:geomhash":"0f92f38ed66936885be4454807a8e9c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404571203,
-    "wof:lastmodified":1598920076,
+    "wof:lastmodified":1684351756,
     "wof:name":"Chavannes-sur-Moudon",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":215,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

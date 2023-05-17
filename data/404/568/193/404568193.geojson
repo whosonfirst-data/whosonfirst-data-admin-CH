@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3254",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberriet (SG)",
+    "eurostat:nuts_2021_id":"CH3254",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3254",
+    "eurostat:population":8879,
+    "eurostat:population_year":2020,
     "geom:area":0.004118,
-    "geom:area_square_m":34506812.238147,
+    "geom:area_square_m":34506812.238153,
     "geom:bbox":"9.492509,47.30412,9.636012,47.391084",
     "geom:latitude":47.334907,
     "geom:longitude":9.563557,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063005,
-        85682341
+        85682341,
+        102063005
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3254",
+        "eurostat:nuts_2021_id":"CH3254",
         "gn:id":7286709,
         "qs_pg:id":671502
     },
@@ -131,7 +147,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff9b3e5d124b815481869909500c2752",
+    "wof:geomhash":"b5698b23a3b9efe7ecf39b9f849bc209",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404568193,
-    "wof:lastmodified":1598919486,
+    "wof:lastmodified":1684351714,
     "wof:name":"Oberriet",
     "wof:parent_id":102063005,
     "wof:placetype":"localadmin",
+    "wof:population":8879,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0842",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lauenen",
+    "eurostat:nuts_2021_id":"CH0842",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0842",
+    "eurostat:population":827,
+    "eurostat:population_year":2020,
     "geom:area":0.006842,
-    "geom:area_square_m":58344139.269685,
+    "geom:area_square_m":58344139.269684,
     "geom:bbox":"7.292674,46.343787,7.391584,46.451359",
     "geom:latitude":46.398091,
     "geom:longitude":7.338645,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062821,
-        85682381
+        85682381,
+        102062821
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0842",
+        "eurostat:nuts_2021_id":"CH0842",
         "gn:id":7286274,
         "gp:id":12683836,
         "qs_pg:id":245541
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fb1f7ebfb50124fcaf698bc9d23deee5",
+    "wof:geomhash":"f50fa2c9ab523b7091e9849211aafcd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404567931,
-    "wof:lastmodified":1598919372,
+    "wof:lastmodified":1684351708,
     "wof:name":"Lauenen",
     "wof:parent_id":102062821,
     "wof:placetype":"localadmin",
+    "wof:population":827,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

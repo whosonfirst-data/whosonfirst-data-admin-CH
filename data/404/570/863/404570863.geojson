@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6783",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Courchavon",
+    "eurostat:nuts_2021_id":"CH6783",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6783",
+    "eurostat:population":294,
+    "eurostat:population_year":2020,
     "geom:area":0.000738,
     "geom:area_square_m":6176430.867761,
     "geom:bbox":"7.022953,47.426141,7.070115,47.450033",
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063059,
-        85682347
+        85682347,
+        102063059
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6783",
+        "eurostat:nuts_2021_id":"CH6783",
         "gn:id":7285574,
         "qs_pg:id":671259
     },
@@ -113,7 +129,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a584aa2b9751c4a7f757e61e7de08a01",
+    "wof:geomhash":"18cc3836bf8fa3966ec09791d5a978f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":404570863,
-    "wof:lastmodified":1598920706,
+    "wof:lastmodified":1684351751,
     "wof:name":"Courchavon",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
+    "wof:population":294,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

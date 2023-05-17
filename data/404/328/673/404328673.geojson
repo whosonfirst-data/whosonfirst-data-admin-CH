@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sch\u00f6nengrund",
+    "eurostat:nuts_2021_id":"CH3003",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH053",
+    "eurostat:nuts_2021_level_lau":"CH3003",
+    "eurostat:population":532,
+    "eurostat:population_year":2020,
     "geom:area":0.000618,
-    "geom:area_square_m":5178142.843498,
+    "geom:area_square_m":5178142.843497,
     "geom:bbox":"9.209826,47.308012,9.254756,47.332835",
     "geom:latitude":47.320741,
     "geom:longitude":9.231882,
@@ -114,14 +126,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137085,
-        85682353
+        85682353,
+        1394137085
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3003",
+        "eurostat:nuts_2021_id":"CH3003",
         "gn:id":7287109,
         "gp:id":12684377,
         "qs_pg:id":1180581
@@ -131,7 +147,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"06995ec6f64d020043a891c8bb19c399",
+    "wof:geomhash":"57a8977e3eca0f668d64837784ee5a9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404328673,
-    "wof:lastmodified":1598920310,
+    "wof:lastmodified":1684351699,
     "wof:name":"Sch\u00f6nengrund",
     "wof:parent_id":1394137085,
     "wof:placetype":"localadmin",
+    "wof:population":532,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

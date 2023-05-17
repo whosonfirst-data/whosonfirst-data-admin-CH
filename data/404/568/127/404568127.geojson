@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5568",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sainte-Croix",
+    "eurostat:nuts_2021_id":"CH5568",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5568",
+    "eurostat:population":4863,
+    "eurostat:population_year":2020,
     "geom:area":0.004653,
-    "geom:area_square_m":39370015.839212,
+    "geom:area_square_m":39370015.839215,
     "geom:bbox":"6.431044,46.790354,6.556524,46.858704",
     "geom:latitude":46.823682,
     "geom:longitude":6.488946,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5568",
+        "eurostat:nuts_2021_id":"CH5568",
         "gn:id":7287026,
         "qs_pg:id":1154307
     },
@@ -116,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"779f65b64d0ecb4bbdee37e7779c43e3",
+    "wof:geomhash":"d974ec167274cf87fba40e9ab2ddc9f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404568127,
-    "wof:lastmodified":1598919592,
+    "wof:lastmodified":1684351712,
     "wof:name":"Sainte-Croix",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":4863,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

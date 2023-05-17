@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5489",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mex (VD)",
+    "eurostat:nuts_2021_id":"CH5489",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5489",
+    "eurostat:population":725,
+    "eurostat:population_year":2020,
     "geom:area":0.000332,
     "geom:area_square_m":2819779.988251,
     "geom:bbox":"6.54670452637,46.5657357774,6.57581305771,46.5858574485",
@@ -43,6 +55,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -51,6 +65,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5489",
+        "eurostat:nuts_2021_id":"CH5489",
         "gn:id":7286499,
         "gp:id":12684681,
         "qs_pg:id":671462
@@ -63,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fc6ebe86c9ee181699767e471a587cf2",
+    "wof:geomhash":"159bd9729d9a0fb4ea4fc09be1957e2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,10 +90,12 @@
         }
     ],
     "wof:id":404572211,
-    "wof:lastmodified":1582223027,
+    "wof:lastmodified":1684351768,
     "wof:name":"Mex",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":725,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

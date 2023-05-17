@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3360",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nesslau",
+    "eurostat:nuts_2021_id":"CH3360",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3360",
+    "eurostat:population":3578,
+    "eurostat:population_year":2020,
     "geom:area":0.01101,
-    "geom:area_square_m":92450726.490688,
+    "geom:area_square_m":92450726.49069,
     "geom:bbox":"9.12282421501,47.1772749341,9.32379556205,47.2788890454",
     "geom:latitude":47.228232,
     "geom:longitude":9.217068,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -52,8 +66,12 @@
         102062771
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3360",
+        "eurostat:nuts_2021_id":"CH3360"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"892a1e6c83c3666e3fa0e3902b51c980",
+    "wof:geomhash":"880247b0dbd1f618cbd439e2ec56d7ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +82,12 @@
         }
     ],
     "wof:id":1394254163,
-    "wof:lastmodified":1566640368,
+    "wof:lastmodified":1684351783,
     "wof:name":"Nesslau",
     "wof:parent_id":102062771,
     "wof:placetype":"localadmin",
+    "wof:population":3578,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

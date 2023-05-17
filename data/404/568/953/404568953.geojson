@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Regensdorf",
+    "eurostat:nuts_2021_id":"CH0096",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0096",
+    "eurostat:population":18457,
+    "eurostat:population_year":2020,
     "geom:area":0.001743,
-    "geom:area_square_m":14579908.824432,
+    "geom:area_square_m":14579908.82443,
     "geom:bbox":"8.440769,47.418185,8.503038,47.461402",
     "geom:latitude":47.439878,
     "geom:longitude":8.471333,
@@ -130,14 +142,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062995,
-        85682309
+        85682309,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0096",
+        "eurostat:nuts_2021_id":"CH0096",
         "gn:id":7286870,
         "gp:id":12684242,
         "qs_pg:id":1208602
@@ -147,7 +163,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"711a1871976d454339cb6dc315fecef1",
+    "wof:geomhash":"fecbdb629133be90b57095e420c237b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404568953,
-    "wof:lastmodified":1598919473,
+    "wof:lastmodified":1684351728,
     "wof:name":"Regensdorf",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",
+    "wof:population":18457,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0751",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"T\u00e4uffelen",
+    "eurostat:nuts_2021_id":"CH0751",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0751",
+    "eurostat:population":2872,
+    "eurostat:population_year":2020,
     "geom:area":0.000518,
     "geom:area_square_m":4360627.937586,
     "geom:bbox":"7.176687,47.048666,7.214519,47.082697",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0751",
+        "eurostat:nuts_2021_id":"CH0751",
         "gn:id":7287283,
         "gp:id":12683636,
         "qs_pg:id":272056
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0d7832651f8a5ed3b8c611a541330a66",
+    "wof:geomhash":"5cf84abd498a66bc1c671d28b2d5fa7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404571513,
-    "wof:lastmodified":1598920228,
+    "wof:lastmodified":1684351760,
     "wof:name":"T\u00e4uffelen",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":2872,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

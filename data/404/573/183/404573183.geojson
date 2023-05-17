@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0556",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zielebach",
+    "eurostat:nuts_2021_id":"CH0556",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0556",
+    "eurostat:population":321,
+    "eurostat:population_year":2020,
     "geom:area":0.000227,
-    "geom:area_square_m":1909951.160467,
+    "geom:area_square_m":1909951.160466,
     "geom:bbox":"7.553753,47.147364,7.586141,47.168354",
     "geom:latitude":47.157969,
     "geom:longitude":7.572952,
@@ -108,14 +120,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0556",
+        "eurostat:nuts_2021_id":"CH0556"
+    },
     "wof:coterminous":[
         1126026031
     ],
@@ -123,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a485a404948bd12e9d233e2cd7232e8d",
+    "wof:geomhash":"91dc3ea9aa236385aa9426e8fff668e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":404573183,
-    "wof:lastmodified":1598919986,
+    "wof:lastmodified":1684351772,
     "wof:name":"Zielebach",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":321,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

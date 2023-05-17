@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5146",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Astano",
+    "eurostat:nuts_2021_id":"CH5146",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5146",
+    "eurostat:population":308,
+    "eurostat:population_year":2020,
     "geom:area":0.000441,
     "geom:area_square_m":3787576.544507,
     "geom:bbox":"8.797203,46.005373,8.833299,46.025492",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5146",
+        "eurostat:nuts_2021_id":"CH5146",
         "gn:id":7285109,
         "gp:id":12682839,
         "qs_pg:id":1020161
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cff2ce417f00724eaaae873b112a69f2",
+    "wof:geomhash":"baabfbdc999280db146cee41f74278ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404571815,
-    "wof:lastmodified":1598920169,
+    "wof:lastmodified":1684351763,
     "wof:name":"Astano",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":308,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

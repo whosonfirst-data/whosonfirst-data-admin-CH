@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Luzern",
+    "eurostat:name_local":"Luzern",
+    "eurostat:nuts_2021_id":"CH061",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:population":420326,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.176855,
-    "geom:area_square_m":1489529971.660609,
+    "geom:area_square_m":1489529971.660664,
     "geom:bbox":"7.836414,46.774989,8.514054,47.287193",
     "geom:latitude":47.067906,
     "geom:longitude":8.110317,
@@ -412,8 +426,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"1,492",
     "statoids:area_mi":"576",
     "statoids:as_of_date":"2010-12-31",
@@ -433,6 +447,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":10170,
+        "eurostat:nuts_2021_id":"CH061",
         "fips:code":"SZ11",
         "gn:id":2659810,
         "gp:id":2347093,
@@ -444,7 +459,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"48c3df12cae171d415159ea2016bbc26",
+    "wof:geomhash":"a7229b5fda1e60fa70c1f657f473202d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -466,12 +481,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1617131359,
+    "wof:lastmodified":1684351500,
     "wof:name":"Lucerne",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":377610,
+    "wof:population":420326,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"LU",

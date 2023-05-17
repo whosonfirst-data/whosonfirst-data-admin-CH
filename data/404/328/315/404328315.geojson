@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2424",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Herbetswil",
+    "eurostat:nuts_2021_id":"CH2424",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2424",
+    "eurostat:population":539,
+    "eurostat:population_year":2020,
     "geom:area":0.001938,
-    "geom:area_square_m":16251236.582172,
+    "geom:area_square_m":16251236.582173,
     "geom:bbox":"7.514538,47.272131,7.607105,47.319676",
     "geom:latitude":47.293442,
     "geom:longitude":7.569322,
@@ -105,14 +117,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137083,
-        85682365
+        85682365,
+        1394137083
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2424",
+        "eurostat:nuts_2021_id":"CH2424",
         "gn:id":7286062,
         "gp:id":12683666,
         "qs_pg:id":1093282
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"94521a09e5146a863659bf1755eb7995",
+    "wof:geomhash":"4211d96b38f7887a4c636a0b53df4476",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404328315,
-    "wof:lastmodified":1598920367,
+    "wof:lastmodified":1684351694,
     "wof:name":"Herbetswil",
     "wof:parent_id":1394137083,
     "wof:placetype":"localadmin",
+    "wof:population":539,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

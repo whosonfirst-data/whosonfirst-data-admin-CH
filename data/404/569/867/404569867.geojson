@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Losone",
+    "eurostat:nuts_2021_id":"CH5115",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5115",
+    "eurostat:population":6701,
+    "eurostat:population_year":2020,
     "geom:area":0.001079,
-    "geom:area_square_m":9235866.536987,
+    "geom:area_square_m":9235866.536986,
     "geom:bbox":"8.712624,46.155892,8.775688,46.182418",
     "geom:latitude":46.168591,
     "geom:longitude":8.741929,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062975,
-        85682269
+        85682269,
+        102062975
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5115",
+        "eurostat:nuts_2021_id":"CH5115",
         "gn:id":7286372,
         "gp:id":12682813,
         "qs_pg:id":1109068
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d6f54a816d3c9a24fa8db375f7413df",
+    "wof:geomhash":"6af4445b7d7702911b7819c80443a130",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404569867,
-    "wof:lastmodified":1598919224,
+    "wof:lastmodified":1684351739,
     "wof:name":"Losone",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
+    "wof:population":6701,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

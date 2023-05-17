@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"H\u00fcnenberg",
+    "eurostat:nuts_2021_id":"CH1703",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH066",
+    "eurostat:nuts_2021_level_lau":"CH1703",
+    "eurostat:population":8808,
+    "eurostat:population_year":2020,
     "geom:area":0.002215,
-    "geom:area_square_m":18613298.801897,
+    "geom:area_square_m":18613298.801901,
     "geom:bbox":"8.394836,47.154181,8.461586,47.248375",
     "geom:latitude":47.190982,
     "geom:longitude":8.42011,
@@ -110,14 +122,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063067,
-        85682263
+        85682263,
+        102063067
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1703",
+        "eurostat:nuts_2021_id":"CH1703",
         "gn:id":7286121,
         "gp:id":12683710,
         "qs_pg:id":1197160
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b1334356477d3f41804239cab2b583bd",
+    "wof:geomhash":"46769ce28fb22d7aaa86a2fa6d97ce5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404328281,
-    "wof:lastmodified":1598920317,
+    "wof:lastmodified":1684351693,
     "wof:name":"H\u00fcnenberg",
     "wof:parent_id":102063067,
     "wof:placetype":"localadmin",
+    "wof:population":8808,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

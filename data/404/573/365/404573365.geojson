@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2774",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sch\u00f6nenbuch",
+    "eurostat:nuts_2021_id":"CH2774",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2774",
+    "eurostat:population":1396,
+    "eurostat:population_year":2020,
     "geom:area":0.000161,
-    "geom:area_square_m":1341673.472915,
+    "geom:area_square_m":1341673.472916,
     "geom:bbox":"7.498039,47.528117,7.515781,47.543141",
     "geom:latitude":47.535161,
     "geom:longitude":7.506093,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062971,
-        85682361
+        85682361,
+        102062971
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2774",
+        "eurostat:nuts_2021_id":"CH2774",
         "gn:id":7287108,
         "gp:id":12684376,
         "qs_pg:id":911963
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"cccdea557470dca408dfdd2e3be2fba9",
+    "wof:geomhash":"ef9983d461b060fdccd396315cd3c6ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404573365,
-    "wof:lastmodified":1598919882,
+    "wof:lastmodified":1684351773,
     "wof:name":"Sch\u00f6nenbuch",
     "wof:parent_id":102062971,
     "wof:placetype":"localadmin",
+    "wof:population":1396,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

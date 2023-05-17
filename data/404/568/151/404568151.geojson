@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sonogno",
+    "eurostat:nuts_2021_id":"CH5129",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5129",
+    "eurostat:population":86,
+    "eurostat:population_year":2020,
     "geom:area":0.004388,
-    "geom:area_square_m":37438029.584297,
+    "geom:area_square_m":37438029.5843,
     "geom:bbox":"8.711692,46.326199,8.800278,46.406061",
     "geom:latitude":46.364765,
     "geom:longitude":8.757347,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062975,
-        85682269
+        85682269,
+        102062975
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5129",
+        "eurostat:nuts_2021_id":"CH5129",
         "gn:id":7287189,
         "gp:id":12683499,
         "qs_pg:id":43506
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef0f56c89153e95833983ab5b2c5d42c",
+    "wof:geomhash":"7ec70b4b95ff8dd5d902fb1bbce299b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568151,
-    "wof:lastmodified":1598919491,
+    "wof:lastmodified":1684351713,
     "wof:name":"Sonogno",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
+    "wof:population":86,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

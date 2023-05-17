@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6789",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fahy",
+    "eurostat:nuts_2021_id":"CH6789",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6789",
+    "eurostat:population":350,
+    "eurostat:population_year":2020,
     "geom:area":0.000928,
-    "geom:area_square_m":7761540.366055,
+    "geom:area_square_m":7761540.366054,
     "geom:bbox":"6.938431,47.403103,6.978598,47.435788",
     "geom:latitude":47.419962,
     "geom:longitude":6.956713,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063059,
-        85682347
+        85682347,
+        102063059
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6789",
+        "eurostat:nuts_2021_id":"CH6789",
         "gp:id":12683434,
         "qs_pg:id":1092284
     },
@@ -116,7 +132,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7410075fb9db3d4b9681054bbc4216f",
+    "wof:geomhash":"f207531bcb65ac6df744dee3366caa89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404570345,
-    "wof:lastmodified":1598920719,
+    "wof:lastmodified":1684351745,
     "wof:name":"Fahy",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
+    "wof:population":350,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

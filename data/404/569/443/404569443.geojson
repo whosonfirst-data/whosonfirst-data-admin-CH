@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1345",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reichenburg",
+    "eurostat:nuts_2021_id":"CH1345",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1345",
+    "eurostat:population":3750,
+    "eurostat:population_year":2020,
     "geom:area":0.00137,
-    "geom:area_square_m":11522425.72663,
+    "geom:area_square_m":11522425.726631,
     "geom:bbox":"8.946569,47.136553,9.004715,47.183326",
     "geom:latitude":47.160975,
     "geom:longitude":8.973294,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062927,
-        85682305
+        85682305,
+        102062927
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1345",
+        "eurostat:nuts_2021_id":"CH1345",
         "gn:id":7286873,
         "gp:id":12684245,
         "qs_pg:id":1188077
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"141698b1a3cc64e6e16c4a51dcfdff73",
+    "wof:geomhash":"59b5ac6e7e0a61f8fc534ddec056559d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404569443,
-    "wof:lastmodified":1598919294,
+    "wof:lastmodified":1684351734,
     "wof:name":"Reichenburg",
     "wof:parent_id":102062927,
     "wof:placetype":"localadmin",
+    "wof:population":3750,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

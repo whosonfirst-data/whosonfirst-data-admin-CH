@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5934",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valeyres-sous-Ursins",
+    "eurostat:nuts_2021_id":"CH5934",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5934",
+    "eurostat:population":233,
+    "eurostat:population_year":2020,
     "geom:area":0.000338,
-    "geom:area_square_m":2865574.211323,
+    "geom:area_square_m":2865574.211321,
     "geom:bbox":"6.640617,46.732163,6.667325,46.756845",
     "geom:latitude":46.745272,
     "geom:longitude":6.653266,
@@ -96,14 +108,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5934",
+        "eurostat:nuts_2021_id":"CH5934"
+    },
     "wof:coterminous":[
         1260009991
     ],
@@ -111,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2996f8ac61e6102c8e449a0960152cda",
+    "wof:geomhash":"52c6e7dbe2e0cf72748ef37076257937",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404572179,
-    "wof:lastmodified":1598919869,
+    "wof:lastmodified":1684351767,
     "wof:name":"Valeyres-sous-Ursins",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":233,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

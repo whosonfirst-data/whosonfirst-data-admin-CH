@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4816",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Homburg",
+    "eurostat:nuts_2021_id":"CH4816",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4816",
+    "eurostat:population":1543,
+    "eurostat:population_year":2020,
     "geom:area":0.002887,
-    "geom:area_square_m":24056650.423252,
+    "geom:area_square_m":24056650.423254,
     "geom:bbox":"8.92877770717,47.6091984021,9.03800140985,47.6553084909",
     "geom:latitude":47.634884,
     "geom:longitude":8.989217,
@@ -97,6 +109,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -105,6 +119,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4816",
+        "eurostat:nuts_2021_id":"CH4816",
         "gn:id":7286107,
         "gp:id":12683703,
         "qs_pg:id":106589
@@ -114,7 +130,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0ee03669a0545afa9bfc6d4731ed0563",
+    "wof:geomhash":"3fa92136260621ec62972db6289ead14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404568431,
-    "wof:lastmodified":1582223000,
+    "wof:lastmodified":1684351718,
     "wof:name":"Homburg",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
+    "wof:population":1543,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stadel",
+    "eurostat:nuts_2021_id":"CH0100",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0100",
+    "eurostat:population":2289,
+    "eurostat:population_year":2020,
     "geom:area":0.001539,
-    "geom:area_square_m":12848563.43357,
+    "geom:area_square_m":12848563.433571,
     "geom:bbox":"8.43998038098,47.5151068442,8.50019423306,47.5599069895",
     "geom:latitude":47.537977,
     "geom:longitude":8.470142,
@@ -55,6 +67,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -63,6 +77,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0100",
+        "eurostat:nuts_2021_id":"CH0100",
         "gn:id":7287210,
         "gp:id":12684444,
         "qs_pg:id":1001324
@@ -72,7 +88,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7633a85a330a7f99b2532e76ddaa18ac",
+    "wof:geomhash":"b48cbecde345c67121b53294dceee9c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,10 +99,12 @@
         }
     ],
     "wof:id":404569147,
-    "wof:lastmodified":1582222969,
+    "wof:lastmodified":1684351731,
     "wof:name":"Stadel",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",
+    "wof:population":2289,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

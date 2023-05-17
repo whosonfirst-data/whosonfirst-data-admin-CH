@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Escholzmatt-Marbach",
+    "eurostat:nuts_2021_id":"CH1010",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1010",
+    "eurostat:population":4342,
+    "eurostat:population_year":2020,
     "geom:area":0.012557,
-    "geom:area_square_m":106117048.041241,
+    "geom:area_square_m":106117048.041239,
     "geom:bbox":"7.85615898643,46.7996579505,8.01563712651,46.9812575465",
     "geom:latitude":46.88823,
     "geom:longitude":7.926777,
@@ -51,6 +63,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -58,8 +72,12 @@
         1394137073
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH1010",
+        "eurostat:nuts_2021_id":"CH1010"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"b30f408b750b5a754a069a7c5620b6f4",
+    "wof:geomhash":"4b0cba871f6aff6010d16aea05927443",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +88,12 @@
         }
     ],
     "wof:id":1394254139,
-    "wof:lastmodified":1566640347,
+    "wof:lastmodified":1684351782,
     "wof:name":"Escholzmatt-Marbach",
     "wof:parent_id":1394137073,
     "wof:placetype":"localadmin",
+    "wof:population":4342,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1509",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stans",
+    "eurostat:nuts_2021_id":"CH1509",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH065",
+    "eurostat:nuts_2021_level_lau":"CH1509",
+    "eurostat:population":8393,
+    "eurostat:population_year":2020,
     "geom:area":0.00131,
     "geom:area_square_m":11054157.362472,
     "geom:bbox":"8.341663,46.931289,8.388754,46.981928",
@@ -218,6 +230,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -226,6 +240,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1509",
+        "eurostat:nuts_2021_id":"CH1509",
         "gn:id":7287217,
         "gp:id":12684452,
         "qs_pg:id":1145855
@@ -238,7 +254,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e81ffd8b3b6015a9d364838faada5cc",
+    "wof:geomhash":"24135b85c9ea6c76f3895b056b267f4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -249,10 +265,12 @@
         }
     ],
     "wof:id":404328413,
-    "wof:lastmodified":1636413523,
+    "wof:lastmodified":1684351695,
     "wof:name":"Stans",
     "wof:parent_id":102062973,
     "wof:placetype":"localadmin",
+    "wof:population":8393,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

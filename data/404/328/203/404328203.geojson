@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luzern",
+    "eurostat:nuts_2021_id":"CH1061",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1061",
+    "eurostat:population":81691,
+    "eurostat:population_year":2020,
     "geom:area":0.004427,
-    "geom:area_square_m":37303777.133852,
+    "geom:area_square_m":37303843.30293,
     "geom:bbox":"8.20651,46.998006,8.427975,47.083522",
     "geom:latitude":47.046962,
     "geom:longitude":8.310211,
@@ -171,6 +183,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -179,6 +193,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1061",
+        "eurostat:nuts_2021_id":"CH1061",
         "gn:id":7286409,
         "gp:id":12683921,
         "qs_pg:id":1188062
@@ -191,7 +207,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"13a72fbfd9ab9d7bf414a1326123c5db",
+    "wof:geomhash":"4faad99dfd09bc944bd4f0b79c0d6375",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -202,10 +218,12 @@
         }
     ],
     "wof:id":404328203,
-    "wof:lastmodified":1636413523,
+    "wof:lastmodified":1684351691,
     "wof:name":"Luzern",
     "wof:parent_id":1394137117,
     "wof:placetype":"localadmin",
+    "wof:population":81691,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

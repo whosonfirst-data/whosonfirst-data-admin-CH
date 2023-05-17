@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0176",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lindau",
+    "eurostat:nuts_2021_id":"CH0176",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0176",
+    "eurostat:population":5617,
+    "eurostat:population_year":2020,
     "geom:area":0.001429,
-    "geom:area_square_m":11953448.875844,
+    "geom:area_square_m":11953448.875846,
     "geom:bbox":"8.655635,47.414527,8.710929,47.467985",
     "geom:latitude":47.444132,
     "geom:longitude":8.68235,
@@ -193,14 +205,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062779,
-        85682309
+        85682309,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0176",
+        "eurostat:nuts_2021_id":"CH0176",
         "gn:id":7286355,
         "gp:id":12683760,
         "qs_pg:id":245540
@@ -210,7 +226,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5c4abff679c7ec0e5a52ae919024ab9f",
+    "wof:geomhash":"736af195aa601526b31d3c913990d8c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -221,10 +237,12 @@
         }
     ],
     "wof:id":404569275,
-    "wof:lastmodified":1598919202,
+    "wof:lastmodified":1684351733,
     "wof:name":"Lindau",
     "wof:parent_id":102062779,
     "wof:placetype":"localadmin",
+    "wof:population":5617,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

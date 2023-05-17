@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3808",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rossa",
+    "eurostat:nuts_2021_id":"CH3808",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3808",
+    "eurostat:population":148,
+    "eurostat:population_year":2020,
     "geom:area":0.006886,
-    "geom:area_square_m":58732419.716893,
+    "geom:area_square_m":58732419.716895,
     "geom:bbox":"9.071151,46.33907,9.174589,46.452411",
     "geom:latitude":46.388111,
     "geom:longitude":9.126694,
@@ -88,14 +100,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062903,
-        85682255
+        85682255,
+        102062903
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3808",
+        "eurostat:nuts_2021_id":"CH3808",
         "gn:id":7286952,
         "gp:id":12682853,
         "qs_pg:id":1084096
@@ -105,7 +121,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"09312240ca845bf812b6b05c38835abb",
+    "wof:geomhash":"bcbec3833b8a253a4b19e4cea839e981",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404567927,
-    "wof:lastmodified":1598919446,
+    "wof:lastmodified":1684351708,
     "wof:name":"Rossa",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
+    "wof:population":148,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

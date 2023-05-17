@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altishofen",
+    "eurostat:nuts_2021_id":"CH1123",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1123",
+    "eurostat:population":1577,
+    "eurostat:population_year":2020,
     "geom:area":0.000684,
     "geom:area_square_m":5747986.647358,
     "geom:bbox":"7.94073,47.187846,7.977467,47.213756",
@@ -120,14 +132,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137075,
-        85682319
+        85682319,
+        1394137075
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1123",
+        "eurostat:nuts_2021_id":"CH1123",
         "gn:id":7285061,
         "gp:id":12682788,
         "qs_pg:id":968684
@@ -140,7 +156,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48471ee7deb56ab2a9917918181caa2b",
+    "wof:geomhash":"9e5b7e5f615b73fbc83b98a7602bd01e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         }
     ],
     "wof:id":404328631,
-    "wof:lastmodified":1598920478,
+    "wof:lastmodified":1684351698,
     "wof:name":"Altishofen",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",
+    "wof:population":1577,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

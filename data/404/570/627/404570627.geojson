@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5514",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bottens",
+    "eurostat:nuts_2021_id":"CH5514",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5514",
+    "eurostat:population":1297,
+    "eurostat:population_year":2020,
     "geom:area":0.000808,
-    "geom:area_square_m":6866798.082128,
+    "geom:area_square_m":6866798.082127,
     "geom:bbox":"6.641653,46.599208,6.689427,46.631103",
     "geom:latitude":46.615101,
     "geom:longitude":6.662069,
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062949,
-        85682325
+        85682325,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5514",
+        "eurostat:nuts_2021_id":"CH5514",
         "gn:id":7285302,
         "gp:id":12683019,
         "qs_pg:id":106538
@@ -111,7 +127,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"92ae52cc496864bc0f7f68bb56d4d4b8",
+    "wof:geomhash":"f7447114395eb8107b57250dafe8abeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404570627,
-    "wof:lastmodified":1598920560,
+    "wof:lastmodified":1684351748,
     "wof:name":"Bottens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":1297,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

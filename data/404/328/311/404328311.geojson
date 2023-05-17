@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2619",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kleinl\u00fctzel",
+    "eurostat:nuts_2021_id":"CH2619",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2619",
+    "eurostat:population":1261,
+    "eurostat:population_year":2020,
     "geom:area":0.001945,
     "geom:area_square_m":16273384.48237,
     "geom:bbox":"7.375946,47.410929,7.455587,47.446325",
@@ -111,14 +123,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137121,
-        85682365
+        85682365,
+        1394137121
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2619",
+        "eurostat:nuts_2021_id":"CH2619",
         "gn:id":7286207,
         "gp:id":12683772,
         "qs_pg:id":232427
@@ -131,7 +147,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0f8b60056727b35d172096be5952095d",
+    "wof:geomhash":"53968431e593c9391bc021d69b72a9ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404328311,
-    "wof:lastmodified":1598920484,
+    "wof:lastmodified":1684351694,
     "wof:name":"Kleinl\u00fctzel",
     "wof:parent_id":1394137121,
     "wof:placetype":"localadmin",
+    "wof:population":1261,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

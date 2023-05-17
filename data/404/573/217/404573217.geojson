@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2271",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meyriez",
+    "eurostat:nuts_2021_id":"CH2271",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2271",
+    "eurostat:population":565,
+    "eurostat:population_year":2020,
     "geom:area":0.000218,
-    "geom:area_square_m":1842708.314947,
+    "geom:area_square_m":1842708.314948,
     "geom:bbox":"7.088296,46.919296,7.112365,46.938215",
     "geom:latitude":46.928792,
     "geom:longitude":7.10077,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062765,
-        85682301
+        85682301,
+        102062765
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2271",
+        "eurostat:nuts_2021_id":"CH2271",
         "gn:id":7286501,
         "gp:id":20075502,
         "qs_pg:id":262930
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8828fdcee52c2e64c3e7eaecad03d012",
+    "wof:geomhash":"c7d42fcc3223bf872c422df608768d7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404573217,
-    "wof:lastmodified":1598919904,
+    "wof:lastmodified":1684351772,
     "wof:name":"Meyriez",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
+    "wof:population":565,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

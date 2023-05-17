@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5435",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saint-Livres",
+    "eurostat:nuts_2021_id":"CH5435",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5435",
+    "eurostat:population":689,
+    "eurostat:population_year":2020,
     "geom:area":0.000952,
     "geom:area_square_m":8102239.592124,
     "geom:bbox":"6.358435,46.496612,6.404488,46.536673",
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5435",
+        "eurostat:nuts_2021_id":"CH5435",
         "gn:id":7287032,
         "qs_pg:id":671584
     },
@@ -116,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"cce80180572b9ca70577f9acc22acd41",
+    "wof:geomhash":"b234143e3185bcfd97ac617c17abab7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404570233,
-    "wof:lastmodified":1598920592,
+    "wof:lastmodified":1684351744,
     "wof:name":"Saint-Livres",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":689,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

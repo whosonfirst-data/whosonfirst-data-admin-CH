@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4691",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00fcnsterlingen",
+    "eurostat:nuts_2021_id":"CH4691",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4691",
+    "eurostat:population":3476,
+    "eurostat:population_year":2020,
     "geom:area":0.000653,
-    "geom:area_square_m":5440301.456977,
+    "geom:area_square_m":5440301.456978,
     "geom:bbox":"9.212318,47.615328,9.264484,47.639387",
     "geom:latitude":47.625446,
     "geom:longitude":9.235576,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062953,
-        85682337
+        85682337,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4691",
+        "eurostat:nuts_2021_id":"CH4691",
         "gn:id":7286592,
         "gp:id":12684052,
         "qs_pg:id":248861
@@ -144,7 +160,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"47ec711aeb24c66dea37d18e6fce9a9d",
+    "wof:geomhash":"320b4ddbb3ac625aae9cdfdd6ed5950e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404571107,
-    "wof:lastmodified":1598920139,
+    "wof:lastmodified":1684351754,
     "wof:name":"M\u00fcnsterlingen",
     "wof:parent_id":102062953,
     "wof:placetype":"localadmin",
+    "wof:population":3476,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

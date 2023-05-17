@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2523",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horriwil",
+    "eurostat:nuts_2021_id":"CH2523",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2523",
+    "eurostat:population":846,
+    "eurostat:population_year":2020,
     "geom:area":0.000313,
-    "geom:area_square_m":2630099.811514,
+    "geom:area_square_m":2630099.811515,
     "geom:bbox":"7.61088912684,47.170840734,7.64598962628,47.1903332019",
     "geom:latitude":47.180343,
     "geom:longitude":7.625597,
@@ -102,6 +114,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2523",
+        "eurostat:nuts_2021_id":"CH2523",
         "gn:id":7286114,
         "gp:id":12685038,
         "qs_pg:id":44072
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d4a863f08cbf87de077967c48ec963a7",
+    "wof:geomhash":"68618181c8002f175ad8b1c213557859",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404328837,
-    "wof:lastmodified":1582223086,
+    "wof:lastmodified":1684351701,
     "wof:name":"Horriwil",
     "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",
+    "wof:population":846,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wallisellen",
+    "eurostat:nuts_2021_id":"CH0069",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0069",
+    "eurostat:population":16324,
+    "eurostat:population_year":2020,
     "geom:area":0.000765,
-    "geom:area_square_m":6401181.641059,
+    "geom:area_square_m":6401181.641058,
     "geom:bbox":"8.572587,47.403607,8.619469,47.436033",
     "geom:latitude":47.417379,
     "geom:longitude":8.594886,
@@ -145,14 +157,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063019,
-        85682309
+        85682309,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0069",
+        "eurostat:nuts_2021_id":"CH0069",
         "gn:id":7287529,
         "gp:id":12683555,
         "qs_pg:id":204374
@@ -165,7 +181,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"34214f862c1d0ea64206aa2e004d6acf",
+    "wof:geomhash":"0d354a7efd4c0a672baf9f4d6b270650",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404570775,
-    "wof:lastmodified":1598920714,
+    "wof:lastmodified":1684351750,
     "wof:name":"Wallisellen",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",
+    "wof:population":16324,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2882",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bennwil",
+    "eurostat:nuts_2021_id":"CH2882",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2882",
+    "eurostat:population":664,
+    "eurostat:population_year":2020,
     "geom:area":0.000778,
-    "geom:area_square_m":6511603.402015,
+    "geom:area_square_m":6511603.402014,
     "geom:bbox":"7.76667,47.37673,7.79804,47.413305",
     "geom:latitude":47.396285,
     "geom:longitude":7.782213,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062911,
-        85682361
+        85682361,
+        102062911
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2882",
+        "eurostat:nuts_2021_id":"CH2882",
         "gp:id":12685211,
         "qs_pg:id":1097489
     },
@@ -140,7 +156,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"85b910afed60c2704a43c35f2522f270",
+    "wof:geomhash":"83d5ff5d5511ba4b223debc92a08bf22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         }
     ],
     "wof:id":404570729,
-    "wof:lastmodified":1598920737,
+    "wof:lastmodified":1684351750,
     "wof:name":"Bennwil",
     "wof:parent_id":102062911,
     "wof:placetype":"localadmin",
+    "wof:population":664,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

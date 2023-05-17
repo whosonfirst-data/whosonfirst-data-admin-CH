@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0494",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gals",
+    "eurostat:nuts_2021_id":"CH0494",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0494",
+    "eurostat:population":827,
+    "eurostat:population_year":2020,
     "geom:area":0.000928,
-    "geom:area_square_m":7823702.596818,
+    "geom:area_square_m":7823702.596819,
     "geom:bbox":"7.033092,47.01834,7.090915,47.051803",
     "geom:latitude":47.034708,
     "geom:longitude":7.059856,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0494",
+        "eurostat:nuts_2021_id":"CH0494",
         "gn:id":7285888,
         "gp:id":12683518,
         "qs_pg:id":905981
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa2049d29d7ca4ab290681b3ddd781ec",
+    "wof:geomhash":"e37f31b995d23be7fc2557c0628689f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404570257,
-    "wof:lastmodified":1607981466,
+    "wof:lastmodified":1684351744,
     "wof:name":"Gals",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":827,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"St. Gallen",
+    "eurostat:name_local":"St. Gallen",
+    "eurostat:nuts_2021_id":"CH055",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:population":519245,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.24091,
-    "geom:area_square_m":2022681639.784811,
+    "geom:area_square_m":2022681639.784787,
     "geom:bbox":"8.795612,46.872886,9.674136,47.549744",
     "geom:latitude":47.234025,
     "geom:longitude":9.275008,
@@ -438,8 +452,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"2,014",
     "statoids:area_mi":"778",
     "statoids:as_of_date":"2010-12-31",
@@ -460,6 +474,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":3761,
+        "eurostat:nuts_2021_id":"CH055",
         "fips:code":"SZ15",
         "gn:id":2658821,
         "gp:id":2347097,
@@ -471,7 +486,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ebcfd5f2138f2ef8f0cddf8e2c01b01",
+    "wof:geomhash":"2f2ad146227d1754269f4dc8ed4a6c6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -493,13 +508,13 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1636413501,
+    "wof:lastmodified":1684351502,
     "wof:name":"Saint Gallen",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":478907,
-    "wof:population_rank":10,
+    "wof:population":519245,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"SG",
     "wof:superseded_by":[],

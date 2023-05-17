@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Acquarossa",
+    "eurostat:nuts_2021_id":"CH5048",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5048",
+    "eurostat:population":1808,
+    "eurostat:population_year":2020,
     "geom:area":0.007234,
     "geom:area_square_m":61621039.851579,
     "geom:bbox":"8.8616253824,46.4161394372,9.00106394985,46.5056904179",
@@ -52,6 +64,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -60,6 +74,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5048",
+        "eurostat:nuts_2021_id":"CH5048",
         "gn:id":7285019,
         "gp:id":28997178,
         "qs_pg:id":1086504
@@ -69,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"47d2abd4cee48d11ed5ddac1b47732ab",
+    "wof:geomhash":"25ed69425e5ee296f297ad7884534a2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +96,12 @@
         }
     ],
     "wof:id":404567903,
-    "wof:lastmodified":1582222980,
+    "wof:lastmodified":1684351707,
     "wof:name":"Acquarossa",
     "wof:parent_id":102063035,
     "wof:placetype":"localadmin",
+    "wof:population":1808,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

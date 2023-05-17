@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1375",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Unteriberg",
+    "eurostat:nuts_2021_id":"CH1375",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1375",
+    "eurostat:population":2395,
+    "eurostat:population_year":2020,
     "geom:area":0.005496,
-    "geom:area_square_m":46307068.346339,
+    "geom:area_square_m":46307068.346333,
     "geom:bbox":"8.761444,47.002551,8.888968,47.079985",
     "geom:latitude":47.048149,
     "geom:longitude":8.831599,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062887,
-        85682305
+        85682305,
+        102062887
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1375",
+        "eurostat:nuts_2021_id":"CH1375",
         "gn:id":7287379,
         "gp:id":12684149,
         "qs_pg:id":1188075
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6dc56e27c226ec836ab7f46502a05cde",
+    "wof:geomhash":"201c299faab3e720abe1ffce4b39b394",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404568049,
-    "wof:lastmodified":1598919525,
+    "wof:lastmodified":1684351710,
     "wof:name":"Unteriberg",
     "wof:parent_id":102062887,
     "wof:placetype":"localadmin",
+    "wof:population":2395,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

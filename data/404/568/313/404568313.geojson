@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chur",
+    "eurostat:nuts_2021_id":"CH3901",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3901",
+    "eurostat:population":35378,
+    "eurostat:population_year":2020,
     "geom:area":0.003313,
-    "geom:area_square_m":28015383.306501,
+    "geom:area_square_m":28015383.306497,
     "geom:bbox":"9.484925,46.818034,9.580658,46.888322",
     "geom:latitude":46.852116,
     "geom:longitude":9.529664,
@@ -257,6 +269,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -265,6 +279,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3901",
+        "eurostat:nuts_2021_id":"CH3901",
         "gn:id":7285515,
         "gp:id":12683204,
         "qs_pg:id":190975
@@ -277,7 +293,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ce2b4c581e1e677afa468e7b6dba138",
+    "wof:geomhash":"7563ab67612c1f52599b6c34de9b92ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -288,10 +304,12 @@
         }
     ],
     "wof:id":404568313,
-    "wof:lastmodified":1636413521,
+    "wof:lastmodified":1684351716,
     "wof:name":"Chur",
     "wof:parent_id":102063001,
     "wof:placetype":"localadmin",
+    "wof:population":35378,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

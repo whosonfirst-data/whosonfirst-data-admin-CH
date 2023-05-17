@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5498",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Sarraz",
+    "eurostat:nuts_2021_id":"CH5498",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5498",
+    "eurostat:population":2595,
+    "eurostat:population_year":2020,
     "geom:area":0.000905,
-    "geom:area_square_m":7681201.071413,
+    "geom:area_square_m":7681201.071414,
     "geom:bbox":"6.47404879116,46.6361342367,6.53915213048,46.6737598212",
     "geom:latitude":46.654498,
     "geom:longitude":6.504822,
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -117,6 +131,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5498",
+        "eurostat:nuts_2021_id":"CH5498",
         "gn:id":2660012,
         "gp:id":12683813,
         "qs_pg:id":1037377
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"58c07c4ade8563ffb29db6a2c2a08b17",
+    "wof:geomhash":"9d247b10b9ffc1a1e8ec93c8ab841791",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404570387,
-    "wof:lastmodified":1582223112,
+    "wof:lastmodified":1684351745,
     "wof:name":"La Sarraz",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":2595,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

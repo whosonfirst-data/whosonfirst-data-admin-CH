@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fieschertal",
+    "eurostat:nuts_2021_id":"CH6058",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6058",
+    "eurostat:population":318,
+    "eurostat:population_year":2020,
     "geom:area":0.02025,
-    "geom:area_square_m":172360833.113667,
+    "geom:area_square_m":172360833.113679,
     "geom:bbox":"7.932451,46.413497,8.189898,46.563315",
     "geom:latitude":46.499995,
     "geom:longitude":8.06583,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063031,
-        85682281
+        85682281,
+        102063031
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6058",
+        "eurostat:nuts_2021_id":"CH6058",
         "gn:id":7285821,
         "gp:id":12683462,
         "qs_pg:id":671316
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f36ba0561e5d12fae30e1537503d0ee3",
+    "wof:geomhash":"3da790eb0484215e2689813983026c1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404567725,
-    "wof:lastmodified":1598919401,
+    "wof:lastmodified":1684351703,
     "wof:name":"Fieschertal",
     "wof:parent_id":102063031,
     "wof:placetype":"localadmin",
+    "wof:population":318,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

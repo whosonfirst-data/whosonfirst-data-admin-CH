@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Nidwalden",
+    "eurostat:name_local":"Nidwalden",
+    "eurostat:nuts_2021_id":"CH065",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH065",
+    "eurostat:population":43894,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.032579,
-    "geom:area_square_m":275118516.888028,
+    "geom:area_square_m":275118516.888035,
     "geom:bbox":"8.218093,46.771516,8.574946,47.019955",
     "geom:latitude":46.926831,
     "geom:longitude":8.405332,
@@ -436,8 +450,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"276",
     "statoids:area_mi":"106",
     "statoids:as_of_date":"2010-12-31",
@@ -458,6 +472,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":14642,
+        "eurostat:nuts_2021_id":"CH065",
         "fips:code":"SZ13",
         "gn:id":2659471,
         "gp:id":2347095,
@@ -472,7 +487,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0f29f07d1102137223ddfb64b989c8de",
+    "wof:geomhash":"09c82436da357b3bca1af95ff18afb91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -494,12 +509,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1607980610,
+    "wof:lastmodified":1684351500,
     "wof:name":"Nidwalden",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":41024,
+    "wof:population":43894,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"NW",

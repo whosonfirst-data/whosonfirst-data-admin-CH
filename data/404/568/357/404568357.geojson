@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6423",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Sagne",
+    "eurostat:nuts_2021_id":"CH6423",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6423",
+    "eurostat:population":1019,
+    "eurostat:population_year":2020,
     "geom:area":0.003024,
     "geom:area_square_m":25481366.791983,
     "geom:bbox":"6.750976,47.013713,6.846208,47.08433",
@@ -97,6 +109,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6423",
+        "eurostat:nuts_2021_id":"CH6423",
         "gn:id":7286269,
         "gp:id":12683812,
         "qs_pg:id":902547
@@ -116,7 +132,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"19ba8879c421dafacb51f99389b5c197",
+    "wof:geomhash":"f597fd40f625b709cd5dadb73b4ca2a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404568357,
-    "wof:lastmodified":1598919624,
+    "wof:lastmodified":1684351717,
     "wof:name":"La Sagne",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":1019,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

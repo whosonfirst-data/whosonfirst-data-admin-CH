@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1145",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ufhusen",
+    "eurostat:nuts_2021_id":"CH1145",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1145",
+    "eurostat:population":902,
+    "eurostat:population_year":2020,
     "geom:area":0.001447,
     "geom:area_square_m":12176058.721837,
     "geom:bbox":"7.866923,47.078799,7.928743,47.128593",
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137075,
-        85682319
+        85682319,
+        1394137075
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1145",
+        "eurostat:nuts_2021_id":"CH1145",
         "gn:id":7287366,
         "gp:id":12684537,
         "qs_pg:id":911964
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"088fc9b65e732a441d73af92fbea6e69",
+    "wof:geomhash":"e96ca46650ed1c9e4748cfcda9d5ec02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328383,
-    "wof:lastmodified":1598920357,
+    "wof:lastmodified":1684351695,
     "wof:name":"Ufhusen",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",
+    "wof:population":902,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

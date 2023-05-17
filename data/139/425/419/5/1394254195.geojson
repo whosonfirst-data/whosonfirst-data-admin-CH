@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6729",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Haute-Sorne",
+    "eurostat:nuts_2021_id":"CH6729",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6729",
+    "eurostat:population":6987,
+    "eurostat:population_year":2020,
     "geom:area":0.008452,
-    "geom:area_square_m":70849119.19172,
+    "geom:area_square_m":70849119.191715,
     "geom:bbox":"7.13733756701,47.2841639992,7.33750835923,47.365058398",
     "geom:latitude":47.318474,
     "geom:longitude":7.242208,
@@ -54,6 +66,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -61,8 +75,12 @@
         102062791
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6729",
+        "eurostat:nuts_2021_id":"CH6729"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"660a66cefac96105e56232bc79b0c9a3",
+    "wof:geomhash":"790498ffd72bef89a28886a70681c47a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +91,12 @@
         }
     ],
     "wof:id":1394254195,
-    "wof:lastmodified":1566640362,
+    "wof:lastmodified":1684351784,
     "wof:name":"Haute-Sorne",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
+    "wof:population":6987,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

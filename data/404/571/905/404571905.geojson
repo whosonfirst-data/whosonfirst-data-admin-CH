@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hirschthal",
+    "eurostat:nuts_2021_id":"CH4007",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4007",
+    "eurostat:population":1590,
+    "eurostat:population_year":2020,
     "geom:area":0.00042,
     "geom:area_square_m":3520323.534211,
     "geom:bbox":"8.043228,47.309629,8.087597,47.325516",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062989,
-        85682329
+        85682329,
+        102062989
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4007",
+        "eurostat:nuts_2021_id":"CH4007",
         "gn:id":7286088,
         "gp:id":12685237,
         "qs_pg:id":290442
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"62d5b9a3be452025f71b5bf9db540a49",
+    "wof:geomhash":"37c00b28bb2d6200c81897242e9f6075",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404571905,
-    "wof:lastmodified":1598920151,
+    "wof:lastmodified":1684351764,
     "wof:name":"Hirschthal",
     "wof:parent_id":102062989,
     "wof:placetype":"localadmin",
+    "wof:population":1590,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

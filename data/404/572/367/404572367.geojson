@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eggenwil",
+    "eurostat:nuts_2021_id":"CH4066",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4066",
+    "eurostat:population":1053,
+    "eurostat:population_year":2020,
     "geom:area":0.000293,
     "geom:area_square_m":2453504.004671,
     "geom:bbox":"8.324188,47.357624,8.351929,47.381062",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062877,
-        85682329
+        85682329,
+        102062877
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4066",
+        "eurostat:nuts_2021_id":"CH4066",
         "gn:id":7285703,
         "gp:id":12683354,
         "qs_pg:id":1197077
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"77ab9714ea860d7bec576e6ca1b560cc",
+    "wof:geomhash":"c4ed80f2a5c9c18adc71b05c06f94d9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404572367,
-    "wof:lastmodified":1598919822,
+    "wof:lastmodified":1684351769,
     "wof:name":"Eggenwil",
     "wof:parent_id":102062877,
     "wof:placetype":"localadmin",
+    "wof:population":1053,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0925",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fahrni",
+    "eurostat:nuts_2021_id":"CH0925",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0925",
+    "eurostat:population":809,
+    "eurostat:population_year":2020,
     "geom:area":0.000787,
-    "geom:area_square_m":6664633.23659,
+    "geom:area_square_m":6664633.236589,
     "geom:bbox":"7.620582,46.783088,7.680251,46.808969",
     "geom:latitude":46.798862,
     "geom:longitude":7.654535,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0925",
+        "eurostat:nuts_2021_id":"CH0925",
         "gn:id":7285788,
         "gp:id":12683432,
         "qs_pg:id":1197099
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"20e5f5e8cc91a62886292f33df39c017",
+    "wof:geomhash":"25e843532f9aa4f2d74d979fdba097ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404570679,
-    "wof:lastmodified":1598920678,
+    "wof:lastmodified":1684351749,
     "wof:name":"Fahrni",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":809,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

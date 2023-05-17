@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2497",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberg\u00f6sgen",
+    "eurostat:nuts_2021_id":"CH2497",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2497",
+    "eurostat:population":2206,
+    "eurostat:population_year":2020,
     "geom:area":0.000432,
     "geom:area_square_m":3620029.965682,
     "geom:bbox":"7.937966,47.352046,7.9675,47.374638",
@@ -111,14 +123,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137093,
-        85682365
+        85682365,
+        1394137093
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2497",
+        "eurostat:nuts_2021_id":"CH2497",
         "gp:id":12684123,
         "qs_pg:id":261786
     },
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2947c58db8deb9a5db0721faac4cc723",
+    "wof:geomhash":"fcbf51eb80cfa8e016bec78b46fa9b6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404328777,
-    "wof:lastmodified":1598920379,
+    "wof:lastmodified":1684351700,
     "wof:name":"Oberg\u00f6sgen",
     "wof:parent_id":1394137093,
     "wof:placetype":"localadmin",
+    "wof:population":2206,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

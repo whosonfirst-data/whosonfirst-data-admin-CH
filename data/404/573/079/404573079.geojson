@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0423",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Willadingen",
+    "eurostat:nuts_2021_id":"CH0423",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0423",
+    "eurostat:population":205,
+    "eurostat:population_year":2020,
     "geom:area":0.000257,
     "geom:area_square_m":2161253.758115,
     "geom:bbox":"7.604613,47.137035,7.625117,47.156573",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0423",
+        "eurostat:nuts_2021_id":"CH0423",
         "gn:id":7287584,
         "gp:id":20075377,
         "qs_pg:id":50228
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fadddff4da8dc4e80ebfe1f1ab794298",
+    "wof:geomhash":"e8f8a9bb1b40b04357fa7c21f81e8c37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404573079,
-    "wof:lastmodified":1598919895,
+    "wof:lastmodified":1684351770,
     "wof:name":"Willadingen",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":205,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

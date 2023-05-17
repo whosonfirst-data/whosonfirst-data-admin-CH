@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"T\u00e4gerig",
+    "eurostat:nuts_2021_id":"CH4077",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4077",
+    "eurostat:population":1511,
+    "eurostat:population_year":2020,
     "geom:area":0.000392,
     "geom:area_square_m":3280926.93761,
     "geom:bbox":"8.263047,47.386689,8.294768,47.410641",
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062877,
-        85682329
+        85682329,
+        102062877
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4077",
+        "eurostat:nuts_2021_id":"CH4077",
         "gn:id":7287274,
         "gp:id":12684983,
         "qs_pg:id":952963
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d508108ac4082f0ddbb8d5a7b5ef9502",
+    "wof:geomhash":"76de5a92b27888ac63e8e13ad8ee6827",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404572025,
-    "wof:lastmodified":1598919780,
+    "wof:lastmodified":1684351765,
     "wof:name":"T\u00e4gerig",
     "wof:parent_id":102062877,
     "wof:placetype":"localadmin",
+    "wof:population":1511,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

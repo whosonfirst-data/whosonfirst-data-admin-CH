@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0593",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Unterseen",
+    "eurostat:nuts_2021_id":"CH0593",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0593",
+    "eurostat:population":5751,
+    "eurostat:population_year":2020,
     "geom:area":0.001646,
-    "geom:area_square_m":13956653.028846,
+    "geom:area_square_m":13956653.028847,
     "geom:bbox":"7.800831,46.66707,7.881428,46.723518",
     "geom:latitude":46.695211,
     "geom:longitude":7.841264,
@@ -127,14 +139,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062759,
-        85682381
+        85682381,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0593",
+        "eurostat:nuts_2021_id":"CH0593",
         "gn:id":7287385,
         "gp:id":12684070,
         "qs_pg:id":1120146
@@ -147,7 +163,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d53f4ce30d64a322badeb1849f61901c",
+    "wof:geomhash":"12192dc1a6f51e00e8ed82987ad7f4e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404568973,
-    "wof:lastmodified":1598919737,
+    "wof:lastmodified":1684351728,
     "wof:name":"Unterseen",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":5751,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

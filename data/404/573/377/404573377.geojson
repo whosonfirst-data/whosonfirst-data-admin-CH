@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ch\u00e2tillon (FR)",
+    "eurostat:nuts_2021_id":"CH2008",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2008",
+    "eurostat:population":466,
+    "eurostat:population_year":2020,
     "geom:area":0.000154,
     "geom:area_square_m":1301068.433422,
     "geom:bbox":"6.82030708715,46.8233430277,6.84143117421,46.8361881497",
@@ -139,6 +151,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -147,6 +161,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2008",
+        "eurostat:nuts_2021_id":"CH2008",
         "gn:id":7285482,
         "gp:id":20075445,
         "qs_pg:id":671232
@@ -159,7 +175,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2d5fe1f85e7ed6f12f1ae832855da18",
+    "wof:geomhash":"7922fb7e0fc6d0c92b062a66131573d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404573377,
-    "wof:lastmodified":1582223039,
+    "wof:lastmodified":1684351774,
     "wof:name":"Ch\u00e2tillon",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",
+    "wof:population":466,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

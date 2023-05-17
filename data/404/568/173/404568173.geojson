@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schangnau",
+    "eurostat:nuts_2021_id":"CH0906",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0906",
+    "eurostat:population":908,
+    "eurostat:population_year":2020,
     "geom:area":0.0043,
     "geom:area_square_m":36388383.275564,
     "geom:bbox":"7.818035,46.785617,7.953917,46.84739",
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0906",
+        "eurostat:nuts_2021_id":"CH0906",
         "gn:id":7287074,
         "gp:id":12682880,
         "qs_pg:id":43258
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"509aa3eeba522a247ecd7659e6468781",
+    "wof:geomhash":"88050d318737b9543ebf35e1ad2b949c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404568173,
-    "wof:lastmodified":1598919579,
+    "wof:lastmodified":1684351713,
     "wof:name":"Schangnau",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":908,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

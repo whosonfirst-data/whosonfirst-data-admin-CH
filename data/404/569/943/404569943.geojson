@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3810",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Maria in Calanca",
+    "eurostat:nuts_2021_id":"CH3810",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3810",
+    "eurostat:population":109,
+    "eurostat:population_year":2020,
     "geom:area":0.001087,
-    "geom:area_square_m":9288706.044364,
+    "geom:area_square_m":9288706.044365,
     "geom:bbox":"9.122988,46.257019,9.165188,46.31777",
     "geom:latitude":46.283529,
     "geom:longitude":9.147992,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062903,
-        85682255
+        85682255,
+        102062903
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3810",
+        "eurostat:nuts_2021_id":"CH3810",
         "gn:id":7287051,
         "gp:id":12683608,
         "qs_pg:id":106676
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3914aa83d8dba29fe74348a199e28e33",
+    "wof:geomhash":"808503b2c01af80b01e27d5da15a561a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404569943,
-    "wof:lastmodified":1598919365,
+    "wof:lastmodified":1684351740,
     "wof:name":"Santa Maria in Calanca",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
+    "wof:population":109,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0588",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Niederried bei Interlaken",
+    "eurostat:nuts_2021_id":"CH0588",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0588",
+    "eurostat:population":357,
+    "eurostat:population_year":2020,
     "geom:area":0.000486,
-    "geom:area_square_m":4119456.402271,
+    "geom:area_square_m":4119456.402272,
     "geom:bbox":"7.908322,46.710947,7.943186,46.737749",
     "geom:latitude":46.725431,
     "geom:longitude":7.925979,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062759,
-        85682381
+        85682381,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0588",
+        "eurostat:nuts_2021_id":"CH0588",
         "gn:id":7286648,
         "gp:id":12684084,
         "qs_pg:id":220758
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c78d4b6688505c4b83fd3e442d0a1d3b",
+    "wof:geomhash":"7727d44404b448d525077b9e75061559",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404571445,
-    "wof:lastmodified":1598920182,
+    "wof:lastmodified":1684351759,
     "wof:name":"Niederried bei Interlaken",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":357,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2471",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"B\u00e4ttwil",
+    "eurostat:nuts_2021_id":"CH2471",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2471",
+    "eurostat:population":1186,
+    "eurostat:population_year":2020,
     "geom:area":0.000199,
-    "geom:area_square_m":1664216.515233,
+    "geom:area_square_m":1664216.515234,
     "geom:bbox":"7.498093,47.483343,7.519063,47.502695",
     "geom:latitude":47.491641,
     "geom:longitude":7.509993,
@@ -102,14 +114,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137115,
-        85682365
+        85682365,
+        1394137115
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2471",
+        "eurostat:nuts_2021_id":"CH2471",
         "gn:id":7285168,
         "gp:id":12684932,
         "qs_pg:id":1197442
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"52a1b5b7854e1fb38c9109f19eb5c1ff",
+    "wof:geomhash":"34700924af68e7d95ccb2827d307c991",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404328883,
-    "wof:lastmodified":1598920428,
+    "wof:lastmodified":1684351701,
     "wof:name":"B\u00e4ttwil",
     "wof:parent_id":1394137115,
     "wof:placetype":"localadmin",
+    "wof:population":1186,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

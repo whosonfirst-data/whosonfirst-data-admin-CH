@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leytron",
+    "eurostat:nuts_2021_id":"CH6135",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6135",
+    "eurostat:population":3205,
+    "eurostat:population_year":2020,
     "geom:area":0.003126,
     "geom:area_square_m":26754173.338909,
     "geom:bbox":"7.088441,46.176169,7.223855,46.237223",
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063045,
-        85682281
+        85682281,
+        102063045
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6135",
+        "eurostat:nuts_2021_id":"CH6135",
         "gn:id":7286344,
         "gp:id":12683882,
         "qs_pg:id":380116
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"73c4320a59577cfefafe5fbb755302df",
+    "wof:geomhash":"32b83854140b52f18fed9e529befc635",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404568335,
-    "wof:lastmodified":1598919634,
+    "wof:lastmodified":1684351716,
     "wof:name":"Leytron",
     "wof:parent_id":102063045,
     "wof:placetype":"localadmin",
+    "wof:population":3205,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

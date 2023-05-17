@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Niederwil (AG)",
+    "eurostat:nuts_2021_id":"CH4072",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4072",
+    "eurostat:population":2833,
+    "eurostat:population_year":2020,
     "geom:area":0.000732,
     "geom:area_square_m":6130696.843853,
     "geom:bbox":"8.27645488059,47.3615956315,8.30809369256,47.3995424358",
@@ -94,6 +106,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -102,6 +116,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4072",
+        "eurostat:nuts_2021_id":"CH4072",
         "gn:id":7286655,
         "gp:id":12684988,
         "qs_pg:id":392704
@@ -111,7 +127,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"cf090b4cdeb9866b85ec9f1ba050fc22",
+    "wof:geomhash":"9fbab74f88dd6e4d7267247659e9cfa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404570875,
-    "wof:lastmodified":1582223096,
+    "wof:lastmodified":1684351751,
     "wof:name":"Niederwil",
     "wof:parent_id":102062877,
     "wof:placetype":"localadmin",
+    "wof:population":2833,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

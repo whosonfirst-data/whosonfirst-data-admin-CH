@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5938",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Yverdon-les-Bains",
+    "eurostat:nuts_2021_id":"CH5938",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5938",
+    "eurostat:population":30157,
+    "eurostat:population_year":2020,
     "geom:area":0.001595,
-    "geom:area_square_m":13505079.713353,
+    "geom:area_square_m":13505079.713352,
     "geom:bbox":"6.604343,46.73864,6.672053,46.795364",
     "geom:latitude":46.77063,
     "geom:longitude":6.637327,
@@ -169,14 +181,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5938",
+        "eurostat:nuts_2021_id":"CH5938",
         "gp:id":12684656,
         "qs_pg:id":1306481
     },
@@ -188,7 +204,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"58b602c0280abb4b48cfddc94724e8c5",
+    "wof:geomhash":"e614028f1ff5bcfcc55cfbec5954eec7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,10 +215,12 @@
         }
     ],
     "wof:id":404569061,
-    "wof:lastmodified":1598919327,
+    "wof:lastmodified":1684351729,
     "wof:name":"Yverdon-les-Bains",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":30157,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

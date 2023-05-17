@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6090",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mont-Noble",
+    "eurostat:nuts_2021_id":"CH6090",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6090",
+    "eurostat:population":1091,
+    "eurostat:population_year":2020,
     "geom:area":0.005063,
-    "geom:area_square_m":43330080.808036,
+    "geom:area_square_m":43330080.808035,
     "geom:bbox":"7.407823,46.162067,7.533981,46.243974",
     "geom:latitude":46.204513,
     "geom:longitude":7.466894,
@@ -82,14 +94,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062985,
-        85682281
+        85682281,
+        102062985
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6090",
+        "eurostat:nuts_2021_id":"CH6090",
         "gn:id":8260340,
         "qs_pg:id":760517
     },
@@ -98,7 +114,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"21d0e93d8fd84b75e390e9a9fd98ed46",
+    "wof:geomhash":"0467a35a5f1f18a7863e18c8f53960ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":404568075,
-    "wof:lastmodified":1598919673,
+    "wof:lastmodified":1684351711,
     "wof:name":"Mont-Noble",
     "wof:parent_id":102062985,
     "wof:placetype":"localadmin",
+    "wof:population":1091,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

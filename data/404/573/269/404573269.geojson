@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5198",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Melide",
+    "eurostat:nuts_2021_id":"CH5198",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5198",
+    "eurostat:population":1802,
+    "eurostat:population_year":2020,
     "geom:area":0.000602,
-    "geom:area_square_m":5173739.498445,
+    "geom:area_square_m":5173739.498444,
     "geom:bbox":"8.93191621724,45.9367131684,8.96252175346,45.9779706699",
     "geom:latitude":45.956353,
     "geom:longitude":8.948849,
@@ -80,6 +92,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -88,6 +102,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5198",
+        "eurostat:nuts_2021_id":"CH5198",
         "gn:id":7286478,
         "gp:id":12683968,
         "qs_pg:id":1102321
@@ -100,7 +116,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0d1bd24dc40e40dd3001e625be9245e0",
+    "wof:geomhash":"cc721a3f720279abd4e1c006d815ad9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +127,12 @@
         }
     ],
     "wof:id":404573269,
-    "wof:lastmodified":1582223038,
+    "wof:lastmodified":1684351773,
     "wof:name":"Melide",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":1802,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

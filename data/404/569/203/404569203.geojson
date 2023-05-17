@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4486",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hauptwil-Gottshaus",
+    "eurostat:nuts_2021_id":"CH4486",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4486",
+    "eurostat:population":1953,
+    "eurostat:population_year":2020,
     "geom:area":0.001491,
-    "geom:area_square_m":12460049.644595,
+    "geom:area_square_m":12460049.644596,
     "geom:bbox":"9.239032,47.474478,9.320963,47.505996",
     "geom:latitude":47.489592,
     "geom:longitude":9.280146,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062955,
-        85682337
+        85682337,
+        102062955
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4486",
+        "eurostat:nuts_2021_id":"CH4486",
         "gn:id":7286036,
         "qs_pg:id":671375
     },
@@ -131,7 +147,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"29733e10dc26ec24045334cb40919967",
+    "wof:geomhash":"709cc3662d5775fe7a44a8071bfe9361",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404569203,
-    "wof:lastmodified":1598919216,
+    "wof:lastmodified":1684351732,
     "wof:name":"Hauptwil-Gottshaus",
     "wof:parent_id":102062955,
     "wof:placetype":"localadmin",
+    "wof:population":1953,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

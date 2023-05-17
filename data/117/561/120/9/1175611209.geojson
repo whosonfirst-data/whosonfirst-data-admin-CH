@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3662",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Flerden",
+    "eurostat:nuts_2021_id":"CH3662",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3662",
+    "eurostat:population":248,
+    "eurostat:population_year":2020,
     "geom:area":0.000717,
     "geom:area_square_m":6077046.038171,
     "geom:bbox":"9.356363,46.658138,9.418415,46.710216",
@@ -117,14 +129,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137069,
-        85682255
+        85682255,
+        1394137069
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3662",
+        "eurostat:nuts_2021_id":"CH3662",
         "gn:id":7285838,
         "gp:id":12683473,
         "qs_pg:id":1002052
@@ -136,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ca65af270d3cd1f2166d44cf42b55187",
+    "wof:geomhash":"e8d3db8cbdafe93f746b15825ab36be1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":1175611209,
-    "wof:lastmodified":1598916356,
+    "wof:lastmodified":1684351776,
     "wof:name":"Flerden",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
+    "wof:population":248,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

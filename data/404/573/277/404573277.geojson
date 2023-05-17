@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5632",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Denges",
+    "eurostat:nuts_2021_id":"CH5632",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5632",
+    "eurostat:population":1611,
+    "eurostat:population_year":2020,
     "geom:area":0.000194,
     "geom:area_square_m":1653316.781121,
     "geom:bbox":"6.530331,46.513647,6.54814,46.531521",
@@ -90,14 +102,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5632",
+        "eurostat:nuts_2021_id":"CH5632"
+    },
     "wof:coterminous":[
         1125793749
     ],
@@ -105,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"79d266814611a7ea61311e2edaf5f8a2",
+    "wof:geomhash":"5634c372aaeae2779030bb76b4c30a5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404573277,
-    "wof:lastmodified":1598919960,
+    "wof:lastmodified":1684351773,
     "wof:name":"Denges",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":1611,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

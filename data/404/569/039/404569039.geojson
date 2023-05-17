@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4313",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leuggern",
+    "eurostat:nuts_2021_id":"CH4313",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4313",
+    "eurostat:population":2169,
+    "eurostat:population_year":2020,
     "geom:area":0.001644,
-    "geom:area_square_m":13715745.413456,
+    "geom:area_square_m":13715745.413455,
     "geom:bbox":"8.175339,47.55798,8.241168,47.615609",
     "geom:latitude":47.580016,
     "geom:longitude":8.207887,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062841,
-        85682329
+        85682329,
+        102062841
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4313",
+        "eurostat:nuts_2021_id":"CH4313",
         "gn:id":7286337,
         "gp:id":12684969,
         "qs_pg:id":498955
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"61ecc1d210f1f045aaf1cdb3a3d3fc21",
+    "wof:geomhash":"f0d317146bbdfa9a37a48726223b2dee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404569039,
-    "wof:lastmodified":1598919231,
+    "wof:lastmodified":1684351729,
     "wof:name":"Leuggern",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",
+    "wof:population":2169,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

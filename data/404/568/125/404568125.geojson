@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trient",
+    "eurostat:nuts_2021_id":"CH6142",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6142",
+    "eurostat:population":161,
+    "eurostat:population_year":2020,
     "geom:area":0.004595,
-    "geom:area_square_m":39450008.46741,
+    "geom:area_square_m":39450008.467406,
     "geom:bbox":"6.9483301326,45.9805738741,7.04523835431,46.0837024889",
     "geom:latitude":46.03076,
     "geom:longitude":6.999051,
@@ -61,6 +73,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -69,6 +83,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6142",
+        "eurostat:nuts_2021_id":"CH6142",
         "gn:id":7287332,
         "gp:id":12682904,
         "qs_pg:id":106695
@@ -81,7 +97,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4e9e358eb3c4437d7a8534cf96744a29",
+    "wof:geomhash":"d098acc5c2b4dda8014ee35c039e53e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404568125,
-    "wof:lastmodified":1582223024,
+    "wof:lastmodified":1684351712,
     "wof:name":"Trient",
     "wof:parent_id":102063045,
     "wof:placetype":"localadmin",
+    "wof:population":161,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

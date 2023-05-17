@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2883",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bretzwil",
+    "eurostat:nuts_2021_id":"CH2883",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2883",
+    "eurostat:population":768,
+    "eurostat:population_year":2020,
     "geom:area":0.000873,
-    "geom:area_square_m":7310299.376788,
+    "geom:area_square_m":7310299.376789,
     "geom:bbox":"7.632723,47.380154,7.6708,47.41003",
     "geom:latitude":47.396072,
     "geom:longitude":7.650114,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062911,
-        85682361
+        85682361,
+        102062911
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2883",
+        "eurostat:nuts_2021_id":"CH2883",
         "gn:id":7285331,
         "gp:id":12683045,
         "qs_pg:id":1015639
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"285f125accee1beeb8e9ac815aa00392",
+    "wof:geomhash":"54c0bfd0ffb1f1f2bb827a2a87d6db33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404570481,
-    "wof:lastmodified":1598920666,
+    "wof:lastmodified":1684351747,
     "wof:name":"Bretzwil",
     "wof:parent_id":102062911,
     "wof:placetype":"localadmin",
+    "wof:population":768,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

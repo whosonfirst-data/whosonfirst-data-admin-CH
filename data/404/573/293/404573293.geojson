@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5268",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vacallo",
+    "eurostat:nuts_2021_id":"CH5268",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5268",
+    "eurostat:population":3398,
+    "eurostat:population_year":2020,
     "geom:area":0.000189,
     "geom:area_square_m":1631889.080398,
     "geom:bbox":"9.023088,45.839088,9.051825,45.855573",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063063,
-        85682269
+        85682269,
+        102063063
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5268",
+        "eurostat:nuts_2021_id":"CH5268",
         "gn:id":7287403,
         "gp:id":12684555,
         "qs_pg:id":1120154
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"04ac897a19a9eadb471ca457989619e6",
+    "wof:geomhash":"5dd24cca62dbf92db83c0ec45f6e44d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404573293,
-    "wof:lastmodified":1598919920,
+    "wof:lastmodified":1684351773,
     "wof:name":"Vacallo",
     "wof:parent_id":102063063,
     "wof:placetype":"localadmin",
+    "wof:population":3398,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

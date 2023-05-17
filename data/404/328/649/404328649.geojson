@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Niederbuchsiten",
+    "eurostat:nuts_2021_id":"CH2405",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2405",
+    "eurostat:population":1175,
+    "eurostat:population_year":2020,
     "geom:area":0.000653,
-    "geom:area_square_m":5472800.344701,
+    "geom:area_square_m":5472800.344702,
     "geom:bbox":"7.75639,47.27457,7.799979,47.302795",
     "geom:latitude":47.288641,
     "geom:longitude":7.778181,
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137097,
-        85682365
+        85682365,
+        1394137097
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2405",
+        "eurostat:nuts_2021_id":"CH2405",
         "gn:id":7286635,
         "gp:id":12684080,
         "qs_pg:id":106641
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb50ce5d5b72793a0a155409b87aaf77",
+    "wof:geomhash":"7baa5503ef5a00cabb38b19bf044b520",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328649,
-    "wof:lastmodified":1598920429,
+    "wof:lastmodified":1684351699,
     "wof:name":"Niederbuchsiten",
     "wof:parent_id":1394137097,
     "wof:placetype":"localadmin",
+    "wof:population":1175,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

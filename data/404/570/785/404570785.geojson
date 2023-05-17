@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Menziken",
+    "eurostat:nuts_2021_id":"CH4139",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4139",
+    "eurostat:population":6334,
+    "eurostat:population_year":2020,
     "geom:area":0.000758,
-    "geom:area_square_m":6363010.842132,
+    "geom:area_square_m":6363010.842133,
     "geom:bbox":"8.155931,47.221902,8.207869,47.249887",
     "geom:latitude":47.235983,
     "geom:longitude":8.186513,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062983,
-        85682329
+        85682329,
+        102062983
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4139",
+        "eurostat:nuts_2021_id":"CH4139",
         "gn:id":7286485,
         "gp:id":12683971,
         "qs_pg:id":500392
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9026ea6d40ca5b72886c3f4acdf275b",
+    "wof:geomhash":"43a047575fb0f843334825bd43938319",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404570785,
-    "wof:lastmodified":1598920608,
+    "wof:lastmodified":1684351750,
     "wof:name":"Menziken",
     "wof:parent_id":102062983,
     "wof:placetype":"localadmin",
+    "wof:population":6334,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

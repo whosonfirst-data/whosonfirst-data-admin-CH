@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3542",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Albula/Alvra",
+    "eurostat:nuts_2021_id":"CH3542",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3542",
+    "eurostat:population":1310,
+    "eurostat:population_year":2020,
     "geom:area":0.011043,
-    "geom:area_square_m":93681477.158037,
+    "geom:area_square_m":93681477.158051,
     "geom:bbox":"9.48881470489,46.61632389,9.69176374153,46.7643482346",
     "geom:latitude":46.679414,
     "geom:longitude":9.604757,
@@ -48,6 +60,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -55,8 +69,12 @@
         102062885
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3542",
+        "eurostat:nuts_2021_id":"CH3542"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"0e8f15f3bc870a9ef3559fb74a470857",
+    "wof:geomhash":"f65250fcd8dc90b8ab7dd43f974dbba4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,10 +85,12 @@
         }
     ],
     "wof:id":1394254159,
-    "wof:lastmodified":1566640349,
+    "wof:lastmodified":1684351783,
     "wof:name":"Albula/Alvra",
     "wof:parent_id":102062885,
     "wof:placetype":"localadmin",
+    "wof:population":1310,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

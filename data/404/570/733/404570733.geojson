@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5711",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Commugny",
+    "eurostat:nuts_2021_id":"CH5711",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5711",
+    "eurostat:population":2874,
+    "eurostat:population_year":2020,
     "geom:area":0.000763,
-    "geom:area_square_m":6511896.273035,
+    "geom:area_square_m":6511896.273033,
     "geom:bbox":"6.13168,46.312131,6.186511,46.33499",
     "geom:latitude":46.32359,
     "geom:longitude":6.160891,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5711",
+        "eurostat:nuts_2021_id":"CH5711",
         "gp:id":12684766,
         "qs_pg:id":285476
     },
@@ -119,7 +135,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d4feb7e3b83e950e9178f68367e1043c",
+    "wof:geomhash":"c13ecc03f0577b3d77969c36ac17124c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404570733,
-    "wof:lastmodified":1598920633,
+    "wof:lastmodified":1684351750,
     "wof:name":"Commugny",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":2874,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

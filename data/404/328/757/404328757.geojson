@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2578",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gunzgen",
+    "eurostat:nuts_2021_id":"CH2578",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2578",
+    "eurostat:population":1652,
+    "eurostat:population_year":2020,
     "geom:area":0.000467,
-    "geom:area_square_m":3916452.678655,
+    "geom:area_square_m":3916452.678656,
     "geom:bbox":"7.81784,47.293865,7.850921,47.327618",
     "geom:latitude":47.312793,
     "geom:longitude":7.835301,
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137091,
-        85682365
+        85682365,
+        1394137091
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2578",
+        "eurostat:nuts_2021_id":"CH2578",
         "gn:id":7286006,
         "gp:id":12683625,
         "qs_pg:id":261847
@@ -128,7 +144,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"25aa4263e62284e9355e7fc797362074",
+    "wof:geomhash":"fcf1c766ef235eda96fe01b729f3ab00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328757,
-    "wof:lastmodified":1598920412,
+    "wof:lastmodified":1684351700,
     "wof:name":"Gunzgen",
     "wof:parent_id":1394137091,
     "wof:placetype":"localadmin",
+    "wof:population":1652,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

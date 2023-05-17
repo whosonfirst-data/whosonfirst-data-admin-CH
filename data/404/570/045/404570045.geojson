@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2762",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Allschwil",
+    "eurostat:nuts_2021_id":"CH2762",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2762",
+    "eurostat:population":21157,
+    "eurostat:population_year":2020,
     "geom:area":0.001063,
     "geom:area_square_m":8869488.966265,
     "geom:bbox":"7.504096,47.526833,7.564579,47.564361",
@@ -130,14 +142,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062971,
-        85682361
+        85682361,
+        102062971
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2762",
+        "eurostat:nuts_2021_id":"CH2762",
         "gn:id":7285052,
         "qs_pg:id":1154219
     },
@@ -149,7 +165,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f873cc014a1cced4fdb14cb2755ef6d9",
+    "wof:geomhash":"26e693a342939a9f9af66fc242d211b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +176,12 @@
         }
     ],
     "wof:id":404570045,
-    "wof:lastmodified":1598920660,
+    "wof:lastmodified":1684351742,
     "wof:name":"Allschwil",
     "wof:parent_id":102062971,
     "wof:placetype":"localadmin",
+    "wof:population":21157,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

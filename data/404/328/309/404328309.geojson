@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schattdorf",
+    "eurostat:nuts_2021_id":"CH1213",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH062",
+    "eurostat:nuts_2021_level_lau":"CH1213",
+    "eurostat:population":5424,
+    "eurostat:population_year":2020,
     "geom:area":0.001925,
     "geom:area_square_m":16283471.027573,
     "geom:bbox":"8.631347,46.82907,8.714514,46.872697",
@@ -110,14 +122,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062879,
-        85682377
+        85682377,
+        102062879
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1213",
+        "eurostat:nuts_2021_id":"CH1213",
         "gn:id":7287077,
         "gp:id":12684360,
         "qs_pg:id":1197359
@@ -127,7 +143,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48a4a235c5cba58a76c6b787f68e587a",
+    "wof:geomhash":"d570dd23df2dfe07bcbeea8133e26bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404328309,
-    "wof:lastmodified":1598920254,
+    "wof:lastmodified":1684351693,
     "wof:name":"Schattdorf",
     "wof:parent_id":102062879,
     "wof:placetype":"localadmin",
+    "wof:population":5424,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

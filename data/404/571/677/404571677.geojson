@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5924",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orges",
+    "eurostat:nuts_2021_id":"CH5924",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5924",
+    "eurostat:population":333,
+    "eurostat:population_year":2020,
     "geom:area":0.000474,
     "geom:area_square_m":4014498.729432,
     "geom:bbox":"6.56375272852,46.8014481987,6.59817577455,46.823730958",
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5924",
+        "eurostat:nuts_2021_id":"CH5924",
         "gn:id":7286747,
         "qs_pg:id":671515
     },
@@ -59,7 +75,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"29a9d302b4bc6fb715db324a38aeeb06",
+    "wof:geomhash":"8d811150b250850df08a7287e2d5228b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +86,12 @@
         }
     ],
     "wof:id":404571677,
-    "wof:lastmodified":1582223062,
+    "wof:lastmodified":1684351762,
     "wof:name":"Orges",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":333,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

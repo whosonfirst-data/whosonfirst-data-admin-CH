@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Echarlens",
+    "eurostat:nuts_2021_id":"CH2131",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2131",
+    "eurostat:population":840,
+    "eurostat:population_year":2020,
     "geom:area":0.00061,
     "geom:area_square_m":5181845.386882,
     "geom:bbox":"7.022475,46.628241,7.09887,46.660728",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062999,
-        85682301
+        85682301,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2131",
+        "eurostat:nuts_2021_id":"CH2131",
         "gn:id":7285691,
         "gp:id":12683345,
         "qs_pg:id":400284
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9aa9caee3162d61445fc7dfbe09c9168",
+    "wof:geomhash":"4f1b958a37b5c33ee3a989bede031b66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571351,
-    "wof:lastmodified":1598920144,
+    "wof:lastmodified":1684351758,
     "wof:name":"Echarlens",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",
+    "wof:population":840,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

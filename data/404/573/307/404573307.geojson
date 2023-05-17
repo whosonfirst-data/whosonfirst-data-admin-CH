@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5649",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tolochenaz",
+    "eurostat:nuts_2021_id":"CH5649",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5649",
+    "eurostat:population":1933,
+    "eurostat:population_year":2020,
     "geom:area":0.000186,
-    "geom:area_square_m":1586021.786875,
+    "geom:area_square_m":1586021.786874,
     "geom:bbox":"6.467919,46.491122,6.486826,46.511248",
     "geom:latitude":46.50159,
     "geom:longitude":6.477288,
@@ -130,14 +142,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5649",
+        "eurostat:nuts_2021_id":"CH5649",
         "gn:id":7287316,
         "gp:id":12684742,
         "qs_pg:id":905980
@@ -150,7 +166,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"299199c05e826220c6aba7bb5eec3fa5",
+    "wof:geomhash":"423d302b1cc6132630f85c1612d1c9fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404573307,
-    "wof:lastmodified":1598919879,
+    "wof:lastmodified":1684351773,
     "wof:name":"Tolochenaz",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":1933,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

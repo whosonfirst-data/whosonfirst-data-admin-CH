@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3216",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rorschacherberg",
+    "eurostat:nuts_2021_id":"CH3216",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3216",
+    "eurostat:population":7286,
+    "eurostat:population_year":2020,
     "geom:area":0.000847,
-    "geom:area_square_m":7080571.574935,
+    "geom:area_square_m":7080571.574938,
     "geom:bbox":"9.477746,47.451369,9.532979,47.481327",
     "geom:latitude":47.466583,
     "geom:longitude":9.504394,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062855,
-        85682341
+        85682341,
+        102062855
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3216",
+        "eurostat:nuts_2021_id":"CH3216",
         "gn:id":2658973,
         "gp:id":12683695,
         "qs_pg:id":236863
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"37804289ceb6d6815f982ac6ea12bc8c",
+    "wof:geomhash":"489bee1398e38cdf2814a3898dcd0b48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570541,
-    "wof:lastmodified":1598920725,
+    "wof:lastmodified":1684351747,
     "wof:name":"Rorschacherberg",
     "wof:parent_id":102062855,
     "wof:placetype":"localadmin",
+    "wof:population":7286,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

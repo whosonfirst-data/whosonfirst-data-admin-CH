@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2276",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ried bei Kerzers",
+    "eurostat:nuts_2021_id":"CH2276",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2276",
+    "eurostat:population":1183,
+    "eurostat:population_year":2020,
     "geom:area":0.000892,
     "geom:area_square_m":7531076.432218,
     "geom:bbox":"7.153521,46.945137,7.211023,46.987401",
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062765,
-        85682301
+        85682301,
+        102062765
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2276",
+        "eurostat:nuts_2021_id":"CH2276",
         "gp:id":12684266,
         "qs_pg:id":324018
     },
@@ -113,7 +129,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"12bf4e7c7b9d62ea9ad80b3abf724dd0",
+    "wof:geomhash":"e7881c442f77ed69c0b016b648169df1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":404570431,
-    "wof:lastmodified":1598920585,
+    "wof:lastmodified":1684351746,
     "wof:name":"Ried bei Kerzers",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
+    "wof:population":1183,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

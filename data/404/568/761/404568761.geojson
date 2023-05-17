@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0329",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Langenthal",
+    "eurostat:nuts_2021_id":"CH0329",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0329",
+    "eurostat:population":15624,
+    "eurostat:population_year":2020,
     "geom:area":0.002045,
-    "geom:area_square_m":17177905.61995,
+    "geom:area_square_m":17177905.619948,
     "geom:bbox":"7.761779,47.193723,7.856281,47.237417",
     "geom:latitude":47.21435,
     "geom:longitude":7.802739,
@@ -139,14 +151,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0329",
+        "eurostat:nuts_2021_id":"CH0329",
         "gp:id":12683831,
         "qs_pg:id":61901
     },
@@ -155,7 +171,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0f04b72f7cb7c395b34e2cdfcc3fe995",
+    "wof:geomhash":"54cf77b8809e6602b1ddbdd37eb140fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +182,12 @@
         }
     ],
     "wof:id":404568761,
-    "wof:lastmodified":1598919650,
+    "wof:lastmodified":1684351724,
     "wof:name":"Langenthal",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":15624,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

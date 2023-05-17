@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cheiry",
+    "eurostat:nuts_2021_id":"CH2009",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2009",
+    "eurostat:population":416,
+    "eurostat:population_year":2020,
     "geom:area":0.000759,
-    "geom:area_square_m":6430295.83713,
+    "geom:area_square_m":6430295.837132,
     "geom:bbox":"6.812509,46.732403,6.867758,46.775417",
     "geom:latitude":46.75339,
     "geom:longitude":6.840617,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062945,
-        85682301
+        85682301,
+        102062945
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2009",
+        "eurostat:nuts_2021_id":"CH2009",
         "gn:id":7285492,
         "gp:id":12683185,
         "qs_pg:id":198156
@@ -120,7 +136,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"363c0e4a3b4f927bd90196a08b1d3272",
+    "wof:geomhash":"0007351276a3e3edefb9cd24746e3573",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404570765,
-    "wof:lastmodified":1598920527,
+    "wof:lastmodified":1684351750,
     "wof:name":"Cheiry",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",
+    "wof:population":416,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

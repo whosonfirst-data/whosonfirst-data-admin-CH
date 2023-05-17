@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Koblenz",
+    "eurostat:nuts_2021_id":"CH4310",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4310",
+    "eurostat:population":1660,
+    "eurostat:population_year":2020,
     "geom:area":0.000487,
     "geom:area_square_m":4063692.871672,
     "geom:bbox":"8.220966,47.595345,8.263922,47.615314",
@@ -283,14 +295,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062841,
-        85682329
+        85682329,
+        102062841
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4310",
+        "eurostat:nuts_2021_id":"CH4310",
         "gn:id":7286213,
         "gp:id":20075551,
         "qs_pg:id":53579
@@ -303,7 +319,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7896f516b41eecaa6ee5841b737e7943",
+    "wof:geomhash":"01a63c4a029cb166eaa4e2d82b3e207c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,10 +330,12 @@
         }
     ],
     "wof:id":404571661,
-    "wof:lastmodified":1598920089,
+    "wof:lastmodified":1684351761,
     "wof:name":"Koblenz",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",
+    "wof:population":1660,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

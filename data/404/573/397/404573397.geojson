@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5644",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reverolle",
+    "eurostat:nuts_2021_id":"CH5644",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5644",
+    "eurostat:population":398,
+    "eurostat:population_year":2020,
     "geom:area":0.000139,
     "geom:area_square_m":1181823.795157,
     "geom:bbox":"6.431105,46.534634,6.450036,46.548356",
@@ -93,14 +105,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5644",
+        "eurostat:nuts_2021_id":"CH5644"
+    },
     "wof:coterminous":[
         1125912353
     ],
@@ -108,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5f8759fa81ebf3d3cb2a4f7330327435",
+    "wof:geomhash":"db1e11a58219366f81efbdd98a166f1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404573397,
-    "wof:lastmodified":1598919890,
+    "wof:lastmodified":1684351774,
     "wof:name":"Reverolle",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":398,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

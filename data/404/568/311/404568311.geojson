@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0424",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wynigen",
+    "eurostat:nuts_2021_id":"CH0424",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0424",
+    "eurostat:population":2060,
+    "eurostat:population_year":2020,
     "geom:area":0.003356,
-    "geom:area_square_m":28243935.550011,
+    "geom:area_square_m":28243935.550015,
     "geom:bbox":"7.634703,47.074754,7.742885,47.135555",
     "geom:latitude":47.103889,
     "geom:longitude":7.691927,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0424",
+        "eurostat:nuts_2021_id":"CH0424",
         "gn:id":7287617,
         "gp:id":12684653,
         "qs_pg:id":1102366
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74b40b742e70b262094f2d15839b5394",
+    "wof:geomhash":"68ca575a5a42ce3905daf256cd7f3862",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404568311,
-    "wof:lastmodified":1598919728,
+    "wof:lastmodified":1684351716,
     "wof:name":"Wynigen",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":2060,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

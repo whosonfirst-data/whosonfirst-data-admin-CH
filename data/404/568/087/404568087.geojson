@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3392",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kirchberg (SG)",
+    "eurostat:nuts_2021_id":"CH3392",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3392",
+    "eurostat:population":9073,
+    "eurostat:population_year":2020,
     "geom:area":0.005069,
-    "geom:area_square_m":42421116.688009,
+    "geom:area_square_m":42421116.687996,
     "geom:bbox":"8.97148,47.374721,9.082892,47.444233",
     "geom:latitude":47.408237,
     "geom:longitude":9.025952,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062771,
-        85682341
+        85682341,
+        102062771
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3392",
+        "eurostat:nuts_2021_id":"CH3392",
         "gn:id":7286199,
         "gp:id":12682910,
         "qs_pg:id":671398
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"bdb0827b0340953947ad3724976635ac",
+    "wof:geomhash":"c4d3e2c091860341175d2dc07f3dbda2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404568087,
-    "wof:lastmodified":1598919658,
+    "wof:lastmodified":1684351711,
     "wof:name":"Kirchberg",
     "wof:parent_id":102062771,
     "wof:placetype":"localadmin",
+    "wof:population":9073,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0715",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reb\u00e9velier",
+    "eurostat:nuts_2021_id":"CH0715",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0715",
+    "eurostat:population":41,
+    "eurostat:population_year":2020,
     "geom:area":0.000422,
-    "geom:area_square_m":3538766.854793,
+    "geom:area_square_m":3538766.854792,
     "geom:bbox":"7.163384,47.282923,7.210183,47.295906",
     "geom:latitude":47.289937,
     "geom:longitude":7.18614,
@@ -99,14 +111,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062865,
-        85682381
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0715",
+        "eurostat:nuts_2021_id":"CH0715"
+    },
     "wof:coterminous":[
         1125949665
     ],
@@ -114,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1b0229732b1aa4e32c6a396ba9573714",
+    "wof:geomhash":"dbd4126758fa385fc9a9a9ae6247bf5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404571899,
-    "wof:lastmodified":1598920209,
+    "wof:lastmodified":1684351764,
     "wof:name":"Reb\u00e9velier",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":41,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

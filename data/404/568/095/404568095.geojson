@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6432",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Br\u00e9vine",
+    "eurostat:nuts_2021_id":"CH6432",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6432",
+    "eurostat:population":630,
+    "eurostat:population_year":2020,
     "geom:area":0.004942,
-    "geom:area_square_m":41702462.063989,
+    "geom:area_square_m":41702462.063986,
     "geom:bbox":"6.485744,46.943816,6.666725,47.000111",
     "geom:latitude":46.968193,
     "geom:longitude":6.582771,
@@ -100,6 +112,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6432",
+        "eurostat:nuts_2021_id":"CH6432",
         "gn:id":7286237,
         "gp:id":12683800,
         "qs_pg:id":500361
@@ -116,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"292b7d53038fd22c153bf522496c11ae",
+    "wof:geomhash":"220faf496c3ef7ef18de8c354bf723fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404568095,
-    "wof:lastmodified":1598919700,
+    "wof:lastmodified":1684351711,
     "wof:name":"La Br\u00e9vine",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":630,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

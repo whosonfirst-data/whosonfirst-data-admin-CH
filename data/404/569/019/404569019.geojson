@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0199",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Volketswil",
+    "eurostat:nuts_2021_id":"CH0199",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0199",
+    "eurostat:population":18669,
+    "eurostat:population_year":2020,
     "geom:area":0.001673,
-    "geom:area_square_m":14003167.656326,
+    "geom:area_square_m":14003167.656327,
     "geom:bbox":"8.651138,47.374363,8.733387,47.415513",
     "geom:latitude":47.392583,
     "geom:longitude":8.68951,
@@ -130,14 +142,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062933,
-        85682309
+        85682309,
+        102062933
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0199",
+        "eurostat:nuts_2021_id":"CH0199",
         "gp:id":12685120,
         "qs_pg:id":1097482
     },
@@ -146,7 +162,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"955b3088e55632adb84e3dea1eacf09a",
+    "wof:geomhash":"93ced52e5c865a86ed0e9eeb7adf1e8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +173,12 @@
         }
     ],
     "wof:id":404569019,
-    "wof:lastmodified":1598919313,
+    "wof:lastmodified":1684351729,
     "wof:name":"Volketswil",
     "wof:parent_id":102062933,
     "wof:placetype":"localadmin",
+    "wof:population":18669,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

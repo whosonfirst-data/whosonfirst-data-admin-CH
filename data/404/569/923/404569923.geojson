@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberkulm",
+    "eurostat:nuts_2021_id":"CH4140",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4140",
+    "eurostat:population":2720,
+    "eurostat:population_year":2020,
     "geom:area":0.001119,
-    "geom:area_square_m":9387259.749935,
+    "geom:area_square_m":9387259.749934,
     "geom:bbox":"8.092576,47.279552,8.153661,47.314513",
     "geom:latitude":47.2984,
     "geom:longitude":8.125923,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062983,
-        85682329
+        85682329,
+        102062983
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4140",
+        "eurostat:nuts_2021_id":"CH4140",
         "gn:id":7286701,
         "gp:id":12685064,
         "qs_pg:id":246642
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f9e1ea645a59c5ffa72662eceef5d052",
+    "wof:geomhash":"57e931e9f1c793432abe34804b97e4e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404569923,
-    "wof:lastmodified":1598919245,
+    "wof:lastmodified":1684351740,
     "wof:name":"Oberkulm",
     "wof:parent_id":102062983,
     "wof:placetype":"localadmin",
+    "wof:population":2720,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

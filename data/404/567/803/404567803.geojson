@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bex",
+    "eurostat:nuts_2021_id":"CH5402",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5402",
+    "eurostat:population":7771,
+    "eurostat:population_year":2020,
     "geom:area":0.011265,
-    "geom:area_square_m":96309794.564294,
+    "geom:area_square_m":96309794.564289,
     "geom:bbox":"6.9704281789,46.1989624563,7.1969557416,46.3045781092",
     "geom:latitude":46.2556,
     "geom:longitude":7.089039,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -129,6 +143,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5402",
+        "eurostat:nuts_2021_id":"CH5402",
         "gn:id":7285233,
         "gp:id":12682960,
         "qs_pg:id":190970
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a417c266b624eb2f5397059095e45734",
+    "wof:geomhash":"e4d5db754d458cdfde9ceb618e6d2b6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404567803,
-    "wof:lastmodified":1582222974,
+    "wof:lastmodified":1684351705,
     "wof:name":"Bex",
     "wof:parent_id":102062783,
     "wof:placetype":"localadmin",
+    "wof:population":7771,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

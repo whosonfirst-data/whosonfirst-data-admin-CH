@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00f6thenbach im Emmental",
+    "eurostat:nuts_2021_id":"CH0904",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0904",
+    "eurostat:population":1169,
+    "eurostat:population_year":2020,
     "geom:area":0.004339,
-    "geom:area_square_m":36700339.765204,
+    "geom:area_square_m":36700339.765197,
     "geom:bbox":"7.708469,46.801026,7.825394,46.88959",
     "geom:latitude":46.842516,
     "geom:longitude":7.756128,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0904",
+        "eurostat:nuts_2021_id":"CH0904",
         "gn:id":7286957,
         "gp:id":12684302,
         "qs_pg:id":77563
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"308c6569717081dcb2d29222bcba23f7",
+    "wof:geomhash":"debd49c15cc531dcf0ae6bc9c00e43b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404568167,
-    "wof:lastmodified":1598919489,
+    "wof:lastmodified":1684351713,
     "wof:name":"R\u00f6thenbach im Emmental",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":1169,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

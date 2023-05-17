@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5512",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bercher",
+    "eurostat:nuts_2021_id":"CH5512",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5512",
+    "eurostat:population":1238,
+    "eurostat:population_year":2020,
     "geom:area":0.000502,
-    "geom:area_square_m":4257771.580227,
+    "geom:area_square_m":4257771.580226,
     "geom:bbox":"6.691248,46.674511,6.720308,46.709082",
     "geom:latitude":46.691612,
     "geom:longitude":6.706247,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062949,
-        85682325
+        85682325,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5512",
+        "eurostat:nuts_2021_id":"CH5512",
         "gn:id":7285201,
         "gp:id":12682942,
         "qs_pg:id":1040449
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"26b9f7e0503230055facbcf376d748f8",
+    "wof:geomhash":"4f11e7ab7328b092c6a786e96624591d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404571581,
-    "wof:lastmodified":1598920101,
+    "wof:lastmodified":1684351760,
     "wof:name":"Bercher",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":1238,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

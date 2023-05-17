@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buseno",
+    "eurostat:nuts_2021_id":"CH3804",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3804",
+    "eurostat:population":87,
+    "eurostat:population_year":2020,
     "geom:area":0.001301,
     "geom:area_square_m":11119885.193781,
     "geom:bbox":"9.068739,46.248954,9.136997,46.298831",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062903,
-        85682255
+        85682255,
+        102062903
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3804",
+        "eurostat:nuts_2021_id":"CH3804",
         "gn:id":7285400,
         "gp:id":12683105,
         "qs_pg:id":106539
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e3f3ca7852f0a7c92796dcc107a9f1e",
+    "wof:geomhash":"6d91afbc140fbd0bb173096806ab70b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404569537,
-    "wof:lastmodified":1598919260,
+    "wof:lastmodified":1684351735,
     "wof:name":"Buseno",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
+    "wof:population":87,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

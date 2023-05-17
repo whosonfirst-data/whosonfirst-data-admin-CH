@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5238",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monteceneri",
+    "eurostat:nuts_2021_id":"CH5238",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5238",
+    "eurostat:population":4520,
+    "eurostat:population_year":2020,
     "geom:area":0.004198,
     "geom:area_square_m":35983917.451034,
     "geom:bbox":"8.864152,46.069723,8.98577,46.147217",
@@ -88,14 +100,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5238",
+        "eurostat:nuts_2021_id":"CH5238",
         "gn:id":8260341,
         "qs_pg:id":760518
     },
@@ -104,7 +120,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"71efe77168956d847c2ec783ab010b0b",
+    "wof:geomhash":"96cb37a1a885359da42868a6485d525e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,10 +131,12 @@
         }
     ],
     "wof:id":404568159,
-    "wof:lastmodified":1598919474,
+    "wof:lastmodified":1684351713,
     "wof:name":"Monteceneri",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":4520,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

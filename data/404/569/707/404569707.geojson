@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5882",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chardonne",
+    "eurostat:nuts_2021_id":"CH5882",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5882",
+    "eurostat:population":2944,
+    "eurostat:population_year":2020,
     "geom:area":0.001211,
-    "geom:area_square_m":10310285.529976,
+    "geom:area_square_m":10310285.529977,
     "geom:bbox":"6.79732273433,46.4689376545,6.84256228315,46.5124618283",
     "geom:latitude":46.488541,
     "geom:longitude":6.821636,
@@ -97,6 +109,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -105,6 +119,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5882",
+        "eurostat:nuts_2021_id":"CH5882",
         "gn:id":7285475,
         "gp:id":12683172,
         "qs_pg:id":671230
@@ -117,7 +133,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"01851dc6c793304e9eb70d9976a195e4",
+    "wof:geomhash":"7e19b401ae04764c9453e277a1f22ac7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404569707,
-    "wof:lastmodified":1582222948,
+    "wof:lastmodified":1684351737,
     "wof:name":"Chardonne",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",
+    "wof:population":2944,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6288",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saas-Almagell",
+    "eurostat:nuts_2021_id":"CH6288",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6288",
+    "eurostat:population":370,
+    "eurostat:population_year":2020,
     "geom:area":0.012836,
     "geom:area_square_m":110144581.619356,
     "geom:bbox":"7.883723,45.995898,8.035423,46.127592",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062859,
-        85682281
+        85682281,
+        102062859
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6288",
+        "eurostat:nuts_2021_id":"CH6288",
         "gn:id":7287006,
         "qs_pg:id":1154305
     },
@@ -137,7 +153,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f1dcd0266b72b1af77af11518ca7933d",
+    "wof:geomhash":"370998c8859f749d576fbabb1b7eb409",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +164,12 @@
         }
     ],
     "wof:id":404567789,
-    "wof:lastmodified":1598919452,
+    "wof:lastmodified":1684351705,
     "wof:name":"Saas-Almagell",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",
+    "wof:population":370,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

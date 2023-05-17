@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ober\u00e4geri",
+    "eurostat:nuts_2021_id":"CH1706",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH066",
+    "eurostat:nuts_2021_level_lau":"CH1706",
+    "eurostat:population":6081,
+    "eurostat:population_year":2020,
     "geom:area":0.004296,
-    "geom:area_square_m":36140858.498981,
+    "geom:area_square_m":36140858.498975,
     "geom:bbox":"8.594514,47.091997,8.701159,47.163482",
     "geom:latitude":47.13067,
     "geom:longitude":8.642756,
@@ -113,14 +125,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063067,
-        85682263
+        85682263,
+        102063067
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1706",
+        "eurostat:nuts_2021_id":"CH1706",
         "gn:id":7286672,
         "gp:id":12684022,
         "qs_pg:id":191054
@@ -130,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3b0ae4490961b6af1b54b840584e13cd",
+    "wof:geomhash":"761a2d353e64fcdcd802c46976ba802f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404328189,
-    "wof:lastmodified":1598920361,
+    "wof:lastmodified":1684351691,
     "wof:name":"Ober\u00e4geri",
     "wof:parent_id":102063067,
     "wof:placetype":"localadmin",
+    "wof:population":6081,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

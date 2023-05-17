@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3561",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poschiavo",
+    "eurostat:nuts_2021_id":"CH3561",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3561",
+    "eurostat:population":3516,
+    "eurostat:population_year":2020,
     "geom:area":0.022322,
-    "geom:area_square_m":190515388.382025,
+    "geom:area_square_m":190515388.382033,
     "geom:bbox":"9.955703,46.243531,10.166754,46.442748",
     "geom:latitude":46.352576,
     "geom:longitude":10.06078,
@@ -139,14 +151,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062777,
-        85682255
+        85682255,
+        102062777
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3561",
+        "eurostat:nuts_2021_id":"CH3561",
         "gn:id":7286824,
         "gp:id":12682738,
         "qs_pg:id":1196947
@@ -156,7 +172,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"99181db96ce769df15b8cf6c70e11ea9",
+    "wof:geomhash":"bd3d4a97f95c64313c6951034366a1e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404567719,
-    "wof:lastmodified":1598919448,
+    "wof:lastmodified":1684351703,
     "wof:name":"Poschiavo",
     "wof:parent_id":102062777,
     "wof:placetype":"localadmin",
+    "wof:population":3516,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

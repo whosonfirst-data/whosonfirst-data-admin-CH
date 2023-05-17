@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3618",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lumnezia",
+    "eurostat:nuts_2021_id":"CH3618",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3618",
+    "eurostat:population":2026,
+    "eurostat:population_year":2020,
     "geom:area":0.019449,
-    "geom:area_square_m":165045838.469181,
+    "geom:area_square_m":165045838.469185,
     "geom:bbox":"8.95737868446,46.5773389256,9.24776063651,46.7473271062",
     "geom:latitude":46.661653,
     "geom:longitude":9.108695,
@@ -54,6 +66,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -61,8 +75,12 @@
         102062773
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3618",
+        "eurostat:nuts_2021_id":"CH3618"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"15088ed5d4059248e46e668ab694c9fd",
+    "wof:geomhash":"e312ad0b70c21cc5d05e5bdd05763ac3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +91,12 @@
         }
     ],
     "wof:id":1394254047,
-    "wof:lastmodified":1566640375,
+    "wof:lastmodified":1684351779,
     "wof:name":"Lumnezia",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
+    "wof:population":2026,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

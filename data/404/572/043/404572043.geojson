@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5671",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dompierre (VD)",
+    "eurostat:nuts_2021_id":"CH5671",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5671",
+    "eurostat:population":239,
+    "eurostat:population_year":2020,
     "geom:area":0.000378,
     "geom:area_square_m":3203115.116344,
     "geom:bbox":"6.865735,46.70258,6.898089,46.72142",
@@ -102,14 +114,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062969,
-        85682325
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5671",
+        "eurostat:nuts_2021_id":"CH5671"
+    },
     "wof:coterminous":[
         1343596319
     ],
@@ -117,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e180fc03a37d48f11cb995b52c7676c",
+    "wof:geomhash":"c1c29529a0b9362f725973e17849e00f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404572043,
-    "wof:lastmodified":1598919844,
+    "wof:lastmodified":1684351766,
     "wof:name":"Dompierre",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":239,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2173",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Autigny",
+    "eurostat:nuts_2021_id":"CH2173",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2173",
+    "eurostat:population":796,
+    "eurostat:population_year":2020,
     "geom:area":0.000732,
-    "geom:area_square_m":6200215.590327,
+    "geom:area_square_m":6200215.590328,
     "geom:bbox":"7.00274778175,46.727939161,7.057226809,46.7547816668",
     "geom:latitude":46.739858,
     "geom:longitude":7.027411,
@@ -67,6 +79,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2173",
+        "eurostat:nuts_2021_id":"CH2173",
         "gn:id":7285122,
         "gp:id":12682863,
         "qs_pg:id":242306
@@ -87,7 +103,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dd23b2a9160d450b5a2bcedf4e3082d8",
+    "wof:geomhash":"8257184fd720f8f9e9572dbbc9f9081e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404570825,
-    "wof:lastmodified":1582223108,
+    "wof:lastmodified":1684351751,
     "wof:name":"Autigny",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":796,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

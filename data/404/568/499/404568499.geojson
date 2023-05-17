@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3572",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Falera",
+    "eurostat:nuts_2021_id":"CH3572",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3572",
+    "eurostat:population":615,
+    "eurostat:population_year":2020,
     "geom:area":0.002636,
-    "geom:area_square_m":22302960.355422,
+    "geom:area_square_m":22302960.355418,
     "geom:bbox":"9.165393,46.792667,9.249158,46.872465",
     "geom:latitude":46.827353,
     "geom:longitude":9.208508,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062773,
-        85682255
+        85682255,
+        102062773
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3572",
+        "eurostat:nuts_2021_id":"CH3572",
         "gn:id":7285793,
         "gp:id":12683437,
         "qs_pg:id":380081
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5cbb09a2f06e2b4763ea4dbaf74e43dd",
+    "wof:geomhash":"5a2d93559d49f15e177f42bbef96510b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404568499,
-    "wof:lastmodified":1598919547,
+    "wof:lastmodified":1684351719,
     "wof:name":"Falera",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
+    "wof:population":615,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

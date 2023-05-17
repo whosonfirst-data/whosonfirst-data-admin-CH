@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5859",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mont-sur-Rolle",
+    "eurostat:nuts_2021_id":"CH5859",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5859",
+    "eurostat:population":2654,
+    "eurostat:population_year":2020,
     "geom:area":0.000452,
     "geom:area_square_m":3850315.371189,
     "geom:bbox":"6.324104,46.46283,6.351827,46.490517",
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5859",
+        "eurostat:nuts_2021_id":"CH5859",
         "gn:id":7286545,
         "gp:id":12683999,
         "qs_pg:id":380120
@@ -114,7 +130,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7dacc316c975bd5f4c54d2d7244617e3",
+    "wof:geomhash":"a91b884c7cba270f32eaa04ecbb40596",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404571769,
-    "wof:lastmodified":1598920138,
+    "wof:lastmodified":1684351763,
     "wof:name":"Mont-sur-Rolle",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":2654,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

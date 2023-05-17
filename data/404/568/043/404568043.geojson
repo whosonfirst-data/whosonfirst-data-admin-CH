@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3734",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trin",
+    "eurostat:nuts_2021_id":"CH3734",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3734",
+    "eurostat:population":1430,
+    "eurostat:population_year":2020,
     "geom:area":0.005564,
-    "geom:area_square_m":47045585.764137,
+    "geom:area_square_m":47045585.764139,
     "geom:bbox":"9.258098,46.803914,9.387297,46.907362",
     "geom:latitude":46.862435,
     "geom:longitude":9.32992,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062839,
-        85682255
+        85682255,
+        102062839
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3734",
+        "eurostat:nuts_2021_id":"CH3734",
         "gn:id":7287336,
         "gp:id":12683312,
         "qs_pg:id":1197064
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3176d0562e0c51b95783a92106cc9c82",
+    "wof:geomhash":"adac979c1b5f6e9ecfd08eea9d438874",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404568043,
-    "wof:lastmodified":1598919678,
+    "wof:lastmodified":1684351710,
     "wof:name":"Trin",
     "wof:parent_id":102062839,
     "wof:placetype":"localadmin",
+    "wof:population":1430,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

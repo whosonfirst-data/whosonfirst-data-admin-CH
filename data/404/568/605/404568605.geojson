@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4551",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aadorf",
+    "eurostat:nuts_2021_id":"CH4551",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4551",
+    "eurostat:population":9037,
+    "eurostat:population_year":2020,
     "geom:area":0.00238,
-    "geom:area_square_m":19887943.537091,
+    "geom:area_square_m":19887943.537087,
     "geom:bbox":"8.880982,47.459736,8.942564,47.540468",
     "geom:latitude":47.493153,
     "geom:longitude":8.910176,
@@ -130,14 +142,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062981,
-        85682337
+        85682337,
+        102062981
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4551",
+        "eurostat:nuts_2021_id":"CH4551",
         "gn:id":7285012,
         "gp:id":12682694,
         "qs_pg:id":1169808
@@ -147,7 +163,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9353988b7e74b8d8ba2370cf403b9712",
+    "wof:geomhash":"f53eca968a6950ff6181061233897b58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404568605,
-    "wof:lastmodified":1598919538,
+    "wof:lastmodified":1684351721,
     "wof:name":"Aadorf",
     "wof:parent_id":102062981,
     "wof:placetype":"localadmin",
+    "wof:population":9037,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

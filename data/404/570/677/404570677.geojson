@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Klingnau",
+    "eurostat:nuts_2021_id":"CH4309",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4309",
+    "eurostat:population":3480,
+    "eurostat:population_year":2020,
     "geom:area":0.000802,
-    "geom:area_square_m":6692518.992903,
+    "geom:area_square_m":6692518.9929,
     "geom:bbox":"8.221091,47.574564,8.276783,47.602691",
     "geom:latitude":47.588631,
     "geom:longitude":8.250682,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062841,
-        85682329
+        85682329,
+        102062841
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4309",
+        "eurostat:nuts_2021_id":"CH4309",
         "gn:id":7286208,
         "gp:id":12683773,
         "qs_pg:id":538792
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6350eeb725f340ff58c2d7786792a39e",
+    "wof:geomhash":"cd0f12f426dd98e238f917eaa6788428",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404570677,
-    "wof:lastmodified":1598920680,
+    "wof:lastmodified":1684351749,
     "wof:name":"Klingnau",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",
+    "wof:population":3480,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

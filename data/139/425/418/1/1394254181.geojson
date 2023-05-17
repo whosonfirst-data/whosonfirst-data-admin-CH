@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6413",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rochefort",
+    "eurostat:nuts_2021_id":"CH6413",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6413",
+    "eurostat:population":1239,
+    "eurostat:population_year":2020,
     "geom:area":0.003056,
     "geom:area_square_m":25783912.845128,
     "geom:bbox":"6.73556937539,46.9492368923,6.84848726984,47.013778599",
@@ -123,14 +135,20 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
         85682359
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6413",
+        "eurostat:nuts_2021_id":"CH6413"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"c25a188519b58db2b1fdcc0a63d58767",
+    "wof:geomhash":"c30716e39b6a500bc901b1ec81c80433",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +158,12 @@
         }
     ],
     "wof:id":1394254181,
-    "wof:lastmodified":1566640370,
+    "wof:lastmodified":1684351783,
     "wof:name":"Rochefort",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":1239,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

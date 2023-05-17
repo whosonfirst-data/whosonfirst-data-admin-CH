@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2137",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hauteville",
+    "eurostat:nuts_2021_id":"CH2137",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2137",
+    "eurostat:population":672,
+    "eurostat:population_year":2020,
     "geom:area":0.001394,
-    "geom:area_square_m":11826252.882652,
+    "geom:area_square_m":11826252.882653,
     "geom:bbox":"7.09447163706,46.6529483823,7.17580761907,46.686885762",
     "geom:latitude":46.669807,
     "geom:longitude":7.130737,
@@ -103,6 +115,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -111,6 +125,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2137",
+        "eurostat:nuts_2021_id":"CH2137",
         "gn:id":7286042,
         "gp:id":12683651,
         "qs_pg:id":1252201
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"630e8b2f26cce76a0580b735a1e1f2dd",
+    "wof:geomhash":"dd4978685330e2b1b222b1b1495e664d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404569301,
-    "wof:lastmodified":1582222948,
+    "wof:lastmodified":1684351733,
     "wof:name":"Hauteville",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",
+    "wof:population":672,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

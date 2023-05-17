@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6250",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Veyras",
+    "eurostat:nuts_2021_id":"CH6250",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6250",
+    "eurostat:population":1834,
+    "eurostat:population_year":2020,
     "geom:area":0.000168,
     "geom:area_square_m":1432573.083602,
     "geom:bbox":"7.529668,46.298548,7.559152,46.311979",
@@ -79,14 +91,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062793,
-        85682281
+        85682281,
+        102062793
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6250",
+        "eurostat:nuts_2021_id":"CH6250",
         "gn:id":7287446,
         "qs_pg:id":1154333
     },
@@ -98,7 +114,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3aa7f06c4a82a48474e86de26bf6f247",
+    "wof:geomhash":"8b05390447985f0b520181a5682c25e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":404573343,
-    "wof:lastmodified":1598919995,
+    "wof:lastmodified":1684351773,
     "wof:name":"Veyras",
     "wof:parent_id":102062793,
     "wof:placetype":"localadmin",
+    "wof:population":1834,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

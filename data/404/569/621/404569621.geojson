@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4681",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Langrickenbach",
+    "eurostat:nuts_2021_id":"CH4681",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4681",
+    "eurostat:population":1291,
+    "eurostat:population_year":2020,
     "geom:area":0.001295,
-    "geom:area_square_m":10794992.343615,
+    "geom:area_square_m":10794992.343617,
     "geom:bbox":"9.215668,47.570056,9.275256,47.62009",
     "geom:latitude":47.594558,
     "geom:longitude":9.240872,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062953,
-        85682337
+        85682337,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4681",
+        "eurostat:nuts_2021_id":"CH4681",
         "gn:id":7286262,
         "gp:id":12683674,
         "qs_pg:id":952901
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d5af9231d770bb9686742c681b2f7535",
+    "wof:geomhash":"a255e12a22915a148bef2c13303e931a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404569621,
-    "wof:lastmodified":1598919181,
+    "wof:lastmodified":1684351736,
     "wof:name":"Langrickenbach",
     "wof:parent_id":102062953,
     "wof:placetype":"localadmin",
+    "wof:population":1291,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0341",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schwarzh\u00e4usern",
+    "eurostat:nuts_2021_id":"CH0341",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0341",
+    "eurostat:population":522,
+    "eurostat:population_year":2020,
     "geom:area":0.000451,
-    "geom:area_square_m":3783653.472896,
+    "geom:area_square_m":3783653.472895,
     "geom:bbox":"7.745556,47.245531,7.786147,47.267868",
     "geom:latitude":47.25572,
     "geom:longitude":7.766873,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0341",
+        "eurostat:nuts_2021_id":"CH0341",
         "gn:id":7287124,
         "qs_pg:id":671602
     },
@@ -125,7 +141,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"019560b7584fa6cd61d292b52d6d6f88",
+    "wof:geomhash":"f0b7fec155102b315418eec5e4804693",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404571805,
-    "wof:lastmodified":1598920093,
+    "wof:lastmodified":1684351763,
     "wof:name":"Schwarzh\u00e4usern",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":522,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

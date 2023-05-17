@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5912",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u00e9moret",
+    "eurostat:nuts_2021_id":"CH5912",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5912",
+    "eurostat:population":141,
+    "eurostat:population_year":2020,
     "geom:area":0.000504,
-    "geom:area_square_m":4267087.42876,
+    "geom:area_square_m":4267087.428761,
     "geom:bbox":"6.740945,46.7318,6.776459,46.762892",
     "geom:latitude":46.747864,
     "geom:longitude":6.757797,
@@ -93,14 +105,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5912",
+        "eurostat:nuts_2021_id":"CH5912"
+    },
     "wof:coterminous":[
         1276374629
     ],
@@ -108,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7c64eb251ec3d03d145c081a6b58d0fa",
+    "wof:geomhash":"a381e8321e79cae61c054242ff3a2f6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404571579,
-    "wof:lastmodified":1598920236,
+    "wof:lastmodified":1684351760,
     "wof:name":"D\u00e9moret",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":141,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reute (AR)",
+    "eurostat:nuts_2021_id":"CH3035",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH053",
+    "eurostat:nuts_2021_level_lau":"CH3035",
+    "eurostat:population":688,
+    "eurostat:population_year":2020,
     "geom:area":0.000595,
-    "geom:area_square_m":4980250.048522,
+    "geom:area_square_m":4980250.048521,
     "geom:bbox":"9.542387,47.396342,9.585839,47.432068",
     "geom:latitude":47.414306,
     "geom:longitude":9.564017,
@@ -114,14 +126,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137103,
-        85682353
+        85682353,
+        1394137103
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3035",
+        "eurostat:nuts_2021_id":"CH3035",
         "gn:id":7286887,
         "gp:id":12685000,
         "qs_pg:id":1170066
@@ -131,7 +147,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"84b77859e34ff918b4c79875b9327be8",
+    "wof:geomhash":"ebb9ad451c8d35873df0f2b7e602e164",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404328685,
-    "wof:lastmodified":1598920430,
+    "wof:lastmodified":1684351699,
     "wof:name":"Reute",
     "wof:parent_id":1394137103,
     "wof:placetype":"localadmin",
+    "wof:population":688,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

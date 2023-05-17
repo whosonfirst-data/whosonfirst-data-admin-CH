@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5192",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lugano",
+    "eurostat:nuts_2021_id":"CH5192",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5192",
+    "eurostat:population":63185,
+    "eurostat:population_year":2020,
     "geom:area":0.010015,
-    "geom:area_square_m":85975148.036027,
+    "geom:area_square_m":85975162.197551,
     "geom:bbox":"8.893658,45.939684,9.08961,46.119156",
     "geom:latitude":46.033837,
     "geom:longitude":8.999592,
@@ -264,6 +276,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -271,8 +285,12 @@
         102062767
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5192",
+        "eurostat:nuts_2021_id":"CH5192"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"7b6875a67c676c87f862f7eead107fa5",
+    "wof:geomhash":"b8a7462b83f6739964100fc998ae63d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -283,10 +301,12 @@
         }
     ],
     "wof:id":1394254171,
-    "wof:lastmodified":1636413512,
+    "wof:lastmodified":1684351783,
     "wof:name":"Lugano",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":63185,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

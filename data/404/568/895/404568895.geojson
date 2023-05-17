@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0923",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buchholterberg",
+    "eurostat:nuts_2021_id":"CH0923",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0923",
+    "eurostat:population":1527,
+    "eurostat:population_year":2020,
     "geom:area":0.001807,
-    "geom:area_square_m":15291876.705557,
+    "geom:area_square_m":15291876.705556,
     "geom:bbox":"7.64244,46.802213,7.736282,46.836613",
     "geom:latitude":46.819577,
     "geom:longitude":7.690221,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0923",
+        "eurostat:nuts_2021_id":"CH0923",
         "gn:id":7285368,
         "gp:id":12683655,
         "qs_pg:id":1163636
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"863c6a7537742124b9a0576f8f18a72b",
+    "wof:geomhash":"77cfefe6d5322d3399c45226455603f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404568895,
-    "wof:lastmodified":1598919533,
+    "wof:lastmodified":1684351727,
     "wof:name":"Buchholterberg",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":1527,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

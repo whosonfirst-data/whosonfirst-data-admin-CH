@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0616",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00fcnsingen",
+    "eurostat:nuts_2021_id":"CH0616",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0616",
+    "eurostat:population":12724,
+    "eurostat:population_year":2020,
     "geom:area":0.001862,
-    "geom:area_square_m":15733070.238363,
+    "geom:area_square_m":15733070.23836,
     "geom:bbox":"7.54030667629,46.8537841554,7.60713010224,46.9127465409",
     "geom:latitude":46.881417,
     "geom:longitude":7.570633,
@@ -102,6 +114,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -109,8 +123,12 @@
         102062861
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0616",
+        "eurostat:nuts_2021_id":"CH0616"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"7a96c3c0a6ba9f52491cca1a8a1b3cdb",
+    "wof:geomhash":"aeef583b5490431e82226e4cae93bccf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +139,12 @@
         }
     ],
     "wof:id":1394254177,
-    "wof:lastmodified":1566640364,
+    "wof:lastmodified":1684351783,
     "wof:name":"M\u00fcnsingen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":12724,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2932",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beringen",
+    "eurostat:nuts_2021_id":"CH2932",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2932",
+    "eurostat:population":4804,
+    "eurostat:population_year":2020,
     "geom:area":0.002238,
-    "geom:area_square_m":18623261.157309,
+    "geom:area_square_m":18623261.157311,
     "geom:bbox":"8.54191188557,47.6670523665,8.60808188902,47.7325530227",
     "geom:latitude":47.698814,
     "geom:longitude":8.57221,
@@ -72,6 +84,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -79,8 +93,12 @@
         1394137119
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2932",
+        "eurostat:nuts_2021_id":"CH2932"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"eba8605676ca84ee756cc7dc86c29270",
+    "wof:geomhash":"8f716b581cbd677da66ca7ba73fc5aa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +109,12 @@
         }
     ],
     "wof:id":1394254105,
-    "wof:lastmodified":1566640366,
+    "wof:lastmodified":1684351781,
     "wof:name":"Beringen",
     "wof:parent_id":1394137119,
     "wof:placetype":"localadmin",
+    "wof:population":4804,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

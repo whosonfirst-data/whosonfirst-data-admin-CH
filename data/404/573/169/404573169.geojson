@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2890",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Liedertswil",
+    "eurostat:nuts_2021_id":"CH2890",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2890",
+    "eurostat:population":162,
+    "eurostat:population_year":2020,
     "geom:area":0.000232,
     "geom:area_square_m":1939309.371187,
     "geom:bbox":"7.706875,47.378011,7.732357,47.397132",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062911,
-        85682361
+        85682361,
+        102062911
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2890",
+        "eurostat:nuts_2021_id":"CH2890",
         "gp:id":20075522,
         "qs_pg:id":895616
     },
@@ -137,7 +153,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"adf9779c46f3a3c621d27e98cbeb8e4d",
+    "wof:geomhash":"12b007154f2db2bfedf89adee4d8267e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +164,12 @@
         }
     ],
     "wof:id":404573169,
-    "wof:lastmodified":1598919891,
+    "wof:lastmodified":1684351771,
     "wof:name":"Liedertswil",
     "wof:parent_id":102062911,
     "wof:placetype":"localadmin",
+    "wof:population":162,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

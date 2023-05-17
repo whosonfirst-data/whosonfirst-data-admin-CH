@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3342",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eschenbach (SG)",
+    "eurostat:nuts_2021_id":"CH3342",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3342",
+    "eurostat:population":9605,
+    "eurostat:population_year":2020,
     "geom:area":0.006524,
-    "geom:area_square_m":54741883.188629,
+    "geom:area_square_m":54741883.188628,
     "geom:bbox":"8.87016945233,47.2291084701,9.04884447217,47.3193886799",
     "geom:latitude":47.269551,
     "geom:longitude":8.968807,
@@ -78,6 +90,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -85,8 +99,12 @@
         102062815
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3342",
+        "eurostat:nuts_2021_id":"CH3342"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"f2db01c2e5f63c2c44d611d1982f1798",
+    "wof:geomhash":"d446f07e9705f57d363eefb3b54ce4b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +115,12 @@
         }
     ],
     "wof:id":1394253985,
-    "wof:lastmodified":1566640340,
+    "wof:lastmodified":1684351777,
     "wof:name":"Eschenbach",
     "wof:parent_id":102062815,
     "wof:placetype":"localadmin",
+    "wof:population":9605,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

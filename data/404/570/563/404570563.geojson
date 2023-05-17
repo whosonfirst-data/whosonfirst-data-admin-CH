@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4251",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hellikon",
+    "eurostat:nuts_2021_id":"CH4251",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4251",
+    "eurostat:population":783,
+    "eurostat:population_year":2020,
     "geom:area":0.000841,
-    "geom:area_square_m":7023885.430896,
+    "geom:area_square_m":7023885.430894,
     "geom:bbox":"7.894106,47.492174,7.943726,47.523684",
     "geom:latitude":47.508642,
     "geom:longitude":7.916522,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062905,
-        85682329
+        85682329,
+        102062905
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4251",
+        "eurostat:nuts_2021_id":"CH4251",
         "gn:id":7286054,
         "gp:id":12684953,
         "qs_pg:id":1013786
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"200f4fad450baac1b3366cd0e409a786",
+    "wof:geomhash":"579c0b4daa0dedb8af36d746f3078df4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404570563,
-    "wof:lastmodified":1598920642,
+    "wof:lastmodified":1684351748,
     "wof:name":"Hellikon",
     "wof:parent_id":102062905,
     "wof:placetype":"localadmin",
+    "wof:population":783,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

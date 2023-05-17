@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5591",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Renens (VD)",
+    "eurostat:nuts_2021_id":"CH5591",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5591",
+    "eurostat:population":20927,
+    "eurostat:population_year":2020,
     "geom:area":0.000346,
     "geom:area_square_m":2944006.430869,
     "geom:bbox":"6.576973,46.523316,6.602113,46.546567",
@@ -142,6 +154,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -150,6 +164,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5591",
+        "eurostat:nuts_2021_id":"CH5591",
         "gn:id":7286885,
         "qs_pg:id":671537
     },
@@ -161,7 +177,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5672685dde2b8b185cc509d4e308e4e5",
+    "wof:geomhash":"19a39f532e0755ceb90a3ea9b13445d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +188,12 @@
         }
     ],
     "wof:id":404572139,
-    "wof:lastmodified":1617131331,
+    "wof:lastmodified":1684351767,
     "wof:name":"Renens",
     "wof:parent_id":102062829,
     "wof:placetype":"localadmin",
+    "wof:population":20927,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

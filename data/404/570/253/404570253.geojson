@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4495",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hohentannen",
+    "eurostat:nuts_2021_id":"CH4495",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4495",
+    "eurostat:population":586,
+    "eurostat:population_year":2020,
     "geom:area":0.000956,
-    "geom:area_square_m":7983530.728273,
+    "geom:area_square_m":7983530.728275,
     "geom:bbox":"9.206753,47.495116,9.246141,47.534587",
     "geom:latitude":47.516439,
     "geom:longitude":9.224677,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062955,
-        85682337
+        85682337,
+        102062955
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4495",
+        "eurostat:nuts_2021_id":"CH4495",
         "gn:id":7286100,
         "gp:id":22757888,
         "qs_pg:id":106587
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"85bea6af379d8cf0e3a8da800b053744",
+    "wof:geomhash":"3cfb25cf6d1e240386257fa21b8c313e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404570253,
-    "wof:lastmodified":1598920691,
+    "wof:lastmodified":1684351744,
     "wof:name":"Hohentannen",
     "wof:parent_id":102062955,
     "wof:placetype":"localadmin",
+    "wof:population":586,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

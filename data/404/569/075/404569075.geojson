@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schmitten (FR)",
+    "eurostat:nuts_2021_id":"CH2305",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2305",
+    "eurostat:population":4035,
+    "eurostat:population_year":2020,
     "geom:area":0.001592,
-    "geom:area_square_m":13460141.940822,
+    "geom:area_square_m":13460141.940821,
     "geom:bbox":"7.21928426761,46.8267001002,7.2833801218,46.8702432663",
     "geom:latitude":46.848528,
     "geom:longitude":7.246298,
@@ -88,6 +100,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2305",
+        "eurostat:nuts_2021_id":"CH2305",
         "gn:id":7287100,
         "gp:id":12684371,
         "qs_pg:id":238834
@@ -108,7 +124,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b54223ffa164c7a5ccc34a5966346455",
+    "wof:geomhash":"c3b64ed2281031550596af3e5e073c5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404569075,
-    "wof:lastmodified":1582222962,
+    "wof:lastmodified":1684351730,
     "wof:name":"Schmitten",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",
+    "wof:population":4035,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

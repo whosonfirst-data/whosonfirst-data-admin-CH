@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2527",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luterbach",
+    "eurostat:nuts_2021_id":"CH2527",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2527",
+    "eurostat:population":3480,
+    "eurostat:population_year":2020,
     "geom:area":0.000537,
-    "geom:area_square_m":4511029.037154,
+    "geom:area_square_m":4511029.037153,
     "geom:bbox":"7.57072773652,47.2003807907,7.60437960328,47.2276028303",
     "geom:latitude":47.215985,
     "geom:longitude":7.586754,
@@ -102,6 +114,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2527",
+        "eurostat:nuts_2021_id":"CH2527",
         "gn:id":7286398,
         "gp:id":12683915,
         "qs_pg:id":1015649
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ec5e8049de639c2c4d2c58f3ae424e37",
+    "wof:geomhash":"cee0200719271a5644513aa41b0702fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404328713,
-    "wof:lastmodified":1582223077,
+    "wof:lastmodified":1684351699,
     "wof:name":"Luterbach",
     "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",
+    "wof:population":3480,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

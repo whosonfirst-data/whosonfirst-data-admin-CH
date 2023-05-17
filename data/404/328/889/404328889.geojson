@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2463",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Unterramsern",
+    "eurostat:nuts_2021_id":"CH2463",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2463",
+    "eurostat:population":218,
+    "eurostat:population_year":2020,
     "geom:area":0.000187,
     "geom:area_square_m":1571943.628647,
     "geom:bbox":"7.468998,47.112104,7.492328,47.125662",
@@ -105,14 +117,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137095,
-        85682365
+        85682365,
+        1394137095
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2463",
+        "eurostat:nuts_2021_id":"CH2463",
         "gn:id":7287383,
         "gp:id":12684926,
         "qs_pg:id":1205971
@@ -125,7 +141,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a3ef9428adf14432af4bc91f3be51ef6",
+    "wof:geomhash":"adec38a9d8ef7eb7e5e0b3c5d7d3ae7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404328889,
-    "wof:lastmodified":1598920293,
+    "wof:lastmodified":1684351701,
     "wof:name":"Unterramsern",
     "wof:parent_id":1394137095,
     "wof:placetype":"localadmin",
+    "wof:population":218,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

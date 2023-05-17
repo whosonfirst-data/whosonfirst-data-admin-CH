@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5766",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vuiteboeuf",
+    "eurostat:nuts_2021_id":"CH5766",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5766",
+    "eurostat:population":589,
+    "eurostat:population_year":2020,
     "geom:area":0.000597,
     "geom:area_square_m":5048878.816493,
     "geom:bbox":"6.528393,46.79227,6.573248,46.81958",
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5766",
+        "eurostat:nuts_2021_id":"CH5766",
         "gn:id":7287509,
         "gp:id":12684187,
         "qs_pg:id":493272
@@ -117,7 +133,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8803f6235f14f01bd3e164c39c8533a9",
+    "wof:geomhash":"1fc67651a4de3120ddccde948ff2106f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404571229,
-    "wof:lastmodified":1598920028,
+    "wof:lastmodified":1684351756,
     "wof:name":"Vuiteboeuf",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":589,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

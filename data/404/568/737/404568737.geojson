@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6198",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Niedergesteln",
+    "eurostat:nuts_2021_id":"CH6198",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6198",
+    "eurostat:population":710,
+    "eurostat:population_year":2020,
     "geom:area":0.00206,
-    "geom:area_square_m":17586642.016453,
+    "geom:area_square_m":17586642.016457,
     "geom:bbox":"7.744282,46.296773,7.818014,46.378661",
     "geom:latitude":46.336284,
     "geom:longitude":7.791714,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063037,
-        85682281
+        85682281,
+        102063037
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6198",
+        "eurostat:nuts_2021_id":"CH6198",
         "gn:id":7286638,
         "gp:id":12684081,
         "qs_pg:id":106642
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a78b48d54dd502bfe311c46362d4dd3a",
+    "wof:geomhash":"f5e59d5e513745eb511fa286a63b710a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568737,
-    "wof:lastmodified":1598919478,
+    "wof:lastmodified":1684351724,
     "wof:name":"Niedergesteln",
     "wof:parent_id":102063037,
     "wof:placetype":"localadmin",
+    "wof:population":710,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

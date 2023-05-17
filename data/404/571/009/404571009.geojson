@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2221",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prez-vers-Nor\u00e9az",
+    "eurostat:nuts_2021_id":"CH2221",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2221",
+    "eurostat:population":1100,
+    "eurostat:population_year":2020,
     "geom:area":0.000672,
-    "geom:area_square_m":5686375.056918,
+    "geom:area_square_m":5686375.056917,
     "geom:bbox":"6.99059,46.771499,7.038267,46.797111",
     "geom:latitude":46.785821,
     "geom:longitude":7.014562,
@@ -102,14 +114,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063029,
-        85682301
+        85682301,
+        102063029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2221",
+        "eurostat:nuts_2021_id":"CH2221"
+    },
     "wof:coterminous":[
         1126027967
     ],
@@ -117,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ccf3500a2ee1712931659a007eee6b10",
+    "wof:geomhash":"d10186c3d4776bde1de94e0be0b77dfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404571009,
-    "wof:lastmodified":1598920075,
+    "wof:lastmodified":1684351753,
     "wof:name":"Prez-vers-Nor\u00e9az",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":1100,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Heimiswil",
+    "eurostat:nuts_2021_id":"CH0407",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0407",
+    "eurostat:population":1621,
+    "eurostat:population_year":2020,
     "geom:area":0.002766,
-    "geom:area_square_m":23297874.766314,
+    "geom:area_square_m":23297874.766316,
     "geom:bbox":"7.638573,47.02703,7.723843,47.09205",
     "geom:latitude":47.06294,
     "geom:longitude":7.670838,
@@ -105,14 +117,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0407",
+        "eurostat:nuts_2021_id":"CH0407",
         "gn:id":7286051,
         "gp:id":12683656,
         "qs_pg:id":1188052
@@ -121,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e5d1137b32bb1d2c46582d17464f9595",
+    "wof:geomhash":"0c8bb27ff3aefdef03d36fc4df2da2db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":1175611241,
-    "wof:lastmodified":1598916370,
+    "wof:lastmodified":1684351776,
     "wof:name":"Heimiswil",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":1621,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

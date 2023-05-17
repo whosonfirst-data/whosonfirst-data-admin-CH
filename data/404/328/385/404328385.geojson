@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2543",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bettlach",
+    "eurostat:nuts_2021_id":"CH2543",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2543",
+    "eurostat:population":4911,
+    "eurostat:population_year":2020,
     "geom:area":0.001448,
-    "geom:area_square_m":12159919.488789,
+    "geom:area_square_m":12159919.488787,
     "geom:bbox":"7.38924534848,47.1792306365,7.44993551341,47.2323182215",
     "geom:latitude":47.208546,
     "geom:longitude":7.4189,
@@ -96,6 +108,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2543",
+        "eurostat:nuts_2021_id":"CH2543",
         "gn:id":7285225,
         "gp:id":12682957,
         "qs_pg:id":334287
@@ -116,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5b16a00f4960d6092423a7a3f5e5626f",
+    "wof:geomhash":"a042f8910f8ea9d4f206bcace3b3fb5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404328385,
-    "wof:lastmodified":1582223078,
+    "wof:lastmodified":1684351695,
     "wof:name":"Bettlach",
     "wof:parent_id":1394137087,
     "wof:placetype":"localadmin",
+    "wof:population":4911,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

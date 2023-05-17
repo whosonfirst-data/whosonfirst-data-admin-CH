@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4257",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olsberg",
+    "eurostat:nuts_2021_id":"CH4257",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4257",
+    "eurostat:population":358,
+    "eurostat:population_year":2020,
     "geom:area":0.000551,
-    "geom:area_square_m":4598989.640145,
+    "geom:area_square_m":4598989.640143,
     "geom:bbox":"7.75008998252,47.4931208084,7.79978606287,47.5411539514",
     "geom:latitude":47.523748,
     "geom:longitude":7.778946,
@@ -79,6 +91,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -87,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4257",
+        "eurostat:nuts_2021_id":"CH4257",
         "gp:id":12684938,
         "qs_pg:id":1306496
     },
@@ -98,7 +114,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6386a60cc1e27815befc038213af2ff9",
+    "wof:geomhash":"047056f5fc89eb5e28a3593f7c513cd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":404571605,
-    "wof:lastmodified":1582223051,
+    "wof:lastmodified":1684351761,
     "wof:name":"Olsberg",
     "wof:parent_id":102062905,
     "wof:placetype":"localadmin",
+    "wof:population":358,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

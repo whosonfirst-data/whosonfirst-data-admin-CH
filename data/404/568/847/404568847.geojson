@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3422",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Niederb\u00fcren",
+    "eurostat:nuts_2021_id":"CH3422",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3422",
+    "eurostat:population":1514,
+    "eurostat:population_year":2020,
     "geom:area":0.001889,
-    "geom:area_square_m":15792202.44076,
+    "geom:area_square_m":15792202.440764,
     "geom:bbox":"9.178275,47.441035,9.245445,47.484557",
     "geom:latitude":47.461837,
     "geom:longitude":9.215077,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062947,
-        85682341
+        85682341,
+        102062947
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3422",
+        "eurostat:nuts_2021_id":"CH3422",
         "gn:id":7286636,
         "gp:id":12683094,
         "qs_pg:id":490786
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9a9a91a927fc1a7c22d640a4de5d9492",
+    "wof:geomhash":"45e53829d4f6f201e7f899d986254b02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404568847,
-    "wof:lastmodified":1598919677,
+    "wof:lastmodified":1684351726,
     "wof:name":"Niederb\u00fcren",
     "wof:parent_id":102062947,
     "wof:placetype":"localadmin",
+    "wof:population":1514,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

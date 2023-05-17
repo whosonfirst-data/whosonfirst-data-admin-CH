@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5921",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Molondin",
+    "eurostat:nuts_2021_id":"CH5921",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5921",
+    "eurostat:population":236,
+    "eurostat:population_year":2020,
     "geom:area":0.000647,
     "geom:area_square_m":5480930.386313,
     "geom:bbox":"6.733451,46.741394,6.763891,46.779201",
@@ -90,14 +102,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5921",
+        "eurostat:nuts_2021_id":"CH5921"
+    },
     "wof:coterminous":[
         1360119737
     ],
@@ -105,7 +122,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"053c8170a91d19f2f09d216176d68552",
+    "wof:geomhash":"7d277b4acf88f0b6e57434075ca8942e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
         }
     ],
     "wof:id":404571091,
-    "wof:lastmodified":1598920062,
+    "wof:lastmodified":1684351754,
     "wof:name":"Molondin",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":236,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

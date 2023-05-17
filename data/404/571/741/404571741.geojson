@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sullens",
+    "eurostat:nuts_2021_id":"CH5501",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5501",
+    "eurostat:population":1036,
+    "eurostat:population_year":2020,
     "geom:area":0.000459,
-    "geom:area_square_m":3896606.287737,
+    "geom:area_square_m":3896606.287738,
     "geom:bbox":"6.54908570609,46.5813098152,6.58512112998,46.6041135998",
     "geom:latitude":46.591199,
     "geom:longitude":6.567355,
@@ -88,6 +100,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5501",
+        "eurostat:nuts_2021_id":"CH5501",
         "gn:id":7287260,
         "gp:id":12684683,
         "qs_pg:id":32143
@@ -108,7 +124,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ddca71d57e71254a8b7a0b79aba0486e",
+    "wof:geomhash":"cfdce2a5fcaa7fc9ca52102ad6387183",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404571741,
-    "wof:lastmodified":1582223056,
+    "wof:lastmodified":1684351762,
     "wof:name":"Sullens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":1036,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

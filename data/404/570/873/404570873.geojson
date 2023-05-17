@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5266",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stabio",
+    "eurostat:nuts_2021_id":"CH5266",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5266",
+    "eurostat:population":4591,
+    "eurostat:population_year":2020,
     "geom:area":0.000712,
-    "geom:area_square_m":6132387.998117,
+    "geom:area_square_m":6132387.998116,
     "geom:bbox":"8.912053,45.830457,8.955543,45.863806",
     "geom:latitude":45.847618,
     "geom:longitude":8.932929,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063063,
-        85682269
+        85682269,
+        102063063
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5266",
+        "eurostat:nuts_2021_id":"CH5266",
         "gn:id":7287209,
         "gp:id":12683529,
         "qs_pg:id":43521
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e66d92b14f9db250e5be7fb717661b90",
+    "wof:geomhash":"48ede87395be83fe5ee1b47e7cc35f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570873,
-    "wof:lastmodified":1598920551,
+    "wof:lastmodified":1684351751,
     "wof:name":"Stabio",
     "wof:parent_id":102063063,
     "wof:placetype":"localadmin",
+    "wof:population":4591,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

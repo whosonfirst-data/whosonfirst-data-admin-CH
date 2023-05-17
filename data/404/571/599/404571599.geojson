@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3238",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Widnau",
+    "eurostat:nuts_2021_id":"CH3238",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3238",
+    "eurostat:population":9619,
+    "eurostat:population_year":2020,
     "geom:area":0.000503,
     "geom:area_square_m":4206435.428244,
     "geom:bbox":"9.622273,47.389371,9.651906,47.417392",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063005,
-        85682341
+        85682341,
+        102063005
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3238",
+        "eurostat:nuts_2021_id":"CH3238",
         "gn:id":7287567,
         "qs_pg:id":1040602
     },
@@ -125,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b73f85ca1051878857cb1091615e7c30",
+    "wof:geomhash":"4bf259f0b6711eb657063c40494b02c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404571599,
-    "wof:lastmodified":1598920137,
+    "wof:lastmodified":1684351761,
     "wof:name":"Widnau",
     "wof:parent_id":102063005,
     "wof:placetype":"localadmin",
+    "wof:population":9619,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

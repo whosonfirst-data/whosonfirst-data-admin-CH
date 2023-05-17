@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5871",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"L'Abbaye",
+    "eurostat:nuts_2021_id":"CH5871",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5871",
+    "eurostat:population":1476,
+    "eurostat:population_year":2020,
     "geom:area":0.003744,
-    "geom:area_square_m":31792576.264472,
+    "geom:area_square_m":31792576.264469,
     "geom:bbox":"6.2546766172,46.5859345633,6.35055341279,46.6852627731",
     "geom:latitude":46.630583,
     "geom:longitude":6.310757,
@@ -104,6 +116,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -112,6 +126,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5871",
+        "eurostat:nuts_2021_id":"CH5871",
         "gn:id":2660080,
         "gp:id":12683797,
         "qs_pg:id":1145843
@@ -121,7 +137,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf291e184e53c02ca377dee0d2f7a92b",
+    "wof:geomhash":"a77e4e8bc39e039750ae3a140a28dcad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404568181,
-    "wof:lastmodified":1582223005,
+    "wof:lastmodified":1684351713,
     "wof:name":"L'Abbaye",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":1476,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

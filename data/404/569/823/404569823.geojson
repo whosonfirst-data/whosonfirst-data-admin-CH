@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6715",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mervelier",
+    "eurostat:nuts_2021_id":"CH6715",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6715",
+    "eurostat:population":500,
+    "eurostat:population_year":2020,
     "geom:area":0.001159,
-    "geom:area_square_m":9709361.110858,
+    "geom:area_square_m":9709361.110857,
     "geom:bbox":"7.486049,47.322673,7.552201,47.354091",
     "geom:latitude":47.34022,
     "geom:longitude":7.51599,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062791,
-        85682347
+        85682347,
+        102062791
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6715",
+        "eurostat:nuts_2021_id":"CH6715",
         "gn:id":7286492,
         "gp:id":12683975,
         "qs_pg:id":671459
@@ -117,7 +133,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0e39a544999844559a124668e24d8ac2",
+    "wof:geomhash":"8cbf9c725696084b7ba9c3d6e49a544e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404569823,
-    "wof:lastmodified":1598919292,
+    "wof:lastmodified":1684351739,
     "wof:name":"Mervelier",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
+    "wof:population":500,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

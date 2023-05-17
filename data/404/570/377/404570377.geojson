@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4068",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"H\u00e4gglingen",
+    "eurostat:nuts_2021_id":"CH4068",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4068",
+    "eurostat:population":2422,
+    "eurostat:population_year":2020,
     "geom:area":0.000923,
-    "geom:area_square_m":7726711.921145,
+    "geom:area_square_m":7726711.921147,
     "geom:bbox":"8.232928,47.372956,8.280717,47.406489",
     "geom:latitude":47.389994,
     "geom:longitude":8.258282,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062877,
-        85682329
+        85682329,
+        102062877
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4068",
+        "eurostat:nuts_2021_id":"CH4068",
         "gn:id":7286024,
         "gp:id":12683635,
         "qs_pg:id":538746
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3737a9ba4e6ad01b9326096c7dae956b",
+    "wof:geomhash":"2a1f1b7bbe42f27d8dfad23a48e87cf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404570377,
-    "wof:lastmodified":1598920600,
+    "wof:lastmodified":1684351745,
     "wof:name":"H\u00e4gglingen",
     "wof:parent_id":102062877,
     "wof:placetype":"localadmin",
+    "wof:population":2422,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

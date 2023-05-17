@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4316",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rietheim",
+    "eurostat:nuts_2021_id":"CH4316",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4316",
+    "eurostat:population":726,
+    "eurostat:population_year":2020,
     "geom:area":0.000471,
-    "geom:area_square_m":3929006.072776,
+    "geom:area_square_m":3929006.072775,
     "geom:bbox":"8.25224143533,47.5864535825,8.29159601448,47.6135217582",
     "geom:latitude":47.602897,
     "geom:longitude":8.273907,
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4316",
+        "eurostat:nuts_2021_id":"CH4316",
         "gn:id":7286910,
         "gp:id":12684970,
         "qs_pg:id":1093349
@@ -60,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b9225e340850392dfebdedfd58a24b20",
+    "wof:geomhash":"3c61797fd5b5fd012e27ed1587e379f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +87,12 @@
         }
     ],
     "wof:id":404571731,
-    "wof:lastmodified":1582223047,
+    "wof:lastmodified":1684351762,
     "wof:name":"Rietheim",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",
+    "wof:population":726,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

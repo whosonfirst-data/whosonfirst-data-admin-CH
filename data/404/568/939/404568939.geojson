@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0713",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tavannes",
+    "eurostat:nuts_2021_id":"CH0713",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0713",
+    "eurostat:population":3586,
+    "eurostat:population_year":2020,
     "geom:area":0.001755,
-    "geom:area_square_m":14735188.050081,
+    "geom:area_square_m":14735188.05008,
     "geom:bbox":"7.1402,47.201422,7.227126,47.237257",
     "geom:latitude":47.221321,
     "geom:longitude":7.183759,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -126,6 +140,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0713",
+        "eurostat:nuts_2021_id":"CH0713",
         "gn:id":7287284,
         "gp:id":12684482,
         "qs_pg:id":198368
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"74c42fc638c8ed6ef66bf6fb8aa4b83a",
+    "wof:geomhash":"d7c56edf002c6de10802a67702222342",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404568939,
-    "wof:lastmodified":1617131066,
+    "wof:lastmodified":1684351727,
     "wof:name":"Tavannes",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":3586,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

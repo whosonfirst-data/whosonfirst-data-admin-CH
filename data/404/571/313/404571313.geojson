@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corcelles-Cormondr\u00e8che",
+    "eurostat:nuts_2021_id":"CH6407",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6407",
+    "eurostat:population":4757,
+    "eurostat:population_year":2020,
     "geom:area":0.000574,
-    "geom:area_square_m":4840243.519598,
+    "geom:area_square_m":4840243.519597,
     "geom:bbox":"6.845146,46.977837,6.885101,47.002813",
     "geom:latitude":46.989303,
     "geom:longitude":6.867412,
@@ -94,6 +106,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6407",
+        "eurostat:nuts_2021_id":"CH6407",
         "gn:id":7285551,
         "gp:id":12684853,
         "qs_pg:id":239626
@@ -113,7 +129,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"17f913185a96d07008e8613234cb29a4",
+    "wof:geomhash":"005893ee887fe339f92b28283d2120e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404571313,
-    "wof:lastmodified":1598920117,
+    "wof:lastmodified":1684351757,
     "wof:name":"Corcelles-Cormondr\u00e8che",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":4757,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0438",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orvin",
+    "eurostat:nuts_2021_id":"CH0438",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0438",
+    "eurostat:population":1225,
+    "eurostat:population_year":2020,
     "geom:area":0.002561,
-    "geom:area_square_m":21535363.209052,
+    "geom:area_square_m":21535363.209051,
     "geom:bbox":"7.144958,47.13032,7.25334,47.175852",
     "geom:latitude":47.156212,
     "geom:longitude":7.193159,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062865,
-        85682381
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0438",
+        "eurostat:nuts_2021_id":"CH0438",
         "gn:id":7286756,
         "gp:id":12684166,
         "qs_pg:id":242312
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"896aaa6a5f8e95277df1f85f884d147b",
+    "wof:geomhash":"2043e4bf7fd32654053cdf296825b20f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404568553,
-    "wof:lastmodified":1598919651,
+    "wof:lastmodified":1684351720,
     "wof:name":"Orvin",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":1225,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

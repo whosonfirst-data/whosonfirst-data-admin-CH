@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0446",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tramelan",
+    "eurostat:nuts_2021_id":"CH0446",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0446",
+    "eurostat:population":4568,
+    "eurostat:population_year":2020,
     "geom:area":0.002949,
-    "geom:area_square_m":24760823.678309,
+    "geom:area_square_m":24760823.67831,
     "geom:bbox":"7.043668,47.206809,7.151143,47.247758",
     "geom:latitude":47.227225,
     "geom:longitude":7.096791,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -120,6 +134,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0446",
+        "eurostat:nuts_2021_id":"CH0446",
         "gn:id":7287322,
         "gp:id":12684509,
         "qs_pg:id":987932
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8573363b3b76195587fc1836b9221da0",
+    "wof:geomhash":"3ba69dd4b6b8c2cef286f4986b28b2fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404568397,
-    "wof:lastmodified":1617131357,
+    "wof:lastmodified":1684351718,
     "wof:name":"Tramelan",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":4568,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

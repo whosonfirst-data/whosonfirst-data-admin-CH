@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6217",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saint-Maurice",
+    "eurostat:nuts_2021_id":"CH6217",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6217",
+    "eurostat:population":4572,
+    "eurostat:population_year":2020,
     "geom:area":0.001739,
-    "geom:area_square_m":14881885.752639,
+    "geom:area_square_m":14881885.752641,
     "geom:bbox":"6.94542186481,46.1669486401,7.03468257537,46.2255251301",
     "geom:latitude":46.189959,
     "geom:longitude":6.994964,
@@ -90,6 +102,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -97,8 +111,12 @@
         102062965
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6217",
+        "eurostat:nuts_2021_id":"CH6217"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"0eea615f27fb21f34f27a2c3ebbda7c2",
+    "wof:geomhash":"a67be42c1dbcef23e87390a16f052d6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +127,12 @@
         }
     ],
     "wof:id":1394254225,
-    "wof:lastmodified":1566640346,
+    "wof:lastmodified":1684351785,
     "wof:name":"Saint-Maurice",
     "wof:parent_id":102062965,
     "wof:placetype":"localadmin",
+    "wof:population":4572,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

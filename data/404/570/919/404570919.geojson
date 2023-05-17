@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5263",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riva San Vitale",
+    "eurostat:nuts_2021_id":"CH5263",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5263",
+    "eurostat:population":2646,
+    "eurostat:population_year":2020,
     "geom:area":0.000893,
-    "geom:area_square_m":7686360.300976,
+    "geom:area_square_m":7686360.300977,
     "geom:bbox":"8.948648,45.885304,8.978011,45.938405",
     "geom:latitude":45.912904,
     "geom:longitude":8.964538,
@@ -119,14 +131,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063063,
-        85682269
+        85682269,
+        102063063
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5263",
+        "eurostat:nuts_2021_id":"CH5263",
         "gn:id":7286918,
         "gp:id":12684274,
         "qs_pg:id":43823
@@ -139,7 +155,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c8b56fe3cc61e81fc7112d676ffb5cb",
+    "wof:geomhash":"b341d27bfb4b659c5c05f5d96a24c036",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404570919,
-    "wof:lastmodified":1598920726,
+    "wof:lastmodified":1684351752,
     "wof:name":"Riva San Vitale",
     "wof:parent_id":102063063,
     "wof:placetype":"localadmin",
+    "wof:population":2646,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5843",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rougemont",
+    "eurostat:nuts_2021_id":"CH5843",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5843",
+    "eurostat:population":882,
+    "eurostat:population_year":2020,
     "geom:area":0.005688,
     "geom:area_square_m":48417450.438765,
     "geom:bbox":"7.16534,46.439143,7.24919,46.554079",
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062833,
-        85682325
+        85682325,
+        102062833
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5843",
+        "eurostat:nuts_2021_id":"CH5843",
         "gn:id":7286964,
         "gp:id":12684305,
         "qs_pg:id":671558
@@ -111,7 +127,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a3cfbe7a8f931dfd190f484aa5f66a87",
+    "wof:geomhash":"e4dcbfd2672efa98a1499a33421226ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404568023,
-    "wof:lastmodified":1598919498,
+    "wof:lastmodified":1684351710,
     "wof:name":"Rougemont",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",
+    "wof:population":882,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

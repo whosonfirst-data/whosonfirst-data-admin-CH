@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5715",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Duillier",
+    "eurostat:nuts_2021_id":"CH5715",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5715",
+    "eurostat:population":1080,
+    "eurostat:population_year":2020,
     "geom:area":0.00048,
-    "geom:area_square_m":4095692.602581,
+    "geom:area_square_m":4095692.602579,
     "geom:bbox":"6.213108,46.396711,6.24717,46.421564",
     "geom:latitude":46.409245,
     "geom:longitude":6.22974,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5715",
+        "eurostat:nuts_2021_id":"CH5715",
         "gn:id":7285678,
         "gp:id":12683170,
         "qs_pg:id":1154253
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2d3d93201613744352fd271c64396eb4",
+    "wof:geomhash":"abe73b4545c24eac25ea66cd2e5204a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404571653,
-    "wof:lastmodified":1598920204,
+    "wof:lastmodified":1684351761,
     "wof:name":"Duillier",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":1080,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

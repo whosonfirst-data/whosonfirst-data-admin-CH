@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zetzwil",
+    "eurostat:nuts_2021_id":"CH4147",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4147",
+    "eurostat:population":1304,
+    "eurostat:population_year":2020,
     "geom:area":0.00069,
     "geom:area_square_m":5786417.910209,
     "geom:bbox":"8.138473,47.275643,8.183395,47.301977",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062983,
-        85682329
+        85682329,
+        102062983
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4147",
+        "eurostat:nuts_2021_id":"CH4147",
         "gp:id":12685066,
         "qs_pg:id":1170072
     },
@@ -131,7 +147,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"abd1a45b05d223c0df5849d20601153d",
+    "wof:geomhash":"d96e72a3942741191f8b01d2708d1c50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404570971,
-    "wof:lastmodified":1598920615,
+    "wof:lastmodified":1684351753,
     "wof:name":"Zetzwil",
     "wof:parent_id":102062983,
     "wof:placetype":"localadmin",
+    "wof:population":1304,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

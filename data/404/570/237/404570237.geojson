@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00e4nnedorf",
+    "eurostat:nuts_2021_id":"CH0155",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0155",
+    "eurostat:population":11243,
+    "eurostat:population_year":2020,
     "geom:area":0.000566,
-    "geom:area_square_m":4753880.368463,
+    "geom:area_square_m":4753880.368462,
     "geom:bbox":"8.678287,47.245708,8.715042,47.273472",
     "geom:latitude":47.259631,
     "geom:longitude":8.699809,
@@ -122,14 +134,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062769,
-        85682309
+        85682309,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0155",
+        "eurostat:nuts_2021_id":"CH0155",
         "gn:id":7286430,
         "gp:id":12683937,
         "qs_pg:id":248212
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fb553caa5d19d2f035f033780688af70",
+    "wof:geomhash":"33b1c75a47c8d621246217981f0e2bb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404570237,
-    "wof:lastmodified":1598920698,
+    "wof:lastmodified":1684351744,
     "wof:name":"M\u00e4nnedorf",
     "wof:parent_id":102062769,
     "wof:placetype":"localadmin",
+    "wof:population":11243,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

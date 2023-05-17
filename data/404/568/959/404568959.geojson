@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dalpe",
+    "eurostat:nuts_2021_id":"CH5071",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5071",
+    "eurostat:population":182,
+    "eurostat:population_year":2020,
     "geom:area":0.001704,
     "geom:area_square_m":14515999.380934,
     "geom:bbox":"8.707216,46.431234,8.797173,46.48622",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062931,
-        85682269
+        85682269,
+        102062931
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5071",
+        "eurostat:nuts_2021_id":"CH5071",
         "gn:id":7285620,
         "gp:id":12683288,
         "qs_pg:id":538584
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"379dd6d806c9f7c57db2348dc1b8e055",
+    "wof:geomhash":"2dbe5cb19b12c98e6c73f385f0c5905c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404568959,
-    "wof:lastmodified":1598919625,
+    "wof:lastmodified":1684351728,
     "wof:name":"Dalpe",
     "wof:parent_id":102062931,
     "wof:placetype":"localadmin",
+    "wof:population":182,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

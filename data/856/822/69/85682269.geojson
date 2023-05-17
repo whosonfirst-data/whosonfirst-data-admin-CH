@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Ticino",
+    "eurostat:name_local":"Ticino",
+    "eurostat:nuts_2021_id":"CH070",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:population":352181,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"1",
     "geom:area":0.328292,
-    "geom:area_square_m":2804754122.102802,
+    "geom:area_square_m":2804754122.102784,
     "geom:bbox":"8.382189,45.817972,9.15968,46.632487",
     "geom:latitude":46.296067,
     "geom:longitude":8.808552,
@@ -494,8 +508,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"2,811",
     "statoids:area_mi":"1,085",
     "statoids:as_of_date":"2010-12-31",
@@ -516,6 +530,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":10180,
+        "eurostat:nuts_2021_id":"CH070",
         "fips:code":"SZ20",
         "gn:id":2658370,
         "gp:id":2347102,
@@ -527,7 +542,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c0acf7831335f8e968883292728c75cd",
+    "wof:geomhash":"562b2680f0bc44d6037c9a0f73311fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -549,12 +564,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1636413502,
+    "wof:lastmodified":1684351497,
     "wof:name":"Ticino",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":333753,
+    "wof:population":352181,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"TI",

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5637",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lavigny",
+    "eurostat:nuts_2021_id":"CH5637",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5637",
+    "eurostat:population":999,
+    "eurostat:population_year":2020,
     "geom:area":0.000469,
     "geom:area_square_m":3992469.2112,
     "geom:bbox":"6.393172,46.483298,6.424488,46.512822",
@@ -63,14 +75,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5637",
+        "eurostat:nuts_2021_id":"CH5637"
+    },
     "wof:coterminous":[
         1126004559
     ],
@@ -78,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"df41a347c6c69990a4be412c399631bc",
+    "wof:geomhash":"20e8296f37be2ac65de124aa39826138",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +106,12 @@
         }
     ],
     "wof:id":404571687,
-    "wof:lastmodified":1598920052,
+    "wof:lastmodified":1684351762,
     "wof:name":"Lavigny",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":999,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

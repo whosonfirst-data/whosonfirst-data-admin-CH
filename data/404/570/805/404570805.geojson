@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2768",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ettingen",
+    "eurostat:nuts_2021_id":"CH2768",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2768",
+    "eurostat:population":5267,
+    "eurostat:population_year":2020,
     "geom:area":0.000754,
-    "geom:area_square_m":6303528.30494,
+    "geom:area_square_m":6303528.304941,
     "geom:bbox":"7.527446,47.460572,7.56554,47.48949",
     "geom:latitude":47.474471,
     "geom:longitude":7.545909,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062971,
-        85682361
+        85682361,
+        102062971
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2768",
+        "eurostat:nuts_2021_id":"CH2768",
         "gn:id":7285780,
         "gp:id":12683422,
         "qs_pg:id":1102302
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fb398dd3a5f03028f6f678af20c431bf",
+    "wof:geomhash":"5093ed84fb4cc2bd3e6b2502adf0e83f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404570805,
-    "wof:lastmodified":1598920595,
+    "wof:lastmodified":1684351751,
     "wof:name":"Ettingen",
     "wof:parent_id":102062971,
     "wof:placetype":"localadmin",
+    "wof:population":5267,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

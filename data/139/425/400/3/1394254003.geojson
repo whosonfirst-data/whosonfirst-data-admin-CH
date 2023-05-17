@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0784",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Innertkirchen",
+    "eurostat:nuts_2021_id":"CH0784",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0784",
+    "eurostat:population":1063,
+    "eurostat:population_year":2020,
     "geom:area":0.027822,
-    "geom:area_square_m":235976401.300499,
+    "geom:area_square_m":235976401.300485,
     "geom:bbox":"8.12472486001,46.5850494694,8.45515728499,46.7882807421",
     "geom:latitude":46.691193,
     "geom:longitude":8.305456,
@@ -108,6 +120,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -115,8 +129,12 @@
         102062759
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0784",
+        "eurostat:nuts_2021_id":"CH0784"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"38a7b9c5a80d21c2eba375355ee5ab01",
+    "wof:geomhash":"8a9e17534c202bbf7e5bd98c5495d708",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +145,12 @@
         }
     ],
     "wof:id":1394254003,
-    "wof:lastmodified":1566640360,
+    "wof:lastmodified":1684351778,
     "wof:name":"Innertkirchen",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":1063,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4283",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Safenwil",
+    "eurostat:nuts_2021_id":"CH4283",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4283",
+    "eurostat:population":3842,
+    "eurostat:population_year":2020,
     "geom:area":0.000713,
-    "geom:area_square_m":5974283.24183,
+    "geom:area_square_m":5974283.241832,
     "geom:bbox":"7.963081,47.30749,8.010547,47.335043",
     "geom:latitude":47.319662,
     "geom:longitude":7.986924,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062851,
-        85682329
+        85682329,
+        102062851
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4283",
+        "eurostat:nuts_2021_id":"CH4283",
         "gn:id":7287011,
         "gp:id":12684326,
         "qs_pg:id":400303
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"aba7a09d97061342776d20addd040ebb",
+    "wof:geomhash":"1a00e47c6df435855e4fc66e3b4e49cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404570915,
-    "wof:lastmodified":1598920604,
+    "wof:lastmodified":1684351752,
     "wof:name":"Safenwil",
     "wof:parent_id":102062851,
     "wof:placetype":"localadmin",
+    "wof:population":3842,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

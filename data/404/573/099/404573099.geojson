@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chavannes-des-Bois",
+    "eurostat:nuts_2021_id":"CH5708",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5708",
+    "eurostat:population":982,
+    "eurostat:population_year":2020,
     "geom:area":0.000248,
-    "geom:area_square_m":2118782.994458,
+    "geom:area_square_m":2118782.994459,
     "geom:bbox":"6.125235,46.305406,6.147641,46.325287",
     "geom:latitude":46.316856,
     "geom:longitude":6.136681,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5708",
+        "eurostat:nuts_2021_id":"CH5708",
         "gp:id":20075624,
         "qs_pg:id":248173
     },
@@ -119,7 +135,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0bf101b736f931e1a89094cac5d2c557",
+    "wof:geomhash":"ade2349a92ed1cfac7b5941eb7b5b17e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404573099,
-    "wof:lastmodified":1598919918,
+    "wof:lastmodified":1684351770,
     "wof:name":"Chavannes-des-Bois",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":982,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

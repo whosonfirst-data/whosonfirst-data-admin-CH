@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5798",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ropraz",
+    "eurostat:nuts_2021_id":"CH5798",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5798",
+    "eurostat:population":495,
+    "eurostat:population_year":2020,
     "geom:area":0.000564,
     "geom:area_square_m":4794191.707937,
     "geom:bbox":"6.735804,46.585035,6.766697,46.631462",
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062969,
-        85682325
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5798",
+        "eurostat:nuts_2021_id":"CH5798",
         "gn:id":7286948,
         "qs_pg:id":671552
     },
@@ -113,7 +129,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"bd6c21f223192f4e90b4873d6a8b9047",
+    "wof:geomhash":"6abf14e7f4859ce569c9b3b17771931b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":404571373,
-    "wof:lastmodified":1598920231,
+    "wof:lastmodified":1684351758,
     "wof:name":"Ropraz",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":495,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

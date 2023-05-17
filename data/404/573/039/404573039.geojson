@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4786",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wilen (TG)",
+    "eurostat:nuts_2021_id":"CH4786",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4786",
+    "eurostat:population":2521,
+    "eurostat:population_year":2020,
     "geom:area":0.000268,
     "geom:area_square_m":2244178.895573,
     "geom:bbox":"9.02043859146,47.4354795775,9.0436432256,47.4582415926",
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -126,6 +140,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4786",
+        "eurostat:nuts_2021_id":"CH4786",
         "gn:id":7287579,
         "gp:id":12685143,
         "qs_pg:id":671687
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e3190d3847e84dd6830386d9dcf4156",
+    "wof:geomhash":"139405db4be5c9ec9141bb6805bab923",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404573039,
-    "wof:lastmodified":1582223038,
+    "wof:lastmodified":1684351770,
     "wof:name":"Wilen",
     "wof:parent_id":102062981,
     "wof:placetype":"localadmin",
+    "wof:population":2521,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

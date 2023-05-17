@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bargen (BE)",
+    "eurostat:nuts_2021_id":"CH0302",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0302",
+    "eurostat:population":999,
+    "eurostat:population_year":2020,
     "geom:area":0.00093,
-    "geom:area_square_m":7836972.761941,
+    "geom:area_square_m":7836972.76194,
     "geom:bbox":"7.20844583733,47.0192013475,7.26891964946,47.0512687679",
     "geom:latitude":47.036178,
     "geom:longitude":7.244647,
@@ -85,6 +97,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -93,6 +107,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0302",
+        "eurostat:nuts_2021_id":"CH0302",
         "gn:id":7285156,
         "qs_pg:id":106514
     },
@@ -104,7 +120,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"20d2e4d172a883de3c5f0282d9d1f313",
+    "wof:geomhash":"a4c3c2bb29e96667152eecc6dd876f53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,10 +131,12 @@
         }
     ],
     "wof:id":404570321,
-    "wof:lastmodified":1582223113,
+    "wof:lastmodified":1684351745,
     "wof:name":"Bargen",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":999,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

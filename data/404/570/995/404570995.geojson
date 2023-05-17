@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4071",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jonen",
+    "eurostat:nuts_2021_id":"CH4071",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4071",
+    "eurostat:population":2109,
+    "eurostat:population_year":2020,
     "geom:area":0.000677,
     "geom:area_square_m":5680961.889211,
     "geom:bbox":"8.375429,47.287892,8.429127,47.311469",
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062877,
-        85682329
+        85682329,
+        102062877
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4071",
+        "eurostat:nuts_2021_id":"CH4071",
         "gn:id":7286164,
         "gp:id":12683744,
         "qs_pg:id":289840
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7a3180a67a85c6f23501493f35af9333",
+    "wof:geomhash":"03844dfbf7ba89b23622996954cfbc87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404570995,
-    "wof:lastmodified":1598920631,
+    "wof:lastmodified":1684351753,
     "wof:name":"Jonen",
     "wof:parent_id":102062877,
     "wof:placetype":"localadmin",
+    "wof:population":2109,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

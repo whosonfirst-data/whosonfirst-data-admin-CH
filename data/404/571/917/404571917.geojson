@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallon",
+    "eurostat:nuts_2021_id":"CH2045",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2045",
+    "eurostat:population":447,
+    "eurostat:population_year":2020,
     "geom:area":0.000414,
-    "geom:area_square_m":3502235.319174,
+    "geom:area_square_m":3502235.319175,
     "geom:bbox":"6.938647,46.865389,6.969439,46.901225",
     "geom:latitude":46.884914,
     "geom:longitude":6.953284,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062945,
-        85682301
+        85682301,
+        102062945
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2045",
+        "eurostat:nuts_2021_id":"CH2045",
         "gn:id":6941399,
         "gp:id":20075456,
         "qs_pg:id":989382
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"27a8adf595e7496bceeb1c0fac937e8b",
+    "wof:geomhash":"349b9514220373cd84ec19edf7399a94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404571917,
-    "wof:lastmodified":1598920237,
+    "wof:lastmodified":1684351764,
     "wof:name":"Vallon",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",
+    "wof:population":447,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

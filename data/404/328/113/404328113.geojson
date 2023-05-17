@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1216",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Silenen",
+    "eurostat:nuts_2021_id":"CH1216",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH062",
+    "eurostat:nuts_2021_level_lau":"CH1216",
+    "eurostat:population":1949,
+    "eurostat:population_year":2020,
     "geom:area":0.017053,
-    "geom:area_square_m":144410334.486677,
+    "geom:area_square_m":144410334.486683,
     "geom:bbox":"8.644585,46.698961,8.881635,46.842972",
     "geom:latitude":46.776919,
     "geom:longitude":8.751686,
@@ -122,14 +134,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062879,
-        85682377
+        85682377,
+        102062879
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1216",
+        "eurostat:nuts_2021_id":"CH1216",
         "gn:id":7287171,
         "gp:id":12682895,
         "qs_pg:id":43282
@@ -139,7 +155,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b30cfb73b76d0f2b50cf32aa9f56b251",
+    "wof:geomhash":"a359bfcc9d662a6da55ba42e2980defb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404328113,
-    "wof:lastmodified":1598920502,
+    "wof:lastmodified":1684351689,
     "wof:name":"Silenen",
     "wof:parent_id":102062879,
     "wof:placetype":"localadmin",
+    "wof:population":1949,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

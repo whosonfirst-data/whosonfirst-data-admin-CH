@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gletterens",
+    "eurostat:nuts_2021_id":"CH2022",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2022",
+    "eurostat:population":1071,
+    "eurostat:population_year":2020,
     "geom:area":0.000839,
-    "geom:area_square_m":7089701.467142,
+    "geom:area_square_m":7089701.467143,
     "geom:bbox":"6.896233,46.888786,6.949705,46.934725",
     "geom:latitude":46.911306,
     "geom:longitude":6.924055,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062945,
-        85682301
+        85682301,
+        102062945
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2022",
+        "eurostat:nuts_2021_id":"CH2022",
         "gn:id":7285929,
         "gp:id":12684813,
         "qs_pg:id":902549
@@ -119,7 +135,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5ae009b7e7dc3336a2474643e62aa79e",
+    "wof:geomhash":"afdfd199856ff9d68f44edc5b932e166",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":1175611211,
-    "wof:lastmodified":1598916359,
+    "wof:lastmodified":1684351776,
     "wof:name":"Gletterens",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",
+    "wof:population":1071,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

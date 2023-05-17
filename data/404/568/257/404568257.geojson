@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3661",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cazis",
+    "eurostat:nuts_2021_id":"CH3661",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3661",
+    "eurostat:population":2228,
+    "eurostat:population_year":2020,
     "geom:area":0.003669,
     "geom:area_square_m":31095220.504649,
     "geom:bbox":"9.355965,46.704159,9.445583,46.770996",
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -129,6 +143,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3661",
+        "eurostat:nuts_2021_id":"CH3661",
         "gn:id":7285449,
         "gp:id":12683149,
         "qs_pg:id":400282
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"499d32489ccfe91b21e09a395ca16279",
+    "wof:geomhash":"87e4ce4f2af6f92fb1ff3ed34076629b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404568257,
-    "wof:lastmodified":1617130145,
+    "wof:lastmodified":1684351715,
     "wof:name":"Cazis",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
+    "wof:population":2228,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

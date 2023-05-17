@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH9149",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bielersee (BE)",
+    "eurostat:nuts_2021_id":"CH9149",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH9149",
     "geom:area":0.004633,
-    "geom:area_square_m":39015830.531743,
+    "geom:area_square_m":39015830.531779,
     "geom:bbox":"7.076918,47.037441,7.236447,47.134685",
     "geom:latitude":47.07628,
     "geom:longitude":7.157707,
@@ -48,7 +58,10 @@
         102063043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH9149",
+        "eurostat:nuts_2021_id":"CH9149"
+    },
     "wof:coterminous":[
         1394292425
     ],
@@ -56,7 +69,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"12701831b30d00769734ae25d539590c",
+    "wof:geomhash":"c999c7821720f010c15931e7a4c6ad05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":404568157,
-    "wof:lastmodified":1617131355,
+    "wof:lastmodified":1684351713,
     "wof:name":"Bielersee",
     "wof:parent_id":102063043,
     "wof:placetype":"localadmin",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0879",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riggisberg",
+    "eurostat:nuts_2021_id":"CH0879",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0879",
+    "eurostat:population":2554,
+    "eurostat:population_year":2020,
     "geom:area":0.003515,
-    "geom:area_square_m":29764615.762545,
+    "geom:area_square_m":29764615.762544,
     "geom:bbox":"7.426018,46.726537,7.499902,46.818326",
     "geom:latitude":46.782356,
     "geom:longitude":7.460254,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0879",
+        "eurostat:nuts_2021_id":"CH0879",
         "gn:id":7286913,
         "gp:id":12684272,
         "qs_pg:id":235861
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"2ea9911e22db067a58160de6bd49fe40",
+    "wof:geomhash":"b503960b6c423191179dee4021301bfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404568291,
-    "wof:lastmodified":1598919706,
+    "wof:lastmodified":1684351715,
     "wof:name":"Riggisberg",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":2554,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

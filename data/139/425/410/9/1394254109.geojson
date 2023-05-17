@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0295",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horgen",
+    "eurostat:nuts_2021_id":"CH0295",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0295",
+    "eurostat:population":22665,
+    "eurostat:population_year":2020,
     "geom:area":0.003662,
-    "geom:area_square_m":30746972.58605,
+    "geom:area_square_m":30746972.586055,
     "geom:bbox":"8.53544144171,47.1993399498,8.63322857415,47.2728694568",
     "geom:latitude":47.239519,
     "geom:longitude":8.58978,
@@ -132,6 +144,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -139,8 +153,12 @@
         102062825
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0295",
+        "eurostat:nuts_2021_id":"CH0295"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"b0ee0944ee435dc8674c4e32726e39d5",
+    "wof:geomhash":"5ff319cd23ef9906cf70775154519a26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +169,12 @@
         }
     ],
     "wof:id":1394254109,
-    "wof:lastmodified":1566640365,
+    "wof:lastmodified":1684351781,
     "wof:name":"Horgen",
     "wof:parent_id":102062825,
     "wof:placetype":"localadmin",
+    "wof:population":22665,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0987",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rumisberg",
+    "eurostat:nuts_2021_id":"CH0987",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0987",
+    "eurostat:population":488,
+    "eurostat:population_year":2020,
     "geom:area":0.000611,
     "geom:area_square_m":5122479.462747,
     "geom:bbox":"7.607105,47.256614,7.654817,47.281989",
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0987",
+        "eurostat:nuts_2021_id":"CH0987",
         "gn:id":7286982,
         "qs_pg:id":671565
     },
@@ -119,7 +135,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"55dbaa6da1fdd6de2de1afa5679b1077",
+    "wof:geomhash":"b512684cb2e64bd6e98f9d59849abc5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404571205,
-    "wof:lastmodified":1598920089,
+    "wof:lastmodified":1684351756,
     "wof:name":"Rumisberg",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":488,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

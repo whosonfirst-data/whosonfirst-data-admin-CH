@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2854",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nusshof",
+    "eurostat:nuts_2021_id":"CH2854",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2854",
+    "eurostat:population":263,
+    "eurostat:population_year":2020,
     "geom:area":0.000205,
     "geom:area_square_m":1716503.813206,
     "geom:bbox":"7.784722,47.484059,7.810959,47.499399",
@@ -111,14 +123,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062819,
-        85682361
+        85682361,
+        102062819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2854",
+        "eurostat:nuts_2021_id":"CH2854"
+    },
     "wof:coterminous":[
         1126016185
     ],
@@ -126,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"610b360373568de2e27018443f8409a4",
+    "wof:geomhash":"31640e702686ccd80cdcb4da9392dd40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +154,12 @@
         }
     ],
     "wof:id":404573257,
-    "wof:lastmodified":1598919909,
+    "wof:lastmodified":1684351772,
     "wof:name":"Nusshof",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",
+    "wof:population":263,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

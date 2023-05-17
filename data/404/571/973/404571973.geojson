@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2848",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hemmiken",
+    "eurostat:nuts_2021_id":"CH2848",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2848",
+    "eurostat:population":263,
+    "eurostat:population_year":2020,
     "geom:area":0.000405,
     "geom:area_square_m":3380953.466274,
     "geom:bbox":"7.870531,47.478798,7.904822,47.502251",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062819,
-        85682361
+        85682361,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2848",
+        "eurostat:nuts_2021_id":"CH2848",
         "gn:id":7286058,
         "gp:id":12683662,
         "qs_pg:id":911076
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"be4451155bd8b87acf593c77c8560fec",
+    "wof:geomhash":"c15e64f2b749cf5e67f4c4fca5004562",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404571973,
-    "wof:lastmodified":1598920225,
+    "wof:lastmodified":1684351765,
     "wof:name":"Hemmiken",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",
+    "wof:population":263,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

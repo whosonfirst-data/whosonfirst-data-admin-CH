@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5194",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manno",
+    "eurostat:nuts_2021_id":"CH5194",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5194",
+    "eurostat:population":1324,
+    "eurostat:population_year":2020,
     "geom:area":0.000275,
     "geom:area_square_m":2359237.163217,
     "geom:bbox":"8.907325,46.020386,8.928659,46.039584",
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5194",
+        "eurostat:nuts_2021_id":"CH5194",
         "gn:id":7286431,
         "gp:id":20075562,
         "qs_pg:id":1317405
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f35dffdbd73fc8d9e5b0524f3bbc5cf4",
+    "wof:geomhash":"1b23d53dfe9e61dcdf82bc8fd403947c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404572411,
-    "wof:lastmodified":1598919839,
+    "wof:lastmodified":1684351769,
     "wof:name":"Manno",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":1324,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

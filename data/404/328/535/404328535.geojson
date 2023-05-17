@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"G\u00e4chlingen",
+    "eurostat:nuts_2021_id":"CH2901",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2901",
+    "eurostat:population":836,
+    "eurostat:population_year":2020,
     "geom:area":0.000854,
     "geom:area_square_m":7108685.054024,
     "geom:bbox":"8.480227,47.69628,8.523887,47.740898",
@@ -105,14 +117,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137111,
-        85682285
+        85682285,
+        1394137111
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2901",
+        "eurostat:nuts_2021_id":"CH2901",
         "gn:id":7285881,
         "gp:id":12683512,
         "qs_pg:id":671335
@@ -122,7 +138,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"209e548c9301ac8302cceea450cc01ff",
+    "wof:geomhash":"9fbc7f386ca01649ff4a98676ab93f49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404328535,
-    "wof:lastmodified":1598920281,
+    "wof:lastmodified":1684351697,
     "wof:name":"G\u00e4chlingen",
     "wof:parent_id":1394137111,
     "wof:placetype":"localadmin",
+    "wof:population":836,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5494",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pampigny",
+    "eurostat:nuts_2021_id":"CH5494",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5494",
+    "eurostat:population":1114,
+    "eurostat:population_year":2020,
     "geom:area":0.001302,
-    "geom:area_square_m":11061247.82607,
+    "geom:area_square_m":11061247.826071,
     "geom:bbox":"6.386963,46.566378,6.446105,46.608615",
     "geom:latitude":46.586231,
     "geom:longitude":6.42205,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5494",
+        "eurostat:nuts_2021_id":"CH5494",
         "gn:id":2659258,
         "gp:id":12684177,
         "qs_pg:id":968693
@@ -117,7 +133,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"700c6d7482569cc215c753489c5013d2",
+    "wof:geomhash":"0d85a5466ba7a1a72d3412af01fba6bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404569555,
-    "wof:lastmodified":1598919265,
+    "wof:lastmodified":1684351735,
     "wof:name":"Pampigny",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":1114,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

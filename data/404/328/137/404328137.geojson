@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarnen",
+    "eurostat:nuts_2021_id":"CH1407",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH064",
+    "eurostat:nuts_2021_level_lau":"CH1407",
+    "eurostat:population":10368,
+    "eurostat:population_year":2020,
     "geom:area":0.009075,
-    "geom:area_square_m":76680345.84236,
+    "geom:area_square_m":76680345.842364,
     "geom:bbox":"8.066997,46.85422,8.277664,46.933462",
     "geom:latitude":46.897079,
     "geom:longitude":8.178392,
@@ -212,6 +224,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -220,6 +234,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1407",
+        "eurostat:nuts_2021_id":"CH1407",
         "gn:id":7287056,
         "gp:id":12683641,
         "qs_pg:id":1197159
@@ -229,7 +245,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16080125f31d30ffd3ab6bdb7a69809a",
+    "wof:geomhash":"fcd17c3b7ba514918e4f92e12fcd1738",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -240,10 +256,12 @@
         }
     ],
     "wof:id":404328137,
-    "wof:lastmodified":1636413524,
+    "wof:lastmodified":1684351690,
     "wof:name":"Sarnen",
     "wof:parent_id":102062787,
     "wof:placetype":"localadmin",
+    "wof:population":10368,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

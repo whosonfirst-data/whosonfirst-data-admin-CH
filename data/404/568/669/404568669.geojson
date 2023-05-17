@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3941",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Haldenstein",
+    "eurostat:nuts_2021_id":"CH3941",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3941",
+    "eurostat:population":1033,
+    "eurostat:population_year":2020,
     "geom:area":0.00219,
     "geom:area_square_m":18512284.123015,
     "geom:bbox":"9.454106,46.853689,9.540159,46.90424",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063001,
-        85682255
+        85682255,
+        102063001
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3941",
+        "eurostat:nuts_2021_id":"CH3941",
         "gn:id":7286026,
         "gp:id":12683637,
         "qs_pg:id":247833
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"615e2ee3757d3848e5a5be658bc29a48",
+    "wof:geomhash":"b320e114c7e9cf2fcceffc3b02f27190",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404568669,
-    "wof:lastmodified":1598919545,
+    "wof:lastmodified":1684351723,
     "wof:name":"Haldenstein",
     "wof:parent_id":102063001,
     "wof:placetype":"localadmin",
+    "wof:population":1033,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

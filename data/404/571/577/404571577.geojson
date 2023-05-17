@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saules (BE)",
+    "eurostat:nuts_2021_id":"CH0707",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0707",
+    "eurostat:population":151,
+    "eurostat:population_year":2020,
     "geom:area":0.000509,
     "geom:area_square_m":4268081.336128,
     "geom:bbox":"7.205367,47.238799,7.240329,47.265349",
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062865,
-        85682381
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0707",
+        "eurostat:nuts_2021_id":"CH0707",
         "gn:id":7287063,
         "qs_pg:id":671587
     },
@@ -110,7 +126,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d861dcade9dafb4a8bc799a8dd6f3bed",
+    "wof:geomhash":"47542945c6a65b5ed04da57e1ab7ca2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":404571577,
-    "wof:lastmodified":1598920237,
+    "wof:lastmodified":1684351760,
     "wof:name":"Saules",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":151,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

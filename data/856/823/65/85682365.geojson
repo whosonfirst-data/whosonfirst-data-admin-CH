@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Solothurn",
+    "eurostat:name_local":"Solothurn",
+    "eurostat:nuts_2021_id":"CH023",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:population":280245,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"1",
     "geom:area":0.094011,
-    "geom:area_square_m":788274079.851997,
+    "geom:area_square_m":788274079.851972,
     "geom:bbox":"7.340413,47.074341,8.031367,47.502695",
     "geom:latitude":47.304194,
     "geom:longitude":7.639622,
@@ -415,8 +429,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"791",
     "statoids:area_mi":"305",
     "statoids:as_of_date":"2010-12-31",
@@ -436,6 +450,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":10177,
+        "eurostat:nuts_2021_id":"CH023",
         "fips:code":"SZ18",
         "gn:id":2658563,
         "gp:id":2347100,
@@ -447,7 +462,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8dbc11768c87cbcbb164dd9b88cff8fc",
+    "wof:geomhash":"8003b9b8dda5c1d1c6760fba94392a40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -469,12 +484,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1636413500,
+    "wof:lastmodified":1684351503,
     "wof:name":"Solothurn",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":255284,
+    "wof:population":280245,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"SO",

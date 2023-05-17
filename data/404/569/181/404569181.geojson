@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0441",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Renan (BE)",
+    "eurostat:nuts_2021_id":"CH0441",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0441",
+    "eurostat:population":928,
+    "eurostat:population_year":2020,
     "geom:area":0.001497,
-    "geom:area_square_m":12598243.886369,
+    "geom:area_square_m":12598243.88637,
     "geom:bbox":"6.86686465303,47.0851136498,6.94245917761,47.1357059147",
     "geom:latitude":47.110646,
     "geom:longitude":6.903334,
@@ -88,6 +100,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0441",
+        "eurostat:nuts_2021_id":"CH0441",
         "gn:id":7286884,
         "gp:id":12684253,
         "qs_pg:id":324000
@@ -108,7 +124,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"de406843727f17d7d9b69ade643336d9",
+    "wof:geomhash":"14b17c6394eb9cec2c7bab2f3a1fb95e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404569181,
-    "wof:lastmodified":1582222957,
+    "wof:lastmodified":1684351731,
     "wof:name":"Renan",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":928,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3673",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Domleschg",
+    "eurostat:nuts_2021_id":"CH3673",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3673",
+    "eurostat:population":2067,
+    "eurostat:population_year":2020,
     "geom:area":0.005411,
     "geom:area_square_m":45825162.634315,
     "geom:bbox":"9.41435405119,46.7267029423,9.51466430508,46.8119935136",
@@ -48,6 +60,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -55,8 +69,12 @@
         1394137069
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3673",
+        "eurostat:nuts_2021_id":"CH3673"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"25669230591d285c45d38e8c953b39a2",
+    "wof:geomhash":"c6d9c8e59d6e7a4033d8f6967bca13db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,10 +85,12 @@
         }
     ],
     "wof:id":1394254049,
-    "wof:lastmodified":1566640375,
+    "wof:lastmodified":1684351779,
     "wof:name":"Domleschg",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
+    "wof:population":2067,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

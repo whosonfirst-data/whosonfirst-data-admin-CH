@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ayent",
+    "eurostat:nuts_2021_id":"CH6082",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6082",
+    "eurostat:population":4058,
+    "eurostat:population_year":2020,
     "geom:area":0.006456,
-    "geom:area_square_m":55126036.353486,
+    "geom:area_square_m":55126036.353493,
     "geom:bbox":"7.357735,46.252211,7.462143,46.386148",
     "geom:latitude":46.327982,
     "geom:longitude":7.410367,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062985,
-        85682281
+        85682281,
+        102062985
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6082",
+        "eurostat:nuts_2021_id":"CH6082",
         "gn:id":7285131,
         "gp:id":12682872,
         "qs_pg:id":671172
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"711539b61dff683483a889c7f27a786c",
+    "wof:geomhash":"b49014e1f8326722bf2eddc3407412ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404567953,
-    "wof:lastmodified":1598919375,
+    "wof:lastmodified":1684351708,
     "wof:name":"Ayent",
     "wof:parent_id":102062985,
     "wof:placetype":"localadmin",
+    "wof:population":4058,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

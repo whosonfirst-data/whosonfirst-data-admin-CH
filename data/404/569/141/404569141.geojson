@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0173",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hittnau",
+    "eurostat:nuts_2021_id":"CH0173",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0173",
+    "eurostat:population":3688,
+    "eurostat:population_year":2020,
     "geom:area":0.001543,
-    "geom:area_square_m":12919587.731841,
+    "geom:area_square_m":12919587.731842,
     "geom:bbox":"8.802398,47.344209,8.85721,47.388254",
     "geom:latitude":47.366283,
     "geom:longitude":8.82922,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062779,
-        85682309
+        85682309,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0173",
+        "eurostat:nuts_2021_id":"CH0173",
         "gp:id":12683691,
         "qs_pg:id":988819
     },
@@ -134,7 +150,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"88ce477076116d4e2f6e2c7a099cae11",
+    "wof:geomhash":"aa9cb8c7fca5783c27e824b27a8223d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404569141,
-    "wof:lastmodified":1598919356,
+    "wof:lastmodified":1684351731,
     "wof:name":"Hittnau",
     "wof:parent_id":102062779,
     "wof:placetype":"localadmin",
+    "wof:population":3688,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0881",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00fcmligen",
+    "eurostat:nuts_2021_id":"CH0881",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0881",
+    "eurostat:population":438,
+    "eurostat:population_year":2020,
     "geom:area":0.00055,
     "geom:area_square_m":4650344.043224,
     "geom:bbox":"7.468753,46.81542,7.514238,46.837696",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0881",
+        "eurostat:nuts_2021_id":"CH0881",
         "gn:id":7286984,
         "gp:id":12685027,
         "qs_pg:id":671566
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6269c7608c21e937e1b5b7842dece089",
+    "wof:geomhash":"f5c4ef010695938c658638c6c0082cdc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404571395,
-    "wof:lastmodified":1598920126,
+    "wof:lastmodified":1684351758,
     "wof:name":"R\u00fcmligen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":438,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

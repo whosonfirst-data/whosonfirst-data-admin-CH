@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5219",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rovio",
+    "eurostat:nuts_2021_id":"CH5219",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5219",
+    "eurostat:population":839,
+    "eurostat:population_year":2020,
     "geom:area":0.00065,
-    "geom:area_square_m":5585492.283573,
+    "geom:area_square_m":5585492.283574,
     "geom:bbox":"8.976587,45.924635,9.022465,45.946422",
     "geom:latitude":45.935577,
     "geom:longitude":9.0003,
@@ -61,14 +73,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5219",
+        "eurostat:nuts_2021_id":"CH5219",
         "gn:id":7286966,
         "gp:id":12683966,
         "qs_pg:id":221384
@@ -81,7 +97,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"604a4f678aa92d1d6154b5aed3f18f35",
+    "wof:geomhash":"27668fdcfe6820370d09373f1a71b585",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404571065,
-    "wof:lastmodified":1598920061,
+    "wof:lastmodified":1684351754,
     "wof:name":"Rovio",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":839,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

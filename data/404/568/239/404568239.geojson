@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3575",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laax",
+    "eurostat:nuts_2021_id":"CH3575",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3575",
+    "eurostat:population":1858,
+    "eurostat:population_year":2020,
     "geom:area":0.00374,
-    "geom:area_square_m":31631176.215438,
+    "geom:area_square_m":31631176.215445,
     "geom:bbox":"9.153004,46.792667,9.293255,46.891957",
     "geom:latitude":46.845954,
     "geom:longitude":9.227891,
@@ -133,14 +145,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062773,
-        85682255
+        85682255,
+        102062773
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3575",
+        "eurostat:nuts_2021_id":"CH3575",
         "gn:id":7286235,
         "gp:id":12683818,
         "qs_pg:id":380104
@@ -150,7 +166,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8d75dd33de3107a460ed0be74725e2d6",
+    "wof:geomhash":"242018f5dc685ac787cc4175975a36be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404568239,
-    "wof:lastmodified":1598919710,
+    "wof:lastmodified":1684351714,
     "wof:name":"Laax",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
+    "wof:population":1858,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

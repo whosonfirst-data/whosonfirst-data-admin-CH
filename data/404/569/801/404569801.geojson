@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5760",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rances",
+    "eurostat:nuts_2021_id":"CH5760",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5760",
+    "eurostat:population":481,
+    "eurostat:population_year":2020,
     "geom:area":0.001158,
     "geom:area_square_m":9804326.765788,
     "geom:bbox":"6.452115,46.753613,6.550329,46.776319",
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5760",
+        "eurostat:nuts_2021_id":"CH5760",
         "gn:id":7286854,
         "gp:id":12684232,
         "qs_pg:id":1019960
@@ -114,7 +130,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b8b2cb81a491b73dcdf6b631d624d86d",
+    "wof:geomhash":"b760fa8833b4052f191ae01ea077c0c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404569801,
-    "wof:lastmodified":1598919338,
+    "wof:lastmodified":1684351738,
     "wof:name":"Rances",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":481,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

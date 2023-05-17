@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0732",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bellmund",
+    "eurostat:nuts_2021_id":"CH0732",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0732",
+    "eurostat:population":1689,
+    "eurostat:population_year":2020,
     "geom:area":0.00045,
     "geom:area_square_m":3785485.438823,
     "geom:bbox":"7.22267,47.089885,7.268014,47.113668",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063041,
-        85682381
+        85682381,
+        102063041
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0732",
+        "eurostat:nuts_2021_id":"CH0732",
         "gn:id":7285190,
         "gp:id":12682936,
         "qs_pg:id":1102260
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"483071b00d34fb2c5197cca8be999be3",
+    "wof:geomhash":"16cb0dffe42b99d5de864ef364c7bfda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571803,
-    "wof:lastmodified":1598920073,
+    "wof:lastmodified":1684351763,
     "wof:name":"Bellmund",
     "wof:parent_id":102063041,
     "wof:placetype":"localadmin",
+    "wof:population":1689,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

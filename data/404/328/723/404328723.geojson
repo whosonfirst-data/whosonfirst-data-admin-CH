@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2585",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Walterswil (SO)",
+    "eurostat:nuts_2021_id":"CH2585",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2585",
+    "eurostat:population":724,
+    "eurostat:population_year":2020,
     "geom:area":0.000533,
-    "geom:area_square_m":4465221.099924,
+    "geom:area_square_m":4465221.099925,
     "geom:bbox":"7.94708177445,47.3171426607,7.99184087895,47.3392845971",
     "geom:latitude":47.328955,
     "geom:longitude":7.967278,
@@ -72,6 +84,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -80,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2585",
+        "eurostat:nuts_2021_id":"CH2585",
         "gn:id":7287537,
         "gp:id":20075521,
         "qs_pg:id":671677
@@ -89,7 +105,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e6135812fe67a56c8d667710312b72f",
+    "wof:geomhash":"aac570732dc48beb965be8ae00dc8460",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":404328723,
-    "wof:lastmodified":1582223079,
+    "wof:lastmodified":1684351699,
     "wof:name":"Walterswil",
     "wof:parent_id":1394137091,
     "wof:placetype":"localadmin",
+    "wof:population":724,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

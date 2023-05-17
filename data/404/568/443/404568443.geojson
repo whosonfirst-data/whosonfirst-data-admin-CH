@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5135",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vogorno",
+    "eurostat:nuts_2021_id":"CH5135",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5135",
+    "eurostat:population":282,
+    "eurostat:population_year":2020,
     "geom:area":0.002786,
-    "geom:area_square_m":23835939.748823,
+    "geom:area_square_m":23835939.748826,
     "geom:bbox":"8.842412,46.197078,8.931368,46.247475",
     "geom:latitude":46.224623,
     "geom:longitude":8.884526,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062975,
-        85682269
+        85682269,
+        102062975
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5135",
+        "eurostat:nuts_2021_id":"CH5135",
         "gn:id":7287490,
         "gp:id":12684012,
         "qs_pg:id":248757
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8f284b19544fcebbf321ae2a844c42e7",
+    "wof:geomhash":"46a4ff7f1540a04f282edd667b9b0e69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404568443,
-    "wof:lastmodified":1598919665,
+    "wof:lastmodified":1684351718,
     "wof:name":"Vogorno",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
+    "wof:population":282,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Doppleschwand",
+    "eurostat:nuts_2021_id":"CH1001",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1001",
+    "eurostat:population":782,
+    "eurostat:population_year":2020,
     "geom:area":0.000821,
-    "geom:area_square_m":6926165.658854,
+    "geom:area_square_m":6926165.658853,
     "geom:bbox":"8.031642,46.99573,8.067473,47.032337",
     "geom:latitude":47.011903,
     "geom:longitude":8.050809,
@@ -114,14 +126,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137073,
-        85682319
+        85682319,
+        1394137073
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1001",
+        "eurostat:nuts_2021_id":"CH1001",
         "gn:id":7285667,
         "gp:id":12683325,
         "qs_pg:id":910580
@@ -134,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"71522113e8358898a2a442529d9b42ea",
+    "wof:geomhash":"7e9c84e0d40ced80427cf55f32303313",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404328551,
-    "wof:lastmodified":1598920252,
+    "wof:lastmodified":1684351697,
     "wof:name":"Doppleschwand",
     "wof:parent_id":1394137073,
     "wof:placetype":"localadmin",
+    "wof:population":782,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

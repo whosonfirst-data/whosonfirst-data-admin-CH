@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2971",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hallau",
+    "eurostat:nuts_2021_id":"CH2971",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2971",
+    "eurostat:population":2221,
+    "eurostat:population_year":2020,
     "geom:area":0.001836,
-    "geom:area_square_m":15277768.660586,
+    "geom:area_square_m":15277768.660585,
     "geom:bbox":"8.40463,47.679509,8.479801,47.723239",
     "geom:latitude":47.700458,
     "geom:longitude":8.443176,
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137101,
-        85682285
+        85682285,
+        1394137101
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2971",
+        "eurostat:nuts_2021_id":"CH2971",
         "gn:id":7286027,
         "gp:id":12683639,
         "qs_pg:id":1261600
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28f057d519d862baed7ee1c60ad02322",
+    "wof:geomhash":"9b6d2e7648848fbf096f609a04adda92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328335,
-    "wof:lastmodified":1598920399,
+    "wof:lastmodified":1684351694,
     "wof:name":"Hallau",
     "wof:parent_id":1394137101,
     "wof:placetype":"localadmin",
+    "wof:population":2221,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

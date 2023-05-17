@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riniken",
+    "eurostat:nuts_2021_id":"CH4111",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4111",
+    "eurostat:population":1452,
+    "eurostat:population_year":2020,
     "geom:area":0.000568,
-    "geom:area_square_m":4743558.628666,
+    "geom:area_square_m":4743558.628667,
     "geom:bbox":"8.165602,47.482435,8.207464,47.506969",
     "geom:latitude":47.493947,
     "geom:longitude":8.186736,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062993,
-        85682329
+        85682329,
+        102062993
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4111",
+        "eurostat:nuts_2021_id":"CH4111",
         "gn:id":7286915,
         "gp:id":12684964,
         "qs_pg:id":498956
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"12b2c8f4dd0b0dd79b0cbfb6cbdbaf4e",
+    "wof:geomhash":"891252553695e4724c132fde3c8dd247",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571353,
-    "wof:lastmodified":1598920008,
+    "wof:lastmodified":1684351758,
     "wof:name":"Riniken",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
+    "wof:population":1452,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

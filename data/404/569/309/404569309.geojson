@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1373",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Steinen",
+    "eurostat:nuts_2021_id":"CH1373",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1373",
+    "eurostat:population":3417,
+    "eurostat:population_year":2020,
     "geom:area":0.001403,
     "geom:area_square_m":11818808.424703,
     "geom:bbox":"8.58031402834,47.0268657898,8.63978320265,47.0766669019",
@@ -94,6 +106,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -102,6 +116,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1373",
+        "eurostat:nuts_2021_id":"CH1373",
         "gn:id":7287230,
         "gp:id":12684460,
         "qs_pg:id":539051
@@ -114,7 +130,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"75745a9ae2aa97e37359723a1d431fb6",
+    "wof:geomhash":"ebbc73b2f27f9c84483a99a4d00245a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404569309,
-    "wof:lastmodified":1582222946,
+    "wof:lastmodified":1684351733,
     "wof:name":"Steinen",
     "wof:parent_id":102062887,
     "wof:placetype":"localadmin",
+    "wof:population":3417,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4287",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vordemwald",
+    "eurostat:nuts_2021_id":"CH4287",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4287",
+    "eurostat:population":1955,
+    "eurostat:population_year":2020,
     "geom:area":0.001205,
-    "geom:area_square_m":10112151.60028,
+    "geom:area_square_m":10112151.600279,
     "geom:bbox":"7.866656,47.243698,7.919414,47.295816",
     "geom:latitude":47.270008,
     "geom:longitude":7.892337,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062851,
-        85682329
+        85682329,
+        102062851
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4287",
+        "eurostat:nuts_2021_id":"CH4287",
         "gn:id":7287494,
         "gp:id":12684591,
         "qs_pg:id":1014524
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4d30360272da629172b41bc1a457e78c",
+    "wof:geomhash":"6e65a3a718dc20c78cc0056dc25c6bfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404569749,
-    "wof:lastmodified":1598919244,
+    "wof:lastmodified":1684351738,
     "wof:name":"Vordemwald",
     "wof:parent_id":102062851,
     "wof:placetype":"localadmin",
+    "wof:population":1955,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

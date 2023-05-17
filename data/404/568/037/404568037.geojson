@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2325",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ch\u00e2tel-Saint-Denis",
+    "eurostat:nuts_2021_id":"CH2325",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2325",
+    "eurostat:population":6971,
+    "eurostat:population_year":2020,
     "geom:area":0.005619,
     "geom:area_square_m":47807440.121662,
     "geom:bbox":"6.88321853665,46.4753870214,7.00502904633,46.5643732473",
@@ -111,6 +123,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -118,12 +132,15 @@
         102063025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2325",
+        "eurostat:nuts_2021_id":"CH2325"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9502232a4db9d5cd50d4e681b676682e",
+    "wof:geomhash":"cf6a6ce59adde69f76d35b1e592b424e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":404568037,
-    "wof:lastmodified":1582223001,
+    "wof:lastmodified":1684351710,
     "wof:name":"Ch\u00e2tel-Saint-Denis",
     "wof:parent_id":102063025,
     "wof:placetype":"localadmin",
+    "wof:population":6971,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

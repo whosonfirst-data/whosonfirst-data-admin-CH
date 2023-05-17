@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0584",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lauterbrunnen",
+    "eurostat:nuts_2021_id":"CH0584",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0584",
+    "eurostat:population":2290,
+    "eurostat:population_year":2020,
     "geom:area":0.019314,
-    "geom:area_square_m":164239318.677914,
+    "geom:area_square_m":164239318.677917,
     "geom:bbox":"7.80631,46.477258,8.007061,46.629397",
     "geom:latitude":46.551676,
     "geom:longitude":7.893642,
@@ -166,14 +178,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062759,
-        85682381
+        85682381,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0584",
+        "eurostat:nuts_2021_id":"CH0584",
         "gn:id":7286285,
         "gp:id":12683072,
         "qs_pg:id":242311
@@ -183,7 +199,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e70e6348b029559e936a2c7754e70094",
+    "wof:geomhash":"080af4f68752129c06538a6fcd577613",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404567735,
-    "wof:lastmodified":1598919424,
+    "wof:lastmodified":1684351703,
     "wof:name":"Lauterbrunnen",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":2290,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

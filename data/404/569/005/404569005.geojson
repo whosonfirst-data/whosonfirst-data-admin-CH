@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0035",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marthalen",
+    "eurostat:nuts_2021_id":"CH0035",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0035",
+    "eurostat:population":1908,
+    "eurostat:population_year":2020,
     "geom:area":0.00169,
     "geom:area_square_m":14089362.204997,
     "geom:bbox":"8.592925,47.594699,8.668229,47.644467",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062801,
-        85682309
+        85682309,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0035",
+        "eurostat:nuts_2021_id":"CH0035",
         "gn:id":7286442,
         "gp:id":12683369,
         "qs_pg:id":1040515
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6a21df403b838dc9b6e4cff3673893f6",
+    "wof:geomhash":"45b6a742373cb38ded3324e88b9a6c0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404569005,
-    "wof:lastmodified":1598919336,
+    "wof:lastmodified":1684351729,
     "wof:name":"Marthalen",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",
+    "wof:population":1908,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

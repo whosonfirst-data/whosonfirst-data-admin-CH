@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00fcte",
+    "eurostat:nuts_2021_id":"CH3103",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH054",
+    "eurostat:nuts_2021_level_lau":"CH3103",
+    "eurostat:population":3648,
+    "eurostat:population_year":2020,
     "geom:area":0.004855,
-    "geom:area_square_m":40707731.080581,
+    "geom:area_square_m":40707731.080579,
     "geom:bbox":"9.37018575243,47.2339956097,9.5030217189,47.3502560826",
     "geom:latitude":47.303529,
     "geom:longitude":9.455935,
@@ -99,6 +111,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -106,8 +120,12 @@
         1394237541
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3103",
+        "eurostat:nuts_2021_id":"CH3103"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"7e3133a41df5d39a7747383359bd695a",
+    "wof:geomhash":"e871aa5ce9c8a86a5ed1393efd8fbd40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +136,12 @@
         }
     ],
     "wof:id":1394254075,
-    "wof:lastmodified":1566640359,
+    "wof:lastmodified":1684351780,
     "wof:name":"R\u00fcte",
     "wof:parent_id":1394237541,
     "wof:placetype":"localadmin",
+    "wof:population":3648,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

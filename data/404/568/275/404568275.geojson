@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6199",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Raron",
+    "eurostat:nuts_2021_id":"CH6199",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6199",
+    "eurostat:population":1945,
+    "eurostat:population_year":2020,
     "geom:area":0.003548,
     "geom:area_square_m":30285825.26096,
     "geom:bbox":"7.790904,46.286148,7.859306,46.392622",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063037,
-        85682281
+        85682281,
+        102063037
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6199",
+        "eurostat:nuts_2021_id":"CH6199",
         "gn:id":7286860,
         "gp:id":12684341,
         "qs_pg:id":671530
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"721602230970d107d23c3876aa3b7857",
+    "wof:geomhash":"c23a7a2ad665fd3c319d515d3a8f0bfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404568275,
-    "wof:lastmodified":1598919529,
+    "wof:lastmodified":1684351715,
     "wof:name":"Raron",
     "wof:parent_id":102063037,
     "wof:placetype":"localadmin",
+    "wof:population":1945,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Thalheim an der Thur",
+    "eurostat:nuts_2021_id":"CH0039",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0039",
+    "eurostat:population":917,
+    "eurostat:population_year":2020,
     "geom:area":0.00077,
     "geom:area_square_m":6423715.301026,
     "geom:bbox":"8.717778,47.567023,8.768784,47.596905",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062801,
-        85682309
+        85682309,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0039",
+        "eurostat:nuts_2021_id":"CH0039",
         "gn:id":7287298,
         "gp:id":12684493,
         "qs_pg:id":671628
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e06c1af95f882637926dc8a8c81ce559",
+    "wof:geomhash":"5cdb2cc1f8b19ec4d295ec9810e1fdfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404570767,
-    "wof:lastmodified":1598920636,
+    "wof:lastmodified":1684351750,
     "wof:name":"Thalheim an der Thur",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",
+    "wof:population":917,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

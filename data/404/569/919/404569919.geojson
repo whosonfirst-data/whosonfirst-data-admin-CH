@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5429",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Longirod",
+    "eurostat:nuts_2021_id":"CH5429",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5429",
+    "eurostat:population":478,
+    "eurostat:population_year":2020,
     "geom:area":0.001108,
-    "geom:area_square_m":9429702.300427,
+    "geom:area_square_m":9429702.300429,
     "geom:bbox":"6.219579,46.480463,6.288607,46.530223",
     "geom:latitude":46.50406,
     "geom:longitude":6.252188,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5429",
+        "eurostat:nuts_2021_id":"CH5429",
         "gn:id":7286371,
         "qs_pg:id":671438
     },
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4f245198947870a01e3704f933fcd422",
+    "wof:geomhash":"d49d8c0da81913c888abae9716417ae1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404569919,
-    "wof:lastmodified":1598919359,
+    "wof:lastmodified":1684351740,
     "wof:name":"Longirod",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":478,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

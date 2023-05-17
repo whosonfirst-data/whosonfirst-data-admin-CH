@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wald (ZH)",
+    "eurostat:nuts_2021_id":"CH0120",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0120",
+    "eurostat:population":9949,
+    "eurostat:population_year":2020,
     "geom:area":0.003004,
-    "geom:area_square_m":25195879.927823,
+    "geom:area_square_m":25195879.92783,
     "geom:bbox":"8.885077,47.252813,8.974997,47.314905",
     "geom:latitude":47.287062,
     "geom:longitude":8.920936,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062967,
-        85682309
+        85682309,
+        102062967
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0120",
+        "eurostat:nuts_2021_id":"CH0120",
         "gn:id":7287524,
         "gp:id":12684597,
         "qs_pg:id":248353
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f8a736f1827dce165c5e20865cd9c4f",
+    "wof:geomhash":"724fa98b55449e6f3dd7d63a25ec55a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404568373,
-    "wof:lastmodified":1598919742,
+    "wof:lastmodified":1684351717,
     "wof:name":"Wald",
     "wof:parent_id":102062967,
     "wof:placetype":"localadmin",
+    "wof:population":9949,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

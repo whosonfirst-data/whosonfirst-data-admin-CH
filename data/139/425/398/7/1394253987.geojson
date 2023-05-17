@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5675",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lucens",
+    "eurostat:nuts_2021_id":"CH5675",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5675",
+    "eurostat:population":4204,
+    "eurostat:population_year":2020,
     "geom:area":0.002267,
-    "geom:area_square_m":19227682.291644,
+    "geom:area_square_m":19227682.291647,
     "geom:bbox":"6.80070156337,46.6554587942,6.87171330894,46.735499757",
     "geom:latitude":46.699587,
     "geom:longitude":6.838351,
@@ -78,6 +90,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -85,8 +99,12 @@
         102062969
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5675",
+        "eurostat:nuts_2021_id":"CH5675"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"66606646b3941796ad0af1e6d8299d82",
+    "wof:geomhash":"0b98b778af9c1b3bc556c9507b894ca9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +115,12 @@
         }
     ],
     "wof:id":1394253987,
-    "wof:lastmodified":1566640340,
+    "wof:lastmodified":1684351778,
     "wof:name":"Lucens",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":4204,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5475",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chavannes-le-Veyron",
+    "eurostat:nuts_2021_id":"CH5475",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5475",
+    "eurostat:population":142,
+    "eurostat:population_year":2020,
     "geom:area":0.000311,
     "geom:area_square_m":2637902.074321,
     "geom:bbox":"6.4304545921,46.5979613143,6.4611021096,46.6187887127",
@@ -97,6 +109,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -105,6 +119,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5475",
+        "eurostat:nuts_2021_id":"CH5475",
         "gn:id":8379139,
         "gp:id":20075580,
         "qs_pg:id":909174
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"73389d057eada586fe501132b945c9c9",
+    "wof:geomhash":"3afbcfff9981fe8705328f7c821b446c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404572287,
-    "wof:lastmodified":1582223027,
+    "wof:lastmodified":1684351768,
     "wof:name":"Chavannes-le-Veyron",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":142,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

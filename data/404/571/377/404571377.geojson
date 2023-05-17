@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maschwanden",
+    "eurostat:nuts_2021_id":"CH0008",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0008",
+    "eurostat:population":656,
+    "eurostat:population_year":2020,
     "geom:area":0.000557,
     "geom:area_square_m":4675305.501536,
     "geom:bbox":"8.413999,47.222637,8.44766,47.247562",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062775,
-        85682309
+        85682309,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0008",
+        "eurostat:nuts_2021_id":"CH0008",
         "gn:id":7286447,
         "gp:id":12683946,
         "qs_pg:id":911078
@@ -141,7 +157,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b6e55b69357a8388fbc1339503861fbc",
+    "wof:geomhash":"4485c9f421aa341defe7996bc75369a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404571377,
-    "wof:lastmodified":1598920099,
+    "wof:lastmodified":1684351758,
     "wof:name":"Maschwanden",
     "wof:parent_id":102062775,
     "wof:placetype":"localadmin",
+    "wof:population":656,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6235",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chippis",
+    "eurostat:nuts_2021_id":"CH6235",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6235",
+    "eurostat:population":1617,
+    "eurostat:population_year":2020,
     "geom:area":0.00023,
     "geom:area_square_m":1966574.952538,
     "geom:bbox":"7.528592,46.264247,7.556843,46.284386",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062793,
-        85682281
+        85682281,
+        102062793
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6235",
+        "eurostat:nuts_2021_id":"CH6235",
         "gn:id":7285512,
         "gp:id":12683202,
         "qs_pg:id":395537
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0526de21007bade674e24f6af451fb72",
+    "wof:geomhash":"5ec50837b847b54eac573ec7890f1356",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404573165,
-    "wof:lastmodified":1598919947,
+    "wof:lastmodified":1684351771,
     "wof:name":"Chippis",
     "wof:parent_id":102062793,
     "wof:placetype":"localadmin",
+    "wof:population":1617,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

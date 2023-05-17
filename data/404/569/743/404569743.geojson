@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4165",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gipf-Oberfrick",
+    "eurostat:nuts_2021_id":"CH4165",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4165",
+    "eurostat:population":3542,
+    "eurostat:population_year":2020,
     "geom:area":0.001214,
-    "geom:area_square_m":10139318.417787,
+    "geom:area_square_m":10139318.417786,
     "geom:bbox":"7.949435,47.470256,8.02674,47.509201",
     "geom:latitude":47.492904,
     "geom:longitude":7.996235,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062977,
-        85682329
+        85682329,
+        102062977
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4165",
+        "eurostat:nuts_2021_id":"CH4165",
         "gn:id":7285919,
         "gp:id":12683547,
         "qs_pg:id":900302
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"77bac8d55a0d79d197edaff7b95b79fa",
+    "wof:geomhash":"5b5f0b940dcde7b59749b2b0da9b7cd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404569743,
-    "wof:lastmodified":1598919345,
+    "wof:lastmodified":1684351737,
     "wof:name":"Gipf-Oberfrick",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",
+    "wof:population":3542,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

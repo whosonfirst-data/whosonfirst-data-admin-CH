@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2234",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Brillaz",
+    "eurostat:nuts_2021_id":"CH2234",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2234",
+    "eurostat:population":2046,
+    "eurostat:population_year":2020,
     "geom:area":0.001213,
-    "geom:area_square_m":10275634.400561,
+    "geom:area_square_m":10275634.400563,
     "geom:bbox":"6.978383,46.750436,7.05863,46.785244",
     "geom:latitude":46.766911,
     "geom:longitude":7.018083,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063029,
-        85682301
+        85682301,
+        102063029
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2234",
+        "eurostat:nuts_2021_id":"CH2234",
         "gn:id":7286238,
         "gp:id":12684723,
         "qs_pg:id":911090
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f94eea0bd033c8bd4d40fd402d226c70",
+    "wof:geomhash":"442141caf4585b3195e3a255fdb7d55c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404569705,
-    "wof:lastmodified":1598919261,
+    "wof:lastmodified":1684351737,
     "wof:name":"La Brillaz",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":2046,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

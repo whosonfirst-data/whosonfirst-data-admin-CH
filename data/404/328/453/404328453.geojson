@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meierskappel",
+    "eurostat:nuts_2021_id":"CH1064",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1064",
+    "eurostat:population":1460,
+    "eurostat:population_year":2020,
     "geom:area":0.001094,
-    "geom:area_square_m":9207106.564719,
+    "geom:area_square_m":9207106.564718,
     "geom:bbox":"8.414685,47.100181,8.493733,47.131011",
     "geom:latitude":47.115149,
     "geom:longitude":8.452708,
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137079,
-        85682319
+        85682319,
+        1394137079
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1064",
+        "eurostat:nuts_2021_id":"CH1064",
         "gn:id":7286470,
         "gp:id":12683961,
         "qs_pg:id":43685
@@ -128,7 +144,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1a89bda26df569048b320c3025c52911",
+    "wof:geomhash":"e79316071342a1ad9efe909286673a69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328453,
-    "wof:lastmodified":1598920345,
+    "wof:lastmodified":1684351696,
     "wof:name":"Meierskappel",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",
+    "wof:population":1460,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

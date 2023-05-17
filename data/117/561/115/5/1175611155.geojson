@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Glattfelden",
+    "eurostat:nuts_2021_id":"CH0058",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0058",
+    "eurostat:population":5200,
+    "eurostat:population_year":2020,
     "geom:area":0.001469,
     "geom:area_square_m":12257593.831818,
     "geom:bbox":"8.45603979832,47.5382170047,8.52928217785,47.5812113063",
@@ -108,6 +120,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0058",
+        "eurostat:nuts_2021_id":"CH0058",
         "gn:id":7285927,
         "gp:id":12683558,
         "qs_pg:id":885858
@@ -124,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3649260eebd0a90deae68624af2206ef",
+    "wof:geomhash":"80eb2920ef9424e4df9c8815244b92e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":1175611155,
-    "wof:lastmodified":1582222874,
+    "wof:lastmodified":1684351775,
     "wof:name":"Glattfelden",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",
+    "wof:population":5200,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

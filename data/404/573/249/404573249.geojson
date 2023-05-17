@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4421",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horn",
+    "eurostat:nuts_2021_id":"CH4421",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4421",
+    "eurostat:population":2752,
+    "eurostat:population_year":2020,
     "geom:area":0.000208,
-    "geom:area_square_m":1738360.587355,
+    "geom:area_square_m":1738360.587354,
     "geom:bbox":"9.448085,47.484147,9.476958,47.50142",
     "geom:latitude":47.492844,
     "geom:longitude":9.46093,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062959,
-        85682337
+        85682337,
+        102062959
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4421",
+        "eurostat:nuts_2021_id":"CH4421",
         "gp:id":12683706,
         "qs_pg:id":220746
     },
@@ -140,7 +156,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b50481fc0b7b4e275f40671d4a39c63b",
+    "wof:geomhash":"110c69b6a9dd551b3a95a23f7738c414",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         }
     ],
     "wof:id":404573249,
-    "wof:lastmodified":1598919966,
+    "wof:lastmodified":1684351772,
     "wof:name":"Horn",
     "wof:parent_id":102062959,
     "wof:placetype":"localadmin",
+    "wof:population":2752,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

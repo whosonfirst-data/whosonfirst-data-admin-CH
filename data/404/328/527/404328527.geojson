@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schlierbach",
+    "eurostat:nuts_2021_id":"CH1100",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1100",
+    "eurostat:population":892,
+    "eurostat:population_year":2020,
     "geom:area":0.000852,
-    "geom:area_square_m":7152535.555584,
+    "geom:area_square_m":7152535.555583,
     "geom:bbox":"8.0959522861,47.2055038926,8.14106043645,47.244547044",
     "geom:latitude":47.227413,
     "geom:longitude":8.119068,
@@ -87,6 +99,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -95,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1100",
+        "eurostat:nuts_2021_id":"CH1100",
         "gn:id":7287093,
         "gp:id":12685070,
         "qs_pg:id":911093
@@ -107,7 +123,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8f00e5feafa8fed37a4268ad442a03c1",
+    "wof:geomhash":"f016af58ae6f03d3c9133b2143d66f7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":404328527,
-    "wof:lastmodified":1582223078,
+    "wof:lastmodified":1684351697,
     "wof:name":"Schlierbach",
     "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",
+    "wof:population":892,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

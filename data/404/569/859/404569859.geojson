@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2337",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Le Flon",
+    "eurostat:nuts_2021_id":"CH2337",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2337",
+    "eurostat:population":1208,
+    "eurostat:population_year":2020,
     "geom:area":0.001123,
     "geom:area_square_m":9544047.649099,
     "geom:bbox":"6.841444,46.581068,6.907231,46.626229",
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063025,
-        85682301
+        85682301,
+        102063025
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2337",
+        "eurostat:nuts_2021_id":"CH2337",
         "gn:id":7286299,
         "gp:id":28997169,
         "qs_pg:id":512981
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5663bfaa1eb96d298582a3c2fdbd9112",
+    "wof:geomhash":"fe4bb8e3cfadcf9d83cf21bc86df7e9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404569859,
-    "wof:lastmodified":1598919204,
+    "wof:lastmodified":1684351739,
     "wof:name":"Le Flon",
     "wof:parent_id":102063025,
     "wof:placetype":"localadmin",
+    "wof:population":1208,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0870",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kehrsatz",
+    "eurostat:nuts_2021_id":"CH0870",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0870",
+    "eurostat:population":4305,
+    "eurostat:population_year":2020,
     "geom:area":0.000524,
     "geom:area_square_m":4425006.668804,
     "geom:bbox":"7.448579,46.897819,7.486745,46.925717",
@@ -124,6 +136,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -132,6 +146,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0870",
+        "eurostat:nuts_2021_id":"CH0870",
         "gn:id":7286184,
         "qs_pg:id":1154279
     },
@@ -143,7 +159,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"60a29cea87fda5f836468926cbfdacfa",
+    "wof:geomhash":"de45513058e1e7cd3d3dbc24897a9f97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +170,12 @@
         }
     ],
     "wof:id":404571493,
-    "wof:lastmodified":1617131174,
+    "wof:lastmodified":1684351759,
     "wof:name":"Kehrsatz",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":4305,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

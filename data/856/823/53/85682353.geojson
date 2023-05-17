@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Appenzell Ausserrhoden",
+    "eurostat:name_local":"Appenzell Ausserrhoden",
+    "eurostat:nuts_2021_id":"CH053",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH053",
+    "eurostat:population":55585,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.028915,
-    "geom:area_square_m":242165383.439571,
+    "geom:area_square_m":242165383.439567,
     "geom:bbox":"9.19109,47.247024,9.630963,47.469044",
     "geom:latitude":47.366137,
     "geom:longitude":9.368669,
@@ -455,8 +469,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"243",
     "statoids:area_mi":"94",
     "statoids:as_of_date":"2010-12-31",
@@ -479,6 +493,7 @@
     ],
     "wof:concordances":{
         "digitalenvoy:region_code":10158,
+        "eurostat:nuts_2021_id":"CH053",
         "fips:code":"SZ02",
         "gn:id":2661739,
         "gp:id":2347084,
@@ -490,7 +505,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"84bbc1f30f2ef36f676aa09c6216ee73",
+    "wof:geomhash":"4faa6bdc4734ae2384c47bae10efe63d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -512,12 +527,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1614896083,
+    "wof:lastmodified":1684351502,
     "wof:name":"Appenzell Ausserrhoden",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":53017,
+    "wof:population":55585,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"AR",

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5242",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Balerna",
+    "eurostat:nuts_2021_id":"CH5242",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5242",
+    "eurostat:population":3267,
+    "eurostat:population_year":2020,
     "geom:area":0.000293,
     "geom:area_square_m":2525457.298756,
     "geom:bbox":"8.993879,45.832288,9.021808,45.853802",
@@ -105,14 +117,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063063,
-        85682269
+        85682269,
+        102063063
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5242",
+        "eurostat:nuts_2021_id":"CH5242"
+    },
     "wof:coterminous":[
         101853209
     ],
@@ -120,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a396711b13f5efa5742d67d630811551",
+    "wof:geomhash":"8ab079b1c37e49a01088d07fc862ea99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":404572333,
-    "wof:lastmodified":1598919827,
+    "wof:lastmodified":1684351769,
     "wof:name":"Balerna",
     "wof:parent_id":102063063,
     "wof:placetype":"localadmin",
+    "wof:population":3267,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

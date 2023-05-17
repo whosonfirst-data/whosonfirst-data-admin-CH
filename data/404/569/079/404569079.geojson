@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0432",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cormoret",
+    "eurostat:nuts_2021_id":"CH0432",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0432",
+    "eurostat:population":491,
+    "eurostat:population_year":2020,
     "geom:area":0.001599,
-    "geom:area_square_m":13441941.003386,
+    "geom:area_square_m":13441941.003387,
     "geom:bbox":"7.014859,47.131922,7.075882,47.197829",
     "geom:latitude":47.164728,
     "geom:longitude":7.046937,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062865,
-        85682381
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0432",
+        "eurostat:nuts_2021_id":"CH0432",
         "gp:id":12685253,
         "qs_pg:id":62111
     },
@@ -125,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c3b4c47137019c4fcf336d21d1bb5cd2",
+    "wof:geomhash":"5874e911e6c170ae2f0ac3c34eab990e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404569079,
-    "wof:lastmodified":1598919179,
+    "wof:lastmodified":1684351730,
     "wof:name":"Cormoret",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":491,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

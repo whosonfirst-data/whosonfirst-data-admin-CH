@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5929",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Suchy",
+    "eurostat:nuts_2021_id":"CH5929",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5929",
+    "eurostat:population":599,
+    "eurostat:population_year":2020,
     "geom:area":0.000781,
-    "geom:area_square_m":6620148.216958,
+    "geom:area_square_m":6620148.216959,
     "geom:bbox":"6.584173,46.703654,6.622864,46.738157",
     "geom:latitude":46.721322,
     "geom:longitude":6.605066,
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5929",
+        "eurostat:nuts_2021_id":"CH5929",
         "gn:id":7287255,
         "gp:id":12684467,
         "qs_pg:id":1322188
@@ -111,7 +127,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"03825b9d2022a515e3c7c495f7be6af1",
+    "wof:geomhash":"aab820b0e63b9f31f76b25535b9ceff0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404570693,
-    "wof:lastmodified":1598920581,
+    "wof:lastmodified":1684351749,
     "wof:name":"Suchy",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":599,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

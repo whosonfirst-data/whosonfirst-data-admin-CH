@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rechthalten",
+    "eurostat:nuts_2021_id":"CH2301",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2301",
+    "eurostat:population":1103,
+    "eurostat:population_year":2020,
     "geom:area":0.00086,
     "geom:area_square_m":7286491.745299,
     "geom:bbox":"7.221373,46.750659,7.26908,46.77557",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062891,
-        85682301
+        85682301,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2301",
+        "eurostat:nuts_2021_id":"CH2301",
         "gn:id":7286866,
         "gp:id":12683392,
         "qs_pg:id":1163633
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"373d42ad899907ea56f8096fc7cebb8a",
+    "wof:geomhash":"d01666498236dce0a9329320a7ff7e85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404570483,
-    "wof:lastmodified":1598920555,
+    "wof:lastmodified":1684351747,
     "wof:name":"Rechthalten",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",
+    "wof:population":1103,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

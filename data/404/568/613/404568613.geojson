@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0700",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moutier",
+    "eurostat:nuts_2021_id":"CH0700",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0700",
+    "eurostat:population":7384,
+    "eurostat:population_year":2020,
     "geom:area":0.002332,
     "geom:area_square_m":19559911.676139,
     "geom:bbox":"7.306912,47.247754,7.396922,47.305908",
@@ -114,14 +126,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062865,
-        85682381
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0700",
+        "eurostat:nuts_2021_id":"CH0700"
+    },
     "wof:coterminous":[
         101875849
     ],
@@ -129,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f5b9302f58c8851c9f5003dc867af789",
+    "wof:geomhash":"7d2fc186db75e114ad892bb3882132b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +157,12 @@
         }
     ],
     "wof:id":404568613,
-    "wof:lastmodified":1598919656,
+    "wof:lastmodified":1684351722,
     "wof:name":"Moutier",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":7384,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

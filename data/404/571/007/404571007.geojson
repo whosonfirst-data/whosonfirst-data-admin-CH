@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schleinikon",
+    "eurostat:nuts_2021_id":"CH0098",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0098",
+    "eurostat:population":728,
+    "eurostat:population_year":2020,
     "geom:area":0.000678,
-    "geom:area_square_m":5663077.980535,
+    "geom:area_square_m":5663077.980534,
     "geom:bbox":"8.37584,47.481606,8.406042,47.525735",
     "geom:latitude":47.498151,
     "geom:longitude":8.392083,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062995,
-        85682309
+        85682309,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0098",
+        "eurostat:nuts_2021_id":"CH0098",
         "gn:id":7287091,
         "gp:id":20075362,
         "qs_pg:id":1016900
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ef245e132de2c6b78edb2c3af85fd941",
+    "wof:geomhash":"bca6321bff009c0ed05138d2cb4fd165",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571007,
-    "wof:lastmodified":1598920070,
+    "wof:lastmodified":1684351753,
     "wof:name":"Schleinikon",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",
+    "wof:population":728,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

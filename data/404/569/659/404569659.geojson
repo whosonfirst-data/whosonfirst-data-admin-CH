@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Affoltern am Albis",
+    "eurostat:nuts_2021_id":"CH0002",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0002",
+    "eurostat:population":12229,
+    "eurostat:population_year":2020,
     "geom:area":0.001259,
     "geom:area_square_m":10564090.972992,
     "geom:bbox":"8.414651,47.263302,8.477463,47.300678",
@@ -139,14 +151,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062775,
-        85682309
+        85682309,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0002",
+        "eurostat:nuts_2021_id":"CH0002",
         "gn:id":7285037,
         "gp:id":12682729,
         "qs_pg:id":290440
@@ -156,7 +172,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b6cf1f62a4266ff9a5d195becfbe40e7",
+    "wof:geomhash":"bbc656d2d0b72bccfdfb6e180b083b79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404569659,
-    "wof:lastmodified":1598919225,
+    "wof:lastmodified":1684351736,
     "wof:name":"Affoltern am Albis",
     "wof:parent_id":102062775,
     "wof:placetype":"localadmin",
+    "wof:population":12229,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

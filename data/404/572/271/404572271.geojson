@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4314",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mellikon",
+    "eurostat:nuts_2021_id":"CH4314",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4314",
+    "eurostat:population":224,
+    "eurostat:population_year":2020,
     "geom:area":0.000323,
     "geom:area_square_m":2693939.908791,
     "geom:bbox":"8.334433,47.552965,8.361817,47.570813",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062841,
-        85682329
+        85682329,
+        102062841
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4314",
+        "eurostat:nuts_2021_id":"CH4314",
         "gn:id":7286479,
         "gp:id":12684974,
         "qs_pg:id":952962
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0fe4c404ceb8f0e26c0c0e6ea2be4f82",
+    "wof:geomhash":"2db4511a6197e147a0bf4c9b0ef30cff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404572271,
-    "wof:lastmodified":1598919844,
+    "wof:lastmodified":1684351768,
     "wof:name":"Mellikon",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",
+    "wof:population":224,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

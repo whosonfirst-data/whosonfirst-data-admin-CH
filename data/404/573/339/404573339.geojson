@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0553",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wiggiswil",
+    "eurostat:nuts_2021_id":"CH0553",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0553",
+    "eurostat:population":103,
+    "eurostat:population_year":2020,
     "geom:area":0.000171,
     "geom:area_square_m":1437774.766622,
     "geom:bbox":"7.459692,47.023977,7.483168,47.037397",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0553",
+        "eurostat:nuts_2021_id":"CH0553",
         "gn:id":7287570,
         "gp:id":20075388,
         "qs_pg:id":59631
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"2d1bf46ba644836522c1b983d8030a50",
+    "wof:geomhash":"47d4b205805b4feb5719e03ebfde7385",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404573339,
-    "wof:lastmodified":1598919888,
+    "wof:lastmodified":1684351773,
     "wof:name":"Wiggiswil",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":103,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

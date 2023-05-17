@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5557",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontaines-sur-Grandson",
+    "eurostat:nuts_2021_id":"CH5557",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5557",
+    "eurostat:population":218,
+    "eurostat:population_year":2020,
     "geom:area":0.000927,
-    "geom:area_square_m":7836899.743764,
+    "geom:area_square_m":7836899.743765,
     "geom:bbox":"6.562848,46.824542,6.639519,46.884165",
     "geom:latitude":46.856145,
     "geom:longitude":6.599878,
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5557",
+        "eurostat:nuts_2021_id":"CH5557",
         "gn:id":7285851,
         "gp:id":12684797,
         "qs_pg:id":671324
@@ -111,7 +127,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d93d7616d27d2dbfb723265532d2fc83",
+    "wof:geomhash":"2298ec0234e1028d49ce64118436c57b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404570325,
-    "wof:lastmodified":1598920626,
+    "wof:lastmodified":1684351745,
     "wof:name":"Fontaines-sur-Grandson",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":218,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

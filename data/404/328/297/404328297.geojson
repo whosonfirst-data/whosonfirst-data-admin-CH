@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schwellbrunn",
+    "eurostat:nuts_2021_id":"CH3004",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH053",
+    "eurostat:nuts_2021_level_lau":"CH3004",
+    "eurostat:population":1573,
+    "eurostat:population_year":2020,
     "geom:area":0.002073,
     "geom:area_square_m":17369260.675173,
     "geom:bbox":"9.19109,47.328232,9.269528,47.373831",
@@ -114,14 +126,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137085,
-        85682353
+        85682353,
+        1394137085
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3004",
+        "eurostat:nuts_2021_id":"CH3004",
         "gn:id":7287125,
         "gp:id":12684385,
         "qs_pg:id":43861
@@ -134,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"646dedf48e4743318c3c0b8dc903af78",
+    "wof:geomhash":"aecf8e1aa68479fe159a7b4e39d17618",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404328297,
-    "wof:lastmodified":1598920473,
+    "wof:lastmodified":1684351693,
     "wof:name":"Schwellbrunn",
     "wof:parent_id":1394137085,
     "wof:placetype":"localadmin",
+    "wof:population":1573,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

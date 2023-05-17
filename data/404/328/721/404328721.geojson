@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2526",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lohn-Ammannsegg",
+    "eurostat:nuts_2021_id":"CH2526",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2526",
+    "eurostat:population":2814,
+    "eurostat:population_year":2020,
     "geom:area":0.000531,
     "geom:area_square_m":4465947.449496,
     "geom:bbox":"7.51021649218,47.1607115303,7.54537920238,47.188482088",
@@ -102,6 +114,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2526",
+        "eurostat:nuts_2021_id":"CH2526",
         "gn:id":7286363,
         "gp:id":12684930,
         "qs_pg:id":1197441
@@ -122,7 +138,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1f617433fea93b0507d749b56755be4b",
+    "wof:geomhash":"d0d79df9b5d476eaef2bccbf786e9598",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404328721,
-    "wof:lastmodified":1582223088,
+    "wof:lastmodified":1684351699,
     "wof:name":"Lohn-Ammannsegg",
     "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",
+    "wof:population":2814,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

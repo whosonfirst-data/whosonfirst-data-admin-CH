@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00fcderswil",
+    "eurostat:nuts_2021_id":"CH0905",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0905",
+    "eurostat:population":2385,
+    "eurostat:population_year":2020,
     "geom:area":0.002034,
-    "geom:area_square_m":17162585.932244,
+    "geom:area_square_m":17162585.932242,
     "geom:bbox":"7.683849,46.955831,7.777744,46.997953",
     "geom:latitude":46.980071,
     "geom:longitude":7.722624,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0905",
+        "eurostat:nuts_2021_id":"CH0905",
         "gn:id":7286969,
         "gp:id":12684058,
         "qs_pg:id":985001
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a9d121299292a959aad3522ba38ed5a3",
+    "wof:geomhash":"3a96d1a9ba93086409038d198090a1ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568767,
-    "wof:lastmodified":1598919626,
+    "wof:lastmodified":1684351724,
     "wof:name":"R\u00fcderswil",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":2385,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

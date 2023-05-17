@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2333",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Remaufens",
+    "eurostat:nuts_2021_id":"CH2333",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2333",
+    "eurostat:population":1140,
+    "eurostat:population_year":2020,
     "geom:area":0.000693,
-    "geom:area_square_m":5891774.03004,
+    "geom:area_square_m":5891774.030042,
     "geom:bbox":"6.86577084086,46.5125708907,6.89696635845,46.5592249908",
     "geom:latitude":46.537051,
     "geom:longitude":6.88267,
@@ -102,6 +114,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -109,7 +123,10 @@
         102063025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2333",
+        "eurostat:nuts_2021_id":"CH2333"
+    },
     "wof:coterminous":[
         1125766405
     ],
@@ -117,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"49713a115e2798534e228e8d3fffc060",
+    "wof:geomhash":"f7023d8e04cba788688dc56e096d7e98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404570937,
-    "wof:lastmodified":1582223093,
+    "wof:lastmodified":1684351752,
     "wof:name":"Remaufens",
     "wof:parent_id":102063025,
     "wof:placetype":"localadmin",
+    "wof:population":1140,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

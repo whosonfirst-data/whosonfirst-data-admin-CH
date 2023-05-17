@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bulle",
+    "eurostat:nuts_2021_id":"CH2125",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2125",
+    "eurostat:population":23439,
+    "eurostat:population_year":2020,
     "geom:area":0.002802,
-    "geom:area_square_m":23801546.123019,
+    "geom:area_square_m":23801546.123016,
     "geom:bbox":"6.993394,46.569521,7.095273,46.640543",
     "geom:latitude":46.607546,
     "geom:longitude":7.046157,
@@ -151,14 +163,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062999,
-        85682301
+        85682301,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2125",
+        "eurostat:nuts_2021_id":"CH2125",
         "gn:id":7285381,
         "gp:id":12683085,
         "qs_pg:id":1060884
@@ -171,7 +187,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"92876bd19b4f7b5a185594740c8ad032",
+    "wof:geomhash":"be5b2f8ab696d59c5664de9f87430ab2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404568447,
-    "wof:lastmodified":1598919497,
+    "wof:lastmodified":1684351718,
     "wof:name":"Bulle",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",
+    "wof:population":23439,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

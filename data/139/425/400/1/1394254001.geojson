@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2465",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buchegg",
+    "eurostat:nuts_2021_id":"CH2465",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2465",
+    "eurostat:population":2580,
+    "eurostat:population_year":2020,
     "geom:area":0.002679,
-    "geom:area_square_m":22532300.765524,
+    "geom:area_square_m":22532300.765525,
     "geom:bbox":"7.42179268832,47.1148882654,7.52975121248,47.1586443974",
     "geom:latitude":47.138995,
     "geom:longitude":7.477859,
@@ -51,6 +63,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -58,8 +72,12 @@
         1394137095
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2465",
+        "eurostat:nuts_2021_id":"CH2465"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"fdf64d87f82b45d206073ad3b5b6f1b7",
+    "wof:geomhash":"6d9bee5dc2ca7cf17776befbf48c32a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +88,12 @@
         }
     ],
     "wof:id":1394254001,
-    "wof:lastmodified":1566640360,
+    "wof:lastmodified":1684351778,
     "wof:name":"Buchegg",
     "wof:parent_id":1394137095,
     "wof:placetype":"localadmin",
+    "wof:population":2580,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

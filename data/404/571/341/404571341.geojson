@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5673",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hermenches",
+    "eurostat:nuts_2021_id":"CH5673",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5673",
+    "eurostat:population":364,
+    "eurostat:population_year":2020,
     "geom:area":0.000561,
-    "geom:area_square_m":4761142.998742,
+    "geom:area_square_m":4761142.998741,
     "geom:bbox":"6.738189,46.62197,6.772492,46.652101",
     "geom:latitude":46.637498,
     "geom:longitude":6.75455,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062969,
-        85682325
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5673",
+        "eurostat:nuts_2021_id":"CH5673",
         "gn:id":7286070,
         "qs_pg:id":671388
     },
@@ -116,7 +132,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5a28b57b46f3957b0655ca264ab21442",
+    "wof:geomhash":"62cf2e67dec4ac4d60f06e15871f3444",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404571341,
-    "wof:lastmodified":1598920097,
+    "wof:lastmodified":1684351757,
     "wof:name":"Hermenches",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":364,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

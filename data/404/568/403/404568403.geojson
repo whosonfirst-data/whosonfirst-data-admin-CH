@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6742",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Les Bois",
+    "eurostat:nuts_2021_id":"CH6742",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6742",
+    "eurostat:population":1241,
+    "eurostat:population_year":2020,
     "geom:area":0.002932,
-    "geom:area_square_m":24642822.773163,
+    "geom:area_square_m":24642822.773162,
     "geom:bbox":"6.840731,47.150402,6.945298,47.205499",
     "geom:latitude":47.179498,
     "geom:longitude":6.898312,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062875,
-        85682347
+        85682347,
+        102062875
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6742",
+        "eurostat:nuts_2021_id":"CH6742",
         "gn:id":7286322,
         "gp:id":12683865,
         "qs_pg:id":1245457
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c35f7570858f61975532cdabb2caba45",
+    "wof:geomhash":"1d24f421775e458f18e696dc36d19a89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404568403,
-    "wof:lastmodified":1598919720,
+    "wof:lastmodified":1684351718,
     "wof:name":"Les Bois",
     "wof:parent_id":102062875,
     "wof:placetype":"localadmin",
+    "wof:population":1241,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

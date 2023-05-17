@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3714",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rheinwald",
+    "eurostat:nuts_2021_id":"CH3714",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3714",
+    "eurostat:population":577,
+    "eurostat:population_year":2020,
     "geom:area":0.016042,
-    "geom:area_square_m":136460608.803099,
+    "geom:area_square_m":136460608.803104,
     "geom:bbox":"9.03896318119,46.4763060191,9.37330833461,46.5869611235",
     "geom:latitude":46.531895,
     "geom:longitude":9.235083,
@@ -39,6 +51,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -46,8 +60,12 @@
         1394137069
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3714",
+        "eurostat:nuts_2021_id":"CH3714"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"d269473fe230a38d686f0671373dd475",
+    "wof:geomhash":"c9e5630a5740c1e20d663a1e9fe5d550",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,10 +76,12 @@
         }
     ],
     "wof:id":1394254091,
-    "wof:lastmodified":1566640357,
+    "wof:lastmodified":1684351781,
     "wof:name":"Rheinwald",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
+    "wof:population":577,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

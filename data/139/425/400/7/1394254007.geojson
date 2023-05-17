@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0351",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bern",
+    "eurostat:nuts_2021_id":"CH0351",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0351",
+    "eurostat:population":133883,
+    "eurostat:population_year":2020,
     "geom:area":0.006099,
-    "geom:area_square_m":51482940.379689,
+    "geom:area_square_m":51482940.379691,
     "geom:bbox":"7.29431347703,46.919031984,7.49555669812,46.9901521367",
     "geom:latitude":46.94758,
     "geom:longitude":7.406359,
@@ -495,6 +507,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -502,11 +516,15 @@
         102062861
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0351",
+        "eurostat:nuts_2021_id":"CH0351"
+    },
     "wof:coterminous":[
         101748453
     ],
     "wof:country":"CH",
-    "wof:geomhash":"1a502d051e26f9847c3b7ef87dd500dc",
+    "wof:geomhash":"ba8e5665d96317123a3a6f6c769bae87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -517,10 +535,12 @@
         }
     ],
     "wof:id":1394254007,
-    "wof:lastmodified":1566640360,
+    "wof:lastmodified":1684351778,
     "wof:name":"Bern",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":133883,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

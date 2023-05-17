@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0354",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kirchlindach",
+    "eurostat:nuts_2021_id":"CH0354",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0354",
+    "eurostat:population":3160,
+    "eurostat:population_year":2020,
     "geom:area":0.001415,
     "geom:area_square_m":11932763.099742,
     "geom:bbox":"7.388584,46.969873,7.441529,47.020562",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0354",
+        "eurostat:nuts_2021_id":"CH0354",
         "gn:id":7286203,
         "gp:id":12683041,
         "qs_pg:id":671401
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"690cd34f82d9628e302bce220dbcda60",
+    "wof:geomhash":"26297dfeb5590d53b19f0737113cc5e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404569289,
-    "wof:lastmodified":1598919184,
+    "wof:lastmodified":1684351733,
     "wof:name":"Kirchlindach",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":3160,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

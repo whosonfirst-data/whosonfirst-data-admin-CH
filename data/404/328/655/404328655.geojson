@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6611",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chancy",
+    "eurostat:nuts_2021_id":"CH6611",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6611",
+    "eurostat:population":1686,
+    "eurostat:population_year":2020,
     "geom:area":0.000626,
-    "geom:area_square_m":5366788.758868,
+    "geom:area_square_m":5366788.758867,
     "geom:bbox":"5.955912,46.128549,6.005815,46.164485",
     "geom:latitude":46.147614,
     "geom:longitude":5.978914,
@@ -98,14 +110,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6611",
+        "eurostat:nuts_2021_id":"CH6611",
         "gn:id":7285471,
         "gp:id":12683168,
         "qs_pg:id":1196193
@@ -118,7 +134,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"77b3fbc475a220ded0d68c9783650e4f",
+    "wof:geomhash":"178cad81d441de52da659e34854777ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404328655,
-    "wof:lastmodified":1598920449,
+    "wof:lastmodified":1684351699,
     "wof:name":"Chancy",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":1686,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

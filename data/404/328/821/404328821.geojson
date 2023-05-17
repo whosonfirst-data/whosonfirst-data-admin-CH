@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1053",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dierikon",
+    "eurostat:nuts_2021_id":"CH1053",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1053",
+    "eurostat:population":1475,
+    "eurostat:population_year":2020,
     "geom:area":0.000329,
-    "geom:area_square_m":2767971.283783,
+    "geom:area_square_m":2767971.283784,
     "geom:bbox":"8.358174,47.084202,8.389275,47.103867",
     "geom:latitude":47.094202,
     "geom:longitude":8.372648,
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137079,
-        85682319
+        85682319,
+        1394137079
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1053",
+        "eurostat:nuts_2021_id":"CH1053",
         "gn:id":7285648,
         "gp:id":12685073,
         "qs_pg:id":903238
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fae9e18ac9902fde6b21609cce3aa8be",
+    "wof:geomhash":"c45bf99213892b493ff594f4da27e57a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328821,
-    "wof:lastmodified":1598920302,
+    "wof:lastmodified":1684351701,
     "wof:name":"Dierikon",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",
+    "wof:population":1475,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

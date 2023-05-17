@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berom\u00fcnster",
+    "eurostat:nuts_2021_id":"CH1081",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1081",
+    "eurostat:population":6580,
+    "eurostat:population_year":2020,
     "geom:area":0.005025,
-    "geom:area_square_m":42220363.008362,
+    "geom:area_square_m":42220363.008369,
     "geom:bbox":"8.13311247721,47.1566449672,8.23537398443,47.2587488883",
     "geom:latitude":47.195285,
     "geom:longitude":8.191947,
@@ -111,6 +123,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -118,8 +132,12 @@
         1394137077
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH1081",
+        "eurostat:nuts_2021_id":"CH1081"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"b6aa065798e0716c43b4e14f911b25cc",
+    "wof:geomhash":"45bc99249b45baeaf4302e68556f32f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +148,12 @@
         }
     ],
     "wof:id":1394254059,
-    "wof:lastmodified":1566640371,
+    "wof:lastmodified":1684351780,
     "wof:name":"Berom\u00fcnster",
     "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",
+    "wof:population":6580,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

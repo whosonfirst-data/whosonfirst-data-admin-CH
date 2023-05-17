@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5661",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boulens",
+    "eurostat:nuts_2021_id":"CH5661",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5661",
+    "eurostat:population":384,
+    "eurostat:population_year":2020,
     "geom:area":0.000402,
-    "geom:area_square_m":3408992.993889,
+    "geom:area_square_m":3408992.99389,
     "geom:bbox":"6.702842,46.664707,6.735449,46.695676",
     "geom:latitude":46.678904,
     "geom:longitude":6.718323,
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062949,
-        85682325
+        85682325,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5661",
+        "eurostat:nuts_2021_id":"CH5661",
         "gn:id":7285310,
         "qs_pg:id":671199
     },
@@ -113,7 +129,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6470e1516580ea587ba148c77661b340",
+    "wof:geomhash":"75512ef0c4fa3b1f36f2f27141422492",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":404571957,
-    "wof:lastmodified":1598920127,
+    "wof:lastmodified":1684351765,
     "wof:name":"Boulens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":384,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5655",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Yens",
+    "eurostat:nuts_2021_id":"CH5655",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5655",
+    "eurostat:population":1430,
+    "eurostat:population_year":2020,
     "geom:area":0.001116,
-    "geom:area_square_m":9490292.379809,
+    "geom:area_square_m":9490292.379808,
     "geom:bbox":"6.370307,46.509939,6.440711,46.54684",
     "geom:latitude":46.527011,
     "geom:longitude":6.406694,
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5655",
+        "eurostat:nuts_2021_id":"CH5655",
         "gn:id":7287619,
         "gp:id":12684655,
         "qs_pg:id":43503
@@ -114,7 +130,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"25e2024e97e386e3fc6731bec136e191",
+    "wof:geomhash":"b9b8979ce6f99f8558122db4a9d99703",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404569871,
-    "wof:lastmodified":1598919305,
+    "wof:lastmodified":1684351739,
     "wof:name":"Yens",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":1430,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

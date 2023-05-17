@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1365",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lauerz",
+    "eurostat:nuts_2021_id":"CH1365",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1365",
+    "eurostat:population":1100,
+    "eurostat:population_year":2020,
     "geom:area":0.001087,
-    "geom:area_square_m":9161480.007384,
+    "geom:area_square_m":9161480.007385,
     "geom:bbox":"8.549572,47.009977,8.60808,47.046055",
     "geom:latitude":47.024776,
     "geom:longitude":8.580473,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062887,
-        85682305
+        85682305,
+        102062887
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1365",
+        "eurostat:nuts_2021_id":"CH1365",
         "gn:id":7286275,
         "gp:id":12683837,
         "qs_pg:id":1071164
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3cc48fa310e556001f6093a4d987d10b",
+    "wof:geomhash":"bab39f9362fa2ac5692c6e8709bc6c15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404569961,
-    "wof:lastmodified":1598919262,
+    "wof:lastmodified":1684351740,
     "wof:name":"Lauerz",
     "wof:parent_id":102062887,
     "wof:placetype":"localadmin",
+    "wof:population":1100,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

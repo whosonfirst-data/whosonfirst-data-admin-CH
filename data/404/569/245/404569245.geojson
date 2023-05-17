@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4511",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zihlschlacht-Sitterdorf",
+    "eurostat:nuts_2021_id":"CH4511",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4511",
+    "eurostat:population":2385,
+    "eurostat:population_year":2020,
     "geom:area":0.001458,
-    "geom:area_square_m":12172665.506821,
+    "geom:area_square_m":12172665.50682,
     "geom:bbox":"9.233664,47.496197,9.316992,47.532121",
     "geom:latitude":47.514004,
     "geom:longitude":9.267744,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062955,
-        85682337
+        85682337,
+        102062955
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4511",
+        "eurostat:nuts_2021_id":"CH4511",
         "gp:id":12684662,
         "qs_pg:id":419832
     },
@@ -134,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f979b62e60b07acd64c14bbb15419c4f",
+    "wof:geomhash":"4823f074bba6a98196f325a939395c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404569245,
-    "wof:lastmodified":1598919183,
+    "wof:lastmodified":1684351732,
     "wof:name":"Zihlschlacht-Sitterdorf",
     "wof:parent_id":102062955,
     "wof:placetype":"localadmin",
+    "wof:population":2385,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

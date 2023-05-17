@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1342",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Galgenen",
+    "eurostat:nuts_2021_id":"CH1342",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1342",
+    "eurostat:population":5211,
+    "eurostat:population_year":2020,
     "geom:area":0.001574,
-    "geom:area_square_m":13229850.716226,
+    "geom:area_square_m":13229850.716227,
     "geom:bbox":"8.846837,47.143821,8.899575,47.191554",
     "geom:latitude":47.166199,
     "geom:longitude":8.872328,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062927,
-        85682305
+        85682305,
+        102062927
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1342",
+        "eurostat:nuts_2021_id":"CH1342",
         "gn:id":7285885,
         "gp:id":20075437,
         "qs_pg:id":909011
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fdf3d38c64fcab78602cbf96d730e92a",
+    "wof:geomhash":"e74140aa6d4ffa56a2dbb649c9ac18f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404569105,
-    "wof:lastmodified":1598919157,
+    "wof:lastmodified":1684351730,
     "wof:name":"Galgenen",
     "wof:parent_id":102062927,
     "wof:placetype":"localadmin",
+    "wof:population":5211,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

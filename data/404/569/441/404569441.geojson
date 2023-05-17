@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4671",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kreuzlingen",
+    "eurostat:nuts_2021_id":"CH4671",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4671",
+    "eurostat:population":22004,
+    "eurostat:population_year":2020,
     "geom:area":0.001384,
-    "geom:area_square_m":11527994.819071,
+    "geom:area_square_m":11527994.819073,
     "geom:bbox":"9.140093,47.620841,9.205885,47.660306",
     "geom:latitude":47.639804,
     "geom:longitude":9.172733,
@@ -169,6 +181,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -177,6 +191,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4671",
+        "eurostat:nuts_2021_id":"CH4671",
         "gn:id":7286222,
         "gp:id":12683379,
         "qs_pg:id":907139
@@ -189,7 +205,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5681bcf92814912e7c8c2724d314f5d8",
+    "wof:geomhash":"2912ea736eeda40f5b6d3a88392e68ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,10 +216,12 @@
         }
     ],
     "wof:id":404569441,
-    "wof:lastmodified":1617131476,
+    "wof:lastmodified":1684351734,
     "wof:name":"Kreuzlingen",
     "wof:parent_id":102062953,
     "wof:placetype":"localadmin",
+    "wof:population":22004,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

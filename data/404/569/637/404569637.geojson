@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2831",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pratteln",
+    "eurostat:nuts_2021_id":"CH2831",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2831",
+    "eurostat:population":16626,
+    "eurostat:population_year":2020,
     "geom:area":0.001278,
-    "geom:area_square_m":10675142.247428,
+    "geom:area_square_m":10675142.247429,
     "geom:bbox":"7.666121,47.496868,7.720648,47.535182",
     "geom:latitude":47.51849,
     "geom:longitude":7.692715,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062929,
-        85682361
+        85682361,
+        102062929
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2831",
+        "eurostat:nuts_2021_id":"CH2831",
         "gn:id":7286828,
         "gp:id":12684219,
         "qs_pg:id":1109235
@@ -144,7 +160,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3e7f43d7a88ba3a842f7761f0b82cf8f",
+    "wof:geomhash":"26ed799069f5d814485b6838ab7ece07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404569637,
-    "wof:lastmodified":1598919325,
+    "wof:lastmodified":1684351736,
     "wof:name":"Pratteln",
     "wof:parent_id":102062929,
     "wof:placetype":"localadmin",
+    "wof:population":16626,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

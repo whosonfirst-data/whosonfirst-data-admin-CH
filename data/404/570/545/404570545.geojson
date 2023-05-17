@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4286",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uerkheim",
+    "eurostat:nuts_2021_id":"CH4286",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4286",
+    "eurostat:population":1334,
+    "eurostat:population_year":2020,
     "geom:area":0.000844,
-    "geom:area_square_m":7073200.050568,
+    "geom:area_square_m":7073200.050569,
     "geom:bbox":"7.983229,47.290294,8.035754,47.316309",
     "geom:latitude":47.303619,
     "geom:longitude":8.009038,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062851,
-        85682329
+        85682329,
+        102062851
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4286",
+        "eurostat:nuts_2021_id":"CH4286",
         "gn:id":7287361,
         "gp:id":12684532,
         "qs_pg:id":952932
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d0656698e564487813f6a1746b99bef5",
+    "wof:geomhash":"09f1b585474c58d5c234c948ba870876",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404570545,
-    "wof:lastmodified":1598920621,
+    "wof:lastmodified":1684351747,
     "wof:name":"Uerkheim",
     "wof:parent_id":102062851,
     "wof:placetype":"localadmin",
+    "wof:population":1334,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

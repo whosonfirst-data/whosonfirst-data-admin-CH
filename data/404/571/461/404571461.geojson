@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0948",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Forst-L\u00e4ngenb\u00fchl",
+    "eurostat:nuts_2021_id":"CH0948",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0948",
+    "eurostat:population":765,
+    "eurostat:population_year":2020,
     "geom:area":0.00053,
     "geom:area_square_m":4486277.274428,
     "geom:bbox":"7.516699,46.747715,7.552473,46.774948",
@@ -108,19 +120,24 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0948",
+        "eurostat:nuts_2021_id":"CH0948"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6836e4cc95bbbfe6237aff38fc93eff0",
+    "wof:geomhash":"90c47a32cfe520157e5e3decdb484759",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":404571461,
-    "wof:lastmodified":1598920204,
+    "wof:lastmodified":1684351759,
     "wof:name":"Forst-L\u00e4ngenb\u00fchl",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":765,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

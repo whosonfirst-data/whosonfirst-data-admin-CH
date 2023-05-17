@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3544",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berg\u00fcn Filisur",
+    "eurostat:nuts_2021_id":"CH3544",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3544",
+    "eurostat:population":905,
+    "eurostat:population_year":2020,
     "geom:area":0.022335,
     "geom:area_square_m":189651527.012743,
     "geom:bbox":"9.64602836681,46.5499334614,9.88792223315,46.7007216009",
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -52,8 +66,12 @@
         102062885
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3544",
+        "eurostat:nuts_2021_id":"CH3544"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"145aaeb8b7e6ca36435ed7cb79a8bd4d",
+    "wof:geomhash":"59ad17f673daf481883f9f4f489f2bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +82,12 @@
         }
     ],
     "wof:id":1394254025,
-    "wof:lastmodified":1566640373,
+    "wof:lastmodified":1684351779,
     "wof:name":"Berg\u00fcn Filisur",
     "wof:parent_id":102062885,
     "wof:placetype":"localadmin",
+    "wof:population":905,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Collombey-Muraz",
+    "eurostat:nuts_2021_id":"CH6152",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6152",
+    "eurostat:population":9256,
+    "eurostat:population_year":2020,
     "geom:area":0.003472,
-    "geom:area_square_m":29675191.292479,
+    "geom:area_square_m":29675191.292478,
     "geom:bbox":"6.854459,46.249427,6.962277,46.324435",
     "geom:latitude":46.280063,
     "geom:longitude":6.911002,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063065,
-        85682281
+        85682281,
+        102063065
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6152",
+        "eurostat:nuts_2021_id":"CH6152",
         "gn:id":7285528,
         "gp:id":12683213,
         "qs_pg:id":61807
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16c32d9dccbba5d3ac6dacc1eb6bcd4d",
+    "wof:geomhash":"009a52f4afb471afd3e2c10b66f80860",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404568285,
-    "wof:lastmodified":1598919678,
+    "wof:lastmodified":1684351715,
     "wof:name":"Collombey-Muraz",
     "wof:parent_id":102063065,
     "wof:placetype":"localadmin",
+    "wof:population":9256,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

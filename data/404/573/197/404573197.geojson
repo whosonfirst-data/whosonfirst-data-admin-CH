@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0736",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hagneck",
+    "eurostat:nuts_2021_id":"CH0736",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0736",
+    "eurostat:population":413,
+    "eurostat:population_year":2020,
     "geom:area":0.000218,
     "geom:area_square_m":1834430.510736,
     "geom:bbox":"7.175036,47.042303,7.20351,47.063293",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0736",
+        "eurostat:nuts_2021_id":"CH0736",
         "gn:id":7286025,
         "gp:id":20075407,
         "qs_pg:id":1189889
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f1b3747f20a2f9ea631a9ddc32b504f9",
+    "wof:geomhash":"73b6913d7b88976138e83b7fe759e13d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404573197,
-    "wof:lastmodified":1598919952,
+    "wof:lastmodified":1684351772,
     "wof:name":"Hagneck",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":413,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

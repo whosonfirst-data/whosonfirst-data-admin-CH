@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"N\u00fcrensdorf",
+    "eurostat:nuts_2021_id":"CH0064",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0064",
+    "eurostat:population":5629,
+    "eurostat:population_year":2020,
     "geom:area":0.001198,
-    "geom:area_square_m":10013415.346024,
+    "geom:area_square_m":10013415.346025,
     "geom:bbox":"8.623958,47.435124,8.678805,47.478937",
     "geom:latitude":47.457489,
     "geom:longitude":8.649205,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063019,
-        85682309
+        85682309,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0064",
+        "eurostat:nuts_2021_id":"CH0064",
         "gn:id":7286668,
         "gp:id":12684102,
         "qs_pg:id":1310939
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"33322c711e1aac2c7ee78c0d63ba3a53",
+    "wof:geomhash":"f74eca72b0ae83437b418fcc999c0735",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404569761,
-    "wof:lastmodified":1598919282,
+    "wof:lastmodified":1684351738,
     "wof:name":"N\u00fcrensdorf",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",
+    "wof:population":5629,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

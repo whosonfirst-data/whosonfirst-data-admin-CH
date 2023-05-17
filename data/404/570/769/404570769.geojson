@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5064",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bodio",
+    "eurostat:nuts_2021_id":"CH5064",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5064",
+    "eurostat:population":992,
+    "eurostat:population_year":2020,
     "geom:area":0.000758,
     "geom:area_square_m":6462320.893691,
     "geom:bbox":"8.893992,46.368959,8.941853,46.405634",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062931,
-        85682269
+        85682269,
+        102062931
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5064",
+        "eurostat:nuts_2021_id":"CH5064",
         "gn:id":7285276,
         "gp:id":12682998,
         "qs_pg:id":968685
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"816dbe3ee981383bbfbed2059d6a74bd",
+    "wof:geomhash":"3e3ee69b8adf9793f07ce8889f510e32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404570769,
-    "wof:lastmodified":1598920640,
+    "wof:lastmodified":1684351750,
     "wof:name":"Bodio",
     "wof:parent_id":102062931,
     "wof:placetype":"localadmin",
+    "wof:population":992,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

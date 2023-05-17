@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Spreitenbach",
+    "eurostat:nuts_2021_id":"CH4040",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4040",
+    "eurostat:population":11881,
+    "eurostat:population_year":2020,
     "geom:area":0.001025,
-    "geom:area_square_m":8572271.213877,
+    "geom:area_square_m":8572271.213875,
     "geom:bbox":"8.341128,47.400736,8.392255,47.434986",
     "geom:latitude":47.4179,
     "geom:longitude":8.367374,
@@ -130,14 +142,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062843,
-        85682329
+        85682329,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4040",
+        "eurostat:nuts_2021_id":"CH4040",
         "gn:id":7287207,
         "gp:id":12684429,
         "qs_pg:id":539047
@@ -150,7 +166,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"96afd90f00afb87f191b15d711980c98",
+    "wof:geomhash":"841d455205d1003bfb54f03292293c0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404570127,
-    "wof:lastmodified":1598920611,
+    "wof:lastmodified":1684351743,
     "wof:name":"Spreitenbach",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
+    "wof:population":11881,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

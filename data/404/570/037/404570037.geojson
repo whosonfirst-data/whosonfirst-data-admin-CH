@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6459",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saint-Blaise",
+    "eurostat:nuts_2021_id":"CH6459",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6459",
+    "eurostat:population":3212,
+    "eurostat:population_year":2020,
     "geom:area":0.001054,
-    "geom:area_square_m":8880262.051679,
+    "geom:area_square_m":8880262.051677,
     "geom:bbox":"6.96427426795,47.0083926217,7.0130510811,47.0513397676",
     "geom:latitude":47.028765,
     "geom:longitude":6.988989,
@@ -39,18 +51,23 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
         85682359
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6459",
+        "eurostat:nuts_2021_id":"CH6459"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"47dfd9a1dae3f29e8ccd480b17c54e3a",
+    "wof:geomhash":"79ca83966f666cc8b8d986efa7b2d3e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +77,12 @@
         }
     ],
     "wof:id":404570037,
-    "wof:lastmodified":1582223099,
+    "wof:lastmodified":1684351742,
     "wof:name":"Saint-Blaise",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":3212,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

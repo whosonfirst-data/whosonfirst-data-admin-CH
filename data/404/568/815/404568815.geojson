@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3423",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Niederhelfenschwil",
+    "eurostat:nuts_2021_id":"CH3423",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3423",
+    "eurostat:population":3149,
+    "eurostat:population_year":2020,
     "geom:area":0.001953,
-    "geom:area_square_m":16325418.074081,
+    "geom:area_square_m":16325418.074084,
     "geom:bbox":"9.118054,47.457335,9.209905,47.504082",
     "geom:latitude":47.478395,
     "geom:longitude":9.16563,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062947,
-        85682341
+        85682341,
+        102062947
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3423",
+        "eurostat:nuts_2021_id":"CH3423",
         "gn:id":7286642,
         "gp:id":12684667,
         "qs_pg:id":891653
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"287a875f7daf04eb99b1621d82508c37",
+    "wof:geomhash":"6015abebcc37e34a849118d903ae0042",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568815,
-    "wof:lastmodified":1598919669,
+    "wof:lastmodified":1684351725,
     "wof:name":"Niederhelfenschwil",
     "wof:parent_id":102062947,
     "wof:placetype":"localadmin",
+    "wof:population":3149,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

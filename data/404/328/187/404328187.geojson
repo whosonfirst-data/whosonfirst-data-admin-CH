@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Romoos",
+    "eurostat:nuts_2021_id":"CH1007",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1007",
+    "eurostat:population":666,
+    "eurostat:population_year":2020,
     "geom:area":0.004422,
     "geom:area_square_m":37291888.055069,
     "geom:bbox":"7.948242,46.969711,8.05802,47.036497",
@@ -111,6 +123,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1007",
+        "eurostat:nuts_2021_id":"CH1007",
         "gn:id":7286944,
         "gp:id":12683389,
         "qs_pg:id":1261576
@@ -128,7 +144,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"324256cbd56c46c438218b74e10c3d61",
+    "wof:geomhash":"ec158e28481de83395f3c8816696da06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328187,
-    "wof:lastmodified":1617131295,
+    "wof:lastmodified":1684351691,
     "wof:name":"Romoos",
     "wof:parent_id":1394137073,
     "wof:placetype":"localadmin",
+    "wof:population":666,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

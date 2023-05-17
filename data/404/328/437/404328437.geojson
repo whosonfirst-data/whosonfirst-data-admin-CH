@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Knutwil",
+    "eurostat:nuts_2021_id":"CH1089",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1089",
+    "eurostat:population":2229,
+    "eurostat:population_year":2020,
     "geom:area":0.001157,
     "geom:area_square_m":9717171.748526,
     "geom:bbox":"8.04773,47.172432,8.094327,47.217433",
@@ -117,14 +129,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137077,
-        85682319
+        85682319,
+        1394137077
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1089",
+        "eurostat:nuts_2021_id":"CH1089",
         "gn:id":7286212,
         "gp:id":12683776,
         "qs_pg:id":238928
@@ -134,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"851ad655d90f0ef7379368a6dbbeb1ee",
+    "wof:geomhash":"ea35f285a20122d0264d7ba98e1c7ca1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404328437,
-    "wof:lastmodified":1598920322,
+    "wof:lastmodified":1684351696,
     "wof:name":"Knutwil",
     "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",
+    "wof:population":2229,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

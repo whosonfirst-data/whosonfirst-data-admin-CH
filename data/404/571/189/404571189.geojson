@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0992",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wangen an der Aare",
+    "eurostat:nuts_2021_id":"CH0992",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0992",
+    "eurostat:population":2312,
+    "eurostat:population_year":2020,
     "geom:area":0.00062,
-    "geom:area_square_m":5207993.670439,
+    "geom:area_square_m":5207993.670438,
     "geom:bbox":"7.616414,47.221859,7.675123,47.239535",
     "geom:latitude":47.231102,
     "geom:longitude":7.650162,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0992",
+        "eurostat:nuts_2021_id":"CH0992",
         "gn:id":7287539,
         "gp:id":12684611,
         "qs_pg:id":671678
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4a67bbdc89e36d766c5ba481afbccf43",
+    "wof:geomhash":"5cadc535ddddb0f2485b681a38556464",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404571189,
-    "wof:lastmodified":1598920100,
+    "wof:lastmodified":1684351756,
     "wof:name":"Wangen an der Aare",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":2312,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6625",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hermance",
+    "eurostat:nuts_2021_id":"CH6625",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6625",
+    "eurostat:population":1062,
+    "eurostat:population_year":2020,
     "geom:area":0.000573,
     "geom:area_square_m":4892613.978463,
     "geom:bbox":"6.21011,46.285168,6.253009,46.311879",
@@ -113,14 +125,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6625",
+        "eurostat:nuts_2021_id":"CH6625",
         "gn:id":7286069,
         "gp:id":12683671,
         "qs_pg:id":247871
@@ -133,7 +149,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"100bf13b34371cedf3f58a187396dda3",
+    "wof:geomhash":"ec1d4abc9dd1bd00582e6610bffbbd0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404328691,
-    "wof:lastmodified":1598920466,
+    "wof:lastmodified":1684351699,
     "wof:name":"Hermance",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":1062,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6293",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stalden (VS)",
+    "eurostat:nuts_2021_id":"CH6293",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6293",
+    "eurostat:population":1086,
+    "eurostat:population_year":2020,
     "geom:area":0.001225,
-    "geom:area_square_m":10479368.465145,
+    "geom:area_square_m":10479368.465144,
     "geom:bbox":"7.847541,46.206514,7.917572,46.257673",
     "geom:latitude":46.23338,
     "geom:longitude":7.877134,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062859,
-        85682281
+        85682281,
+        102062859
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6293",
+        "eurostat:nuts_2021_id":"CH6293",
         "gn:id":7287214,
         "qs_pg:id":106686
     },
@@ -128,7 +144,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c512a434c58ed85bdbe5b3ba509f91c5",
+    "wof:geomhash":"aede1c5134a16273ad76ec75e174d0b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404569677,
-    "wof:lastmodified":1598919315,
+    "wof:lastmodified":1684351736,
     "wof:name":"Stalden",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",
+    "wof:population":1086,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2296",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Heitenried",
+    "eurostat:nuts_2021_id":"CH2296",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2296",
+    "eurostat:population":1403,
+    "eurostat:population_year":2020,
     "geom:area":0.001076,
     "geom:area_square_m":9103945.754652,
     "geom:bbox":"7.275809,46.818161,7.331226,46.853701",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062891,
-        85682301
+        85682301,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2296",
+        "eurostat:nuts_2021_id":"CH2296",
         "gn:id":7286053,
         "gp:id":12683657,
         "qs_pg:id":1163634
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee83dcf61bdfef6fcf1f93914184d8bd",
+    "wof:geomhash":"50e20330a6ac89e19e293189060070f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404569979,
-    "wof:lastmodified":1598919237,
+    "wof:lastmodified":1684351741,
     "wof:name":"Heitenried",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",
+    "wof:population":1403,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

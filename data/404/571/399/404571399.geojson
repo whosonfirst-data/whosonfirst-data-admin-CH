@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3231",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Au (SG)",
+    "eurostat:nuts_2021_id":"CH3231",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3231",
+    "eurostat:population":7789,
+    "eurostat:population_year":2020,
     "geom:area":0.000555,
     "geom:area_square_m":4641089.93789,
     "geom:bbox":"9.6193334015,47.4056670673,9.65105528099,47.4438330302",
@@ -52,6 +64,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -60,6 +74,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3231",
+        "eurostat:nuts_2021_id":"CH3231",
         "gn:id":7285118,
         "qs_pg:id":671169
     },
@@ -68,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e7ac53675c55f1a3a56f33f0d3518a5e",
+    "wof:geomhash":"e3dafa614fc2f006d9685bffd06b8e67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,10 +95,12 @@
         }
     ],
     "wof:id":404571399,
-    "wof:lastmodified":1582223047,
+    "wof:lastmodified":1684351758,
     "wof:name":"Au",
     "wof:parent_id":102063005,
     "wof:placetype":"localadmin",
+    "wof:population":7789,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

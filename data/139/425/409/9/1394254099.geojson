@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belfaux",
+    "eurostat:nuts_2021_id":"CH2175",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2175",
+    "eurostat:population":3283,
+    "eurostat:population_year":2020,
     "geom:area":0.001047,
     "geom:area_square_m":8856832.570672,
     "geom:bbox":"7.06160438671,46.8078042176,7.1200600016,46.848962326",
@@ -90,6 +102,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -97,8 +111,12 @@
         102063029
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2175",
+        "eurostat:nuts_2021_id":"CH2175"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"3439ea1ffff75a0532c2f1595405f9e7",
+    "wof:geomhash":"c375f2587036433c95273c0ebf73ad2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +127,12 @@
         }
     ],
     "wof:id":1394254099,
-    "wof:lastmodified":1566640357,
+    "wof:lastmodified":1684351781,
     "wof:name":"Belfaux",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":3283,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

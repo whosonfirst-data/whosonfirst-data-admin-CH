@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"W\u00fcrenlos",
+    "eurostat:nuts_2021_id":"CH4048",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4048",
+    "eurostat:population":6484,
+    "eurostat:population_year":2020,
     "geom:area":0.001077,
-    "geom:area_square_m":9003379.608313,
+    "geom:area_square_m":9003379.608311,
     "geom:bbox":"8.336645,47.40751,8.440359,47.466225",
     "geom:latitude":47.44727,
     "geom:longitude":8.363711,
@@ -114,14 +126,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062843,
-        85682329
+        85682329,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4048",
+        "eurostat:nuts_2021_id":"CH4048",
         "gn:id":7287615,
         "gp:id":12684651,
         "qs_pg:id":248693
@@ -133,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0f1238d91ad2532063e77f9116f3cf0b",
+    "wof:geomhash":"bf3799bacc73e06bf2261087cc93c0e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":1175611177,
-    "wof:lastmodified":1598916366,
+    "wof:lastmodified":1684351775,
     "wof:name":"W\u00fcrenlos",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
+    "wof:population":6484,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

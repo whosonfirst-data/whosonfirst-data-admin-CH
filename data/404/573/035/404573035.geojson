@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2859",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00fcmlingen",
+    "eurostat:nuts_2021_id":"CH2859",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2859",
+    "eurostat:population":420,
+    "eurostat:population_year":2020,
     "geom:area":0.000272,
     "geom:area_square_m":2273304.709271,
     "geom:bbox":"7.844518,47.419681,7.870951,47.438712",
@@ -105,14 +117,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062819,
-        85682361
+        85682361,
+        102062819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2859",
+        "eurostat:nuts_2021_id":"CH2859"
+    },
     "wof:coterminous":[
         1125915605
     ],
@@ -120,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f71511718b27213f0c824d5135f1d885",
+    "wof:geomhash":"97748dea22c034048fb4d7a4a5557b8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":404573035,
-    "wof:lastmodified":1598919972,
+    "wof:lastmodified":1684351770,
     "wof:name":"R\u00fcmlingen",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",
+    "wof:population":420,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

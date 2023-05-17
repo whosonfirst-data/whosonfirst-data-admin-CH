@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2618",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Himmelried",
+    "eurostat:nuts_2021_id":"CH2618",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2618",
+    "eurostat:population":909,
+    "eurostat:population_year":2020,
     "geom:area":0.000718,
-    "geom:area_square_m":6008064.53088,
+    "geom:area_square_m":6008064.530881,
     "geom:bbox":"7.567463,47.411342,7.61754,47.4369",
     "geom:latitude":47.424789,
     "geom:longitude":7.590589,
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137121,
-        85682365
+        85682365,
+        1394137121
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2618",
+        "eurostat:nuts_2021_id":"CH2618",
         "gp:id":12683683,
         "qs_pg:id":1024268
     },
@@ -124,7 +140,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f325d12f474d59e95b2876a42c12bbb5",
+    "wof:geomhash":"d523d9bfc9ac7ed3fced83af57c89626",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404328615,
-    "wof:lastmodified":1598920441,
+    "wof:lastmodified":1684351698,
     "wof:name":"Himmelried",
     "wof:parent_id":1394137121,
     "wof:placetype":"localadmin",
+    "wof:population":909,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

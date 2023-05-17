@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2549",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kammersrohr",
+    "eurostat:nuts_2021_id":"CH2549",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2549",
+    "eurostat:population":28,
+    "eurostat:population_year":2020,
     "geom:area":0.000113,
-    "geom:area_square_m":947839.31784,
+    "geom:area_square_m":947839.317841,
     "geom:bbox":"7.586677,47.249742,7.597724,47.26375",
     "geom:latitude":47.256657,
     "geom:longitude":7.592304,
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137087,
-        85682365
+        85682365,
+        1394137087
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2549",
+        "eurostat:nuts_2021_id":"CH2549",
         "gn:id":7286176,
         "gp:id":12684911,
         "qs_pg:id":44021
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"445f13d864a33f32d0c54af62e35887d",
+    "wof:geomhash":"61e1c37be06825fde62d46ac0bc98893",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328917,
-    "wof:lastmodified":1598920501,
+    "wof:lastmodified":1684351701,
     "wof:name":"Kammersrohr",
     "wof:parent_id":1394137087,
     "wof:placetype":"localadmin",
+    "wof:population":28,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

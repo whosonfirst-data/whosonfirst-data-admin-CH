@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5693",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montanaire",
+    "eurostat:nuts_2021_id":"CH5693",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5693",
+    "eurostat:population":2683,
+    "eurostat:population_year":2020,
     "geom:area":0.00394,
     "geom:area_square_m":33412008.638564,
     "geom:bbox":"6.69591256544,46.6520973141,6.80677639798,46.7362147834",
@@ -54,6 +66,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -61,8 +75,12 @@
         102062949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5693",
+        "eurostat:nuts_2021_id":"CH5693"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"72987e71f89dcb859328bf861f752fa0",
+    "wof:geomhash":"ba7bb3d81a0e9f141fd5b69a391885cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +91,12 @@
         }
     ],
     "wof:id":1394254013,
-    "wof:lastmodified":1566640354,
+    "wof:lastmodified":1684351778,
     "wof:name":"Montanaire",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":2683,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5710",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coinsins",
+    "eurostat:nuts_2021_id":"CH5710",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5710",
+    "eurostat:population":497,
+    "eurostat:population_year":2020,
     "geom:area":0.00034,
-    "geom:area_square_m":2900536.909554,
+    "geom:area_square_m":2900536.909555,
     "geom:bbox":"6.223478,46.415289,6.251501,46.434075",
     "geom:latitude":46.423351,
     "geom:longitude":6.237359,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5710",
+        "eurostat:nuts_2021_id":"CH5710",
         "gn:id":7285525,
         "qs_pg:id":904145
     },
@@ -119,7 +135,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"58c861543d7bac8924e4f8f4127ceda0",
+    "wof:geomhash":"6441222db7181af35e9fbcd0774ace41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404572159,
-    "wof:lastmodified":1598919763,
+    "wof:lastmodified":1684351767,
     "wof:name":"Coinsins",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":497,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberkirch",
+    "eurostat:nuts_2021_id":"CH1095",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1095",
+    "eurostat:population":4707,
+    "eurostat:population_year":2020,
     "geom:area":0.001299,
-    "geom:area_square_m":10925251.734554,
+    "geom:area_square_m":10925251.734552,
     "geom:bbox":"8.07576873625,47.1380632991,8.14222245293,47.1710950684",
     "geom:latitude":47.154899,
     "geom:longitude":8.106947,
@@ -93,6 +105,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1095",
+        "eurostat:nuts_2021_id":"CH1095",
         "gn:id":7286700,
         "gp:id":12684130,
         "qs_pg:id":1019229
@@ -113,7 +129,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6a7180a361f5d0e8ccf8fbe47c204ce3",
+    "wof:geomhash":"d73ebb94a7d6453d00e36654f86a6d99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":404328415,
-    "wof:lastmodified":1582223073,
+    "wof:lastmodified":1684351695,
     "wof:name":"Oberkirch",
     "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",
+    "wof:population":4707,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

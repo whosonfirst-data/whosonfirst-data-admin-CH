@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3668",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Thusis",
+    "eurostat:nuts_2021_id":"CH3668",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3668",
+    "eurostat:population":3217,
+    "eurostat:population_year":2020,
     "geom:area":0.001972,
-    "geom:area_square_m":16728549.163771,
+    "geom:area_square_m":16728549.163774,
     "geom:bbox":"9.408926,46.648334,9.514002,46.715871",
     "geom:latitude":46.67826,
     "geom:longitude":9.468166,
@@ -127,14 +139,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137069,
-        85682255
+        85682255,
+        1394137069
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3668",
+        "eurostat:nuts_2021_id":"CH3668",
         "gn:id":7287310,
         "gp:id":12684499,
         "qs_pg:id":1309664
@@ -144,7 +160,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d0b1ff2025cb0280a708f6819b06679a",
+    "wof:geomhash":"4d7c4ea393c97e25630ee722b0822641",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404570643,
-    "wof:lastmodified":1598920543,
+    "wof:lastmodified":1684351749,
     "wof:name":"Thusis",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
+    "wof:population":3217,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

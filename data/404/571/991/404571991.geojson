@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monteggio",
+    "eurostat:nuts_2021_id":"CH5202",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5202",
+    "eurostat:population":870,
+    "eurostat:population_year":2020,
     "geom:area":0.00039,
     "geom:area_square_m":3349320.220826,
     "geom:bbox":"8.785883,45.987304,8.826725,46.00811",
@@ -102,14 +114,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5202",
+        "eurostat:nuts_2021_id":"CH5202"
+    },
     "wof:coterminous":[
         1126016203
     ],
@@ -117,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ba79b863982ca5c56026e5e074d84dfb",
+    "wof:geomhash":"05f97aa4939edc05e1763c02e389f068",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404571991,
-    "wof:lastmodified":1598920007,
+    "wof:lastmodified":1684351765,
     "wof:name":"Monteggio",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":870,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

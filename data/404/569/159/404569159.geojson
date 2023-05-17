@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Richterswil",
+    "eurostat:nuts_2021_id":"CH0138",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0138",
+    "eurostat:population":13513,
+    "eurostat:population_year":2020,
     "geom:area":0.000894,
-    "geom:area_square_m":7513075.357452,
+    "geom:area_square_m":7513075.357454,
     "geom:bbox":"8.661792,47.182351,8.71331,47.22015",
     "geom:latitude":47.200765,
     "geom:longitude":8.686667,
@@ -137,14 +149,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394212863,
-        85682309
+        85682309,
+        1394212863
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0138",
+        "eurostat:nuts_2021_id":"CH0138",
         "gn:id":7286894,
         "gp:id":12684261,
         "qs_pg:id":1060890
@@ -154,7 +170,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0f792c2f8d0d0a5839f41157bc8b9d5d",
+    "wof:geomhash":"cc5d8cfddce1cf43098f12323113f852",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,10 +181,12 @@
         }
     ],
     "wof:id":404569159,
-    "wof:lastmodified":1598919154,
+    "wof:lastmodified":1684351731,
     "wof:name":"Richterswil",
     "wof:parent_id":1394212863,
     "wof:placetype":"localadmin",
+    "wof:population":13513,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

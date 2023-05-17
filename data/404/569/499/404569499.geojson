@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3234",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Diepoldsau",
+    "eurostat:nuts_2021_id":"CH3234",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3234",
+    "eurostat:population":6471,
+    "eurostat:population_year":2020,
     "geom:area":0.001339,
-    "geom:area_square_m":11214024.022778,
+    "geom:area_square_m":11214024.022776,
     "geom:bbox":"9.616566,47.36508,9.674136,47.404625",
     "geom:latitude":47.383992,
     "geom:longitude":9.646949,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063005,
-        85682341
+        85682341,
+        102063005
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3234",
+        "eurostat:nuts_2021_id":"CH3234",
         "gp:id":12683304,
         "qs_pg:id":1049622
     },
@@ -125,7 +141,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"517cc7fcf7cfaac8f8b1846781417aee",
+    "wof:geomhash":"2f95c5d0cb2d77c4fd44cee51f045a99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404569499,
-    "wof:lastmodified":1598919213,
+    "wof:lastmodified":1684351735,
     "wof:name":"Diepoldsau",
     "wof:parent_id":102063005,
     "wof:placetype":"localadmin",
+    "wof:population":6471,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

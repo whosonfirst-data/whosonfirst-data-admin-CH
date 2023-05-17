@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5861",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rolle",
+    "eurostat:nuts_2021_id":"CH5861",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5861",
+    "eurostat:population":6259,
+    "eurostat:population_year":2020,
     "geom:area":0.000324,
     "geom:area_square_m":2756431.666683,
     "geom:bbox":"6.31832,46.443757,6.351853,46.467877",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5861",
+        "eurostat:nuts_2021_id":"CH5861",
         "gn:id":7286935,
         "gp:id":12684285,
         "qs_pg:id":889383
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d736781d50544d2b38c551ed2949763",
+    "wof:geomhash":"4b092287c09db4ce481950dcdccbfc8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404572251,
-    "wof:lastmodified":1598919796,
+    "wof:lastmodified":1684351768,
     "wof:name":"Rolle",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":6259,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

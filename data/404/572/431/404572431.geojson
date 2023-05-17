@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4199",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Holderbank (AG)",
+    "eurostat:nuts_2021_id":"CH4199",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4199",
+    "eurostat:population":1320,
+    "eurostat:population_year":2020,
     "geom:area":0.000278,
     "geom:area_square_m":2323731.760503,
     "geom:bbox":"8.16195370954,47.4209490572,8.18507327874,47.4425356657",
@@ -79,6 +91,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -87,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4199",
+        "eurostat:nuts_2021_id":"CH4199",
         "gp:id":12685241,
         "qs_pg:id":1153998
     },
@@ -98,7 +114,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"411988021c09a130f8dc0fa0c459581f",
+    "wof:geomhash":"ef316f79759ca827e8c44f7b5171e670",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":404572431,
-    "wof:lastmodified":1582223029,
+    "wof:lastmodified":1684351770,
     "wof:name":"Holderbank",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",
+    "wof:population":1320,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

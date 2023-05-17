@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4228",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boswil",
+    "eurostat:nuts_2021_id":"CH4228",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4228",
+    "eurostat:population":2838,
+    "eurostat:population_year":2020,
     "geom:area":0.0014,
-    "geom:area_square_m":11743962.972446,
+    "geom:area_square_m":11743962.972448,
     "geom:bbox":"8.283672,47.274562,8.340923,47.328496",
     "geom:latitude":47.297618,
     "geom:longitude":8.308589,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062809,
-        85682329
+        85682329,
+        102062809
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4228",
+        "eurostat:nuts_2021_id":"CH4228",
         "gp:id":12685078,
         "qs_pg:id":1002873
     },
@@ -128,7 +144,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8cdf2de13016f9a31ce21443adc79419",
+    "wof:geomhash":"7bc6c341cd262e3530b02da4ce8852ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404569319,
-    "wof:lastmodified":1598919362,
+    "wof:lastmodified":1684351733,
     "wof:name":"Boswil",
     "wof:parent_id":102062809,
     "wof:placetype":"localadmin",
+    "wof:population":2838,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

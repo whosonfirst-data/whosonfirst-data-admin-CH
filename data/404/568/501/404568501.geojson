@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0769",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wimmis",
+    "eurostat:nuts_2021_id":"CH0769",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0769",
+    "eurostat:population":2537,
+    "eurostat:population_year":2020,
     "geom:area":0.002627,
-    "geom:area_square_m":22295662.205895,
+    "geom:area_square_m":22295662.205896,
     "geom:bbox":"7.606606,46.632646,7.683257,46.690645",
     "geom:latitude":46.661486,
     "geom:longitude":7.641623,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062831,
-        85682381
+        85682381,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0769",
+        "eurostat:nuts_2021_id":"CH0769",
         "gn:id":7287588,
         "gp:id":12683646,
         "qs_pg:id":1252198
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"bd7868ee6ca498d18c07744a4584b7bd",
+    "wof:geomhash":"e8cc7f4d95a492631a2e730784efa67b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404568501,
-    "wof:lastmodified":1598919622,
+    "wof:lastmodified":1684351719,
     "wof:name":"Wimmis",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",
+    "wof:population":2537,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

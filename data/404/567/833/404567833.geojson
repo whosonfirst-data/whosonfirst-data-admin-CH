@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH9155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lac de Neuch\u00e2tel (NE)",
+    "eurostat:nuts_2021_id":"CH9155",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH9155",
     "geom:area":0.009967,
-    "geom:area_square_m":84150968.271575,
+    "geom:area_square_m":84150968.27157,
     "geom:bbox":"6.755264,46.852957,7.039294,47.010895",
     "geom:latitude":46.93964,
     "geom:longitude":6.885411,
@@ -47,12 +57,15 @@
         85682359
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH9155",
+        "eurostat:nuts_2021_id":"CH9155"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1a8557e522affa7f585daa13d5b558e1",
+    "wof:geomhash":"8101ebbbd95fcf680a224722cf78144d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +75,7 @@
         }
     ],
     "wof:id":404567833,
-    "wof:lastmodified":1606859080,
+    "wof:lastmodified":1684351706,
     "wof:name":"Lac de Neuch\u00e2tel",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",

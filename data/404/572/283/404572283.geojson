@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5858",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luins",
+    "eurostat:nuts_2021_id":"CH5858",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5858",
+    "eurostat:population":611,
+    "eurostat:population_year":2020,
     "geom:area":0.000312,
     "geom:area_square_m":2659336.197939,
     "geom:bbox":"6.262907,46.429529,6.290814,46.459014",
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5858",
+        "eurostat:nuts_2021_id":"CH5858",
         "gn:id":7286385,
         "gp:id":12684586,
         "qs_pg:id":231530
@@ -111,7 +127,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a8f49d1ff4eec2561b4c90651418f528",
+    "wof:geomhash":"b62841cab173ef228e2c908835985500",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404572283,
-    "wof:lastmodified":1598919829,
+    "wof:lastmodified":1684351768,
     "wof:name":"Luins",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":611,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

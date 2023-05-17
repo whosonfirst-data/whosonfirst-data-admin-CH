@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Steg-Hohtenn",
+    "eurostat:nuts_2021_id":"CH6204",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6204",
+    "eurostat:population":1591,
+    "eurostat:population_year":2020,
     "geom:area":0.001639,
-    "geom:area_square_m":13994274.044423,
+    "geom:area_square_m":13994274.044429,
     "geom:bbox":"7.742991,46.304963,7.78742,46.364296",
     "geom:latitude":46.335658,
     "geom:longitude":7.765711,
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063037,
-        85682281
+        85682281,
+        102063037
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6204",
+        "eurostat:nuts_2021_id":"CH6204",
         "gn:id":7287225,
         "qs_pg:id":106688
     },
@@ -107,7 +123,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"97a74d46a3ad386278002ab9c444ceec",
+    "wof:geomhash":"9e7b1d31ebb08c84a6904de9709e189e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":404569021,
-    "wof:lastmodified":1598919316,
+    "wof:lastmodified":1684351729,
     "wof:name":"Steg-Hohtenn",
     "wof:parent_id":102063037,
     "wof:placetype":"localadmin",
+    "wof:population":1591,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

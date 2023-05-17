@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2825",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"F\u00fcllinsdorf",
+    "eurostat:nuts_2021_id":"CH2825",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2825",
+    "eurostat:population":4488,
+    "eurostat:population_year":2020,
     "geom:area":0.000551,
-    "geom:area_square_m":4605304.00856,
+    "geom:area_square_m":4605304.008561,
     "geom:bbox":"7.718203,47.497745,7.750493,47.528328",
     "geom:latitude":47.510948,
     "geom:longitude":7.732009,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062929,
-        85682361
+        85682361,
+        102062929
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2825",
+        "eurostat:nuts_2021_id":"CH2825",
         "gn:id":7285876,
         "gp:id":12682821,
         "qs_pg:id":987909
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"42de135e7800309d2af1103e62059aef",
+    "wof:geomhash":"39d7b994452287c752736f232ae8b30a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404571409,
-    "wof:lastmodified":1598920079,
+    "wof:lastmodified":1684351758,
     "wof:name":"F\u00fcllinsdorf",
     "wof:parent_id":102062929,
     "wof:placetype":"localadmin",
+    "wof:population":4488,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

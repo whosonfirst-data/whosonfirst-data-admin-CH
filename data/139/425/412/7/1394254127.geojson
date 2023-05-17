@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Appenzell",
+    "eurostat:nuts_2021_id":"CH3101",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH054",
+    "eurostat:nuts_2021_level_lau":"CH3101",
+    "eurostat:population":5795,
+    "eurostat:population_year":2020,
     "geom:area":0.002009,
-    "geom:area_square_m":16837437.101256,
+    "geom:area_square_m":16837458.088409,
     "geom:bbox":"9.371892,47.304273,9.479232,47.361275",
     "geom:latitude":47.336659,
     "geom:longitude":9.412709,
@@ -93,6 +105,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -100,8 +114,12 @@
         1394237541
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3101",
+        "eurostat:nuts_2021_id":"CH3101"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"bd1088289bfb8ddb030a9da8a6c8cf77",
+    "wof:geomhash":"96abcbc8983f9e38ef440cbfd20ac7fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,10 +130,12 @@
         }
     ],
     "wof:id":1394254127,
-    "wof:lastmodified":1636413511,
+    "wof:lastmodified":1684351782,
     "wof:name":"Appenzell",
     "wof:parent_id":1394237541,
     "wof:placetype":"localadmin",
+    "wof:population":5795,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

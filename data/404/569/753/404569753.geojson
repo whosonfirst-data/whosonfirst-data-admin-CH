@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2155",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vaulruz",
+    "eurostat:nuts_2021_id":"CH2155",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2155",
+    "eurostat:population":1063,
+    "eurostat:population_year":2020,
     "geom:area":0.001186,
-    "geom:area_square_m":10077091.920061,
+    "geom:area_square_m":10077091.920062,
     "geom:bbox":"6.955475,46.57357,7.021591,46.64123",
     "geom:latitude":46.614779,
     "geom:longitude":6.986354,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062999,
-        85682301
+        85682301,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2155",
+        "eurostat:nuts_2021_id":"CH2155",
         "gn:id":7287421,
         "gp:id":12683993,
         "qs_pg:id":1026186
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4d8d28db10d53b653bba3f7b401882fd",
+    "wof:geomhash":"b5de657ee07e35bf38b9fae4e5d80f42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404569753,
-    "wof:lastmodified":1598919159,
+    "wof:lastmodified":1684351738,
     "wof:name":"Vaulruz",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",
+    "wof:population":1063,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

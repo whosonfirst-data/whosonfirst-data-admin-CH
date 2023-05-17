@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0873",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kirchenthurnen",
+    "eurostat:nuts_2021_id":"CH0873",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0873",
+    "eurostat:population":293,
+    "eurostat:population_year":2020,
     "geom:area":0.000145,
     "geom:area_square_m":1229877.426577,
     "geom:bbox":"7.494137,46.817804,7.519127,46.830874",
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0873",
+        "eurostat:nuts_2021_id":"CH0873",
         "gn:id":7286201,
         "qs_pg:id":671400
     },
@@ -134,7 +150,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d2e05a761a24a10f874a0873bfc0d647",
+    "wof:geomhash":"cd83e17d75b53f64eb2d1c496e0c7af8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404573387,
-    "wof:lastmodified":1598919988,
+    "wof:lastmodified":1684351774,
     "wof:name":"Kirchenthurnen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":293,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

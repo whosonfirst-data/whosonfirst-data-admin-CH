@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stallikon",
+    "eurostat:nuts_2021_id":"CH0013",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0013",
+    "eurostat:population":3680,
+    "eurostat:population_year":2020,
     "geom:area":0.00143,
     "geom:area_square_m":11984287.823777,
     "geom:bbox":"8.46897,47.285605,8.510098,47.354719",
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062775,
-        85682309
+        85682309,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0013",
+        "eurostat:nuts_2021_id":"CH0013",
         "gn:id":7287215,
         "gp:id":12684450,
         "qs_pg:id":1197405
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"859d92b7b62464dd4c24a10b03011ad5",
+    "wof:geomhash":"327306a77c9f87d1fb959759001cbac8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404569273,
-    "wof:lastmodified":1598919180,
+    "wof:lastmodified":1684351733,
     "wof:name":"Stallikon",
     "wof:parent_id":102062775,
     "wof:placetype":"localadmin",
+    "wof:population":3680,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

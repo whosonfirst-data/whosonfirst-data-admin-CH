@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2823",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bubendorf",
+    "eurostat:nuts_2021_id":"CH2823",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2823",
+    "eurostat:population":4390,
+    "eurostat:population_year":2020,
     "geom:area":0.001288,
-    "geom:area_square_m":10769953.632243,
+    "geom:area_square_m":10769953.632242,
     "geom:bbox":"7.709791,47.420778,7.759758,47.466666",
     "geom:latitude":47.445809,
     "geom:longitude":7.736998,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062929,
-        85682361
+        85682361,
+        102062929
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2823",
+        "eurostat:nuts_2021_id":"CH2823",
         "gn:id":7285362,
         "gp:id":12683068,
         "qs_pg:id":242310
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4e8d3b8331467049c0dd11184402441a",
+    "wof:geomhash":"98e129cb31079ec433d1c020673f8238",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404569625,
-    "wof:lastmodified":1598919291,
+    "wof:lastmodified":1684351736,
     "wof:name":"Bubendorf",
     "wof:parent_id":102062929,
     "wof:placetype":"localadmin",
+    "wof:population":4390,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

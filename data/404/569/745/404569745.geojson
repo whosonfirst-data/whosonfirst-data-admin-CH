@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0944",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uetendorf",
+    "eurostat:nuts_2021_id":"CH0944",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0944",
+    "eurostat:population":5893,
+    "eurostat:population_year":2020,
     "geom:area":0.001198,
-    "geom:area_square_m":10147899.512538,
+    "geom:area_square_m":10147899.512537,
     "geom:bbox":"7.549536,46.759075,7.605252,46.792619",
     "geom:latitude":46.77497,
     "geom:longitude":7.574591,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0944",
+        "eurostat:nuts_2021_id":"CH0944",
         "gn:id":7287363,
         "gp:id":12684534,
         "qs_pg:id":893028
@@ -141,7 +157,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"bf0939a59b347cb5bf74c5e690e6c45f",
+    "wof:geomhash":"811ed6c273e469ccd5e4d1e684ab445e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404569745,
-    "wof:lastmodified":1598919362,
+    "wof:lastmodified":1684351738,
     "wof:name":"Uetendorf",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":5893,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

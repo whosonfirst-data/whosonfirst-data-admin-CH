@@ -4,6 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2391",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Staatswald Galm",
+    "eurostat:nuts_2021_id":"CH2391",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2391",
     "geom:area":0.000304,
     "geom:area_square_m":2565898.482231,
     "geom:bbox":"7.16342123121,46.9025147074,7.1921330477,46.9307705007",
@@ -46,12 +56,15 @@
         102062765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2391",
+        "eurostat:nuts_2021_id":"CH2391"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"57ede0b44365d9ccc8dd99cd0869666f",
+    "wof:geomhash":"480bc95159e1c202b2d55eff319d3182",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +75,7 @@
         }
     ],
     "wof:id":404572331,
-    "wof:lastmodified":1582223026,
+    "wof:lastmodified":1684351769,
     "wof:name":"Staatswald Galm",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bardonnex",
+    "eurostat:nuts_2021_id":"CH6605",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6605",
+    "eurostat:population":2299,
+    "eurostat:population_year":2020,
     "geom:area":0.000582,
     "geom:area_square_m":4983630.029808,
     "geom:bbox":"6.091745,46.140316,6.147266,46.158891",
@@ -109,19 +121,24 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6605",
+        "eurostat:nuts_2021_id":"CH6605"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5e79c226e2b482800420971394f8010d",
+    "wof:geomhash":"b3d083de0e79766ce8382fd03505f2e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +149,12 @@
         }
     ],
     "wof:id":404328683,
-    "wof:lastmodified":1598920446,
+    "wof:lastmodified":1684351699,
     "wof:name":"Bardonnex",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":2299,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

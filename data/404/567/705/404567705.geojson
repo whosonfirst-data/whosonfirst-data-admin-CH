@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6300",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zermatt",
+    "eurostat:nuts_2021_id":"CH6300",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6300",
+    "eurostat:population":5758,
+    "eurostat:population_year":2020,
     "geom:area":0.028198,
-    "geom:area_square_m":242253655.358948,
+    "geom:area_square_m":242253655.358943,
     "geom:bbox":"7.575005,45.916753,7.908689,46.064278",
     "geom:latitude":45.98971,
     "geom:longitude":7.752675,
@@ -214,14 +226,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062859,
-        85682281
+        85682281,
+        102062859
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6300",
+        "eurostat:nuts_2021_id":"CH6300",
         "gn:id":7287631,
         "gp:id":12682989,
         "qs_pg:id":671696
@@ -234,7 +250,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d85f3c8745db609e8e67de9f9c88e54",
+    "wof:geomhash":"6b7385f028b17b4f717647af5923022e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -245,10 +261,12 @@
         }
     ],
     "wof:id":404567705,
-    "wof:lastmodified":1598919415,
+    "wof:lastmodified":1684351702,
     "wof:name":"Zermatt",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",
+    "wof:population":5758,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

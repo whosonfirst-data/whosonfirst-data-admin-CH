@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gr\u00fcningen",
+    "eurostat:nuts_2021_id":"CH0116",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0116",
+    "eurostat:population":3475,
+    "eurostat:population_year":2020,
     "geom:area":0.001044,
-    "geom:area_square_m":8760436.467982,
+    "geom:area_square_m":8760436.467984,
     "geom:bbox":"8.73205372786,47.2654459528,8.79421481705,47.2930578727",
     "geom:latitude":47.279403,
     "geom:longitude":8.761805,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -126,6 +140,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0116",
+        "eurostat:nuts_2021_id":"CH0116",
         "gn:id":2660466,
         "gp:id":12683615,
         "qs_pg:id":1197145
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ac562f73295a9869131086f829d6b58e",
+    "wof:geomhash":"0df379f386a7228d944b2db582524f74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404570091,
-    "wof:lastmodified":1582223097,
+    "wof:lastmodified":1684351742,
     "wof:name":"Gr\u00fcningen",
     "wof:parent_id":102062967,
     "wof:placetype":"localadmin",
+    "wof:population":3475,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

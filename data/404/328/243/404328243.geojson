@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hohenrain",
+    "eurostat:nuts_2021_id":"CH1032",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1032",
+    "eurostat:population":2415,
+    "eurostat:population_year":2020,
     "geom:area":0.002792,
     "geom:area_square_m":23459397.045681,
     "geom:bbox":"8.262913,47.15313,8.358356,47.22346",
@@ -117,14 +129,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137081,
-        85682319
+        85682319,
+        1394137081
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1032",
+        "eurostat:nuts_2021_id":"CH1032",
         "gn:id":7286099,
         "gp:id":12683699,
         "qs_pg:id":43589
@@ -134,7 +150,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eafd1c6fbc74180ed62a75178ff86505",
+    "wof:geomhash":"57c29b92ffd5c0f83752169e50dd7ef2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404328243,
-    "wof:lastmodified":1598920311,
+    "wof:lastmodified":1684351692,
     "wof:name":"Hohenrain",
     "wof:parent_id":1394137081,
     "wof:placetype":"localadmin",
+    "wof:population":2415,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bellinzona",
+    "eurostat:nuts_2021_id":"CH5002",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5002",
+    "eurostat:population":43220,
+    "eurostat:population_year":2020,
     "geom:area":0.019137,
-    "geom:area_square_m":163768645.619005,
+    "geom:area_square_m":163768586.522369,
     "geom:bbox":"8.917007,46.121204,9.15968,46.297419",
     "geom:latitude":46.204391,
     "geom:longitude":9.019505,
@@ -225,6 +237,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -232,8 +246,12 @@
         102062991
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5002",
+        "eurostat:nuts_2021_id":"CH5002"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"562119588d9521b48bec8744f598c8f9",
+    "wof:geomhash":"48d168e975031447d4bb616d05f804a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -244,10 +262,12 @@
         }
     ],
     "wof:id":1394254063,
-    "wof:lastmodified":1636413512,
+    "wof:lastmodified":1684351780,
     "wof:name":"Bellinzona",
     "wof:parent_id":102062991,
     "wof:placetype":"localadmin",
+    "wof:population":43220,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

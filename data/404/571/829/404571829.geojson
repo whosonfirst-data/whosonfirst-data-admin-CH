@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4322",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wislikofen",
+    "eurostat:nuts_2021_id":"CH4322",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4322",
+    "eurostat:population":340,
+    "eurostat:population_year":2020,
     "geom:area":0.000448,
-    "geom:area_square_m":3735779.769042,
+    "geom:area_square_m":3735779.769043,
     "geom:bbox":"8.344717,47.542263,8.392014,47.563987",
     "geom:latitude":47.553688,
     "geom:longitude":8.366658,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062841,
-        85682329
+        85682329,
+        102062841
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4322",
+        "eurostat:nuts_2021_id":"CH4322",
         "gn:id":7287595,
         "gp:id":12685103,
         "qs_pg:id":1173585
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"87166b68a18c2f9b947c826f07d8350c",
+    "wof:geomhash":"29807f8cabb79ce75df35509b60b5d7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404571829,
-    "wof:lastmodified":1598920031,
+    "wof:lastmodified":1684351763,
     "wof:name":"Wislikofen",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",
+    "wof:population":340,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

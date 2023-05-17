@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Attinghausen",
+    "eurostat:nuts_2021_id":"CH1203",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH062",
+    "eurostat:nuts_2021_level_lau":"CH1203",
+    "eurostat:population":1725,
+    "eurostat:population_year":2020,
     "geom:area":0.005528,
-    "geom:area_square_m":46768102.35741,
+    "geom:area_square_m":46768102.357407,
     "geom:bbox":"8.464265,46.772529,8.635016,46.877991",
     "geom:latitude":46.828266,
     "geom:longitude":8.54377,
@@ -119,14 +131,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062879,
-        85682377
+        85682377,
+        102062879
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1203",
+        "eurostat:nuts_2021_id":"CH1203",
         "gn:id":7285112,
         "gp:id":12682842,
         "qs_pg:id":400268
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c1c55507932e8d25b9cc6df970040ef7",
+    "wof:geomhash":"963e0c97f21d826a9f6dd3f46c3d68a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404328163,
-    "wof:lastmodified":1598920404,
+    "wof:lastmodified":1684351690,
     "wof:name":"Attinghausen",
     "wof:parent_id":102062879,
     "wof:placetype":"localadmin",
+    "wof:population":1725,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

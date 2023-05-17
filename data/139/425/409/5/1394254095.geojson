@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Endingen",
+    "eurostat:nuts_2021_id":"CH4305",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4305",
+    "eurostat:population":2530,
+    "eurostat:population_year":2020,
     "geom:area":0.001423,
-    "geom:area_square_m":11879445.598317,
+    "geom:area_square_m":11879445.598318,
     "geom:bbox":"8.26299671899,47.5107313956,8.32210879605,47.5542560553",
     "geom:latitude":47.535173,
     "geom:longitude":8.289768,
@@ -57,6 +69,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -64,8 +78,12 @@
         102062841
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH4305",
+        "eurostat:nuts_2021_id":"CH4305"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"aae4e66cd955c64c11219c3afe8937be",
+    "wof:geomhash":"4b660dfc6331ff295e3271402d0391f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,10 +94,12 @@
         }
     ],
     "wof:id":1394254095,
-    "wof:lastmodified":1566640357,
+    "wof:lastmodified":1684351781,
     "wof:name":"Endingen",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",
+    "wof:population":2530,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

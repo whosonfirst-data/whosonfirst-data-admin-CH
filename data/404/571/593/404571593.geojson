@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morlon",
+    "eurostat:nuts_2021_id":"CH2143",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2143",
+    "eurostat:population":615,
+    "eurostat:population_year":2020,
     "geom:area":0.000498,
     "geom:area_square_m":4225454.779171,
     "geom:bbox":"7.075676,46.612151,7.10408,46.636155",
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062999,
-        85682301
+        85682301,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2143",
+        "eurostat:nuts_2021_id":"CH2143",
         "gn:id":7286558,
         "gp:id":12684847,
         "qs_pg:id":239620
@@ -120,7 +136,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a80ea4d372d369f3bf41e915b0a0a7b9",
+    "wof:geomhash":"397fabe1f0fdded17929645ac8a28078",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404571593,
-    "wof:lastmodified":1598920000,
+    "wof:lastmodified":1684351761,
     "wof:name":"Morlon",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",
+    "wof:population":615,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

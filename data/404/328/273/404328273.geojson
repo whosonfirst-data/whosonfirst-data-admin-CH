@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2556",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Selzach",
+    "eurostat:nuts_2021_id":"CH2556",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2556",
+    "eurostat:population":3447,
+    "eurostat:population_year":2020,
     "geom:area":0.002312,
-    "geom:area_square_m":19416942.943205,
+    "geom:area_square_m":19416942.94321,
     "geom:bbox":"7.40933,47.183938,7.485257,47.251662",
     "geom:latitude":47.217259,
     "geom:longitude":7.448411,
@@ -102,14 +114,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137087,
-        85682365
+        85682365,
+        1394137087
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2556",
+        "eurostat:nuts_2021_id":"CH2556",
         "gn:id":7287144,
         "gp:id":12684395,
         "qs_pg:id":500399
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6cc2fbc6df4a2cdf0ae2ea0f485bb65b",
+    "wof:geomhash":"9a75830793348863e8c475b76a3c5303",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404328273,
-    "wof:lastmodified":1598920291,
+    "wof:lastmodified":1684351693,
     "wof:name":"Selzach",
     "wof:parent_id":1394137087,
     "wof:placetype":"localadmin",
+    "wof:population":3447,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

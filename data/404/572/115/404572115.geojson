@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5812",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Champtauroz",
+    "eurostat:nuts_2021_id":"CH5812",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5812",
+    "eurostat:population":122,
+    "eurostat:population_year":2020,
     "geom:area":0.00036,
     "geom:area_square_m":3046127.392779,
     "geom:bbox":"6.77213,46.747607,6.798864,46.771518",
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062969,
-        85682325
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5812",
+        "eurostat:nuts_2021_id":"CH5812",
         "gn:id":7285468,
         "qs_pg:id":671226
     },
@@ -113,7 +129,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8c90a34b36fdbf1a7728d8c4d19f7820",
+    "wof:geomhash":"64517dddff17e514e5b8624bdd44a54c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":404572115,
-    "wof:lastmodified":1598919860,
+    "wof:lastmodified":1684351766,
     "wof:name":"Champtauroz",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":122,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

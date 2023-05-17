@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Schwyz",
+    "eurostat:name_local":"Schwyz",
+    "eurostat:nuts_2021_id":"CH063",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:population":163689,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.107496,
-    "geom:area_square_m":905467187.781534,
+    "geom:area_square_m":905467187.781571,
     "geom:bbox":"8.388742,46.885286,9.004715,47.222564",
     "geom:latitude":47.061779,
     "geom:longitude":8.756657,
@@ -431,8 +445,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"908",
     "statoids:area_mi":"351",
     "statoids:as_of_date":"2010-12-31",
@@ -453,6 +467,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":19667,
+        "eurostat:nuts_2021_id":"CH063",
         "fips:code":"SZ17",
         "gn:id":2658664,
         "gp:id":2347099,
@@ -464,7 +479,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b366c92c5812677efd11c7aebcbd771",
+    "wof:geomhash":"79d9620d2b85b42ad709a9b4f4cc5a0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -486,12 +501,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1636413500,
+    "wof:lastmodified":1684351499,
     "wof:name":"Schwyz",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":146730,
+    "wof:population":163689,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"SZ",

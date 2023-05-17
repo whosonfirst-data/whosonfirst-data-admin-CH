@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Donat",
+    "eurostat:nuts_2021_id":"CH3705",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3705",
+    "eurostat:population":202,
+    "eurostat:population_year":2020,
     "geom:area":0.000549,
     "geom:area_square_m":4661623.568982,
     "geom:bbox":"9.39960315168,46.613329645,9.44580942827,46.6522566474",
@@ -64,6 +76,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3705",
+        "eurostat:nuts_2021_id":"CH3705",
         "gn:id":7285665,
         "gp:id":20075534,
         "qs_pg:id":1024382
@@ -84,7 +100,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"105b18788ff35653c5448b4c4c2c8553",
+    "wof:geomhash":"9a24f2aefa3d96ddf949a78297eb165a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404571383,
-    "wof:lastmodified":1582223054,
+    "wof:lastmodified":1684351758,
     "wof:name":"Donat",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
+    "wof:population":202,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

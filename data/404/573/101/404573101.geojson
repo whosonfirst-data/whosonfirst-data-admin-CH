@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0747",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scheuren",
+    "eurostat:nuts_2021_id":"CH0747",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0747",
+    "eurostat:population":448,
+    "eurostat:population_year":2020,
     "geom:area":0.00025,
-    "geom:area_square_m":2102175.625102,
+    "geom:area_square_m":2102175.625101,
     "geom:bbox":"7.31215,47.123451,7.342812,47.13941",
     "geom:latitude":47.132344,
     "geom:longitude":7.326954,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063041,
-        85682381
+        85682381,
+        102063041
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0747",
+        "eurostat:nuts_2021_id":"CH0747",
         "gp:id":12684880,
         "qs_pg:id":1312622
     },
@@ -119,7 +135,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7ffff68044a8baa47b392eee043861c6",
+    "wof:geomhash":"83e6df31b1184c1ee12d19e667d94086",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404573101,
-    "wof:lastmodified":1598919955,
+    "wof:lastmodified":1684351771,
     "wof:name":"Scheuren",
     "wof:parent_id":102063041,
     "wof:placetype":"localadmin",
+    "wof:population":448,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

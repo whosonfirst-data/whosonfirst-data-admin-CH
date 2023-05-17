@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0885",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uttigen",
+    "eurostat:nuts_2021_id":"CH0885",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0885",
+    "eurostat:population":2103,
+    "eurostat:population_year":2020,
     "geom:area":0.000449,
-    "geom:area_square_m":3797370.57035,
+    "geom:area_square_m":3797370.570349,
     "geom:bbox":"7.554688,46.785187,7.596072,46.80827",
     "geom:latitude":46.794988,
     "geom:longitude":7.573213,
@@ -113,14 +125,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0885",
+        "eurostat:nuts_2021_id":"CH0885",
         "gn:id":7287398,
         "gp:id":12684551,
         "qs_pg:id":43928
@@ -133,7 +149,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2a2fb3ae82615fb97ba8be0ad85d0504",
+    "wof:geomhash":"cb3a59362dc5df73e731d186197e1e71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404572101,
-    "wof:lastmodified":1598919826,
+    "wof:lastmodified":1684351766,
     "wof:name":"Uttigen",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":2103,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

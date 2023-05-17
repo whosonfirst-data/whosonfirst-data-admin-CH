@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wettingen",
+    "eurostat:nuts_2021_id":"CH4045",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4045",
+    "eurostat:population":20852,
+    "eurostat:population_year":2020,
     "geom:area":0.001264,
-    "geom:area_square_m":10565019.695461,
+    "geom:area_square_m":10565019.69546,
     "geom:bbox":"8.308523,47.444943,8.375314,47.481469",
     "geom:latitude":47.466793,
     "geom:longitude":8.341214,
@@ -157,14 +169,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062843,
-        85682329
+        85682329,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4045",
+        "eurostat:nuts_2021_id":"CH4045",
         "gn:id":7287562,
         "gp:id":12684623,
         "qs_pg:id":1197433
@@ -177,7 +193,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e1bd300669884cd738677e82ef445fa2",
+    "wof:geomhash":"a3066e3d2f59c91de937deb1a4bcc5f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404569655,
-    "wof:lastmodified":1598919319,
+    "wof:lastmodified":1684351736,
     "wof:name":"Wettingen",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
+    "wof:population":20852,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

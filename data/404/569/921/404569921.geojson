@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2782",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brislach",
+    "eurostat:nuts_2021_id":"CH2782",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2782",
+    "eurostat:population":1652,
+    "eurostat:population_year":2020,
     "geom:area":0.001122,
-    "geom:area_square_m":9390166.030651,
+    "geom:area_square_m":9390166.03065,
     "geom:bbox":"7.513037,47.411851,7.580742,47.444231",
     "geom:latitude":47.424937,
     "geom:longitude":7.548791,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062757,
-        85682361
+        85682361,
+        102062757
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2782",
+        "eurostat:nuts_2021_id":"CH2782",
         "gn:id":7285339,
         "gp:id":12683050,
         "qs_pg:id":426055
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4bc50c9f1f2cd515a8f42b4144e4fc31",
+    "wof:geomhash":"9a60519ec2dc9f7d2fcc22deeba9fddb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404569921,
-    "wof:lastmodified":1598919360,
+    "wof:lastmodified":1684351740,
     "wof:name":"Brislach",
     "wof:parent_id":102062757,
     "wof:placetype":"localadmin",
+    "wof:population":1652,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

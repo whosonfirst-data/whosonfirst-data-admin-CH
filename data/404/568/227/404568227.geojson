@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3953",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maienfeld",
+    "eurostat:nuts_2021_id":"CH3953",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3953",
+    "eurostat:population":2945,
+    "eurostat:population_year":2020,
     "geom:area":0.003825,
-    "geom:area_square_m":32241731.757756,
+    "geom:area_square_m":32241731.757754,
     "geom:bbox":"9.510213,46.968696,9.636541,47.065148",
     "geom:latitude":47.027126,
     "geom:longitude":9.562509,
@@ -145,14 +157,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062881,
-        85682255
+        85682255,
+        102062881
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3953",
+        "eurostat:nuts_2021_id":"CH3953",
         "gn:id":7286419,
         "gp:id":12683930,
         "qs_pg:id":671441
@@ -162,7 +178,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"705486a037c0f9e642028b01a7711f1c",
+    "wof:geomhash":"23363069836f359851effb4fe40abbad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404568227,
-    "wof:lastmodified":1598919500,
+    "wof:lastmodified":1684351714,
     "wof:name":"Maienfeld",
     "wof:parent_id":102062881,
     "wof:placetype":"localadmin",
+    "wof:population":2945,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

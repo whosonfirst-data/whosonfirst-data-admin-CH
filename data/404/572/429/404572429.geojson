@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5640",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lussy-sur-Morges",
+    "eurostat:nuts_2021_id":"CH5640",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5640",
+    "eurostat:population":686,
+    "eurostat:population_year":2020,
     "geom:area":0.000274,
     "geom:area_square_m":2335747.686842,
     "geom:bbox":"6.435206,46.492871,6.461858,46.509948",
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5640",
+        "eurostat:nuts_2021_id":"CH5640",
         "gn:id":7286397,
         "gp:id":12684741,
         "qs_pg:id":911091
@@ -114,7 +130,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1bb27d672b30ec8c48c4c54cb7d0a956",
+    "wof:geomhash":"185be6e52c08ea2f008b4a3b2673531e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404572429,
-    "wof:lastmodified":1598919841,
+    "wof:lastmodified":1684351770,
     "wof:name":"Lussy-sur-Morges",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":686,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

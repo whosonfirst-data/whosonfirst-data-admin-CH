@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3981",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Breil/Brigels",
+    "eurostat:nuts_2021_id":"CH3981",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3981",
+    "eurostat:population":1757,
+    "eurostat:population_year":2020,
     "geom:area":0.01138,
-    "geom:area_square_m":96329827.919301,
+    "geom:area_square_m":96329827.919291,
     "geom:bbox":"8.95707934748,46.7339607966,9.14025479139,46.8752079994",
     "geom:latitude":46.798745,
     "geom:longitude":9.057254,
@@ -102,6 +114,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -109,8 +123,12 @@
         102062773
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3981",
+        "eurostat:nuts_2021_id":"CH3981"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"adbcc558a8e8af9ed1d53684c56247ce",
+    "wof:geomhash":"ff247349dc905f3b03c6c9844db6c0cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +139,12 @@
         }
     ],
     "wof:id":1394254157,
-    "wof:lastmodified":1566640350,
+    "wof:lastmodified":1684351783,
     "wof:name":"Breil/Brigels",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
+    "wof:population":1757,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

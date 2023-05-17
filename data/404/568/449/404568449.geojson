@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0445",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sonvilier",
+    "eurostat:nuts_2021_id":"CH0445",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0445",
+    "eurostat:population":1237,
+    "eurostat:population_year":2020,
     "geom:area":0.00282,
-    "geom:area_square_m":23715851.672593,
+    "geom:area_square_m":23715851.672591,
     "geom:bbox":"6.915935,47.109152,6.986567,47.180349",
     "geom:latitude":47.142214,
     "geom:longitude":6.952263,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062865,
-        85682381
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0445",
+        "eurostat:nuts_2021_id":"CH0445",
         "gn:id":7287191,
         "gp:id":12684418,
         "qs_pg:id":1102359
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d5ecf022bc7f5648ef1da2da09b0e41d",
+    "wof:geomhash":"3e616e77c39c46cf8283f721a3dc6e0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568449,
-    "wof:lastmodified":1598919505,
+    "wof:lastmodified":1684351719,
     "wof:name":"Sonvilier",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":1237,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

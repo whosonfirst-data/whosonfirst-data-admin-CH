@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4611",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Thundorf",
+    "eurostat:nuts_2021_id":"CH4611",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4611",
+    "eurostat:population":1437,
+    "eurostat:population_year":2020,
     "geom:area":0.001866,
-    "geom:area_square_m":15570826.658044,
+    "geom:area_square_m":15570826.658046,
     "geom:bbox":"8.93611734423,47.5303762784,9.01411004002,47.5683631959",
     "geom:latitude":47.548821,
     "geom:longitude":8.975792,
@@ -79,6 +91,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -87,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4611",
+        "eurostat:nuts_2021_id":"CH4611",
         "gn:id":7287307,
         "gp:id":12684625,
         "qs_pg:id":1297385
@@ -96,7 +112,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"31a8b38e43aa04b09b85c19aa0a70d8a",
+    "wof:geomhash":"a4816256d4cb6f9da55d895a295fcbde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404568871,
-    "wof:lastmodified":1582223015,
+    "wof:lastmodified":1684351726,
     "wof:name":"Thundorf",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
+    "wof:population":1437,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3272",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gams",
+    "eurostat:nuts_2021_id":"CH3272",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3272",
+    "eurostat:population":3471,
+    "eurostat:population_year":2020,
     "geom:area":0.002645,
-    "geom:area_square_m":22213588.640956,
+    "geom:area_square_m":22213588.640957,
     "geom:bbox":"9.387754,47.193252,9.487025,47.236381",
     "geom:latitude":47.211563,
     "geom:longitude":9.430147,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062755,
-        85682341
+        85682341,
+        102062755
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3272",
+        "eurostat:nuts_2021_id":"CH3272",
         "gn:id":7285891,
         "gp:id":12683521,
         "qs_pg:id":1020163
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3bb2b4bfbf21f5c04466b13e5afc0778",
+    "wof:geomhash":"45fe13ab2044e4fd2aa32c0a647d4013",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404568505,
-    "wof:lastmodified":1598919477,
+    "wof:lastmodified":1684351720,
     "wof:name":"Gams",
     "wof:parent_id":102062755,
     "wof:placetype":"localadmin",
+    "wof:population":3471,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

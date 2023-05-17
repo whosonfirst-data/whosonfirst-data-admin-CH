@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5562",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mauborget",
+    "eurostat:nuts_2021_id":"CH5562",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5562",
+    "eurostat:population":122,
+    "eurostat:population_year":2020,
     "geom:area":0.000651,
-    "geom:area_square_m":5503520.865203,
+    "geom:area_square_m":5503520.865202,
     "geom:bbox":"6.58717,46.848259,6.62814,46.886664",
     "geom:latitude":46.866766,
     "geom:longitude":6.608181,
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5562",
+        "eurostat:nuts_2021_id":"CH5562",
         "gn:id":7286462,
         "gp:id":12683953,
         "qs_pg:id":61934
@@ -108,7 +124,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"efc93e271a3abfdc5d9a24ac4df97e2a",
+    "wof:geomhash":"58956893ef755e733ffcd835f8011178",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404571077,
-    "wof:lastmodified":1598920040,
+    "wof:lastmodified":1684351754,
     "wof:name":"Mauborget",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":122,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

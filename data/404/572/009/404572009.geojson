@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Niederlenz",
+    "eurostat:nuts_2021_id":"CH4204",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4204",
+    "eurostat:population":4776,
+    "eurostat:population_year":2020,
     "geom:area":0.000395,
-    "geom:area_square_m":3302809.418248,
+    "geom:area_square_m":3302809.418247,
     "geom:bbox":"8.151481,47.395509,8.190608,47.41369",
     "geom:latitude":47.403606,
     "geom:longitude":8.170314,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063017,
-        85682329
+        85682329,
+        102063017
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4204",
+        "eurostat:nuts_2021_id":"CH4204",
         "gn:id":7286644,
         "gp:id":12684082,
         "qs_pg:id":1019228
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea9250e0370637b22927ab3d698127d1",
+    "wof:geomhash":"be1fb0e60fdfe94885f5a9db88abbf78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404572009,
-    "wof:lastmodified":1598919791,
+    "wof:lastmodified":1684351765,
     "wof:name":"Niederlenz",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",
+    "wof:population":4776,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

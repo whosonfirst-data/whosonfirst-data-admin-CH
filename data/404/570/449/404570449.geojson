@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6724",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soyhi\u00e8res",
+    "eurostat:nuts_2021_id":"CH6724",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6724",
+    "eurostat:population":433,
+    "eurostat:population_year":2020,
     "geom:area":0.000894,
     "geom:area_square_m":7484445.381381,
     "geom:bbox":"7.348142,47.387189,7.414805,47.414689",
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062791,
-        85682347
+        85682347,
+        102062791
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6724",
+        "eurostat:nuts_2021_id":"CH6724",
         "gn:id":7287202,
         "gp:id":12684426,
         "qs_pg:id":106683
@@ -114,7 +130,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9b149d04f038a3b15750f2a0a4698432",
+    "wof:geomhash":"27103061a10439573fee34163e1dc937",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404570449,
-    "wof:lastmodified":1598920545,
+    "wof:lastmodified":1684351746,
     "wof:name":"Soyhi\u00e8res",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
+    "wof:population":433,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

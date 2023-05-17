@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5484",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gollion",
+    "eurostat:nuts_2021_id":"CH5484",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5484",
+    "eurostat:population":941,
+    "eurostat:population_year":2020,
     "geom:area":0.00064,
-    "geom:area_square_m":5435187.049891,
+    "geom:area_square_m":5435187.049892,
     "geom:bbox":"6.493368,46.573782,6.529957,46.599676",
     "geom:latitude":46.586046,
     "geom:longitude":6.511954,
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5484",
+        "eurostat:nuts_2021_id":"CH5484",
         "gp:id":12683566,
         "qs_pg:id":1263936
     },
@@ -110,7 +126,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"46600e3eede5f6324093995f3b62bfea",
+    "wof:geomhash":"1214ae5a7fbd06fe8044c8dfc359bd28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":404571115,
-    "wof:lastmodified":1598920220,
+    "wof:lastmodified":1684351755,
     "wof:name":"Gollion",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":941,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

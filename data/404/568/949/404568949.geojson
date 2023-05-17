@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radelfingen",
+    "eurostat:nuts_2021_id":"CH0309",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0309",
+    "eurostat:population":1285,
+    "eurostat:population_year":2020,
     "geom:area":0.00174,
-    "geom:area_square_m":14673598.318722,
+    "geom:area_square_m":14673598.318725,
     "geom:bbox":"7.239309,46.970054,7.297349,47.02949",
     "geom:latitude":47.001889,
     "geom:longitude":7.268867,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0309",
+        "eurostat:nuts_2021_id":"CH0309",
         "gn:id":7286847,
         "gp:id":12684229,
         "qs_pg:id":490825
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3656dff3109bbfa96d21a7dc50147881",
+    "wof:geomhash":"39e618f6f5a04c72bf97d6ccaa80881c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404568949,
-    "wof:lastmodified":1598919601,
+    "wof:lastmodified":1684351728,
     "wof:name":"Radelfingen",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":1285,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

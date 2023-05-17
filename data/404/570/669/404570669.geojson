@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4641",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altnau",
+    "eurostat:nuts_2021_id":"CH4641",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4641",
+    "eurostat:population":2244,
+    "eurostat:population_year":2020,
     "geom:area":0.000806,
-    "geom:area_square_m":6723421.675009,
+    "geom:area_square_m":6723421.67501,
     "geom:bbox":"9.238797,47.585536,9.28107,47.624215",
     "geom:latitude":47.60735,
     "geom:longitude":9.261276,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062953,
-        85682337
+        85682337,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4641",
+        "eurostat:nuts_2021_id":"CH4641",
         "gn:id":7285062,
         "gp:id":12682790,
         "qs_pg:id":281535
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3217afa52ca8ffcee8cfce89d1f7cf4c",
+    "wof:geomhash":"2ba79498cebd29408bf1324e2afe24a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404570669,
-    "wof:lastmodified":1598920577,
+    "wof:lastmodified":1684351749,
     "wof:name":"Altnau",
     "wof:parent_id":102062953,
     "wof:placetype":"localadmin",
+    "wof:population":2244,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

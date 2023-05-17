@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2148",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riaz",
+    "eurostat:nuts_2021_id":"CH2148",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2148",
+    "eurostat:population":2781,
+    "eurostat:population_year":2020,
     "geom:area":0.000911,
     "geom:area_square_m":7734933.536987,
     "geom:bbox":"7.01101,46.626705,7.078552,46.653091",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062999,
-        85682301
+        85682301,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2148",
+        "eurostat:nuts_2021_id":"CH2148",
         "gn:id":7286893,
         "gp:id":12684258,
         "qs_pg:id":258787
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"47f9bfbd0098b76b4535694c6051a1a4",
+    "wof:geomhash":"9687f4b909881fb779ea9be5e596080f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404570375,
-    "wof:lastmodified":1598920734,
+    "wof:lastmodified":1684351745,
     "wof:name":"Riaz",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",
+    "wof:population":2781,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

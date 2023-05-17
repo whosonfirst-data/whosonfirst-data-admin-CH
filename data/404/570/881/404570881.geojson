@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arbon",
+    "eurostat:nuts_2021_id":"CH4401",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4401",
+    "eurostat:population":14633,
+    "eurostat:population_year":2020,
     "geom:area":0.000717,
-    "geom:area_square_m":5987542.265837,
+    "geom:area_square_m":5987542.265834,
     "geom:bbox":"9.400403,47.496176,9.440546,47.53524",
     "geom:latitude":47.515321,
     "geom:longitude":9.419148,
@@ -160,14 +172,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062959,
-        85682337
+        85682337,
+        102062959
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4401",
+        "eurostat:nuts_2021_id":"CH4401",
         "gn:id":7285089,
         "gp:id":12682812,
         "qs_pg:id":894466
@@ -177,7 +193,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6bee74e14c57e2d8b85f1eeee8d472d7",
+    "wof:geomhash":"652d557108abe47ca6e29164ac2150cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,10 +204,12 @@
         }
     ],
     "wof:id":404570881,
-    "wof:lastmodified":1598920562,
+    "wof:lastmodified":1684351751,
     "wof:name":"Arbon",
     "wof:parent_id":102062959,
     "wof:placetype":"localadmin",
+    "wof:population":14633,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

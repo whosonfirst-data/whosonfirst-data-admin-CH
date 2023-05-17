@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0360",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wohlen bei Bern",
+    "eurostat:nuts_2021_id":"CH0360",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0360",
+    "eurostat:population":9282,
+    "eurostat:population_year":2020,
     "geom:area":0.004294,
-    "geom:area_square_m":36222098.942069,
+    "geom:area_square_m":36222098.942063,
     "geom:bbox":"7.27871,46.959834,7.415564,47.004837",
     "geom:latitude":46.982688,
     "geom:longitude":7.343643,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0360",
+        "eurostat:nuts_2021_id":"CH0360",
         "gp:id":12683430,
         "qs_pg:id":61852
     },
@@ -131,7 +147,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cad9c5ce3ccceb8429bc27e7d9ce3fba",
+    "wof:geomhash":"e71f9c8c364ba84a6bb305aa99f2a357",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404568177,
-    "wof:lastmodified":1598919738,
+    "wof:lastmodified":1684351713,
     "wof:name":"Wohlen bei Bern",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":9282,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

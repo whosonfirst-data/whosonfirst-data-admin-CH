@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Habsburg",
+    "eurostat:nuts_2021_id":"CH4099",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4099",
+    "eurostat:population":440,
+    "eurostat:population_year":2020,
     "geom:area":0.000266,
     "geom:area_square_m":2220225.317185,
     "geom:bbox":"8.17087320227,47.4519048459,8.20054588039,47.4714796537",
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4099",
+        "eurostat:nuts_2021_id":"CH4099",
         "gn:id":7286017,
         "gp:id":12683631,
         "qs_pg:id":538734
@@ -60,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f32caa387c4efe8cf873de73b44cea2d",
+    "wof:geomhash":"e95c946bd3f0036062b83b18a11f21b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +87,12 @@
         }
     ],
     "wof:id":404573047,
-    "wof:lastmodified":1582223037,
+    "wof:lastmodified":1684351770,
     "wof:name":"Habsburg",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
+    "wof:population":440,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

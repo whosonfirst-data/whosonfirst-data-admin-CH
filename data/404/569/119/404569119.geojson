@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5765",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vaulion",
+    "eurostat:nuts_2021_id":"CH5765",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5765",
+    "eurostat:population":467,
+    "eurostat:population_year":2020,
     "geom:area":0.001546,
     "geom:area_square_m":13117396.235894,
     "geom:bbox":"6.349402,46.66524,6.431373,46.706616",
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5765",
+        "eurostat:nuts_2021_id":"CH5765",
         "gn:id":7287420,
         "gp:id":12683804,
         "qs_pg:id":671645
@@ -111,7 +127,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6db61507ad81f8e0f5642514b670b37f",
+    "wof:geomhash":"c3ba5e4bc3d98f5df4c39b5d7641f7c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404569119,
-    "wof:lastmodified":1598919255,
+    "wof:lastmodified":1684351730,
     "wof:name":"Vaulion",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":467,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

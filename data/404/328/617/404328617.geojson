@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2474",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gempen",
+    "eurostat:nuts_2021_id":"CH2474",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2474",
+    "eurostat:population":867,
+    "eurostat:population_year":2020,
     "geom:area":0.000714,
-    "geom:area_square_m":5969620.460042,
+    "geom:area_square_m":5969620.460043,
     "geom:bbox":"7.640814,47.464595,7.682286,47.496868",
     "geom:latitude":47.478394,
     "geom:longitude":7.659057,
@@ -105,14 +117,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137115,
-        85682365
+        85682365,
+        1394137115
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2474",
+        "eurostat:nuts_2021_id":"CH2474",
         "gn:id":7285899,
         "gp:id":12683528,
         "qs_pg:id":43522
@@ -125,7 +141,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"16dea9b77431373f5a6d260b992aa7da",
+    "wof:geomhash":"daef7e9c199aa3449f8431a73f655619",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404328617,
-    "wof:lastmodified":1598920292,
+    "wof:lastmodified":1684351698,
     "wof:name":"Gempen",
     "wof:parent_id":1394137115,
     "wof:placetype":"localadmin",
+    "wof:population":867,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

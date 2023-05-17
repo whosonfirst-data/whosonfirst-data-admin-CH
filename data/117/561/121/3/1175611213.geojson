@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6745",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Les Enfers",
+    "eurostat:nuts_2021_id":"CH6745",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6745",
+    "eurostat:population":133,
+    "eurostat:population_year":2020,
     "geom:area":0.000846,
-    "geom:area_square_m":7096641.905342,
+    "geom:area_square_m":7096641.905341,
     "geom:bbox":"6.989487,47.28138,7.07539,47.300169",
     "geom:latitude":47.29141,
     "geom:longitude":7.031711,
@@ -96,14 +108,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062875,
-        85682347
+        85682347,
+        102062875
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6745",
+        "eurostat:nuts_2021_id":"CH6745",
         "gn:id":7286327,
         "qs_pg:id":671428
     },
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a410e487e0966069ba8ed4614e45c835",
+    "wof:geomhash":"0531745ecc235c9c358724fe3d256634",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":1175611213,
-    "wof:lastmodified":1598916360,
+    "wof:lastmodified":1684351776,
     "wof:name":"Les Enfers",
     "wof:parent_id":102062875,
     "wof:placetype":"localadmin",
+    "wof:population":133,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

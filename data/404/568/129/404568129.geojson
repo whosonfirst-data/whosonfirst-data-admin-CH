@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Gallen",
+    "eurostat:nuts_2021_id":"CH3203",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3203",
+    "eurostat:population":75833,
+    "eurostat:population_year":2020,
     "geom:area":0.004694,
-    "geom:area_square_m":39269106.254061,
+    "geom:area_square_m":39269106.254066,
     "geom:bbox":"9.291508,47.395158,9.435241,47.453077",
     "geom:latitude":47.422135,
     "geom:longitude":9.375558,
@@ -278,14 +290,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062847,
-        85682341
+        85682341,
+        102062847
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3203",
+        "eurostat:nuts_2021_id":"CH3203",
         "gn:id":7287240,
         "gp:id":12682701,
         "qs_pg:id":357228
@@ -298,7 +314,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"be912009fbc785da6dccda3f460a9db4",
+    "wof:geomhash":"963e4a456ad26cc6df429d2a90f24ab4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,10 +325,12 @@
         }
     ],
     "wof:id":404568129,
-    "wof:lastmodified":1598919586,
+    "wof:lastmodified":1684351712,
     "wof:name":"St. Gallen",
     "wof:parent_id":102062847,
     "wof:placetype":"localadmin",
+    "wof:population":75833,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

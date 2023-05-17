@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villigen",
+    "eurostat:nuts_2021_id":"CH4121",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4121",
+    "eurostat:population":2127,
+    "eurostat:population_year":2020,
     "geom:area":0.001339,
     "geom:area_square_m":11181762.181493,
     "geom:bbox":"8.166379,47.507149,8.23462,47.54705",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062993,
-        85682329
+        85682329,
+        102062993
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4121",
+        "eurostat:nuts_2021_id":"CH4121",
         "gn:id":7287478,
         "gp:id":12684464,
         "qs_pg:id":500418
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9b030f4b884e34827a6f6dcaacc0a60c",
+    "wof:geomhash":"7166ae7e4f59030403ef31472c7a2922",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404569501,
-    "wof:lastmodified":1598919263,
+    "wof:lastmodified":1684351735,
     "wof:name":"Villigen",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
+    "wof:population":2127,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

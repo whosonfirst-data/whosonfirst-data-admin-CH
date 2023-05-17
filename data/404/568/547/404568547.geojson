@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0371",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Biel/Bienne",
+    "eurostat:nuts_2021_id":"CH0371",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0371",
+    "eurostat:population":55159,
+    "eurostat:population_year":2020,
     "geom:area":0.002515,
-    "geom:area_square_m":21152929.561111,
+    "geom:area_square_m":21152929.561107,
     "geom:bbox":"7.201104,47.122179,7.312736,47.177041",
     "geom:latitude":47.149189,
     "geom:longitude":7.2611,
@@ -268,6 +280,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -276,6 +290,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0371",
+        "eurostat:nuts_2021_id":"CH0371",
         "gn:id":7285241,
         "qs_pg:id":1047507
     },
@@ -287,7 +303,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6fb34b87061523cb55e2cc2d47e4034a",
+    "wof:geomhash":"75011c9a8fa768ec83516a435147da8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -298,10 +314,12 @@
         }
     ],
     "wof:id":404568547,
-    "wof:lastmodified":1617131229,
+    "wof:lastmodified":1684351720,
     "wof:name":"Biel/Bienne",
     "wof:parent_id":102063041,
     "wof:placetype":"localadmin",
+    "wof:population":55159,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2789",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nenzlingen",
+    "eurostat:nuts_2021_id":"CH2789",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2789",
+    "eurostat:population":443,
+    "eurostat:population_year":2020,
     "geom:area":0.000436,
     "geom:area_square_m":3649712.643397,
     "geom:bbox":"7.545218,47.437531,7.578569,47.460572",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062757,
-        85682361
+        85682361,
+        102062757
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2789",
+        "eurostat:nuts_2021_id":"CH2789",
         "gp:id":12684935,
         "qs_pg:id":1120656
     },
@@ -128,7 +144,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b502e7682aa5ad168df6bf5e5e8785b7",
+    "wof:geomhash":"7ead0c983ca696957de2c4a8bf447b1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404571863,
-    "wof:lastmodified":1598920214,
+    "wof:lastmodified":1684351764,
     "wof:name":"Nenzlingen",
     "wof:parent_id":102062757,
     "wof:placetype":"localadmin",
+    "wof:population":443,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

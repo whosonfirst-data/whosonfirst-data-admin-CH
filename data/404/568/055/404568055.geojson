@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3551",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brusio",
+    "eurostat:nuts_2021_id":"CH3551",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3551",
+    "eurostat:population":1113,
+    "eurostat:population_year":2020,
     "geom:area":0.005401,
-    "geom:area_square_m":46177255.915608,
+    "geom:area_square_m":46177255.915616,
     "geom:bbox":"10.043729,46.217154,10.176503,46.301116",
     "geom:latitude":46.255444,
     "geom:longitude":10.119006,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062777,
-        85682255
+        85682255,
+        102062777
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3551",
+        "eurostat:nuts_2021_id":"CH3551",
         "gn:id":7285357,
         "gp:id":12683066,
         "qs_pg:id":43343
@@ -141,7 +157,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"40231b73ebfe2561d8fd8d162066ceef",
+    "wof:geomhash":"4e512039c13cbd1ee2d0b029f78196aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404568055,
-    "wof:lastmodified":1598919554,
+    "wof:lastmodified":1684351710,
     "wof:name":"Brusio",
     "wof:parent_id":102062777,
     "wof:placetype":"localadmin",
+    "wof:population":1113,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

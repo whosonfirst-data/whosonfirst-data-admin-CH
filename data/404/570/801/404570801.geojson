@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schafisheim",
+    "eurostat:nuts_2021_id":"CH4207",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4207",
+    "eurostat:population":2997,
+    "eurostat:population_year":2020,
     "geom:area":0.000753,
-    "geom:area_square_m":6309526.172981,
+    "geom:area_square_m":6309526.17298,
     "geom:bbox":"8.120672,47.35589,8.155795,47.395795",
     "geom:latitude":47.37367,
     "geom:longitude":8.139127,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063017,
-        85682329
+        85682329,
+        102063017
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4207",
+        "eurostat:nuts_2021_id":"CH4207",
         "gn:id":7287071,
         "gp:id":12684358,
         "qs_pg:id":204396
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6fbfdc6feca8085e578e9eb9a7b3eaff",
+    "wof:geomhash":"e0b2d710df9ead09b9f4b621613640ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404570801,
-    "wof:lastmodified":1598920699,
+    "wof:lastmodified":1684351751,
     "wof:name":"Schafisheim",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",
+    "wof:population":2997,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

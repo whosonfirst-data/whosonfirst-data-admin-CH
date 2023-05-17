@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2272",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Misery-Courtion",
+    "eurostat:nuts_2021_id":"CH2272",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2272",
+    "eurostat:population":2044,
+    "eurostat:population_year":2020,
     "geom:area":0.001343,
-    "geom:area_square_m":11353274.654065,
+    "geom:area_square_m":11353274.654066,
     "geom:bbox":"7.049218,46.841667,7.11703,46.875173",
     "geom:latitude":46.858197,
     "geom:longitude":7.084959,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062765,
-        85682301
+        85682301,
+        102062765
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2272",
+        "eurostat:nuts_2021_id":"CH2272",
         "gn:id":7286511,
         "qs_pg:id":671466
     },
@@ -122,7 +138,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1c94076334230d1f42f23e53ce515600",
+    "wof:geomhash":"e8a837149961d89a6881d6dee52141b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404569463,
-    "wof:lastmodified":1598919210,
+    "wof:lastmodified":1684351734,
     "wof:name":"Misery-Courtion",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
+    "wof:population":2044,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

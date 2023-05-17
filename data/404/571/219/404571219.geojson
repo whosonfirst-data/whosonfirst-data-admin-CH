@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4179",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ueken",
+    "eurostat:nuts_2021_id":"CH4179",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4179",
+    "eurostat:population":904,
+    "eurostat:population_year":2020,
     "geom:area":0.000609,
-    "geom:area_square_m":5088296.092257,
+    "geom:area_square_m":5088296.092256,
     "geom:bbox":"8.022514,47.474582,8.070971,47.498739",
     "geom:latitude":47.485352,
     "geom:longitude":8.043428,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062977,
-        85682329
+        85682329,
+        102062977
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4179",
+        "eurostat:nuts_2021_id":"CH4179",
         "gp:id":12684958,
         "qs_pg:id":233130
     },
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d959666cb8bf81fb0687473848d89b3c",
+    "wof:geomhash":"c7e955b57cef7cae5c893cadf156c78f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404571219,
-    "wof:lastmodified":1598920047,
+    "wof:lastmodified":1684351756,
     "wof:name":"Ueken",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",
+    "wof:population":904,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Varen",
+    "eurostat:nuts_2021_id":"CH6116",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6116",
+    "eurostat:population":642,
+    "eurostat:population_year":2020,
     "geom:area":0.001497,
-    "geom:area_square_m":12779219.41751,
+    "geom:area_square_m":12779219.417509,
     "geom:bbox":"7.55891642794,46.3085231781,7.62685852091,46.3701172162",
     "geom:latitude":46.337487,
     "geom:longitude":7.592824,
@@ -76,6 +88,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -84,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6116",
+        "eurostat:nuts_2021_id":"CH6116",
         "gn:id":7287417,
         "gp:id":12684559,
         "qs_pg:id":493285
@@ -96,7 +112,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"62d6cfa2ffedaf5b0657581914c7c49a",
+    "wof:geomhash":"76566a15c783a96515cd2e7d4cd12a88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404569155,
-    "wof:lastmodified":1582222960,
+    "wof:lastmodified":1684351731,
     "wof:name":"Varen",
     "wof:parent_id":102062761,
     "wof:placetype":"localadmin",
+    "wof:population":642,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

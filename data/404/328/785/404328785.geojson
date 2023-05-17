@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2518",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Etziken",
+    "eurostat:nuts_2021_id":"CH2518",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2518",
+    "eurostat:population":881,
+    "eurostat:population_year":2020,
     "geom:area":0.0004,
     "geom:area_square_m":3359256.877507,
     "geom:bbox":"7.63145833394,47.1717415578,7.65864252516,47.200358476",
@@ -102,6 +114,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2518",
+        "eurostat:nuts_2021_id":"CH2518",
         "gn:id":7285784,
         "gp:id":12685037,
         "qs_pg:id":1164936
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"72d1e21205b52c1fd20345bacee76bf1",
+    "wof:geomhash":"eae0462f0b933538afd20e6f42bbe18d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404328785,
-    "wof:lastmodified":1582223077,
+    "wof:lastmodified":1684351700,
     "wof:name":"Etziken",
     "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",
+    "wof:population":881,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0422",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00fcti bei Lyssach",
+    "eurostat:nuts_2021_id":"CH0422",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0422",
+    "eurostat:population":160,
+    "eurostat:population_year":2020,
     "geom:area":0.000153,
     "geom:area_square_m":1290202.295275,
     "geom:bbox":"7.569509,47.04747,7.598907,47.061176",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0422",
+        "eurostat:nuts_2021_id":"CH0422",
         "gp:id":20075376,
         "qs_pg:id":512885
     },
@@ -125,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a055e874e815862391d07684cd57cf68",
+    "wof:geomhash":"d5e24420677001b33f94a0b604927e40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404573383,
-    "wof:lastmodified":1598919931,
+    "wof:lastmodified":1684351774,
     "wof:name":"R\u00fcti bei Lyssach",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

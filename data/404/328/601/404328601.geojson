@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2499",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St\u00fcsslingen",
+    "eurostat:nuts_2021_id":"CH2499",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2499",
+    "eurostat:population":1055,
+    "eurostat:population_year":2020,
     "geom:area":0.000734,
-    "geom:area_square_m":6139866.532569,
+    "geom:area_square_m":6139866.532568,
     "geom:bbox":"7.95114,47.378441,7.986104,47.410671",
     "geom:latitude":47.394971,
     "geom:longitude":7.969475,
@@ -110,14 +122,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137093,
-        85682365
+        85682365,
+        1394137093
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2499",
+        "eurostat:nuts_2021_id":"CH2499"
+    },
     "wof:coterminous":[
         1125921229
     ],
@@ -125,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"25b32b1760cf5177bba3ddb65ec8e5e2",
+    "wof:geomhash":"fbb8aed6a738ae8924ca8f0b9e0d6b72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +153,12 @@
         }
     ],
     "wof:id":404328601,
-    "wof:lastmodified":1598920464,
+    "wof:lastmodified":1684351698,
     "wof:name":"St\u00fcsslingen",
     "wof:parent_id":1394137093,
     "wof:placetype":"localadmin",
+    "wof:population":1055,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

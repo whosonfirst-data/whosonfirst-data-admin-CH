@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6644",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Versoix",
+    "eurostat:nuts_2021_id":"CH6644",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6644",
+    "eurostat:population":13432,
+    "eurostat:population_year":2020,
     "geom:area":0.001768,
-    "geom:area_square_m":15107813.972211,
+    "geom:area_square_m":15107813.972212,
     "geom:bbox":"6.11878,46.264969,6.198752,46.317464",
     "geom:latitude":46.287903,
     "geom:longitude":6.156407,
@@ -152,14 +164,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6644",
+        "eurostat:nuts_2021_id":"CH6644",
         "gn:id":7287442,
         "gp:id":12684565,
         "qs_pg:id":1078626
@@ -172,7 +188,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"99b43db2dd0e16864c098964753448d1",
+    "wof:geomhash":"08dfce957b0e87ecca94b8604801d660",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,10 +199,12 @@
         }
     ],
     "wof:id":404328341,
-    "wof:lastmodified":1598920356,
+    "wof:lastmodified":1684351694,
     "wof:name":"Versoix",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":13432,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

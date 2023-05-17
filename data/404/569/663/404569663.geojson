@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0152",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Herrliberg",
+    "eurostat:nuts_2021_id":"CH0152",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0152",
+    "eurostat:population":6391,
+    "eurostat:population_year":2020,
     "geom:area":0.001069,
-    "geom:area_square_m":8962309.476887,
+    "geom:area_square_m":8962309.476886,
     "geom:bbox":"8.59830990447,47.2823649216,8.66200422634,47.3111759611",
     "geom:latitude":47.297161,
     "geom:longitude":8.630158,
@@ -119,6 +131,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -127,6 +141,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0152",
+        "eurostat:nuts_2021_id":"CH0152",
         "gp:id":12683451,
         "qs_pg:id":1049662
     },
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6772fbb016ced0f13489e17915f53fd1",
+    "wof:geomhash":"1519a427e869ea5c174b4c4310f08886",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404569663,
-    "wof:lastmodified":1582222965,
+    "wof:lastmodified":1684351736,
     "wof:name":"Herrliberg",
     "wof:parent_id":102062769,
     "wof:placetype":"localadmin",
+    "wof:population":6391,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

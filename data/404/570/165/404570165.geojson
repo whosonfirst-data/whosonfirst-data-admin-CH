@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3783",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Madulain",
+    "eurostat:nuts_2021_id":"CH3783",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3783",
+    "eurostat:population":210,
+    "eurostat:population_year":2020,
     "geom:area":0.00191,
     "geom:area_square_m":16243072.191509,
     "geom:bbox":"9.898793,46.474973,10.025018,46.627774",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062857,
-        85682255
+        85682255,
+        102062857
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3783",
+        "eurostat:nuts_2021_id":"CH3783",
         "gn:id":7286413,
         "gp:id":12683925,
         "qs_pg:id":231526
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"39935acc5f333f7b8231768da1cc4353",
+    "wof:geomhash":"c715ea7e267ab69f7b9ca0b13b72eb09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404570165,
-    "wof:lastmodified":1598920633,
+    "wof:lastmodified":1684351743,
     "wof:name":"Madulain",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",
+    "wof:population":210,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

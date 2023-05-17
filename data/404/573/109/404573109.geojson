@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5623",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buchillon",
+    "eurostat:nuts_2021_id":"CH5623",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5623",
+    "eurostat:population":651,
+    "eurostat:population_year":2020,
     "geom:area":0.000246,
-    "geom:area_square_m":2095336.778883,
+    "geom:area_square_m":2095336.778882,
     "geom:bbox":"6.391381,46.458918,6.435685,46.474568",
     "geom:latitude":46.466982,
     "geom:longitude":6.411138,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5623",
+        "eurostat:nuts_2021_id":"CH5623",
         "gp:id":12684745,
         "qs_pg:id":32147
     },
@@ -116,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f5619452aaaeae0bf3d37d5d9353e39e",
+    "wof:geomhash":"cf255ce569aee986465326e39f45facf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404573109,
-    "wof:lastmodified":1598919949,
+    "wof:lastmodified":1684351771,
     "wof:name":"Buchillon",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":651,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

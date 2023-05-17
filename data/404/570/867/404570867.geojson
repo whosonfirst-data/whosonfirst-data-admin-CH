@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hochfelden",
+    "eurostat:nuts_2021_id":"CH0059",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0059",
+    "eurostat:population":1931,
+    "eurostat:population_year":2020,
     "geom:area":0.000737,
-    "geom:area_square_m":6151112.147172,
+    "geom:area_square_m":6151112.147173,
     "geom:bbox":"8.490395,47.512017,8.526347,47.544482",
     "geom:latitude":47.528454,
     "geom:longitude":8.508908,
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063019,
-        85682309
+        85682309,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0059",
+        "eurostat:nuts_2021_id":"CH0059",
         "gn:id":7286092,
         "gp:id":12685106,
         "qs_pg:id":975188
@@ -111,7 +127,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7be56d5f3c8edc80983f1dc3650f4bc1",
+    "wof:geomhash":"2f199d6a0493289d3756e4654e0a2161",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404570867,
-    "wof:lastmodified":1598920588,
+    "wof:lastmodified":1684351751,
     "wof:name":"Hochfelden",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",
+    "wof:population":1931,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4262",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wegenstetten",
+    "eurostat:nuts_2021_id":"CH4262",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4262",
+    "eurostat:population":1066,
+    "eurostat:population_year":2020,
     "geom:area":0.00085,
-    "geom:area_square_m":7098780.633953,
+    "geom:area_square_m":7098780.633952,
     "geom:bbox":"7.90477,47.481407,7.953137,47.511429",
     "geom:latitude":47.493882,
     "geom:longitude":7.931231,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062905,
-        85682329
+        85682329,
+        102062905
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4262",
+        "eurostat:nuts_2021_id":"CH4262",
         "gn:id":7287552,
         "gp:id":12684615,
         "qs_pg:id":218706
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"278fef548b6dd75372c72ca463be9ded",
+    "wof:geomhash":"2ede59ecd3408eb2c8f8ac9369ab7faf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404570537,
-    "wof:lastmodified":1598920628,
+    "wof:lastmodified":1684351747,
     "wof:name":"Wegenstetten",
     "wof:parent_id":102062905,
     "wof:placetype":"localadmin",
+    "wof:population":1066,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

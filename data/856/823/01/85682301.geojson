@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Freiburg",
+    "eurostat:name_local":"Freiburg",
+    "eurostat:nuts_2021_id":"CH022",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:population":329809,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.196651,
-    "geom:area_square_m":1667076301.173897,
+    "geom:area_square_m":1667076301.173846,
     "geom:bbox":"6.741873,46.437906,7.380213,47.006803",
     "geom:latitude":46.718656,
     "geom:longitude":7.073991,
@@ -530,8 +544,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"1,670",
     "statoids:area_mi":"645",
     "statoids:as_of_date":"2010-12-31",
@@ -552,6 +566,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":10164,
+        "eurostat:nuts_2021_id":"CH022",
         "fips:code":"SZ06",
         "gn:id":2660717,
         "gp:id":2347088,
@@ -563,7 +578,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"721791774f19828ab6536d4735c884af",
+    "wof:geomhash":"f5436e8e4446a138ef894fba92c328c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -585,12 +600,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1636413501,
+    "wof:lastmodified":1684351499,
     "wof:name":"Fribourg",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":278493,
+    "wof:population":329809,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"FR",

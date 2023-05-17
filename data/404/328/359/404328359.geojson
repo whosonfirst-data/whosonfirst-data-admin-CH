@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2963",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ramsen",
+    "eurostat:nuts_2021_id":"CH2963",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2963",
+    "eurostat:population":1469,
+    "eurostat:population_year":2020,
     "geom:area":0.001617,
-    "geom:area_square_m":13455655.611729,
+    "geom:area_square_m":13455655.61173,
     "geom:bbox":"8.79135800737,47.6753393859,8.84833100018,47.7382866086",
     "geom:latitude":47.70483,
     "geom:longitude":8.814724,
@@ -75,6 +87,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -83,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2963",
+        "eurostat:nuts_2021_id":"CH2963",
         "gn:id":7286852,
         "gp:id":12684231,
         "qs_pg:id":490827
@@ -95,7 +111,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf19e11700bc8135f1f52f22fb74ae55",
+    "wof:geomhash":"f970abb513ef8d9787058860ab8fe961",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":404328359,
-    "wof:lastmodified":1582223080,
+    "wof:lastmodified":1684351694,
     "wof:name":"Ramsen",
     "wof:parent_id":1394298251,
     "wof:placetype":"localadmin",
+    "wof:population":1469,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

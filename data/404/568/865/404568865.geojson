@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5678",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moudon",
+    "eurostat:nuts_2021_id":"CH5678",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5678",
+    "eurostat:population":6135,
+    "eurostat:population_year":2020,
     "geom:area":0.001839,
     "geom:area_square_m":15606576.208921,
     "geom:bbox":"6.748878,46.648469,6.838123,46.692412",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062969,
-        85682325
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5678",
+        "eurostat:nuts_2021_id":"CH5678",
         "gn:id":7286565,
         "gp:id":12684033,
         "qs_pg:id":209503
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"37705eb784772d8b10288d6060da1de5",
+    "wof:geomhash":"0ec48c55679ddd0d859c7f0188dbbd78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568865,
-    "wof:lastmodified":1598919704,
+    "wof:lastmodified":1684351726,
     "wof:name":"Moudon",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":6135,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

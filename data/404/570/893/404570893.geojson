@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0415",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lyssach",
+    "eurostat:nuts_2021_id":"CH0415",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0415",
+    "eurostat:population":1446,
+    "eurostat:population_year":2020,
     "geom:area":0.000716,
-    "geom:area_square_m":6030517.299754,
+    "geom:area_square_m":6030517.299753,
     "geom:bbox":"7.552725,47.054295,7.602801,47.081691",
     "geom:latitude":47.066684,
     "geom:longitude":7.578633,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0415",
+        "eurostat:nuts_2021_id":"CH0415",
         "gn:id":7286411,
         "gp:id":12683923,
         "qs_pg:id":995407
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"96228989a09eca7e9d875ff580ce5b8e",
+    "wof:geomhash":"aca36110c705ce7956a693b43113ebf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404570893,
-    "wof:lastmodified":1598920588,
+    "wof:lastmodified":1684351752,
     "wof:name":"Lyssach",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":1446,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

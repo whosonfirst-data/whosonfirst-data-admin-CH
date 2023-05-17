@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Conthey",
+    "eurostat:nuts_2021_id":"CH6023",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6023",
+    "eurostat:population":8797,
+    "eurostat:population_year":2020,
     "geom:area":0.009912,
-    "geom:area_square_m":84721340.423583,
+    "geom:area_square_m":84721340.423588,
     "geom:bbox":"7.15119,46.20412,7.330606,46.316399",
     "geom:latitude":46.27248,
     "geom:longitude":7.254761,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062915,
-        85682281
+        85682281,
+        102062915
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6023",
+        "eurostat:nuts_2021_id":"CH6023",
         "gn:id":7285543,
         "gp:id":12683229,
         "qs_pg:id":238830
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a607d52e9ecb7288ff0561e2d9a8415e",
+    "wof:geomhash":"df4b57f20d9130069892aff6d4b37629",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404567835,
-    "wof:lastmodified":1598919394,
+    "wof:lastmodified":1684351706,
     "wof:name":"Conthey",
     "wof:parent_id":102062915,
     "wof:placetype":"localadmin",
+    "wof:population":8797,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

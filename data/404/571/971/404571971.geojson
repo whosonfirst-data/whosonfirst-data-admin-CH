@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0622",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oppligen",
+    "eurostat:nuts_2021_id":"CH0622",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0622",
+    "eurostat:population":650,
+    "eurostat:population_year":2020,
     "geom:area":0.000401,
     "geom:area_square_m":3392238.99369,
     "geom:bbox":"7.583705,46.800827,7.607116,46.831778",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0622",
+        "eurostat:nuts_2021_id":"CH0622",
         "gn:id":7286745,
         "gp:id":20075396,
         "qs_pg:id":1017774
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c2ca01002918d718581ecc6fa7de48aa",
+    "wof:geomhash":"37ac679e18c673288bb1fba6af7ce573",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404571971,
-    "wof:lastmodified":1598920112,
+    "wof:lastmodified":1684351765,
     "wof:name":"Oppligen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":650,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

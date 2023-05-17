@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0434",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Courtelary",
+    "eurostat:nuts_2021_id":"CH0434",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0434",
+    "eurostat:population":1438,
+    "eurostat:population_year":2020,
     "geom:area":0.002635,
-    "geom:area_square_m":22147263.926278,
+    "geom:area_square_m":22147263.926276,
     "geom:bbox":"7.025654,47.137462,7.10633,47.209815",
     "geom:latitude":47.176439,
     "geom:longitude":7.072649,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062865,
-        85682381
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0434",
+        "eurostat:nuts_2021_id":"CH0434",
         "gn:id":7285583,
         "gp:id":12683257,
         "qs_pg:id":1024544
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9b7d6bdc217b8b469c26ca3797998d5a",
+    "wof:geomhash":"84bcf472dff196deb3c61838f3bcedef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404568509,
-    "wof:lastmodified":1598919643,
+    "wof:lastmodified":1684351720,
     "wof:name":"Courtelary",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":1438,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

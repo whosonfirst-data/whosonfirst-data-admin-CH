@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberems",
+    "eurostat:nuts_2021_id":"CH6112",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6112",
+    "eurostat:population":122,
+    "eurostat:population_year":2020,
     "geom:area":0.005859,
-    "geom:area_square_m":50128137.067238,
+    "geom:area_square_m":50128137.067239,
     "geom:bbox":"7.653713,46.110752,7.713736,46.287788",
     "geom:latitude":46.215437,
     "geom:longitude":7.68401,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -120,6 +134,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6112",
+        "eurostat:nuts_2021_id":"CH6112",
         "gn:id":7286685,
         "gp:id":12683613,
         "qs_pg:id":671498
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"26c395cffcb3b5bdb47a5c68ef1c16e7",
+    "wof:geomhash":"e502aff94dd1b0ea9d5bc246809f307e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404568005,
-    "wof:lastmodified":1617130193,
+    "wof:lastmodified":1684351709,
     "wof:name":"Oberems",
     "wof:parent_id":102062761,
     "wof:placetype":"localadmin",
+    "wof:population":122,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

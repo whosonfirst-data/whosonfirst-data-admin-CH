@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponte Capriasca",
+    "eurostat:nuts_2021_id":"CH5212",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5212",
+    "eurostat:population":1902,
+    "eurostat:population_year":2020,
     "geom:area":0.000717,
     "geom:area_square_m":6149029.259111,
     "geom:bbox":"8.932992,46.05589,9.078684,46.134893",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5212",
+        "eurostat:nuts_2021_id":"CH5212",
         "gp:id":12682973,
         "qs_pg:id":493228
     },
@@ -119,7 +135,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e3ea98f7cfd892558771346baf6d5fea",
+    "wof:geomhash":"108fba59c6511c8050b2c1d3cd876e6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404573227,
-    "wof:lastmodified":1598919892,
+    "wof:lastmodified":1684351772,
     "wof:name":"Ponte Capriasca",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":1902,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

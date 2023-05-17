@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5566",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Provence",
+    "eurostat:nuts_2021_id":"CH5566",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5566",
+    "eurostat:population":373,
+    "eurostat:population_year":2020,
     "geom:area":0.003762,
-    "geom:area_square_m":31780711.244938,
+    "geom:area_square_m":31780711.244939,
     "geom:bbox":"6.630208,46.872346,6.740113,46.936086",
     "geom:latitude":46.901232,
     "geom:longitude":6.684172,
@@ -250,14 +262,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5566",
+        "eurostat:nuts_2021_id":"CH5566",
         "gn:id":7286840,
         "gp:id":20075598,
         "qs_pg:id":262931
@@ -267,7 +283,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"46ebd8cb081f53aa5f02d4e62310ef3f",
+    "wof:geomhash":"42496aa555cfecaeb200161ba90bea65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -278,10 +294,12 @@
         }
     ],
     "wof:id":404568235,
-    "wof:lastmodified":1598919544,
+    "wof:lastmodified":1684351714,
     "wof:name":"Provence",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":373,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

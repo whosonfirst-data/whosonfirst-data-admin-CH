@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1711",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zug",
+    "eurostat:nuts_2021_id":"CH1711",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH066",
+    "eurostat:nuts_2021_level_lau":"CH1711",
+    "eurostat:population":30542,
+    "eurostat:population_year":2020,
     "geom:area":0.004013,
-    "geom:area_square_m":33747991.573415,
+    "geom:area_square_m":33747991.573413,
     "geom:bbox":"8.473828,47.081031,8.577593,47.189848",
     "geom:latitude":47.150953,
     "geom:longitude":8.512564,
@@ -233,6 +245,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -241,6 +255,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1711",
+        "eurostat:nuts_2021_id":"CH1711",
         "gn:id":7287644,
         "gp:id":12684668,
         "qs_pg:id":388735
@@ -250,7 +266,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"25623b639ff7d8933267c399aa8c5b9a",
+    "wof:geomhash":"0d66e45fe7b8031d504f561b113bea47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -261,10 +277,12 @@
         }
     ],
     "wof:id":404328199,
-    "wof:lastmodified":1636413524,
+    "wof:lastmodified":1684351691,
     "wof:name":"Zug",
     "wof:parent_id":102063067,
     "wof:placetype":"localadmin",
+    "wof:population":30542,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

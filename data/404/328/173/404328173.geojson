@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2939",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schaffhausen",
+    "eurostat:nuts_2021_id":"CH2939",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2939",
+    "eurostat:population":36587,
+    "eurostat:population_year":2020,
     "geom:area":0.005015,
-    "geom:area_square_m":41720748.447413,
+    "geom:area_square_m":41720748.447411,
     "geom:bbox":"8.541005,47.685303,8.705921,47.753099",
     "geom:latitude":47.721374,
     "geom:longitude":8.624729,
@@ -246,6 +258,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -254,6 +268,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2939",
+        "eurostat:nuts_2021_id":"CH2939",
         "gn:id":7287070,
         "gp:id":12683079,
         "qs_pg:id":1060883
@@ -263,7 +279,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eb351737bf0cd5c1890c1690a3b3340c",
+    "wof:geomhash":"48fdfb9f0b2cf4b986c873e07e2cb64c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -274,10 +290,12 @@
         }
     ],
     "wof:id":404328173,
-    "wof:lastmodified":1636413524,
+    "wof:lastmodified":1684351690,
     "wof:name":"Schaffhausen",
     "wof:parent_id":1394137119,
     "wof:placetype":"localadmin",
+    "wof:population":36587,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

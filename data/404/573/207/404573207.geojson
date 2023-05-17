@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5189",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lamone",
+    "eurostat:nuts_2021_id":"CH5189",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5189",
+    "eurostat:population":1741,
+    "eurostat:population_year":2020,
     "geom:area":0.000217,
-    "geom:area_square_m":1858473.689362,
+    "geom:area_square_m":1858473.689363,
     "geom:bbox":"8.924718,46.034009,8.94044,46.056162",
     "geom:latitude":46.045334,
     "geom:longitude":8.931707,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5189",
+        "eurostat:nuts_2021_id":"CH5189",
         "gn:id":7286253,
         "gp:id":12685169,
         "qs_pg:id":204425
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f50502c7075b006030df0f2b27e76373",
+    "wof:geomhash":"b848ac454da03159066e99d07eeeed68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404573207,
-    "wof:lastmodified":1598919973,
+    "wof:lastmodified":1684351772,
     "wof:name":"Lamone",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":1741,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

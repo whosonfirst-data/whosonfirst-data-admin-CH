@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5792",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montpreveyres",
+    "eurostat:nuts_2021_id":"CH5792",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5792",
+    "eurostat:population":642,
+    "eurostat:population_year":2020,
     "geom:area":0.000484,
     "geom:area_square_m":4113107.7895,
     "geom:bbox":"6.706415,46.569806,6.75095,46.594104",
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063047,
-        85682325
+        85682325,
+        102063047
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5792",
+        "eurostat:nuts_2021_id":"CH5792",
         "gn:id":7286541,
         "gp:id":12685295,
         "qs_pg:id":989857
@@ -111,7 +127,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"11601c115690761e9381a51d6e279cc4",
+    "wof:geomhash":"48ef69e3bcda83093af4448cf53732dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404571641,
-    "wof:lastmodified":1598920178,
+    "wof:lastmodified":1684351761,
     "wof:name":"Montpreveyres",
     "wof:parent_id":102063047,
     "wof:placetype":"localadmin",
+    "wof:population":642,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

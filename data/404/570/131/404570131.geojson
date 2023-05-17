@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6452",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cressier (NE)",
+    "eurostat:nuts_2021_id":"CH6452",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6452",
+    "eurostat:population":1887,
+    "eurostat:population_year":2020,
     "geom:area":0.001015,
     "geom:area_square_m":8547522.314208,
     "geom:bbox":"6.99126031613,47.0345601174,7.05335267952,47.0683581344",
@@ -73,6 +85,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -80,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6452",
+        "eurostat:nuts_2021_id":"CH6452",
         "gn:id":7285592,
         "gp:id":12683269,
         "qs_pg:id":32039
@@ -89,7 +105,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cebdb881b990d277c79551cbc4f3e85a",
+    "wof:geomhash":"4cbcbbe8cc9adc12c173744a1f84bafd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +115,12 @@
         }
     ],
     "wof:id":404570131,
-    "wof:lastmodified":1582223103,
+    "wof:lastmodified":1684351743,
     "wof:name":"Cressier",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":1887,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

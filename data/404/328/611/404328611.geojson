@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2972",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberhallau",
+    "eurostat:nuts_2021_id":"CH2972",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2972",
+    "eurostat:population":444,
+    "eurostat:population_year":2020,
     "geom:area":0.000724,
-    "geom:area_square_m":6026569.387112,
+    "geom:area_square_m":6026569.387113,
     "geom:bbox":"8.454235,47.69438,8.490311,47.730148",
     "geom:latitude":47.713862,
     "geom:longitude":8.47337,
@@ -105,14 +117,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137101,
-        85682285
+        85682285,
+        1394137101
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2972",
+        "eurostat:nuts_2021_id":"CH2972",
         "gn:id":7286693,
         "gp:id":12684124,
         "qs_pg:id":1093301
@@ -125,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7e33193060ae19921908eb35ed523754",
+    "wof:geomhash":"de836d2cc215453eb44764377b18eac6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404328611,
-    "wof:lastmodified":1598920314,
+    "wof:lastmodified":1684351698,
     "wof:name":"Oberhallau",
     "wof:parent_id":1394137101,
     "wof:placetype":"localadmin",
+    "wof:population":444,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

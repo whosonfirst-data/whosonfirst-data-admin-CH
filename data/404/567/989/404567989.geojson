@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0579",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Habkern",
+    "eurostat:nuts_2021_id":"CH0579",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0579",
+    "eurostat:population":639,
+    "eurostat:population_year":2020,
     "geom:area":0.006008,
-    "geom:area_square_m":50896362.531603,
+    "geom:area_square_m":50896362.531607,
     "geom:bbox":"7.827983,46.710728,7.95403,46.795671",
     "geom:latitude":46.755048,
     "geom:longitude":7.889963,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062759,
-        85682381
+        85682381,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0579",
+        "eurostat:nuts_2021_id":"CH0579",
         "gn:id":7286016,
         "gp:id":12683016,
         "qs_pg:id":1196188
@@ -144,7 +160,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"019e811e47f5ca2e552fa734f74f33fc",
+    "wof:geomhash":"c21f98741920ad235132225a9fe5d8f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404567989,
-    "wof:lastmodified":1598919449,
+    "wof:lastmodified":1684351709,
     "wof:name":"Habkern",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":639,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

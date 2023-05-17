@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2772",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pfeffingen",
+    "eurostat:nuts_2021_id":"CH2772",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2772",
+    "eurostat:population":2336,
+    "eurostat:population_year":2020,
     "geom:area":0.000583,
     "geom:area_square_m":4873361.884711,
     "geom:bbox":"7.55466,47.444782,7.604713,47.467233",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062971,
-        85682361
+        85682361,
+        102062971
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2772",
+        "eurostat:nuts_2021_id":"CH2772",
         "gn:id":7286791,
         "gp:id":12684198,
         "qs_pg:id":539021
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3c0c4245f5a80d22c18ea994b602c3a6",
+    "wof:geomhash":"81291d3e3e2c0fda0425daae0e0d7fe4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404571297,
-    "wof:lastmodified":1598920208,
+    "wof:lastmodified":1684351757,
     "wof:name":"Pfeffingen",
     "wof:parent_id":102062971,
     "wof:placetype":"localadmin",
+    "wof:population":2336,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

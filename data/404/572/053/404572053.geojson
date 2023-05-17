@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5928",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rovray",
+    "eurostat:nuts_2021_id":"CH5928",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5928",
+    "eurostat:population":179,
+    "eurostat:population_year":2020,
     "geom:area":0.000377,
-    "geom:area_square_m":3187984.770792,
+    "geom:area_square_m":3187984.770793,
     "geom:bbox":"6.746944,46.776041,6.787283,46.802824",
     "geom:latitude":46.78886,
     "geom:longitude":6.766691,
@@ -88,14 +100,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5928",
+        "eurostat:nuts_2021_id":"CH5928",
         "gp:id":12684306,
         "qs_pg:id":47518
     },
@@ -107,7 +123,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"bb4358aa3ca4411ee96767ebd7aefe64",
+    "wof:geomhash":"4b16750e4932e384be6bcc68181adf7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":404572053,
-    "wof:lastmodified":1598919789,
+    "wof:lastmodified":1684351766,
     "wof:name":"Rovray",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":179,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

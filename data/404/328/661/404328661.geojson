@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2479",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rodersdorf",
+    "eurostat:nuts_2021_id":"CH2479",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2479",
+    "eurostat:population":1310,
+    "eurostat:population_year":2020,
     "geom:area":0.000639,
     "geom:area_square_m":5337986.321092,
     "geom:bbox":"7.420816,47.4707,7.470759,47.498101",
@@ -105,14 +117,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137115,
-        85682365
+        85682365,
+        1394137115
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2479",
+        "eurostat:nuts_2021_id":"CH2479",
         "gn:id":7286926,
         "gp:id":12684280,
         "qs_pg:id":1112603
@@ -125,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0dbbd68be66da0f7bd6e43b07b62b5b3",
+    "wof:geomhash":"6c25fe85ff17dd9f9f8cc5763ed678d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404328661,
-    "wof:lastmodified":1598920344,
+    "wof:lastmodified":1684351699,
     "wof:name":"Rodersdorf",
     "wof:parent_id":1394137115,
     "wof:placetype":"localadmin",
+    "wof:population":1310,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

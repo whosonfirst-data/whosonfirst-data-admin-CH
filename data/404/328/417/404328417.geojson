@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riehen",
+    "eurostat:nuts_2021_id":"CH2703",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH031",
+    "eurostat:nuts_2021_level_lau":"CH2703",
+    "eurostat:population":21339,
+    "eurostat:population_year":2020,
     "geom:area":0.0013,
-    "geom:area_square_m":10839933.210831,
+    "geom:area_square_m":10839933.21083,
     "geom:bbox":"7.620794,47.559931,7.693793,47.600912",
     "geom:latitude":47.579443,
     "geom:longitude":7.651164,
@@ -143,14 +155,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062895,
-        85682297
+        85682297,
+        102062895
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2703",
+        "eurostat:nuts_2021_id":"CH2703",
         "gn:id":7286907,
         "qs_pg:id":1154302
     },
@@ -162,7 +178,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5f3b0287759804cdda936a059760ac8e",
+    "wof:geomhash":"2b4dddebcfdaf2767c0e7772c2667bf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,10 +189,12 @@
         }
     ],
     "wof:id":404328417,
-    "wof:lastmodified":1598920426,
+    "wof:lastmodified":1684351695,
     "wof:name":"Riehen",
     "wof:parent_id":102062895,
     "wof:placetype":"localadmin",
+    "wof:population":21339,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

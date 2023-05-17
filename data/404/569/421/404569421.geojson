@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bubikon",
+    "eurostat:nuts_2021_id":"CH0112",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0112",
+    "eurostat:population":7334,
+    "eurostat:population_year":2020,
     "geom:area":0.00138,
     "geom:area_square_m":11580942.767008,
     "geom:bbox":"8.780798,47.247023,8.83719,47.292859",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062967,
-        85682309
+        85682309,
+        102062967
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0112",
+        "eurostat:nuts_2021_id":"CH0112",
         "gn:id":7285363,
         "gp:id":12683069,
         "qs_pg:id":1112600
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"49c73fabc71f011a63be523ec847a3d4",
+    "wof:geomhash":"eb49eb07606b6c221d66e7846c9246ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404569421,
-    "wof:lastmodified":1598919287,
+    "wof:lastmodified":1684351734,
     "wof:name":"Bubikon",
     "wof:parent_id":102062967,
     "wof:placetype":"localadmin",
+    "wof:population":7334,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

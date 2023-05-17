@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6159",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vouvry",
+    "eurostat:nuts_2021_id":"CH6159",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6159",
+    "eurostat:population":4199,
+    "eurostat:population_year":2020,
     "geom:area":0.003915,
-    "geom:area_square_m":33425303.05359,
+    "geom:area_square_m":33425303.053591,
     "geom:bbox":"6.775154,46.315522,6.93228,46.360276",
     "geom:latitude":46.33594,
     "geom:longitude":6.849298,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063065,
-        85682281
+        85682281,
+        102063065
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6159",
+        "eurostat:nuts_2021_id":"CH6159",
         "gn:id":7287496,
         "gp:id":12684478,
         "qs_pg:id":62004
@@ -117,7 +133,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f53edaf6238cfe0ee483c5e4ddf7829",
+    "wof:geomhash":"2bc546be65cd2e6c0a59377551006f52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404568203,
-    "wof:lastmodified":1598919549,
+    "wof:lastmodified":1684351714,
     "wof:name":"Vouvry",
     "wof:parent_id":102063065,
     "wof:placetype":"localadmin",
+    "wof:population":4199,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

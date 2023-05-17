@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0922",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Blumenstein",
+    "eurostat:nuts_2021_id":"CH0922",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0922",
+    "eurostat:population":1246,
+    "eurostat:population_year":2020,
     "geom:area":0.001826,
-    "geom:area_square_m":15478737.860357,
+    "geom:area_square_m":15478737.860356,
     "geom:bbox":"7.454388,46.703525,7.539446,46.754427",
     "geom:latitude":46.728134,
     "geom:longitude":7.495471,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0922",
+        "eurostat:nuts_2021_id":"CH0922",
         "gn:id":7285273,
         "gp:id":12682995,
         "qs_pg:id":1188014
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"416c72ca26aab62563b0d6b1d3f7d78d",
+    "wof:geomhash":"d1b341d172f8e27a0781ed12332fe005",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404568887,
-    "wof:lastmodified":1598919513,
+    "wof:lastmodified":1684351726,
     "wof:name":"Blumenstein",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":1246,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

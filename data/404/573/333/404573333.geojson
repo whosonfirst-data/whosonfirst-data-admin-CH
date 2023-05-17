@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0990",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Walliswil bei Niederbipp",
+    "eurostat:nuts_2021_id":"CH0990",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0990",
+    "eurostat:population":211,
+    "eurostat:population_year":2020,
     "geom:area":0.000175,
     "geom:area_square_m":1468264.703966,
     "geom:bbox":"7.679763,47.227819,7.715581,47.241875",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0990",
+        "eurostat:nuts_2021_id":"CH0990",
         "gn:id":7287530,
         "gp:id":20075429,
         "qs_pg:id":671672
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f791ff36e3d592ab92a29ac31f9606a5",
+    "wof:geomhash":"9dbc69d071e842cb084d55f1490225bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404573333,
-    "wof:lastmodified":1598919956,
+    "wof:lastmodified":1684351773,
     "wof:name":"Walliswil bei Niederbipp",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":211,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Haut-Intyamon",
+    "eurostat:nuts_2021_id":"CH2121",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2121",
+    "eurostat:population":1542,
+    "eurostat:population_year":2020,
     "geom:area":0.007062,
-    "geom:area_square_m":60110773.570991,
+    "geom:area_square_m":60110773.570986,
     "geom:bbox":"6.977829,46.437906,7.109668,46.546001",
     "geom:latitude":46.498626,
     "geom:longitude":7.03393,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062999,
-        85682301
+        85682301,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2121",
+        "eurostat:nuts_2021_id":"CH2121",
         "gp:id":23388501,
         "qs_pg:id":1310982
     },
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4e21e6ebd54a2d619b88dc7acbc6de3e",
+    "wof:geomhash":"8206dcb7f097fe26df3e08527e55e374",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404567913,
-    "wof:lastmodified":1598919413,
+    "wof:lastmodified":1684351707,
     "wof:name":"Haut-Intyamon",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",
+    "wof:population":1542,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

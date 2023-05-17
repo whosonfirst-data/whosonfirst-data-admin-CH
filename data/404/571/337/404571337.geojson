@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0323",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bannwil",
+    "eurostat:nuts_2021_id":"CH0323",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0323",
+    "eurostat:population":669,
+    "eurostat:population_year":2020,
     "geom:area":0.000567,
-    "geom:area_square_m":4763942.448303,
+    "geom:area_square_m":4763942.448304,
     "geom:bbox":"7.707872,47.226232,7.759296,47.249783",
     "geom:latitude":47.238571,
     "geom:longitude":7.730511,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0323",
+        "eurostat:nuts_2021_id":"CH0323",
         "gn:id":7285152,
         "gp:id":20075367,
         "qs_pg:id":1001796
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3483b674f4036fac3f036936db8ed85c",
+    "wof:geomhash":"268260bb6d724052df3cfaf5ac84c6a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404571337,
-    "wof:lastmodified":1598920013,
+    "wof:lastmodified":1684351757,
     "wof:name":"Bannwil",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":669,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

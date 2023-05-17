@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6730",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Val Terbi",
+    "eurostat:nuts_2021_id":"CH6730",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6730",
+    "eurostat:population":3202,
+    "eurostat:population_year":2020,
     "geom:area":0.005557,
-    "geom:area_square_m":46559222.627237,
+    "geom:area_square_m":46559222.627235,
     "geom:bbox":"7.3985357839,47.3019473793,7.55834095459,47.3802741934",
     "geom:latitude":47.340414,
     "geom:longitude":7.471764,
@@ -54,6 +66,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -61,8 +75,12 @@
         102062791
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6730",
+        "eurostat:nuts_2021_id":"CH6730"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"67e46dc44c4f749c6492cc3dd98279fa",
+    "wof:geomhash":"6a298805c17265c50b9589d71de4245f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +91,12 @@
         }
     ],
     "wof:id":1394254037,
-    "wof:lastmodified":1566640374,
+    "wof:lastmodified":1684351779,
     "wof:name":"Val Terbi",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
+    "wof:population":3202,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5187",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gravesano",
+    "eurostat:nuts_2021_id":"CH5187",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5187",
+    "eurostat:population":1386,
+    "eurostat:population_year":2020,
     "geom:area":0.000083,
-    "geom:area_square_m":709628.48173,
+    "geom:area_square_m":709628.481729,
     "geom:bbox":"8.910583,46.037676,8.925575,46.045499",
     "geom:latitude":46.04211,
     "geom:longitude":8.918722,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5187",
+        "eurostat:nuts_2021_id":"CH5187",
         "gn:id":7285970,
         "gp:id":12683118,
         "qs_pg:id":245246
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7bc2635b86ff566ec27595a28ff9dfab",
+    "wof:geomhash":"851815b2d6d08702c3ecbd2ad307d150",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404573473,
-    "wof:lastmodified":1598919969,
+    "wof:lastmodified":1684351775,
     "wof:name":"Gravesano",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":1386,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

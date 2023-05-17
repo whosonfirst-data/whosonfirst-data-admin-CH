@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0500",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Treiten",
+    "eurostat:nuts_2021_id":"CH0500",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0500",
+    "eurostat:population":416,
+    "eurostat:population_year":2020,
     "geom:area":0.000561,
-    "geom:area_square_m":4729919.08021,
+    "geom:area_square_m":4729919.080209,
     "geom:bbox":"7.14737,46.99137,7.179255,47.020879",
     "geom:latitude":47.006706,
     "geom:longitude":7.164552,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0500",
+        "eurostat:nuts_2021_id":"CH0500",
         "gn:id":7287324,
         "gp:id":12685257,
         "qs_pg:id":394194
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ee11a52180de62d5f86143cd7381171",
+    "wof:geomhash":"48df783a28c71941a65e26643d777f65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571359,
-    "wof:lastmodified":1598920127,
+    "wof:lastmodified":1684351758,
     "wof:name":"Treiten",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":416,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

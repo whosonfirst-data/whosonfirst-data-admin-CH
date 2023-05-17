@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5523",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Froideville",
+    "eurostat:nuts_2021_id":"CH5523",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5523",
+    "eurostat:population":2579,
+    "eurostat:population_year":2020,
     "geom:area":0.000832,
-    "geom:area_square_m":7065733.040351,
+    "geom:area_square_m":7065733.04035,
     "geom:bbox":"6.66607539301,46.5811013028,6.71207768941,46.6122721857",
     "geom:latitude":46.598159,
     "geom:longitude":6.691732,
@@ -64,6 +76,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5523",
+        "eurostat:nuts_2021_id":"CH5523",
         "gn:id":7285872,
         "gp:id":12683500,
         "qs_pg:id":671332
@@ -84,7 +100,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1b9a5e6e33a79c96812869e2f2799e33",
+    "wof:geomhash":"f047b1f5ba7ef72f3c729234137284a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404570551,
-    "wof:lastmodified":1582223091,
+    "wof:lastmodified":1684351747,
     "wof:name":"Froideville",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":2579,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

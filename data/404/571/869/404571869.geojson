@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0382",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"B\u00fcetigen",
+    "eurostat:nuts_2021_id":"CH0382",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0382",
+    "eurostat:population":870,
+    "eurostat:population_year":2020,
     "geom:area":0.000428,
     "geom:area_square_m":3604197.780403,
     "geom:bbox":"7.315508,47.093326,7.351992,47.117284",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0382",
+        "eurostat:nuts_2021_id":"CH0382",
         "gn:id":7285377,
         "gp:id":12684882,
         "qs_pg:id":44024
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c01969cc60217a7264c10aa9ff0d4f80",
+    "wof:geomhash":"64c3ee2573a1214e321e8c83379b20a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404571869,
-    "wof:lastmodified":1598920080,
+    "wof:lastmodified":1684351764,
     "wof:name":"B\u00fcetigen",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":870,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

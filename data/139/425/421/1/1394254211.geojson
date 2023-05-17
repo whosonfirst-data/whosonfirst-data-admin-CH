@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4281",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reitnau",
+    "eurostat:nuts_2021_id":"CH4281",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4281",
+    "eurostat:population":1545,
+    "eurostat:population_year":2020,
     "geom:area":0.000953,
-    "geom:area_square_m":7996393.883569,
+    "geom:area_square_m":7996393.88357,
     "geom:bbox":"8.01375402248,47.2405598374,8.06297512277,47.2705310179",
     "geom:latitude":47.254818,
     "geom:longitude":8.036633,
@@ -99,6 +111,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -106,8 +120,12 @@
         102062851
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH4281",
+        "eurostat:nuts_2021_id":"CH4281"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"3d7b054b3179918a69afc56ab22c151c",
+    "wof:geomhash":"3ca97ddba6a5db0e2fe211017dccfb4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +136,12 @@
         }
     ],
     "wof:id":1394254211,
-    "wof:lastmodified":1566640363,
+    "wof:lastmodified":1684351784,
     "wof:name":"Reitnau",
     "wof:parent_id":102062851,
     "wof:placetype":"localadmin",
+    "wof:population":1545,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

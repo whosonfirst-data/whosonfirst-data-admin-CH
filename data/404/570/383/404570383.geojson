@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marly",
+    "eurostat:nuts_2021_id":"CH2206",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2206",
+    "eurostat:population":8193,
+    "eurostat:population_year":2020,
     "geom:area":0.000909,
-    "geom:area_square_m":7701390.174981,
+    "geom:area_square_m":7701390.174982,
     "geom:bbox":"7.12130484963,46.7626314123,7.1806062685,46.7909412225",
     "geom:latitude":46.775973,
     "geom:longitude":7.149272,
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -117,6 +131,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2206",
+        "eurostat:nuts_2021_id":"CH2206",
         "gn:id":7286436,
         "gp:id":12683942,
         "qs_pg:id":1310663
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"125a32e0451db7a25a3cecea740093cd",
+    "wof:geomhash":"0843b22f13337c9ae1d10580ef1c5ded",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404570383,
-    "wof:lastmodified":1582223100,
+    "wof:lastmodified":1684351745,
     "wof:name":"Marly",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":8193,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

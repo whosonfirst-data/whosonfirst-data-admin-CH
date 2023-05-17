@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Weiach",
+    "eurostat:nuts_2021_id":"CH0102",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0102",
+    "eurostat:population":1810,
+    "eurostat:population_year":2020,
     "geom:area":0.001144,
-    "geom:area_square_m":9550582.30627,
+    "geom:area_square_m":9550582.306271,
     "geom:bbox":"8.414437,47.537132,8.468784,47.572485",
     "geom:latitude":47.556139,
     "geom:longitude":8.439707,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062995,
-        85682309
+        85682309,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0102",
+        "eurostat:nuts_2021_id":"CH0102",
         "gn:id":7287554,
         "gp:id":12685105,
         "qs_pg:id":226307
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"82e3f32d962ad1ca5f2cc1532278e2ba",
+    "wof:geomhash":"9aa2e6a83aa97664962af79852e6927e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404569855,
-    "wof:lastmodified":1598919338,
+    "wof:lastmodified":1684351739,
     "wof:name":"Weiach",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",
+    "wof:population":1810,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

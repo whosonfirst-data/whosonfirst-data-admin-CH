@@ -4,6 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Basel-Stadt",
+    "eurostat:name_local":"Basel-Stadt",
+    "eurostat:nuts_2021_id":"CH031",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH031",
+    "eurostat:population":196036,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"1",
     "geom:area":0.004416,
     "geom:area_square_m":36846331.066831,
     "geom:bbox":"7.554654,47.519292,7.693793,47.600912",
@@ -442,8 +456,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"37",
     "statoids:area_mi":"14",
     "statoids:as_of_date":"2010-12-31",
@@ -464,6 +478,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":10163,
+        "eurostat:nuts_2021_id":"CH031",
         "fips:code":"SZ04",
         "gn:id":2661602,
         "gp:id":2347086,
@@ -475,7 +490,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a529a25dbc5294620b29285f1e482406",
+    "wof:geomhash":"56b96a8d43ddc0b521c313028fcf2194",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -497,12 +512,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1598916054,
+    "wof:lastmodified":1684351499,
     "wof:name":"Basel-City",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":184950,
+    "wof:population":196036,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"BS",

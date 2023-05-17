@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Adliswil",
+    "eurostat:nuts_2021_id":"CH0131",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0131",
+    "eurostat:population":18769,
+    "eurostat:population_year":2020,
     "geom:area":0.000924,
-    "geom:area_square_m":7746683.099968,
+    "geom:area_square_m":7746683.099967,
     "geom:bbox":"8.50317219507,47.2862694547,8.54075612899,47.3301823541",
     "geom:latitude":47.309326,
     "geom:longitude":8.521275,
@@ -151,6 +163,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -159,6 +173,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0131",
+        "eurostat:nuts_2021_id":"CH0131",
         "gn:id":7285023,
         "gp:id":12682710,
         "qs_pg:id":190968
@@ -171,7 +187,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"223741f9758539d484254d6407af20e3",
+    "wof:geomhash":"68b4c8cd9419bf910ee1c3fd2b76930a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,10 +198,12 @@
         }
     ],
     "wof:id":404570347,
-    "wof:lastmodified":1582223102,
+    "wof:lastmodified":1684351745,
     "wof:name":"Adliswil",
     "wof:parent_id":102062825,
     "wof:placetype":"localadmin",
+    "wof:population":18769,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

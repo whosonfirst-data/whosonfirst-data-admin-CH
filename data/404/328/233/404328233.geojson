@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Herisau",
+    "eurostat:nuts_2021_id":"CH3001",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH053",
+    "eurostat:nuts_2021_level_lau":"CH3001",
+    "eurostat:population":15745,
+    "eurostat:population_year":2020,
     "geom:area":0.003002,
-    "geom:area_square_m":25131924.429531,
+    "geom:area_square_m":25131924.429527,
     "geom:bbox":"9.218727,47.359475,9.328007,47.401248",
     "geom:latitude":47.382876,
     "geom:longitude":9.274108,
@@ -216,6 +228,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -224,6 +238,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3001",
+        "eurostat:nuts_2021_id":"CH3001",
         "gn:id":7286068,
         "gp:id":12683670,
         "qs_pg:id":198327
@@ -236,7 +252,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"23e0c730d55316c8f458e46f856c56ca",
+    "wof:geomhash":"51d29baa1ee2569f9c2f34b8b724029e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -247,10 +263,12 @@
         }
     ],
     "wof:id":404328233,
-    "wof:lastmodified":1636413523,
+    "wof:lastmodified":1684351692,
     "wof:name":"Herisau",
     "wof:parent_id":1394137085,
     "wof:placetype":"localadmin",
+    "wof:population":15745,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

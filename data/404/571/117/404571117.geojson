@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5748",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bretonni\u00e8res",
+    "eurostat:nuts_2021_id":"CH5748",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5748",
+    "eurostat:population":264,
+    "eurostat:population_year":2020,
     "geom:area":0.000641,
-    "geom:area_square_m":5434685.743812,
+    "geom:area_square_m":5434685.743811,
     "geom:bbox":"6.449509,46.70104,6.489178,46.728168",
     "geom:latitude":46.71594,
     "geom:longitude":6.470385,
@@ -94,6 +106,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -102,6 +116,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5748",
+        "eurostat:nuts_2021_id":"CH5748",
         "gn:id":7285330,
         "gp:id":12684779,
         "qs_pg:id":1040483
@@ -114,7 +130,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"63922edc730755175d94f7091f352dd1",
+    "wof:geomhash":"d67beb02c69e0ee3bdabae0a1f994bf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404571117,
-    "wof:lastmodified":1617131333,
+    "wof:lastmodified":1684351755,
     "wof:name":"Bretonni\u00e8res",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":264,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

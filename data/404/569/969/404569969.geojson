@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4723",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Braunau",
+    "eurostat:nuts_2021_id":"CH4723",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4723",
+    "eurostat:population":778,
+    "eurostat:population_year":2020,
     "geom:area":0.001095,
-    "geom:area_square_m":9144421.04434,
+    "geom:area_square_m":9144421.044339,
     "geom:bbox":"9.04138773175,47.4874125824,9.09672499149,47.5209123024",
     "geom:latitude":47.504344,
     "geom:longitude":9.068805,
@@ -91,6 +103,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4723",
+        "eurostat:nuts_2021_id":"CH4723",
         "gp:id":12685131,
         "qs_pg:id":1015432
     },
@@ -110,7 +126,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"29790686e82cac25c1ce1de52c8409a8",
+    "wof:geomhash":"4ef84af3afb77ec4e3aba83ed95fec40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":404569969,
-    "wof:lastmodified":1582222960,
+    "wof:lastmodified":1684351740,
     "wof:name":"Braunau",
     "wof:parent_id":102062981,
     "wof:placetype":"localadmin",
+    "wof:population":778,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

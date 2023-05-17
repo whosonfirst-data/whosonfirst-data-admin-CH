@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3781",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bever",
+    "eurostat:nuts_2021_id":"CH3781",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3781",
+    "eurostat:population":616,
+    "eurostat:population_year":2020,
     "geom:area":0.005365,
-    "geom:area_square_m":45631237.074492,
+    "geom:area_square_m":45631237.074498,
     "geom:bbox":"9.69346823714,46.5045898951,9.93385359522,46.5750212344",
     "geom:latitude":46.542964,
     "geom:longitude":9.800482,
@@ -88,6 +100,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3781",
+        "eurostat:nuts_2021_id":"CH3781",
         "gp:id":12682758,
         "qs_pg:id":1306333
     },
@@ -104,7 +120,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bf3e096206ea3c4723a0e06981934848",
+    "wof:geomhash":"951849d7dbf5d276b862844accefba97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,10 +131,12 @@
         }
     ],
     "wof:id":404568491,
-    "wof:lastmodified":1582223002,
+    "wof:lastmodified":1684351719,
     "wof:name":"Bever",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",
+    "wof:population":616,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

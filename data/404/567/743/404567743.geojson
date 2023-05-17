@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cevio",
+    "eurostat:nuts_2021_id":"CH5310",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5310",
+    "eurostat:population":1159,
+    "eurostat:population_year":2020,
     "geom:area":0.017691,
-    "geom:area_square_m":150914724.925961,
+    "geom:area_square_m":150914724.925966,
     "geom:bbox":"8.456869,46.276176,8.68149,46.474459",
     "geom:latitude":46.37835,
     "geom:longitude":8.542293,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062957,
-        85682269
+        85682269,
+        102062957
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5310",
+        "eurostat:nuts_2021_id":"CH5310",
         "gn:id":7285458,
         "gp:id":12684588,
         "qs_pg:id":1163594
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"79b13f464bc5bde03ec60de80d7afcb1",
+    "wof:geomhash":"1d7848c35ca08647a13c549a0ced2a8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404567743,
-    "wof:lastmodified":1598919445,
+    "wof:lastmodified":1684351704,
     "wof:name":"Cevio",
     "wof:parent_id":102062957,
     "wof:placetype":"localadmin",
+    "wof:population":1159,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0536",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Diemerswil",
+    "eurostat:nuts_2021_id":"CH0536",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0536",
+    "eurostat:population":206,
+    "eurostat:population_year":2020,
     "geom:area":0.000339,
     "geom:area_square_m":2855156.749664,
     "geom:bbox":"7.401939,47.01134,7.437058,47.027412",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0536",
+        "eurostat:nuts_2021_id":"CH0536",
         "gp:id":20075382,
         "qs_pg:id":50505
     },
@@ -125,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1ea5757f31b5e4ddfdbf2eff095c4211",
+    "wof:geomhash":"17665f60ef7bafe9389724f450188a87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404572191,
-    "wof:lastmodified":1598919817,
+    "wof:lastmodified":1684351767,
     "wof:name":"Diemerswil",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":206,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

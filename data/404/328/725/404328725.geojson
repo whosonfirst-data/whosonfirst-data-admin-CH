@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2455",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"L\u00fcterkofen-Ichertswil",
+    "eurostat:nuts_2021_id":"CH2455",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2455",
+    "eurostat:population":797,
+    "eurostat:population_year":2020,
     "geom:area":0.000525,
     "geom:area_square_m":4417463.613173,
     "geom:bbox":"7.479595,47.152042,7.522927,47.175146",
@@ -105,14 +117,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137095,
-        85682365
+        85682365,
+        1394137095
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2455",
+        "eurostat:nuts_2021_id":"CH2455",
         "gn:id":7286399,
         "gp:id":12684929,
         "qs_pg:id":500451
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f60286badde0f89d884914e4e6d0704c",
+    "wof:geomhash":"5306a5a81ed980c3b7f8e2c7e69da771",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404328725,
-    "wof:lastmodified":1598920352,
+    "wof:lastmodified":1684351700,
     "wof:name":"L\u00fcterkofen-Ichertswil",
     "wof:parent_id":1394137095,
     "wof:placetype":"localadmin",
+    "wof:population":797,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

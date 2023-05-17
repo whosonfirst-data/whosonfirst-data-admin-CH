@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6638",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Satigny",
+    "eurostat:nuts_2021_id":"CH6638",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6638",
+    "eurostat:population":4187,
+    "eurostat:population_year":2020,
     "geom:area":0.002206,
-    "geom:area_square_m":18871572.034694,
+    "geom:area_square_m":18871572.034691,
     "geom:bbox":"5.994692,46.192685,6.074467,46.238549",
     "geom:latitude":46.214065,
     "geom:longitude":6.036803,
@@ -107,14 +119,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6638",
+        "eurostat:nuts_2021_id":"CH6638",
         "gn:id":7287059,
         "gp:id":12683194,
         "qs_pg:id":231319
@@ -127,7 +143,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7fcf6fdf8034c8cb8e53e3a67c01b96b",
+    "wof:geomhash":"e9bb60767f4c83e9276231bc4229e064",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404328277,
-    "wof:lastmodified":1598920422,
+    "wof:lastmodified":1684351693,
     "wof:name":"Satigny",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":4187,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

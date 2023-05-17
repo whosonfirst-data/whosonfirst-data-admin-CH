@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Romont (FR)",
+    "eurostat:nuts_2021_id":"CH2096",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2096",
+    "eurostat:population":5280,
+    "eurostat:population_year":2020,
     "geom:area":0.001281,
-    "geom:area_square_m":10862391.111022,
+    "geom:area_square_m":10862391.111027,
     "geom:bbox":"6.892313,46.673692,6.960333,46.723549",
     "geom:latitude":46.700129,
     "geom:longitude":6.918149,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062867,
-        85682301
+        85682301,
+        102062867
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2096",
+        "eurostat:nuts_2021_id":"CH2096",
         "gn:id":7286943,
         "gp:id":12684291,
         "qs_pg:id":671551
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cd0bdb8b7bd81a9d1f4b7ecf4d69a51a",
+    "wof:geomhash":"9ccb3b78ab52ccf1bd43408ecc78c32a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404569615,
-    "wof:lastmodified":1598919308,
+    "wof:lastmodified":1684351736,
     "wof:name":"Romont",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",
+    "wof:population":5280,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

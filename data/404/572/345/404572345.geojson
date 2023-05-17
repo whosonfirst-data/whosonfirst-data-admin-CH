@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2766",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Birsfelden",
+    "eurostat:nuts_2021_id":"CH2766",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2766",
+    "eurostat:population":10303,
+    "eurostat:population_year":2020,
     "geom:area":0.0003,
     "geom:area_square_m":2504604.65976,
     "geom:bbox":"7.617582,47.54071,7.645913,47.561706",
@@ -133,14 +145,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062971,
-        85682361
+        85682361,
+        102062971
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2766",
+        "eurostat:nuts_2021_id":"CH2766",
         "gn:id":7285259,
         "qs_pg:id":1154221
     },
@@ -152,7 +168,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"564aeb22364ee5b664cee2c96cd86334",
+    "wof:geomhash":"c4335912fe847038c281472883ea23ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,10 +179,12 @@
         }
     ],
     "wof:id":404572345,
-    "wof:lastmodified":1598919863,
+    "wof:lastmodified":1684351769,
     "wof:name":"Birsfelden",
     "wof:parent_id":102062971,
     "wof:placetype":"localadmin",
+    "wof:population":10303,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

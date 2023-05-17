@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avully",
+    "eurostat:nuts_2021_id":"CH6603",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6603",
+    "eurostat:population":1757,
+    "eurostat:population_year":2020,
     "geom:area":0.000538,
     "geom:area_square_m":4606143.862258,
     "geom:bbox":"5.975794,46.157635,6.020592,46.177106",
@@ -107,6 +119,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -115,6 +129,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6603",
+        "eurostat:nuts_2021_id":"CH6603",
         "gp:id":12684762,
         "qs_pg:id":1015172
     },
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e5e44ab58e080e9cc6487c0f9bed2542",
+    "wof:geomhash":"63645fc5a4ed96816d5e7015a4c1e75c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404328709,
-    "wof:lastmodified":1617131415,
+    "wof:lastmodified":1684351699,
     "wof:name":"Avully",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":1757,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

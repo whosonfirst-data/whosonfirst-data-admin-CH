@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hasle (LU)",
+    "eurostat:nuts_2021_id":"CH1005",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1005",
+    "eurostat:population":1744,
+    "eurostat:population_year":2020,
     "geom:area":0.004763,
-    "geom:area_square_m":40206446.031298,
+    "geom:area_square_m":40206446.031305,
     "geom:bbox":"8.01686028602,46.895729055,8.13541182448,46.9994358683",
     "geom:latitude":46.950423,
     "geom:longitude":8.076326,
@@ -78,6 +90,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -86,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1005",
+        "eurostat:nuts_2021_id":"CH1005",
         "gn:id":7286032,
         "gp:id":12683643,
         "qs_pg:id":1153969
@@ -95,7 +111,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"795c69a0e517366d55fce16539d533d5",
+    "wof:geomhash":"4ada5152993f3c37ad2d8ca3272dea2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":404328179,
-    "wof:lastmodified":1582223088,
+    "wof:lastmodified":1684351691,
     "wof:name":"Hasle",
     "wof:parent_id":1394137073,
     "wof:placetype":"localadmin",
+    "wof:population":1744,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

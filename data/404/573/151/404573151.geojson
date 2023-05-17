@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3711",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rongellen",
+    "eurostat:nuts_2021_id":"CH3711",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3711",
+    "eurostat:population":53,
+    "eurostat:population_year":2020,
     "geom:area":0.000237,
-    "geom:area_square_m":2012175.538039,
+    "geom:area_square_m":2012175.538038,
     "geom:bbox":"9.425642,46.665694,9.453902,46.680538",
     "geom:latitude":46.673881,
     "geom:longitude":9.440568,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137069,
-        85682255
+        85682255,
+        1394137069
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3711",
+        "eurostat:nuts_2021_id":"CH3711",
         "gn:id":7286946,
         "gp:id":12684293,
         "qs_pg:id":1016816
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"edf9f1f8e968b5c35b36cc5820db687a",
+    "wof:geomhash":"5fd1088d66c747bba030948d303305d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404573151,
-    "wof:lastmodified":1598919890,
+    "wof:lastmodified":1684351771,
     "wof:name":"Rongellen",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
+    "wof:population":53,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

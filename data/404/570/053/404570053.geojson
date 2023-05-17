@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4683",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lengwil",
+    "eurostat:nuts_2021_id":"CH4683",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4683",
+    "eurostat:population":1734,
+    "eurostat:population_year":2020,
     "geom:area":0.001063,
     "geom:area_square_m":8860692.902618,
     "geom:bbox":"9.172701,47.591598,9.222518,47.633",
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062953,
-        85682337
+        85682337,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4683",
+        "eurostat:nuts_2021_id":"CH4683",
         "gn:id":7286314,
         "gp:id":12685135,
         "qs_pg:id":44103
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1337fa3c6d22c1f4787af5d108d342df",
+    "wof:geomhash":"fbfae4019c191c2d5006235a74821970",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404570053,
-    "wof:lastmodified":1598920574,
+    "wof:lastmodified":1684351742,
     "wof:name":"Lengwil",
     "wof:parent_id":102062953,
     "wof:placetype":"localadmin",
+    "wof:population":1734,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

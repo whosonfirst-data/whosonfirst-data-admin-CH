@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lax",
+    "eurostat:nuts_2021_id":"CH6061",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6061",
+    "eurostat:population":309,
+    "eurostat:population_year":2020,
     "geom:area":0.000633,
-    "geom:area_square_m":5399740.063108,
+    "geom:area_square_m":5399740.063107,
     "geom:bbox":"8.07883273518,46.3783244924,8.12546943718,46.4175742627",
     "geom:latitude":46.398561,
     "geom:longitude":8.104065,
@@ -67,6 +79,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6061",
+        "eurostat:nuts_2021_id":"CH6061",
         "gn:id":7286293,
         "gp:id":12683846,
         "qs_pg:id":671417
@@ -87,7 +103,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"700bd42fa57d5251834a3877294df11a",
+    "wof:geomhash":"66ffac25cb3886e81e789ab3e5154912",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404571133,
-    "wof:lastmodified":1582223046,
+    "wof:lastmodified":1684351755,
     "wof:name":"Lax",
     "wof:parent_id":102063031,
     "wof:placetype":"localadmin",
+    "wof:population":309,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

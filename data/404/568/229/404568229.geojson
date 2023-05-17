@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0564",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kandergrund",
+    "eurostat:nuts_2021_id":"CH0564",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0564",
+    "eurostat:population":805,
+    "eurostat:population_year":2020,
     "geom:area":0.003763,
     "geom:area_square_m":32006556.272496,
     "geom:bbox":"7.63845,46.506066,7.72952,46.568669",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062831,
-        85682381
+        85682381,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0564",
+        "eurostat:nuts_2021_id":"CH0564",
         "gn:id":7286177,
         "gp:id":12682993,
         "qs_pg:id":1145770
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"481aeb832ccc7ce6692539a531d6b237",
+    "wof:geomhash":"c1eac557ff1fa1f2e1c5c97ce5431488",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404568229,
-    "wof:lastmodified":1598919495,
+    "wof:lastmodified":1684351714,
     "wof:name":"Kandergrund",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",
+    "wof:population":805,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

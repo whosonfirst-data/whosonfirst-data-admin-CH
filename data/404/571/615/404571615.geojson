@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3663",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Masein",
+    "eurostat:nuts_2021_id":"CH3663",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3663",
+    "eurostat:population":488,
+    "eurostat:population_year":2020,
     "geom:area":0.000494,
     "geom:area_square_m":4188843.812723,
     "geom:bbox":"9.408896,46.678027,9.43559,46.713756",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137069,
-        85682255
+        85682255,
+        1394137069
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3663",
+        "eurostat:nuts_2021_id":"CH3663",
         "gn:id":7286449,
         "gp:id":12685188,
         "qs_pg:id":905986
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a2df0b5032dd11455dcf147bce88db37",
+    "wof:geomhash":"5abaa3ad826327be2a6a5c7d0d54c787",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404571615,
-    "wof:lastmodified":1598920176,
+    "wof:lastmodified":1684351761,
     "wof:name":"Masein",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
+    "wof:population":488,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

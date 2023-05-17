@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberrohrdorf",
+    "eurostat:nuts_2021_id":"CH4037",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4037",
+    "eurostat:population":4072,
+    "eurostat:population_year":2020,
     "geom:area":0.000513,
-    "geom:area_square_m":4289515.032179,
+    "geom:area_square_m":4289515.03218,
     "geom:bbox":"8.304345,47.412324,8.341298,47.441548",
     "geom:latitude":47.425124,
     "geom:longitude":8.320528,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062843,
-        85682329
+        85682329,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4037",
+        "eurostat:nuts_2021_id":"CH4037",
         "gp:id":12684986,
         "qs_pg:id":62067
     },
@@ -134,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"30c2f749d482bee20aaea15fa556f961",
+    "wof:geomhash":"2f3290bc3863a6b28388afb8455546e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404571571,
-    "wof:lastmodified":1598920217,
+    "wof:lastmodified":1684351760,
     "wof:name":"Oberrohrdorf",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
+    "wof:population":4072,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

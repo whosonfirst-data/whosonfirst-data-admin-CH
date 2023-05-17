@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jonschwil",
+    "eurostat:nuts_2021_id":"CH3405",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3405",
+    "eurostat:population":3774,
+    "eurostat:population_year":2020,
     "geom:area":0.001311,
-    "geom:area_square_m":10964064.066389,
+    "geom:area_square_m":10964064.06639,
     "geom:bbox":"9.05429927802,47.405276171,9.12230341171,47.4500927597",
     "geom:latitude":47.428357,
     "geom:longitude":9.088411,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -120,6 +134,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3405",
+        "eurostat:nuts_2021_id":"CH3405",
         "gn:id":7286166,
         "gp:id":12683745,
         "qs_pg:id":671391
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e3723e77964f9dbc3554acc3eba4862",
+    "wof:geomhash":"8df20448cdef99369e1092c9fc4fd980",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404569591,
-    "wof:lastmodified":1582222960,
+    "wof:lastmodified":1684351735,
     "wof:name":"Jonschwil",
     "wof:parent_id":102062947,
     "wof:placetype":"localadmin",
+    "wof:population":3774,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

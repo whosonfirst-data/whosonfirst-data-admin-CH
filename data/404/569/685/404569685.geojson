@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6782",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cornol",
+    "eurostat:nuts_2021_id":"CH6782",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6782",
+    "eurostat:population":1010,
+    "eurostat:population_year":2020,
     "geom:area":0.001245,
-    "geom:area_square_m":10416087.105239,
+    "geom:area_square_m":10416087.105238,
     "geom:bbox":"7.1358,47.382596,7.187119,47.425317",
     "geom:latitude":47.404767,
     "geom:longitude":7.163096,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063059,
-        85682347
+        85682347,
+        102063059
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6782",
+        "eurostat:nuts_2021_id":"CH6782",
         "gn:id":7285561,
         "qs_pg:id":671251
     },
@@ -116,7 +132,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"78987770902f42b8a74cc8cf3cf305eb",
+    "wof:geomhash":"5f73b797bdba64dfc0c66c11638fa969",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404569685,
-    "wof:lastmodified":1598919293,
+    "wof:lastmodified":1684351736,
     "wof:name":"Cornol",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
+    "wof:population":1010,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

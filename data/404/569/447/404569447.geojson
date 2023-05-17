@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4696",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"T\u00e4gerwilen",
+    "eurostat:nuts_2021_id":"CH4696",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4696",
+    "eurostat:population":4642,
+    "eurostat:population_year":2020,
     "geom:area":0.001384,
-    "geom:area_square_m":11526526.78325,
+    "geom:area_square_m":11526526.783248,
     "geom:bbox":"9.106002,47.623125,9.163516,47.666535",
     "geom:latitude":47.647918,
     "geom:longitude":9.132122,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062953,
-        85682337
+        85682337,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4696",
+        "eurostat:nuts_2021_id":"CH4696",
         "gn:id":7287276,
         "gp:id":12684477,
         "qs_pg:id":268944
@@ -141,7 +157,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"66ef3d277acdba577a3688f8c8239d64",
+    "wof:geomhash":"c652ff290ae08b21e1d678a5b0f10fe6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404569447,
-    "wof:lastmodified":1598919170,
+    "wof:lastmodified":1684351734,
     "wof:name":"T\u00e4gerwilen",
     "wof:parent_id":102062953,
     "wof:placetype":"localadmin",
+    "wof:population":4642,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

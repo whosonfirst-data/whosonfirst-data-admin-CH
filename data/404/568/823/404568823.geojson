@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2291",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alterswil",
+    "eurostat:nuts_2021_id":"CH2291",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2291",
+    "eurostat:population":2028,
+    "eurostat:population_year":2020,
     "geom:area":0.001902,
-    "geom:area_square_m":16097687.24986,
+    "geom:area_square_m":16097687.249859,
     "geom:bbox":"7.215074,46.763799,7.304661,46.816628",
     "geom:latitude":46.792536,
     "geom:longitude":7.263687,
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -117,6 +131,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2291",
+        "eurostat:nuts_2021_id":"CH2291",
         "gn:id":7285059,
         "gp:id":12682786,
         "qs_pg:id":220882
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3cc5e56cfeb3933b917662c60d153990",
+    "wof:geomhash":"55799ab9686e7cd91cadbe19cd4c92d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568823,
-    "wof:lastmodified":1617129978,
+    "wof:lastmodified":1684351725,
     "wof:name":"Alterswil",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",
+    "wof:population":2028,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

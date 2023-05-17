@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6436",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Le Locle",
+    "eurostat:nuts_2021_id":"CH6436",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6436",
+    "eurostat:population":10216,
+    "eurostat:population_year":2020,
     "geom:area":0.002738,
-    "geom:area_square_m":23070345.689437,
+    "geom:area_square_m":23070345.689436,
     "geom:bbox":"6.69891,47.023107,6.786862,47.088589",
     "geom:latitude":47.053174,
     "geom:longitude":6.748189,
@@ -160,6 +172,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -167,6 +181,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6436",
+        "eurostat:nuts_2021_id":"CH6436",
         "gn:id":7286309,
         "gp:id":12683851,
         "qs_pg:id":1315809
@@ -179,7 +195,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"58984e4f6fab7a8ee3370006d2b49aa1",
+    "wof:geomhash":"aa38597bc3436f95c27dcd8da84bae22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,10 +205,12 @@
         }
     ],
     "wof:id":404568469,
-    "wof:lastmodified":1617130624,
+    "wof:lastmodified":1684351719,
     "wof:name":"Le Locle",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":10216,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

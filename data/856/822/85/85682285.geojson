@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Schaffhausen",
+    "eurostat:name_local":"Schaffhausen",
+    "eurostat:nuts_2021_id":"CH052",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:population":83995,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.035762,
-    "geom:area_square_m":297528058.1307,
+    "geom:area_square_m":297528058.130703,
     "geom:bbox":"8.40463,47.552361,8.87622,47.808457",
     "geom:latitude":47.713556,
     "geom:longitude":8.591712,
@@ -412,8 +426,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"298",
     "statoids:area_mi":"115",
     "statoids:as_of_date":"2010-12-31",
@@ -433,6 +447,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":10176,
+        "eurostat:nuts_2021_id":"CH052",
         "fips:code":"SZ16",
         "gn:id":2658760,
         "gp:id":2347098,
@@ -444,7 +459,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"86b78df1e7136e3f5f9539f3043dd975",
+    "wof:geomhash":"19519698f94c484f9ec346735d7bfe47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -466,12 +481,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1636413503,
+    "wof:lastmodified":1684351498,
     "wof:name":"Schaffhausen",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":76356,
+    "wof:population":83995,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"SH",

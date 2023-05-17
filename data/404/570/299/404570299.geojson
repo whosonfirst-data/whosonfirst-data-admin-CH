@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2868",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zeglingen",
+    "eurostat:nuts_2021_id":"CH2868",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2868",
+    "eurostat:population":508,
+    "eurostat:population_year":2020,
     "geom:area":0.000943,
-    "geom:area_square_m":7889316.751041,
+    "geom:area_square_m":7889316.751042,
     "geom:bbox":"7.882111,47.39852,7.942067,47.424818",
     "geom:latitude":47.412126,
     "geom:longitude":7.912334,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062819,
-        85682361
+        85682361,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2868",
+        "eurostat:nuts_2021_id":"CH2868",
         "gn:id":7287625,
         "gp:id":12684660,
         "qs_pg:id":539074
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"de5aef458e4a8d2dc7f44c4fce6eac0b",
+    "wof:geomhash":"bcd2043ba8d1296a3dc5baa19228c8b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404570299,
-    "wof:lastmodified":1598920708,
+    "wof:lastmodified":1684351745,
     "wof:name":"Zeglingen",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",
+    "wof:population":508,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

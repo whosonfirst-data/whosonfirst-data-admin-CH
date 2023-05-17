@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0172",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fehraltorf",
+    "eurostat:nuts_2021_id":"CH0172",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0172",
+    "eurostat:population":6435,
+    "eurostat:population_year":2020,
     "geom:area":0.001128,
     "geom:area_square_m":9444151.159259,
     "geom:bbox":"8.72459825265,47.363672051,8.77632995735,47.4060049049",
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -123,6 +137,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0172",
+        "eurostat:nuts_2021_id":"CH0172",
         "gn:id":7285800,
         "gp:id":12683445,
         "qs_pg:id":392514
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5075859d099e45fabaab0f6f73d3a74",
+    "wof:geomhash":"031870078e0fc8c25ff7d9fb41976eac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404569907,
-    "wof:lastmodified":1582222946,
+    "wof:lastmodified":1684351739,
     "wof:name":"Fehraltorf",
     "wof:parent_id":102062779,
     "wof:placetype":"localadmin",
+    "wof:population":6435,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],
