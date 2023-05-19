@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2535",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Drei H\u00f6fe",
+    "eurostat:nuts_2021_id":"CH2535",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2535",
+    "eurostat:population":746,
+    "eurostat:population_year":2020,
     "geom:area":0.000543,
-    "geom:area_square_m":4563515.024837,
+    "geom:area_square_m":4563515.024836,
     "geom:bbox":"7.61542159146,47.1489201176,7.65355397474,47.1717415578",
     "geom:latitude":47.160635,
     "geom:longitude":7.636927,
@@ -51,6 +63,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -58,8 +72,12 @@
         1394137123
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2535",
+        "eurostat:nuts_2021_id":"CH2535"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"089f97f6842fa871a5c85053fad2b9e4",
+    "wof:geomhash":"01cd6a7ae2db60049bd8bc24e8fabd27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +88,12 @@
         }
     ],
     "wof:id":1394254221,
-    "wof:lastmodified":1566640346,
+    "wof:lastmodified":1684351785,
     "wof:name":"Drei H\u00f6fe",
     "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",
+    "wof:population":746,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

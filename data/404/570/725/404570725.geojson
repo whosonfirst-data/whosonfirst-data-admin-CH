@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4851",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salenstein",
+    "eurostat:nuts_2021_id":"CH4851",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4851",
+    "eurostat:population":1323,
+    "eurostat:population_year":2020,
     "geom:area":0.000784,
     "geom:area_square_m":6531869.137862,
     "geom:bbox":"9.035883,47.64348,9.077545,47.674587",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062953,
-        85682337
+        85682337,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4851",
+        "eurostat:nuts_2021_id":"CH4851",
         "gn:id":7287040,
         "qs_pg:id":106672
     },
@@ -134,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4724fd7a1b97d89e0ba3413b0ab4093d",
+    "wof:geomhash":"58cc911a9a29df321e8b2dfb07bafe43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404570725,
-    "wof:lastmodified":1598920597,
+    "wof:lastmodified":1684351750,
     "wof:name":"Salenstein",
     "wof:parent_id":102062953,
     "wof:placetype":"localadmin",
+    "wof:population":1323,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

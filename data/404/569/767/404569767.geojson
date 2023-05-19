@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0574",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brienzwiler",
+    "eurostat:nuts_2021_id":"CH0574",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0574",
+    "eurostat:population":479,
+    "eurostat:population_year":2020,
     "geom:area":0.002076,
     "geom:area_square_m":17596508.854553,
     "geom:bbox":"8.053345,46.69149,8.12624,46.773814",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062759,
-        85682381
+        85682381,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0574",
+        "eurostat:nuts_2021_id":"CH0574",
         "gn:id":7285334,
         "gp:id":12683048,
         "qs_pg:id":77287
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"742396abbfe1bcc0788885e6b931e680",
+    "wof:geomhash":"20dae1792a1370cc27aef63c44bdacc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404569767,
-    "wof:lastmodified":1598919265,
+    "wof:lastmodified":1684351738,
     "wof:name":"Brienzwiler",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":479,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

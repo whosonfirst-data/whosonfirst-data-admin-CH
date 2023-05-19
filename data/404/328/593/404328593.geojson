@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6634",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pregny-Chamb\u00e9sy",
+    "eurostat:nuts_2021_id":"CH6634",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6634",
+    "eurostat:population":3881,
+    "eurostat:population_year":2020,
     "geom:area":0.000731,
     "geom:area_square_m":6252760.442263,
     "geom:bbox":"6.128481,46.224465,6.173449,46.250962",
@@ -110,14 +122,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6634",
+        "eurostat:nuts_2021_id":"CH6634",
         "gp:id":12683586,
         "qs_pg:id":32071
     },
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"27d8c2db15d81158a0248f1d1c9b2c7f",
+    "wof:geomhash":"ec02a5a7d6c0185ff6b4d207415a1385",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404328593,
-    "wof:lastmodified":1598920256,
+    "wof:lastmodified":1684351698,
     "wof:name":"Pregny-Chamb\u00e9sy",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":3881,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

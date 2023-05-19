@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5692",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vucherens",
+    "eurostat:nuts_2021_id":"CH5692",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5692",
+    "eurostat:population":576,
+    "eurostat:population_year":2020,
     "geom:area":0.000385,
-    "geom:area_square_m":3267916.452944,
+    "geom:area_square_m":3267916.452946,
     "geom:bbox":"6.7598,46.615966,6.788533,46.639514",
     "geom:latitude":46.626937,
     "geom:longitude":6.775856,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062969,
-        85682325
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5692",
+        "eurostat:nuts_2021_id":"CH5692",
         "gn:id":7287501,
         "gp:id":12684698,
         "qs_pg:id":1017690
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"718bd3b42facaccb65b1b8761639f295",
+    "wof:geomhash":"2ef8406967f8c5507b9b3e05940a6699",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404572029,
-    "wof:lastmodified":1598919837,
+    "wof:lastmodified":1684351765,
     "wof:name":"Vucherens",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":576,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

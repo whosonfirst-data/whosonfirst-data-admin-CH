@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5790",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maracon",
+    "eurostat:nuts_2021_id":"CH5790",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5790",
+    "eurostat:population":491,
+    "eurostat:population_year":2020,
     "geom:area":0.000514,
-    "geom:area_square_m":4371584.667177,
+    "geom:area_square_m":4371584.667176,
     "geom:bbox":"6.8624,46.541579,6.902279,46.570592",
     "geom:latitude":46.558521,
     "geom:longitude":6.879006,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063047,
-        85682325
+        85682325,
+        102063047
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5790",
+        "eurostat:nuts_2021_id":"CH5790",
         "gn:id":7286432,
         "qs_pg:id":671444
     },
@@ -116,7 +132,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"649bb87047357502a87d981f556741b7",
+    "wof:geomhash":"48af0027296ad0da6e2d767980f61233",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404571527,
-    "wof:lastmodified":1598920108,
+    "wof:lastmodified":1684351760,
     "wof:name":"Maracon",
     "wof:parent_id":102063047,
     "wof:placetype":"localadmin",
+    "wof:population":491,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

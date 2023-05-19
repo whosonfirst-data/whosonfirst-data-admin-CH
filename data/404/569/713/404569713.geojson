@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kleinandelfingen",
+    "eurostat:nuts_2021_id":"CH0033",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0033",
+    "eurostat:population":2109,
+    "eurostat:population_year":2020,
     "geom:area":0.001231,
-    "geom:area_square_m":10264083.880158,
+    "geom:area_square_m":10264083.880159,
     "geom:bbox":"8.61906999293,47.5884429073,8.70434052929,47.6301039405",
     "geom:latitude":47.608447,
     "geom:longitude":8.671164,
@@ -103,6 +115,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -111,6 +125,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0033",
+        "eurostat:nuts_2021_id":"CH0033",
         "gn:id":7286204,
         "gp:id":12682783,
         "qs_pg:id":671402
@@ -120,7 +136,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ab9042a49d410a241ef0c7a699d26cb6",
+    "wof:geomhash":"6b324220fdba4e6c6048c3715ea93a3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404569713,
-    "wof:lastmodified":1582222955,
+    "wof:lastmodified":1684351737,
     "wof:name":"Kleinandelfingen",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",
+    "wof:population":2109,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

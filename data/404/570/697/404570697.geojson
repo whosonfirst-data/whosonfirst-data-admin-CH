@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vulliens",
+    "eurostat:nuts_2021_id":"CH5803",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5803",
+    "eurostat:population":594,
+    "eurostat:population_year":2020,
     "geom:area":0.000779,
-    "geom:area_square_m":6617090.271682,
+    "geom:area_square_m":6617090.271676,
     "geom:bbox":"6.77962,46.598989,6.803899,46.651833",
     "geom:latitude":46.622466,
     "geom:longitude":6.793523,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062969,
-        85682325
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5803",
+        "eurostat:nuts_2021_id":"CH5803",
         "gn:id":7287510,
         "gp:id":12684700,
         "qs_pg:id":1017691
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7daa98247898572da65e19bb39811abd",
+    "wof:geomhash":"a99289e1e5d4abccf4445c8ddf779207",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404570697,
-    "wof:lastmodified":1598920686,
+    "wof:lastmodified":1684351749,
     "wof:name":"Vulliens",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":594,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

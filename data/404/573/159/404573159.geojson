@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2843",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buckten",
+    "eurostat:nuts_2021_id":"CH2843",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2843",
+    "eurostat:population":698,
+    "eurostat:population_year":2020,
     "geom:area":0.000238,
-    "geom:area_square_m":1992303.129672,
+    "geom:area_square_m":1992303.129671,
     "geom:bbox":"7.833714,47.403692,7.858907,47.420714",
     "geom:latitude":47.411986,
     "geom:longitude":7.846666,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062819,
-        85682361
+        85682361,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2843",
+        "eurostat:nuts_2021_id":"CH2843",
         "gn:id":7285376,
         "gp:id":12685219,
         "qs_pg:id":1292777
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f38c26ccb1c699d45e464b1981b334ef",
+    "wof:geomhash":"2a85d5dfd0af08ec54407ea54b54ee31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404573159,
-    "wof:lastmodified":1598919883,
+    "wof:lastmodified":1684351771,
     "wof:name":"Buckten",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",
+    "wof:population":698,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

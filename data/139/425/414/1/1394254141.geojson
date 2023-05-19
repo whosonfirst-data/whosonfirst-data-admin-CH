@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bettmeralp",
+    "eurostat:nuts_2021_id":"CH6205",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6205",
+    "eurostat:population":462,
+    "eurostat:population_year":2020,
     "geom:area":0.003369,
-    "geom:area_square_m":28716612.872768,
+    "geom:area_square_m":28716612.872769,
     "geom:bbox":"7.99165752556,46.368922475,8.10608359168,46.4780196265",
     "geom:latitude":46.423419,
     "geom:longitude":8.060389,
@@ -51,6 +63,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -58,8 +72,12 @@
         102063037
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6205",
+        "eurostat:nuts_2021_id":"CH6205"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"18e933f7bc7c23406190957aa57df804",
+    "wof:geomhash":"f856ed4a92ef32f002334698c0a451d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +88,12 @@
         }
     ],
     "wof:id":1394254141,
-    "wof:lastmodified":1566640349,
+    "wof:lastmodified":1684351782,
     "wof:name":"Bettmeralp",
     "wof:parent_id":102063037,
     "wof:placetype":"localadmin",
+    "wof:population":462,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

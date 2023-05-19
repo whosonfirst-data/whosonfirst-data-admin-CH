@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0356",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muri bei Bern",
+    "eurostat:nuts_2021_id":"CH0356",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0356",
+    "eurostat:population":13054,
+    "eurostat:population_year":2020,
     "geom:area":0.000901,
     "geom:area_square_m":7607400.675738,
     "geom:bbox":"7.469105,46.91572,7.524793,46.950855",
@@ -127,14 +139,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0356",
+        "eurostat:nuts_2021_id":"CH0356",
         "gn:id":7286601,
         "qs_pg:id":1154286
     },
@@ -143,7 +159,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0888c6b1ff923ae07f127e9cfcc93d1c",
+    "wof:geomhash":"d304d0f24e648528587aa05cd8d70caf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +170,12 @@
         }
     ],
     "wof:id":404570409,
-    "wof:lastmodified":1598920583,
+    "wof:lastmodified":1684351746,
     "wof:name":"Muri bei Bern",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":13054,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

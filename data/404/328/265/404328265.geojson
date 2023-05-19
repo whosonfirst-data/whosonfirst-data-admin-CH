@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2920",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Thayngen",
+    "eurostat:nuts_2021_id":"CH2920",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2920",
+    "eurostat:population":5453,
+    "eurostat:population_year":2020,
     "geom:area":0.00239,
-    "geom:area_square_m":19864335.529472,
+    "geom:area_square_m":19864335.529469,
     "geom:bbox":"8.645232,47.721406,8.741422,47.800444",
     "geom:latitude":47.758604,
     "geom:longitude":8.690524,
@@ -114,14 +126,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137109,
-        85682285
+        85682285,
+        1394137109
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2920",
+        "eurostat:nuts_2021_id":"CH2920",
         "gn:id":7287300,
         "gp:id":12684494,
         "qs_pg:id":238923
@@ -131,7 +147,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"62671bd1fdf3758a9642435f0eeb7b26",
+    "wof:geomhash":"decda451abde326a1fae5dec7184119b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404328265,
-    "wof:lastmodified":1598920462,
+    "wof:lastmodified":1684351693,
     "wof:name":"Thayngen",
     "wof:parent_id":1394137109,
     "wof:placetype":"localadmin",
+    "wof:population":5453,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

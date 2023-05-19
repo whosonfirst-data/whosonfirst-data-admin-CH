@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3255",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rebstein",
+    "eurostat:nuts_2021_id":"CH3255",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3255",
+    "eurostat:population":4494,
+    "eurostat:population_year":2020,
     "geom:area":0.000523,
-    "geom:area_square_m":4381546.694861,
+    "geom:area_square_m":4381546.694862,
     "geom:bbox":"9.567223,47.374262,9.608747,47.408903",
     "geom:latitude":47.393543,
     "geom:longitude":9.589792,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063005,
-        85682341
+        85682341,
+        102063005
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3255",
+        "eurostat:nuts_2021_id":"CH3255",
         "gn:id":7286864,
         "gp:id":12684238,
         "qs_pg:id":671532
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"da40f664f35e9011bdcceb02c2658ce3",
+    "wof:geomhash":"83bb1d2902ac9dea9dce4a284b4e2a5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404571517,
-    "wof:lastmodified":1598920096,
+    "wof:lastmodified":1684351760,
     "wof:name":"Rebstein",
     "wof:parent_id":102063005,
     "wof:placetype":"localadmin",
+    "wof:population":4494,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

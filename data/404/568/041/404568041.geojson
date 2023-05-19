@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ried-Brig",
+    "eurostat:nuts_2021_id":"CH6008",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6008",
+    "eurostat:population":2115,
+    "eurostat:population_year":2020,
     "geom:area":0.005552,
     "geom:area_square_m":47443994.48089,
     "geom:bbox":"8.001167,46.241232,8.141017,46.325693",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063023,
-        85682281
+        85682281,
+        102063023
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6008",
+        "eurostat:nuts_2021_id":"CH6008",
         "gn:id":7286902,
         "gp:id":12682946,
         "qs_pg:id":1154298
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b954e49dda70dcfdcaaa37caa8b94445",
+    "wof:geomhash":"884e8a868878a4b86b1df3d4ec780bdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568041,
-    "wof:lastmodified":1598919506,
+    "wof:lastmodified":1684351710,
     "wof:name":"Ried-Brig",
     "wof:parent_id":102063023,
     "wof:placetype":"localadmin",
+    "wof:population":2115,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

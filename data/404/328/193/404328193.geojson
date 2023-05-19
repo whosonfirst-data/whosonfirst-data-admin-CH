@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hospental",
+    "eurostat:nuts_2021_id":"CH1210",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH062",
+    "eurostat:nuts_2021_level_lau":"CH1210",
+    "eurostat:population":186,
+    "eurostat:population_year":2020,
     "geom:area":0.004129,
-    "geom:area_square_m":35074877.555997,
+    "geom:area_square_m":35074877.555996,
     "geom:bbox":"8.501848,46.573408,8.61496,46.639434",
     "geom:latitude":46.606621,
     "geom:longitude":8.561698,
@@ -113,14 +125,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062879,
-        85682377
+        85682377,
+        102062879
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1210",
+        "eurostat:nuts_2021_id":"CH1210",
         "gn:id":7286116,
         "gp:id":12684670,
         "qs_pg:id":29339
@@ -133,7 +149,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"428d8ebfbefb003b5fedd0345d8e98aa",
+    "wof:geomhash":"75dc4425575cf42c94e19e18adf77473",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404328193,
-    "wof:lastmodified":1598920275,
+    "wof:lastmodified":1684351691,
     "wof:name":"Hospental",
     "wof:parent_id":102062879,
     "wof:placetype":"localadmin",
+    "wof:population":186,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

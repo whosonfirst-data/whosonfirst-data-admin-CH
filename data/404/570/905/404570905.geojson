@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0629",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberh\u00fcnigen",
+    "eurostat:nuts_2021_id":"CH0629",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0629",
+    "eurostat:population":313,
+    "eurostat:population_year":2020,
     "geom:area":0.00071,
-    "geom:area_square_m":6000081.984734,
+    "geom:area_square_m":6000081.984732,
     "geom:bbox":"7.648296,46.855181,7.689237,46.887266",
     "geom:latitude":46.871618,
     "geom:longitude":7.670428,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0629",
+        "eurostat:nuts_2021_id":"CH0629",
         "gn:id":7286698,
         "qs_pg:id":671501
     },
@@ -128,7 +144,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"da519a2938255e850acd8edb2e9acc64",
+    "wof:geomhash":"bbefe2b680cbc3e27d4ad36c0cc439af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404570905,
-    "wof:lastmodified":1598920649,
+    "wof:lastmodified":1684351752,
     "wof:name":"Oberh\u00fcnigen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":313,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

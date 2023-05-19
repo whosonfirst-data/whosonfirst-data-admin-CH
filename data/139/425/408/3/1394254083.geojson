@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Naters",
+    "eurostat:nuts_2021_id":"CH6007",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6007",
+    "eurostat:population":10075,
+    "eurostat:population_year":2020,
     "geom:area":0.017216,
-    "geom:area_square_m":146835058.945364,
+    "geom:area_square_m":146835058.945382,
     "geom:bbox":"7.88435699378,46.3027605804,8.06873157696,46.4691692144",
     "geom:latitude":46.389246,
     "geom:longitude":7.965872,
@@ -102,6 +114,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -109,8 +123,12 @@
         102063023
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6007",
+        "eurostat:nuts_2021_id":"CH6007"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"68de2bdcb644e02198e725527e51b026",
+    "wof:geomhash":"ff9c768c3793e8a1c7af119c91bc6e72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +139,12 @@
         }
     ],
     "wof:id":1394254083,
-    "wof:lastmodified":1566640356,
+    "wof:lastmodified":1684351780,
     "wof:name":"Naters",
     "wof:parent_id":102063023,
     "wof:placetype":"localadmin",
+    "wof:population":10075,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

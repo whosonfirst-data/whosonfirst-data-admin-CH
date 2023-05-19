@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3987",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trun",
+    "eurostat:nuts_2021_id":"CH3987",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3987",
+    "eurostat:population":1170,
+    "eurostat:population_year":2020,
     "geom:area":0.006109,
-    "geom:area_square_m":51766595.047303,
+    "geom:area_square_m":51766595.0473,
     "geom:bbox":"8.92827808353,46.6828880667,9.03417782282,46.8050425029",
     "geom:latitude":46.744691,
     "geom:longitude":8.984844,
@@ -79,6 +91,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -87,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3987",
+        "eurostat:nuts_2021_id":"CH3987",
         "gn:id":2658300,
         "gp:id":12683128,
         "qs_pg:id":907784
@@ -96,7 +112,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fc8f1e8ca103f4e81cf4c8113990a1dc",
+    "wof:geomhash":"9ca99ad8c76afc848199158938e0272b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404567977,
-    "wof:lastmodified":1582222976,
+    "wof:lastmodified":1684351709,
     "wof:name":"Trun",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
+    "wof:population":1170,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

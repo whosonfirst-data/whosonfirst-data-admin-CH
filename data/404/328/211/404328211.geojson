@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1062",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malters",
+    "eurostat:nuts_2021_id":"CH1062",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1062",
+    "eurostat:population":7318,
+    "eurostat:population_year":2020,
     "geom:area":0.003382,
-    "geom:area_square_m":28495823.515106,
+    "geom:area_square_m":28495823.515107,
     "geom:bbox":"8.129216,47.011477,8.248479,47.07129",
     "geom:latitude":47.042845,
     "geom:longitude":8.190138,
@@ -114,14 +126,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137079,
-        85682319
+        85682319,
+        1394137079
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1062",
+        "eurostat:nuts_2021_id":"CH1062",
         "gn:id":7286426,
         "gp:id":12683935,
         "qs_pg:id":289838
@@ -131,7 +147,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"34da7de63291b7d079002b949a8b9aea",
+    "wof:geomhash":"e1e5be1ad3b7fa0e1364096ec65a66c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404328211,
-    "wof:lastmodified":1598920284,
+    "wof:lastmodified":1684351691,
     "wof:name":"Malters",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",
+    "wof:population":7318,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ersigen",
+    "eurostat:nuts_2021_id":"CH0405",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0405",
+    "eurostat:population":2068,
+    "eurostat:population_year":2020,
     "geom:area":0.001832,
-    "geom:area_square_m":15416155.176996,
+    "geom:area_square_m":15416155.176998,
     "geom:bbox":"7.575416,47.085046,7.639552,47.12508",
     "geom:latitude":47.104306,
     "geom:longitude":7.608583,
@@ -107,14 +119,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0405",
+        "eurostat:nuts_2021_id":"CH0405",
         "gn:id":7285763,
         "gp:id":12683409,
         "qs_pg:id":352671
@@ -124,7 +140,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"814f7827d1bbab06f4ed0a14ca8b026e",
+    "wof:geomhash":"ace18e9bef9171ef8c1a32963ea1c8d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404570111,
-    "wof:lastmodified":1598920606,
+    "wof:lastmodified":1684351742,
     "wof:name":"Ersigen",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":2068,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

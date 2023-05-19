@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1128",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ettiswil",
+    "eurostat:nuts_2021_id":"CH1128",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1128",
+    "eurostat:population":2747,
+    "eurostat:population_year":2020,
     "geom:area":0.001492,
-    "geom:area_square_m":12548406.849947,
+    "geom:area_square_m":12548406.849949,
     "geom:bbox":"8.001523,47.129102,8.061302,47.17761",
     "geom:latitude":47.155764,
     "geom:longitude":8.029544,
@@ -120,14 +132,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137075,
-        85682319
+        85682319,
+        1394137075
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1128",
+        "eurostat:nuts_2021_id":"CH1128",
         "gn:id":7285781,
         "gp:id":12683423,
         "qs_pg:id":1196217
@@ -137,7 +153,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fdee1193e966b16727133b84d39a61f2",
+    "wof:geomhash":"1c77fc51e45513d26a3a04fc579b2ba7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +164,12 @@
         }
     ],
     "wof:id":404328377,
-    "wof:lastmodified":1598920358,
+    "wof:lastmodified":1684351695,
     "wof:name":"Ettiswil",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",
+    "wof:population":2747,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

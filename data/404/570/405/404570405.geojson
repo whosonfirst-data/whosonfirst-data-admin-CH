@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0971",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Attiswil",
+    "eurostat:nuts_2021_id":"CH0971",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0971",
+    "eurostat:population":1505,
+    "eurostat:population_year":2020,
     "geom:area":0.000909,
-    "geom:area_square_m":7625955.931758,
+    "geom:area_square_m":7625955.931757,
     "geom:bbox":"7.584369,47.233863,7.63162,47.275023",
     "geom:latitude":47.253261,
     "geom:longitude":7.610704,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0971",
+        "eurostat:nuts_2021_id":"CH0971",
         "gn:id":7285113,
         "gp:id":12682843,
         "qs_pg:id":887945
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1453f65ec5dbb04a7ca3c43e91aaec02",
+    "wof:geomhash":"0f8881c674dfb0fb16792cfa92088268",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404570405,
-    "wof:lastmodified":1598920690,
+    "wof:lastmodified":1684351746,
     "wof:name":"Attiswil",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":1505,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

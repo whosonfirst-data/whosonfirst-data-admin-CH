@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3952",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jenins",
+    "eurostat:nuts_2021_id":"CH3952",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3952",
+    "eurostat:population":886,
+    "eurostat:population_year":2020,
     "geom:area":0.001247,
-    "geom:area_square_m":10510007.96942,
+    "geom:area_square_m":10510007.969421,
     "geom:bbox":"9.542069,46.986038,9.628917,47.029611",
     "geom:latitude":47.011745,
     "geom:longitude":9.574407,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062881,
-        85682255
+        85682255,
+        102062881
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3952",
+        "eurostat:nuts_2021_id":"CH3952",
         "gn:id":7286161,
         "gp:id":12683741,
         "qs_pg:id":106597
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"555dab96ab97ad3b3c04e82578425b93",
+    "wof:geomhash":"105cd2b5fdc9ed10e95443341f0f967d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404569675,
-    "wof:lastmodified":1598919171,
+    "wof:lastmodified":1684351736,
     "wof:name":"Jenins",
     "wof:parent_id":102062881,
     "wof:placetype":"localadmin",
+    "wof:population":886,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

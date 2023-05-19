@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0544",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moosseedorf",
+    "eurostat:nuts_2021_id":"CH0544",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0544",
+    "eurostat:population":4111,
+    "eurostat:population_year":2020,
     "geom:area":0.000755,
-    "geom:area_square_m":6361600.314771,
+    "geom:area_square_m":6361600.31477,
     "geom:bbox":"7.461106,46.996376,7.510207,47.025871",
     "geom:latitude":47.010432,
     "geom:longitude":7.485392,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0544",
+        "eurostat:nuts_2021_id":"CH0544",
         "gn:id":7286548,
         "gp:id":12684374,
         "qs_pg:id":380121
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"da741b0ab1aaeb44f6e3bb5ff5865b57",
+    "wof:geomhash":"5b60ebd499d7b74a30367d0c52db1e72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570787,
-    "wof:lastmodified":1598920728,
+    "wof:lastmodified":1684351750,
     "wof:name":"Moosseedorf",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":4111,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

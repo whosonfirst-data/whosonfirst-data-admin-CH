@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4092",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Birr",
+    "eurostat:nuts_2021_id":"CH4092",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4092",
+    "eurostat:population":4354,
+    "eurostat:population_year":2020,
     "geom:area":0.000602,
     "geom:area_square_m":5032708.843468,
     "geom:bbox":"8.187699,47.422454,8.233674,47.441755",
@@ -85,14 +97,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062993,
-        85682329
+        85682329,
+        102062993
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4092",
+        "eurostat:nuts_2021_id":"CH4092",
         "gn:id":7285256,
         "gp:id":12682980,
         "qs_pg:id":538421
@@ -105,7 +121,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f01fbcc976c1571d1d5c32b798515df2",
+    "wof:geomhash":"d665fb467c02a590e4eec9fb98665d09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404571239,
-    "wof:lastmodified":1598920201,
+    "wof:lastmodified":1684351756,
     "wof:name":"Birr",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
+    "wof:population":4354,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Regensberg",
+    "eurostat:nuts_2021_id":"CH0095",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0095",
+    "eurostat:population":485,
+    "eurostat:population_year":2020,
     "geom:area":0.000282,
-    "geom:area_square_m":2359506.861814,
+    "geom:area_square_m":2359506.861813,
     "geom:bbox":"8.404269,47.468565,8.446904,47.485438",
     "geom:latitude":47.478123,
     "geom:longitude":8.428781,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062995,
-        85682309
+        85682309,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0095",
+        "eurostat:nuts_2021_id":"CH0095",
         "gn:id":7286869,
         "gp:id":12684241,
         "qs_pg:id":539035
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"2592586248d43e375cda91945f8a2563",
+    "wof:geomhash":"86cbd07f6690488f2a3bc80d2f4d01b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404572417,
-    "wof:lastmodified":1598919833,
+    "wof:lastmodified":1684351770,
     "wof:name":"Regensberg",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",
+    "wof:population":485,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

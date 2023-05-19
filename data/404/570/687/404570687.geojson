@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2790",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roggenburg",
+    "eurostat:nuts_2021_id":"CH2790",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2790",
+    "eurostat:population":276,
+    "eurostat:population_year":2020,
     "geom:area":0.000795,
-    "geom:area_square_m":6652025.905069,
+    "geom:area_square_m":6652025.905068,
     "geom:bbox":"7.32518653637,47.4138372944,7.38301199135,47.4417798696",
     "geom:latitude":47.427792,
     "geom:longitude":7.356631,
@@ -75,6 +87,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -82,7 +96,10 @@
         102062757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2790",
+        "eurostat:nuts_2021_id":"CH2790"
+    },
     "wof:coterminous":[
         1125771863
     ],
@@ -90,7 +107,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"65a811b7e67a6fc74560af99d4721750",
+    "wof:geomhash":"c5d25247c02dbe0eb808eaad3125a7f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":404570687,
-    "wof:lastmodified":1582223096,
+    "wof:lastmodified":1684351749,
     "wof:name":"Roggenburg",
     "wof:parent_id":102062757,
     "wof:placetype":"localadmin",
+    "wof:population":276,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

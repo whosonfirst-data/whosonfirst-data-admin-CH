@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0607",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Freimettigen",
+    "eurostat:nuts_2021_id":"CH0607",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0607",
+    "eurostat:population":466,
+    "eurostat:population_year":2020,
     "geom:area":0.00035,
     "geom:area_square_m":2955371.595912,
     "geom:bbox":"7.614527,46.855384,7.646164,46.873469",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0607",
+        "eurostat:nuts_2021_id":"CH0607",
         "gn:id":7285867,
         "gp:id":12684447,
         "qs_pg:id":1040493
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6b0b4fcb91a44eb6aab6444662ca8d7e",
+    "wof:geomhash":"1922d446c12fc3b6ef32ab75b7c68704",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404572137,
-    "wof:lastmodified":1598919828,
+    "wof:lastmodified":1684351767,
     "wof:name":"Freimettigen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":466,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

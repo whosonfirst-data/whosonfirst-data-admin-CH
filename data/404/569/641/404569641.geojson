@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5541",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Goumo\u00ebns",
+    "eurostat:nuts_2021_id":"CH5541",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5541",
+    "eurostat:population":1119,
+    "eurostat:population_year":2020,
     "geom:area":0.001257,
-    "geom:area_square_m":10667311.938336,
+    "geom:area_square_m":10667311.938334,
     "geom:bbox":"6.579613,46.637707,6.633267,46.679657",
     "geom:latitude":46.658871,
     "geom:longitude":6.604499,
@@ -85,14 +97,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062949,
-        85682325
+        85682325,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5541",
+        "eurostat:nuts_2021_id":"CH5541",
         "gn:id":8260350,
         "qs_pg:id":760526
     },
@@ -101,7 +117,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c73c5821770b49fdf049109f3d9e9ebc",
+    "wof:geomhash":"b57a95f044d80a072cad34472d7903dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,10 +128,12 @@
         }
     ],
     "wof:id":404569641,
-    "wof:lastmodified":1598919311,
+    "wof:lastmodified":1684351736,
     "wof:name":"Goumo\u00ebns",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":1119,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4100",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hausen (AG)",
+    "eurostat:nuts_2021_id":"CH4100",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4100",
+    "eurostat:population":3633,
+    "eurostat:population_year":2020,
     "geom:area":0.000382,
-    "geom:area_square_m":3194613.60722,
+    "geom:area_square_m":3194613.607221,
     "geom:bbox":"8.19209333293,47.4524539694,8.22427718729,47.4731536948",
     "geom:latitude":47.461451,
     "geom:longitude":8.207312,
@@ -137,6 +149,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -145,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4100",
+        "eurostat:nuts_2021_id":"CH4100",
         "gn:id":7286037,
         "qs_pg:id":671376
     },
@@ -156,7 +172,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"379d7d5f7df764f9b710f171fae6d778",
+    "wof:geomhash":"c49fb9bd11b6b73c85ff5541b7ddf3ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404572047,
-    "wof:lastmodified":1582223028,
+    "wof:lastmodified":1684351766,
     "wof:name":"Hausen",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
+    "wof:population":3633,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

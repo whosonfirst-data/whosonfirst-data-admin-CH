@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6623",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Le Grand-Saconnex",
+    "eurostat:nuts_2021_id":"CH6623",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6623",
+    "eurostat:population":12167,
+    "eurostat:population_year":2020,
     "geom:area":0.000511,
     "geom:area_square_m":4370176.998914,
     "geom:bbox":"6.10089,46.221926,6.136035,46.250645",
@@ -116,14 +128,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6623",
+        "eurostat:nuts_2021_id":"CH6623",
         "gn:id":7286302,
         "gp:id":12682820,
         "qs_pg:id":466644
@@ -133,7 +149,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5419496216a69e82899eb31948d18b91",
+    "wof:geomhash":"56bab0b79581b79131cc6510a86a6f86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404328733,
-    "wof:lastmodified":1598920393,
+    "wof:lastmodified":1684351700,
     "wof:name":"Le Grand-Saconnex",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":12167,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

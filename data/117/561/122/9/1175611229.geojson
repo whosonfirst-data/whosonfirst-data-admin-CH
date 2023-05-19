@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Curio",
+    "eurostat:nuts_2021_id":"CH5181",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5181",
+    "eurostat:population":559,
+    "eurostat:population_year":2020,
     "geom:area":0.00032,
     "geom:area_square_m":2746789.851531,
     "geom:bbox":"8.82856386043,45.9873690182,8.87286707261,46.0268019063",
@@ -54,6 +66,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -62,6 +76,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5181",
+        "eurostat:nuts_2021_id":"CH5181",
         "gn:id":7285610,
         "gp:id":20075561,
         "qs_pg:id":1234162
@@ -73,7 +89,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"59330d71d144c9aa9ce847ea38aeec10",
+    "wof:geomhash":"2010d99287af529413b877463ffd05f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":1175611229,
-    "wof:lastmodified":1582222874,
+    "wof:lastmodified":1684351776,
     "wof:name":"Curio",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":559,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

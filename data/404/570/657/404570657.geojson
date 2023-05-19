@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5891",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Veytaux",
+    "eurostat:nuts_2021_id":"CH5891",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5891",
+    "eurostat:population":880,
+    "eurostat:population_year":2020,
     "geom:area":0.000792,
-    "geom:area_square_m":6753776.849565,
+    "geom:area_square_m":6753776.849564,
     "geom:bbox":"6.923413,46.407727,7.022585,46.447918",
     "geom:latitude":46.427291,
     "geom:longitude":6.963851,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062833,
-        85682325
+        85682325,
+        102062833
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5891",
+        "eurostat:nuts_2021_id":"CH5891",
         "gn:id":7287449,
         "gp:id":12683559,
         "qs_pg:id":671657
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6da019333a9e20378f5c65a54f3b8b59",
+    "wof:geomhash":"0dcbbd849b855d31af1ac88a9218abfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404570657,
-    "wof:lastmodified":1598920593,
+    "wof:lastmodified":1684351749,
     "wof:name":"Veytaux",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",
+    "wof:population":880,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neunforn",
+    "eurostat:nuts_2021_id":"CH4601",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4601",
+    "eurostat:population":1039,
+    "eurostat:population_year":2020,
     "geom:area":0.001358,
-    "geom:area_square_m":11325675.039193,
+    "geom:area_square_m":11325675.039194,
     "geom:bbox":"8.73938764121,47.5850234304,8.81052908512,47.623043817",
     "geom:latitude":47.602322,
     "geom:longitude":8.771926,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -126,6 +140,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4601",
+        "eurostat:nuts_2021_id":"CH4601",
         "gn:id":7286629,
         "gp:id":12684073,
         "qs_pg:id":1102329
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"acb98a4a4c97b72a16621d53b63e9759",
+    "wof:geomhash":"58dd2c4472cdfeaebc1413c1ef255da6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404569475,
-    "wof:lastmodified":1582222962,
+    "wof:lastmodified":1684351734,
     "wof:name":"Neunforn",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
+    "wof:population":1039,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1366",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morschach",
+    "eurostat:nuts_2021_id":"CH1366",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1366",
+    "eurostat:population":1159,
+    "eurostat:population_year":2020,
     "geom:area":0.002778,
     "geom:area_square_m":23440006.734505,
     "geom:bbox":"8.60118,46.949616,8.697135,46.995516",
@@ -111,19 +123,24 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062887,
-        85682305
+        85682305,
+        102062887
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH1366",
+        "eurostat:nuts_2021_id":"CH1366"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4a0a0cf61a0200865718ebb48d382e3c",
+    "wof:geomhash":"78f9323ca06e74a8de205490f74ea15e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":404568451,
-    "wof:lastmodified":1598919698,
+    "wof:lastmodified":1684351719,
     "wof:name":"Morschach",
     "wof:parent_id":102062887,
     "wof:placetype":"localadmin",
+    "wof:population":1159,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Collonges",
+    "eurostat:nuts_2021_id":"CH6211",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6211",
+    "eurostat:population":798,
+    "eurostat:population_year":2020,
     "geom:area":0.001422,
     "geom:area_square_m":12174392.887981,
     "geom:bbox":"7.027384,46.158576,7.084702,46.201007",
@@ -88,14 +100,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062965,
-        85682281
+        85682281,
+        102062965
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6211",
+        "eurostat:nuts_2021_id":"CH6211",
         "gn:id":7285530,
         "gp:id":12683215,
         "qs_pg:id":61813
@@ -108,7 +124,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"309ec313fd9d8fa2ddf88cdfc5aeae6f",
+    "wof:geomhash":"1f42d99a4bdc8040e03bcda6dc248baa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404569247,
-    "wof:lastmodified":1598919304,
+    "wof:lastmodified":1684351732,
     "wof:name":"Collonges",
     "wof:parent_id":102062965,
     "wof:placetype":"localadmin",
+    "wof:population":798,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

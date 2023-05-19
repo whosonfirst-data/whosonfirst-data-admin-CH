@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5746",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bavois",
+    "eurostat:nuts_2021_id":"CH5746",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5746",
+    "eurostat:population":941,
+    "eurostat:population_year":2020,
     "geom:area":0.001099,
-    "geom:area_square_m":9323765.902762,
+    "geom:area_square_m":9323765.902761,
     "geom:bbox":"6.548521,46.6598,6.587683,46.699443",
     "geom:latitude":46.67979,
     "geom:longitude":6.566514,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5746",
+        "eurostat:nuts_2021_id":"CH5746",
         "gn:id":7285172,
         "gp:id":12682919,
         "qs_pg:id":106522
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"659104585f178147ac3fa3eb74e4a5ff",
+    "wof:geomhash":"2b7d44af7decd70f8372a15cd310e73b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404569937,
-    "wof:lastmodified":1598919161,
+    "wof:lastmodified":1684351740,
     "wof:name":"Bavois",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":941,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

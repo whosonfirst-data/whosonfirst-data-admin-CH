@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1130",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gettnau",
+    "eurostat:nuts_2021_id":"CH1130",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1130",
+    "eurostat:population":1170,
+    "eurostat:population_year":2020,
     "geom:area":0.000718,
-    "geom:area_square_m":6035264.983022,
+    "geom:area_square_m":6035264.983021,
     "geom:bbox":"7.94388,47.126503,7.990882,47.150222",
     "geom:latitude":47.138595,
     "geom:longitude":7.966662,
@@ -111,14 +123,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137075,
-        85682319
+        85682319,
+        1394137075
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1130",
+        "eurostat:nuts_2021_id":"CH1130",
         "gn:id":7285910,
         "gp:id":12683540,
         "qs_pg:id":1026184
@@ -131,7 +147,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d3c1c4cf5304cf732702e57de0efdc98",
+    "wof:geomhash":"423f20ae5fc6e717bfdfe3d2042b86fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404328607,
-    "wof:lastmodified":1598920475,
+    "wof:lastmodified":1684351698,
     "wof:name":"Gettnau",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",
+    "wof:population":1170,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

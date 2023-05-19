@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5728",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Signy-Avenex",
+    "eurostat:nuts_2021_id":"CH5728",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5728",
+    "eurostat:population":594,
+    "eurostat:population_year":2020,
     "geom:area":0.000227,
-    "geom:area_square_m":1936957.205887,
+    "geom:area_square_m":1936957.205888,
     "geom:bbox":"6.188661,46.383429,6.217357,46.401753",
     "geom:latitude":46.39263,
     "geom:longitude":6.204135,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5728",
+        "eurostat:nuts_2021_id":"CH5728",
         "gp:id":12684769,
         "qs_pg:id":911989
     },
@@ -116,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3be0ac27de9dd26c4a75c217e9e74741",
+    "wof:geomhash":"4e4b1a6702b6144ca3bc7fe77450510e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404573171,
-    "wof:lastmodified":1598919994,
+    "wof:lastmodified":1684351771,
     "wof:name":"Signy-Avenex",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":594,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6139",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riddes",
+    "eurostat:nuts_2021_id":"CH6139",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6139",
+    "eurostat:population":3133,
+    "eurostat:population_year":2020,
     "geom:area":0.002782,
-    "geom:area_square_m":23837301.576711,
+    "geom:area_square_m":23837301.576713,
     "geom:bbox":"7.196405,46.096868,7.280566,46.183714",
     "geom:latitude":46.143018,
     "geom:longitude":7.238073,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063045,
-        85682281
+        85682281,
+        102063045
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6139",
+        "eurostat:nuts_2021_id":"CH6139",
         "gn:id":7286900,
         "gp:id":12684265,
         "qs_pg:id":61977
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"039d0edaa87379420f43f047a4b71d26",
+    "wof:geomhash":"28e49543b6eb29843d73418f69af74a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404568439,
-    "wof:lastmodified":1598919535,
+    "wof:lastmodified":1684351718,
     "wof:name":"Riddes",
     "wof:parent_id":102063045,
     "wof:placetype":"localadmin",
+    "wof:population":3133,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

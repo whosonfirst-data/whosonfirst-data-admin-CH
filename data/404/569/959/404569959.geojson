@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0181",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wila",
+    "eurostat:nuts_2021_id":"CH0181",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0181",
+    "eurostat:population":1971,
+    "eurostat:population_year":2020,
     "geom:area":0.001095,
-    "geom:area_square_m":9163580.744751,
+    "geom:area_square_m":9163580.744753,
     "geom:bbox":"8.82904195796,47.3910354293,8.90613740538,47.4322636186",
     "geom:latitude":47.409028,
     "geom:longitude":8.860786,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -57,6 +71,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0181",
+        "eurostat:nuts_2021_id":"CH0181",
         "gn:id":7287573,
         "gp:id":12684527,
         "qs_pg:id":209504
@@ -66,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"64ea2c38051fbe321ab636a4a32830e7",
+    "wof:geomhash":"17de91b3c4edf3b3c4dbc842fed59f3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404569959,
-    "wof:lastmodified":1582222958,
+    "wof:lastmodified":1684351740,
     "wof:name":"Wila",
     "wof:parent_id":102062779,
     "wof:placetype":"localadmin",
+    "wof:population":1971,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

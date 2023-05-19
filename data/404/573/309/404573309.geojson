@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4751",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rickenbach (TG)",
+    "eurostat:nuts_2021_id":"CH4751",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4751",
+    "eurostat:population":2774,
+    "eurostat:population_year":2020,
     "geom:area":0.000188,
     "geom:area_square_m":1571481.058617,
     "geom:bbox":"9.03624472752,47.4401427652,9.06255262656,47.4538445571",
@@ -88,6 +100,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4751",
+        "eurostat:nuts_2021_id":"CH4751",
         "gn:id":7286898,
         "gp:id":12684263,
         "qs_pg:id":671542
@@ -108,7 +124,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1073c7c28740b21695a12c8a6f28001e",
+    "wof:geomhash":"1e1ce13bb5d780da72ef75b96bf96e83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404573309,
-    "wof:lastmodified":1582223035,
+    "wof:lastmodified":1684351773,
     "wof:name":"Rickenbach",
     "wof:parent_id":102062981,
     "wof:placetype":"localadmin",
+    "wof:population":2774,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brione (Verzasca)",
+    "eurostat:nuts_2021_id":"CH5095",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5095",
+    "eurostat:population":177,
+    "eurostat:population_year":2020,
     "geom:area":0.005664,
-    "geom:area_square_m":48385163.654706,
+    "geom:area_square_m":48385163.654708,
     "geom:bbox":"8.68149049736,46.2442436332,8.83327447547,46.354473411",
     "geom:latitude":46.301738,
     "geom:longitude":8.75773,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -120,6 +134,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5095",
+        "eurostat:nuts_2021_id":"CH5095",
         "gn:id":7285338,
         "qs_pg:id":671210
     },
@@ -131,7 +147,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b11d6244ee101c01fc2fbb5a1a801ecf",
+    "wof:geomhash":"e7b3ca23899ef2dafd154f51d1f5a019",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404568021,
-    "wof:lastmodified":1582223016,
+    "wof:lastmodified":1684351710,
     "wof:name":"Brione",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
+    "wof:population":177,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

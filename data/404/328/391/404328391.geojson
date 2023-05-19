@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2553",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberdorf (SO)",
+    "eurostat:nuts_2021_id":"CH2553",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2553",
+    "eurostat:population":1724,
+    "eurostat:population_year":2020,
     "geom:area":0.001415,
     "geom:area_square_m":11883002.000665,
     "geom:bbox":"7.452971,47.220307,7.52563,47.257637",
@@ -96,14 +108,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137087,
-        85682365
+        85682365,
+        1394137087
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2553",
+        "eurostat:nuts_2021_id":"CH2553",
         "gn:id":7286682,
         "qs_pg:id":671497
     },
@@ -112,7 +128,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"523569ec222418fee2f1c024fa3f045f",
+    "wof:geomhash":"b3db7a492a50ecd15d7944ba78465148",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":404328391,
-    "wof:lastmodified":1598920259,
+    "wof:lastmodified":1684351695,
     "wof:name":"Oberdorf",
     "wof:parent_id":1394137087,
     "wof:placetype":"localadmin",
+    "wof:population":1724,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

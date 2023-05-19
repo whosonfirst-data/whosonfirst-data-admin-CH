@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6267",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Veysonnaz",
+    "eurostat:nuts_2021_id":"CH6267",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6267",
+    "eurostat:population":604,
+    "eurostat:population_year":2020,
     "geom:area":0.000133,
     "geom:area_square_m":1140925.203202,
     "geom:bbox":"7.329237,46.191366,7.347638,46.205064",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062827,
-        85682281
+        85682281,
+        102062827
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6267",
+        "eurostat:nuts_2021_id":"CH6267",
         "gn:id":7287448,
         "gp:id":12684569,
         "qs_pg:id":901191
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"614d704a5ff30163593fdd235f0c7c99",
+    "wof:geomhash":"93593ab4b7862bbaa10b06ed7a233e42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404573403,
-    "wof:lastmodified":1598919982,
+    "wof:lastmodified":1684351774,
     "wof:name":"Veysonnaz",
     "wof:parent_id":102062827,
     "wof:placetype":"localadmin",
+    "wof:population":604,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brione sopra Minusio",
+    "eurostat:nuts_2021_id":"CH5096",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5096",
+    "eurostat:population":485,
+    "eurostat:population_year":2020,
     "geom:area":0.000445,
-    "geom:area_square_m":3811730.151189,
+    "geom:area_square_m":3811730.151193,
     "geom:bbox":"8.791133,46.181284,8.837699,46.208763",
     "geom:latitude":46.196638,
     "geom:longitude":8.81481,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062975,
-        85682269
+        85682269,
+        102062975
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5096",
+        "eurostat:nuts_2021_id":"CH5096",
         "gn:id":7285337,
         "gp:id":12685180,
         "qs_pg:id":1261710
@@ -114,7 +130,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"72046540e005a3ac878c7d99d2e4932c",
+    "wof:geomhash":"88cf62ec80496c5116336f3953198aba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404571777,
-    "wof:lastmodified":1598920118,
+    "wof:lastmodified":1684351763,
     "wof:name":"Brione sopra Minusio",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
+    "wof:population":485,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

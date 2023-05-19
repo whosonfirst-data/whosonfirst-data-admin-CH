@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saint-Aubin (FR)",
+    "eurostat:nuts_2021_id":"CH2041",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2041",
+    "eurostat:population":1801,
+    "eurostat:population_year":2020,
     "geom:area":0.000931,
-    "geom:area_square_m":7866938.846793,
+    "geom:area_square_m":7866938.846791,
     "geom:bbox":"6.956596,46.875843,7.009506,46.907722",
     "geom:latitude":46.892127,
     "geom:longitude":6.981996,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062945,
-        85682301
+        85682301,
+        102062945
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2041",
+        "eurostat:nuts_2021_id":"CH2041",
         "gn:id":7287019,
         "qs_pg:id":671577
     },
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"22b5292ab017f51115a83528127a3cf0",
+    "wof:geomhash":"cec646194b3ec22d5b1ba78824b89c82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404570305,
-    "wof:lastmodified":1598920653,
+    "wof:lastmodified":1684351745,
     "wof:name":"Saint-Aubin",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",
+    "wof:population":1801,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

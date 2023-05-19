@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4231",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dietwil",
+    "eurostat:nuts_2021_id":"CH4231",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4231",
+    "eurostat:population":1336,
+    "eurostat:population_year":2020,
     "geom:area":0.000651,
-    "geom:area_square_m":5477135.513985,
+    "geom:area_square_m":5477135.513984,
     "geom:bbox":"8.373965,47.13748,8.41492,47.161724",
     "geom:latitude":47.147892,
     "geom:longitude":8.395083,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062809,
-        85682329
+        85682329,
+        102062809
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4231",
+        "eurostat:nuts_2021_id":"CH4231",
         "gn:id":7285654,
         "gp:id":12683311,
         "qs_pg:id":191000
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"968ace30f2f26db0135a13d09d088555",
+    "wof:geomhash":"87569b5a33c24bfc24fc15334f14d2e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404571085,
-    "wof:lastmodified":1598920055,
+    "wof:lastmodified":1684351754,
     "wof:name":"Dietwil",
     "wof:parent_id":102062809,
     "wof:placetype":"localadmin",
+    "wof:population":1336,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

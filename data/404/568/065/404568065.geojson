@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3790",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Silvaplana",
+    "eurostat:nuts_2021_id":"CH3790",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3790",
+    "eurostat:population":1111,
+    "eurostat:population_year":2020,
     "geom:area":0.005243,
-    "geom:area_square_m":44658390.632761,
+    "geom:area_square_m":44658390.632759,
     "geom:bbox":"9.723133,46.412633,9.848189,46.507993",
     "geom:latitude":46.462571,
     "geom:longitude":9.786063,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062857,
-        85682255
+        85682255,
+        102062857
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3790",
+        "eurostat:nuts_2021_id":"CH3790",
         "gn:id":2658588,
         "gp:id":12683127,
         "qs_pg:id":1197062
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3f02272bcd6cb61c2b02ded5852de8fb",
+    "wof:geomhash":"78397c93b39f6552f7f540259e2bb265",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404568065,
-    "wof:lastmodified":1598919532,
+    "wof:lastmodified":1684351711,
     "wof:name":"Silvaplana",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",
+    "wof:population":1111,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

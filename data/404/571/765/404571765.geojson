@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4065",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dottikon",
+    "eurostat:nuts_2021_id":"CH4065",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4065",
+    "eurostat:population":3880,
+    "eurostat:population_year":2020,
     "geom:area":0.000463,
-    "geom:area_square_m":3874408.671551,
+    "geom:area_square_m":3874408.671552,
     "geom:bbox":"8.226574,47.367116,8.264385,47.397306",
     "geom:latitude":47.38058,
     "geom:longitude":8.242498,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062877,
-        85682329
+        85682329,
+        102062877
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4065",
+        "eurostat:nuts_2021_id":"CH4065",
         "gn:id":7285672,
         "gp:id":12683331,
         "qs_pg:id":1314184
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8ed6ac59de2b6c4c73ba9531396625aa",
+    "wof:geomhash":"8298f4a02e17e046d10eacb4f6f95ae7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404571765,
-    "wof:lastmodified":1598920014,
+    "wof:lastmodified":1684351763,
     "wof:name":"Dottikon",
     "wof:parent_id":102062877,
     "wof:placetype":"localadmin",
+    "wof:population":3880,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

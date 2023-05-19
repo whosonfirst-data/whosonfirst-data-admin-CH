@@ -4,6 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH9040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Greifensee",
+    "eurostat:nuts_2021_id":"CH9040",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH9040",
     "geom:area":0.000988,
     "geom:area_square_m":8276930.499478,
     "geom:bbox":"8.652197,47.321086,8.708024,47.374024",
@@ -67,12 +77,16 @@
     "wof:belongsto":[
         102191581,
         85633051,
-        1394212863,
-        85682309
+        85682309,
+        1394212863
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH9040",
+        "eurostat:nuts_2021_id":"CH9040"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"25e8befd824cb04e87de4c48a480c29f",
+    "wof:geomhash":"1ed3717452a9bd024f23240cea6bfbff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +97,7 @@
         }
     ],
     "wof:id":1394254187,
-    "wof:lastmodified":1606859079,
+    "wof:lastmodified":1684351784,
     "wof:name":"Greifensee",
     "wof:parent_id":1394212863,
     "wof:placetype":"localadmin",

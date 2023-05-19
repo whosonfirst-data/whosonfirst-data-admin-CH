@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5251",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coldrerio",
+    "eurostat:nuts_2021_id":"CH5251",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5251",
+    "eurostat:population":2939,
+    "eurostat:population_year":2020,
     "geom:area":0.000285,
     "geom:area_square_m":2452549.17747,
     "geom:bbox":"8.968949,45.846581,9.000919,45.860557",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063063,
-        85682269
+        85682269,
+        102063063
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5251",
+        "eurostat:nuts_2021_id":"CH5251",
         "gn:id":7285526,
         "gp:id":12685144,
         "qs_pg:id":1314237
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"676b3b9b0993fed8cf5be07d5cf1e9cb",
+    "wof:geomhash":"e497053334a4242b195cfa3deb25ef37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404572363,
-    "wof:lastmodified":1598919770,
+    "wof:lastmodified":1684351769,
     "wof:name":"Coldrerio",
     "wof:parent_id":102063063,
     "wof:placetype":"localadmin",
+    "wof:population":2939,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

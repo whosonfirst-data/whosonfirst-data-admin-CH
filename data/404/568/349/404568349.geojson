@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frasco",
+    "eurostat:nuts_2021_id":"CH5105",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5105",
+    "eurostat:population":112,
+    "eurostat:population_year":2020,
     "geom:area":0.003033,
-    "geom:area_square_m":25881708.776118,
+    "geom:area_square_m":25881708.776117,
     "geom:bbox":"8.776481,46.326728,8.862743,46.393642",
     "geom:latitude":46.354119,
     "geom:longitude":8.818728,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062975,
-        85682269
+        85682269,
+        102062975
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5105",
+        "eurostat:nuts_2021_id":"CH5105",
         "gn:id":7285859,
         "gp:id":12683490,
         "qs_pg:id":43507
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bcad06a28425f478315fbd526b8b7526",
+    "wof:geomhash":"e686dccaedce2309d49dbe9d095f5c64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404568349,
-    "wof:lastmodified":1598919597,
+    "wof:lastmodified":1684351717,
     "wof:name":"Frasco",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
+    "wof:population":112,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

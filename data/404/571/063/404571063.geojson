@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mandach",
+    "eurostat:nuts_2021_id":"CH4105",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4105",
+    "eurostat:population":341,
+    "eurostat:population_year":2020,
     "geom:area":0.000662,
-    "geom:area_square_m":5524864.272538,
+    "geom:area_square_m":5524864.272537,
     "geom:bbox":"8.169731,47.538393,8.207953,47.565255",
     "geom:latitude":47.551516,
     "geom:longitude":8.187694,
@@ -108,14 +120,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062993,
-        85682329
+        85682329,
+        102062993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH4105",
+        "eurostat:nuts_2021_id":"CH4105"
+    },
     "wof:coterminous":[
         1125931151
     ],
@@ -123,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"37ef3f6e78a1c256b68df27f2fd8471e",
+    "wof:geomhash":"1a280e3cb9788edf7cb1befcc0fadb72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":404571063,
-    "wof:lastmodified":1598920084,
+    "wof:lastmodified":1684351754,
     "wof:name":"Mandach",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
+    "wof:population":341,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

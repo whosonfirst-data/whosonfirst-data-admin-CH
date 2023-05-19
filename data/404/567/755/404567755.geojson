@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0565",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kandersteg",
+    "eurostat:nuts_2021_id":"CH0565",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0565",
+    "eurostat:population":1298,
+    "eurostat:population_year":2020,
     "geom:area":0.01573,
-    "geom:area_square_m":133961240.962251,
+    "geom:area_square_m":133961240.962245,
     "geom:bbox":"7.58323,46.411217,7.84349,46.520138",
     "geom:latitude":46.469237,
     "geom:longitude":7.708317,
@@ -136,14 +148,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062831,
-        85682381
+        85682381,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0565",
+        "eurostat:nuts_2021_id":"CH0565",
         "gn:id":7286178,
         "gp:id":12683353,
         "qs_pg:id":906049
@@ -156,7 +172,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"82063a17e1858b212011be321e975508",
+    "wof:geomhash":"b98b8cbb570949a77382b5f76220a5c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404567755,
-    "wof:lastmodified":1598919374,
+    "wof:lastmodified":1684351704,
     "wof:name":"Kandersteg",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",
+    "wof:population":1298,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

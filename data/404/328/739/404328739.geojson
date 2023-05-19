@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6619",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corsier (GE)",
+    "eurostat:nuts_2021_id":"CH6619",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6619",
+    "eurostat:population":2108,
+    "eurostat:population_year":2020,
     "geom:area":0.000501,
     "geom:area_square_m":4281377.553416,
     "geom:bbox":"6.189908,46.253776,6.249919,46.279607",
@@ -110,14 +122,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6619",
+        "eurostat:nuts_2021_id":"CH6619",
         "gn:id":7285566,
         "qs_pg:id":671254
     },
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"87c0a484f1c1fc6cb119fb144fa0f5ce",
+    "wof:geomhash":"e317fede6c13e5b6a94b82ce691b46dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404328739,
-    "wof:lastmodified":1598920263,
+    "wof:lastmodified":1684351700,
     "wof:name":"Corsier",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":2108,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0563",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frutigen",
+    "eurostat:nuts_2021_id":"CH0563",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0563",
+    "eurostat:population":6923,
+    "eurostat:population_year":2020,
     "geom:area":0.008479,
-    "geom:area_square_m":72089723.07393,
+    "geom:area_square_m":72089723.073935,
     "geom:bbox":"7.538619,46.4993,7.693208,46.61879",
     "geom:latitude":46.558206,
     "geom:longitude":7.616304,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062831,
-        85682381
+        85682381,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0563",
+        "eurostat:nuts_2021_id":"CH0563",
         "gn:id":7285873,
         "gp:id":12683373,
         "qs_pg:id":906050
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2b1ca0904e90f09fb93b065a13d7261",
+    "wof:geomhash":"138d49892f121cdbc4bb9ed9401c5c46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404567867,
-    "wof:lastmodified":1598919395,
+    "wof:lastmodified":1684351706,
     "wof:name":"Frutigen",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",
+    "wof:population":6923,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

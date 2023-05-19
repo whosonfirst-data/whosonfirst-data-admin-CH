@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5323",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lavizzara",
+    "eurostat:nuts_2021_id":"CH5323",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5323",
+    "eurostat:population":509,
+    "eurostat:population_year":2020,
     "geom:area":0.021942,
-    "geom:area_square_m":187038212.799063,
+    "geom:area_square_m":187038212.799046,
     "geom:bbox":"8.531456,46.324896,8.742686,46.500556",
     "geom:latitude":46.420542,
     "geom:longitude":8.642614,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062957,
-        85682269
+        85682269,
+        102062957
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5323",
+        "eurostat:nuts_2021_id":"CH5323",
         "gn:id":7286292,
         "gp:id":28997177,
         "qs_pg:id":238703
@@ -120,7 +136,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e483b44a0d44df1fce78942af88e07c1",
+    "wof:geomhash":"e85ece8f89b5ab5f93dd84ce79e39c97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404567723,
-    "wof:lastmodified":1598919410,
+    "wof:lastmodified":1684351703,
     "wof:name":"Lavizzara",
     "wof:parent_id":102062957,
     "wof:placetype":"localadmin",
+    "wof:population":509,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6809",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Haute-Ajoie",
+    "eurostat:nuts_2021_id":"CH6809",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6809",
+    "eurostat:population":1095,
+    "eurostat:population_year":2020,
     "geom:area":0.004875,
     "geom:area_square_m":40814420.584548,
     "geom:bbox":"6.87905483643,47.3524058863,7.02932052368,47.4205815901",
@@ -75,6 +87,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -82,8 +96,12 @@
         102063059
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6809",
+        "eurostat:nuts_2021_id":"CH6809"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"9d0b771e662f8a5cad72571a6d94e70a",
+    "wof:geomhash":"a7999c915e7d9794447481dd72e36b0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +112,12 @@
         }
     ],
     "wof:id":1394254073,
-    "wof:lastmodified":1566640358,
+    "wof:lastmodified":1684351780,
     "wof:name":"Haute-Ajoie",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
+    "wof:population":1095,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

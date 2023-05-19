@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6156",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Troistorrents",
+    "eurostat:nuts_2021_id":"CH6156",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6156",
+    "eurostat:population":4684,
+    "eurostat:population_year":2020,
     "geom:area":0.00431,
-    "geom:area_square_m":36861214.981173,
+    "geom:area_square_m":36861214.981172,
     "geom:bbox":"6.820592,46.198757,6.943974,46.259294",
     "geom:latitude":46.23281,
     "geom:longitude":6.885325,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063065,
-        85682281
+        85682281,
+        102063065
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6156",
+        "eurostat:nuts_2021_id":"CH6156",
         "gn:id":7287339,
         "gp:id":12684025,
         "qs_pg:id":1154325
@@ -120,7 +136,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"36598ec7a6fd20502204484082cc4d10",
+    "wof:geomhash":"9aafecfaa06f7c518f7b4aefccab3a5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404568163,
-    "wof:lastmodified":1598919639,
+    "wof:lastmodified":1684351713,
     "wof:name":"Troistorrents",
     "wof:parent_id":102063065,
     "wof:placetype":"localadmin",
+    "wof:population":4684,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

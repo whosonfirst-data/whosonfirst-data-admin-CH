@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0334",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Obersteckholz",
+    "eurostat:nuts_2021_id":"CH0334",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0334",
+    "eurostat:population":419,
+    "eurostat:population_year":2020,
     "geom:area":0.000464,
     "geom:area_square_m":3896377.991148,
     "geom:bbox":"7.808987,47.18862,7.843217,47.213398",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0334",
+        "eurostat:nuts_2021_id":"CH0334",
         "gn:id":7286714,
         "qs_pg:id":671503
     },
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6103e460e916f9dd3045c2c1b696a920",
+    "wof:geomhash":"03d9599d857501a1bc724bca8669dbef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404571743,
-    "wof:lastmodified":1598920218,
+    "wof:lastmodified":1684351762,
     "wof:name":"Obersteckholz",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":419,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

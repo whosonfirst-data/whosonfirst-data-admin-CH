@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1322",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Freienbach",
+    "eurostat:nuts_2021_id":"CH1322",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1322",
+    "eurostat:population":16391,
+    "eurostat:population_year":2020,
     "geom:area":0.002456,
-    "geom:area_square_m":20635481.573455,
+    "geom:area_square_m":20635481.573453,
     "geom:bbox":"8.721242,47.173346,8.816326,47.222564",
     "geom:latitude":47.201223,
     "geom:longitude":8.773121,
@@ -133,14 +145,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062919,
-        85682305
+        85682305,
+        102062919
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1322",
+        "eurostat:nuts_2021_id":"CH1322",
         "gn:id":7285863,
         "gp:id":12682875,
         "qs_pg:id":1159120
@@ -150,7 +166,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fa84a8d589c632d750c663bb061de297",
+    "wof:geomhash":"9c8b5ff8ae6f41a67453eed75f384231",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404568583,
-    "wof:lastmodified":1598919753,
+    "wof:lastmodified":1684351721,
     "wof:name":"Freienbach",
     "wof:parent_id":102062919,
     "wof:placetype":"localadmin",
+    "wof:population":16391,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

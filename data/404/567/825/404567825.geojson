@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3359",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wildhaus-Alt St. Johann",
+    "eurostat:nuts_2021_id":"CH3359",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3359",
+    "eurostat:population":2626,
+    "eurostat:population_year":2020,
     "geom:area":0.01039,
-    "geom:area_square_m":87292780.535559,
+    "geom:area_square_m":87292780.535558,
     "geom:bbox":"9.219226,47.144723,9.40198,47.24961",
     "geom:latitude":47.197229,
     "geom:longitude":9.308902,
@@ -88,14 +100,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062771,
-        85682341
+        85682341,
+        102062771
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3359",
+        "eurostat:nuts_2021_id":"CH3359",
         "gn:id":8260336,
         "qs_pg:id":760513
     },
@@ -104,7 +120,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2993749ef11f106b4fbf74f078628403",
+    "wof:geomhash":"46cf1f6756dba994ec75a47304de5b39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,10 +131,12 @@
         }
     ],
     "wof:id":404567825,
-    "wof:lastmodified":1598919434,
+    "wof:lastmodified":1684351706,
     "wof:name":"Wildhaus-Alt St. Johann",
     "wof:parent_id":102062771,
     "wof:placetype":"localadmin",
+    "wof:population":2626,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

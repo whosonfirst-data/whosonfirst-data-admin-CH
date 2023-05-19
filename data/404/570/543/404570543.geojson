@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4776",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tobel-T\u00e4gerschen",
+    "eurostat:nuts_2021_id":"CH4776",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4776",
+    "eurostat:population":1615,
+    "eurostat:population_year":2020,
     "geom:area":0.000848,
-    "geom:area_square_m":7085193.196839,
+    "geom:area_square_m":7085193.19684,
     "geom:bbox":"9.00840565321,47.4957922543,9.07612643548,47.5248653657",
     "geom:latitude":47.512136,
     "geom:longitude":9.038511,
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -123,6 +137,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4776",
+        "eurostat:nuts_2021_id":"CH4776",
         "gn:id":7287314,
         "gp:id":12684502,
         "qs_pg:id":500420
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5a05e28c2094c6c4534082c8d4566711",
+    "wof:geomhash":"5fdcea8f6a9ddb23c11342165a5a0e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404570543,
-    "wof:lastmodified":1582223101,
+    "wof:lastmodified":1684351747,
     "wof:name":"Tobel-T\u00e4gerschen",
     "wof:parent_id":102062981,
     "wof:placetype":"localadmin",
+    "wof:population":1615,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

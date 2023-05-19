@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2612",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beinwil (SO)",
+    "eurostat:nuts_2021_id":"CH2612",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2612",
+    "eurostat:population":283,
+    "eurostat:population_year":2020,
     "geom:area":0.002698,
-    "geom:area_square_m":22598522.067459,
+    "geom:area_square_m":22598522.067461,
     "geom:bbox":"7.53686471923,47.3293449179,7.64442481203,47.3790704828",
     "geom:latitude":47.35626,
     "geom:longitude":7.592088,
@@ -81,6 +93,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -89,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2612",
+        "eurostat:nuts_2021_id":"CH2612",
         "gn:id":7285183,
         "gp:id":12685083,
         "qs_pg:id":1225103
@@ -101,7 +117,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9cd16d5d8684291e3adcf64d45a9ddd8",
+    "wof:geomhash":"a6f5e44c12c6195cc11172931edc76f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,10 +128,12 @@
         }
     ],
     "wof:id":404328247,
-    "wof:lastmodified":1582223084,
+    "wof:lastmodified":1684351692,
     "wof:name":"Beinwil",
     "wof:parent_id":1394137121,
     "wof:placetype":"localadmin",
+    "wof:population":283,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

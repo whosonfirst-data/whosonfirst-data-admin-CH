@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5136",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Onsernone",
+    "eurostat:nuts_2021_id":"CH5136",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5136",
+    "eurostat:population":682,
+    "eurostat:population_year":2020,
     "geom:area":0.012287,
-    "geom:area_square_m":105113622.960389,
+    "geom:area_square_m":105113622.960397,
     "geom:bbox":"8.46392739148,46.1769070453,8.70698378777,46.2681762678",
     "geom:latitude":46.222566,
     "geom:longitude":8.589702,
@@ -84,6 +96,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -91,8 +105,12 @@
         102062975
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5136",
+        "eurostat:nuts_2021_id":"CH5136"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"aa505f88ea291656a6dd607ff0543039",
+    "wof:geomhash":"303611da207c82f626f84d20d43b55e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +121,12 @@
         }
     ],
     "wof:id":1394254145,
-    "wof:lastmodified":1566640349,
+    "wof:lastmodified":1684351782,
     "wof:name":"Onsernone",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
+    "wof:population":682,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

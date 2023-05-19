@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5516",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cugy (VD)",
+    "eurostat:nuts_2021_id":"CH5516",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5516",
+    "eurostat:population":2739,
+    "eurostat:population_year":2020,
     "geom:area":0.000341,
-    "geom:area_square_m":2898845.623491,
+    "geom:area_square_m":2898845.623489,
     "geom:bbox":"6.629176,46.569857,6.656995,46.594696",
     "geom:latitude":46.581413,
     "geom:longitude":6.643716,
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062949,
-        85682325
+        85682325,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5516",
+        "eurostat:nuts_2021_id":"CH5516",
         "gn:id":7285605,
         "qs_pg:id":671277
     },
@@ -107,7 +123,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ca622fc8870173369038ae6f1ddeb14",
+    "wof:geomhash":"713c96840f556d4c962f5ccd4d72a35e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":404572155,
-    "wof:lastmodified":1598919823,
+    "wof:lastmodified":1684351767,
     "wof:name":"Cugy",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":2739,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

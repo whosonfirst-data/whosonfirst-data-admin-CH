@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0761",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u00e4rstetten",
+    "eurostat:nuts_2021_id":"CH0761",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0761",
+    "eurostat:population":849,
+    "eurostat:population_year":2020,
     "geom:area":0.00386,
-    "geom:area_square_m":32754864.188175,
+    "geom:area_square_m":32754864.188178,
     "geom:bbox":"7.446579,46.614189,7.537288,46.70724",
     "geom:latitude":46.671971,
     "geom:longitude":7.488306,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062831,
-        85682381
+        85682381,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0761",
+        "eurostat:nuts_2021_id":"CH0761",
         "gn:id":7285626,
         "gp:id":12683293,
         "qs_pg:id":43432
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6d02ce4ba60e82291ae0e4af0b08fcbe",
+    "wof:geomhash":"a3e246e6c3ab05a138250fa347ec31ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404568215,
-    "wof:lastmodified":1598919664,
+    "wof:lastmodified":1684351714,
     "wof:name":"D\u00e4rstetten",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",
+    "wof:population":849,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

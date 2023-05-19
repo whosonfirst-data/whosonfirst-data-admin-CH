@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0538",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fraubrunnen",
+    "eurostat:nuts_2021_id":"CH0538",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0538",
+    "eurostat:population":5113,
+    "eurostat:population_year":2020,
     "geom:area":0.00378,
-    "geom:area_square_m":31822018.545739,
+    "geom:area_square_m":31822018.545745,
     "geom:bbox":"7.46132561522,47.0593406218,7.56723732327,47.1226841196",
     "geom:latitude":47.090758,
     "geom:longitude":7.509797,
@@ -90,6 +102,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -97,8 +111,12 @@
         102062861
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0538",
+        "eurostat:nuts_2021_id":"CH0538"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"8c6a8cbd921d1b728ddf86071c5580ba",
+    "wof:geomhash":"8589acfdb0d85c17add02e60b7b0fcf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +127,12 @@
         }
     ],
     "wof:id":1394254067,
-    "wof:lastmodified":1566640354,
+    "wof:lastmodified":1684351780,
     "wof:name":"Fraubrunnen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":5113,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4831",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00fcllheim",
+    "eurostat:nuts_2021_id":"CH4831",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4831",
+    "eurostat:population":2991,
+    "eurostat:population_year":2020,
     "geom:area":0.001045,
-    "geom:area_square_m":8716762.477771,
+    "geom:area_square_m":8716762.477772,
     "geom:bbox":"8.98202711789,47.5813932863,9.02916515301,47.620459986",
     "geom:latitude":47.602819,
     "geom:longitude":9.003692,
@@ -139,6 +151,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -147,6 +161,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4831",
+        "eurostat:nuts_2021_id":"CH4831",
         "gn:id":7286578,
         "qs_pg:id":380122
     },
@@ -158,7 +174,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6fc317d735b543c920cd69d57de0411b",
+    "wof:geomhash":"fc7bf597359237f589f5230e9a9347bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +185,12 @@
         }
     ],
     "wof:id":404570101,
-    "wof:lastmodified":1582223105,
+    "wof:lastmodified":1684351742,
     "wof:name":"M\u00fcllheim",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
+    "wof:population":2991,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

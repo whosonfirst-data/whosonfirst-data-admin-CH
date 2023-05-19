@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4571",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gachnang",
+    "eurostat:nuts_2021_id":"CH4571",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4571",
+    "eurostat:population":4364,
+    "eurostat:population_year":2020,
     "geom:area":0.001163,
-    "geom:area_square_m":9708210.655448,
+    "geom:area_square_m":9708210.655447,
     "geom:bbox":"8.8278844166,47.5303379507,8.88063354951,47.5694333655",
     "geom:latitude":47.547987,
     "geom:longitude":8.854025,
@@ -120,6 +132,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -127,12 +141,15 @@
         102062869
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH4571",
+        "eurostat:nuts_2021_id":"CH4571"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7e4b20cfa56bdc0aa175c787c0ddb160",
+    "wof:geomhash":"cb3aad8398da351887ac75bdf000d48a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +160,12 @@
         }
     ],
     "wof:id":404569825,
-    "wof:lastmodified":1582222964,
+    "wof:lastmodified":1684351739,
     "wof:name":"Gachnang",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
+    "wof:population":4364,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

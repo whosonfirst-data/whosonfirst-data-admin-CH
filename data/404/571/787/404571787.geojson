@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0554",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wiler bei Utzenstorf",
+    "eurostat:nuts_2021_id":"CH0554",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0554",
+    "eurostat:population":963,
+    "eurostat:population_year":2020,
     "geom:area":0.000453,
     "geom:area_square_m":3810375.971204,
     "geom:bbox":"7.543005,47.140705,7.573017,47.164604",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0554",
+        "eurostat:nuts_2021_id":"CH0554",
         "gn:id":7287580,
         "gp:id":12684637,
         "qs_pg:id":396303
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9485153fb3f79dda2bcf63b798f18ad9",
+    "wof:geomhash":"fdc0b0709ee54c6c71ee2d73c0152955",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571787,
-    "wof:lastmodified":1598920235,
+    "wof:lastmodified":1684351763,
     "wof:name":"Wiler bei Utzenstorf",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":963,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

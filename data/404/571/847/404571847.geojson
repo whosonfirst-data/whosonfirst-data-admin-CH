@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5437",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saubraz",
+    "eurostat:nuts_2021_id":"CH5437",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5437",
+    "eurostat:population":418,
+    "eurostat:population_year":2020,
     "geom:area":0.000435,
-    "geom:area_square_m":3697572.678463,
+    "geom:area_square_m":3697572.678464,
     "geom:bbox":"6.30741,46.504124,6.350647,46.533957",
     "geom:latitude":46.518369,
     "geom:longitude":6.326842,
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5437",
+        "eurostat:nuts_2021_id":"CH5437",
         "gn:id":7287061,
         "gp:id":12684748,
         "qs_pg:id":1154319
@@ -114,7 +130,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c216c32a0c847b446b30a1505a9e8694",
+    "wof:geomhash":"c4a4ef3d656967aecac329bffae69431",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404571847,
-    "wof:lastmodified":1598920174,
+    "wof:lastmodified":1684351763,
     "wof:name":"Saubraz",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":418,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

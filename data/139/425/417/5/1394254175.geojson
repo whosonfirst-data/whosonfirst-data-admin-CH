@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Surpierre",
+    "eurostat:nuts_2021_id":"CH2044",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2044",
+    "eurostat:population":708,
+    "eurostat:population_year":2020,
     "geom:area":0.000982,
-    "geom:area_square_m":8324239.662449,
+    "geom:area_square_m":8324239.662448,
     "geom:bbox":"6.82838444681,46.7245826584,6.88209412461,46.7600921964",
     "geom:latitude":46.741603,
     "geom:longitude":6.856891,
@@ -84,6 +96,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -91,8 +105,12 @@
         102062945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2044",
+        "eurostat:nuts_2021_id":"CH2044"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"f3d10bcc596f9fa4e342278213cbc515",
+    "wof:geomhash":"1a21c6ac5ee443b8d6986a190e090fd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +121,12 @@
         }
     ],
     "wof:id":1394254175,
-    "wof:lastmodified":1566640365,
+    "wof:lastmodified":1684351783,
     "wof:name":"Surpierre",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",
+    "wof:population":708,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

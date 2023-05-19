@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2498",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rohr (SO)",
+    "eurostat:nuts_2021_id":"CH2498",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2498",
+    "eurostat:population":91,
+    "eurostat:population_year":2020,
     "geom:area":0.000266,
-    "geom:area_square_m":2223333.096038,
+    "geom:area_square_m":2223333.096039,
     "geom:bbox":"7.934928,47.403349,7.969347,47.418834",
     "geom:latitude":47.411584,
     "geom:longitude":7.952867,
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137093,
-        85682365
+        85682365,
+        1394137093
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2498",
+        "eurostat:nuts_2021_id":"CH2498",
         "gn:id":7286934,
         "gp:id":12684283,
         "qs_pg:id":106667
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b724ef164081f0e2f06b722fce5399e2",
+    "wof:geomhash":"61210428dc3ff7d902012e8e4cfe6cf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328851,
-    "wof:lastmodified":1598920333,
+    "wof:lastmodified":1684351701,
     "wof:name":"Rohr",
     "wof:parent_id":1394137093,
     "wof:placetype":"localadmin",
+    "wof:population":91,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

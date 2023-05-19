@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2973",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trasadingen",
+    "eurostat:nuts_2021_id":"CH2973",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2973",
+    "eurostat:population":584,
+    "eurostat:population_year":2020,
     "geom:area":0.000496,
-    "geom:area_square_m":4130028.682617,
+    "geom:area_square_m":4130028.682618,
     "geom:bbox":"8.405582,47.653864,8.449322,47.683843",
     "geom:latitude":47.669805,
     "geom:longitude":8.426158,
@@ -105,14 +117,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137101,
-        85682285
+        85682285,
+        1394137101
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2973",
+        "eurostat:nuts_2021_id":"CH2973",
         "gn:id":7287323,
         "gp:id":12684510,
         "qs_pg:id":271061
@@ -125,7 +141,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eee16e71b6a0d17b38da57a1c2c08164",
+    "wof:geomhash":"cd42c1f740bf8b1a5214730441f94de3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404328749,
-    "wof:lastmodified":1598920368,
+    "wof:lastmodified":1684351700,
     "wof:name":"Trasadingen",
     "wof:parent_id":1394137101,
     "wof:placetype":"localadmin",
+    "wof:population":584,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

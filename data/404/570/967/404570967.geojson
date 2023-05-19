@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5482",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ecl\u00e9pens",
+    "eurostat:nuts_2021_id":"CH5482",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5482",
+    "eurostat:population":1213,
+    "eurostat:population_year":2020,
     "geom:area":0.000682,
-    "geom:area_square_m":5789485.706883,
+    "geom:area_square_m":5789485.706884,
     "geom:bbox":"6.51895792948,46.6381223626,6.57049031994,46.6662546632",
     "geom:latitude":46.651474,
     "geom:longitude":6.542928,
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5482",
+        "eurostat:nuts_2021_id":"CH5482",
         "gn:id":7285695,
         "gp:id":12684774,
         "qs_pg:id":671284
@@ -60,7 +76,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4119d0187cd1de20f16bc323b31478bb",
+    "wof:geomhash":"a737f3a5b619dfffe1219ac09a7d7da4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +87,12 @@
         }
     ],
     "wof:id":404570967,
-    "wof:lastmodified":1582223104,
+    "wof:lastmodified":1684351753,
     "wof:name":"Ecl\u00e9pens",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":1213,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

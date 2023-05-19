@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6248",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sierre",
+    "eurostat:nuts_2021_id":"CH6248",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6248",
+    "eurostat:population":16801,
+    "eurostat:population_year":2020,
     "geom:area":0.002232,
     "geom:area_square_m":19078438.581921,
     "geom:bbox":"7.428485,46.24568,7.580609,46.307107",
@@ -157,14 +169,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062793,
-        85682281
+        85682281,
+        102062793
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6248",
+        "eurostat:nuts_2021_id":"CH6248",
         "gn:id":7287165,
         "qs_pg:id":671614
     },
@@ -173,7 +189,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3661290170907a17f43295db3e3ac83a",
+    "wof:geomhash":"df3c43f7f919b15b64c170efbd66ccaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,10 +200,12 @@
         }
     ],
     "wof:id":404568635,
-    "wof:lastmodified":1598919558,
+    "wof:lastmodified":1684351722,
     "wof:name":"Sierre",
     "wof:parent_id":102062793,
     "wof:placetype":"localadmin",
+    "wof:population":16801,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

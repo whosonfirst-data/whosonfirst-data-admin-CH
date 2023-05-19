@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schmiedrued",
+    "eurostat:nuts_2021_id":"CH4143",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4143",
+    "eurostat:population":1169,
+    "eurostat:population_year":2020,
     "geom:area":0.001028,
-    "geom:area_square_m":8624597.801199,
+    "geom:area_square_m":8624597.8012,
     "geom:bbox":"8.086546,47.241366,8.130888,47.282452",
     "geom:latitude":47.263145,
     "geom:longitude":8.111677,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062983,
-        85682329
+        85682329,
+        102062983
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4143",
+        "eurostat:nuts_2021_id":"CH4143",
         "gp:id":12685065,
         "qs_pg:id":1170071
     },
@@ -128,7 +144,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6e2cd2542d255598ec036dfcabef35c9",
+    "wof:geomhash":"72af045eb93fc508464c47dddc9867d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404570119,
-    "wof:lastmodified":1598920622,
+    "wof:lastmodified":1684351742,
     "wof:name":"Schmiedrued",
     "wof:parent_id":102062983,
     "wof:placetype":"localadmin",
+    "wof:population":1169,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

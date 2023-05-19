@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5451",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avenches",
+    "eurostat:nuts_2021_id":"CH5451",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5451",
+    "eurostat:population":4294,
+    "eurostat:population_year":2020,
     "geom:area":0.0023,
-    "geom:area_square_m":19436723.029757,
+    "geom:area_square_m":19436723.029758,
     "geom:bbox":"6.993801,46.845533,7.079834,46.909817",
     "geom:latitude":46.881069,
     "geom:longitude":7.040166,
@@ -139,14 +151,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062969,
-        85682325
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5451",
+        "eurostat:nuts_2021_id":"CH5451",
         "gn:id":7285126,
         "gp:id":12682868,
         "qs_pg:id":43260
@@ -159,7 +175,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"629f5121874eb928828b4352a2044cb4",
+    "wof:geomhash":"33cbc7600d8863a61125c49425dce603",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404568615,
-    "wof:lastmodified":1598919679,
+    "wof:lastmodified":1684351722,
     "wof:name":"Avenches",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":4294,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

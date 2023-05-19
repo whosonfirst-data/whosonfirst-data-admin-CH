@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0615",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mirchel",
+    "eurostat:nuts_2021_id":"CH0615",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0615",
+    "eurostat:population":624,
+    "eurostat:population_year":2020,
     "geom:area":0.000276,
-    "geom:area_square_m":2336460.415784,
+    "geom:area_square_m":2336460.415783,
     "geom:bbox":"7.637447,46.882292,7.663933,46.900116",
     "geom:latitude":46.891585,
     "geom:longitude":7.650284,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0615",
+        "eurostat:nuts_2021_id":"CH0615",
         "gn:id":7286510,
         "gp:id":12683780,
         "qs_pg:id":1040530
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c4b258bcef9e95c486d37610d3654727",
+    "wof:geomhash":"f95680475569ecb10e9566eb9dcf662f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404572427,
-    "wof:lastmodified":1598919845,
+    "wof:lastmodified":1684351770,
     "wof:name":"Mirchel",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":624,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

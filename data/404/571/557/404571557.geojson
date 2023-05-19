@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0581",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Interlaken",
+    "eurostat:nuts_2021_id":"CH0581",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0581",
+    "eurostat:population":5610,
+    "eurostat:population_year":2020,
     "geom:area":0.000503,
     "geom:area_square_m":4262881.393,
     "geom:bbox":"7.826778,46.664591,7.888771,46.704092",
@@ -205,14 +217,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062759,
-        85682381
+        85682381,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0581",
+        "eurostat:nuts_2021_id":"CH0581",
         "gn:id":7286143,
         "gp:id":12683728,
         "qs_pg:id":1188050
@@ -225,7 +241,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8b1de4b5e526ad9de052611b6763ad2e",
+    "wof:geomhash":"82f967a56c1443f5c968c84e8be2ce22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -236,10 +252,12 @@
         }
     ],
     "wof:id":404571557,
-    "wof:lastmodified":1598920016,
+    "wof:lastmodified":1684351760,
     "wof:name":"Interlaken",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":5610,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

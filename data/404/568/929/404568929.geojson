@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0154",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"K\u00fcsnacht (ZH)",
+    "eurostat:nuts_2021_id":"CH0154",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0154",
+    "eurostat:population":14397,
+    "eurostat:population_year":2020,
     "geom:area":0.001471,
-    "geom:area_square_m":12331104.233795,
+    "geom:area_square_m":12331104.233794,
     "geom:bbox":"8.571555,47.307034,8.658582,47.335868",
     "geom:latitude":47.319702,
     "geom:longitude":8.612167,
@@ -152,14 +164,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062769,
-        85682309
+        85682309,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0154",
+        "eurostat:nuts_2021_id":"CH0154",
         "gn:id":7286229,
         "gp:id":12683794,
         "qs_pg:id":235854
@@ -169,7 +185,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5698e0c7fb601e06b5f8b6fcf85e13ae",
+    "wof:geomhash":"7f3b63ced5a6d15983ac94f18b93e40b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,10 +196,12 @@
         }
     ],
     "wof:id":404568929,
-    "wof:lastmodified":1598919727,
+    "wof:lastmodified":1684351727,
     "wof:name":"K\u00fcsnacht",
     "wof:parent_id":102062769,
     "wof:placetype":"localadmin",
+    "wof:population":14397,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

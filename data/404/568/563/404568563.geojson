@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0627",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Worb",
+    "eurostat:nuts_2021_id":"CH0627",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0627",
+    "eurostat:population":11316,
+    "eurostat:population_year":2020,
     "geom:area":0.00249,
-    "geom:area_square_m":21028990.471557,
+    "geom:area_square_m":21028990.471558,
     "geom:bbox":"7.521609,46.909248,7.617601,46.951572",
     "geom:latitude":46.927224,
     "geom:longitude":7.570756,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0627",
+        "eurostat:nuts_2021_id":"CH0627",
         "gn:id":7287610,
         "gp:id":12684260,
         "qs_pg:id":106719
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb9495e35110742374f404d0d27556a1",
+    "wof:geomhash":"bfc1e8a6dbe335cc05104a746c43f110",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404568563,
-    "wof:lastmodified":1598919635,
+    "wof:lastmodified":1684351721,
     "wof:name":"Worb",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":11316,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4172",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00fcnchwilen (AG)",
+    "eurostat:nuts_2021_id":"CH4172",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4172",
+    "eurostat:population":930,
+    "eurostat:population_year":2020,
     "geom:area":0.000294,
     "geom:area_square_m":2453364.824243,
     "geom:bbox":"7.95155232682,47.527114431,7.97314830273,47.5502650407",
@@ -78,6 +90,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -85,7 +99,10 @@
         102062977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH4172",
+        "eurostat:nuts_2021_id":"CH4172"
+    },
     "wof:coterminous":[
         1276580921
     ],
@@ -93,7 +110,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"006ca57d2ec4c84b5e024e9735c10a63",
+    "wof:geomhash":"835158df27e11d5101846429e9296f2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":404572369,
-    "wof:lastmodified":1582223031,
+    "wof:lastmodified":1684351769,
     "wof:name":"M\u00fcnchwilen",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",
+    "wof:population":930,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

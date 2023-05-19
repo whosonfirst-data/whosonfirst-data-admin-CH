@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6626",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jussy",
+    "eurostat:nuts_2021_id":"CH6626",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6626",
+    "eurostat:population":1279,
+    "eurostat:population_year":2020,
     "geom:area":0.001324,
     "geom:area_square_m":11320032.975433,
     "geom:bbox":"6.241305,46.221244,6.310288,46.256565",
@@ -98,14 +110,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6626",
+        "eurostat:nuts_2021_id":"CH6626",
         "gn:id":7286169,
         "gp:id":12683747,
         "qs_pg:id":961772
@@ -118,7 +134,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7fab037e97520fdc4b1426852b89bdf7",
+    "wof:geomhash":"d8d32ba7fea958e5a66fd3b233efc5e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404328405,
-    "wof:lastmodified":1598920457,
+    "wof:lastmodified":1684351695,
     "wof:name":"Jussy",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":1279,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

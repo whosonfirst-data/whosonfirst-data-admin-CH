@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5857",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gilly",
+    "eurostat:nuts_2021_id":"CH5857",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5857",
+    "eurostat:population":1322,
+    "eurostat:population_year":2020,
     "geom:area":0.000909,
-    "geom:area_square_m":7739963.517226,
+    "geom:area_square_m":7739963.517228,
     "geom:bbox":"6.279065,46.444944,6.324729,46.480354",
     "geom:latitude":46.462193,
     "geom:longitude":6.300866,
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5857",
+        "eurostat:nuts_2021_id":"CH5857",
         "gn:id":7285915,
         "gp:id":12683544,
         "qs_pg:id":1176113
@@ -111,7 +127,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"027dfb0bb50145513dd7064d69b9193c",
+    "wof:geomhash":"e7b0c37e28bdffd7ff511cba3c99725e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404570373,
-    "wof:lastmodified":1598920722,
+    "wof:lastmodified":1684351745,
     "wof:name":"Gilly",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":1322,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

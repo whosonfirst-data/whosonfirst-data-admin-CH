@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3851",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Davos",
+    "eurostat:nuts_2021_id":"CH3851",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3851",
+    "eurostat:population":10899,
+    "eurostat:population_year":2020,
     "geom:area":0.033436,
-    "geom:area_square_m":283264880.920938,
+    "geom:area_square_m":283264880.920931,
     "geom:bbox":"9.669116,46.67026,9.967062,46.859659",
     "geom:latitude":46.753208,
     "geom:longitude":9.833061,
@@ -268,14 +280,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062803,
-        85682255
+        85682255,
+        102062803
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3851",
+        "eurostat:nuts_2021_id":"CH3851",
         "gn:id":2661041,
         "gp:id":12682922,
         "qs_pg:id":575580
@@ -285,7 +301,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"14b16a9fc92f747ff55a52fa2e4af5f6",
+    "wof:geomhash":"8f3d610487f60d0b37d6afec47522f5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -296,10 +312,12 @@
         }
     ],
     "wof:id":404567695,
-    "wof:lastmodified":1598919398,
+    "wof:lastmodified":1684351702,
     "wof:name":"Davos",
     "wof:parent_id":102062803,
     "wof:placetype":"localadmin",
+    "wof:population":10899,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

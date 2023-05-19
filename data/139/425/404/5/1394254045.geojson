@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0449",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sauge",
+    "eurostat:nuts_2021_id":"CH0449",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0449",
+    "eurostat:population":815,
+    "eurostat:population_year":2020,
     "geom:area":0.001597,
     "geom:area_square_m":13419536.878271,
     "geom:bbox":"7.25238139435,47.1668344131,7.3243322472,47.2085869234",
@@ -51,6 +63,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -58,8 +72,12 @@
         102062865
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0449",
+        "eurostat:nuts_2021_id":"CH0449"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"2276d4c312d39d2d22540f0e408c15e1",
+    "wof:geomhash":"4f1e97943b84a854a43d21ad92a195aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +88,12 @@
         }
     ],
     "wof:id":1394254045,
-    "wof:lastmodified":1566640376,
+    "wof:lastmodified":1684351779,
     "wof:name":"Sauge",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":815,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

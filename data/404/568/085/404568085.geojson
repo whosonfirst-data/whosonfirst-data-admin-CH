@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3945",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trimmis",
+    "eurostat:nuts_2021_id":"CH3945",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3945",
+    "eurostat:population":3304,
+    "eurostat:population_year":2020,
     "geom:area":0.005061,
-    "geom:area_square_m":42762000.077934,
+    "geom:area_square_m":42762000.077936,
     "geom:bbox":"9.536864,46.857529,9.655363,46.930444",
     "geom:latitude":46.895256,
     "geom:longitude":9.597584,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062881,
-        85682255
+        85682255,
+        102062881
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3945",
+        "eurostat:nuts_2021_id":"CH3945",
         "gp:id":12684108,
         "qs_pg:id":235859
     },
@@ -140,7 +156,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"20b92ac99f7c650fbf9902f837901548",
+    "wof:geomhash":"b249a154f3f031807915642c74816c68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         }
     ],
     "wof:id":404568085,
-    "wof:lastmodified":1598919524,
+    "wof:lastmodified":1684351711,
     "wof:name":"Trimmis",
     "wof:parent_id":102062881,
     "wof:placetype":"localadmin",
+    "wof:population":3304,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

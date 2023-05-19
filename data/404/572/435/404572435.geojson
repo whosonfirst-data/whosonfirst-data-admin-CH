@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0741",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Merzligen",
+    "eurostat:nuts_2021_id":"CH0741",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0741",
+    "eurostat:population":393,
+    "eurostat:population_year":2020,
     "geom:area":0.000272,
     "geom:area_square_m":2292355.356955,
     "geom:bbox":"7.235917,47.075094,7.26942,47.096467",
@@ -99,14 +111,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0741",
+        "eurostat:nuts_2021_id":"CH0741"
+    },
     "wof:coterminous":[
         1125848185
     ],
@@ -114,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"44b2d3c9e85ae2ce21d7a0f3fb0d7557",
+    "wof:geomhash":"e8d15914d95ff2afb3f4b700d3a91551",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404572435,
-    "wof:lastmodified":1598919857,
+    "wof:lastmodified":1684351770,
     "wof:name":"Merzligen",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":393,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

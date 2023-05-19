@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0841",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gsteig",
+    "eurostat:nuts_2021_id":"CH0841",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0841",
+    "eurostat:population":978,
+    "eurostat:population_year":2020,
     "geom:area":0.007297,
-    "geom:area_square_m":62244180.227266,
+    "geom:area_square_m":62244180.227267,
     "geom:bbox":"7.19371133999,46.3264681903,7.31029074216,46.4282703701",
     "geom:latitude":46.384546,
     "geom:longitude":7.252697,
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0841",
+        "eurostat:nuts_2021_id":"CH0841",
         "gn:id":7285998,
         "gp:id":12683457,
         "qs_pg:id":1118733
@@ -57,7 +73,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e24efef2be9b4544e12027eebc76b839",
+    "wof:geomhash":"50d12a43fc310dccbe349f1b980a2e36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +84,12 @@
         }
     ],
     "wof:id":404567889,
-    "wof:lastmodified":1582222973,
+    "wof:lastmodified":1684351707,
     "wof:name":"Gsteig",
     "wof:parent_id":102062821,
     "wof:placetype":"localadmin",
+    "wof:population":978,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

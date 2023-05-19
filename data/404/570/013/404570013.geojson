@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3791",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zuoz",
+    "eurostat:nuts_2021_id":"CH3791",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3791",
+    "eurostat:population":1186,
+    "eurostat:population_year":2020,
     "geom:area":0.007718,
-    "geom:area_square_m":65613032.257492,
+    "geom:area_square_m":65613032.257485,
     "geom:bbox":"9.862873,46.475451,10.053978,46.629333",
     "geom:latitude":46.563091,
     "geom:longitude":9.980245,
@@ -126,14 +138,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062857,
-        85682255
+        85682255,
+        102062857
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3791",
+        "eurostat:nuts_2021_id":"CH3791"
+    },
     "wof:coterminous":[
         1125787533
     ],
@@ -141,7 +158,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe57a65f6df3bebce6729307b63c192f",
+    "wof:geomhash":"2793ab81fac249fb6970e7d5fcccfd77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +169,12 @@
         }
     ],
     "wof:id":404570013,
-    "wof:lastmodified":1598920554,
+    "wof:lastmodified":1684351741,
     "wof:name":"Zuoz",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",
+    "wof:population":1186,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

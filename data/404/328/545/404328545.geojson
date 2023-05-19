@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2586",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wangen bei Olten",
+    "eurostat:nuts_2021_id":"CH2586",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2586",
+    "eurostat:population":5057,
+    "eurostat:population_year":2020,
     "geom:area":0.000829,
-    "geom:area_square_m":6944199.5325,
+    "geom:area_square_m":6944199.532499,
     "geom:bbox":"7.848766,47.317653,7.889279,47.361119",
     "geom:latitude":47.342101,
     "geom:longitude":7.871604,
@@ -114,14 +126,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137091,
-        85682365
+        85682365,
+        1394137091
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2586",
+        "eurostat:nuts_2021_id":"CH2586",
         "gn:id":7287540,
         "gp:id":12684610,
         "qs_pg:id":1019757
@@ -134,7 +150,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"037ccad2069895967e4b653356a47c14",
+    "wof:geomhash":"ae82e87b6d45b31cde4113749cb91a79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404328545,
-    "wof:lastmodified":1598920379,
+    "wof:lastmodified":1684351697,
     "wof:name":"Wangen bei Olten",
     "wof:parent_id":1394137091,
     "wof:placetype":"localadmin",
+    "wof:population":5057,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

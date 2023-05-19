@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3926",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maladers",
+    "eurostat:nuts_2021_id":"CH3926",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3926",
+    "eurostat:population":519,
+    "eurostat:population_year":2020,
     "geom:area":0.000896,
     "geom:area_square_m":7574653.307849,
     "geom:bbox":"9.544762,46.8305,9.595243,46.864017",
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063001,
-        85682255
+        85682255,
+        102063001
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3926",
+        "eurostat:nuts_2021_id":"CH3926",
         "gn:id":7286422,
         "gp:id":12683724,
         "qs_pg:id":1026185
@@ -144,7 +160,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3721561814d64d2cb2325062425926ad",
+    "wof:geomhash":"30c697a10f0776a29c6f6e64e655d701",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404570419,
-    "wof:lastmodified":1598920657,
+    "wof:lastmodified":1684351746,
     "wof:name":"Maladers",
     "wof:parent_id":102063001,
     "wof:placetype":"localadmin",
+    "wof:population":519,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

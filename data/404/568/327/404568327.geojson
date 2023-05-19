@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3443",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gossau (SG)",
+    "eurostat:nuts_2021_id":"CH3443",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3443",
+    "eurostat:population":18173,
+    "eurostat:population_year":2020,
     "geom:area":0.003279,
-    "geom:area_square_m":27429242.524659,
+    "geom:area_square_m":27429242.52466,
     "geom:bbox":"9.21244737331,47.395945756,9.30720860202,47.4547824649",
     "geom:latitude":47.421006,
     "geom:longitude":9.253647,
@@ -88,6 +100,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3443",
+        "eurostat:nuts_2021_id":"CH3443",
         "gn:id":7285945,
         "qs_pg:id":106582
     },
@@ -104,7 +120,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98a637403f4d33918662d6d854250069",
+    "wof:geomhash":"632f7d1e83202c65239b573ac1775212",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,10 +131,12 @@
         }
     ],
     "wof:id":404568327,
-    "wof:lastmodified":1582223022,
+    "wof:lastmodified":1684351716,
     "wof:name":"Gossau",
     "wof:parent_id":102062847,
     "wof:placetype":"localadmin",
+    "wof:population":18173,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

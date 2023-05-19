@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3921",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arosa",
+    "eurostat:nuts_2021_id":"CH3921",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3921",
+    "eurostat:population":3131,
+    "eurostat:population_year":2020,
     "geom:area":0.018243,
-    "geom:area_square_m":154382311.612829,
+    "geom:area_square_m":154382311.612833,
     "geom:bbox":"9.58321220057,46.7295758885,9.80700196035,46.8736016487",
     "geom:latitude":46.812609,
     "geom:longitude":9.689292,
@@ -141,6 +153,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -148,8 +162,12 @@
         102063001
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3921",
+        "eurostat:nuts_2021_id":"CH3921"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"6ac35f2de18f2ec032dce8775bfa5a05",
+    "wof:geomhash":"55cc706951fa1677b0f2a9da11465e31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +178,12 @@
         }
     ],
     "wof:id":1394254077,
-    "wof:lastmodified":1566640358,
+    "wof:lastmodified":1684351780,
     "wof:name":"Arosa",
     "wof:parent_id":102063001,
     "wof:placetype":"localadmin",
+    "wof:population":3131,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

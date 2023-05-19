@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wohlen (AG)",
+    "eurostat:nuts_2021_id":"CH4082",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4082",
+    "eurostat:population":16484,
+    "eurostat:population_year":2020,
     "geom:area":0.001486,
-    "geom:area_square_m":12449442.173367,
+    "geom:area_square_m":12449442.173368,
     "geom:bbox":"8.25036513648,47.3337622751,8.31940363183,47.3743663478",
     "geom:latitude":47.353299,
     "geom:longitude":8.280707,
@@ -64,6 +76,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4082",
+        "eurostat:nuts_2021_id":"CH4082",
         "gn:id":7287600,
         "gp:id":12684643,
         "qs_pg:id":1118743
@@ -81,7 +97,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c788137ac4239b6c3c55c315fb194dd8",
+    "wof:geomhash":"1218aaa9b6e4621a6a60cb75d6277643",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404569205,
-    "wof:lastmodified":1582222954,
+    "wof:lastmodified":1684351732,
     "wof:name":"Wohlen",
     "wof:parent_id":102062877,
     "wof:placetype":"localadmin",
+    "wof:population":16484,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

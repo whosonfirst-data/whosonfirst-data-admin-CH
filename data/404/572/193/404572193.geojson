@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0325",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Busswil bei Melchnau",
+    "eurostat:nuts_2021_id":"CH0325",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0325",
+    "eurostat:population":188,
+    "eurostat:population_year":2020,
     "geom:area":0.00034,
     "geom:area_square_m":2854705.989442,
     "geom:bbox":"7.811312,47.178476,7.847826,47.196759",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0325",
+        "eurostat:nuts_2021_id":"CH0325",
         "gn:id":7285406,
         "qs_pg:id":106541
     },
@@ -125,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"cf4149965d35038687c81f892a19e66a",
+    "wof:geomhash":"abad8b356de383dd27fccc62019b7673",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404572193,
-    "wof:lastmodified":1598919769,
+    "wof:lastmodified":1684351767,
     "wof:name":"Busswil bei Melchnau",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":188,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

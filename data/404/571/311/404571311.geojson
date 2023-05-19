@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mellingen",
+    "eurostat:nuts_2021_id":"CH4033",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4033",
+    "eurostat:population":5633,
+    "eurostat:population_year":2020,
     "geom:area":0.00058,
-    "geom:area_square_m":4852758.687638,
+    "geom:area_square_m":4852758.687639,
     "geom:bbox":"8.25354,47.406355,8.291895,47.435243",
     "geom:latitude":47.421104,
     "geom:longitude":8.274163,
@@ -127,14 +139,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062843,
-        85682329
+        85682329,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4033",
+        "eurostat:nuts_2021_id":"CH4033",
         "gn:id":7286480,
         "gp:id":12683969,
         "qs_pg:id":989362
@@ -147,7 +163,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"dbdc75a56687dc9ac76d11eb77578922",
+    "wof:geomhash":"0f2ebb04cb5ccf6503d94e30f07a3529",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404571311,
-    "wof:lastmodified":1598920222,
+    "wof:lastmodified":1684351757,
     "wof:name":"Mellingen",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
+    "wof:population":5633,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

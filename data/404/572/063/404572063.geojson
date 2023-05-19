@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5483",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferreyres",
+    "eurostat:nuts_2021_id":"CH5483",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5483",
+    "eurostat:population":309,
+    "eurostat:population_year":2020,
     "geom:area":0.000371,
     "geom:area_square_m":3147442.682638,
     "geom:bbox":"6.462511688,46.6489031377,6.50203307645,46.6708135862",
@@ -91,6 +103,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5483",
+        "eurostat:nuts_2021_id":"CH5483",
         "gn:id":7285813,
         "gp:id":12684753,
         "qs_pg:id":671312
@@ -111,7 +127,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f1a2a8158483eabf6f476edb9dd862ed",
+    "wof:geomhash":"dd9d78cf12e0277da2045c5212f1a487",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404572063,
-    "wof:lastmodified":1582223029,
+    "wof:lastmodified":1684351766,
     "wof:name":"Ferreyres",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":309,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

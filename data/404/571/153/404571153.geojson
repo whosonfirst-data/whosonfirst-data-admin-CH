@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0251",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Weiningen (ZH)",
+    "eurostat:nuts_2021_id":"CH0251",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0251",
+    "eurostat:population":4832,
+    "eurostat:population_year":2020,
     "geom:area":0.000641,
-    "geom:area_square_m":5359134.09908,
+    "geom:area_square_m":5359134.099079,
     "geom:bbox":"8.409171,47.405149,8.453465,47.434259",
     "geom:latitude":47.420043,
     "geom:longitude":8.430332,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062893,
-        85682309
+        85682309,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0251",
+        "eurostat:nuts_2021_id":"CH0251",
         "gn:id":7287556,
         "gp:id":12684617,
         "qs_pg:id":671682
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"27e119a17c4fe54fcfa23d50a51205dd",
+    "wof:geomhash":"96462d31971596d3dd67c71dbd18d185",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404571153,
-    "wof:lastmodified":1598920124,
+    "wof:lastmodified":1684351755,
     "wof:name":"Weiningen",
     "wof:parent_id":102062893,
     "wof:placetype":"localadmin",
+    "wof:population":4832,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

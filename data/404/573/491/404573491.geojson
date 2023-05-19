@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2225",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sen\u00e8des",
+    "eurostat:nuts_2021_id":"CH2225",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2225",
+    "eurostat:population":160,
+    "eurostat:population_year":2020,
     "geom:area":0.00006,
     "geom:area_square_m":506636.429548,
     "geom:bbox":"7.133679,46.739311,7.153303,46.744581",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063029,
-        85682301
+        85682301,
+        102063029
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2225",
+        "eurostat:nuts_2021_id":"CH2225",
         "gn:id":7287151,
         "gp:id":20075494,
         "qs_pg:id":50234
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"42bae63774a16207a6bffa6ea018ff45",
+    "wof:geomhash":"5276d293239d79c2391bf3dc72a8a7cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404573491,
-    "wof:lastmodified":1598919926,
+    "wof:lastmodified":1684351775,
     "wof:name":"Sen\u00e8des",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

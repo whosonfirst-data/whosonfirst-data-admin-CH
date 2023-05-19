@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4075",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rudolfstetten-Friedlisberg",
+    "eurostat:nuts_2021_id":"CH4075",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4075",
+    "eurostat:population":4502,
+    "eurostat:population_year":2020,
     "geom:area":0.000584,
     "geom:area_square_m":4889837.801436,
     "geom:bbox":"8.364711,47.358829,8.408191,47.379053",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062877,
-        85682329
+        85682329,
+        102062877
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4075",
+        "eurostat:nuts_2021_id":"CH4075",
         "gn:id":7286971,
         "gp:id":12684308,
         "qs_pg:id":1093318
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"418535ba664eabfa015d31f331bb9a6b",
+    "wof:geomhash":"687fe233255b04e567ec07f6fbfc14d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404571283,
-    "wof:lastmodified":1598920158,
+    "wof:lastmodified":1684351757,
     "wof:name":"Rudolfstetten-Friedlisberg",
     "wof:parent_id":102062877,
     "wof:placetype":"localadmin",
+    "wof:population":4502,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

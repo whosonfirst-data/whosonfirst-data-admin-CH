@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6286",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lalden",
+    "eurostat:nuts_2021_id":"CH6286",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6286",
+    "eurostat:population":649,
+    "eurostat:population_year":2020,
     "geom:area":0.000152,
     "geom:area_square_m":1297700.163422,
     "geom:bbox":"7.876861,46.295952,7.912582,46.305083",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062859,
-        85682281
+        85682281,
+        102062859
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6286",
+        "eurostat:nuts_2021_id":"CH6286",
         "gp:id":12683824,
         "qs_pg:id":61905
     },
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48a53c80949c87c3cea66fbbdb084bbb",
+    "wof:geomhash":"b4f96f97580a68349c7d41a9f62b00bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404573379,
-    "wof:lastmodified":1598919928,
+    "wof:lastmodified":1684351774,
     "wof:name":"Lalden",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",
+    "wof:population":649,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

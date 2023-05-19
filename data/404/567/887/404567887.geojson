@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3785",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Punt-Chamues-ch",
+    "eurostat:nuts_2021_id":"CH3785",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3785",
+    "eurostat:population":686,
+    "eurostat:population_year":2020,
     "geom:area":0.007422,
-    "geom:area_square_m":63111212.523195,
+    "geom:area_square_m":63111212.523197,
     "geom:bbox":"9.824115,46.475722,9.994026,46.603572",
     "geom:latitude":46.550834,
     "geom:longitude":9.930195,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -120,6 +134,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3785",
+        "eurostat:nuts_2021_id":"CH3785",
         "gn:id":7286266,
         "gp:id":12683131,
         "qs_pg:id":61806
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f92a1329d64f60afba9da6fd4b9bd4c5",
+    "wof:geomhash":"b47ebcc6c5dcc75900451d45e2d94752",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404567887,
-    "wof:lastmodified":1617130005,
+    "wof:lastmodified":1684351707,
     "wof:name":"La Punt-Chamues-ch",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",
+    "wof:population":686,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

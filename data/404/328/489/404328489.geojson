@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fischbach",
+    "eurostat:nuts_2021_id":"CH1129",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1129",
+    "eurostat:population":711,
+    "eurostat:population_year":2020,
     "geom:area":0.000954,
-    "geom:area_square_m":8025734.625308,
+    "geom:area_square_m":8025734.625305,
     "geom:bbox":"7.881895,47.127746,7.928886,47.17086",
     "geom:latitude":47.151935,
     "geom:longitude":7.906298,
@@ -83,14 +95,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137075,
-        85682319
+        85682319,
+        1394137075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH1129",
+        "eurostat:nuts_2021_id":"CH1129"
+    },
     "wof:coterminous":[
         1126021611
     ],
@@ -98,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f85d7f15defde56eb52398f07462007a",
+    "wof:geomhash":"a309f46c4b8ecdb897cd240d278f2706",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +126,12 @@
         }
     ],
     "wof:id":404328489,
-    "wof:lastmodified":1598920445,
+    "wof:lastmodified":1684351696,
     "wof:name":"Fischbach",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",
+    "wof:population":711,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

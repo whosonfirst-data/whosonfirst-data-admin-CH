@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0762",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Diemtigen",
+    "eurostat:nuts_2021_id":"CH0762",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0762",
+    "eurostat:population":2250,
+    "eurostat:population_year":2020,
     "geom:area":0.015252,
-    "geom:area_square_m":129605276.14886,
+    "geom:area_square_m":129605276.14885,
     "geom:bbox":"7.433041,46.514635,7.627239,46.668407",
     "geom:latitude":46.59029,
     "geom:longitude":7.530416,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062831,
-        85682381
+        85682381,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0762",
+        "eurostat:nuts_2021_id":"CH0762",
         "gn:id":7285645,
         "gp:id":12682877,
         "qs_pg:id":43261
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1d7ef362879f592d3659403b7952f40f",
+    "wof:geomhash":"055bafe81f1d911cc92d5d042a5c1033",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404567761,
-    "wof:lastmodified":1598919425,
+    "wof:lastmodified":1684351704,
     "wof:name":"Diemtigen",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",
+    "wof:population":2250,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

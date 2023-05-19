@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0293",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"W\u00e4denswil",
+    "eurostat:nuts_2021_id":"CH0293",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0293",
+    "eurostat:population":24341,
+    "eurostat:population_year":2020,
     "geom:area":0.004231,
-    "geom:area_square_m":35541059.61625,
+    "geom:area_square_m":35541059.616248,
     "geom:bbox":"8.61516299547,47.1594368157,8.69219526462,47.2519540818",
     "geom:latitude":47.204785,
     "geom:longitude":8.651248,
@@ -126,6 +138,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -133,8 +147,12 @@
         102062825
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0293",
+        "eurostat:nuts_2021_id":"CH0293"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"1d3fbe68b3ffc899ef42cc50fdd4e8c0",
+    "wof:geomhash":"8232f2d39b2956a8492521847fda7573",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +163,12 @@
         }
     ],
     "wof:id":1394253971,
-    "wof:lastmodified":1566640343,
+    "wof:lastmodified":1684351777,
     "wof:name":"W\u00e4denswil",
     "wof:parent_id":102062825,
     "wof:placetype":"localadmin",
+    "wof:population":24341,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grub (AR)",
+    "eurostat:nuts_2021_id":"CH3031",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH053",
+    "eurostat:nuts_2021_level_lau":"CH3031",
+    "eurostat:population":1008,
+    "eurostat:population_year":2020,
     "geom:area":0.000502,
     "geom:area_square_m":4199925.425779,
     "geom:bbox":"9.468131,47.428356,9.525215,47.451836",
@@ -87,14 +99,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137103,
-        85682353
+        85682353,
+        1394137103
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3031",
+        "eurostat:nuts_2021_id":"CH3031",
         "gn:id":7285994,
         "gp:id":20075524,
         "qs_pg:id":263230
@@ -107,7 +123,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"92f81a123e9d7c809113eacbafcd0094",
+    "wof:geomhash":"02093693c8f0967c8a7536ff9a4ae622",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":404328741,
-    "wof:lastmodified":1598920386,
+    "wof:lastmodified":1684351700,
     "wof:name":"Grub",
     "wof:parent_id":1394137103,
     "wof:placetype":"localadmin",
+    "wof:population":1008,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stettfurt",
+    "eurostat:nuts_2021_id":"CH4606",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4606",
+    "eurostat:population":1204,
+    "eurostat:population_year":2020,
     "geom:area":0.00076,
-    "geom:area_square_m":6347423.599077,
+    "geom:area_square_m":6347423.599078,
     "geom:bbox":"8.937415,47.509668,8.981578,47.540797",
     "geom:latitude":47.525203,
     "geom:longitude":8.956917,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062869,
-        85682337
+        85682337,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4606",
+        "eurostat:nuts_2021_id":"CH4606",
         "gn:id":7287238,
         "gp:id":12684463,
         "qs_pg:id":500413
@@ -141,7 +157,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"521a5c85f4a783a7f7b253145185de6f",
+    "wof:geomhash":"95940c17ec50db31c4710c9f209f9fc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404570791,
-    "wof:lastmodified":1598920526,
+    "wof:lastmodified":1684351751,
     "wof:name":"Stettfurt",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
+    "wof:population":1204,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

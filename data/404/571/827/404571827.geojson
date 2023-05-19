@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leutwil",
+    "eurostat:nuts_2021_id":"CH4138",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4138",
+    "eurostat:population":765,
+    "eurostat:population_year":2020,
     "geom:area":0.000446,
-    "geom:area_square_m":3735722.288999,
+    "geom:area_square_m":3735722.288998,
     "geom:bbox":"8.15701,47.29449,8.190724,47.319349",
     "geom:latitude":47.305609,
     "geom:longitude":8.173825,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062983,
-        85682329
+        85682329,
+        102062983
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4138",
+        "eurostat:nuts_2021_id":"CH4138",
         "gn:id":7286340,
         "gp:id":12683880,
         "qs_pg:id":1163649
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"765c631cc91b03451a87747c3f96707b",
+    "wof:geomhash":"9951e1c038fade55b15c5c8199bd8b51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404571827,
-    "wof:lastmodified":1598920029,
+    "wof:lastmodified":1684351763,
     "wof:name":"Leutwil",
     "wof:parent_id":102062983,
     "wof:placetype":"localadmin",
+    "wof:population":765,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

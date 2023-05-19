@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3276",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wartau",
+    "eurostat:nuts_2021_id":"CH3276",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3276",
+    "eurostat:population":5297,
+    "eurostat:population_year":2020,
     "geom:area":0.004946,
     "geom:area_square_m":41640456.810379,
     "geom:bbox":"9.375384,47.064785,9.519615,47.119335",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062755,
-        85682341
+        85682341,
+        102062755
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3276",
+        "eurostat:nuts_2021_id":"CH3276",
         "gn:id":2658049,
         "gp:id":12684522,
         "qs_pg:id":288190
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fd05c11e2afaa5e71ad8251b42eeb4f6",
+    "wof:geomhash":"ae0a2ea8df022e64dfbffdaee479b8f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404568097,
-    "wof:lastmodified":1598919559,
+    "wof:lastmodified":1684351711,
     "wof:name":"Wartau",
     "wof:parent_id":102062755,
     "wof:placetype":"localadmin",
+    "wof:population":5297,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

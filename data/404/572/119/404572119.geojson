@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5481",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dizy",
+    "eurostat:nuts_2021_id":"CH5481",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5481",
+    "eurostat:population":222,
+    "eurostat:population_year":2020,
     "geom:area":0.000357,
-    "geom:area_square_m":3030521.360703,
+    "geom:area_square_m":3030521.360704,
     "geom:bbox":"6.48047563818,46.624528907,6.51226140557,46.6437022281",
     "geom:latitude":46.634397,
     "geom:longitude":6.494855,
@@ -60,6 +72,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -67,7 +81,10 @@
         102062873
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5481",
+        "eurostat:nuts_2021_id":"CH5481"
+    },
     "wof:coterminous":[
         1125860407
     ],
@@ -75,7 +92,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd67b98480af47277dfeb3e0a757aac2",
+    "wof:geomhash":"c6b261bcc7ce813020a7a70d10e2521f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,10 +103,12 @@
         }
     ],
     "wof:id":404572119,
-    "wof:lastmodified":1582223030,
+    "wof:lastmodified":1684351767,
     "wof:name":"Dizy",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":222,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

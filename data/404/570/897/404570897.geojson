@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0088",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neerach",
+    "eurostat:nuts_2021_id":"CH0088",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0088",
+    "eurostat:population":3178,
+    "eurostat:population_year":2020,
     "geom:area":0.000721,
     "geom:area_square_m":6024700.554172,
     "geom:bbox":"8.45401160396,47.4934344709,8.4937432127,47.5279526852",
@@ -106,6 +118,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -114,6 +128,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0088",
+        "eurostat:nuts_2021_id":"CH0088",
         "gn:id":7286615,
         "gp:id":12685101,
         "qs_pg:id":289841
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2762c2e2961ba1b06928ff8dcea2f741",
+    "wof:geomhash":"ebed2b355f3023ac885593fea76feb51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570897,
-    "wof:lastmodified":1582223111,
+    "wof:lastmodified":1684351752,
     "wof:name":"Neerach",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",
+    "wof:population":3178,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

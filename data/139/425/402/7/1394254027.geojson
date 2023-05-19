@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2254",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Courtepin",
+    "eurostat:nuts_2021_id":"CH2254",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2254",
+    "eurostat:population":5454,
+    "eurostat:population_year":2020,
     "geom:area":0.002581,
     "geom:area_square_m":21817644.425124,
     "geom:bbox":"7.06167449611,46.8369473744,7.18783056794,46.8961641549",
@@ -84,6 +96,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -91,8 +105,12 @@
         102062765
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2254",
+        "eurostat:nuts_2021_id":"CH2254"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"bf7d2a0b0e5fc9a0c7741e049c03bb8e",
+    "wof:geomhash":"a10e3792db4d63383b2194e793ea762d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +121,12 @@
         }
     ],
     "wof:id":1394254027,
-    "wof:lastmodified":1566640373,
+    "wof:lastmodified":1684351779,
     "wof:name":"Courtepin",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
+    "wof:population":5454,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

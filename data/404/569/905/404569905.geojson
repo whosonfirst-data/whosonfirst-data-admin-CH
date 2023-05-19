@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0691",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cr\u00e9mines",
+    "eurostat:nuts_2021_id":"CH0691",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0691",
+    "eurostat:population":509,
+    "eurostat:population_year":2020,
     "geom:area":0.001127,
-    "geom:area_square_m":9454426.409255,
+    "geom:area_square_m":9454426.409251,
     "geom:bbox":"7.431361,47.262896,7.478169,47.308646",
     "geom:latitude":47.285314,
     "geom:longitude":7.452002,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062865,
-        85682381
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0691",
+        "eurostat:nuts_2021_id":"CH0691",
         "gn:id":7285589,
         "gp:id":12683266,
         "qs_pg:id":1102285
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4312279e5e3b0f6cde76021dd7218eff",
+    "wof:geomhash":"5626bb8f9121f1c3a3519bee0d139eea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404569905,
-    "wof:lastmodified":1598919278,
+    "wof:lastmodified":1684351739,
     "wof:name":"Cr\u00e9mines",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":509,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

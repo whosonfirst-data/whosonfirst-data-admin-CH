@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5720",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Givrins",
+    "eurostat:nuts_2021_id":"CH5720",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5720",
+    "eurostat:population":1026,
+    "eurostat:population_year":2020,
     "geom:area":0.000464,
-    "geom:area_square_m":3950324.887418,
+    "geom:area_square_m":3950324.887419,
     "geom:bbox":"6.166042,46.417916,6.223427,46.448271",
     "geom:latitude":46.432765,
     "geom:longitude":6.196233,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5720",
+        "eurostat:nuts_2021_id":"CH5720",
         "gn:id":7285924,
         "gp:id":12683552,
         "qs_pg:id":671346
@@ -117,7 +133,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7e1b92637d5f1d2a0704e3eee23d77e9",
+    "wof:geomhash":"f8875a2709c7f6da8f2fae7efa22735d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404571709,
-    "wof:lastmodified":1598920018,
+    "wof:lastmodified":1684351762,
     "wof:name":"Givrins",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":1026,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

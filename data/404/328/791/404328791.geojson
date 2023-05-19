@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6624",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gy",
+    "eurostat:nuts_2021_id":"CH6624",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6624",
+    "eurostat:population":477,
+    "eurostat:population_year":2020,
     "geom:area":0.000383,
-    "geom:area_square_m":3277567.424221,
+    "geom:area_square_m":3277567.42422,
     "geom:bbox":"6.24518131403,46.2424546307,6.29660287103,46.2645900913",
     "geom:latitude":46.251709,
     "geom:longitude":6.270095,
@@ -41,6 +53,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -49,6 +63,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6624",
+        "eurostat:nuts_2021_id":"CH6624",
         "gn:id":7286015,
         "gp:id":12684760,
         "qs_pg:id":952957
@@ -61,7 +77,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed3519cdea83a437d4344b6789dfed06",
+    "wof:geomhash":"07c94e14f5647aa9c35d0ab9429a5500",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +88,12 @@
         }
     ],
     "wof:id":404328791,
-    "wof:lastmodified":1582223070,
+    "wof:lastmodified":1684351700,
     "wof:name":"Gy",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":477,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

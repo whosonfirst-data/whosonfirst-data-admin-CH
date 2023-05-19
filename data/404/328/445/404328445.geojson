@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberbuchsiten",
+    "eurostat:nuts_2021_id":"CH2406",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2406",
+    "eurostat:population":2297,
+    "eurostat:population_year":2020,
     "geom:area":0.001117,
     "geom:area_square_m":9362051.887122,
     "geom:bbox":"7.72982,47.29547,7.785494,47.329741",
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137097,
-        85682365
+        85682365,
+        1394137097
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2406",
+        "eurostat:nuts_2021_id":"CH2406",
         "gp:id":12683351,
         "qs_pg:id":61823
     },
@@ -127,7 +143,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d2d22a2861c844d7181ddf9be067e330",
+    "wof:geomhash":"04fc619ccd777484f649470197851db6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404328445,
-    "wof:lastmodified":1598920447,
+    "wof:lastmodified":1684351696,
     "wof:name":"Oberbuchsiten",
     "wof:parent_id":1394137097,
     "wof:placetype":"localadmin",
+    "wof:population":2297,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

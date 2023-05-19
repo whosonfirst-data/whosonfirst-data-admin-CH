@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baldingen",
+    "eurostat:nuts_2021_id":"CH4301",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4301",
+    "eurostat:population":265,
+    "eurostat:population_year":2020,
     "geom:area":0.000337,
     "geom:area_square_m":2811710.601388,
     "geom:bbox":"8.29884828158,47.5461475923,8.32767797106,47.5636008654",
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4301",
+        "eurostat:nuts_2021_id":"CH4301",
         "gn:id":7285139,
         "gp:id":12684971,
         "qs_pg:id":952961
@@ -60,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"39a6938aa24d3257ceb1397f44b96c26",
+    "wof:geomhash":"d36b3c95fd6f43b52fc68d0d7f820335",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +87,12 @@
         }
     ],
     "wof:id":404572213,
-    "wof:lastmodified":1582223033,
+    "wof:lastmodified":1684351768,
     "wof:name":"Baldingen",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",
+    "wof:population":265,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

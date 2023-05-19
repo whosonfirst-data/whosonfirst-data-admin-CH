@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5726",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Rippe",
+    "eurostat:nuts_2021_id":"CH5726",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5726",
+    "eurostat:population":1167,
+    "eurostat:population_year":2020,
     "geom:area":0.001941,
     "geom:area_square_m":16548749.806856,
     "geom:bbox":"6.063866,46.377316,6.170001,46.432167",
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5726",
+        "eurostat:nuts_2021_id":"CH5726",
         "gn:id":7286267,
         "gp:id":12684772,
         "qs_pg:id":671413
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"29065a62e2757262aaef48f2186c03c2",
+    "wof:geomhash":"4bd3035b6552aadac3182fc69cc7c23a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404568799,
-    "wof:lastmodified":1598919463,
+    "wof:lastmodified":1684351725,
     "wof:name":"La Rippe",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":1167,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6263",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grimisuat",
+    "eurostat:nuts_2021_id":"CH6263",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6263",
+    "eurostat:population":3445,
+    "eurostat:population_year":2020,
     "geom:area":0.000519,
-    "geom:area_square_m":4438332.463816,
+    "geom:area_square_m":4438332.463817,
     "geom:bbox":"7.363392,46.243524,7.403248,46.267554",
     "geom:latitude":46.255875,
     "geom:longitude":7.380934,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062827,
-        85682281
+        85682281,
+        102062827
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6263",
+        "eurostat:nuts_2021_id":"CH6263",
         "gn:id":7285982,
         "gp:id":12683603,
         "qs_pg:id":671362
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e7a224811f88d1495900d10923868d89",
+    "wof:geomhash":"7d2d9be7d5edd958ebfaafb392028294",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404571485,
-    "wof:lastmodified":1598920034,
+    "wof:lastmodified":1684351759,
     "wof:name":"Grimisuat",
     "wof:parent_id":102062827,
     "wof:placetype":"localadmin",
+    "wof:population":3445,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

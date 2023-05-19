@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2951",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beggingen",
+    "eurostat:nuts_2021_id":"CH2951",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2951",
+    "eurostat:population":476,
+    "eurostat:population_year":2020,
     "geom:area":0.001509,
-    "geom:area_square_m":12545841.102248,
+    "geom:area_square_m":12545841.102246,
     "geom:bbox":"8.508861,47.7468,8.570069,47.784634",
     "geom:latitude":47.765209,
     "geom:longitude":8.54419,
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137105,
-        85682285
+        85682285,
+        1394137105
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2951",
+        "eurostat:nuts_2021_id":"CH2951",
         "gn:id":7285179,
         "gp:id":12682924,
         "qs_pg:id":1315052
@@ -128,7 +144,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"426c87807f0f16949976fdcc20332bcb",
+    "wof:geomhash":"ffd81d0c19327a45cc506b8a8201c73e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328373,
-    "wof:lastmodified":1598920493,
+    "wof:lastmodified":1684351695,
     "wof:name":"Beggingen",
     "wof:parent_id":1394137105,
     "wof:placetype":"localadmin",
+    "wof:population":476,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

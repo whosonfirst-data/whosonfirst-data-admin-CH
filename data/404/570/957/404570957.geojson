@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0977",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Heimenhausen",
+    "eurostat:nuts_2021_id":"CH0977",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0977",
+    "eurostat:population":1143,
+    "eurostat:population_year":2020,
     "geom:area":0.000694,
     "geom:area_square_m":5827316.989171,
     "geom:bbox":"7.672607,47.193805,7.709695,47.224747",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0977",
+        "eurostat:nuts_2021_id":"CH0977",
         "gn:id":7286050,
         "gp:id":20075426,
         "qs_pg:id":671381
@@ -120,7 +136,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f7e14b4fd3b28f8ad8c28129e4eacb02",
+    "wof:geomhash":"bbd28e1ef1a5f0a2f2c4532188429a22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404570957,
-    "wof:lastmodified":1598920630,
+    "wof:lastmodified":1684351752,
     "wof:name":"Heimenhausen",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":1143,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4196",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fahrwangen",
+    "eurostat:nuts_2021_id":"CH4196",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4196",
+    "eurostat:population":2137,
+    "eurostat:population_year":2020,
     "geom:area":0.000594,
-    "geom:area_square_m":4984727.795678,
+    "geom:area_square_m":4984727.795676,
     "geom:bbox":"8.21656,47.260713,8.25893,47.307297",
     "geom:latitude":47.286284,
     "geom:longitude":8.23916,
@@ -113,14 +125,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063017,
-        85682329
+        85682329,
+        102063017
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4196",
+        "eurostat:nuts_2021_id":"CH4196",
         "gn:id":7285789,
         "gp:id":12683433,
         "qs_pg:id":908076
@@ -133,7 +149,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"aec32304660f70b8a2fb179f2dc74eef",
+    "wof:geomhash":"28ba2f18060a6fae6a907cea4d45ae9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404571685,
-    "wof:lastmodified":1598920166,
+    "wof:lastmodified":1684351762,
     "wof:name":"Fahrwangen",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",
+    "wof:population":2137,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

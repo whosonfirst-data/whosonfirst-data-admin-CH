@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Knonau",
+    "eurostat:nuts_2021_id":"CH0007",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0007",
+    "eurostat:population":2373,
+    "eurostat:population_year":2020,
     "geom:area":0.000768,
-    "geom:area_square_m":6448421.07722,
+    "geom:area_square_m":6448421.077221,
     "geom:bbox":"8.437024,47.208448,8.489132,47.244734",
     "geom:latitude":47.224458,
     "geom:longitude":8.462612,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062775,
-        85682309
+        85682309,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0007",
+        "eurostat:nuts_2021_id":"CH0007",
         "gn:id":7286211,
         "gp:id":12683775,
         "qs_pg:id":1059674
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4d3ae7d8cee288afeb6be1c10b2396da",
+    "wof:geomhash":"f5e48d93a0304c7e9a51b78b300ede0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404570757,
-    "wof:lastmodified":1598920650,
+    "wof:lastmodified":1684351750,
     "wof:name":"Knonau",
     "wof:parent_id":102062775,
     "wof:placetype":"localadmin",
+    "wof:population":2373,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3782",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Celerina/Schlarigna",
+    "eurostat:nuts_2021_id":"CH3782",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3782",
+    "eurostat:population":1502,
+    "eurostat:population_year":2020,
     "geom:area":0.002816,
-    "geom:area_square_m":23962357.238791,
+    "geom:area_square_m":23962357.238789,
     "geom:bbox":"9.784471,46.470164,9.89951,46.535823",
     "geom:latitude":46.509565,
     "geom:longitude":9.843974,
@@ -127,14 +139,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062857,
-        85682255
+        85682255,
+        102062857
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3782",
+        "eurostat:nuts_2021_id":"CH3782",
         "gn:id":7285450,
         "gp:id":12683150,
         "qs_pg:id":1154241
@@ -147,7 +163,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dfcae29ac0ee5f49cd3cb073286febb7",
+    "wof:geomhash":"c47338905cebd0f860a32fff2edaec6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404568437,
-    "wof:lastmodified":1598919537,
+    "wof:lastmodified":1684351718,
     "wof:name":"Celerina/Schlarigna",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",
+    "wof:population":1502,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

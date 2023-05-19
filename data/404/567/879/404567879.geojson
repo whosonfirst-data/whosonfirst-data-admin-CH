@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5410",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ormont-Dessous",
+    "eurostat:nuts_2021_id":"CH5410",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5410",
+    "eurostat:population":1120,
+    "eurostat:population_year":2020,
     "geom:area":0.007496,
-    "geom:area_square_m":63942202.291804,
+    "geom:area_square_m":63942202.291802,
     "geom:bbox":"7.011734,46.323159,7.137791,46.426199",
     "geom:latitude":46.37955,
     "geom:longitude":7.07173,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062783,
-        85682325
+        85682325,
+        102062783
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5410",
+        "eurostat:nuts_2021_id":"CH5410",
         "gn:id":2659285,
         "gp:id":12683391,
         "qs_pg:id":1093262
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"722b6a4e15f8328293d4e5a2ad07e5fa",
+    "wof:geomhash":"e49458adc0ffeee5aa8692df026f5dd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404567879,
-    "wof:lastmodified":1598919429,
+    "wof:lastmodified":1684351707,
     "wof:name":"Ormont-Dessous",
     "wof:parent_id":102062783,
     "wof:placetype":"localadmin",
+    "wof:population":1120,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

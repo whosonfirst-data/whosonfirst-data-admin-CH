@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6219",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vernayaz",
+    "eurostat:nuts_2021_id":"CH6219",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6219",
+    "eurostat:population":1885,
+    "eurostat:population_year":2020,
     "geom:area":0.000651,
     "geom:area_square_m":5577557.912947,
     "geom:bbox":"7.008016,46.109027,7.051437,46.155495",
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062965,
-        85682281
+        85682281,
+        102062965
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6219",
+        "eurostat:nuts_2021_id":"CH6219",
         "gn:id":7287437,
         "gp:id":12683799,
         "qs_pg:id":671651
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c874093b9a70159a6c17c8bba6e054f1",
+    "wof:geomhash":"d919202646a574e3a8e0ee1b973bcdae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404571043,
-    "wof:lastmodified":1598920175,
+    "wof:lastmodified":1684351753,
     "wof:name":"Vernayaz",
     "wof:parent_id":102062965,
     "wof:placetype":"localadmin",
+    "wof:population":1885,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

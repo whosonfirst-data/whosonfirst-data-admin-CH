@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4871",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wagenhausen",
+    "eurostat:nuts_2021_id":"CH4871",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4871",
+    "eurostat:population":1694,
+    "eurostat:population_year":2020,
     "geom:area":0.001415,
-    "geom:area_square_m":11784811.946993,
+    "geom:area_square_m":11784811.946994,
     "geom:bbox":"8.798857,47.634747,8.854561,47.678366",
     "geom:latitude":47.658053,
     "geom:longitude":8.827145,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062869,
-        85682337
+        85682337,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4871",
+        "eurostat:nuts_2021_id":"CH4871",
         "gn:id":7287514,
         "qs_pg:id":671667
     },
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6b43a90be2301ddccde6841ab15dbdd8",
+    "wof:geomhash":"5b610839e1ae377f62ac25d772dd3f2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404569317,
-    "wof:lastmodified":1598919358,
+    "wof:lastmodified":1684351733,
     "wof:name":"Wagenhausen",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
+    "wof:population":1694,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

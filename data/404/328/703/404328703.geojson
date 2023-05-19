@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2919",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stetten (SH)",
+    "eurostat:nuts_2021_id":"CH2919",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2919",
+    "eurostat:population":1351,
+    "eurostat:population_year":2020,
     "geom:area":0.000566,
     "geom:area_square_m":4704723.913495,
     "geom:bbox":"8.637941,47.725513,8.683363,47.748904",
@@ -99,14 +111,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137109,
-        85682285
+        85682285,
+        1394137109
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2919",
+        "eurostat:nuts_2021_id":"CH2919",
         "gn:id":6695938,
         "gp:id":12685004,
         "qs_pg:id":53252
@@ -119,7 +135,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"86ade3761c4b340d1d6e48c4d32902f1",
+    "wof:geomhash":"2e7084bec2259c3b1b7d95a3ef543562",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404328703,
-    "wof:lastmodified":1598920407,
+    "wof:lastmodified":1684351699,
     "wof:name":"Stetten",
     "wof:parent_id":1394137109,
     "wof:placetype":"localadmin",
+    "wof:population":1351,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

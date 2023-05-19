@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6793",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lugnez",
+    "eurostat:nuts_2021_id":"CH6793",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6793",
+    "eurostat:population":186,
+    "eurostat:population_year":2020,
     "geom:area":0.000609,
-    "geom:area_square_m":5086250.922153,
+    "geom:area_square_m":5086250.922154,
     "geom:bbox":"7.073655,47.473912,7.119346,47.495436",
     "geom:latitude":47.485424,
     "geom:longitude":7.093995,
@@ -96,14 +108,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063059,
-        85682347
+        85682347,
+        102063059
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6793",
+        "eurostat:nuts_2021_id":"CH6793"
+    },
     "wof:coterminous":[
         1310239417
     ],
@@ -111,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d5ec10f73fd1fdf39426a6a5f46e1966",
+    "wof:geomhash":"5ab80acc56e242d91cd92b01e7267b5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404571217,
-    "wof:lastmodified":1598920049,
+    "wof:lastmodified":1684351756,
     "wof:name":"Lugnez",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
+    "wof:population":186,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

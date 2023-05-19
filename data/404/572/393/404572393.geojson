@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Flurlingen",
+    "eurostat:nuts_2021_id":"CH0029",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0029",
+    "eurostat:population":1438,
+    "eurostat:population_year":2020,
     "geom:area":0.000289,
-    "geom:area_square_m":2406782.194859,
+    "geom:area_square_m":2406782.194858,
     "geom:bbox":"8.623955,47.675006,8.660188,47.692334",
     "geom:latitude":47.682361,
     "geom:longitude":8.636706,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062801,
-        85682309
+        85682309,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0029",
+        "eurostat:nuts_2021_id":"CH0029",
         "gn:id":7285845,
         "gp:id":12683480,
         "qs_pg:id":671322
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"27eb4ca4163eecd50df7dfd8eb987c83",
+    "wof:geomhash":"cab469f030b2ccafdbf648b572271051",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404572393,
-    "wof:lastmodified":1598919824,
+    "wof:lastmodified":1684351769,
     "wof:name":"Flurlingen",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",
+    "wof:population":1438,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

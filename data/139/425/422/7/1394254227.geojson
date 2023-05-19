@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schwende",
+    "eurostat:nuts_2021_id":"CH3105",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH054",
+    "eurostat:nuts_2021_level_lau":"CH3105",
+    "eurostat:population":2196,
+    "eurostat:population_year":2020,
     "geom:area":0.006837,
-    "geom:area_square_m":57351268.813371,
+    "geom:area_square_m":57351268.813366,
     "geom:bbox":"9.32325104566,47.2403621626,9.46660953041,47.3301744999",
     "geom:latitude":47.280701,
     "geom:longitude":9.393023,
@@ -42,6 +54,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -49,8 +63,12 @@
         1394237541
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3105",
+        "eurostat:nuts_2021_id":"CH3105"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"d706c7de3b9fc0551743e5b670f2704c",
+    "wof:geomhash":"deb848d6d6a221eb090eab5d4fdd5223",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,10 +79,12 @@
         }
     ],
     "wof:id":1394254227,
-    "wof:lastmodified":1566640346,
+    "wof:lastmodified":1684351785,
     "wof:name":"Schwende",
     "wof:parent_id":1394237541,
     "wof:placetype":"localadmin",
+    "wof:population":2196,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

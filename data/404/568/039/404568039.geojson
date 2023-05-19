@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3311",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amden",
+    "eurostat:nuts_2021_id":"CH3311",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3311",
+    "eurostat:population":1784,
+    "eurostat:population_year":2020,
     "geom:area":0.005648,
-    "geom:area_square_m":47491128.641784,
+    "geom:area_square_m":47491128.641781,
     "geom:bbox":"9.105964,47.123699,9.237972,47.186787",
     "geom:latitude":47.157493,
     "geom:longitude":9.164976,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062815,
-        85682341
+        85682341,
+        102062815
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3311",
+        "eurostat:nuts_2021_id":"CH3311",
         "gn:id":2661758,
         "gp:id":12682794,
         "qs_pg:id":804521
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a0432f36dbe547d0b2ce836858d74716",
+    "wof:geomhash":"ce4e9c4a06b9dff328785a4724e820f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404568039,
-    "wof:lastmodified":1598919573,
+    "wof:lastmodified":1684351710,
     "wof:name":"Amden",
     "wof:parent_id":102062815,
     "wof:placetype":"localadmin",
+    "wof:population":1784,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

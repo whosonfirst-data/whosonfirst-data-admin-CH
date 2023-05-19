@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5586",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lausanne",
+    "eurostat:nuts_2021_id":"CH5586",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5586",
+    "eurostat:population":139111,
+    "eurostat:population_year":2020,
     "geom:area":0.004864,
-    "geom:area_square_m":41358867.129054,
+    "geom:area_square_m":41358867.129071,
     "geom:bbox":"6.583869,46.504293,6.720814,46.602577",
     "geom:latitude":46.551898,
     "geom:longitude":6.652226,
@@ -330,14 +342,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063009,
-        85682325
+        85682325,
+        102063009
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5586",
+        "eurostat:nuts_2021_id":"CH5586"
+    },
     "wof:coterminous":[
         101748449
     ],
@@ -345,7 +362,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1160a9d021068a2737dddd6635c2081e",
+    "wof:geomhash":"2d5e86b53fa45b41da383cc3b5257068",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -356,10 +373,12 @@
         }
     ],
     "wof:id":404571503,
-    "wof:lastmodified":1598920022,
+    "wof:lastmodified":1684351759,
     "wof:name":"Lausanne",
     "wof:parent_id":102063009,
     "wof:placetype":"localadmin",
+    "wof:population":139111,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

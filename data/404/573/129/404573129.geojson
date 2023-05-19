@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5176",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Comano",
+    "eurostat:nuts_2021_id":"CH5176",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5176",
+    "eurostat:population":2035,
+    "eurostat:population_year":2020,
     "geom:area":0.00024,
     "geom:area_square_m":2059183.011266,
     "geom:bbox":"8.947065,46.030892,8.967099,46.049091",
@@ -88,14 +100,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5176",
+        "eurostat:nuts_2021_id":"CH5176",
         "gn:id":7285533,
         "gp:id":12683219,
         "qs_pg:id":43389
@@ -108,7 +124,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"58d11a49ebfa419b8840c27f0822e5e1",
+    "wof:geomhash":"4d8b81125bbfbafc75bae7ca30b533ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404573129,
-    "wof:lastmodified":1598919933,
+    "wof:lastmodified":1684351771,
     "wof:name":"Comano",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":2035,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

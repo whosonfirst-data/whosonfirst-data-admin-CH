@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3762",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scuol",
+    "eurostat:nuts_2021_id":"CH3762",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3762",
+    "eurostat:population":4591,
+    "eurostat:population_year":2020,
     "geom:area":0.05166,
-    "geom:area_square_m":437464897.842899,
+    "geom:area_square_m":437464897.842901,
     "geom:bbox":"10.1018665657,46.6496174579,10.4440255651,46.9297707818",
     "geom:latitude":46.777589,
     "geom:longitude":10.278703,
@@ -123,6 +135,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -130,8 +144,12 @@
         1394137067
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3762",
+        "eurostat:nuts_2021_id":"CH3762"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"a637e4abbe3c52149482500d5681b073",
+    "wof:geomhash":"44ad1a9544f9d73732a0822fbf9088b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +160,12 @@
         }
     ],
     "wof:id":1394253967,
-    "wof:lastmodified":1566640339,
+    "wof:lastmodified":1684351776,
     "wof:name":"Scuol",
     "wof:parent_id":1394137067,
     "wof:placetype":"localadmin",
+    "wof:population":4591,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

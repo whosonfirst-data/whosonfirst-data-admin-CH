@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4591",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Matzingen",
+    "eurostat:nuts_2021_id":"CH4591",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4591",
+    "eurostat:population":2918,
+    "eurostat:population_year":2020,
     "geom:area":0.000918,
-    "geom:area_square_m":7661233.158007,
+    "geom:area_square_m":7661233.158009,
     "geom:bbox":"8.90755603199,47.5070510531,8.9483843512,47.552516042",
     "geom:latitude":47.526624,
     "geom:longitude":8.929408,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -126,6 +140,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4591",
+        "eurostat:nuts_2021_id":"CH4591",
         "gn:id":7286461,
         "gp:id":12683952,
         "qs_pg:id":43684
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"64448edb8975c3c76687707405220625",
+    "wof:geomhash":"28529af6409793d0b4f40884222482b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404570393,
-    "wof:lastmodified":1582223105,
+    "wof:lastmodified":1684351746,
     "wof:name":"Matzingen",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
+    "wof:population":2918,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

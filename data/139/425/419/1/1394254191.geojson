@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4124",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"B\u00f6zberg",
+    "eurostat:nuts_2021_id":"CH4124",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4124",
+    "eurostat:population":1589,
+    "eurostat:population_year":2020,
     "geom:area":0.00185,
-    "geom:area_square_m":15458611.064684,
+    "geom:area_square_m":15458611.064682,
     "geom:bbox":"8.10588501737,47.4600904262,8.18332692729,47.5117478952",
     "geom:latitude":47.489516,
     "geom:longitude":8.145239,
@@ -57,6 +69,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -64,11 +78,15 @@
         102062993
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH4124",
+        "eurostat:nuts_2021_id":"CH4124"
+    },
     "wof:coterminous":[
         1226777989
     ],
     "wof:country":"CH",
-    "wof:geomhash":"e3f16df0d0f89363f70dfafc78957f22",
+    "wof:geomhash":"3c52602627beb67fc52c898be9b1e563",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,10 +97,12 @@
         }
     ],
     "wof:id":1394254191,
-    "wof:lastmodified":1566640362,
+    "wof:lastmodified":1684351784,
     "wof:name":"B\u00f6zberg",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
+    "wof:population":1589,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

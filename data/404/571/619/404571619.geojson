@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5690",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villars-le-Comte",
+    "eurostat:nuts_2021_id":"CH5690",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5690",
+    "eurostat:population":132,
+    "eurostat:population_year":2020,
     "geom:area":0.000494,
-    "geom:area_square_m":4185077.021884,
+    "geom:area_square_m":4185077.021883,
     "geom:bbox":"6.783667,46.701005,6.818911,46.727894",
     "geom:latitude":46.713534,
     "geom:longitude":6.801773,
@@ -93,14 +105,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062969,
-        85682325
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5690",
+        "eurostat:nuts_2021_id":"CH5690"
+    },
     "wof:coterminous":[
         1310436201
     ],
@@ -108,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7a243624857733a52799ba564c7c40ad",
+    "wof:geomhash":"5eef08903be0dac644c19fb17d6c6cf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404571619,
-    "wof:lastmodified":1598920044,
+    "wof:lastmodified":1684351761,
     "wof:name":"Villars-le-Comte",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":132,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

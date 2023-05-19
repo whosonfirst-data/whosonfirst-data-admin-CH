@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0866",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gerzensee",
+    "eurostat:nuts_2021_id":"CH0866",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0866",
+    "eurostat:population":1215,
+    "eurostat:population_year":2020,
     "geom:area":0.000921,
-    "geom:area_square_m":7788749.675983,
+    "geom:area_square_m":7788749.675982,
     "geom:bbox":"7.520633,46.829,7.562092,46.866829",
     "geom:latitude":46.846457,
     "geom:longitude":7.542072,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0866",
+        "eurostat:nuts_2021_id":"CH0866",
         "gp:id":12683538,
         "qs_pg:id":887946
     },
@@ -134,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0b4eb3ac917651569a74ed69949c7561",
+    "wof:geomhash":"294153c812ff7d371de1e71fcfe2caa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404570339,
-    "wof:lastmodified":1598920529,
+    "wof:lastmodified":1684351745,
     "wof:name":"Gerzensee",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":1215,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

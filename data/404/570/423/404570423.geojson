@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Charrat",
+    "eurostat:nuts_2021_id":"CH6132",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6132",
+    "eurostat:population":1849,
+    "eurostat:population_year":2020,
     "geom:area":0.000883,
     "geom:area_square_m":7571231.734443,
     "geom:bbox":"7.110008551,46.1037772687,7.15726341382,46.140672026",
@@ -103,6 +115,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -111,6 +125,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6132",
+        "eurostat:nuts_2021_id":"CH6132",
         "gn:id":7285477,
         "gp:id":12683174,
         "qs_pg:id":69578
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"df276d4336793cd03d7e38224a373ea3",
+    "wof:geomhash":"b5e0ed4439ce0184c95053d021f076c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404570423,
-    "wof:lastmodified":1582223097,
+    "wof:lastmodified":1684351746,
     "wof:name":"Charrat",
     "wof:parent_id":102063045,
     "wof:placetype":"localadmin",
+    "wof:population":1849,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

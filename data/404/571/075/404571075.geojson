@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5480",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Daillens",
+    "eurostat:nuts_2021_id":"CH5480",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5480",
+    "eurostat:population":1027,
+    "eurostat:population_year":2020,
     "geom:area":0.000648,
-    "geom:area_square_m":5506418.133117,
+    "geom:area_square_m":5506418.133118,
     "geom:bbox":"6.530004,46.610417,6.567138,46.647301",
     "geom:latitude":46.628655,
     "geom:longitude":6.549576,
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062949,
-        85682325
+        85682325,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5480",
+        "eurostat:nuts_2021_id":"CH5480",
         "gn:id":7285617,
         "gp:id":12683285,
         "qs_pg:id":671281
@@ -111,7 +127,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"2e5641b73bbf3357345260830bdf1a7d",
+    "wof:geomhash":"438b4e0421f7aa3f3b8f3cfcad6d73e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404571075,
-    "wof:lastmodified":1598920171,
+    "wof:lastmodified":1684351754,
     "wof:name":"Daillens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":1027,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

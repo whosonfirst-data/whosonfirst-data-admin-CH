@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3672",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Safiental",
+    "eurostat:nuts_2021_id":"CH3672",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3672",
+    "eurostat:population":901,
+    "eurostat:population_year":2020,
     "geom:area":0.017808,
-    "geom:area_square_m":151029593.676039,
+    "geom:area_square_m":151029593.676025,
     "geom:bbox":"9.22854357201,46.5749095689,9.38031289622,46.8092011048",
     "geom:latitude":46.694968,
     "geom:longitude":9.30272,
@@ -54,6 +66,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -61,8 +75,12 @@
         102062773
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3672",
+        "eurostat:nuts_2021_id":"CH3672"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"721cf3f0787afb494ea7efe023c173ab",
+    "wof:geomhash":"20f2286d8ce3d364d4641b58c35ee5de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +91,12 @@
         }
     ],
     "wof:id":1394254079,
-    "wof:lastmodified":1566640357,
+    "wof:lastmodified":1684351780,
     "wof:name":"Safiental",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
+    "wof:population":901,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

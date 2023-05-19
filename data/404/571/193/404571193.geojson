@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lufingen",
+    "eurostat:nuts_2021_id":"CH0063",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0063",
+    "eurostat:population":2401,
+    "eurostat:population_year":2020,
     "geom:area":0.000618,
-    "geom:area_square_m":5165930.770114,
+    "geom:area_square_m":5165930.770113,
     "geom:bbox":"8.572061,47.466949,8.611589,47.496698",
     "geom:latitude":47.483389,
     "geom:longitude":8.593388,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063019,
-        85682309
+        85682309,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0063",
+        "eurostat:nuts_2021_id":"CH0063",
         "gn:id":7286382,
         "gp:id":12685111,
         "qs_pg:id":1059692
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"28f50fa29ca0353ad8bb7d5eb1ba068f",
+    "wof:geomhash":"940a7999f9a1c1b40c5a83260e9f73df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571193,
-    "wof:lastmodified":1598920020,
+    "wof:lastmodified":1684351756,
     "wof:name":"Lufingen",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",
+    "wof:population":2401,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

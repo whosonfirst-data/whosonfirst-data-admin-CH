@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5226",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capriasca",
+    "eurostat:nuts_2021_id":"CH5226",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5226",
+    "eurostat:population":6707,
+    "eurostat:population_year":2020,
     "geom:area":0.004231,
-    "geom:area_square_m":36285380.503948,
+    "geom:area_square_m":36285380.503951,
     "geom:bbox":"8.932966,46.045762,9.052351,46.131041",
     "geom:latitude":46.091092,
     "geom:longitude":8.9864,
@@ -105,19 +117,24 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5226",
+        "eurostat:nuts_2021_id":"CH5226"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"33b971909e58b6d95ec1e8206567e2bd",
+    "wof:geomhash":"b3681b3d198f4f9241fd6be95d33a01b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404573567,
-    "wof:lastmodified":1598919880,
+    "wof:lastmodified":1684351775,
     "wof:name":"Capriasca",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":6707,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

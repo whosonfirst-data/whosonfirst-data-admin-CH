@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3215",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rorschach",
+    "eurostat:nuts_2021_id":"CH3215",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3215",
+    "eurostat:population":9441,
+    "eurostat:population_year":2020,
     "geom:area":0.000214,
     "geom:area_square_m":1784937.114381,
     "geom:bbox":"9.47890728199,47.4698958647,9.51147156853,47.4811742965",
@@ -85,6 +97,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -93,6 +107,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3215",
+        "eurostat:nuts_2021_id":"CH3215",
         "gn:id":7286950,
         "gp:id":12684296,
         "qs_pg:id":223857
@@ -102,7 +118,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ba8aba8d5ac28de1db7bd10ca214dfd0",
+    "wof:geomhash":"5ed3f535f83382c146564d68bba3f9e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +129,12 @@
         }
     ],
     "wof:id":404573239,
-    "wof:lastmodified":1582223042,
+    "wof:lastmodified":1684351772,
     "wof:name":"Rorschach",
     "wof:parent_id":102062855,
     "wof:placetype":"localadmin",
+    "wof:population":9441,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

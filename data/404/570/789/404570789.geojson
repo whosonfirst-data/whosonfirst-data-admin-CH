@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0381",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arch",
+    "eurostat:nuts_2021_id":"CH0381",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0381",
+    "eurostat:population":1594,
+    "eurostat:population_year":2020,
     "geom:area":0.000756,
-    "geom:area_square_m":6358077.177063,
+    "geom:area_square_m":6358077.177064,
     "geom:bbox":"7.410209,47.150496,7.454995,47.185293",
     "geom:latitude":47.165565,
     "geom:longitude":7.434164,
@@ -55,14 +67,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0381",
+        "eurostat:nuts_2021_id":"CH0381",
         "gn:id":7285090,
         "gp:id":12682814,
         "qs_pg:id":1188007
@@ -75,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"65dde5912795856ab968b72ed81f5f3f",
+    "wof:geomhash":"7d596a82c390f28f4c1d3e8fefcca9f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,10 +102,12 @@
         }
     ],
     "wof:id":404570789,
-    "wof:lastmodified":1621988751,
+    "wof:lastmodified":1684351751,
     "wof:name":"Arch",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":1594,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

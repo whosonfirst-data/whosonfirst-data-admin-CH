@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5889",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Tour-de-Peilz",
+    "eurostat:nuts_2021_id":"CH5889",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5889",
+    "eurostat:population":11828,
+    "eurostat:population_year":2020,
     "geom:area":0.000385,
-    "geom:area_square_m":3275693.870015,
+    "geom:area_square_m":3275693.870014,
     "geom:bbox":"6.852117,46.445585,6.885419,46.464517",
     "geom:latitude":46.454839,
     "geom:longitude":6.869246,
@@ -130,14 +142,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062833,
-        85682325
+        85682325,
+        102062833
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5889",
+        "eurostat:nuts_2021_id":"CH5889",
         "gn:id":7286273,
         "qs_pg:id":671415
     },
@@ -149,7 +165,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d58d6a4661683d7b2dcb1087b16a9f53",
+    "wof:geomhash":"4586d12af73e90bc79256786b28dcf26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +176,12 @@
         }
     ],
     "wof:id":404571975,
-    "wof:lastmodified":1598920244,
+    "wof:lastmodified":1684351765,
     "wof:name":"La Tour-de-Peilz",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",
+    "wof:population":11828,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

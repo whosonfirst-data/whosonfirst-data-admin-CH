@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0573",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brienz (BE)",
+    "eurostat:nuts_2021_id":"CH0573",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0573",
+    "eurostat:population":3092,
+    "eurostat:population_year":2020,
     "geom:area":0.005656,
-    "geom:area_square_m":47933286.988514,
+    "geom:area_square_m":47933286.988521,
     "geom:bbox":"7.970329,46.671045,8.092492,46.79025",
     "geom:latitude":46.731475,
     "geom:longitude":8.038435,
@@ -145,6 +157,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -153,6 +167,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0573",
+        "eurostat:nuts_2021_id":"CH0573",
         "gn:id":7285332,
         "gp:id":12683046,
         "qs_pg:id":248271
@@ -165,7 +181,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4a580e849147f67470bd820867838842",
+    "wof:geomhash":"0700d346733b8d7039375d7057ffb432",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404568015,
-    "wof:lastmodified":1617130305,
+    "wof:lastmodified":1684351710,
     "wof:name":"Brienz",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":3092,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

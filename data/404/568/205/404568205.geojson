@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5886",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montreux",
+    "eurostat:nuts_2021_id":"CH5886",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5886",
+    "eurostat:population":25984,
+    "eurostat:population_year":2020,
     "geom:area":0.003916,
-    "geom:area_square_m":33359879.669142,
+    "geom:area_square_m":33359879.669146,
     "geom:bbox":"6.877484,46.42102,6.992116,46.486441",
     "geom:latitude":46.451757,
     "geom:longitude":6.940725,
@@ -247,14 +259,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062833,
-        85682325
+        85682325,
+        102062833
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5886",
+        "eurostat:nuts_2021_id":"CH5886",
         "gn:id":7286542,
         "gp:id":12683146,
         "qs_pg:id":1040535
@@ -264,7 +280,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f917796f0a44a0c9ec0b7e1ceb81bae3",
+    "wof:geomhash":"e35f4325b9fb1caa7afaa6da9b0e4478",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -275,10 +291,12 @@
         }
     ],
     "wof:id":404568205,
-    "wof:lastmodified":1598919567,
+    "wof:lastmodified":1684351714,
     "wof:name":"Montreux",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",
+    "wof:population":25984,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

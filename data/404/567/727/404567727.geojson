@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1367",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muotathal",
+    "eurostat:nuts_2021_id":"CH1367",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1367",
+    "eurostat:population":3527,
+    "eurostat:population_year":2020,
     "geom:area":0.020344,
-    "geom:area_square_m":171687275.490895,
+    "geom:area_square_m":171687275.490911,
     "geom:bbox":"8.667287,46.885286,8.971633,47.026949",
     "geom:latitude":46.960471,
     "geom:longitude":8.838539,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062887,
-        85682305
+        85682305,
+        102062887
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1367",
+        "eurostat:nuts_2021_id":"CH1367",
         "gn:id":7286596,
         "gp:id":12683914,
         "qs_pg:id":209502
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"80cd9b9e140756ef70d8468a8ce12dda",
+    "wof:geomhash":"7737015974f37181cf5aafb2eb7b8091",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404567727,
-    "wof:lastmodified":1598919456,
+    "wof:lastmodified":1684351703,
     "wof:name":"Muotathal",
     "wof:parent_id":102062887,
     "wof:placetype":"localadmin",
+    "wof:population":3527,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

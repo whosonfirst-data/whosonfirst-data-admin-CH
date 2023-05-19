@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bioley-Magnoux",
+    "eurostat:nuts_2021_id":"CH5903",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5903",
+    "eurostat:population":226,
+    "eurostat:population_year":2020,
     "geom:area":0.000504,
     "geom:area_square_m":4274623.189335,
     "geom:bbox":"6.6971,46.715037,6.732976,46.739144",
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5903",
+        "eurostat:nuts_2021_id":"CH5903",
         "gn:id":7285250,
         "qs_pg:id":671194
     },
@@ -110,7 +126,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fe7a8bc5d3783f19d84ca60d73622136",
+    "wof:geomhash":"d18d944c279e48973ae34a0b8eaec180",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":404571575,
-    "wof:lastmodified":1598920102,
+    "wof:lastmodified":1684351760,
     "wof:name":"Bioley-Magnoux",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":226,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

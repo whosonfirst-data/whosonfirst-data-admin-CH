@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0498",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00fcntschemier",
+    "eurostat:nuts_2021_id":"CH0498",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0498",
+    "eurostat:population":1406,
+    "eurostat:population_year":2020,
     "geom:area":0.000576,
     "geom:area_square_m":4858871.077078,
     "geom:bbox":"7.127479,46.98352,7.171117,47.007619",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0498",
+        "eurostat:nuts_2021_id":"CH0498",
         "gn:id":7286594,
         "gp:id":12684053,
         "qs_pg:id":1120152
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"158d411fa8a79e8e36e45a35c7b0d1da",
+    "wof:geomhash":"29cff60924eb67cd251fa29ff28ffa46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404571305,
-    "wof:lastmodified":1598920155,
+    "wof:lastmodified":1684351757,
     "wof:name":"M\u00fcntschemier",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":1406,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

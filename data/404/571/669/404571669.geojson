@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5555",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corcelles-pr\u00e8s-Concise",
+    "eurostat:nuts_2021_id":"CH5555",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5555",
+    "eurostat:population":403,
+    "eurostat:population_year":2020,
     "geom:area":0.000479,
-    "geom:area_square_m":4050243.844592,
+    "geom:area_square_m":4050243.84459,
     "geom:bbox":"6.682723,46.835736,6.716493,46.8716",
     "geom:latitude":46.853311,
     "geom:longitude":6.699891,
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5555",
+        "eurostat:nuts_2021_id":"CH5555",
         "gn:id":7285553,
         "gp:id":20075595,
         "qs_pg:id":671250
@@ -108,7 +124,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9b5b2987675bf0ffd339c6c7d80fbb84",
+    "wof:geomhash":"88ae3e255a3cd1ba81f557d781e43a19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404571669,
-    "wof:lastmodified":1598920073,
+    "wof:lastmodified":1684351761,
     "wof:name":"Corcelles-pr\u00e8s-Concise",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":403,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

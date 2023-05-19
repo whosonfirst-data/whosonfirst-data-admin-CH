@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4161",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eiken",
+    "eurostat:nuts_2021_id":"CH4161",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4161",
+    "eurostat:population":2291,
+    "eurostat:population_year":2020,
     "geom:area":0.000846,
-    "geom:area_square_m":7064060.873226,
+    "geom:area_square_m":7064060.873225,
     "geom:bbox":"7.96935543918,47.5226728048,8.00826774251,47.5545943068",
     "geom:latitude":47.537104,
     "geom:longitude":7.989158,
@@ -76,6 +88,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -84,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4161",
+        "eurostat:nuts_2021_id":"CH4161",
         "gn:id":7285714,
         "gp:id":12683364,
         "qs_pg:id":334337
@@ -96,7 +112,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8951944d090b785d129458b50d1ce8e3",
+    "wof:geomhash":"4a0cb92a54cd17b20f18845185fb4e90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404570553,
-    "wof:lastmodified":1582223105,
+    "wof:lastmodified":1684351747,
     "wof:name":"Eiken",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",
+    "wof:population":2291,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

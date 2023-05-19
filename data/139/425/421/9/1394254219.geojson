@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0292",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stammheim",
+    "eurostat:nuts_2021_id":"CH0292",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0292",
+    "eurostat:population":2747,
+    "eurostat:population_year":2020,
     "geom:area":0.002866,
-    "geom:area_square_m":23884074.758694,
+    "geom:area_square_m":23884074.758693,
     "geom:bbox":"8.74443384725,47.601113581,8.82778894349,47.6653638186",
     "geom:latitude":47.633703,
     "geom:longitude":8.788001,
@@ -48,6 +60,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -55,8 +69,12 @@
         102062801
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0292",
+        "eurostat:nuts_2021_id":"CH0292"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"c199fef98acf0c7865f31e3d4700ce14",
+    "wof:geomhash":"5d44da619d407cf9a48334eb8cc4d87f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,10 +85,12 @@
         }
     ],
     "wof:id":1394254219,
-    "wof:lastmodified":1566640363,
+    "wof:lastmodified":1684351785,
     "wof:name":"Stammheim",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",
+    "wof:population":2747,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

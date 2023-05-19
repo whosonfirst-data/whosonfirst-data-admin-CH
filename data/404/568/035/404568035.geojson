@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Evionnaz",
+    "eurostat:nuts_2021_id":"CH6213",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6213",
+    "eurostat:population":1265,
+    "eurostat:population_year":2020,
     "geom:area":0.005598,
     "geom:area_square_m":47952288.556436,
     "geom:bbox":"6.84143,46.119246,7.03321,46.184398",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062965,
-        85682281
+        85682281,
+        102062965
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6213",
+        "eurostat:nuts_2021_id":"CH6213",
         "gn:id":7285786,
         "gp:id":20075662,
         "qs_pg:id":904148
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"025220cf094692d313cf385bf85cafd9",
+    "wof:geomhash":"c4ebc43a9045f24aa55a658e379388bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404568035,
-    "wof:lastmodified":1598919699,
+    "wof:lastmodified":1684351710,
     "wof:name":"Evionnaz",
     "wof:parent_id":102062965,
     "wof:placetype":"localadmin",
+    "wof:population":1265,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

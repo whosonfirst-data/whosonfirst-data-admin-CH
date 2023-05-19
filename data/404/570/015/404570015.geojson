@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6792",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grandfontaine",
+    "eurostat:nuts_2021_id":"CH6792",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6792",
+    "eurostat:population":395,
+    "eurostat:population_year":2020,
     "geom:area":0.001069,
-    "geom:area_square_m":8945801.894141,
+    "geom:area_square_m":8945801.894142,
     "geom:bbox":"6.90511834915,47.3705532491,6.95814781995,47.4066242932",
     "geom:latitude":47.391926,
     "geom:longitude":6.933571,
@@ -91,6 +103,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6792",
+        "eurostat:nuts_2021_id":"CH6792",
         "gn:id":7285960,
         "qs_pg:id":671356
     },
@@ -110,7 +126,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d611f91762d517e74b5dd5c00d4c2a7",
+    "wof:geomhash":"047d9e67448221ea5ab413302abdeeeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":404570015,
-    "wof:lastmodified":1582223094,
+    "wof:lastmodified":1684351741,
     "wof:name":"Grandfontaine",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
+    "wof:population":395,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

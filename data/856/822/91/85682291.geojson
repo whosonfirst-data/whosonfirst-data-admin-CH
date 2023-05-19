@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"1",
+    "eurostat:name_latin":"Gen\u00e8ve",
+    "eurostat:name_local":"Gen\u00e8ve",
+    "eurostat:nuts_2021_id":"CH013",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:population":509448,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"1",
     "geom:area":0.032932,
-    "geom:area_square_m":281739664.823159,
+    "geom:area_square_m":281739664.823196,
     "geom:bbox":"5.955912,46.128549,6.310288,46.364572",
     "geom:latitude":46.220482,
     "geom:longitude":6.133018,
@@ -436,8 +450,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"282",
     "statoids:area_mi":"109",
     "statoids:as_of_date":"2010-12-31",
@@ -457,6 +471,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":10165,
+        "eurostat:nuts_2021_id":"CH013",
         "fips:code":"SZ07",
         "gn:id":2660645,
         "gp:id":2347089,
@@ -468,7 +483,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f5523aabbb62a6005c956e329e270654",
+    "wof:geomhash":"5174f7c493d07d661b9e1d7fa75d6fc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -490,13 +505,13 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1598916052,
+    "wof:lastmodified":1684351499,
     "wof:name":"Geneva",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":457715,
-    "wof:population_rank":10,
+    "wof:population":509448,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"GE",
     "wof:superseded_by":[],

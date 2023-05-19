@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5196",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Massagno",
+    "eurostat:nuts_2021_id":"CH5196",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5196",
+    "eurostat:population":6226,
+    "eurostat:population_year":2020,
     "geom:area":0.000086,
     "geom:area_square_m":737445.987057,
     "geom:bbox":"8.935486,46.00803,8.951287,46.017472",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5196",
+        "eurostat:nuts_2021_id":"CH5196",
         "gn:id":7286450,
         "gp:id":12683948,
         "qs_pg:id":43688
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f6f8affc884382f70332a4648a19c6a",
+    "wof:geomhash":"1946dfc6f90f362bf3ce434edb01e8ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404573471,
-    "wof:lastmodified":1598919893,
+    "wof:lastmodified":1684351775,
     "wof:name":"Massagno",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":6226,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

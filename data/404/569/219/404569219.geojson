@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0357",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberbalm",
+    "eurostat:nuts_2021_id":"CH0357",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0357",
+    "eurostat:population":853,
+    "eurostat:population_year":2020,
     "geom:area":0.001462,
-    "geom:area_square_m":12356659.51911,
+    "geom:area_square_m":12356659.519112,
     "geom:bbox":"7.381395,46.846303,7.442607,46.883571",
     "geom:latitude":46.86546,
     "geom:longitude":7.409193,
@@ -121,6 +133,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -129,6 +143,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0357",
+        "eurostat:nuts_2021_id":"CH0357",
         "gn:id":7286673,
         "gp:id":12684111,
         "qs_pg:id":671495
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fe4986c0bca646909034b63f9e91959d",
+    "wof:geomhash":"8235e3702b2761962b4eff1eb6b0dbd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404569219,
-    "wof:lastmodified":1617130666,
+    "wof:lastmodified":1684351732,
     "wof:name":"Oberbalm",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":853,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

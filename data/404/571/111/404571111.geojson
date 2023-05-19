@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4826",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mammern",
+    "eurostat:nuts_2021_id":"CH4826",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4826",
+    "eurostat:population":654,
+    "eurostat:population_year":2020,
     "geom:area":0.000653,
     "geom:area_square_m":5439494.074119,
     "geom:bbox":"8.894662,47.6279,8.94976,47.65504",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062869,
-        85682337
+        85682337,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4826",
+        "eurostat:nuts_2021_id":"CH4826",
         "gn:id":7286428,
         "qs_pg:id":671443
     },
@@ -140,7 +156,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e32654770f4d71fc567a88cb1fb6db83",
+    "wof:geomhash":"bc4c3d0fbb1e3aaedaec24f34eabf009",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         }
     ],
     "wof:id":404571111,
-    "wof:lastmodified":1598920102,
+    "wof:lastmodified":1684351755,
     "wof:name":"Mammern",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
+    "wof:population":654,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

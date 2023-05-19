@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4864",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Steckborn",
+    "eurostat:nuts_2021_id":"CH4864",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4864",
+    "eurostat:population":3753,
+    "eurostat:population_year":2020,
     "geom:area":0.001052,
-    "geom:area_square_m":8759006.493647,
+    "geom:area_square_m":8759006.493646,
     "geom:bbox":"8.947671,47.646391,9.032224,47.671395",
     "geom:latitude":47.658242,
     "geom:longitude":8.990495,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062869,
-        85682337
+        85682337,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4864",
+        "eurostat:nuts_2021_id":"CH4864",
         "gn:id":7287223,
         "gp:id":12684456,
         "qs_pg:id":191078
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"da88b8066b1cf0e7a66f58d65ed13096",
+    "wof:geomhash":"76d4bce8abaa1ad1e6ae48f64aa9f9ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404570093,
-    "wof:lastmodified":1598920704,
+    "wof:lastmodified":1684351742,
     "wof:name":"Steckborn",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
+    "wof:population":3753,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

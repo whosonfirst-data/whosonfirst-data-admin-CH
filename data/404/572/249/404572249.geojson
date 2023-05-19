@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4441",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salmsach",
+    "eurostat:nuts_2021_id":"CH4441",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4441",
+    "eurostat:population":1457,
+    "eurostat:population_year":2020,
     "geom:area":0.000324,
-    "geom:area_square_m":2702432.162847,
+    "geom:area_square_m":2702432.162849,
     "geom:bbox":"9.32204,47.541959,9.381647,47.556672",
     "geom:latitude":47.549797,
     "geom:longitude":9.354278,
@@ -112,6 +124,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -120,6 +134,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4441",
+        "eurostat:nuts_2021_id":"CH4441",
         "gn:id":7287044,
         "gp:id":12684336,
         "qs_pg:id":77592
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4037600aa7804e473957aa316e380ba6",
+    "wof:geomhash":"6e05505bb7f19383282877ba00dfc83a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404572249,
-    "wof:lastmodified":1617131227,
+    "wof:lastmodified":1684351768,
     "wof:name":"Salmsach",
     "wof:parent_id":102062959,
     "wof:placetype":"localadmin",
+    "wof:population":1457,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

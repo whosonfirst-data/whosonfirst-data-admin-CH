@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2767",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bottmingen",
+    "eurostat:nuts_2021_id":"CH2767",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2767",
+    "eurostat:population":6693,
+    "eurostat:population_year":2020,
     "geom:area":0.000358,
     "geom:area_square_m":2986229.611584,
     "geom:bbox":"7.558523,47.510814,7.590036,47.531322",
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062971,
-        85682361
+        85682361,
+        102062971
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2767",
+        "eurostat:nuts_2021_id":"CH2767",
         "gn:id":7285306,
         "qs_pg:id":380053
     },
@@ -143,7 +159,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0b38348d3cca1ba5824234e74d910bc8",
+    "wof:geomhash":"8d2b9eb08dce37e0718ec1163fa6e0b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +170,12 @@
         }
     ],
     "wof:id":404572129,
-    "wof:lastmodified":1598919805,
+    "wof:lastmodified":1684351767,
     "wof:name":"Bottmingen",
     "wof:parent_id":102062971,
     "wof:placetype":"localadmin",
+    "wof:population":6693,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

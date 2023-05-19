@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ardon",
+    "eurostat:nuts_2021_id":"CH6021",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6021",
+    "eurostat:population":3217,
+    "eurostat:population_year":2020,
     "geom:area":0.002378,
     "geom:area_square_m":20339669.510119,
     "geom:bbox":"7.19504817165,46.1929820225,7.28263813764,46.2618441809",
@@ -145,6 +157,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -153,6 +167,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6021",
+        "eurostat:nuts_2021_id":"CH6021",
         "gn:id":7285093,
         "gp:id":12682818,
         "qs_pg:id":1137036
@@ -165,7 +181,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"018d4c61b121d0921ed771bebfcb5f76",
+    "wof:geomhash":"2d93fac39d2f560e16737f42b23b28f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +192,12 @@
         }
     ],
     "wof:id":404568589,
-    "wof:lastmodified":1582223006,
+    "wof:lastmodified":1684351721,
     "wof:name":"Ardon",
     "wof:parent_id":102062915,
     "wof:placetype":"localadmin",
+    "wof:population":3217,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

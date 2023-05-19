@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6437",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Les Ponts-de-Martel",
+    "eurostat:nuts_2021_id":"CH6437",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6437",
+    "eurostat:population":1248,
+    "eurostat:population_year":2020,
     "geom:area":0.002149,
-    "geom:area_square_m":18125778.812019,
+    "geom:area_square_m":18125778.812023,
     "geom:bbox":"6.662907,46.966688,6.78058,47.028425",
     "geom:latitude":46.996807,
     "geom:longitude":6.72658,
@@ -100,6 +112,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6437",
+        "eurostat:nuts_2021_id":"CH6437",
         "gn:id":7286333,
         "gp:id":12683869,
         "qs_pg:id":263303
@@ -116,7 +132,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c152c528562649e2a3c8d8fa56dbed2",
+    "wof:geomhash":"98b7ab23d889092ca65a090cfe235fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404568697,
-    "wof:lastmodified":1598919697,
+    "wof:lastmodified":1684351723,
     "wof:name":"Les Ponts-de-Martel",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":1248,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

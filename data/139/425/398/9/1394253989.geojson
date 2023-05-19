@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6266",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sion",
+    "eurostat:nuts_2021_id":"CH6266",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6266",
+    "eurostat:population":34708,
+    "eurostat:population_year":2020,
     "geom:area":0.004064,
-    "geom:area_square_m":34769837.209291,
+    "geom:area_square_m":34769846.868661,
     "geom:bbox":"7.305357,46.178045,7.425274,46.255848",
     "geom:latitude":46.222938,
     "geom:longitude":7.364892,
@@ -111,6 +123,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -118,8 +132,12 @@
         102062827
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6266",
+        "eurostat:nuts_2021_id":"CH6266"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"50d54d9b99bc1aeacc0dd68f2761f4c0",
+    "wof:geomhash":"55b4b7700f484721daab69cad59cf340",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +148,12 @@
         }
     ],
     "wof:id":1394253989,
-    "wof:lastmodified":1636413511,
+    "wof:lastmodified":1684351778,
     "wof:name":"Sion",
     "wof:parent_id":102062827,
     "wof:placetype":"localadmin",
+    "wof:population":34708,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

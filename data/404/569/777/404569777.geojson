@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4163",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frick",
+    "eurostat:nuts_2021_id":"CH4163",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4163",
+    "eurostat:population":5564,
+    "eurostat:population_year":2020,
     "geom:area":0.001189,
-    "geom:area_square_m":9932671.320615,
+    "geom:area_square_m":9932671.320614,
     "geom:bbox":"7.97823507392,47.4881135315,8.04640808348,47.5276487422",
     "geom:latitude":47.509687,
     "geom:longitude":8.014167,
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -117,6 +131,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4163",
+        "eurostat:nuts_2021_id":"CH4163",
         "gn:id":7285871,
         "gp:id":12683496,
         "qs_pg:id":43508
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0cafe1e85ed45c6f552a82f74682ad04",
+    "wof:geomhash":"ac2f672070f289e6ca3cb0ff67105d27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404569777,
-    "wof:lastmodified":1582222957,
+    "wof:lastmodified":1684351738,
     "wof:name":"Frick",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",
+    "wof:population":5564,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bettingen",
+    "eurostat:nuts_2021_id":"CH2702",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH031",
+    "eurostat:nuts_2021_level_lau":"CH2702",
+    "eurostat:population":1169,
+    "eurostat:population_year":2020,
     "geom:area":0.000266,
     "geom:area_square_m":2220449.920714,
     "geom:bbox":"7.652364,47.561777,7.689654,47.581126",
@@ -113,14 +125,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062895,
-        85682297
+        85682297,
+        102062895
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2702",
+        "eurostat:nuts_2021_id":"CH2702",
         "gn:id":7285224,
         "qs_pg:id":671187
     },
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f6dc70dcb3b1787e258695ada8849370",
+    "wof:geomhash":"25a9e070c7625031ea99643d985369a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404328853,
-    "wof:lastmodified":1598920460,
+    "wof:lastmodified":1684351701,
     "wof:name":"Bettingen",
     "wof:parent_id":102062895,
     "wof:placetype":"localadmin",
+    "wof:population":1169,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

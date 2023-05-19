@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0872",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kirchdorf (BE)",
+    "eurostat:nuts_2021_id":"CH0872",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0872",
+    "eurostat:population":1843,
+    "eurostat:population_year":2020,
     "geom:area":0.001724,
     "geom:area_square_m":14582649.4809,
     "geom:bbox":"7.50367147367,46.7909939615,7.56634613771,46.8569972329",
@@ -75,6 +87,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -82,8 +96,12 @@
         102062861
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0872",
+        "eurostat:nuts_2021_id":"CH0872"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"a268318a493d5e5936b4d28f82e8b78f",
+    "wof:geomhash":"b5cd4a03e48506b395e14980fd07fe14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +112,12 @@
         }
     ],
     "wof:id":1394253969,
-    "wof:lastmodified":1566640339,
+    "wof:lastmodified":1684351777,
     "wof:name":"Kirchdorf",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":1843,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

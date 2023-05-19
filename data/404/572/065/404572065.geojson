@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5473",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boussens",
+    "eurostat:nuts_2021_id":"CH5473",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5473",
+    "eurostat:population":969,
+    "eurostat:population_year":2020,
     "geom:area":0.000371,
-    "geom:area_square_m":3148616.494742,
+    "geom:area_square_m":3148616.494743,
     "geom:bbox":"6.57342695723,46.5919591786,6.59668899092,46.6164846941",
     "geom:latitude":46.603273,
     "geom:longitude":6.585965,
@@ -76,6 +88,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -84,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5473",
+        "eurostat:nuts_2021_id":"CH5473",
         "gn:id":7285314,
         "gp:id":12683191,
         "qs_pg:id":904143
@@ -96,7 +112,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8d634227268f7c1f26ac9ed690ec69b1",
+    "wof:geomhash":"b08cd6e9f7d10df6f7f36a06cc5e411c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404572065,
-    "wof:lastmodified":1582223028,
+    "wof:lastmodified":1684351766,
     "wof:name":"Boussens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":969,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

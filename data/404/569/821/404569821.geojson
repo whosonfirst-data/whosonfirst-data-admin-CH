@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Inden",
+    "eurostat:nuts_2021_id":"CH6109",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6109",
+    "eurostat:population":106,
+    "eurostat:population_year":2020,
     "geom:area":0.001138,
-    "geom:area_square_m":9710054.090939,
+    "geom:area_square_m":9710054.090941,
     "geom:bbox":"7.571213,46.328223,7.62538,46.384746",
     "geom:latitude":46.360426,
     "geom:longitude":7.597822,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062761,
-        85682281
+        85682281,
+        102062761
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6109",
+        "eurostat:nuts_2021_id":"CH6109",
         "gn:id":7286137,
         "gp:id":12683723,
         "qs_pg:id":106592
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b21cef5f1b5953cb1f9d2d7150925cd2",
+    "wof:geomhash":"1ba2a6a45169eab0a6e41690e42aaafa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404569821,
-    "wof:lastmodified":1598919192,
+    "wof:lastmodified":1684351739,
     "wof:name":"Inden",
     "wof:parent_id":102062761,
     "wof:placetype":"localadmin",
+    "wof:population":106,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0683",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Champoz",
+    "eurostat:nuts_2021_id":"CH0683",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0683",
+    "eurostat:population":170,
+    "eurostat:population_year":2020,
     "geom:area":0.000853,
     "geom:area_square_m":7154297.964669,
     "geom:bbox":"7.281111,47.248496,7.34146,47.269609",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062865,
-        85682381
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0683",
+        "eurostat:nuts_2021_id":"CH0683",
         "gp:id":20075401,
         "qs_pg:id":50525
     },
@@ -125,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b2d4081498882b0c3e2c5972164f3285",
+    "wof:geomhash":"ea09f6a5688f41e1303665a312bc64a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404570521,
-    "wof:lastmodified":1598920602,
+    "wof:lastmodified":1684351747,
     "wof:name":"Champoz",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":170,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

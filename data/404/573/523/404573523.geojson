@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4651",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gottlieben",
+    "eurostat:nuts_2021_id":"CH4651",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4651",
+    "eurostat:population":340,
+    "eurostat:population_year":2020,
     "geom:area":0.000039,
     "geom:area_square_m":323245.728882,
     "geom:bbox":"9.116486,47.662507,9.139016,47.666403",
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062953,
-        85682337
+        85682337,
+        102062953
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4651",
+        "eurostat:nuts_2021_id":"CH4651",
         "gn:id":7285948,
         "gp:id":12683580,
         "qs_pg:id":1188039
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"834848b031c8439616b5a01bac468449",
+    "wof:geomhash":"3d837d5699f7a9d114312064c6b8b1bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404573523,
-    "wof:lastmodified":1598919992,
+    "wof:lastmodified":1684351775,
     "wof:name":"Gottlieben",
     "wof:parent_id":102062953,
     "wof:placetype":"localadmin",
+    "wof:population":340,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

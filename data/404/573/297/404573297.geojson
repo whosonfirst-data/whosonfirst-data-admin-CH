@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2851",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kilchberg (BL)",
+    "eurostat:nuts_2021_id":"CH2851",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2851",
+    "eurostat:population":159,
+    "eurostat:population_year":2020,
     "geom:area":0.00019,
     "geom:area_square_m":1587339.884984,
     "geom:bbox":"7.88761,47.417776,7.910544,47.436482",
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062819,
-        85682361
+        85682361,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2851",
+        "eurostat:nuts_2021_id":"CH2851",
         "gn:id":7286194,
         "gp:id":12685221,
         "qs_pg:id":671394
@@ -114,7 +130,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9746b11b56623e6da392c7a2e1dada80",
+    "wof:geomhash":"cdd83f74a22a02aeaaf190d3f543bab7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404573297,
-    "wof:lastmodified":1598919980,
+    "wof:lastmodified":1684351773,
     "wof:name":"Kilchberg",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",
+    "wof:population":159,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

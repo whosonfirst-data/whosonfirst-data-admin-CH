@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3792",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bregaglia",
+    "eurostat:nuts_2021_id":"CH3792",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3792",
+    "eurostat:population":1544,
+    "eurostat:population_year":2020,
     "geom:area":0.029387,
-    "geom:area_square_m":250767835.832948,
+    "geom:area_square_m":250767835.832968,
     "geom:bbox":"9.456283,46.286091,9.784738,46.43704",
     "geom:latitude":46.360706,
     "geom:longitude":9.623742,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062857,
-        85682255
+        85682255,
+        102062857
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3792",
+        "eurostat:nuts_2021_id":"CH3792",
         "gn:id":8260334,
         "qs_pg:id":760510
     },
@@ -116,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9ca6453f7cf0a15f73e12f4971c7faf7",
+    "wof:geomhash":"144fa9773b93fa940fef9032fdfe2f4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404567699,
-    "wof:lastmodified":1598919435,
+    "wof:lastmodified":1684351702,
     "wof:name":"Bregaglia",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",
+    "wof:population":1544,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

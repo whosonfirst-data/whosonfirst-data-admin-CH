@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6076",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Obergoms",
+    "eurostat:nuts_2021_id":"CH6076",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6076",
+    "eurostat:population":664,
+    "eurostat:population_year":2020,
     "geom:area":0.018284,
-    "geom:area_square_m":155530817.3538,
+    "geom:area_square_m":155530817.353799,
     "geom:bbox":"8.258059,46.423635,8.478516,46.654049",
     "geom:latitude":46.533101,
     "geom:longitude":8.370756,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063031,
-        85682281
+        85682281,
+        102063031
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6076",
+        "eurostat:nuts_2021_id":"CH6076",
         "gp:id":56071081,
         "qs_pg:id":234028
     },
@@ -113,7 +129,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"844aa48498a26ff58eddea933929df72",
+    "wof:geomhash":"07816b9b222047dc75ab874626deef9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":404567737,
-    "wof:lastmodified":1598919376,
+    "wof:lastmodified":1684351704,
     "wof:name":"Obergoms",
     "wof:parent_id":102063031,
     "wof:placetype":"localadmin",
+    "wof:population":664,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

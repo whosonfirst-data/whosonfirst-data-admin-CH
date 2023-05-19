@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3339",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uznach",
+    "eurostat:nuts_2021_id":"CH3339",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3339",
+    "eurostat:population":6417,
+    "eurostat:population_year":2020,
     "geom:area":0.000895,
     "geom:area_square_m":7515134.373509,
     "geom:bbox":"8.95481,47.20891,9.007076,47.241182",
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062815,
-        85682341
+        85682341,
+        102062815
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3339",
+        "eurostat:nuts_2021_id":"CH3339",
         "gn:id":7287401,
         "gp:id":12684554,
         "qs_pg:id":671639
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9cb7ebecfce8df79ed55d3ce631637f5",
+    "wof:geomhash":"1f8c458dd876a113b909538e85e3b04b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404570435,
-    "wof:lastmodified":1598920702,
+    "wof:lastmodified":1684351746,
     "wof:name":"Uznach",
     "wof:parent_id":102062815,
     "wof:placetype":"localadmin",
+    "wof:population":6417,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

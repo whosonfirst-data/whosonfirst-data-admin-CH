@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0745",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Port",
+    "eurostat:nuts_2021_id":"CH0745",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0745",
+    "eurostat:population":3695,
+    "eurostat:population_year":2020,
     "geom:area":0.000291,
     "geom:area_square_m":2450127.575993,
     "geom:bbox":"7.242733,47.106741,7.280225,47.124007",
@@ -337,14 +349,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063041,
-        85682381
+        85682381,
+        102063041
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0745",
+        "eurostat:nuts_2021_id":"CH0745",
         "gp:id":12684877,
         "qs_pg:id":1017693
     },
@@ -356,7 +372,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4da26420d7d2831cfc6ed6f0293c8f77",
+    "wof:geomhash":"6d93944db789905ec4be7a2f6f30fdea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -367,10 +383,12 @@
         }
     ],
     "wof:id":404572373,
-    "wof:lastmodified":1598919867,
+    "wof:lastmodified":1684351769,
     "wof:name":"Port",
     "wof:parent_id":102063041,
     "wof:placetype":"localadmin",
+    "wof:population":3695,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

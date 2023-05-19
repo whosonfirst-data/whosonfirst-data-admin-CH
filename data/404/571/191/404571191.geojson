@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2294",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giffers",
+    "eurostat:nuts_2021_id":"CH2294",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2294",
+    "eurostat:population":1634,
+    "eurostat:population_year":2020,
     "geom:area":0.000614,
     "geom:area_square_m":5202313.772206,
     "geom:bbox":"7.199292,46.736913,7.251157,46.770359",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062891,
-        85682301
+        85682301,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2294",
+        "eurostat:nuts_2021_id":"CH2294",
         "gn:id":7285914,
         "gp:id":12683543,
         "qs_pg:id":213818
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4b4f3c8729f5ebf7251fbbd5cac046f3",
+    "wof:geomhash":"7be4b66088279d759588ae188693cd08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571191,
-    "wof:lastmodified":1598920134,
+    "wof:lastmodified":1684351756,
     "wof:name":"Giffers",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",
+    "wof:population":1634,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

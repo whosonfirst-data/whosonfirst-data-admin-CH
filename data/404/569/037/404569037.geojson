@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saicourt",
+    "eurostat:nuts_2021_id":"CH0706",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0706",
+    "eurostat:population":628,
+    "eurostat:population_year":2020,
     "geom:area":0.001636,
     "geom:area_square_m":13729482.081716,
     "geom:bbox":"7.142766,47.234422,7.214805,47.274722",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062865,
-        85682381
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0706",
+        "eurostat:nuts_2021_id":"CH0706",
         "gn:id":7287016,
         "gp:id":12684328,
         "qs_pg:id":1180572
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7cc604eafe7ad741001b36d7e60a6dc8",
+    "wof:geomhash":"5faa0c767cf8f02622b278df971bf876",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404569037,
-    "wof:lastmodified":1598919228,
+    "wof:lastmodified":1684351729,
     "wof:name":"Saicourt",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":628,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

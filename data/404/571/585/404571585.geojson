@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2086",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Massonnens",
+    "eurostat:nuts_2021_id":"CH2086",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2086",
+    "eurostat:population":527,
+    "eurostat:population_year":2020,
     "geom:area":0.000505,
     "geom:area_square_m":4280939.389218,
     "geom:bbox":"6.960538,46.684149,6.994434,46.710183",
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062867,
-        85682301
+        85682301,
+        102062867
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2086",
+        "eurostat:nuts_2021_id":"CH2086",
         "gn:id":7286452,
         "qs_pg:id":671451
     },
@@ -116,7 +132,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f88d7a98afaa2756574548d1364a8d40",
+    "wof:geomhash":"0199005ff825d66bb83a9f02b2f1c8b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404571585,
-    "wof:lastmodified":1598920221,
+    "wof:lastmodified":1684351761,
     "wof:name":"Massonnens",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",
+    "wof:population":527,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

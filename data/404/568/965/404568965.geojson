@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3408",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uzwil",
+    "eurostat:nuts_2021_id":"CH3408",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3408",
+    "eurostat:population":12892,
+    "eurostat:population_year":2020,
     "geom:area":0.001729,
     "geom:area_square_m":14454439.087503,
     "geom:bbox":"9.066079,47.42405,9.156528,47.464446",
@@ -136,14 +148,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062947,
-        85682341
+        85682341,
+        102062947
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3408",
+        "eurostat:nuts_2021_id":"CH3408",
         "gn:id":7287402,
         "gp:id":12683663,
         "qs_pg:id":380137
@@ -153,7 +169,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"143577f516f2e36af9fd37f67b83c46a",
+    "wof:geomhash":"411b651cca18c0dc302e15c85b555821",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404568965,
-    "wof:lastmodified":1598919475,
+    "wof:lastmodified":1684351728,
     "wof:name":"Uzwil",
     "wof:parent_id":102062947,
     "wof:placetype":"localadmin",
+    "wof:population":12892,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

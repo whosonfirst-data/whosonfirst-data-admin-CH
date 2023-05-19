@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arnex-sur-Nyon",
+    "eurostat:nuts_2021_id":"CH5701",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5701",
+    "eurostat:population":235,
+    "eurostat:population_year":2020,
     "geom:area":0.000239,
     "geom:area_square_m":2038819.638617,
     "geom:bbox":"6.172995,46.364572,6.204571,46.381076",
@@ -99,14 +111,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5701",
+        "eurostat:nuts_2021_id":"CH5701"
+    },
     "wof:coterminous":[
         1125767805
     ],
@@ -114,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f616abf78b9327d5c6df34bb9af9f31b",
+    "wof:geomhash":"045825de19cdd10a057324bb11bac99b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404573135,
-    "wof:lastmodified":1598919877,
+    "wof:lastmodified":1684351771,
     "wof:name":"Arnex-sur-Nyon",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":235,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

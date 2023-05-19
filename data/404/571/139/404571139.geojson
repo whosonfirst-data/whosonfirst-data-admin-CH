@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Folliaz",
+    "eurostat:nuts_2021_id":"CH2116",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2116",
+    "eurostat:population":982,
+    "eurostat:population_year":2020,
     "geom:area":0.001161,
-    "geom:area_square_m":9838930.065369,
+    "geom:area_square_m":9838930.06537,
     "geom:bbox":"6.922147,46.703045,6.990067,46.75516",
     "geom:latitude":46.730098,
     "geom:longitude":6.953764,
@@ -102,19 +114,24 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062867,
-        85682301
+        85682301,
+        102062867
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2116",
+        "eurostat:nuts_2021_id":"CH2116"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4710c4a106d971868c7a8d79c4d791d9",
+    "wof:geomhash":"90b7ed124e70c1555e1987bd2d124034",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":404571139,
-    "wof:lastmodified":1598920150,
+    "wof:lastmodified":1684351755,
     "wof:name":"La Folliaz",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",
+    "wof:population":982,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

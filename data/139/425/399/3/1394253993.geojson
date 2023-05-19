@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0770",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stocken-H\u00f6fen",
+    "eurostat:nuts_2021_id":"CH0770",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0770",
+    "eurostat:population":1016,
+    "eurostat:population_year":2020,
     "geom:area":0.001673,
-    "geom:area_square_m":14187666.470495,
+    "geom:area_square_m":14187666.470498,
     "geom:bbox":"7.53189789519,46.6887699932,7.60210038611,46.7354872334",
     "geom:latitude":46.710079,
     "geom:longitude":7.563645,
@@ -48,6 +60,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -55,8 +69,12 @@
         102063061
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0770",
+        "eurostat:nuts_2021_id":"CH0770"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"f7fb68586df56f0a9f4093b4d07eaf1b",
+    "wof:geomhash":"3ebbb3118b89b94500f22e3bcc45784b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,10 +85,12 @@
         }
     ],
     "wof:id":1394253993,
-    "wof:lastmodified":1566640341,
+    "wof:lastmodified":1684351778,
     "wof:name":"Stocken-H\u00f6fen",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":1016,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

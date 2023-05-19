@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0995",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wiedlisbach",
+    "eurostat:nuts_2021_id":"CH0995",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0995",
+    "eurostat:population":2377,
+    "eurostat:population_year":2020,
     "geom:area":0.000892,
-    "geom:area_square_m":7483563.114312,
+    "geom:area_square_m":7483563.114313,
     "geom:bbox":"7.622723,47.234405,7.694199,47.26035",
     "geom:latitude":47.245679,
     "geom:longitude":7.651642,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0995",
+        "eurostat:nuts_2021_id":"CH0995",
         "gn:id":7287568,
         "gp:id":12684626,
         "qs_pg:id":1019962
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3dec8940892c78d1eb70267f79ec97ac",
+    "wof:geomhash":"e27777d29816db4e1180d80f0f716f0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404570451,
-    "wof:lastmodified":1598920688,
+    "wof:lastmodified":1684351746,
     "wof:name":"Wiedlisbach",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":2377,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

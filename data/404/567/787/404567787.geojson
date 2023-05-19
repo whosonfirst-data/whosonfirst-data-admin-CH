@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5317",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maggia",
+    "eurostat:nuts_2021_id":"CH5317",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5317",
+    "eurostat:population":2592,
+    "eurostat:population_year":2020,
     "geom:area":0.012969,
-    "geom:area_square_m":110858315.579492,
+    "geom:area_square_m":110858315.579486,
     "geom:bbox":"8.56919370358,46.2039994637,8.77595715299,46.3248959425",
     "geom:latitude":46.269131,
     "geom:longitude":8.680857,
@@ -70,6 +82,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -78,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5317",
+        "eurostat:nuts_2021_id":"CH5317",
         "gn:id":7286417,
         "gp:id":12683928,
         "qs_pg:id":248860
@@ -87,7 +103,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"80e69ddceb65961516ab670e50d612de",
+    "wof:geomhash":"2badcf7e09d369a308302964c169f1cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +114,12 @@
         }
     ],
     "wof:id":404567787,
-    "wof:lastmodified":1582222985,
+    "wof:lastmodified":1684351705,
     "wof:name":"Maggia",
     "wof:parent_id":102062957,
     "wof:placetype":"localadmin",
+    "wof:population":2592,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

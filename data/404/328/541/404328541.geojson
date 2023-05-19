@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Walzenhausen",
+    "eurostat:nuts_2021_id":"CH3037",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH053",
+    "eurostat:nuts_2021_level_lau":"CH3037",
+    "eurostat:population":1971,
+    "eurostat:population_year":2020,
     "geom:area":0.000835,
     "geom:area_square_m":6982530.621456,
     "geom:bbox":"9.56438,47.43361,9.630963,47.458771",
@@ -117,14 +129,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137103,
-        85682353
+        85682353,
+        1394137103
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3037",
+        "eurostat:nuts_2021_id":"CH3037",
         "gn:id":7287538,
         "gp:id":12684609,
         "qs_pg:id":218702
@@ -137,7 +153,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"befe65fa8c40df5991fced1ba62e9198",
+    "wof:geomhash":"d32a56aa4518dcb1eed2c365f7d93b26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +164,12 @@
         }
     ],
     "wof:id":404328541,
-    "wof:lastmodified":1598920495,
+    "wof:lastmodified":1684351697,
     "wof:name":"Walzenhausen",
     "wof:parent_id":1394137103,
     "wof:placetype":"localadmin",
+    "wof:population":1971,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

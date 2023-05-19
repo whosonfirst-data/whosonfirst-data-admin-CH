@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Heiden",
+    "eurostat:nuts_2021_id":"CH3032",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH053",
+    "eurostat:nuts_2021_level_lau":"CH3032",
+    "eurostat:population":4162,
+    "eurostat:population_year":2020,
     "geom:area":0.000891,
     "geom:area_square_m":7453468.27792,
     "geom:bbox":"9.514568,47.422981,9.55889,47.464542",
@@ -102,14 +114,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137103,
-        85682353
+        85682353,
+        1394137103
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3032",
+        "eurostat:nuts_2021_id":"CH3032",
         "gn:id":7286047,
         "gp:id":12683653,
         "qs_pg:id":1115146
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e996784baaddcf68258574fb5527fc88",
+    "wof:geomhash":"afa9d60bb3b7e54475b475a57b8b53c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404328515,
-    "wof:lastmodified":1598920507,
+    "wof:lastmodified":1684351697,
     "wof:name":"Heiden",
     "wof:parent_id":1394137103,
     "wof:placetype":"localadmin",
+    "wof:population":4162,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

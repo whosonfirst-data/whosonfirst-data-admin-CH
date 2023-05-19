@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6151",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Champ\u00e9ry",
+    "eurostat:nuts_2021_id":"CH6151",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6151",
+    "eurostat:population":1336,
+    "eurostat:population_year":2020,
     "geom:area":0.004523,
-    "geom:area_square_m":38743227.927904,
+    "geom:area_square_m":38743227.927908,
     "geom:bbox":"6.790274,46.129262,6.910144,46.190073",
     "geom:latitude":46.158784,
     "geom:longitude":6.845953,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063065,
-        85682281
+        85682281,
+        102063065
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6151",
+        "eurostat:nuts_2021_id":"CH6151",
         "gn:id":7285466,
         "gp:id":12682907,
         "qs_pg:id":1154233
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c4e665d6ed15c9d95abf2d09c078105f",
+    "wof:geomhash":"9cbbe81919fa17acc265722a9517e0d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404568139,
-    "wof:lastmodified":1598919644,
+    "wof:lastmodified":1684351712,
     "wof:name":"Champ\u00e9ry",
     "wof:parent_id":102063065,
     "wof:placetype":"localadmin",
+    "wof:population":1336,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

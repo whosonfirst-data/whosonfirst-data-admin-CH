@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6630",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meyrin",
+    "eurostat:nuts_2021_id":"CH6630",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6630",
+    "eurostat:population":25255,
+    "eurostat:population_year":2020,
     "geom:area":0.001159,
-    "geom:area_square_m":9911287.462287,
+    "geom:area_square_m":9911287.462288,
     "geom:bbox":"6.046121,46.217173,6.111918,46.247124",
     "geom:latitude":46.232228,
     "geom:longitude":6.079106,
@@ -149,14 +161,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6630",
+        "eurostat:nuts_2021_id":"CH6630",
         "gn:id":7286502,
         "gp:id":12683153,
         "qs_pg:id":1292329
@@ -166,7 +182,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"da8e0f855d47c3dd41abbfc9da855334",
+    "wof:geomhash":"6be30e61fe5e56eaad34fbdbe08b51b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,10 +193,12 @@
         }
     ],
     "wof:id":404328435,
-    "wof:lastmodified":1598920475,
+    "wof:lastmodified":1684351695,
     "wof:name":"Meyrin",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":25255,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

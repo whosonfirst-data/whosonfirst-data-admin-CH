@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2781",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Blauen",
+    "eurostat:nuts_2021_id":"CH2781",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2781",
+    "eurostat:population":691,
+    "eurostat:population_year":2020,
     "geom:area":0.00085,
     "geom:area_square_m":7103932.033611,
     "geom:bbox":"7.48452658064,47.4410264496,7.55467384933,47.463686956",
@@ -55,6 +67,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -63,6 +77,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2781",
+        "eurostat:nuts_2021_id":"CH2781",
         "gn:id":7285267,
         "gp:id":12682992,
         "qs_pg:id":490757
@@ -75,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3e360429ffd05eba22c4da3f4859a1b2",
+    "wof:geomhash":"2a79b66e5ae2a56f54939d3632cf2e42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,10 +102,12 @@
         }
     ],
     "wof:id":404570535,
-    "wof:lastmodified":1582223094,
+    "wof:lastmodified":1684351747,
     "wof:name":"Blauen",
     "wof:parent_id":102062757,
     "wof:placetype":"localadmin",
+    "wof:population":691,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5923",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oppens",
+    "eurostat:nuts_2021_id":"CH5923",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5923",
+    "eurostat:population":197,
+    "eurostat:population_year":2020,
     "geom:area":0.000423,
     "geom:area_square_m":3586108.783811,
     "geom:bbox":"6.676043,46.7037,6.709819,46.728688",
@@ -88,14 +100,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062949,
-        85682325
+        85682325,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5923",
+        "eurostat:nuts_2021_id":"CH5923",
         "gn:id":7286744,
         "qs_pg:id":671513
     },
@@ -107,7 +123,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"17cec0cfb3196eeb4b2d74a01bcf8dfa",
+    "wof:geomhash":"d68013d9e67932bc52e668b3d474d952",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":404571877,
-    "wof:lastmodified":1598920162,
+    "wof:lastmodified":1684351764,
     "wof:name":"Oppens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":197,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

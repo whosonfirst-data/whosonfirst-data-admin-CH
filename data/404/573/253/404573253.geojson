@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2275",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Murten",
+    "eurostat:nuts_2021_id":"CH2275",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2275",
+    "eurostat:population":8279,
+    "eurostat:population_year":2020,
     "geom:area":0.003183,
-    "geom:area_square_m":26877978.052686,
+    "geom:area_square_m":26877978.052684,
     "geom:bbox":"7.083592,46.882174,7.190439,46.986279",
     "geom:latitude":46.925169,
     "geom:longitude":7.143481,
@@ -153,19 +165,24 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062765,
-        85682301
+        85682301,
+        102062765
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2275",
+        "eurostat:nuts_2021_id":"CH2275"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"071d985a7272f3b3c89f3737017da946",
+    "wof:geomhash":"45eaf0f4c7a1f3555300b4114426e0a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +193,12 @@
         }
     ],
     "wof:id":404573253,
-    "wof:lastmodified":1598919974,
+    "wof:lastmodified":1684351772,
     "wof:name":"Murten",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
+    "wof:population":8279,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

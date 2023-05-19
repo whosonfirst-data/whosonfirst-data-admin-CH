@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5585",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jouxtens-M\u00e9zery",
+    "eurostat:nuts_2021_id":"CH5585",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5585",
+    "eurostat:population":1470,
+    "eurostat:population_year":2020,
     "geom:area":0.000227,
-    "geom:area_square_m":1928676.218831,
+    "geom:area_square_m":1928676.218832,
     "geom:bbox":"6.585903,46.542587,6.605294,46.562844",
     "geom:latitude":46.551852,
     "geom:longitude":6.595982,
@@ -102,14 +114,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063009,
-        85682325
+        85682325,
+        102063009
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5585",
+        "eurostat:nuts_2021_id":"CH5585"
+    },
     "wof:coterminous":[
         1125770795
     ],
@@ -117,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e5d31585429cbeef440eab05df5ef719",
+    "wof:geomhash":"5d810fd6e620ed36c272fd6a7f3a578b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404573177,
-    "wof:lastmodified":1598919986,
+    "wof:lastmodified":1684351771,
     "wof:name":"Jouxtens-M\u00e9zery",
     "wof:parent_id":102063009,
     "wof:placetype":"localadmin",
+    "wof:population":1470,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6487",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Val-de-Ruz",
+    "eurostat:nuts_2021_id":"CH6487",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6487",
+    "eurostat:population":16990,
+    "eurostat:population_year":2020,
     "geom:area":0.014717,
-    "geom:area_square_m":123972656.994167,
+    "geom:area_square_m":123972656.994174,
     "geom:bbox":"6.79540635292,46.9889840612,7.03996339764,47.1273101533",
     "geom:latitude":47.058991,
     "geom:longitude":6.913091,
@@ -60,14 +72,20 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
         85682359
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6487",
+        "eurostat:nuts_2021_id":"CH6487"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"c02e17c2c7118816139a114c024eee4a",
+    "wof:geomhash":"511e078407ecaf67f1a9067b987e547d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +95,12 @@
         }
     ],
     "wof:id":1394254123,
-    "wof:lastmodified":1566640352,
+    "wof:lastmodified":1684351782,
     "wof:name":"Val-de-Ruz",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":16990,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

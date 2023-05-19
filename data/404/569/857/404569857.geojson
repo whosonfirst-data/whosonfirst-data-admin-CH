@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6453",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Enges",
+    "eurostat:nuts_2021_id":"CH6453",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6453",
+    "eurostat:population":272,
+    "eurostat:population_year":2020,
     "geom:area":0.001135,
-    "geom:area_square_m":9557973.789448,
+    "geom:area_square_m":9557973.789447,
     "geom:bbox":"6.986888,47.05084,7.036252,47.094966",
     "geom:latitude":47.072096,
     "geom:longitude":7.011798,
@@ -97,6 +109,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -104,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6453",
+        "eurostat:nuts_2021_id":"CH6453",
         "gn:id":7285729,
         "gp:id":20075665,
         "qs_pg:id":989385
@@ -116,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c77964a43f4adb59d4ddbb31dbd327db",
+    "wof:geomhash":"4ed74df491ea2f55caa5f9503c8eb06b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":404569857,
-    "wof:lastmodified":1598919207,
+    "wof:lastmodified":1684351739,
     "wof:name":"Enges",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":272,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

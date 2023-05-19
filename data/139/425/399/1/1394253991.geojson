@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Turtmann-Unterems",
+    "eurostat:nuts_2021_id":"CH6119",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6119",
+    "eurostat:population":1111,
+    "eurostat:population_year":2020,
     "geom:area":0.004943,
-    "geom:area_square_m":42311179.616625,
+    "geom:area_square_m":42311179.616628,
     "geom:bbox":"7.67675667497,46.1107522698,7.75419073565,46.3116258613",
     "geom:latitude":46.18897,
     "geom:longitude":7.714189,
@@ -51,6 +63,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -58,8 +72,12 @@
         102062761
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6119",
+        "eurostat:nuts_2021_id":"CH6119"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"f23b8c64c37b6c20e99342c15b51caf5",
+    "wof:geomhash":"eb6fbb1f1dfe8dcf529e609686d2855c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +88,12 @@
         }
     ],
     "wof:id":1394253991,
-    "wof:lastmodified":1566640341,
+    "wof:lastmodified":1684351778,
     "wof:name":"Turtmann-Unterems",
     "wof:parent_id":102062761,
     "wof:placetype":"localadmin",
+    "wof:population":1111,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

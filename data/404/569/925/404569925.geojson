@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0326",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gondiswil",
+    "eurostat:nuts_2021_id":"CH0326",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0326",
+    "eurostat:population":730,
+    "eurostat:population_year":2020,
     "geom:area":0.001115,
     "geom:area_square_m":9379461.6164,
     "geom:bbox":"7.843023,47.124055,7.890579,47.166234",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0326",
+        "eurostat:nuts_2021_id":"CH0326",
         "gn:id":7285938,
         "qs_pg:id":106581
     },
@@ -137,7 +153,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a5f04c9bffeec363aac8ecf8467da6b8",
+    "wof:geomhash":"66f8bac47c9d549d7bb24c8138beddde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +164,12 @@
         }
     ],
     "wof:id":404569925,
-    "wof:lastmodified":1598919255,
+    "wof:lastmodified":1684351740,
     "wof:name":"Gondiswil",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":730,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

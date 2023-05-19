@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bo\u00e9court",
+    "eurostat:nuts_2021_id":"CH6702",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6702",
+    "eurostat:population":914,
+    "eurostat:population_year":2020,
     "geom:area":0.00147,
-    "geom:area_square_m":12312692.779911,
+    "geom:area_square_m":12312692.77991,
     "geom:bbox":"7.190904,47.339937,7.252295,47.38383",
     "geom:latitude":47.361516,
     "geom:longitude":7.222896,
@@ -96,19 +108,24 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062791,
-        85682347
+        85682347,
+        102062791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6702",
+        "eurostat:nuts_2021_id":"CH6702"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"74289f8950a418b30308c9d54884a52b",
+    "wof:geomhash":"4602ba5cae57ba798b2a3b1e5b31f613",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404569225,
-    "wof:lastmodified":1598919309,
+    "wof:lastmodified":1684351732,
     "wof:name":"Bo\u00e9court",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
+    "wof:population":914,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

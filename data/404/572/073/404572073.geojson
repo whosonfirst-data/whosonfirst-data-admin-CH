@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5821",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Missy",
+    "eurostat:nuts_2021_id":"CH5821",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5821",
+    "eurostat:population":371,
+    "eurostat:population_year":2020,
     "geom:area":0.000367,
-    "geom:area_square_m":3105554.112916,
+    "geom:area_square_m":3105554.112917,
     "geom:bbox":"6.95811479042,46.8652185208,6.9888969486,46.8873134855",
     "geom:latitude":46.876143,
     "geom:longitude":6.973865,
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5821",
+        "eurostat:nuts_2021_id":"CH5821",
         "gn:id":7286512,
         "qs_pg:id":671467
     },
@@ -59,7 +75,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"37f448d7577c1381a921b105fe674389",
+    "wof:geomhash":"606de6a1cea79a8447f6dd10036935d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +86,12 @@
         }
     ],
     "wof:id":404572073,
-    "wof:lastmodified":1582223032,
+    "wof:lastmodified":1684351766,
     "wof:name":"Missy",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":371,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aeugst am Albis",
+    "eurostat:nuts_2021_id":"CH0001",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0001",
+    "eurostat:population":1982,
+    "eurostat:population_year":2020,
     "geom:area":0.000941,
-    "geom:area_square_m":7890625.130629,
+    "geom:area_square_m":7890625.130628,
     "geom:bbox":"8.471126,47.25722,8.51134,47.293032",
     "geom:latitude":47.275406,
     "geom:longitude":8.489716,
@@ -127,14 +139,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062775,
-        85682309
+        85682309,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0001",
+        "eurostat:nuts_2021_id":"CH0001",
         "gn:id":7285035,
         "gp:id":12682727,
         "qs_pg:id":345145
@@ -144,7 +160,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fcffd0e5d822bb63b7892874ebf3ce4b",
+    "wof:geomhash":"fd9f03414b5faf763facf44cc367f5b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404570297,
-    "wof:lastmodified":1598920701,
+    "wof:lastmodified":1684351745,
     "wof:name":"Aeugst am Albis",
     "wof:parent_id":102062775,
     "wof:placetype":"localadmin",
+    "wof:population":1982,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

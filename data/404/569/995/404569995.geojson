@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5744",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ballaigues",
+    "eurostat:nuts_2021_id":"CH5744",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5744",
+    "eurostat:population":1064,
+    "eurostat:population_year":2020,
     "geom:area":0.001066,
-    "geom:area_square_m":9035538.056011,
+    "geom:area_square_m":9035538.056012,
     "geom:bbox":"6.38508,46.718677,6.435993,46.752711",
     "geom:latitude":46.734879,
     "geom:longitude":6.4104,
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5744",
+        "eurostat:nuts_2021_id":"CH5744",
         "gn:id":7285142,
         "qs_pg:id":671174
     },
@@ -110,7 +126,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c33595c139dea9e2e2aeab35fb2160cf",
+    "wof:geomhash":"a9ae49481ff003d0d57176df490e11f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":404569995,
-    "wof:lastmodified":1598919261,
+    "wof:lastmodified":1684351741,
     "wof:name":"Ballaigues",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":1064,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

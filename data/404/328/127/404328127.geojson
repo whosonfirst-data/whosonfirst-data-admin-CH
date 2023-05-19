@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kerns",
+    "eurostat:nuts_2021_id":"CH1404",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH064",
+    "eurostat:nuts_2021_level_lau":"CH1404",
+    "eurostat:population":6337,
+    "eurostat:population_year":2020,
     "geom:area":0.010917,
-    "geom:area_square_m":92342076.100632,
+    "geom:area_square_m":92342076.100618,
     "geom:bbox":"8.232324,46.753171,8.369237,46.933887",
     "geom:latitude":46.839903,
     "geom:longitude":8.301397,
@@ -116,14 +128,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062787,
-        85682371
+        85682371,
+        102062787
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1404",
+        "eurostat:nuts_2021_id":"CH1404",
         "gn:id":7286187,
         "gp:id":12683503,
         "qs_pg:id":1197127
@@ -133,7 +149,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c05395f82ec232aac9341354fb309e42",
+    "wof:geomhash":"f0bd8ab9d01bcf6020e10171859f8630",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404328127,
-    "wof:lastmodified":1598920368,
+    "wof:lastmodified":1684351689,
     "wof:name":"Kerns",
     "wof:parent_id":102062787,
     "wof:placetype":"localadmin",
+    "wof:population":6337,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

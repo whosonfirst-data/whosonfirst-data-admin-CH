@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miglieglia",
+    "eurostat:nuts_2021_id":"CH5200",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5200",
+    "eurostat:population":319,
+    "eurostat:population_year":2020,
     "geom:area":0.000593,
-    "geom:area_square_m":5089020.438677,
+    "geom:area_square_m":5089020.438676,
     "geom:bbox":"8.828159,46.014187,8.869251,46.043773",
     "geom:latitude":46.031254,
     "geom:longitude":8.849427,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5200",
+        "eurostat:nuts_2021_id":"CH5200",
         "gn:id":7286508,
         "gp:id":12683985,
         "qs_pg:id":334358
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ffe756452b79f1e2086b67c7dbffb5ea",
+    "wof:geomhash":"3a755a86c27b88a5ac1044c9906c2b45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571209,
-    "wof:lastmodified":1598920187,
+    "wof:lastmodified":1684351756,
     "wof:name":"Miglieglia",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":319,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

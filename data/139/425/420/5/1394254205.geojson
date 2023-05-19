@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gonten",
+    "eurostat:nuts_2021_id":"CH3102",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH054",
+    "eurostat:nuts_2021_level_lau":"CH3102",
+    "eurostat:population":1462,
+    "eurostat:population_year":2020,
     "geom:area":0.002942,
-    "geom:area_square_m":24658716.483806,
+    "geom:area_square_m":24658716.483803,
     "geom:bbox":"9.30971369319,47.2830664368,9.39763933677,47.3470930614",
     "geom:latitude":47.319147,
     "geom:longitude":9.34852,
@@ -96,6 +108,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -103,8 +117,12 @@
         1394237541
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3102",
+        "eurostat:nuts_2021_id":"CH3102"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"3d43831616f7ea46b31374bdc6291817",
+    "wof:geomhash":"36e1a092683a7448b4e07e96aa481a1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,10 +133,12 @@
         }
     ],
     "wof:id":1394254205,
-    "wof:lastmodified":1566640370,
+    "wof:lastmodified":1684351784,
     "wof:name":"Gonten",
     "wof:parent_id":1394237541,
     "wof:placetype":"localadmin",
+    "wof:population":1462,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

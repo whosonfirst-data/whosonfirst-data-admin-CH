@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0358",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stettlen",
+    "eurostat:nuts_2021_id":"CH0358",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0358",
+    "eurostat:population":3116,
+    "eurostat:population_year":2020,
     "geom:area":0.000414,
-    "geom:area_square_m":3493692.092197,
+    "geom:area_square_m":3493692.092196,
     "geom:bbox":"7.5078,46.942497,7.539693,46.969838",
     "geom:latitude":46.956533,
     "geom:longitude":7.522132,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0358",
+        "eurostat:nuts_2021_id":"CH0358",
         "gn:id":7287239,
         "qs_pg:id":1040586
     },
@@ -128,7 +144,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a16471d98c128ab66f2cd29285e3bf2a",
+    "wof:geomhash":"618003293a956d9934bb0d60d1192598",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404571919,
-    "wof:lastmodified":1598920234,
+    "wof:lastmodified":1684351764,
     "wof:name":"Stettlen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":3116,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

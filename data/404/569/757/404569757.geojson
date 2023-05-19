@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2791",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00f6schenz",
+    "eurostat:nuts_2021_id":"CH2791",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2791",
+    "eurostat:population":1863,
+    "eurostat:population_year":2020,
     "geom:area":0.001201,
-    "geom:area_square_m":10043399.745612,
+    "geom:area_square_m":10043399.745614,
     "geom:bbox":"7.437841,47.412665,7.485077,47.451442",
     "geom:latitude":47.432883,
     "geom:longitude":7.464952,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062757,
-        85682361
+        85682361,
+        102062757
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2791",
+        "eurostat:nuts_2021_id":"CH2791",
         "gp:id":12684297,
         "qs_pg:id":1026107
     },
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"672ad9f2928228c198ed43e5ccb2ad62",
+    "wof:geomhash":"f22bff77a5d54105712500f382c02cc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404569757,
-    "wof:lastmodified":1598919279,
+    "wof:lastmodified":1684351738,
     "wof:name":"R\u00f6schenz",
     "wof:parent_id":102062757,
     "wof:placetype":"localadmin",
+    "wof:population":1863,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

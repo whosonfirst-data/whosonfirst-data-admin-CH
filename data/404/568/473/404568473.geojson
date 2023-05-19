@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6807",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Basse-Allaine",
+    "eurostat:nuts_2021_id":"CH6807",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6807",
+    "eurostat:population":1230,
+    "eurostat:population_year":2020,
     "geom:area":0.002748,
     "geom:area_square_m":22970380.792031,
     "geom:bbox":"6.99979,47.443666,7.075011,47.498442",
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063059,
-        85682347
+        85682347,
+        102063059
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6807",
+        "eurostat:nuts_2021_id":"CH6807",
         "gn:id":7285163,
         "gp:id":56071062,
         "qs_pg:id":106519
@@ -111,7 +127,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e0f10038bd47a7951b4b8894dbb1203",
+    "wof:geomhash":"f9398083184c9786f28972259ab5d252",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404568473,
-    "wof:lastmodified":1598919681,
+    "wof:lastmodified":1684351719,
     "wof:name":"Basse-Allaine",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
+    "wof:population":1230,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

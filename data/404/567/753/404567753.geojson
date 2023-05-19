@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3983",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Medel (Lucmagn)",
+    "eurostat:nuts_2021_id":"CH3983",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3983",
+    "eurostat:population":362,
+    "eurostat:population_year":2020,
     "geom:area":0.015999,
-    "geom:area_square_m":135870222.587401,
+    "geom:area_square_m":135870222.587386,
     "geom:bbox":"8.75040868796,46.5631293731,8.96909978532,46.6919410068",
     "geom:latitude":46.624191,
     "geom:longitude":8.855179,
@@ -61,6 +73,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -69,6 +83,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3983",
+        "eurostat:nuts_2021_id":"CH3983",
         "gn:id":7286467,
         "gp:id":12682704,
         "qs_pg:id":671455
@@ -78,7 +94,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6b056e06990b9acfbb23f10c44c56299",
+    "wof:geomhash":"b92d8c382ea4626d6a3afe6ebcab4073",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         }
     ],
     "wof:id":404567753,
-    "wof:lastmodified":1582222972,
+    "wof:lastmodified":1684351704,
     "wof:name":"Medel",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
+    "wof:population":362,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

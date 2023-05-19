@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0991",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Walliswil bei Wangen",
+    "eurostat:nuts_2021_id":"CH0991",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0991",
+    "eurostat:population":608,
+    "eurostat:population_year":2020,
     "geom:area":0.000365,
-    "geom:area_square_m":3063447.06679,
+    "geom:area_square_m":3063447.066791,
     "geom:bbox":"7.670513,47.214358,7.701738,47.23667",
     "geom:latitude":47.22708,
     "geom:longitude":7.683484,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0991",
+        "eurostat:nuts_2021_id":"CH0991",
         "gn:id":7287531,
         "gp:id":12685036,
         "qs_pg:id":1306498
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"118ea2813b9e74002dd0f42c78b102fc",
+    "wof:geomhash":"e1fc3807c3ede9ad8281da2b8eee23d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404572097,
-    "wof:lastmodified":1598919798,
+    "wof:lastmodified":1684351766,
     "wof:name":"Walliswil bei Wangen",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":608,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

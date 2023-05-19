@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3638",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Scharans",
+    "eurostat:nuts_2021_id":"CH3638",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3638",
+    "eurostat:population":789,
+    "eurostat:population_year":2020,
     "geom:area":0.001681,
-    "geom:area_square_m":14250040.319641,
+    "geom:area_square_m":14250040.319643,
     "geom:bbox":"9.451455,46.693444,9.513212,46.738532",
     "geom:latitude":46.718321,
     "geom:longitude":9.48251,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137069,
-        85682255
+        85682255,
+        1394137069
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3638",
+        "eurostat:nuts_2021_id":"CH3638",
         "gn:id":7287076,
         "gp:id":12684359,
         "qs_pg:id":43848
@@ -144,7 +160,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"349e383d45d4b3c0801a8721813a31f4",
+    "wof:geomhash":"893c5ab299b70ff5ee7d96a34b85633a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404568987,
-    "wof:lastmodified":1598919736,
+    "wof:lastmodified":1684351728,
     "wof:name":"Scharans",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
+    "wof:population":789,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

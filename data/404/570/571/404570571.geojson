@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4259",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schupfart",
+    "eurostat:nuts_2021_id":"CH4259",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4259",
+    "eurostat:population":808,
+    "eurostat:population_year":2020,
     "geom:area":0.000841,
     "geom:area_square_m":7026484.048786,
     "geom:bbox":"7.942144,47.491299,7.984022,47.529083",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062905,
-        85682329
+        85682329,
+        102062905
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4259",
+        "eurostat:nuts_2021_id":"CH4259",
         "gn:id":7287115,
         "gp:id":12684954,
         "qs_pg:id":1060894
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ab0c9d12560f62ec99667e9f48ececc",
+    "wof:geomhash":"967a80843f985ab41025806fbd0ce9c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404570571,
-    "wof:lastmodified":1598920710,
+    "wof:lastmodified":1684351748,
     "wof:name":"Schupfart",
     "wof:parent_id":102062905,
     "wof:placetype":"localadmin",
+    "wof:population":808,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

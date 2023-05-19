@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3764",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valsot",
+    "eurostat:nuts_2021_id":"CH3764",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3764",
+    "eurostat:population":855,
+    "eurostat:population_year":2020,
     "geom:area":0.018758,
-    "geom:area_square_m":158532516.130126,
+    "geom:area_square_m":158532516.130127,
     "geom:bbox":"10.2257167278,46.7882414395,10.489336671,46.9563759247",
     "geom:latitude":46.882441,
     "geom:longitude":10.396125,
@@ -51,6 +63,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -58,8 +72,12 @@
         1394137067
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3764",
+        "eurostat:nuts_2021_id":"CH3764"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"8e246dee09bd0806e59e92c502562091",
+    "wof:geomhash":"28ff60e9719dcc820581f13dc087ef89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +88,12 @@
         }
     ],
     "wof:id":1394254081,
-    "wof:lastmodified":1566640355,
+    "wof:lastmodified":1684351780,
     "wof:name":"Valsot",
     "wof:parent_id":1394137067,
     "wof:placetype":"localadmin",
+    "wof:population":855,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

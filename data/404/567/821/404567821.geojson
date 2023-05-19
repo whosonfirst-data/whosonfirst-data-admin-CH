@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6292",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Niklaus",
+    "eurostat:nuts_2021_id":"CH6292",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6292",
+    "eurostat:population":2239,
+    "eurostat:population_year":2020,
     "geom:area":0.010391,
-    "geom:area_square_m":89000300.98911,
+    "geom:area_square_m":89000300.989112,
     "geom:bbox":"7.73222754466,46.1090266682,7.88104127703,46.2134677273",
     "geom:latitude":46.157334,
     "geom:longitude":7.800456,
@@ -67,6 +79,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6292",
+        "eurostat:nuts_2021_id":"CH6292",
         "gn:id":7287246,
         "gp:id":12683582,
         "qs_pg:id":1047659
@@ -84,7 +100,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7ac6de3b524935f735b1ac186f1ff42c",
+    "wof:geomhash":"af3c50b4d6633b42ce8128f92792adc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404567821,
-    "wof:lastmodified":1582222974,
+    "wof:lastmodified":1684351705,
     "wof:name":"St. Niklaus",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",
+    "wof:population":2239,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

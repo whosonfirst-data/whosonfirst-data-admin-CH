@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brissago",
+    "eurostat:nuts_2021_id":"CH5097",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5097",
+    "eurostat:population":1737,
+    "eurostat:population_year":2020,
     "geom:area":0.002767,
     "geom:area_square_m":23716174.273026,
     "geom:bbox":"8.647813,46.097241,8.742309,46.150577",
@@ -114,14 +126,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062975,
-        85682269
+        85682269,
+        102062975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5097",
+        "eurostat:nuts_2021_id":"CH5097"
+    },
     "wof:coterminous":[
         101853213
     ],
@@ -129,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"65eeb39856b93bd4769927b6e6989836",
+    "wof:geomhash":"cba55a08644859d585c6ecd0a887ace3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +157,12 @@
         }
     ],
     "wof:id":404573575,
-    "wof:lastmodified":1598919936,
+    "wof:lastmodified":1684351775,
     "wof:name":"Brissago",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
+    "wof:population":1737,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3721",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bonaduz",
+    "eurostat:nuts_2021_id":"CH3721",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3721",
+    "eurostat:population":3331,
+    "eurostat:population_year":2020,
     "geom:area":0.001697,
-    "geom:area_square_m":14360171.24847,
+    "geom:area_square_m":14360171.248472,
     "geom:bbox":"9.330626,46.778806,9.416322,46.825415",
     "geom:latitude":46.805214,
     "geom:longitude":9.370986,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062839,
-        85682255
+        85682255,
+        102062839
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3721",
+        "eurostat:nuts_2021_id":"CH3721",
         "gn:id":7285286,
         "gp:id":12683005,
         "qs_pg:id":902543
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b6f79b16fd3e2bed7bb024bcd56be1f5",
+    "wof:geomhash":"959dce238406d3c363192a1b1e4e1ad5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404568975,
-    "wof:lastmodified":1598919759,
+    "wof:lastmodified":1684351728,
     "wof:name":"Bonaduz",
     "wof:parent_id":102062839,
     "wof:placetype":"localadmin",
+    "wof:population":3331,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6641",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Troinex",
+    "eurostat:nuts_2021_id":"CH6641",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6641",
+    "eurostat:population":2501,
+    "eurostat:population_year":2020,
     "geom:area":0.000399,
     "geom:area_square_m":3420818.281909,
     "geom:bbox":"6.138433,46.147148,6.175401,46.168859",
@@ -101,14 +113,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6641",
+        "eurostat:nuts_2021_id":"CH6641",
         "gn:id":7287338,
         "gp:id":12684521,
         "qs_pg:id":1309665
@@ -121,7 +137,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8a98855de4585ecf7e2de50947027a83",
+    "wof:geomhash":"ef37496ecf20ff5f1c72dc869e38bc2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404328781,
-    "wof:lastmodified":1598920487,
+    "wof:lastmodified":1684351700,
     "wof:name":"Troinex",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":2501,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0792",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lenk",
+    "eurostat:nuts_2021_id":"CH0792",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0792",
+    "eurostat:population":2345,
+    "eurostat:population_year":2020,
     "geom:area":0.014389,
-    "geom:area_square_m":122642302.878195,
+    "geom:area_square_m":122642302.878199,
     "geom:bbox":"7.37366397826,46.3651876439,7.55527356182,46.4970521124",
     "geom:latitude":46.425104,
     "geom:longitude":7.45646,
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0792",
+        "eurostat:nuts_2021_id":"CH0792",
         "gn:id":7286315,
         "gp:id":12683542,
         "qs_pg:id":224114
@@ -60,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"46f8ab4126a81d8fa001aa7a8e95504c",
+    "wof:geomhash":"bfdfeeb2c65a595f8f67e56aa3fdbba6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +87,12 @@
         }
     ],
     "wof:id":404567769,
-    "wof:lastmodified":1582222980,
+    "wof:lastmodified":1684351704,
     "wof:name":"Lenk",
     "wof:parent_id":102062821,
     "wof:placetype":"localadmin",
+    "wof:population":2345,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

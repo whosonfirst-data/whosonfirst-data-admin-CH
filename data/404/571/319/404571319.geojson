@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5914",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ependes (VD)",
+    "eurostat:nuts_2021_id":"CH5914",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5914",
+    "eurostat:population":358,
+    "eurostat:population_year":2020,
     "geom:area":0.000566,
     "geom:area_square_m":4798595.976255,
     "geom:bbox":"6.5775368295,46.7321811367,6.62264283577,46.7602109728",
@@ -43,6 +55,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -51,6 +65,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5914",
+        "eurostat:nuts_2021_id":"CH5914",
         "gn:id":7285740,
         "qs_pg:id":671295
     },
@@ -62,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7c563950c7b9553f32082fcce112bcd9",
+    "wof:geomhash":"a0e1cb2311656758e1cfab66d0e2bf2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404571319,
-    "wof:lastmodified":1582223066,
+    "wof:lastmodified":1684351757,
     "wof:name":"Ependes",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":358,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

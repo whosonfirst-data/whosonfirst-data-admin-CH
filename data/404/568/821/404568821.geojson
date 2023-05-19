@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5486",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"L'Isle",
+    "eurostat:nuts_2021_id":"CH5486",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5486",
+    "eurostat:population":1001,
+    "eurostat:population_year":2020,
     "geom:area":0.001905,
-    "geom:area_square_m":16180791.188155,
+    "geom:area_square_m":16180791.188154,
     "geom:bbox":"6.32996025027,46.6017519888,6.43876235444,46.6407004839",
     "geom:latitude":46.624429,
     "geom:longitude":6.393196,
@@ -91,6 +103,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5486",
+        "eurostat:nuts_2021_id":"CH5486",
         "gn:id":7287677,
         "gp:id":12683798,
         "qs_pg:id":671705
@@ -108,7 +124,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d0e9b484201f29084fff2173620f10a7",
+    "wof:geomhash":"a266c43604e0549935e4b4a7b4e33713",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404568821,
-    "wof:lastmodified":1582222996,
+    "wof:lastmodified":1684351725,
     "wof:name":"L'Isle",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":1001,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

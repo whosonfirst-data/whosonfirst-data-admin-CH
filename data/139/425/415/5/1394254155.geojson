@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0540",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jegenstorf",
+    "eurostat:nuts_2021_id":"CH0540",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0540",
+    "eurostat:population":5746,
+    "eurostat:population_year":2020,
     "geom:area":0.001597,
     "geom:area_square_m":13453731.639817,
     "geom:bbox":"7.44108102903,47.0349179834,7.53994576564,47.0789491841",
@@ -87,6 +99,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -94,8 +108,12 @@
         102062861
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0540",
+        "eurostat:nuts_2021_id":"CH0540"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"6b1c949a9ef858546c724bd231f936b5",
+    "wof:geomhash":"4389718ee37ac76be6bf180c6193a8bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +124,12 @@
         }
     ],
     "wof:id":1394254155,
-    "wof:lastmodified":1566640350,
+    "wof:lastmodified":1684351783,
     "wof:name":"Jegenstorf",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":5746,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

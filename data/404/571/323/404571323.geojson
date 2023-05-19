@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5624",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bussigny",
+    "eurostat:nuts_2021_id":"CH5624",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5624",
+    "eurostat:population":8736,
+    "eurostat:population_year":2020,
     "geom:area":0.000564,
     "geom:area_square_m":4797892.367085,
     "geom:bbox":"6.52693959025,46.5391889742,6.56764101244,46.5637112124",
@@ -56,6 +68,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -64,6 +78,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5624",
+        "eurostat:nuts_2021_id":"CH5624",
         "gp:id":12683109,
         "qs_pg:id":241238
     },
@@ -75,7 +91,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"30a2316dd7a17bc4b3d22843171ef217",
+    "wof:geomhash":"9dc2fc6f51d195153f1afe09310bb886",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,10 +102,12 @@
         }
     ],
     "wof:id":404571323,
-    "wof:lastmodified":1582223054,
+    "wof:lastmodified":1684351757,
     "wof:name":"Bussigny",
     "wof:parent_id":102062829,
     "wof:placetype":"localadmin",
+    "wof:population":8736,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

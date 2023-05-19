@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0160",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zumikon",
+    "eurostat:nuts_2021_id":"CH0160",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0160",
+    "eurostat:population":5284,
+    "eurostat:population_year":2020,
     "geom:area":0.000652,
     "geom:area_square_m":5465676.725582,
     "geom:bbox":"8.602785,47.321736,8.646232,47.35002",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062769,
-        85682309
+        85682309,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0160",
+        "eurostat:nuts_2021_id":"CH0160",
         "gn:id":7287647,
         "gp:id":12684608,
         "qs_pg:id":671700
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"814fb6a3845cd713f09b2569718a83aa",
+    "wof:geomhash":"b6dd15f645b4896adcd05a68bd71b027",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404571095,
-    "wof:lastmodified":1598920192,
+    "wof:lastmodified":1684351754,
     "wof:name":"Zumikon",
     "wof:parent_id":102062769,
     "wof:placetype":"localadmin",
+    "wof:population":5284,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

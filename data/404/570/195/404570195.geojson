@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5477",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cossonay",
+    "eurostat:nuts_2021_id":"CH5477",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5477",
+    "eurostat:population":3876,
+    "eurostat:population_year":2020,
     "geom:area":0.000973,
     "geom:area_square_m":8262188.953599,
     "geom:bbox":"6.481705,46.593123,6.522714,46.632121",
@@ -127,14 +139,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5477",
+        "eurostat:nuts_2021_id":"CH5477",
         "gn:id":7285570,
         "gp:id":12683247,
         "qs_pg:id":394345
@@ -144,7 +160,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09c03a5e32cf852c91a4706e7c58af9f",
+    "wof:geomhash":"9381b4eb56aa0fa78d2ee7c8ef16e3c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404570195,
-    "wof:lastmodified":1598920520,
+    "wof:lastmodified":1684351743,
     "wof:name":"Cossonay",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":3876,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

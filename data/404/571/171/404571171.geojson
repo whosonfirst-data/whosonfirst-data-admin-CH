@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buchs (AG)",
+    "eurostat:nuts_2021_id":"CH4003",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4003",
+    "eurostat:population":7966,
+    "eurostat:population_year":2020,
     "geom:area":0.000634,
-    "geom:area_square_m":5306714.985206,
+    "geom:area_square_m":5306714.985207,
     "geom:bbox":"8.063621,47.380462,8.116605,47.405574",
     "geom:latitude":47.393747,
     "geom:longitude":8.087928,
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062989,
-        85682329
+        85682329,
+        102062989
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4003",
+        "eurostat:nuts_2021_id":"CH4003",
         "gn:id":7285371,
         "gp:id":12683076,
         "qs_pg:id":1314162
@@ -114,7 +130,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5fad6c2b08a778d729e39378b2b70712",
+    "wof:geomhash":"0cc5d22199c86ad8e9f276feb084e0f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404571171,
-    "wof:lastmodified":1598920246,
+    "wof:lastmodified":1684351755,
     "wof:name":"Buchs",
     "wof:parent_id":102062989,
     "wof:placetype":"localadmin",
+    "wof:population":7966,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

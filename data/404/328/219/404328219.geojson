@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reiden",
+    "eurostat:nuts_2021_id":"CH1140",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1140",
+    "eurostat:population":7132,
+    "eurostat:population_year":2020,
     "geom:area":0.003211,
-    "geom:area_square_m":26959100.080816,
+    "geom:area_square_m":26959100.080814,
     "geom:bbox":"7.909994,47.19639,8.017525,47.262179",
     "geom:latitude":47.232623,
     "geom:longitude":7.962595,
@@ -114,14 +126,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137075,
-        85682319
+        85682319,
+        1394137075
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1140",
+        "eurostat:nuts_2021_id":"CH1140",
         "gn:id":7286874,
         "gp:id":12684246,
         "qs_pg:id":1019898
@@ -131,7 +147,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d860d72945e8d46f428a3bb55362b9c8",
+    "wof:geomhash":"608be2721d6f207949e629ec66c84d39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404328219,
-    "wof:lastmodified":1598920302,
+    "wof:lastmodified":1684351692,
     "wof:name":"Reiden",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",
+    "wof:population":7132,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

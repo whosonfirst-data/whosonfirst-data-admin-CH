@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5745",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baulmes",
+    "eurostat:nuts_2021_id":"CH5745",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5745",
+    "eurostat:population":1027,
+    "eurostat:population_year":2020,
     "geom:area":0.002651,
-    "geom:area_square_m":22443644.636327,
+    "geom:area_square_m":22443644.636325,
     "geom:bbox":"6.434792,46.767468,6.552135,46.809942",
     "geom:latitude":46.787634,
     "geom:longitude":6.499449,
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5745",
+        "eurostat:nuts_2021_id":"CH5745",
         "gn:id":7285170,
         "gp:id":12682916,
         "qs_pg:id":1154227
@@ -114,7 +130,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9cd82896fa0938bdac6d11873ad71dc6",
+    "wof:geomhash":"a2ce7b4e8a786df7b190c66fefbbad6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404568497,
-    "wof:lastmodified":1598919544,
+    "wof:lastmodified":1684351719,
     "wof:name":"Baulmes",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":1027,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3932",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tschiertschen-Praden",
+    "eurostat:nuts_2021_id":"CH3932",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3932",
+    "eurostat:population":305,
+    "eurostat:population_year":2020,
     "geom:area":0.003269,
-    "geom:area_square_m":27672509.75288,
+    "geom:area_square_m":27672509.752876,
     "geom:bbox":"9.563594,46.758736,9.640853,46.834047",
     "geom:latitude":46.799427,
     "geom:longitude":9.601061,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063001,
-        85682255
+        85682255,
+        102063001
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3932",
+        "eurostat:nuts_2021_id":"CH3932",
         "gn:id":7287346,
         "gp:id":56071066,
         "qs_pg:id":1206441
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e20e705566cf08b01341c23f5d023c5e",
+    "wof:geomhash":"24584f5b3ec33587e7efab8ffdde4124",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404568323,
-    "wof:lastmodified":1598919588,
+    "wof:lastmodified":1684351716,
     "wof:name":"Tschiertschen-Praden",
     "wof:parent_id":102063001,
     "wof:placetype":"localadmin",
+    "wof:population":305,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fischenthal",
+    "eurostat:nuts_2021_id":"CH0114",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0114",
+    "eurostat:population":2501,
+    "eurostat:population_year":2020,
     "geom:area":0.003599,
-    "geom:area_square_m":30157555.172656,
+    "geom:area_square_m":30157555.17266,
     "geom:bbox":"8.88847347034,47.3071208811,8.98494100672,47.3758435493",
     "geom:latitude":47.336636,
     "geom:longitude":8.941263,
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -126,6 +140,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0114",
+        "eurostat:nuts_2021_id":"CH0114",
         "gn:id":7285830,
         "gp:id":12683468,
         "qs_pg:id":233493
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d47f5c677f29da3c2782939dc0a12dc3",
+    "wof:geomhash":"739b85d15785d4c46bf917c90501f8eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404568281,
-    "wof:lastmodified":1582222997,
+    "wof:lastmodified":1684351715,
     "wof:name":"Fischenthal",
     "wof:parent_id":102062967,
     "wof:placetype":"localadmin",
+    "wof:population":2501,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

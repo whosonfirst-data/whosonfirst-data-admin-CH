@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2284",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mont-Vully",
+    "eurostat:nuts_2021_id":"CH2284",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2284",
+    "eurostat:population":3819,
+    "eurostat:population_year":2020,
     "geom:area":0.002876,
-    "geom:area_square_m":24272488.34713,
+    "geom:area_square_m":24272488.347131,
     "geom:bbox":"7.04016407251,46.9247068844,7.15070793509,46.9848977548",
     "geom:latitude":46.958517,
     "geom:longitude":7.092879,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -52,8 +66,12 @@
         102062765
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2284",
+        "eurostat:nuts_2021_id":"CH2284"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"1f5f9ab428c52e3576cad914e1c9b13f",
+    "wof:geomhash":"6c5eb21f437bdb764f8077edbddc30f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +82,12 @@
         }
     ],
     "wof:id":1394254213,
-    "wof:lastmodified":1566640364,
+    "wof:lastmodified":1684351784,
     "wof:name":"Mont-Vully",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
+    "wof:population":3819,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

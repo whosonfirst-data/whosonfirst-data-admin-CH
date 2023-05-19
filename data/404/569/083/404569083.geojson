@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2338",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Verrerie",
+    "eurostat:nuts_2021_id":"CH2338",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2338",
+    "eurostat:population":1188,
+    "eurostat:population_year":2020,
     "geom:area":0.001577,
-    "geom:area_square_m":13397806.367868,
+    "geom:area_square_m":13397806.367867,
     "geom:bbox":"6.889154,46.5727,6.952083,46.618954",
     "geom:latitude":46.599534,
     "geom:longitude":6.920272,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063025,
-        85682301
+        85682301,
+        102063025
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2338",
+        "eurostat:nuts_2021_id":"CH2338",
         "gp:id":28997174,
         "qs_pg:id":1176208
     },
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e808f4d0bdb4155360807111ea64ddf5",
+    "wof:geomhash":"b4e10c00d4f696729fc6a739e529a2c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404569083,
-    "wof:lastmodified":1598919183,
+    "wof:lastmodified":1684351730,
     "wof:name":"La Verrerie",
     "wof:parent_id":102063025,
     "wof:placetype":"localadmin",
+    "wof:population":1188,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2833",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seltisberg",
+    "eurostat:nuts_2021_id":"CH2833",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2833",
+    "eurostat:population":1301,
+    "eurostat:population_year":2020,
     "geom:area":0.000425,
-    "geom:area_square_m":3553187.864714,
+    "geom:area_square_m":3553187.864715,
     "geom:bbox":"7.698627,47.451113,7.736456,47.470459",
     "geom:latitude":47.461994,
     "geom:longitude":7.715637,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062929,
-        85682361
+        85682361,
+        102062929
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2833",
+        "eurostat:nuts_2021_id":"CH2833",
         "gn:id":7287143,
         "gp:id":12684394,
         "qs_pg:id":500398
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"787b62eedb5d7ffe9f505a21001c0f77",
+    "wof:geomhash":"f1611edc8f3e5a2ac7393a4c5381732a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571893,
-    "wof:lastmodified":1598920085,
+    "wof:lastmodified":1684351764,
     "wof:name":"Seltisberg",
     "wof:parent_id":102062929,
     "wof:placetype":"localadmin",
+    "wof:population":1301,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

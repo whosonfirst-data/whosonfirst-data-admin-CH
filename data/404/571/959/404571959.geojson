@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Birrwil",
+    "eurostat:nuts_2021_id":"CH4132",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4132",
+    "eurostat:population":1167,
+    "eurostat:population_year":2020,
     "geom:area":0.000658,
-    "geom:area_square_m":5515390.337889,
+    "geom:area_square_m":5515390.33789,
     "geom:bbox":"8.178542,47.279383,8.21656,47.308551",
     "geom:latitude":47.291916,
     "geom:longitude":8.198094,
@@ -113,14 +125,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062983,
-        85682329
+        85682329,
+        102062983
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4132",
+        "eurostat:nuts_2021_id":"CH4132",
         "gn:id":7285258,
         "gp:id":12682981,
         "qs_pg:id":1196185
@@ -133,7 +149,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ccb9d2a7ca917094f5a2737200bd0dd0",
+    "wof:geomhash":"3be18f4a2801db07f3d9e308c7731d98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404571959,
-    "wof:lastmodified":1598920133,
+    "wof:lastmodified":1684351765,
     "wof:name":"Birrwil",
     "wof:parent_id":102062983,
     "wof:placetype":"localadmin",
+    "wof:population":1167,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

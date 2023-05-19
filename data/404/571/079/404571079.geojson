@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2147",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pont-la-Ville",
+    "eurostat:nuts_2021_id":"CH2147",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2147",
+    "eurostat:population":601,
+    "eurostat:population_year":2020,
     "geom:area":0.000648,
-    "geom:area_square_m":5495786.905459,
+    "geom:area_square_m":5495786.90546,
     "geom:bbox":"7.09368839009,46.6853042196,7.12841682658,46.7205136374",
     "geom:latitude":46.702619,
     "geom:longitude":7.111697,
@@ -67,6 +79,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2147",
+        "eurostat:nuts_2021_id":"CH2147",
         "gp:id":12683381,
         "qs_pg:id":248273
     },
@@ -86,7 +102,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b9b34001420ba5666fa482f554946078",
+    "wof:geomhash":"d3b6b84287f8f32c7cb48e42ff6905de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":404571079,
-    "wof:lastmodified":1582223048,
+    "wof:lastmodified":1684351754,
     "wof:name":"Pont-la-Ville",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",
+    "wof:population":601,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

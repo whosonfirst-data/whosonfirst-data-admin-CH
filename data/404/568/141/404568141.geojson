@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3834",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roveredo (GR)",
+    "eurostat:nuts_2021_id":"CH3834",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3834",
+    "eurostat:population":2520,
+    "eurostat:population_year":2020,
     "geom:area":0.004522,
-    "geom:area_square_m":38694237.370865,
+    "geom:area_square_m":38694237.370864,
     "geom:bbox":"9.087774,46.169158,9.20229,46.250872",
     "geom:latitude":46.208061,
     "geom:longitude":9.150977,
@@ -127,14 +139,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062903,
-        85682255
+        85682255,
+        102062903
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3834",
+        "eurostat:nuts_2021_id":"CH3834",
         "gn:id":7286965,
         "gp:id":12684011,
         "qs_pg:id":671559
@@ -147,7 +163,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5dccaaab58ee7eda1832d7ee9ba4a7c9",
+    "wof:geomhash":"1c9830eb42ce96c1e5deea43edfa16f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404568141,
-    "wof:lastmodified":1598919742,
+    "wof:lastmodified":1684351712,
     "wof:name":"Roveredo",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
+    "wof:population":2520,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

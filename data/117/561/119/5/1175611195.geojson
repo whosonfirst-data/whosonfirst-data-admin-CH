@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1126",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ebersecken",
+    "eurostat:nuts_2021_id":"CH1126",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1126",
+    "eurostat:population":378,
+    "eurostat:population_year":2020,
     "geom:area":0.001016,
-    "geom:area_square_m":8538536.005002,
+    "geom:area_square_m":8538536.005001,
     "geom:bbox":"7.913347,47.159226,7.968972,47.198429",
     "geom:latitude":47.180251,
     "geom:longitude":7.938846,
@@ -116,14 +128,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137075,
-        85682319
+        85682319,
+        1394137075
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1126",
+        "eurostat:nuts_2021_id":"CH1126",
         "gp:id":12685057,
         "qs_pg:id":1250144
     },
@@ -134,7 +150,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4839a30c8fbf4d3fddd57953f1b561dc",
+    "wof:geomhash":"153e9c8d979e90a0272afe279f6d3fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":1175611195,
-    "wof:lastmodified":1598916365,
+    "wof:lastmodified":1684351776,
     "wof:name":"Ebersecken",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",
+    "wof:population":378,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

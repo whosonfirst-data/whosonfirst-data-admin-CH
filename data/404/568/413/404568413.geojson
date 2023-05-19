@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1341",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Altendorf",
+    "eurostat:nuts_2021_id":"CH1341",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1341",
+    "eurostat:population":7083,
+    "eurostat:population_year":2020,
     "geom:area":0.002914,
-    "geom:area_square_m":24495726.595668,
+    "geom:area_square_m":24495726.595664,
     "geom:bbox":"8.79386539826,47.1293495782,8.85716941619,47.2144187349",
     "geom:latitude":47.176292,
     "geom:longitude":8.827783,
@@ -103,6 +115,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -111,6 +125,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1341",
+        "eurostat:nuts_2021_id":"CH1341",
         "gn:id":7285058,
         "gp:id":12682784,
         "qs_pg:id":1196178
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6d0f6fd25c048c98fdc82ebaacd0e68e",
+    "wof:geomhash":"785d33fd15b594d7232613afebba96e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404568413,
-    "wof:lastmodified":1582222995,
+    "wof:lastmodified":1684351718,
     "wof:name":"Altendorf",
     "wof:parent_id":102062927,
     "wof:placetype":"localadmin",
+    "wof:population":7083,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

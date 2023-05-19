@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5610",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saint-Saphorin (Lavaux)",
+    "eurostat:nuts_2021_id":"CH5610",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5610",
+    "eurostat:population":392,
+    "eurostat:population_year":2020,
     "geom:area":0.000104,
     "geom:area_square_m":882686.180769,
     "geom:bbox":"6.78501450218,46.4720693516,6.79996366245,46.4895736706",
@@ -91,6 +103,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5610",
+        "eurostat:nuts_2021_id":"CH5610",
         "gn:id":7287037,
         "qs_pg:id":106670
     },
@@ -110,7 +126,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fd2ea806daa0801e62324a2f714d7349",
+    "wof:geomhash":"f850c718b91e6fbf9892f2b67a7e7b75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":404573449,
-    "wof:lastmodified":1582223036,
+    "wof:lastmodified":1684351774,
     "wof:name":"Saint-Saphorin",
     "wof:parent_id":102063047,
     "wof:placetype":"localadmin",
+    "wof:population":392,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

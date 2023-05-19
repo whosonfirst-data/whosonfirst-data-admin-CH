@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2792",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wahlen",
+    "eurostat:nuts_2021_id":"CH2792",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2792",
+    "eurostat:population":1462,
+    "eurostat:population_year":2020,
     "geom:area":0.000644,
     "geom:area_square_m":5392842.609614,
     "geom:bbox":"7.489566,47.384493,7.531244,47.413997",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062757,
-        85682361
+        85682361,
+        102062757
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2792",
+        "eurostat:nuts_2021_id":"CH2792",
         "gn:id":7287515,
         "gp:id":12684595,
         "qs_pg:id":43940
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"37f8908588814d2595a98bfdd8966c99",
+    "wof:geomhash":"9cf10dacf51b6e13183049135226986b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571135,
-    "wof:lastmodified":1598919997,
+    "wof:lastmodified":1684351755,
     "wof:name":"Wahlen",
     "wof:parent_id":102062757,
     "wof:placetype":"localadmin",
+    "wof:population":1462,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

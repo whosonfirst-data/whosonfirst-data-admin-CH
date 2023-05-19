@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pollegio",
+    "eurostat:nuts_2021_id":"CH5077",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5077",
+    "eurostat:population":800,
+    "eurostat:population_year":2020,
     "geom:area":0.000697,
-    "geom:area_square_m":5944111.797102,
+    "geom:area_square_m":5944111.797101,
     "geom:bbox":"8.927157,46.35601,8.966342,46.388713",
     "geom:latitude":46.370921,
     "geom:longitude":8.945626,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062931,
-        85682269
+        85682269,
+        102062931
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5077",
+        "eurostat:nuts_2021_id":"CH5077",
         "gp:id":12685187,
         "qs_pg:id":249119
     },
@@ -122,7 +138,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"65edd4cd851dcfb877568f53547619ee",
+    "wof:geomhash":"a151757d4abac907b200b64bd54ad334",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404570945,
-    "wof:lastmodified":1598920724,
+    "wof:lastmodified":1684351752,
     "wof:name":"Pollegio",
     "wof:parent_id":102062931,
     "wof:placetype":"localadmin",
+    "wof:population":800,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

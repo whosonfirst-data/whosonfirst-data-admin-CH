@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6800",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porrentruy",
+    "eurostat:nuts_2021_id":"CH6800",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6800",
+    "eurostat:population":6678,
+    "eurostat:population_year":2020,
     "geom:area":0.001759,
     "geom:area_square_m":14720274.118023,
     "geom:bbox":"7.024245,47.400389,7.106585,47.440832",
@@ -148,14 +160,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063059,
-        85682347
+        85682347,
+        102063059
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6800",
+        "eurostat:nuts_2021_id":"CH6800",
         "gn:id":7286819,
         "gp:id":12684212,
         "qs_pg:id":106652
@@ -168,7 +184,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e182896251f886b685f1768bd1da52d7",
+    "wof:geomhash":"a4adf45bf5287558693f36151823bfd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404568941,
-    "wof:lastmodified":1598919583,
+    "wof:lastmodified":1684351728,
     "wof:name":"Porrentruy",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
+    "wof:population":6678,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

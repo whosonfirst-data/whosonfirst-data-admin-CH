@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2933",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Buchberg",
+    "eurostat:nuts_2021_id":"CH2933",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2933",
+    "eurostat:population":866,
+    "eurostat:population_year":2020,
     "geom:area":0.0007,
-    "geom:area_square_m":5842670.026077,
+    "geom:area_square_m":5842670.026078,
     "geom:bbox":"8.53354864058,47.5523609096,8.59425188164,47.6000590595",
     "geom:latitude":47.57475,
     "geom:longitude":8.554079,
@@ -71,6 +83,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -78,12 +92,15 @@
         1394137119
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2933",
+        "eurostat:nuts_2021_id":"CH2933"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0802b3b824115e686234efcd449eef43",
+    "wof:geomhash":"dc2a274f256b3ae55337cd7a6055b401",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +111,12 @@
         }
     ],
     "wof:id":404328931,
-    "wof:lastmodified":1582223068,
+    "wof:lastmodified":1684351702,
     "wof:name":"Buchberg",
     "wof:parent_id":1394137119,
     "wof:placetype":"localadmin",
+    "wof:population":866,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

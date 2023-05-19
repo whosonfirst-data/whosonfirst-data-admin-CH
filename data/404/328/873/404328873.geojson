@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2584",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Starrkirch-Wil",
+    "eurostat:nuts_2021_id":"CH2584",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2584",
+    "eurostat:population":1714,
+    "eurostat:population_year":2020,
     "geom:area":0.00022,
-    "geom:area_square_m":1839796.065696,
+    "geom:area_square_m":1839796.065695,
     "geom:bbox":"7.915828,47.333036,7.934546,47.356857",
     "geom:latitude":47.343041,
     "geom:longitude":7.927096,
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137091,
-        85682365
+        85682365,
+        1394137091
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2584",
+        "eurostat:nuts_2021_id":"CH2584",
         "gn:id":7287221,
         "gp:id":12685226,
         "qs_pg:id":885885
@@ -128,7 +144,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9b7cceab56c7a39109b6b0f5670255b1",
+    "wof:geomhash":"d45e0fddda591c5654796bc11fb78424",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328873,
-    "wof:lastmodified":1598920299,
+    "wof:lastmodified":1684351701,
     "wof:name":"Starrkirch-Wil",
     "wof:parent_id":1394137091,
     "wof:placetype":"localadmin",
+    "wof:population":1714,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

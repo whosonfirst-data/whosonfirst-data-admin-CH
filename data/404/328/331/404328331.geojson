@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rothenburg",
+    "eurostat:nuts_2021_id":"CH1040",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1040",
+    "eurostat:population":7617,
+    "eurostat:population_year":2020,
     "geom:area":0.001836,
-    "geom:area_square_m":15453693.859726,
+    "geom:area_square_m":15453693.859725,
     "geom:bbox":"8.2295565953,47.0850513857,8.31107026525,47.1238516888",
     "geom:latitude":47.104735,
     "geom:longitude":8.263516,
@@ -126,6 +138,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -134,6 +148,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1040",
+        "eurostat:nuts_2021_id":"CH1040",
         "gn:id":7286959,
         "gp:id":12684303,
         "qs_pg:id":1197362
@@ -146,7 +162,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d03fbdc7e6e991d5f925756bc0840ae1",
+    "wof:geomhash":"cfbc1e61251d999be1f85ac309c0d5f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +173,12 @@
         }
     ],
     "wof:id":404328331,
-    "wof:lastmodified":1582223069,
+    "wof:lastmodified":1684351694,
     "wof:name":"Rothenburg",
     "wof:parent_id":1394137081,
     "wof:placetype":"localadmin",
+    "wof:population":7617,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

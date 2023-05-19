@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3722",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Domat/Ems",
+    "eurostat:nuts_2021_id":"CH3722",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3722",
+    "eurostat:population":8038,
+    "eurostat:population_year":2020,
     "geom:area":0.002855,
     "geom:area_square_m":24154590.444181,
     "geom:bbox":"9.406163,46.79472,9.497473,46.844995",
@@ -133,14 +145,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062839,
-        85682255
+        85682255,
+        102062839
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3722",
+        "eurostat:nuts_2021_id":"CH3722",
         "gn:id":7285659,
         "gp:id":12683317,
         "qs_pg:id":1102287
@@ -153,7 +169,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e8fc01669182dbf0b0879b77f4400427",
+    "wof:geomhash":"16b2edda86fde5fb9988705b9bd3bc89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404568425,
-    "wof:lastmodified":1598919509,
+    "wof:lastmodified":1684351718,
     "wof:name":"Domat/Ems",
     "wof:parent_id":102062839,
     "wof:placetype":"localadmin",
+    "wof:population":8038,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

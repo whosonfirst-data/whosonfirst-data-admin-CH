@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6287",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Randa",
+    "eurostat:nuts_2021_id":"CH6287",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6287",
+    "eurostat:population":435,
+    "eurostat:population_year":2020,
     "geom:area":0.006342,
-    "geom:area_square_m":54380885.535287,
+    "geom:area_square_m":54380885.535289,
     "geom:bbox":"7.689552,46.06479,7.868638,46.126001",
     "geom:latitude":46.097057,
     "geom:longitude":7.779283,
@@ -73,14 +85,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062859,
-        85682281
+        85682281,
+        102062859
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6287",
+        "eurostat:nuts_2021_id":"CH6287",
         "gn:id":7286855,
         "gp:id":12684233,
         "qs_pg:id":671527
@@ -93,7 +109,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1e5bb8196c3663382d1560dd6fd89890",
+    "wof:geomhash":"07c79e5e42eb5f36a7519f7b51ff9e55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404567963,
-    "wof:lastmodified":1598919379,
+    "wof:lastmodified":1684351708,
     "wof:name":"Randa",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",
+    "wof:population":435,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

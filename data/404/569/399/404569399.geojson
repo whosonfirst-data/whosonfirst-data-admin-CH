@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6781",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coeuve",
+    "eurostat:nuts_2021_id":"CH6781",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6781",
+    "eurostat:population":734,
+    "eurostat:population_year":2020,
     "geom:area":0.001386,
     "geom:area_square_m":11589562.663034,
     "geom:bbox":"7.068568,47.433839,7.123727,47.467601",
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063059,
-        85682347
+        85682347,
+        102063059
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6781",
+        "eurostat:nuts_2021_id":"CH6781",
         "gn:id":7285522,
         "gp:id":12683211,
         "qs_pg:id":1143458
@@ -117,7 +133,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"620bfc731c26174a088d98813f38bf3e",
+    "wof:geomhash":"3d9289ba141b9530118116d997727bcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404569399,
-    "wof:lastmodified":1598919163,
+    "wof:lastmodified":1684351734,
     "wof:name":"Coeuve",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
+    "wof:population":734,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

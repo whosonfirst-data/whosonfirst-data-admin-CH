@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1374",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Steinerberg",
+    "eurostat:nuts_2021_id":"CH1374",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1374",
+    "eurostat:population":946,
+    "eurostat:population_year":2020,
     "geom:area":0.00082,
-    "geom:area_square_m":6902386.524518,
+    "geom:area_square_m":6902386.524517,
     "geom:bbox":"8.563263,47.045892,8.597143,47.085681",
     "geom:latitude":47.067408,
     "geom:longitude":8.581133,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062887,
-        85682305
+        85682305,
+        102062887
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1374",
+        "eurostat:nuts_2021_id":"CH1374",
         "gn:id":7287231,
         "gp:id":12684461,
         "qs_pg:id":223859
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c4249760ffec29eb146c6e8098ecc0fa",
+    "wof:geomhash":"78c6c6b067f962f8a9e7797f0d3a66ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404570611,
-    "wof:lastmodified":1598920565,
+    "wof:lastmodified":1684351748,
     "wof:name":"Steinerberg",
     "wof:parent_id":102062887,
     "wof:placetype":"localadmin",
+    "wof:population":946,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3640",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sils im Domleschg",
+    "eurostat:nuts_2021_id":"CH3640",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3640",
+    "eurostat:population":943,
+    "eurostat:population_year":2020,
     "geom:area":0.001092,
-    "geom:area_square_m":9258383.883029,
+    "geom:area_square_m":9258383.883028,
     "geom:bbox":"9.442103,46.669513,9.501926,46.711798",
     "geom:latitude":46.690794,
     "geom:longitude":9.464966,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137069,
-        85682255
+        85682255,
+        1394137069
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3640",
+        "eurostat:nuts_2021_id":"CH3640",
         "gn:id":7287172,
         "gp:id":12684409,
         "qs_pg:id":500397
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"730d363ed7f606753606cdaf4fcb0c8b",
+    "wof:geomhash":"03c6b223099f173e3e98af4032418c5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404569949,
-    "wof:lastmodified":1598919251,
+    "wof:lastmodified":1684351740,
     "wof:name":"Sils im Domleschg",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
+    "wof:population":943,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

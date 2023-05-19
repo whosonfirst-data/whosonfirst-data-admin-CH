@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4061",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arni (AG)",
+    "eurostat:nuts_2021_id":"CH4061",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4061",
+    "eurostat:population":1845,
+    "eurostat:population_year":2020,
     "geom:area":0.000401,
-    "geom:area_square_m":3363638.796102,
+    "geom:area_square_m":3363638.7961,
     "geom:bbox":"8.40661553582,47.3011530559,8.43620913485,47.329719832",
     "geom:latitude":47.31698,
     "geom:longitude":8.422279,
@@ -79,6 +91,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -87,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4061",
+        "eurostat:nuts_2021_id":"CH4061",
         "gn:id":7285099,
         "gp:id":12685090,
         "qs_pg:id":44089
@@ -99,7 +115,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3da7d0db5b8802906f9569170c9348a7",
+    "wof:geomhash":"46005bc6228f657196290ad5824022db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +126,12 @@
         }
     ],
     "wof:id":404571979,
-    "wof:lastmodified":1582223054,
+    "wof:lastmodified":1684351765,
     "wof:name":"Arni",
     "wof:parent_id":102062877,
     "wof:placetype":"localadmin",
+    "wof:population":1845,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2846",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gelterkinden",
+    "eurostat:nuts_2021_id":"CH2846",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2846",
+    "eurostat:population":6200,
+    "eurostat:population_year":2020,
     "geom:area":0.001167,
-    "geom:area_square_m":9754575.451531,
+    "geom:area_square_m":9754575.451532,
     "geom:bbox":"7.836938,47.434056,7.883181,47.478884",
     "geom:latitude":47.4569,
     "geom:longitude":7.858497,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062819,
-        85682361
+        85682361,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2846",
+        "eurostat:nuts_2021_id":"CH2846",
         "gn:id":7285897,
         "gp:id":12683527,
         "qs_pg:id":431167
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6ed3ea33b95d96cf4640b2a9355ffe35",
+    "wof:geomhash":"f544020f552dcddf34ef9db2fcdd340c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404569811,
-    "wof:lastmodified":1598919178,
+    "wof:lastmodified":1684351739,
     "wof:name":"Gelterkinden",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",
+    "wof:population":6200,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

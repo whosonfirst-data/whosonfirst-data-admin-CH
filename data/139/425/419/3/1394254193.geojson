@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Estavayer",
+    "eurostat:nuts_2021_id":"CH2054",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2054",
+    "eurostat:population":9716,
+    "eurostat:population_year":2020,
     "geom:area":0.008076,
-    "geom:area_square_m":68299102.656556,
+    "geom:area_square_m":68299102.656557,
     "geom:bbox":"6.74870378796,46.7173689404,6.93062736483,46.9095716459",
     "geom:latitude":46.843915,
     "geom:longitude":6.846199,
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -52,8 +66,12 @@
         102062945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2054",
+        "eurostat:nuts_2021_id":"CH2054"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"53663adcf0e24c73bfdcf89d4a01290d",
+    "wof:geomhash":"a664557649d8703bf630557caaa5c4c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +82,12 @@
         }
     ],
     "wof:id":1394254193,
-    "wof:lastmodified":1566640362,
+    "wof:lastmodified":1684351784,
     "wof:name":"Estavayer",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",
+    "wof:population":9716,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

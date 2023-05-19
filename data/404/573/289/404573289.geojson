@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2822",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Augst",
+    "eurostat:nuts_2021_id":"CH2822",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2822",
+    "eurostat:population":1024,
+    "eurostat:population_year":2020,
     "geom:area":0.000197,
     "geom:area_square_m":1648859.839942,
     "geom:bbox":"7.686821,47.522671,7.734284,47.539639",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062929,
-        85682361
+        85682361,
+        102062929
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2822",
+        "eurostat:nuts_2021_id":"CH2822",
         "gn:id":7285117,
         "gp:id":12682854,
         "qs_pg:id":538413
@@ -141,7 +157,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"884b47392176a71d4a34aa26391e4544",
+    "wof:geomhash":"c0ce1ae5f7d0516abdd70b1557b252fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404573289,
-    "wof:lastmodified":1598919901,
+    "wof:lastmodified":1684351773,
     "wof:name":"Augst",
     "wof:parent_id":102062929,
     "wof:placetype":"localadmin",
+    "wof:population":1024,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

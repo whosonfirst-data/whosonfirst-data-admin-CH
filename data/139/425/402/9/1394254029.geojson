@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0296",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Illnau-Effretikon",
+    "eurostat:nuts_2021_id":"CH0296",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0296",
+    "eurostat:population":17068,
+    "eurostat:population_year":2020,
     "geom:area":0.003923,
-    "geom:area_square_m":32814255.318244,
+    "geom:area_square_m":32814255.318245,
     "geom:bbox":"8.67083414349,47.3937578886,8.77428689285,47.4688044724",
     "geom:latitude":47.429797,
     "geom:longitude":8.723585,
@@ -117,6 +129,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -124,8 +138,12 @@
         102062779
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0296",
+        "eurostat:nuts_2021_id":"CH0296"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"266849272f15d309b7252963116576ee",
+    "wof:geomhash":"b66f438f0c30beccc6aba20f6ad803c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +154,12 @@
         }
     ],
     "wof:id":1394254029,
-    "wof:lastmodified":1566640373,
+    "wof:lastmodified":1684351779,
     "wof:name":"Illnau-Effretikon",
     "wof:parent_id":102062779,
     "wof:placetype":"localadmin",
+    "wof:population":17068,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4426",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kesswil",
+    "eurostat:nuts_2021_id":"CH4426",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4426",
+    "eurostat:population":992,
+    "eurostat:population_year":2020,
     "geom:area":0.000535,
-    "geom:area_square_m":4461160.262764,
+    "geom:area_square_m":4461160.262765,
     "geom:bbox":"9.297554,47.572649,9.331583,47.60115",
     "geom:latitude":47.587606,
     "geom:longitude":9.313007,
@@ -142,14 +154,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062959,
-        85682337
+        85682337,
+        102062959
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4426",
+        "eurostat:nuts_2021_id":"CH4426",
         "gn:id":7286189,
         "gp:id":12683763,
         "qs_pg:id":1310936
@@ -159,7 +175,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4858272fa9c633dc0cec3fa6187a02bc",
+    "wof:geomhash":"0fe4e82317e3586d522a82785ca97a2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +186,12 @@
         }
     ],
     "wof:id":404571471,
-    "wof:lastmodified":1598920032,
+    "wof:lastmodified":1684351759,
     "wof:name":"Kesswil",
     "wof:parent_id":102062959,
     "wof:placetype":"localadmin",
+    "wof:population":992,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

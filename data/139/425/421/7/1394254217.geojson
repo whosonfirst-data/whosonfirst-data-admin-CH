@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6253",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Crans-Montana",
+    "eurostat:nuts_2021_id":"CH6253",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6253",
+    "eurostat:population":10449,
+    "eurostat:population_year":2020,
     "geom:area":0.006969,
-    "geom:area_square_m":59499498.094434,
+    "geom:area_square_m":59499498.094438,
     "geom:bbox":"7.45877484283,46.272177221,7.58016863868,46.3889826137",
     "geom:latitude":46.334232,
     "geom:longitude":7.517231,
@@ -81,6 +93,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -88,8 +102,12 @@
         102062793
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6253",
+        "eurostat:nuts_2021_id":"CH6253"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"ecf764a665fcd9c95022981e2bd8d0c7",
+    "wof:geomhash":"f1992dbc6ea1bb2783ca157ce4adc23f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +118,12 @@
         }
     ],
     "wof:id":1394254217,
-    "wof:lastmodified":1566640363,
+    "wof:lastmodified":1684351784,
     "wof:name":"Crans-Montana",
     "wof:parent_id":102062793,
     "wof:placetype":"localadmin",
+    "wof:population":10449,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

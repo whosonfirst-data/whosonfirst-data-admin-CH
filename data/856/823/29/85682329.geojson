@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Aargau",
+    "eurostat:name_local":"Aargau",
+    "eurostat:nuts_2021_id":"CH033",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:population":703086,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"1",
     "geom:area":0.167284,
-    "geom:area_square_m":1399850275.389683,
+    "geom:area_square_m":1399850275.389741,
     "geom:bbox":"7.713521,47.13748,8.4551,47.621079",
     "geom:latitude":47.409897,
     "geom:longitude":8.156874,
@@ -467,8 +481,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"1,405",
     "statoids:area_mi":"542",
     "statoids:as_of_date":"2010-12-31",
@@ -489,6 +503,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":10151,
+        "eurostat:nuts_2021_id":"CH033",
         "fips:code":"SZ01",
         "gn:id":2661876,
         "gp:id":2347083,
@@ -500,7 +515,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"29bfa4a7b449ffd37f562705c5ae3a32",
+    "wof:geomhash":"a805aaef339604a9875333d4f3d9a8ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -522,12 +537,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1614896082,
+    "wof:lastmodified":1684351501,
     "wof:name":"Aargau",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":611466,
+    "wof:population":703086,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"AG",

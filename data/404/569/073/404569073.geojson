@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4234",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Merenschwand",
+    "eurostat:nuts_2021_id":"CH4234",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4234",
+    "eurostat:population":3549,
+    "eurostat:population_year":2020,
     "geom:area":0.001605,
     "geom:area_square_m":13469356.765481,
     "geom:bbox":"8.350785,47.237266,8.410962,47.286493",
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062809,
-        85682329
+        85682329,
+        102062809
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4234",
+        "eurostat:nuts_2021_id":"CH4234",
         "gn:id":7286488,
         "gp:id":12683972,
         "qs_pg:id":1197265
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dc128712db77360ecdef7b4013cedd6b",
+    "wof:geomhash":"5ecc5ff653d3875ed501ab35c6213b7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404569073,
-    "wof:lastmodified":1598919290,
+    "wof:lastmodified":1684351730,
     "wof:name":"Merenschwand",
     "wof:parent_id":102062809,
     "wof:placetype":"localadmin",
+    "wof:population":3549,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

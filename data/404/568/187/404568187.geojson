@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ernen",
+    "eurostat:nuts_2021_id":"CH6056",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6056",
+    "eurostat:population":492,
+    "eurostat:population_year":2020,
     "geom:area":0.004137,
     "geom:area_square_m":35278399.339362,
     "geom:bbox":"8.101975,46.368838,8.269923,46.432517",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063031,
-        85682281
+        85682281,
+        102063031
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6056",
+        "eurostat:nuts_2021_id":"CH6056",
         "gn:id":7285758,
         "gp:id":12682716,
         "qs_pg:id":671302
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"59aac6bc7d8fe24363339e20875dcbb8",
+    "wof:geomhash":"e93c98ab8156d0ed7e08928add0599ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404568187,
-    "wof:lastmodified":1598919575,
+    "wof:lastmodified":1684351714,
     "wof:name":"Ernen",
     "wof:parent_id":102063031,
     "wof:placetype":"localadmin",
+    "wof:population":492,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

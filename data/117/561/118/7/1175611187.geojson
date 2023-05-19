@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6758",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saint-Brais",
+    "eurostat:nuts_2021_id":"CH6758",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6758",
+    "eurostat:population":220,
+    "eurostat:population_year":2020,
     "geom:area":0.001803,
-    "geom:area_square_m":15115515.549257,
+    "geom:area_square_m":15115515.549259,
     "geom:bbox":"7.071248,47.281864,7.156398,47.33579",
     "geom:latitude":47.308785,
     "geom:longitude":7.118722,
@@ -96,14 +108,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062875,
-        85682347
+        85682347,
+        102062875
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6758",
+        "eurostat:nuts_2021_id":"CH6758",
         "gn:id":7287023,
         "qs_pg:id":671579
     },
@@ -114,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"98cc4e19cba3413d326f22fd38c69e94",
+    "wof:geomhash":"781af8a0bc8acd95fdb89df4e0fe5a49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":1175611187,
-    "wof:lastmodified":1598916353,
+    "wof:lastmodified":1684351775,
     "wof:name":"Saint-Brais",
     "wof:parent_id":102062875,
     "wof:placetype":"localadmin",
+    "wof:population":220,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

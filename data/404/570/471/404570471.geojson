@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2761",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aesch (BL)",
+    "eurostat:nuts_2021_id":"CH2761",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2761",
+    "eurostat:population":10352,
+    "eurostat:population_year":2020,
     "geom:area":0.000882,
     "geom:area_square_m":7374348.527343,
     "geom:bbox":"7.55932,47.460693,7.608851,47.488325",
@@ -85,14 +97,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062971,
-        85682361
+        85682361,
+        102062971
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2761",
+        "eurostat:nuts_2021_id":"CH2761",
         "gn:id":7285027,
         "gp:id":12682718,
         "qs_pg:id":235839
@@ -105,7 +121,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8b47fd2110ad6592bb167e3c6dffefdd",
+    "wof:geomhash":"d04bc414b4c38d0d07ad95643313b981",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404570471,
-    "wof:lastmodified":1598920542,
+    "wof:lastmodified":1684351746,
     "wof:name":"Aesch",
     "wof:parent_id":102062971,
     "wof:placetype":"localadmin",
+    "wof:population":10352,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

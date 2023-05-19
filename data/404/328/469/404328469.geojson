@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6620",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dardagny",
+    "eurostat:nuts_2021_id":"CH6620",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6620",
+    "eurostat:population":1864,
+    "eurostat:population_year":2020,
     "geom:area":0.001002,
     "geom:area_square_m":8575794.141786,
     "geom:bbox":"5.963737,46.175343,6.010291,46.22296",
@@ -107,14 +119,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6620",
+        "eurostat:nuts_2021_id":"CH6620",
         "gn:id":7285624,
         "gp:id":12683291,
         "qs_pg:id":43430
@@ -127,7 +143,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b6d0f7a7bdc9e2145148370f3ac0a00b",
+    "wof:geomhash":"7c2adb968fd019fe2e841cf4eecac489",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404328469,
-    "wof:lastmodified":1598920453,
+    "wof:lastmodified":1684351696,
     "wof:name":"Dardagny",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":1864,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

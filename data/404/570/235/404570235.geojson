@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Winkel",
+    "eurostat:nuts_2021_id":"CH0072",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0072",
+    "eurostat:population":4518,
+    "eurostat:population_year":2020,
     "geom:area":0.000968,
     "geom:area_square_m":8090055.662579,
     "geom:bbox":"8.53667676917,47.4649309852,8.58007300008,47.5115867543",
@@ -106,6 +118,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -114,6 +128,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0072",
+        "eurostat:nuts_2021_id":"CH0072",
         "gn:id":7287590,
         "gp:id":12685110,
         "qs_pg:id":246645
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e330bb6e55a85ce51a1ae4dc17e6ba3e",
+    "wof:geomhash":"945185d0a4d13da560f108abee223a14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570235,
-    "wof:lastmodified":1582223098,
+    "wof:lastmodified":1684351744,
     "wof:name":"Winkel",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",
+    "wof:population":4518,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

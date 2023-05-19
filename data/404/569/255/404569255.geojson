@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4476",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Erlen",
+    "eurostat:nuts_2021_id":"CH4476",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4476",
+    "eurostat:population":3750,
+    "eurostat:population_year":2020,
     "geom:area":0.001457,
-    "geom:area_square_m":12157153.500248,
+    "geom:area_square_m":12157153.500252,
     "geom:bbox":"9.198977,47.529142,9.265408,47.575544",
     "geom:latitude":47.550975,
     "geom:longitude":9.236017,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062955,
-        85682337
+        85682337,
+        102062955
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4476",
+        "eurostat:nuts_2021_id":"CH4476",
         "gn:id":7285751,
         "gp:id":12683403,
         "qs_pg:id":1154255
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"463f646b27b4f7bf3bc2a279e796cc87",
+    "wof:geomhash":"73446de435f98318d4341ac7cdeb294e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404569255,
-    "wof:lastmodified":1598919342,
+    "wof:lastmodified":1684351732,
     "wof:name":"Erlen",
     "wof:parent_id":102062955,
     "wof:placetype":"localadmin",
+    "wof:population":3750,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5761",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Romainm\u00f4tier-Envy",
+    "eurostat:nuts_2021_id":"CH5761",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5761",
+    "eurostat:population":539,
+    "eurostat:population_year":2020,
     "geom:area":0.00082,
-    "geom:area_square_m":6959176.501618,
+    "geom:area_square_m":6959176.501617,
     "geom:bbox":"6.426155,46.662029,6.484657,46.703051",
     "geom:latitude":46.687475,
     "geom:longitude":6.461586,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5761",
+        "eurostat:nuts_2021_id":"CH5761",
         "gn:id":7286936,
         "gp:id":12684286,
         "qs_pg:id":671549
@@ -114,7 +130,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3a8348d8b1d03ba70047d010cf62f47d",
+    "wof:geomhash":"319b83c9084eb8c402715eb2fc932b51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404570587,
-    "wof:lastmodified":1598920624,
+    "wof:lastmodified":1684351748,
     "wof:name":"Romainm\u00f4tier-Envy",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":539,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

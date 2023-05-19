@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Ursen",
+    "eurostat:nuts_2021_id":"CH2304",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2304",
+    "eurostat:population":1345,
+    "eurostat:population_year":2020,
     "geom:area":0.001852,
-    "geom:area_square_m":15676549.464418,
+    "geom:area_square_m":15676549.464417,
     "geom:bbox":"7.175557,46.768141,7.274452,46.807706",
     "geom:latitude":46.786821,
     "geom:longitude":7.224355,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062891,
-        85682301
+        85682301,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2304",
+        "eurostat:nuts_2021_id":"CH2304",
         "gp:id":12682725,
         "qs_pg:id":1117483
     },
@@ -125,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3855b20396e4a48348c476ddff4faf23",
+    "wof:geomhash":"66c35a61c2ff08d06770c2bb665bb8f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404568853,
-    "wof:lastmodified":1598919705,
+    "wof:lastmodified":1684351726,
     "wof:name":"St. Ursen",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",
+    "wof:population":1345,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

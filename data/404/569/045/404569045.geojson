@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6778",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bure",
+    "eurostat:nuts_2021_id":"CH6778",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6778",
+    "eurostat:population":659,
+    "eurostat:population_year":2020,
     "geom:area":0.001632,
-    "geom:area_square_m":13646013.682104,
+    "geom:area_square_m":13646013.682105,
     "geom:bbox":"6.9637086489,47.4174005377,7.02685685362,47.4619152656",
     "geom:latitude":47.438377,
     "geom:longitude":6.996938,
@@ -94,6 +106,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -102,6 +116,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6778",
+        "eurostat:nuts_2021_id":"CH6778",
         "gn:id":7285386,
         "gp:id":12683091,
         "qs_pg:id":241239
@@ -114,7 +130,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"217fbf7ca0a9a0d827bce1cf6f92ce6d",
+    "wof:geomhash":"e58d5d9fd0e760c7249338e3a7d5d8b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404569045,
-    "wof:lastmodified":1582222961,
+    "wof:lastmodified":1684351729,
     "wof:name":"Bure",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
+    "wof:population":659,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

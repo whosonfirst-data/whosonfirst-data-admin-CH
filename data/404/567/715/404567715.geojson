@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3847",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Val M\u00fcstair",
+    "eurostat:nuts_2021_id":"CH3847",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3847",
+    "eurostat:population":1460,
+    "eurostat:population_year":2020,
     "geom:area":0.023322,
-    "geom:area_square_m":198137681.647323,
+    "geom:area_square_m":198137681.647324,
     "geom:bbox":"10.2382742067,46.5306823383,10.4921579776,46.6905590826",
     "geom:latitude":46.602498,
     "geom:longitude":10.362622,
@@ -106,6 +118,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -114,6 +128,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3847",
+        "eurostat:nuts_2021_id":"CH3847",
         "gn:id":7287413,
         "gp:id":56071071,
         "qs_pg:id":1206459
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"59c6cf06c6dd3542b7790a2dc264cd23",
+    "wof:geomhash":"11955cbd6a1cd2330a81c48b08638191",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404567715,
-    "wof:lastmodified":1582222978,
+    "wof:lastmodified":1684351703,
     "wof:name":"Val M\u00fcstair",
     "wof:parent_id":1394137067,
     "wof:placetype":"localadmin",
+    "wof:population":1460,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

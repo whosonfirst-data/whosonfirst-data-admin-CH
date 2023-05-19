@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tafers",
+    "eurostat:nuts_2021_id":"CH2306",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2306",
+    "eurostat:population":3450,
+    "eurostat:population_year":2020,
     "geom:area":0.000992,
-    "geom:area_square_m":8396098.126493,
+    "geom:area_square_m":8396098.126492,
     "geom:bbox":"7.180569,46.802108,7.255425,46.831644",
     "geom:latitude":46.816289,
     "geom:longitude":7.221038,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062891,
-        85682301
+        85682301,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2306",
+        "eurostat:nuts_2021_id":"CH2306",
         "gn:id":7287273,
         "gp:id":12684476,
         "qs_pg:id":1001328
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e9e99f1eab9ed24e48adff0ad9f840ca",
+    "wof:geomhash":"a1c7ed6635bb2209ca32a25a4bed5000",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570161,
-    "wof:lastmodified":1598920520,
+    "wof:lastmodified":1684351743,
     "wof:name":"Tafers",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",
+    "wof:population":3450,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

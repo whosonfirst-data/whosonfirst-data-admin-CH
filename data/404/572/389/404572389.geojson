@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Killwangen",
+    "eurostat:nuts_2021_id":"CH4030",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4030",
+    "eurostat:population":2074,
+    "eurostat:population_year":2020,
     "geom:area":0.00029,
     "geom:area_square_m":2427034.66588,
     "geom:bbox":"8.329058,47.417798,8.35986,47.437121",
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062843,
-        85682329
+        85682329,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4030",
+        "eurostat:nuts_2021_id":"CH4030",
         "gn:id":7286196,
         "gp:id":12683766,
         "qs_pg:id":1026151
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"f43995736dcb62d862f2437cd72c72e2",
+    "wof:geomhash":"81f8f7ccdfe4dda042a7100d49bf49c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404572389,
-    "wof:lastmodified":1598919862,
+    "wof:lastmodified":1684351769,
     "wof:name":"Killwangen",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
+    "wof:population":2074,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

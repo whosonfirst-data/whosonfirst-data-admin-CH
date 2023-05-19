@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6416",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Milvignes",
+    "eurostat:nuts_2021_id":"CH6416",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6416",
+    "eurostat:population":8977,
+    "eurostat:population_year":2020,
     "geom:area":0.001046,
     "geom:area_square_m":8824016.604967,
     "geom:bbox":"6.82084387026,46.9559157267,6.89464396731,46.9841208491",
@@ -63,14 +75,20 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
         85682359
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6416",
+        "eurostat:nuts_2021_id":"CH6416"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"ae0005f6b63b74a17f7194b94211b7ce",
+    "wof:geomhash":"bda4aa74f67f603ff4e53ac9f8a7173e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +98,12 @@
         }
     ],
     "wof:id":1394254113,
-    "wof:lastmodified":1566640367,
+    "wof:lastmodified":1684351781,
     "wof:name":"Milvignes",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":8977,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

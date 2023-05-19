@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1059",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kriens",
+    "eurostat:nuts_2021_id":"CH1059",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1059",
+    "eurostat:population":27444,
+    "eurostat:population_year":2020,
     "geom:area":0.00323,
-    "geom:area_square_m":27228907.073914,
+    "geom:area_square_m":27228907.073913,
     "geom:bbox":"8.210921,46.986015,8.305256,47.046743",
     "geom:latitude":47.020755,
     "geom:longitude":8.258852,
@@ -150,14 +162,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137079,
-        85682319
+        85682319,
+        1394137079
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1059",
+        "eurostat:nuts_2021_id":"CH1059",
         "gn:id":7286225,
         "gp:id":12683708,
         "qs_pg:id":1078613
@@ -167,7 +183,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"03dada62fe3165d307e39d0aa4418a60",
+    "wof:geomhash":"624fec192bab7c0bb802b324c8fe818e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,10 +194,12 @@
         }
     ],
     "wof:id":404328217,
-    "wof:lastmodified":1598920304,
+    "wof:lastmodified":1684351692,
     "wof:name":"Kriens",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",
+    "wof:population":27444,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

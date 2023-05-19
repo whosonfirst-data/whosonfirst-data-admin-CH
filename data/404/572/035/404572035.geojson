@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2292",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Br\u00fcnisried",
+    "eurostat:nuts_2021_id":"CH2292",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2292",
+    "eurostat:population":645,
+    "eurostat:population_year":2020,
     "geom:area":0.000382,
-    "geom:area_square_m":3238845.323285,
+    "geom:area_square_m":3238845.323286,
     "geom:bbox":"7.264117,46.745748,7.291959,46.768913",
     "geom:latitude":46.757337,
     "geom:longitude":7.276392,
@@ -103,6 +115,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -111,6 +125,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2292",
+        "eurostat:nuts_2021_id":"CH2292",
         "gp:id":12684204,
         "qs_pg:id":61971
     },
@@ -122,7 +138,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cbce00279b7ef2d0b26dc7e2cb918975",
+    "wof:geomhash":"bde5e80dd5f2886cd18059431128f180",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404572035,
-    "wof:lastmodified":1617131276,
+    "wof:lastmodified":1684351766,
     "wof:name":"Br\u00fcnisried",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",
+    "wof:population":645,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5712",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coppet",
+    "eurostat:nuts_2021_id":"CH5712",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5712",
+    "eurostat:population":3146,
+    "eurostat:population_year":2020,
     "geom:area":0.000218,
-    "geom:area_square_m":1862151.898178,
+    "geom:area_square_m":1862151.898179,
     "geom:bbox":"6.178192,46.310657,6.200146,46.330472",
     "geom:latitude":46.321333,
     "geom:longitude":6.189066,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5712",
+        "eurostat:nuts_2021_id":"CH5712",
         "gn:id":7285545,
         "gp:id":12683232,
         "qs_pg:id":106555
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fc3a7495747e0a58c5d078c74a051e8c",
+    "wof:geomhash":"0f15bc2e1841847fb4a63808e54a08ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404573203,
-    "wof:lastmodified":1598919916,
+    "wof:lastmodified":1684351772,
     "wof:name":"Coppet",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":3146,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

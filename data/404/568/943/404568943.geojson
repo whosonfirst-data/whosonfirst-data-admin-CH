@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0433",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cort\u00e9bert",
+    "eurostat:nuts_2021_id":"CH0433",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0433",
+    "eurostat:population":705,
+    "eurostat:population_year":2020,
     "geom:area":0.001751,
-    "geom:area_square_m":14717175.172252,
+    "geom:area_square_m":14717175.172253,
     "geom:bbox":"7.085819,47.144728,7.139418,47.208348",
     "geom:latitude":47.175721,
     "geom:longitude":7.111124,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062865,
-        85682381
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0433",
+        "eurostat:nuts_2021_id":"CH0433",
         "gp:id":12684865,
         "qs_pg:id":898661
     },
@@ -119,7 +135,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e84415b3d19c18fd8c687eadd7c0b7ef",
+    "wof:geomhash":"93ea7dfa856bdd710798eb9bf5bf6512",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404568943,
-    "wof:lastmodified":1598919757,
+    "wof:lastmodified":1684351728,
     "wof:name":"Cort\u00e9bert",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":705,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

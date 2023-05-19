@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5828",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Treytorrens (Payerne)",
+    "eurostat:nuts_2021_id":"CH5828",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5828",
+    "eurostat:population":120,
+    "eurostat:population_year":2020,
     "geom:area":0.000362,
     "geom:area_square_m":3065780.191363,
     "geom:bbox":"6.788837,46.761549,6.818665,46.785641",
@@ -87,14 +99,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062969,
-        85682325
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5828",
+        "eurostat:nuts_2021_id":"CH5828"
+    },
     "wof:coterminous":[
         1293914055
     ],
@@ -102,7 +119,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"31779bbef5c371d792a5c0847267a7a3",
+    "wof:geomhash":"44aee6f89126247e0e4b24a34e393ec1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +130,12 @@
         }
     ],
     "wof:id":404572091,
-    "wof:lastmodified":1598919787,
+    "wof:lastmodified":1684351766,
     "wof:name":"Treytorrens",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":120,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

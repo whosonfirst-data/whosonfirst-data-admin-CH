@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5421",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Apples",
+    "eurostat:nuts_2021_id":"CH5421",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5421",
+    "eurostat:population":1468,
+    "eurostat:population_year":2020,
     "geom:area":0.001511,
-    "geom:area_square_m":12851499.232728,
+    "geom:area_square_m":12851499.232727,
     "geom:bbox":"6.38715192664,46.5315676184,6.44685424011,46.5792034494",
     "geom:latitude":46.554994,
     "geom:longitude":6.416584,
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5421",
+        "eurostat:nuts_2021_id":"CH5421",
         "gn:id":7285085,
         "gp:id":12682806,
         "qs_pg:id":671160
@@ -60,7 +76,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a0221e5b7b527fb6ce5ce4e462a123a0",
+    "wof:geomhash":"0cfbe009b4c1c7573f50c9c2975aabb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +87,12 @@
         }
     ],
     "wof:id":404569145,
-    "wof:lastmodified":1582222955,
+    "wof:lastmodified":1684351731,
     "wof:name":"Apples",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":1468,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

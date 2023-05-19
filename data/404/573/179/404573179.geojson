@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0244",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Geroldswil",
+    "eurostat:nuts_2021_id":"CH0244",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0244",
+    "eurostat:population":4958,
+    "eurostat:population_year":2020,
     "geom:area":0.00023,
-    "geom:area_square_m":1927849.559665,
+    "geom:area_square_m":1927849.559666,
     "geom:bbox":"8.402228,47.410145,8.42299,47.429823",
     "geom:latitude":47.420678,
     "geom:longitude":8.411927,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062893,
-        85682309
+        85682309,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0244",
+        "eurostat:nuts_2021_id":"CH0244",
         "gn:id":7285906,
         "gp:id":12685095,
         "qs_pg:id":1112606
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7d845874ec98503a05e76555e073ac1b",
+    "wof:geomhash":"2cc2aac329e518b336e04c51a0c2916c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404573179,
-    "wof:lastmodified":1598919989,
+    "wof:lastmodified":1684351771,
     "wof:name":"Geroldswil",
     "wof:parent_id":102062893,
     "wof:placetype":"localadmin",
+    "wof:population":4958,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

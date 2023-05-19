@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerentino",
+    "eurostat:nuts_2021_id":"CH5309",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5309",
+    "eurostat:population":45,
+    "eurostat:population_year":2020,
     "geom:area":0.002347,
-    "geom:area_square_m":20044704.902714,
+    "geom:area_square_m":20044704.902715,
     "geom:bbox":"8.501379,46.278467,8.574975,46.342709",
     "geom:latitude":46.309907,
     "geom:longitude":8.543908,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062957,
-        85682269
+        85682269,
+        102062957
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5309",
+        "eurostat:nuts_2021_id":"CH5309",
         "gn:id":7285453,
         "gp:id":12683152,
         "qs_pg:id":538547
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"977f8d3ee0324e464ea7999d4876a7a9",
+    "wof:geomhash":"b6ab1089215f7497ee16d3dbe8539ad7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404568599,
-    "wof:lastmodified":1598919630,
+    "wof:lastmodified":1684351721,
     "wof:name":"Cerentino",
     "wof:parent_id":102062957,
     "wof:placetype":"localadmin",
+    "wof:population":45,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

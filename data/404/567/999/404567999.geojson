@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3732",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Flims",
+    "eurostat:nuts_2021_id":"CH3732",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3732",
+    "eurostat:population":2836,
+    "eurostat:population_year":2020,
     "geom:area":0.005958,
-    "geom:area_square_m":50373713.677674,
+    "geom:area_square_m":50373713.677667,
     "geom:bbox":"9.213032,46.806202,9.341502,46.91627",
     "geom:latitude":46.8589,
     "geom:longitude":9.276138,
@@ -127,14 +139,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062839,
-        85682255
+        85682255,
+        102062839
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3732",
+        "eurostat:nuts_2021_id":"CH3732",
         "gn:id":7285840,
         "gp:id":12683459,
         "qs_pg:id":1197112
@@ -144,7 +160,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"75ab7329720e61aad61fe053eb539a8d",
+    "wof:geomhash":"3445f9101374ad40e69b81c1a166dccd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":404567999,
-    "wof:lastmodified":1598919381,
+    "wof:lastmodified":1684351709,
     "wof:name":"Flims",
     "wof:parent_id":102062839,
     "wof:placetype":"localadmin",
+    "wof:population":2836,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

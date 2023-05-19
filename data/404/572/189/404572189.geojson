@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4136",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Holziken",
+    "eurostat:nuts_2021_id":"CH4136",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4136",
+    "eurostat:population":1454,
+    "eurostat:population_year":2020,
     "geom:area":0.00034,
     "geom:area_square_m":2852551.184263,
     "geom:bbox":"8.022153,47.30809,8.044587,47.330709",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062983,
-        85682329
+        85682329,
+        102062983
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4136",
+        "eurostat:nuts_2021_id":"CH4136",
         "gp:id":12685236,
         "qs_pg:id":1018972
     },
@@ -131,7 +147,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7319874709fed7e2395f416eeabf2673",
+    "wof:geomhash":"eb0f3808e0b5ac165d33d6a2e5de9dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404572189,
-    "wof:lastmodified":1598919804,
+    "wof:lastmodified":1684351767,
     "wof:name":"Holziken",
     "wof:parent_id":102062983,
     "wof:placetype":"localadmin",
+    "wof:population":1454,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

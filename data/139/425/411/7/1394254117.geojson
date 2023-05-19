@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6077",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Goms",
+    "eurostat:nuts_2021_id":"CH6077",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6077",
+    "eurostat:population":1216,
+    "eurostat:population_year":2020,
     "geom:area":0.015177,
-    "geom:area_square_m":129252150.501835,
+    "geom:area_square_m":129252150.501836,
     "geom:bbox":"8.16079054632,46.4080389805,8.35583835243,46.5295877693",
     "geom:latitude":46.469398,
     "geom:longitude":8.246397,
@@ -33,6 +45,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -40,8 +54,12 @@
         102063031
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6077",
+        "eurostat:nuts_2021_id":"CH6077"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"c14f0fa1fef7ef1fa91293114e9ba514",
+    "wof:geomhash":"6c645f1a5493a4841b3ec1308e2b5dfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,10 +70,12 @@
         }
     ],
     "wof:id":1394254117,
-    "wof:lastmodified":1566640367,
+    "wof:lastmodified":1684351781,
     "wof:name":"Goms",
     "wof:parent_id":102063031,
     "wof:placetype":"localadmin",
+    "wof:population":1216,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

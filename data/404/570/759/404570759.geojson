@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0339",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rohrbachgraben",
+    "eurostat:nuts_2021_id":"CH0339",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0339",
+    "eurostat:population":404,
+    "eurostat:population_year":2020,
     "geom:area":0.000766,
-    "geom:area_square_m":6446742.767281,
+    "geom:area_square_m":6446742.76728,
     "geom:bbox":"7.785572,47.095636,7.824911,47.130074",
     "geom:latitude":47.113091,
     "geom:longitude":7.8029,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0339",
+        "eurostat:nuts_2021_id":"CH0339",
         "gn:id":7286933,
         "qs_pg:id":106666
     },
@@ -128,7 +144,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"37706d5deebce84d88e27c53418e906e",
+    "wof:geomhash":"5305cd0425c8c86f52ebee21619c268f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404570759,
-    "wof:lastmodified":1598920657,
+    "wof:lastmodified":1684351750,
     "wof:name":"Rohrbachgraben",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":404,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

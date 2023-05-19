@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6290",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saas-Fee",
+    "eurostat:nuts_2021_id":"CH6290",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6290",
+    "eurostat:population":1564,
+    "eurostat:population_year":2020,
     "geom:area":0.004688,
-    "geom:area_square_m":40204033.163369,
+    "geom:area_square_m":40204033.163368,
     "geom:bbox":"7.857209,46.046081,7.945382,46.12525",
     "geom:latitude":46.089126,
     "geom:longitude":7.899248,
@@ -142,14 +154,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062859,
-        85682281
+        85682281,
+        102062859
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6290",
+        "eurostat:nuts_2021_id":"CH6290",
         "gn:id":7287008,
         "qs_pg:id":1154300
     },
@@ -161,7 +177,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"018e4d3f62d0f8bfbb823f6eae58f10b",
+    "wof:geomhash":"a9de4832d7c29bdeae37d0a9848911dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +188,12 @@
         }
     ],
     "wof:id":404568115,
-    "wof:lastmodified":1598919726,
+    "wof:lastmodified":1684351712,
     "wof:name":"Saas-Fee",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",
+    "wof:population":1564,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gampel-Bratsch",
+    "eurostat:nuts_2021_id":"CH6118",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6118",
+    "eurostat:population":1955,
+    "eurostat:population_year":2020,
     "geom:area":0.002691,
-    "geom:area_square_m":22977015.975436,
+    "geom:area_square_m":22977015.975434,
     "geom:bbox":"7.697289,46.305924,7.758148,46.368372",
     "geom:latitude":46.337348,
     "geom:longitude":7.727623,
@@ -94,6 +106,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -102,6 +116,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6118",
+        "eurostat:nuts_2021_id":"CH6118",
         "gn:id":7285889,
         "gp:id":56071065,
         "qs_pg:id":671337
@@ -111,7 +127,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"403a3b3384dba2ceb241d221c950441b",
+    "wof:geomhash":"c0001d294da6da33a9f204e96c657ffa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404568475,
-    "wof:lastmodified":1617130360,
+    "wof:lastmodified":1684351719,
     "wof:name":"Gampel-Bratsch",
     "wof:parent_id":102062761,
     "wof:placetype":"localadmin",
+    "wof:population":1955,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

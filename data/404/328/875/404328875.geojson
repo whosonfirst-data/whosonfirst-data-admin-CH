@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2574",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eppenberg-W\u00f6schnau",
+    "eurostat:nuts_2021_id":"CH2574",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2574",
+    "eurostat:population":330,
+    "eurostat:population_year":2020,
     "geom:area":0.000216,
     "geom:area_square_m":1806542.023199,
     "geom:bbox":"8.016634,47.367428,8.031367,47.393215",
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137091,
-        85682365
+        85682365,
+        1394137091
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2574",
+        "eurostat:nuts_2021_id":"CH2574",
         "gn:id":7285742,
         "gp:id":20075520,
         "qs_pg:id":910007
@@ -125,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"323389019468dcb0f7443f9992087edc",
+    "wof:geomhash":"7cabf8b78d545d1d1957c1cd70e85caf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404328875,
-    "wof:lastmodified":1598920312,
+    "wof:lastmodified":1684351701,
     "wof:name":"Eppenberg-W\u00f6schnau",
     "wof:parent_id":1394137091,
     "wof:placetype":"localadmin",
+    "wof:population":330,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

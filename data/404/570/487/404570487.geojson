@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2889",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lauwil",
+    "eurostat:nuts_2021_id":"CH2889",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2889",
+    "eurostat:population":326,
+    "eurostat:population_year":2020,
     "geom:area":0.000869,
     "geom:area_square_m":7275091.020188,
     "geom:bbox":"7.64104,47.367208,7.688004,47.398721",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062911,
-        85682361
+        85682361,
+        102062911
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2889",
+        "eurostat:nuts_2021_id":"CH2889",
         "gp:id":12685199,
         "qs_pg:id":235883
     },
@@ -137,7 +153,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48994395ce0a710d961b28d4b693dd86",
+    "wof:geomhash":"4d820cdff8ce4eb3997370b4b906032c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +164,12 @@
         }
     ],
     "wof:id":404570487,
-    "wof:lastmodified":1598920675,
+    "wof:lastmodified":1684351747,
     "wof:name":"Lauwil",
     "wof:parent_id":102062911,
     "wof:placetype":"localadmin",
+    "wof:population":326,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

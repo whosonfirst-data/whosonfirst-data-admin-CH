@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6750",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lajoux (JU)",
+    "eurostat:nuts_2021_id":"CH6750",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6750",
+    "eurostat:population":673,
+    "eurostat:population_year":2020,
     "geom:area":0.001472,
-    "geom:area_square_m":12351891.281204,
+    "geom:area_square_m":12351891.281203,
     "geom:bbox":"7.09988290629,47.2619930311,7.1702491064,47.2946155307",
     "geom:latitude":47.27916,
     "geom:longitude":7.133856,
@@ -72,6 +84,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -79,7 +93,10 @@
         102062875
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6750",
+        "eurostat:nuts_2021_id":"CH6750"
+    },
     "wof:coterminous":[
         1125903725
     ],
@@ -87,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d5d3a12952a9fc4bf697703227f68dc3",
+    "wof:geomhash":"0a57a062b5a475e971d5eb386731c46f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +115,12 @@
         }
     ],
     "wof:id":404569221,
-    "wof:lastmodified":1582222950,
+    "wof:lastmodified":1684351732,
     "wof:name":"Lajoux",
     "wof:parent_id":102062875,
     "wof:placetype":"localadmin",
+    "wof:population":673,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

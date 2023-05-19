@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6177",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grengiols",
+    "eurostat:nuts_2021_id":"CH6177",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6177",
+    "eurostat:population":424,
+    "eurostat:population_year":2020,
     "geom:area":0.006837,
-    "geom:area_square_m":58366909.909592,
+    "geom:area_square_m":58366909.909589,
     "geom:bbox":"8.066427,46.295887,8.206018,46.385254",
     "geom:latitude":46.340278,
     "geom:longitude":8.136963,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063037,
-        85682281
+        85682281,
+        102063037
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6177",
+        "eurostat:nuts_2021_id":"CH6177",
         "gn:id":7285975,
         "gp:id":12683599,
         "qs_pg:id":671360
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"57b843a68fb08265c49cbb955f59effc",
+    "wof:geomhash":"d70a259e278aa0e23783e79336dc154b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404567933,
-    "wof:lastmodified":1598919427,
+    "wof:lastmodified":1684351708,
     "wof:name":"Grengiols",
     "wof:parent_id":102063037,
     "wof:placetype":"localadmin",
+    "wof:population":424,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

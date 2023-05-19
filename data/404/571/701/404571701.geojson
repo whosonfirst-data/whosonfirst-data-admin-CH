@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2847",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"H\u00e4felfingen",
+    "eurostat:nuts_2021_id":"CH2847",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2847",
+    "eurostat:population":250,
+    "eurostat:population_year":2020,
     "geom:area":0.000473,
     "geom:area_square_m":3961773.555733,
     "geom:bbox":"7.849756,47.400722,7.888776,47.427105",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062819,
-        85682361
+        85682361,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2847",
+        "eurostat:nuts_2021_id":"CH2847",
         "gn:id":7286018,
         "gp:id":12685218,
         "qs_pg:id":1016818
@@ -141,7 +157,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0527bcb1cc2a0da58bdc79834bcbbb55",
+    "wof:geomhash":"4279cf6318c006007ae40a1c9254c632",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404571701,
-    "wof:lastmodified":1598920003,
+    "wof:lastmodified":1684351762,
     "wof:name":"H\u00e4felfingen",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",
+    "wof:population":250,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

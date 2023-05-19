@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0883",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seftigen",
+    "eurostat:nuts_2021_id":"CH0883",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0883",
+    "eurostat:population":2144,
+    "eurostat:population_year":2020,
     "geom:area":0.000459,
     "geom:area_square_m":3884032.564484,
     "geom:bbox":"7.521314,46.781598,7.557322,46.800197",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0883",
+        "eurostat:nuts_2021_id":"CH0883",
         "gn:id":7287140,
         "gp:id":12684393,
         "qs_pg:id":1102350
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b4f94593fa0be0ab852a49fb82ed8a1e",
+    "wof:geomhash":"cb48d12489965f07c8e7a9bf809abd46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404571749,
-    "wof:lastmodified":1598920106,
+    "wof:lastmodified":1684351762,
     "wof:name":"Seftigen",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":2144,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

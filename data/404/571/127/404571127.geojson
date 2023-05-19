@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0928",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Heimberg",
+    "eurostat:nuts_2021_id":"CH0928",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0928",
+    "eurostat:population":6832,
+    "eurostat:population_year":2020,
     "geom:area":0.00064,
     "geom:area_square_m":5420979.680796,
     "geom:bbox":"7.58200645977,46.7702992025,7.62595334874,46.8093398553",
@@ -61,6 +73,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -69,6 +83,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0928",
+        "eurostat:nuts_2021_id":"CH0928",
         "gn:id":7286049,
         "gp:id":12683329,
         "qs_pg:id":1123005
@@ -81,7 +97,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0c0994500ec3e6f75bfaaf383d52ebee",
+    "wof:geomhash":"f2e3f2be0389bc9530a8297241fd78dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":404571127,
-    "wof:lastmodified":1582223055,
+    "wof:lastmodified":1684351755,
     "wof:name":"Heimberg",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":6832,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

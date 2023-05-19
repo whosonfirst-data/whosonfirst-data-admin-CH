@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0420",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00fcdtligen-Alchenfl\u00fch",
+    "eurostat:nuts_2021_id":"CH0420",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0420",
+    "eurostat:population":2418,
+    "eurostat:population_year":2020,
     "geom:area":0.000322,
     "geom:area_square_m":2713500.039586,
     "geom:bbox":"7.553701,47.072929,7.584821,47.095884",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0420",
+        "eurostat:nuts_2021_id":"CH0420",
         "gp:id":20075374,
         "qs_pg:id":50504
     },
@@ -122,7 +138,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ef42a226187ed94b771308867241adb0",
+    "wof:geomhash":"cb9d2fea15aba19f3e40a31681768601",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404572265,
-    "wof:lastmodified":1598919852,
+    "wof:lastmodified":1684351768,
     "wof:name":"R\u00fcdtligen-Alchenfl\u00fch",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":2418,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

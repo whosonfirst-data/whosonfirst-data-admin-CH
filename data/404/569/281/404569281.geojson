@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pont-en-Ogoz",
+    "eurostat:nuts_2021_id":"CH2122",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2122",
+    "eurostat:population":1824,
+    "eurostat:population_year":2020,
     "geom:area":0.001408,
     "geom:area_square_m":11939915.860256,
     "geom:bbox":"7.043749,46.66537,7.108691,46.710725",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062999,
-        85682301
+        85682301,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2122",
+        "eurostat:nuts_2021_id":"CH2122",
         "gn:id":7286814,
         "gp:id":24544635,
         "qs_pg:id":1299540
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f78db37872f28675a156e6739351f8dc",
+    "wof:geomhash":"cb62c91643ee0c947a0a44215e0b8983",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404569281,
-    "wof:lastmodified":1598919202,
+    "wof:lastmodified":1684351733,
     "wof:name":"Pont-en-Ogoz",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",
+    "wof:population":1824,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

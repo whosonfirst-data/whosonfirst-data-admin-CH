@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2613",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Breitenbach",
+    "eurostat:nuts_2021_id":"CH2613",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2613",
+    "eurostat:population":3854,
+    "eurostat:population_year":2020,
     "geom:area":0.00081,
     "geom:area_square_m":6782163.238746,
     "geom:bbox":"7.52523562574,47.3945708068,7.58771303461,47.4147033712",
@@ -93,6 +105,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2613",
+        "eurostat:nuts_2021_id":"CH2613",
         "gn:id":7285322,
         "qs_pg:id":1154239
     },
@@ -109,7 +125,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"67ed205aec08b390ba3d6f6754a3505e",
+    "wof:geomhash":"a698392a4d8c5f0e0047038cbf5a35a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404328565,
-    "wof:lastmodified":1582223082,
+    "wof:lastmodified":1684351697,
     "wof:name":"Breitenbach",
     "wof:parent_id":1394137121,
     "wof:placetype":"localadmin",
+    "wof:population":3854,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

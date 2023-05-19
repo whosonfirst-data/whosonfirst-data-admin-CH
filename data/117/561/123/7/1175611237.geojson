@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6461",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La T\u00e8ne",
+    "eurostat:nuts_2021_id":"CH6461",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6461",
+    "eurostat:population":5000,
+    "eurostat:population_year":2020,
     "geom:area":0.000639,
-    "geom:area_square_m":5387177.211845,
+    "geom:area_square_m":5387177.211844,
     "geom:bbox":"6.993102,46.97952,7.040345,47.030907",
     "geom:latitude":47.013784,
     "geom:longitude":7.016375,
@@ -57,6 +69,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -64,6 +78,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6461",
+        "eurostat:nuts_2021_id":"CH6461",
         "gn:id":7286272,
         "gp:id":56071076,
         "qs_pg:id":1206460
@@ -72,7 +88,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7813cb5474ecc39d6a547aa2ad4973a4",
+    "wof:geomhash":"742d6f7c40e8356957dcfefb2d450cb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,10 +98,12 @@
         }
     ],
     "wof:id":1175611237,
-    "wof:lastmodified":1598916369,
+    "wof:lastmodified":1684351776,
     "wof:name":"La T\u00e8ne",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":5000,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5396",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terre di Pedemonte",
+    "eurostat:nuts_2021_id":"CH5396",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5396",
+    "eurostat:population":2589,
+    "eurostat:population_year":2020,
     "geom:area":0.001351,
-    "geom:area_square_m":11560345.665578,
+    "geom:area_square_m":11560345.665576,
     "geom:bbox":"8.69085696125,46.1780496096,8.75868446337,46.2054154766",
     "geom:latitude":46.191316,
     "geom:longitude":8.723338,
@@ -24,6 +36,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -31,8 +45,12 @@
         102062975
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5396",
+        "eurostat:nuts_2021_id":"CH5396"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"487092a05135f1e63b973a43c7431011",
+    "wof:geomhash":"044b2face7a5b9c221901b375b758151",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,10 +61,12 @@
         }
     ],
     "wof:id":1394254149,
-    "wof:lastmodified":1566640348,
+    "wof:lastmodified":1684351783,
     "wof:name":"Terre di Pedemonte",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
+    "wof:population":2589,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

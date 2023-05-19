@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3786",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Samedan",
+    "eurostat:nuts_2021_id":"CH3786",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3786",
+    "eurostat:population":2924,
+    "eurostat:population_year":2020,
     "geom:area":0.013325,
-    "geom:area_square_m":113490680.135271,
+    "geom:area_square_m":113490680.135265,
     "geom:bbox":"9.754223,46.360584,9.953676,46.573186",
     "geom:latitude":46.465932,
     "geom:longitude":9.857451,
@@ -130,14 +142,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062857,
-        85682255
+        85682255,
+        102062857
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3786",
+        "eurostat:nuts_2021_id":"CH3786",
         "gp:id":12684337,
         "qs_pg:id":1092288
     },
@@ -146,7 +162,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d7a3f822b290d0d2be3b13dfa92e184b",
+    "wof:geomhash":"d7a036dd257633d78927918bd7a2d657",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +173,12 @@
         }
     ],
     "wof:id":404568003,
-    "wof:lastmodified":1598919689,
+    "wof:lastmodified":1684351709,
     "wof:name":"Samedan",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",
+    "wof:population":2924,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

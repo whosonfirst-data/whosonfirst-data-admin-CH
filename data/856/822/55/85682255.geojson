@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Graub\u00fcnden",
+    "eurostat:name_local":"Graub\u00fcnden",
+    "eurostat:nuts_2021_id":"CH056",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:population":201376,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":0.835008,
-    "geom:area_square_m":7086818672.774546,
+    "geom:area_square_m":7086818672.77438,
     "geom:bbox":"8.651063,46.169158,10.492158,47.065148",
     "geom:latitude":46.656069,
     "geom:longitude":9.628614,
@@ -449,8 +463,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"7,106",
     "statoids:area_mi":"2,744",
     "statoids:as_of_date":"2010-12-31",
@@ -470,6 +484,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":10169,
+        "eurostat:nuts_2021_id":"CH056",
         "fips:code":"SZ09",
         "gn:id":2660522,
         "gp:id":2347091,
@@ -481,7 +496,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f3a88727046fd37d1df6d73e983c3d92",
+    "wof:geomhash":"7990b4e159553b542b115653e031a6ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -503,13 +518,13 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1617131198,
+    "wof:lastmodified":1684351496,
     "wof:name":"Graubunden",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":192621,
-    "wof:population_rank":9,
+    "wof:population":201376,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"GR",
     "wof:superseded_by":[],

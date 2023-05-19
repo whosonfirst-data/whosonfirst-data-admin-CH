@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0863",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Burgistein",
+    "eurostat:nuts_2021_id":"CH0863",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0863",
+    "eurostat:population":1096,
+    "eurostat:population_year":2020,
     "geom:area":0.000887,
-    "geom:area_square_m":7505272.682797,
+    "geom:area_square_m":7505272.682796,
     "geom:bbox":"7.476477,46.777113,7.527616,46.804345",
     "geom:latitude":46.792057,
     "geom:longitude":7.503255,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0863",
+        "eurostat:nuts_2021_id":"CH0863",
         "gn:id":7285393,
         "gp:id":12683097,
         "qs_pg:id":998867
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2281a18b7431bcceb37a649e4fa5f42",
+    "wof:geomhash":"c1efca22ee3ebc335788ce0b3ea03790",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404570443,
-    "wof:lastmodified":1598920665,
+    "wof:lastmodified":1684351746,
     "wof:name":"Burgistein",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":1096,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

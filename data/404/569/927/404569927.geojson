@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Steinmaur",
+    "eurostat:nuts_2021_id":"CH0101",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0101",
+    "eurostat:population":3535,
+    "eurostat:population_year":2020,
     "geom:area":0.001121,
-    "geom:area_square_m":9366144.88832,
+    "geom:area_square_m":9366144.888319,
     "geom:bbox":"8.410806,47.482133,8.477591,47.518352",
     "geom:latitude":47.497719,
     "geom:longitude":8.443341,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062995,
-        85682309
+        85682309,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0101",
+        "eurostat:nuts_2021_id":"CH0101",
         "gn:id":7287234,
         "gp:id":12685100,
         "qs_pg:id":246644
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"62aa6f1895dad4d44f5ef8c7055cbd40",
+    "wof:geomhash":"119b20122c6951972b1e0859e1117581",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404569927,
-    "wof:lastmodified":1598919351,
+    "wof:lastmodified":1684351740,
     "wof:name":"Steinmaur",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",
+    "wof:population":3535,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0385",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Diessbach bei B\u00fcren",
+    "eurostat:nuts_2021_id":"CH0385",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0385",
+    "eurostat:population":989,
+    "eurostat:population_year":2020,
     "geom:area":0.00075,
-    "geom:area_square_m":6313508.385476,
+    "geom:area_square_m":6313508.385475,
     "geom:bbox":"7.347321,47.089473,7.382632,47.123937",
     "geom:latitude":47.10436,
     "geom:longitude":7.363922,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0385",
+        "eurostat:nuts_2021_id":"CH0385",
         "gn:id":7285649,
         "gp:id":12683306,
         "qs_pg:id":903241
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b360854ce23a2cdec0246354b73d7553",
+    "wof:geomhash":"def8431f3dd643a4c8322989d7114ede",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404570803,
-    "wof:lastmodified":1598920577,
+    "wof:lastmodified":1684351751,
     "wof:name":"Diessbach bei B\u00fcren",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":989,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hundwil",
+    "eurostat:nuts_2021_id":"CH3002",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH053",
+    "eurostat:nuts_2021_level_lau":"CH3002",
+    "eurostat:population":941,
+    "eurostat:population_year":2020,
     "geom:area":0.002865,
-    "geom:area_square_m":24015257.272736,
+    "geom:area_square_m":24015257.272725,
     "geom:bbox":"9.291033,47.247024,9.351098,47.37425",
     "geom:latitude":47.319446,
     "geom:longitude":9.317867,
@@ -117,14 +129,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137085,
-        85682353
+        85682353,
+        1394137085
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3002",
+        "eurostat:nuts_2021_id":"CH3002",
         "gn:id":7286120,
         "gp:id":12683709,
         "qs_pg:id":43588
@@ -134,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b5d8daf8cb3d36123bde0ad51393973c",
+    "wof:geomhash":"8f15cc715bc1d4c9c8983ab4806d8c16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404328237,
-    "wof:lastmodified":1598920471,
+    "wof:lastmodified":1684351692,
     "wof:name":"Hundwil",
     "wof:parent_id":1394137085,
     "wof:placetype":"localadmin",
+    "wof:population":941,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

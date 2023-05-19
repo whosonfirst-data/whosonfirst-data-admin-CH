@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5939",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Yvonand",
+    "eurostat:nuts_2021_id":"CH5939",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5939",
+    "eurostat:population":3427,
+    "eurostat:population_year":2020,
     "geom:area":0.001579,
-    "geom:area_square_m":13366969.796929,
+    "geom:area_square_m":13366969.796933,
     "geom:bbox":"6.702189,46.770123,6.776819,46.808619",
     "geom:latitude":46.790346,
     "geom:longitude":6.736062,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5939",
+        "eurostat:nuts_2021_id":"CH5939",
         "gn:id":7287621,
         "gp:id":12684657,
         "qs_pg:id":1040612
@@ -114,7 +130,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ccae72f9bf5e1f9ecb74278d8d4b4736",
+    "wof:geomhash":"82cca39b04e36c651798dddc3bac0177",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404569007,
-    "wof:lastmodified":1598919211,
+    "wof:lastmodified":1684351729,
     "wof:name":"Yvonand",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":3427,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

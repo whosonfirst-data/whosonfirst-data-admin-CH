@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3831",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cama",
+    "eurostat:nuts_2021_id":"CH3831",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3831",
+    "eurostat:population":560,
+    "eurostat:population_year":2020,
     "geom:area":0.001749,
-    "geom:area_square_m":14953409.619332,
+    "geom:area_square_m":14953409.619335,
     "geom:bbox":"9.16254983573,46.2291018186,9.24970175442,46.2918919099",
     "geom:latitude":46.259808,
     "geom:longitude":9.207596,
@@ -85,6 +97,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -93,6 +107,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3831",
+        "eurostat:nuts_2021_id":"CH3831",
         "gn:id":7285423,
         "gp:id":12683859,
         "qs_pg:id":263761
@@ -105,7 +121,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bfb1b7bba772eb5a8ef8d01ec19200c9",
+    "wof:geomhash":"17fe48d25a63d7e06bc7cd7f6a259653",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404568921,
-    "wof:lastmodified":1582223024,
+    "wof:lastmodified":1684351727,
     "wof:name":"Cama",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
+    "wof:population":560,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

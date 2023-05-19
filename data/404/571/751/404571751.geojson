@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Remetschwil",
+    "eurostat:nuts_2021_id":"CH4039",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4039",
+    "eurostat:population":1991,
+    "eurostat:population_year":2020,
     "geom:area":0.000462,
     "geom:area_square_m":3869933.131792,
     "geom:bbox":"8.304566,47.398846,8.355809,47.416947",
@@ -114,14 +126,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062843,
-        85682329
+        85682329,
+        102062843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH4039",
+        "eurostat:nuts_2021_id":"CH4039"
+    },
     "wof:coterminous":[
         1125771677
     ],
@@ -129,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4707b769f4c2d963be817b68353f6512",
+    "wof:geomhash":"74a0d62ffefabe757935f279b0781e4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +157,12 @@
         }
     ],
     "wof:id":404571751,
-    "wof:lastmodified":1598920140,
+    "wof:lastmodified":1684351762,
     "wof:name":"Remetschwil",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
+    "wof:population":1991,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

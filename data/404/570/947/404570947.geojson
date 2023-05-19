@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5529",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oulens-sous-Echallens",
+    "eurostat:nuts_2021_id":"CH5529",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5529",
+    "eurostat:population":616,
+    "eurostat:population_year":2020,
     "geom:area":0.000689,
     "geom:area_square_m":5852539.600789,
     "geom:bbox":"6.55605374746,46.6311560596,6.58803500439,46.6621850113",
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5529",
+        "eurostat:nuts_2021_id":"CH5529",
         "gn:id":7286765,
         "gp:id":20075590,
         "qs_pg:id":671519
@@ -60,7 +76,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"322226ae6a6eb76309500a2fb91fe9af",
+    "wof:geomhash":"53dd6876407b223e99c94f9919e74d32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +87,12 @@
         }
     ],
     "wof:id":404570947,
-    "wof:lastmodified":1582223101,
+    "wof:lastmodified":1684351752,
     "wof:name":"Oulens-sous-Echallens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":616,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

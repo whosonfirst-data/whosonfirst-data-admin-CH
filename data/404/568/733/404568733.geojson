@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4821",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"H\u00fcttwilen",
+    "eurostat:nuts_2021_id":"CH4821",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4821",
+    "eurostat:population":1729,
+    "eurostat:population_year":2020,
     "geom:area":0.002113,
-    "geom:area_square_m":17610374.570673,
+    "geom:area_square_m":17610374.570671,
     "geom:bbox":"8.80330437165,47.5966485614,8.91434726533,47.6374344644",
     "geom:latitude":47.615291,
     "geom:longitude":8.850481,
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -123,6 +137,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4821",
+        "eurostat:nuts_2021_id":"CH4821",
         "gn:id":7286129,
         "gp:id":12683714,
         "qs_pg:id":380098
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9c5dd7421f0e5dee0d640755d5c8ad81",
+    "wof:geomhash":"b4cae1a7ebc60a5cbb08ef3023ed7135",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404568733,
-    "wof:lastmodified":1582223007,
+    "wof:lastmodified":1684351724,
     "wof:name":"H\u00fcttwilen",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
+    "wof:population":1729,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

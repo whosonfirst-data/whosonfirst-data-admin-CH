@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2617",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grindel",
+    "eurostat:nuts_2021_id":"CH2617",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2617",
+    "eurostat:population":512,
+    "eurostat:population_year":2020,
     "geom:area":0.000367,
-    "geom:area_square_m":3074983.961626,
+    "geom:area_square_m":3074983.961625,
     "geom:bbox":"7.48869536909,47.3706471926,7.52134061652,47.3897430553",
     "geom:latitude":47.379725,
     "geom:longitude":7.507305,
@@ -39,6 +51,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2617",
+        "eurostat:nuts_2021_id":"CH2617",
         "gn:id":7285983,
         "gp:id":12685195,
         "qs_pg:id":671363
@@ -59,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e7152cd8ac0b831e3ebe1f3904d5151c",
+    "wof:geomhash":"25a18ebe50cc468a9a47d3e2a7a5188e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +86,12 @@
         }
     ],
     "wof:id":404328801,
-    "wof:lastmodified":1582223086,
+    "wof:lastmodified":1684351700,
     "wof:name":"Grindel",
     "wof:parent_id":1394137121,
     "wof:placetype":"localadmin",
+    "wof:population":512,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

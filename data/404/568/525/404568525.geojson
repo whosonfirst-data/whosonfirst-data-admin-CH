@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bosco/Gurin",
+    "eurostat:nuts_2021_id":"CH5304",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5304",
+    "eurostat:population":46,
+    "eurostat:population_year":2020,
     "geom:area":0.00257,
-    "geom:area_square_m":21942960.092129,
+    "geom:area_square_m":21942960.09213,
     "geom:bbox":"8.438921,46.299122,8.525587,46.344025",
     "geom:latitude":46.320269,
     "geom:longitude":8.483958,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062957,
-        85682269
+        85682269,
+        102062957
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5304",
+        "eurostat:nuts_2021_id":"CH5304",
         "gn:id":7285298,
         "gp:id":12683017,
         "qs_pg:id":538454
@@ -120,7 +136,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"264633a5a73c5acd79515efe0ba86cf5",
+    "wof:geomhash":"e09ce8d89abd33a39c9e4f96d71078e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404568525,
-    "wof:lastmodified":1598919741,
+    "wof:lastmodified":1684351720,
     "wof:name":"Bosco/Gurin",
     "wof:parent_id":102062957,
     "wof:placetype":"localadmin",
+    "wof:population":46,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

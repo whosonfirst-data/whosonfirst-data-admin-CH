@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6172",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bister",
+    "eurostat:nuts_2021_id":"CH6172",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6172",
+    "eurostat:population":33,
+    "eurostat:population_year":2020,
     "geom:area":0.000679,
-    "geom:area_square_m":5792248.298531,
+    "geom:area_square_m":5792248.298533,
     "geom:bbox":"8.05521321146,46.3293017443,8.09888688635,46.3689119861",
     "geom:latitude":46.34968,
     "geom:longitude":8.078555,
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -57,6 +71,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6172",
+        "eurostat:nuts_2021_id":"CH6172",
         "gn:id":7285263,
         "gp:id":20075660,
         "qs_pg:id":906862
@@ -69,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"cf401216daef4553e42ad862ca07ba65",
+    "wof:geomhash":"a11b10104dea11c2992a7206b0454ae1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +96,12 @@
         }
     ],
     "wof:id":404570965,
-    "wof:lastmodified":1582223092,
+    "wof:lastmodified":1684351753,
     "wof:name":"Bister",
     "wof:parent_id":102063037,
     "wof:placetype":"localadmin",
+    "wof:population":33,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

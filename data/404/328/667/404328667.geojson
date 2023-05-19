@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2542",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bellach",
+    "eurostat:nuts_2021_id":"CH2542",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2542",
+    "eurostat:population":5213,
+    "eurostat:population_year":2020,
     "geom:area":0.000628,
-    "geom:area_square_m":5274645.039771,
+    "geom:area_square_m":5274645.03977,
     "geom:bbox":"7.475863,47.196246,7.516454,47.224113",
     "geom:latitude":47.210477,
     "geom:longitude":7.495731,
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137087,
-        85682365
+        85682365,
+        1394137087
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2542",
+        "eurostat:nuts_2021_id":"CH2542",
         "gn:id":7285185,
         "gp:id":12684915,
         "qs_pg:id":1286667
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"706eaa6e6c79ced12b7fe64aab782cab",
+    "wof:geomhash":"205a426bcce84066e079b657148957ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328667,
-    "wof:lastmodified":1598920332,
+    "wof:lastmodified":1684351699,
     "wof:name":"Bellach",
     "wof:parent_id":1394137087,
     "wof:placetype":"localadmin",
+    "wof:population":5213,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5254",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mendrisio",
+    "eurostat:nuts_2021_id":"CH5254",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5254",
+    "eurostat:population":14942,
+    "eurostat:population_year":2020,
     "geom:area":0.003715,
-    "geom:area_square_m":31980243.186077,
+    "geom:area_square_m":31980243.186073,
     "geom:bbox":"8.92025027735,45.8416083396,9.01696984373,45.9202822235",
     "geom:latitude":45.885246,
     "geom:longitude":8.96804,
@@ -120,6 +132,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -127,8 +141,12 @@
         102063063
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5254",
+        "eurostat:nuts_2021_id":"CH5254"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"36439f051bf7f83070eb22030c64659c",
+    "wof:geomhash":"cc878cff8a8aa1fbebe0fad281ab8d97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +157,12 @@
         }
     ],
     "wof:id":1394254051,
-    "wof:lastmodified":1566640372,
+    "wof:lastmodified":1684351779,
     "wof:name":"Mendrisio",
     "wof:parent_id":102063063,
     "wof:placetype":"localadmin",
+    "wof:population":14942,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

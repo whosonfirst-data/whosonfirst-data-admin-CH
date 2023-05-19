@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0410",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"H\u00f6chstetten",
+    "eurostat:nuts_2021_id":"CH0410",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0410",
+    "eurostat:population":275,
+    "eurostat:population_year":2020,
     "geom:area":0.000313,
     "geom:area_square_m":2629560.239618,
     "geom:bbox":"7.6218906529,47.1333143189,7.64503540206,47.1538366638",
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -57,6 +71,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0410",
+        "eurostat:nuts_2021_id":"CH0410",
         "gn:id":7286093,
         "gp:id":20075371,
         "qs_pg:id":205035
@@ -69,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"94db9114a0fe588323f9079f42cef45f",
+    "wof:geomhash":"1acdd4f6a979e53aaed49904a0208dbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +96,12 @@
         }
     ],
     "wof:id":404572289,
-    "wof:lastmodified":1582223028,
+    "wof:lastmodified":1684351768,
     "wof:name":"H\u00f6chstetten",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":275,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

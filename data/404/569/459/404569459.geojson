@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0242",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Birmensdorf (ZH)",
+    "eurostat:nuts_2021_id":"CH0242",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0242",
+    "eurostat:population":6519,
+    "eurostat:population_year":2020,
     "geom:area":0.001359,
     "geom:area_square_m":11386339.488361,
     "geom:bbox":"8.40386126329,47.3346314025,8.47482922754,47.3691455536",
@@ -43,6 +55,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -51,6 +65,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0242",
+        "eurostat:nuts_2021_id":"CH0242",
         "gn:id":7285253,
         "qs_pg:id":671197
     },
@@ -62,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4391c555ae39dde69fce1e98809af972",
+    "wof:geomhash":"8134fa123de507d575ee06ba06ea0a1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404569459,
-    "wof:lastmodified":1582222966,
+    "wof:lastmodified":1684351734,
     "wof:name":"Birmensdorf",
     "wof:parent_id":102062893,
     "wof:placetype":"localadmin",
+    "wof:population":6519,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

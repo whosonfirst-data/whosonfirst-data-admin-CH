@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0931",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Homberg",
+    "eurostat:nuts_2021_id":"CH0931",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0931",
+    "eurostat:population":509,
+    "eurostat:population_year":2020,
     "geom:area":0.000767,
-    "geom:area_square_m":6496702.810499,
+    "geom:area_square_m":6496702.8105,
     "geom:bbox":"7.65484374797,46.7608955979,7.70369908342,46.7893932829",
     "geom:latitude":46.776427,
     "geom:longitude":7.683251,
@@ -91,6 +103,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0931",
+        "eurostat:nuts_2021_id":"CH0931",
         "gp:id":12683334,
         "qs_pg:id":233982
     },
@@ -110,7 +126,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c0a6058262ec7da8c72de42ce895b4b4",
+    "wof:geomhash":"550f801b9a0749146ee6aebc6093cc0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":404570741,
-    "wof:lastmodified":1582223102,
+    "wof:lastmodified":1684351750,
     "wof:name":"Homberg",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":509,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

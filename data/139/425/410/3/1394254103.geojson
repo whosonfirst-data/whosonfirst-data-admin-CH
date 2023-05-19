@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3619",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ilanz/Glion",
+    "eurostat:nuts_2021_id":"CH3619",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3619",
+    "eurostat:population":4756,
+    "eurostat:population_year":2020,
     "geom:area":0.015722,
-    "geom:area_square_m":133134755.749654,
+    "geom:area_square_m":133134755.74968,
     "geom:bbox":"9.06553743583,46.6565018865,9.29624974938,46.8753926342",
     "geom:latitude":46.777022,
     "geom:longitude":9.193737,
@@ -48,6 +60,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -55,8 +69,12 @@
         102062773
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3619",
+        "eurostat:nuts_2021_id":"CH3619"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"df83bc64c35874c3050c98c94ea59eb1",
+    "wof:geomhash":"b11ee8df2569fba45e6498f6adc580f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,10 +85,12 @@
         }
     ],
     "wof:id":1394254103,
-    "wof:lastmodified":1566640366,
+    "wof:lastmodified":1684351781,
     "wof:name":"Ilanz/Glion",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
+    "wof:population":4756,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

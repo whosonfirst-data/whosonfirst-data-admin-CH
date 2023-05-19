@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Matran",
+    "eurostat:nuts_2021_id":"CH2208",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2208",
+    "eurostat:population":1521,
+    "eurostat:population_year":2020,
     "geom:area":0.000343,
     "geom:area_square_m":2904929.107132,
     "geom:bbox":"7.069491,46.773955,7.107924,46.795446",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063029,
-        85682301
+        85682301,
+        102063029
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2208",
+        "eurostat:nuts_2021_id":"CH2208",
         "gp:id":12684993,
         "qs_pg:id":1291426
     },
@@ -122,7 +138,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a29d1f0a0e1de8845b20f6eac87d2965",
+    "wof:geomhash":"2b348413393df9d06fc9e40d45822dba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404572147,
-    "wof:lastmodified":1598919871,
+    "wof:lastmodified":1684351767,
     "wof:name":"Matran",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":1521,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

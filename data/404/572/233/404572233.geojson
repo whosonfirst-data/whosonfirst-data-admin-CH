@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4176",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schwaderloch",
+    "eurostat:nuts_2021_id":"CH4176",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4176",
+    "eurostat:population":672,
+    "eurostat:population_year":2020,
     "geom:area":0.000331,
-    "geom:area_square_m":2763170.309104,
+    "geom:area_square_m":2763170.309103,
     "geom:bbox":"8.126122,47.575521,8.159316,47.596016",
     "geom:latitude":47.585785,
     "geom:longitude":8.145724,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062977,
-        85682329
+        85682329,
+        102062977
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4176",
+        "eurostat:nuts_2021_id":"CH4176",
         "gn:id":7287118,
         "gp:id":12684383,
         "qs_pg:id":43860
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"83483fc0c555ce50870b4123339dfb58",
+    "wof:geomhash":"4d02f49768e5f2a68df87d49616cafb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404572233,
-    "wof:lastmodified":1598919799,
+    "wof:lastmodified":1684351768,
     "wof:name":"Schwaderloch",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",
+    "wof:population":672,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

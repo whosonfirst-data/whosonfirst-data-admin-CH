@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4044",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Untersiggenthal",
+    "eurostat:nuts_2021_id":"CH4044",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4044",
+    "eurostat:population":7240,
+    "eurostat:population_year":2020,
     "geom:area":0.000988,
-    "geom:area_square_m":8253955.63817,
+    "geom:area_square_m":8253955.638171,
     "geom:bbox":"8.23286,47.488332,8.280107,47.519397",
     "geom:latitude":47.506723,
     "geom:longitude":8.256487,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062843,
-        85682329
+        85682329,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4044",
+        "eurostat:nuts_2021_id":"CH4044",
         "gn:id":7287386,
         "gp:id":12684546,
         "qs_pg:id":908553
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e62bdc75a1dc441cac2650f0e89841f5",
+    "wof:geomhash":"1fe9bd66ac4327e6504689d47a911c39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404570201,
-    "wof:lastmodified":1598920696,
+    "wof:lastmodified":1684351743,
     "wof:name":"Untersiggenthal",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
+    "wof:population":7240,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

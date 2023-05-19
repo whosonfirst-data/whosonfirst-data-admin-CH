@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2265",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kerzers",
+    "eurostat:nuts_2021_id":"CH2265",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2265",
+    "eurostat:population":4970,
+    "eurostat:population_year":2020,
     "geom:area":0.001452,
-    "geom:area_square_m":12247765.087641,
+    "geom:area_square_m":12247765.08764,
     "geom:bbox":"7.160156,46.963647,7.235689,46.997167",
     "geom:latitude":46.981196,
     "geom:longitude":7.198727,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062765,
-        85682301
+        85682301,
+        102062765
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2265",
+        "eurostat:nuts_2021_id":"CH2265",
         "gp:id":12683762,
         "qs_pg:id":493266
     },
@@ -125,7 +141,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7cbe95a27a0e8b29e9e6223baf38592",
+    "wof:geomhash":"be7f12ad3edcb554ac0e7d2c78620891",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404569239,
-    "wof:lastmodified":1598919332,
+    "wof:lastmodified":1684351732,
     "wof:name":"Kerzers",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
+    "wof:population":4970,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

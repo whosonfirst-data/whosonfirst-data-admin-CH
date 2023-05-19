@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6289",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saas-Balen",
+    "eurostat:nuts_2021_id":"CH6289",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6289",
+    "eurostat:population":347,
+    "eurostat:population_year":2020,
     "geom:area":0.003521,
-    "geom:area_square_m":30160453.107078,
+    "geom:area_square_m":30160453.107076,
     "geom:bbox":"7.878799,46.118128,8.003229,46.18198",
     "geom:latitude":46.152272,
     "geom:longitude":7.935266,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062859,
-        85682281
+        85682281,
+        102062859
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6289",
+        "eurostat:nuts_2021_id":"CH6289",
         "gn:id":7287007,
         "qs_pg:id":671572
     },
@@ -131,7 +147,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"57b5ac5a9937d460f84ba8fc0265b69b",
+    "wof:geomhash":"5a06d8bb9b13e06843126d915733e83d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404568283,
-    "wof:lastmodified":1598919655,
+    "wof:lastmodified":1684351715,
     "wof:name":"Saas-Balen",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",
+    "wof:population":347,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

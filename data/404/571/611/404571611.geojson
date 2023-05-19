@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0362",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ittigen",
+    "eurostat:nuts_2021_id":"CH0362",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0362",
+    "eurostat:population":11351,
+    "eurostat:population_year":2020,
     "geom:area":0.000497,
     "geom:area_square_m":4193687.067,
     "geom:bbox":"7.452938,46.967411,7.491896,46.9988",
@@ -130,14 +142,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0362",
+        "eurostat:nuts_2021_id":"CH0362",
         "gn:id":7286156,
         "qs_pg:id":1154269
     },
@@ -149,7 +165,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"697cb189e993b8dafd885ec62eb450b0",
+    "wof:geomhash":"acadb6e0def389dbf88c3ccf778b77a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,10 +176,12 @@
         }
     ],
     "wof:id":404571611,
-    "wof:lastmodified":1598920058,
+    "wof:lastmodified":1684351761,
     "wof:name":"Ittigen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":11351,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

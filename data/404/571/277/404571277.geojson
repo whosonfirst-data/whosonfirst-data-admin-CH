@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bellikon",
+    "eurostat:nuts_2021_id":"CH4022",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4022",
+    "eurostat:population":1562,
+    "eurostat:population_year":2020,
     "geom:area":0.000589,
-    "geom:area_square_m":4927309.2508,
+    "geom:area_square_m":4927309.250801,
     "geom:bbox":"8.332231,47.375152,8.36438,47.405798",
     "geom:latitude":47.391577,
     "geom:longitude":8.349364,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062843,
-        85682329
+        85682329,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4022",
+        "eurostat:nuts_2021_id":"CH4022",
         "gp:id":12684987,
         "qs_pg:id":1291441
     },
@@ -134,7 +150,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"89d306e4cffd9bff5d59d9c728df6318",
+    "wof:geomhash":"08810950a9b45e6de4ed120d825305e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404571277,
-    "wof:lastmodified":1598920160,
+    "wof:lastmodified":1684351757,
     "wof:name":"Bellikon",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
+    "wof:population":1562,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

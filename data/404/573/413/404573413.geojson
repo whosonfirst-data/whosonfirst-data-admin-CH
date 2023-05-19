@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5193",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Magliaso",
+    "eurostat:nuts_2021_id":"CH5193",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5193",
+    "eurostat:population":1620,
+    "eurostat:population_year":2020,
     "geom:area":0.000204,
     "geom:area_square_m":1750853.904378,
     "geom:bbox":"8.87871,45.973213,8.901823,45.989337",
@@ -104,14 +116,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5193",
+        "eurostat:nuts_2021_id":"CH5193",
         "gn:id":7286418,
         "gp:id":12685175,
         "qs_pg:id":1019760
@@ -124,7 +140,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5b08be16c5585ea8b54f21a0acad3e44",
+    "wof:geomhash":"5ec03a4f21bcbadfe8543fe783cab58a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":404573413,
-    "wof:lastmodified":1598919898,
+    "wof:lastmodified":1684351774,
     "wof:name":"Magliaso",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":1620,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

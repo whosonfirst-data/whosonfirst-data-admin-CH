@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pr\u00e9vondavaux",
+    "eurostat:nuts_2021_id":"CH2038",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2038",
+    "eurostat:population":65,
+    "eurostat:population_year":2020,
     "geom:area":0.000214,
-    "geom:area_square_m":1815723.635554,
+    "geom:area_square_m":1815723.635553,
     "geom:bbox":"6.787914,46.725554,6.817488,46.737705",
     "geom:latitude":46.731327,
     "geom:longitude":6.802588,
@@ -105,14 +117,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062945,
-        85682301
+        85682301,
+        102062945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2038",
+        "eurostat:nuts_2021_id":"CH2038"
+    },
     "wof:coterminous":[
         1125790691
     ],
@@ -120,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6c7c614fae0cf93a4e332d369d6ac84a",
+    "wof:geomhash":"1227dd9a7d8dd6fe92ddd5b1592c22d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":404573225,
-    "wof:lastmodified":1598919968,
+    "wof:lastmodified":1684351772,
     "wof:name":"Pr\u00e9vondavaux",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",
+    "wof:population":65,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

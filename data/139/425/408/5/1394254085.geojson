@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5749",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chavornay",
+    "eurostat:nuts_2021_id":"CH5749",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5749",
+    "eurostat:population":5000,
+    "eurostat:population_year":2020,
     "geom:area":0.002268,
-    "geom:area_square_m":19233812.099234,
+    "geom:area_square_m":19233812.099232,
     "geom:bbox":"6.53921258239,46.6815292336,6.63258480053,46.7419670956",
     "geom:latitude":46.708802,
     "geom:longitude":6.580682,
@@ -69,6 +81,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -76,8 +90,12 @@
         102062813
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5749",
+        "eurostat:nuts_2021_id":"CH5749"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"ba19768d4db8c3aba6b7145f387f77e4",
+    "wof:geomhash":"a1ec1105dd3f32cc1cda3c2af9cdea58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,10 +106,12 @@
         }
     ],
     "wof:id":1394254085,
-    "wof:lastmodified":1566640356,
+    "wof:lastmodified":1684351781,
     "wof:name":"Chavornay",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":5000,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

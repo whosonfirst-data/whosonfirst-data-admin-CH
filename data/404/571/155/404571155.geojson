@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4237",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberr\u00fcti",
+    "eurostat:nuts_2021_id":"CH4237",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4237",
+    "eurostat:population":1536,
+    "eurostat:population_year":2020,
     "geom:area":0.000638,
-    "geom:area_square_m":5363106.444938,
+    "geom:area_square_m":5363106.444937,
     "geom:bbox":"8.377835,47.153162,8.415381,47.183821",
     "geom:latitude":47.166927,
     "geom:longitude":8.398607,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062809,
-        85682329
+        85682329,
+        102062809
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4237",
+        "eurostat:nuts_2021_id":"CH4237",
         "gn:id":7286711,
         "gp:id":12684135,
         "qs_pg:id":1016811
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f5df5a1b4dee6d4e05c2b6e9dded3246",
+    "wof:geomhash":"d4a2be8c2ba68d7d7e96ee089033c9d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404571155,
-    "wof:lastmodified":1598920148,
+    "wof:lastmodified":1684351755,
     "wof:name":"Oberr\u00fcti",
     "wof:parent_id":102062809,
     "wof:placetype":"localadmin",
+    "wof:population":1536,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

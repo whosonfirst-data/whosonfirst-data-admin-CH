@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3513",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lantsch/Lenz",
+    "eurostat:nuts_2021_id":"CH3513",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3513",
+    "eurostat:population":535,
+    "eurostat:population_year":2020,
     "geom:area":0.002565,
-    "geom:area_square_m":21752415.078364,
+    "geom:area_square_m":21752415.078368,
     "geom:bbox":"9.54163,46.672044,9.613899,46.743031",
     "geom:latitude":46.706968,
     "geom:longitude":9.579433,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062885,
-        85682255
+        85682255,
+        102062885
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3513",
+        "eurostat:nuts_2021_id":"CH3513",
         "gn:id":7286264,
         "gp:id":12683834,
         "qs_pg:id":1314164
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7aae4087631a4e561d2cb0f112c5720c",
+    "wof:geomhash":"1859df7a45a75a191cfcbbabb1499bf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404568539,
-    "wof:lastmodified":1598919621,
+    "wof:lastmodified":1684351720,
     "wof:name":"Lantsch/Lenz",
     "wof:parent_id":102062885,
     "wof:placetype":"localadmin",
+    "wof:population":535,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

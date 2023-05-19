@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6639",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soral",
+    "eurostat:nuts_2021_id":"CH6639",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6639",
+    "eurostat:population":853,
+    "eurostat:population_year":2020,
     "geom:area":0.000343,
-    "geom:area_square_m":2934122.474495,
+    "geom:area_square_m":2934122.474496,
     "geom:bbox":"6.023773,46.134332,6.074676,46.159586",
     "geom:latitude":46.148107,
     "geom:longitude":6.047356,
@@ -101,14 +113,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6639",
+        "eurostat:nuts_2021_id":"CH6639",
         "gn:id":7287193,
         "gp:id":12684419,
         "qs_pg:id":1163661
@@ -121,7 +137,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"59e327094532d4d8bae73e6d0f65b05b",
+    "wof:geomhash":"633bb0e74c45a9b53cdda10e17a5e9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":404328811,
-    "wof:lastmodified":1598920289,
+    "wof:lastmodified":1684351701,
     "wof:name":"Soral",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":853,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

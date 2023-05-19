@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4724",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eschlikon",
+    "eurostat:nuts_2021_id":"CH4724",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4724",
+    "eurostat:population":4372,
+    "eurostat:population_year":2020,
     "geom:area":0.000742,
     "geom:area_square_m":6203716.619724,
     "geom:bbox":"8.94467742246,47.4422488051,8.9844014449,47.4730632756",
@@ -118,6 +130,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -126,6 +140,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4724",
+        "eurostat:nuts_2021_id":"CH4724",
         "gn:id":7285770,
         "gp:id":12683416,
         "qs_pg:id":1137081
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a9fecf19e69d6ab8ad777867c5a8e0f",
+    "wof:geomhash":"bfda2b2a96e6895be10146ab50086dfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404570827,
-    "wof:lastmodified":1582223094,
+    "wof:lastmodified":1684351751,
     "wof:name":"Eschlikon",
     "wof:parent_id":102062981,
     "wof:placetype":"localadmin",
+    "wof:population":4372,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

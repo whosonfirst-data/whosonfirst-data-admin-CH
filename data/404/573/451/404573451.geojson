@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lavertezzo",
+    "eurostat:nuts_2021_id":"CH5112",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5112",
+    "eurostat:population":1303,
+    "eurostat:population_year":2020,
     "geom:area":0.006788,
-    "geom:area_square_m":58013129.576863,
+    "geom:area_square_m":58013129.576854,
     "geom:bbox":"8.79054,46.174386,8.925793,46.3268",
     "geom:latitude":46.273807,
     "geom:longitude":8.863588,
@@ -105,14 +117,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062975,
-        85682269
+        85682269,
+        102062975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5112",
+        "eurostat:nuts_2021_id":"CH5112"
+    },
     "wof:coterminous":[
         1125912855
     ],
@@ -120,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"12b5672d6ed8e6afeb81d8457c6a8252",
+    "wof:geomhash":"e22d18b31e04ecb22b3eaf467e708326",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":404573451,
-    "wof:lastmodified":1598919971,
+    "wof:lastmodified":1684351774,
     "wof:name":"Lavertezzo",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
+    "wof:population":1303,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

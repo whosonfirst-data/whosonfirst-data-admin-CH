@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2194",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferpicloz",
+    "eurostat:nuts_2021_id":"CH2194",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2194",
+    "eurostat:population":273,
+    "eurostat:population_year":2020,
     "geom:area":0.00012,
     "geom:area_square_m":1015639.851476,
     "geom:bbox":"7.152608,46.742993,7.171885,46.754459",
@@ -105,14 +117,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063029,
-        85682301
+        85682301,
+        102063029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2194",
+        "eurostat:nuts_2021_id":"CH2194"
+    },
     "wof:coterminous":[
         1125962525
     ],
@@ -120,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e2d07eb1185d3c3bc565705665bec90",
+    "wof:geomhash":"2de1c35964ff0669f10bf8ad4bd8b7bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":404573425,
-    "wof:lastmodified":1598919897,
+    "wof:lastmodified":1684351774,
     "wof:name":"Ferpicloz",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":273,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

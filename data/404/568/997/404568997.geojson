@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lavey-Morcles",
+    "eurostat:nuts_2021_id":"CH5406",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5406",
+    "eurostat:population":946,
+    "eurostat:population_year":2020,
     "geom:area":0.001655,
-    "geom:area_square_m":14162537.302366,
+    "geom:area_square_m":14162537.302367,
     "geom:bbox":"7.008139,46.187068,7.071701,46.228053",
     "geom:latitude":46.209394,
     "geom:longitude":7.039212,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062783,
-        85682325
+        85682325,
+        102062783
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5406",
+        "eurostat:nuts_2021_id":"CH5406",
         "gn:id":7286289,
         "gp:id":12682886,
         "qs_pg:id":242309
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"757f91a057b259cc514c380f6f7b5e65",
+    "wof:geomhash":"60f44e2576932cfcb690e47050596b63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404568997,
-    "wof:lastmodified":1598919485,
+    "wof:lastmodified":1684351728,
     "wof:name":"Lavey-Morcles",
     "wof:parent_id":102062783,
     "wof:placetype":"localadmin",
+    "wof:population":946,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

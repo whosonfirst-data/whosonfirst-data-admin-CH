@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0976",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Graben",
+    "eurostat:nuts_2021_id":"CH0976",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0976",
+    "eurostat:population":332,
+    "eurostat:population_year":2020,
     "geom:area":0.000375,
-    "geom:area_square_m":3151520.143676,
+    "geom:area_square_m":3151520.143677,
     "geom:bbox":"7.705509,47.208192,7.735323,47.228846",
     "geom:latitude":47.218288,
     "geom:longitude":7.720474,
@@ -160,14 +172,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0976",
+        "eurostat:nuts_2021_id":"CH0976",
         "gn:id":7285951,
         "gp:id":12685034,
         "qs_pg:id":106584
@@ -180,7 +196,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"25594243d8f1787e5655495208946465",
+    "wof:geomhash":"d191f20e3fa12f35ce5f28065d8c9647",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":404572057,
-    "wof:lastmodified":1598919854,
+    "wof:lastmodified":1684351766,
     "wof:name":"Graben",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":332,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

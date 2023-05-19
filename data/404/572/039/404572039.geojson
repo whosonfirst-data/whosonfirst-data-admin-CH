@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5563",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mutrux",
+    "eurostat:nuts_2021_id":"CH5563",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5563",
+    "eurostat:population":158,
+    "eurostat:population_year":2020,
     "geom:area":0.000382,
-    "geom:area_square_m":3224433.534362,
+    "geom:area_square_m":3224433.534363,
     "geom:bbox":"6.686054,46.873158,6.740703,46.888433",
     "geom:latitude":46.882262,
     "geom:longitude":6.718414,
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5563",
+        "eurostat:nuts_2021_id":"CH5563",
         "gn:id":7286605,
         "qs_pg:id":671488
     },
@@ -110,7 +126,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a40646dc17714d12a113d335a3562f06",
+    "wof:geomhash":"3d7d65a931b22247d87a6ed683cc8a60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":404572039,
-    "wof:lastmodified":1598919800,
+    "wof:lastmodified":1684351766,
     "wof:name":"Mutrux",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":158,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

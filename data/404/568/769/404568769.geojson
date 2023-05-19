@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4951",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wigoltingen",
+    "eurostat:nuts_2021_id":"CH4951",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4951",
+    "eurostat:population":2457,
+    "eurostat:population_year":2020,
     "geom:area":0.002049,
     "geom:area_square_m":17083136.141354,
     "geom:bbox":"9.00655710771,47.574572358,9.10301263456,47.624627858",
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -123,6 +137,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4951",
+        "eurostat:nuts_2021_id":"CH4951",
         "gn:id":7287571,
         "gp:id":12684629,
         "qs_pg:id":1093343
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b467e6ee948f9b0614ab31e1daf9c998",
+    "wof:geomhash":"7ea9ec05ea1213396b2579c8950fdd08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404568769,
-    "wof:lastmodified":1582223009,
+    "wof:lastmodified":1684351724,
     "wof:name":"Wigoltingen",
     "wof:parent_id":102062955,
     "wof:placetype":"localadmin",
+    "wof:population":2457,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

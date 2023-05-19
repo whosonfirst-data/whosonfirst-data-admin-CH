@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0552",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Utzenstorf",
+    "eurostat:nuts_2021_id":"CH0552",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0552",
+    "eurostat:population":4333,
+    "eurostat:population_year":2020,
     "geom:area":0.002007,
-    "geom:area_square_m":16889882.919871,
+    "geom:area_square_m":16889882.919872,
     "geom:bbox":"7.533707,47.095884,7.593979,47.152941",
     "geom:latitude":47.123918,
     "geom:longitude":7.563525,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0552",
+        "eurostat:nuts_2021_id":"CH0552",
         "gn:id":7287400,
         "gp:id":12684553,
         "qs_pg:id":996380
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d483dc11025a4ef69b4f21a4914a233d",
+    "wof:geomhash":"82570dd459e3fd14078cd453e1b8ffba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568777,
-    "wof:lastmodified":1598919607,
+    "wof:lastmodified":1684351725,
     "wof:name":"Utzenstorf",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":4333,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

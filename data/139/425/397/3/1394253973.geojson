@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH9051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Z\u00fcrichsee (ZH)",
+    "eurostat:nuts_2021_id":"CH9051",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH9051",
     "geom:area":0.006638,
-    "geom:area_square_m":55706476.698236,
+    "geom:area_square_m":55706476.698225,
     "geom:bbox":"8.542814,47.203037,8.808599,47.34603",
     "geom:latitude":47.257289,
     "geom:longitude":8.663451,
@@ -31,12 +41,16 @@
     "wof:belongsto":[
         102191581,
         85633051,
-        1394212863,
-        85682309
+        85682309,
+        1394212863
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH9051",
+        "eurostat:nuts_2021_id":"CH9051"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"f1390fbd53b6ea6e304c027f2e9ce1cb",
+    "wof:geomhash":"b1d6dac063963459169ab11a2b6274fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,7 +61,7 @@
         }
     ],
     "wof:id":1394253973,
-    "wof:lastmodified":1606859083,
+    "wof:lastmodified":1684351777,
     "wof:name":"Z\u00fcrichsee",
     "wof:parent_id":1394212863,
     "wof:placetype":"localadmin",

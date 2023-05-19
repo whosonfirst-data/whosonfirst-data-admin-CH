@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4275",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kirchleerau",
+    "eurostat:nuts_2021_id":"CH4275",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4275",
+    "eurostat:population":863,
+    "eurostat:population_year":2020,
     "geom:area":0.000518,
-    "geom:area_square_m":4345399.388879,
+    "geom:area_square_m":4345399.388878,
     "geom:bbox":"8.054538,47.26396,8.091201,47.289651",
     "geom:latitude":47.277232,
     "geom:longitude":8.074,
@@ -117,14 +129,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062851,
-        85682329
+        85682329,
+        102062851
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH4275",
+        "eurostat:nuts_2021_id":"CH4275"
+    },
     "wof:coterminous":[
         1125953107
     ],
@@ -132,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2add94afd08fc467725bc7ca534db2f3",
+    "wof:geomhash":"89f8ede47ef5f5f724aa9f6ec0447763",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +160,12 @@
         }
     ],
     "wof:id":404571545,
-    "wof:lastmodified":1598920118,
+    "wof:lastmodified":1684351760,
     "wof:name":"Kirchleerau",
     "wof:parent_id":102062851,
     "wof:placetype":"localadmin",
+    "wof:population":863,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

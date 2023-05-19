@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2517",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Derendingen",
+    "eurostat:nuts_2021_id":"CH2517",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2517",
+    "eurostat:population":6482,
+    "eurostat:population_year":2020,
     "geom:area":0.000668,
     "geom:area_square_m":5610792.206763,
     "geom:bbox":"7.57488324778,47.1741396691,7.60565456006,47.2131523541",
@@ -57,6 +69,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2517",
+        "eurostat:nuts_2021_id":"CH2517",
         "gn:id":7285640,
         "gp:id":12683299,
         "qs_pg:id":43434
@@ -77,7 +93,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cedca7933af57461fe744f5b3f7ae5a3",
+    "wof:geomhash":"89f24020f3aaa2379868f0b97cc96be8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,10 +104,12 @@
         }
     ],
     "wof:id":404328639,
-    "wof:lastmodified":1582223085,
+    "wof:lastmodified":1684351698,
     "wof:name":"Derendingen",
     "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",
+    "wof:population":6482,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

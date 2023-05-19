@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Emmetten",
+    "eurostat:nuts_2021_id":"CH1504",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH065",
+    "eurostat:nuts_2021_level_lau":"CH1504",
+    "eurostat:population":1429,
+    "eurostat:population_year":2020,
     "geom:area":0.003382,
-    "geom:area_square_m":28543661.743412,
+    "geom:area_square_m":28543661.743411,
     "geom:bbox":"8.484098,46.914428,8.574946,46.990157",
     "geom:latitude":46.949775,
     "geom:longitude":8.526972,
@@ -119,14 +131,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062973,
-        85682315
+        85682315,
+        102062973
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1504",
+        "eurostat:nuts_2021_id":"CH1504",
         "gn:id":7285726,
         "gp:id":12683378,
         "qs_pg:id":1145840
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b7e539e0d23fbf06c3de7ffed2924830",
+    "wof:geomhash":"3cbcf3a774802ce0a3ed75a335a6faae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404328209,
-    "wof:lastmodified":1598920452,
+    "wof:lastmodified":1684351691,
     "wof:name":"Emmetten",
     "wof:parent_id":102062973,
     "wof:placetype":"localadmin",
+    "wof:population":1429,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

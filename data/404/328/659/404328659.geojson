@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2491",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hauenstein-Ifenthal",
+    "eurostat:nuts_2021_id":"CH2491",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2491",
+    "eurostat:population":315,
+    "eurostat:population_year":2020,
     "geom:area":0.000638,
-    "geom:area_square_m":5339883.956817,
+    "geom:area_square_m":5339883.956818,
     "geom:bbox":"7.833626,47.359069,7.88035,47.384473",
     "geom:latitude":47.371085,
     "geom:longitude":7.855966,
@@ -113,19 +125,24 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137093,
-        85682365
+        85682365,
+        1394137093
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2491",
+        "eurostat:nuts_2021_id":"CH2491"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"05f7c801cef7bfa6d075dc5aa6e7e5ed",
+    "wof:geomhash":"0855f774caca907f0a36dcb8cbbcc1d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +153,12 @@
         }
     ],
     "wof:id":404328659,
-    "wof:lastmodified":1598920342,
+    "wof:lastmodified":1684351699,
     "wof:name":"Hauenstein-Ifenthal",
     "wof:parent_id":1394137093,
     "wof:placetype":"localadmin",
+    "wof:population":315,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

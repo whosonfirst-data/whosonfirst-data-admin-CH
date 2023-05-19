@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corminboeuf",
+    "eurostat:nuts_2021_id":"CH2183",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2183",
+    "eurostat:population":2696,
+    "eurostat:population_year":2020,
     "geom:area":0.000852,
     "geom:area_square_m":7213722.45755,
     "geom:bbox":"7.06510892292,46.7872001699,7.11549306716,46.815531113",
@@ -87,6 +99,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -94,8 +108,12 @@
         102063029
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2183",
+        "eurostat:nuts_2021_id":"CH2183"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"eea0001e6f01f2a702220fbf1905b588",
+    "wof:geomhash":"f8423b030305656cc6be0f57ec1f9418",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +124,12 @@
         }
     ],
     "wof:id":1394254065,
-    "wof:lastmodified":1566640355,
+    "wof:lastmodified":1684351780,
     "wof:name":"Corminboeuf",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":2696,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

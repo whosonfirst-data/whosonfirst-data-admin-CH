@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eggerberg",
+    "eurostat:nuts_2021_id":"CH6004",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6004",
+    "eurostat:population":335,
+    "eurostat:population_year":2020,
     "geom:area":0.000706,
-    "geom:area_square_m":6029576.311305,
+    "geom:area_square_m":6029576.311306,
     "geom:bbox":"7.868046,46.302281,7.906462,46.339702",
     "geom:latitude":46.31616,
     "geom:longitude":7.888911,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063023,
-        85682281
+        85682281,
+        102063023
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6004",
+        "eurostat:nuts_2021_id":"CH6004",
         "gn:id":7285704,
         "gp:id":12683355,
         "qs_pg:id":671288
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7f9b037427ab5040416f83a701f34da",
+    "wof:geomhash":"9b34bdff74bbc0b5bbdcd7af2a8f4ceb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570895,
-    "wof:lastmodified":1598920571,
+    "wof:lastmodified":1684351752,
     "wof:name":"Eggerberg",
     "wof:parent_id":102063023,
     "wof:placetype":"localadmin",
+    "wof:population":335,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

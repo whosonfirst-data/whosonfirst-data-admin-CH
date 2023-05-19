@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0391",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberwil bei B\u00fcren",
+    "eurostat:nuts_2021_id":"CH0391",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0391",
+    "eurostat:population":875,
+    "eurostat:population_year":2020,
     "geom:area":0.000799,
-    "geom:area_square_m":6720828.820587,
+    "geom:area_square_m":6720828.820588,
     "geom:bbox":"7.386743,47.117675,7.440179,47.146515",
     "geom:latitude":47.130728,
     "geom:longitude":7.411438,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0391",
+        "eurostat:nuts_2021_id":"CH0391",
         "gn:id":7286720,
         "gp:id":12684142,
         "qs_pg:id":1016813
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4efc0f470903b7382f61dd1fac75b5f7",
+    "wof:geomhash":"0563f5f254c6d5b04f38f2144750cb59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404570665,
-    "wof:lastmodified":1598920697,
+    "wof:lastmodified":1684351749,
     "wof:name":"Oberwil bei B\u00fcren",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":875,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1368",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberiberg",
+    "eurostat:nuts_2021_id":"CH1368",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1368",
+    "eurostat:population":902,
+    "eurostat:population_year":2020,
     "geom:area":0.003925,
-    "geom:area_square_m":33082677.736858,
+    "geom:area_square_m":33082677.736861,
     "geom:bbox":"8.732936,46.994472,8.843834,47.069597",
     "geom:latitude":47.030184,
     "geom:longitude":8.782167,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062887,
-        85682305
+        85682305,
+        102062887
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1368",
+        "eurostat:nuts_2021_id":"CH1368",
         "gn:id":7286699,
         "gp:id":12684129,
         "qs_pg:id":1059680
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"45208787961418b44a3e01bad050063c",
+    "wof:geomhash":"4cf3668569c2388ac90e2f21e0ce7089",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404568213,
-    "wof:lastmodified":1598919687,
+    "wof:lastmodified":1684351714,
     "wof:name":"Oberiberg",
     "wof:parent_id":102062887,
     "wof:placetype":"localadmin",
+    "wof:population":902,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0345",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wynau",
+    "eurostat:nuts_2021_id":"CH0345",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0345",
+    "eurostat:population":1628,
+    "eurostat:population_year":2020,
     "geom:area":0.000603,
-    "geom:area_square_m":5060644.780529,
+    "geom:area_square_m":5060644.78053,
     "geom:bbox":"7.782124,47.243327,7.830383,47.268455",
     "geom:latitude":47.256188,
     "geom:longitude":7.805285,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0345",
+        "eurostat:nuts_2021_id":"CH0345",
         "gn:id":7287616,
         "gp:id":12684652,
         "qs_pg:id":106721
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"74e4f65f3404fb6097a628212c431df6",
+    "wof:geomhash":"377724c7ed1676ca8eb54a9526a84c62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571227,
-    "wof:lastmodified":1598920030,
+    "wof:lastmodified":1684351756,
     "wof:name":"Wynau",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":1628,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

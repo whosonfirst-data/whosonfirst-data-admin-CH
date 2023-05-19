@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5890",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vevey",
+    "eurostat:nuts_2021_id":"CH5890",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5890",
+    "eurostat:population":19891,
+    "eurostat:population_year":2020,
     "geom:area":0.000282,
     "geom:area_square_m":2398595.175957,
     "geom:bbox":"6.83228303171,46.4564589974,6.86345885892,46.4782135782",
@@ -199,6 +211,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -207,6 +221,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5890",
+        "eurostat:nuts_2021_id":"CH5890",
         "gn:id":7287444,
         "gp:id":12684567,
         "qs_pg:id":1078627
@@ -219,7 +235,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"24e9808e3b918fd50be008a17178dc15",
+    "wof:geomhash":"809a6b496eb9658845b308b3f67b85a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -230,10 +246,12 @@
         }
     ],
     "wof:id":404572387,
-    "wof:lastmodified":1582223034,
+    "wof:lastmodified":1684351769,
     "wof:name":"Vevey",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",
+    "wof:population":19891,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

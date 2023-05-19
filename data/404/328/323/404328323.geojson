@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Werthenstein",
+    "eurostat:nuts_2021_id":"CH1009",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1009",
+    "eurostat:population":2122,
+    "eurostat:population_year":2020,
     "geom:area":0.00187,
-    "geom:area_square_m":15759355.877542,
+    "geom:area_square_m":15759355.877545,
     "geom:bbox":"8.065373,47.006549,8.150065,47.057863",
     "geom:latitude":47.036979,
     "geom:longitude":8.10763,
@@ -114,14 +126,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137073,
-        85682319
+        85682319,
+        1394137073
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1009",
+        "eurostat:nuts_2021_id":"CH1009",
         "gn:id":7287561,
         "gp:id":12684357,
         "qs_pg:id":1315117
@@ -131,7 +147,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"05f0e6684dd0c7f675ee566e207c55d7",
+    "wof:geomhash":"690e3ea4a830ca4e8b0140f57bc7f2f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404328323,
-    "wof:lastmodified":1598920363,
+    "wof:lastmodified":1684351694,
     "wof:name":"Werthenstein",
     "wof:parent_id":1394137073,
     "wof:placetype":"localadmin",
+    "wof:population":2122,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4289",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zofingen",
+    "eurostat:nuts_2021_id":"CH4289",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4289",
+    "eurostat:population":11656,
+    "eurostat:population_year":2020,
     "geom:area":0.001317,
-    "geom:area_square_m":11048329.174913,
+    "geom:area_square_m":11048329.174912,
     "geom:bbox":"7.928963,47.274486,8.000265,47.307975",
     "geom:latitude":47.288853,
     "geom:longitude":7.963286,
@@ -166,14 +178,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062851,
-        85682329
+        85682329,
+        102062851
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4289",
+        "eurostat:nuts_2021_id":"CH4289",
         "gn:id":7287639,
         "gp:id":12684664,
         "qs_pg:id":891651
@@ -183,7 +199,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"35d3b80ab93714412ae134f720433088",
+    "wof:geomhash":"dd103410dbdd92193ed2f9b93aef03f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404569567,
-    "wof:lastmodified":1598919150,
+    "wof:lastmodified":1684351735,
     "wof:name":"Zofingen",
     "wof:parent_id":102062851,
     "wof:placetype":"localadmin",
+    "wof:population":11656,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

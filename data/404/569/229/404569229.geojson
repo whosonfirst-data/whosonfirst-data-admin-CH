@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4236",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muri (AG)",
+    "eurostat:nuts_2021_id":"CH4236",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4236",
+    "eurostat:population":7811,
+    "eurostat:population_year":2020,
     "geom:area":0.001467,
-    "geom:area_square_m":12306283.086434,
+    "geom:area_square_m":12306283.086436,
     "geom:bbox":"8.313887,47.24689,8.36321,47.296641",
     "geom:latitude":47.271284,
     "geom:longitude":8.339536,
@@ -84,14 +96,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062809,
-        85682329
+        85682329,
+        102062809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH4236",
+        "eurostat:nuts_2021_id":"CH4236"
+    },
     "wof:coterminous":[
         101854351
     ],
@@ -99,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ad80c50cd799324dee01163477a5b3f1",
+    "wof:geomhash":"d6cb4e2c8c59eb76f61a4b1baba3a7d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":404569229,
-    "wof:lastmodified":1598919169,
+    "wof:lastmodified":1684351732,
     "wof:name":"Muri",
     "wof:parent_id":102062809,
     "wof:placetype":"localadmin",
+    "wof:population":7811,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

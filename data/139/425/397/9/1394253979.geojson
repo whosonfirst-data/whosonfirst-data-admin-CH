@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leuk",
+    "eurostat:nuts_2021_id":"CH6110",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6110",
+    "eurostat:population":3949,
+    "eurostat:population_year":2020,
     "geom:area":0.006439,
-    "geom:area_square_m":55001579.130866,
+    "geom:area_square_m":55001579.130868,
     "geom:bbox":"7.58125778524,46.2475014975,7.71238762557,46.3823976893",
     "geom:latitude":46.304718,
     "geom:longitude":7.645496,
@@ -114,6 +126,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -121,8 +135,12 @@
         102062761
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6110",
+        "eurostat:nuts_2021_id":"CH6110"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"56b1ee2ac027783620d2473bc4e959b1",
+    "wof:geomhash":"fddf950518d6304fd02431f5ff69f59f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +151,12 @@
         }
     ],
     "wof:id":1394253979,
-    "wof:lastmodified":1566640342,
+    "wof:lastmodified":1684351777,
     "wof:name":"Leuk",
     "wof:parent_id":102062761,
     "wof:placetype":"localadmin",
+    "wof:population":3949,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

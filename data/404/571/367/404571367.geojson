@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6451",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cornaux",
+    "eurostat:nuts_2021_id":"CH6451",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6451",
+    "eurostat:population":1563,
+    "eurostat:population_year":2020,
     "geom:area":0.000559,
-    "geom:area_square_m":4714454.138179,
+    "geom:area_square_m":4714454.138178,
     "geom:bbox":"6.998322,47.020965,7.037272,47.044168",
     "geom:latitude":47.033079,
     "geom:longitude":7.017502,
@@ -94,6 +106,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6451",
+        "eurostat:nuts_2021_id":"CH6451",
         "gn:id":7285560,
         "gp:id":12684860,
         "qs_pg:id":952958
@@ -110,7 +126,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4e565f1f25eacfa0a7ed18e2eee2747b",
+    "wof:geomhash":"9b16d1d281cad001ac1858a9c437c59f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404571367,
-    "wof:lastmodified":1598920147,
+    "wof:lastmodified":1684351758,
     "wof:name":"Cornaux",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":1563,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

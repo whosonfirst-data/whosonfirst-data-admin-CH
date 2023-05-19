@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4566",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frauenfeld",
+    "eurostat:nuts_2021_id":"CH4566",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4566",
+    "eurostat:population":25611,
+    "eurostat:population_year":2020,
     "geom:area":0.003269,
-    "geom:area_square_m":27276930.49596,
+    "geom:area_square_m":27276930.495959,
     "geom:bbox":"8.837729,47.52703,8.945817,47.586562",
     "geom:latitude":47.558027,
     "geom:longitude":8.89639,
@@ -219,6 +231,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -226,7 +240,10 @@
         102062869
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH4566",
+        "eurostat:nuts_2021_id":"CH4566"
+    },
     "wof:coterminous":[
         101854447
     ],
@@ -234,7 +251,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9dc80f6b5c5718eec348bb5eea153eaa",
+    "wof:geomhash":"a1f741d9631389331a7939d96fae158d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -245,10 +262,12 @@
         }
     ],
     "wof:id":404568329,
-    "wof:lastmodified":1636413522,
+    "wof:lastmodified":1684351716,
     "wof:name":"Frauenfeld",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
+    "wof:population":25611,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4716",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bettwiesen",
+    "eurostat:nuts_2021_id":"CH4716",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4716",
+    "eurostat:population":1247,
+    "eurostat:population_year":2020,
     "geom:area":0.000459,
-    "geom:area_square_m":3838444.221151,
+    "geom:area_square_m":3838444.22115,
     "geom:bbox":"8.99221639552,47.4882755561,9.04208673164,47.5079529441",
     "geom:latitude":47.497669,
     "geom:longitude":9.018696,
@@ -114,6 +126,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -121,7 +135,10 @@
         102062981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH4716",
+        "eurostat:nuts_2021_id":"CH4716"
+    },
     "wof:coterminous":[
         1125976983
     ],
@@ -129,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b46fa8e6e3e5de4fece4dd8c320bbd98",
+    "wof:geomhash":"02263f5bc71e481dde6b2b9f04fa6d31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +157,12 @@
         }
     ],
     "wof:id":404571773,
-    "wof:lastmodified":1582223066,
+    "wof:lastmodified":1684351763,
     "wof:name":"Bettwiesen",
     "wof:parent_id":102062981,
     "wof:placetype":"localadmin",
+    "wof:population":1247,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0342",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Thunstetten",
+    "eurostat:nuts_2021_id":"CH0342",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0342",
+    "eurostat:population":3397,
+    "eurostat:population_year":2020,
     "geom:area":0.001147,
     "geom:area_square_m":9635262.32418,
     "geom:bbox":"7.72146,47.181881,7.768389,47.224707",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0342",
+        "eurostat:nuts_2021_id":"CH0342",
         "gn:id":7287308,
         "gp:id":12683115,
         "qs_pg:id":671630
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ed758e061d7abbd707ed0cdb06ee1f5b",
+    "wof:geomhash":"aa0cd141fb8b5ec751acc7f50bba328d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404569835,
-    "wof:lastmodified":1598919214,
+    "wof:lastmodified":1684351739,
     "wof:name":"Thunstetten",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":3397,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

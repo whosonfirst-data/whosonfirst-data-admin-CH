@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ebikon",
+    "eurostat:nuts_2021_id":"CH1054",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1054",
+    "eurostat:population":13617,
+    "eurostat:population_year":2020,
     "geom:area":0.001147,
     "geom:area_square_m":9658344.20762,
     "geom:bbox":"8.290523,47.062628,8.365976,47.095265",
@@ -129,14 +141,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137079,
-        85682319
+        85682319,
+        1394137079
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1054",
+        "eurostat:nuts_2021_id":"CH1054",
         "gn:id":7285687,
         "gp:id":12683342,
         "qs_pg:id":1102306
@@ -146,7 +162,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fa5150a4f7139eed7748753369bd15d2",
+    "wof:geomhash":"8e99dab87823c91cd6759b826eccb257",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +173,12 @@
         }
     ],
     "wof:id":404328439,
-    "wof:lastmodified":1598920321,
+    "wof:lastmodified":1684351696,
     "wof:name":"Ebikon",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",
+    "wof:population":13617,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

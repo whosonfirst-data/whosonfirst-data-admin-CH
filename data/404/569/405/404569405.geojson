@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4590",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"H\u00fcttlingen",
+    "eurostat:nuts_2021_id":"CH4590",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4590",
+    "eurostat:population":850,
+    "eurostat:population_year":2020,
     "geom:area":0.001387,
-    "geom:area_square_m":11569988.332203,
+    "geom:area_square_m":11569988.332202,
     "geom:bbox":"8.951082,47.560096,9.018709,47.590467",
     "geom:latitude":47.576814,
     "geom:longitude":8.984514,
@@ -79,14 +91,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062869,
-        85682337
+        85682337,
+        102062869
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4590",
+        "eurostat:nuts_2021_id":"CH4590",
         "gn:id":7286127,
         "gp:id":12683712,
         "qs_pg:id":974745
@@ -96,7 +112,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"aa770ec0fb9bc04ae153daeb8ebec116",
+    "wof:geomhash":"a5291054837f29de29068dfe3cd77992",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +123,12 @@
         }
     ],
     "wof:id":404569405,
-    "wof:lastmodified":1598919324,
+    "wof:lastmodified":1684351734,
     "wof:name":"H\u00fcttlingen",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
+    "wof:population":850,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0927",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Heiligenschwendi",
+    "eurostat:nuts_2021_id":"CH0927",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0927",
+    "eurostat:population":703,
+    "eurostat:population_year":2020,
     "geom:area":0.000653,
     "geom:area_square_m":5534161.786669,
     "geom:bbox":"7.653308,46.741593,7.710532,46.762582",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0927",
+        "eurostat:nuts_2021_id":"CH0927",
         "gn:id":7286048,
         "gp:id":12683654,
         "qs_pg:id":989359
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"417261a2fa7d561ba1e095e8e981349a",
+    "wof:geomhash":"af5448e40f38a82b9060eba014f975df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404571061,
-    "wof:lastmodified":1598920194,
+    "wof:lastmodified":1684351754,
     "wof:name":"Heiligenschwendi",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":703,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

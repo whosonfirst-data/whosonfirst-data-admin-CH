@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5881",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Blonay",
+    "eurostat:nuts_2021_id":"CH5881",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5881",
+    "eurostat:population":6173,
+    "eurostat:population_year":2020,
     "geom:area":0.001883,
-    "geom:area_square_m":16031733.574736,
+    "geom:area_square_m":16031733.574735,
     "geom:bbox":"6.86961,46.453778,6.981325,46.497664",
     "geom:latitude":46.477846,
     "geom:longitude":6.921973,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062833,
-        85682325
+        85682325,
+        102062833
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5881",
+        "eurostat:nuts_2021_id":"CH5881",
         "gn:id":7285272,
         "gp:id":12682994,
         "qs_pg:id":904142
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c9a57e7a13b28422dfdaba6536360dcd",
+    "wof:geomhash":"c294b37ecfb40c44b2e66ecd18361c4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404568831,
-    "wof:lastmodified":1598919696,
+    "wof:lastmodified":1684351725,
     "wof:name":"Blonay",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",
+    "wof:population":6173,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

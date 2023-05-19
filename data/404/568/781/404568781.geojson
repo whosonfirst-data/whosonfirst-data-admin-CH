@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5078",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prato (Leventina)",
+    "eurostat:nuts_2021_id":"CH5078",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5078",
+    "eurostat:population":406,
+    "eurostat:population_year":2020,
     "geom:area":0.00197,
-    "geom:area_square_m":16774929.996374,
+    "geom:area_square_m":16774929.996375,
     "geom:bbox":"8.691546,46.458338,8.770722,46.498895",
     "geom:latitude":46.476945,
     "geom:longitude":8.732174,
@@ -262,14 +274,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062931,
-        85682269
+        85682269,
+        102062931
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5078",
+        "eurostat:nuts_2021_id":"CH5078",
         "gn:id":7286827,
         "qs_pg:id":106655
     },
@@ -278,7 +294,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"83633933838b7b09f3931eeaeed3c807",
+    "wof:geomhash":"b18447291ec20257f9b9de5c29db1b84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -289,10 +305,12 @@
         }
     ],
     "wof:id":404568781,
-    "wof:lastmodified":1598919734,
+    "wof:lastmodified":1684351725,
     "wof:name":"Prato",
     "wof:parent_id":102062931,
     "wof:placetype":"localadmin",
+    "wof:population":406,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

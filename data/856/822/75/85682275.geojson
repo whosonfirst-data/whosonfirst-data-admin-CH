@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Appenzell Innerrhoden",
+    "eurostat:name_local":"Appenzell Innerrhoden",
+    "eurostat:nuts_2021_id":"CH054",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH054",
+    "eurostat:population":16360,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.020519,
-    "geom:area_square_m":172004423.806077,
+    "geom:area_square_m":172004423.806089,
     "geom:bbox":"9.309714,47.233996,9.618399,47.443694",
     "geom:latitude":47.317191,
     "geom:longitude":9.416391,
@@ -450,8 +464,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"172",
     "statoids:area_mi":"66",
     "statoids:as_of_date":"2010-12-31",
@@ -472,6 +486,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":10157,
+        "eurostat:nuts_2021_id":"CH054",
         "fips:code":"SZ10",
         "gn:id":2661741,
         "gp:id":2347092,
@@ -483,7 +498,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b87bc9fe99f983750e02ccd768b5ce1a",
+    "wof:geomhash":"8d874d6d3995f47dc5c8cae390f7187d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -505,12 +520,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1614896085,
+    "wof:lastmodified":1684351498,
     "wof:name":"Appenzell Innerrhoden",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":15688,
+    "wof:population":16360,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"AI",

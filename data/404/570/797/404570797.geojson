@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5763",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valeyres-sous-Rances",
+    "eurostat:nuts_2021_id":"CH5763",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5763",
+    "eurostat:population":621,
+    "eurostat:population_year":2020,
     "geom:area":0.000747,
-    "geom:area_square_m":6327839.370688,
+    "geom:area_square_m":6327839.370687,
     "geom:bbox":"6.503257,46.738328,6.579177,46.758156",
     "geom:latitude":46.74824,
     "geom:longitude":6.535352,
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5763",
+        "eurostat:nuts_2021_id":"CH5763",
         "gn:id":7287409,
         "gp:id":12684781,
         "qs_pg:id":1019465
@@ -114,7 +130,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4dd4e5094f933cd42a9f6ed3c153c1e4",
+    "wof:geomhash":"d205e2a82d4805eeb1939747e44f2dea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404570797,
-    "wof:lastmodified":1598920510,
+    "wof:lastmodified":1684351751,
     "wof:name":"Valeyres-sous-Rances",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":621,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

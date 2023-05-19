@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0418",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberburg",
+    "eurostat:nuts_2021_id":"CH0418",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0418",
+    "eurostat:population":2937,
+    "eurostat:population_year":2020,
     "geom:area":0.001673,
-    "geom:area_square_m":14100659.113783,
+    "geom:area_square_m":14100659.113784,
     "geom:bbox":"7.57517721096,46.9836828036,7.64009322848,47.0550001526",
     "geom:latitude":47.023062,
     "geom:longitude":7.606523,
@@ -60,6 +72,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -67,7 +81,10 @@
         102062837
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0418",
+        "eurostat:nuts_2021_id":"CH0418"
+    },
     "wof:coterminous":[
         101875853
     ],
@@ -75,7 +92,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4aafbd080ef15ecafc7e2254d01b7ffe",
+    "wof:geomhash":"48b11c6481198558d9f2f93e739eeb7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,10 +103,12 @@
         }
     ],
     "wof:id":404573389,
-    "wof:lastmodified":1582223043,
+    "wof:lastmodified":1684351774,
     "wof:name":"Oberburg",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":2937,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

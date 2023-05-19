@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2186",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cottens (FR)",
+    "eurostat:nuts_2021_id":"CH2186",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2186",
+    "eurostat:population":1509,
+    "eurostat:population_year":2020,
     "geom:area":0.000585,
     "geom:area_square_m":4956766.648975,
     "geom:bbox":"7.01550104955,46.7429901313,7.06055718822,46.7670372672",
@@ -73,6 +85,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2186",
+        "eurostat:nuts_2021_id":"CH2186",
         "gn:id":7285571,
         "gp:id":20075581,
         "qs_pg:id":671256
@@ -93,7 +109,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"96d9c1dbff32391662bc91db16116f5d",
+    "wof:geomhash":"12ab81b9eaff026c0831e3ef383bf4a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404571265,
-    "wof:lastmodified":1582223063,
+    "wof:lastmodified":1684351756,
     "wof:name":"Cottens",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":1509,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

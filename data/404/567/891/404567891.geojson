@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0908",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trub",
+    "eurostat:nuts_2021_id":"CH0908",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0908",
+    "eurostat:population":1326,
+    "eurostat:population_year":2020,
     "geom:area":0.007326,
-    "geom:area_square_m":61822294.551771,
+    "geom:area_square_m":61822294.551763,
     "geom:bbox":"7.837485,46.885294,7.956204,47.010555",
     "geom:latitude":46.962881,
     "geom:longitude":7.891471,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0908",
+        "eurostat:nuts_2021_id":"CH0908",
         "gn:id":7287340,
         "gp:id":12683440,
         "qs_pg:id":1015642
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"00655e355b9a80cefd015ee157806339",
+    "wof:geomhash":"02dbd1e152f174b152a6a753146c6676",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404567891,
-    "wof:lastmodified":1598919438,
+    "wof:lastmodified":1684351707,
     "wof:name":"Trub",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":1326,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

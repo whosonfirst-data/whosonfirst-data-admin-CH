@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3253",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marbach (SG)",
+    "eurostat:nuts_2021_id":"CH3253",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3253",
+    "eurostat:population":2105,
+    "eurostat:population_year":2020,
     "geom:area":0.000522,
-    "geom:area_square_m":4368411.102873,
+    "geom:area_square_m":4368411.102872,
     "geom:bbox":"9.5552600986,47.3681380168,9.60327477854,47.4005169318",
     "geom:latitude":47.386375,
     "geom:longitude":9.579174,
@@ -85,6 +97,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -93,6 +107,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3253",
+        "eurostat:nuts_2021_id":"CH3253",
         "gn:id":7286434,
         "gp:id":12684999,
         "qs_pg:id":671446
@@ -105,7 +121,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"554bea046ec5efcd9f972d1249ec7ab8",
+    "wof:geomhash":"1ce5b6552f3f2ed180fcefbd5481da5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         }
     ],
     "wof:id":404571531,
-    "wof:lastmodified":1582223058,
+    "wof:lastmodified":1684351760,
     "wof:name":"Marbach",
     "wof:parent_id":102063005,
     "wof:placetype":"localadmin",
+    "wof:population":2105,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

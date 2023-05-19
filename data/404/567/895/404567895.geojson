@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6808",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Clos du Doubs",
+    "eurostat:nuts_2021_id":"CH6808",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6808",
+    "eurostat:population":1286,
+    "eurostat:population_year":2020,
     "geom:area":0.007351,
-    "geom:area_square_m":61579367.965047,
+    "geom:area_square_m":61579367.965046,
     "geom:bbox":"7.034149,47.313316,7.213098,47.385482",
     "geom:latitude":47.350958,
     "geom:longitude":7.120664,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063059,
-        85682347
+        85682347,
+        102063059
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6808",
+        "eurostat:nuts_2021_id":"CH6808",
         "gn:id":7285521,
         "gp:id":56071067,
         "qs_pg:id":671246
@@ -114,7 +130,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e8d0a311b998a3660a05049844d2abae",
+    "wof:geomhash":"0cffbf4db9fca44fca189c82fed96198",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404567895,
-    "wof:lastmodified":1598919392,
+    "wof:lastmodified":1684351707,
     "wof:name":"Clos du Doubs",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
+    "wof:population":1286,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

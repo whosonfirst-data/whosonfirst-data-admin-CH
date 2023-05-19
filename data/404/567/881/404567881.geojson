@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3789",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sils im Engadin/Segl",
+    "eurostat:nuts_2021_id":"CH3789",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3789",
+    "eurostat:population":700,
+    "eurostat:population_year":2020,
     "geom:area":0.007438,
-    "geom:area_square_m":63414615.071262,
+    "geom:area_square_m":63414615.071279,
     "geom:bbox":"9.674357,46.3405,9.832147,46.460853",
     "geom:latitude":46.406579,
     "geom:longitude":9.770538,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062857,
-        85682255
+        85682255,
+        102062857
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3789",
+        "eurostat:nuts_2021_id":"CH3789",
         "gp:id":12683265,
         "qs_pg:id":1120603
     },
@@ -140,7 +156,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b98bea89157bed291da72e665c747c76",
+    "wof:geomhash":"74576ccfefcc7d274f90860209b32884",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         }
     ],
     "wof:id":404567881,
-    "wof:lastmodified":1598919388,
+    "wof:lastmodified":1684351707,
     "wof:name":"Sils im Engadin/Segl",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",
+    "wof:population":700,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

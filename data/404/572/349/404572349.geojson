@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2274",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muntelier",
+    "eurostat:nuts_2021_id":"CH2274",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2274",
+    "eurostat:population":972,
+    "eurostat:population_year":2020,
     "geom:area":0.000296,
-    "geom:area_square_m":2497757.019153,
+    "geom:area_square_m":2497757.019152,
     "geom:bbox":"7.110345,46.933302,7.146472,46.950732",
     "geom:latitude":46.942365,
     "geom:longitude":7.127994,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062765,
-        85682301
+        85682301,
+        102062765
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2274",
+        "eurostat:nuts_2021_id":"CH2274",
         "gp:id":12685273,
         "qs_pg:id":1312621
     },
@@ -119,7 +135,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f638a3041d49ad3dbe0580642cbf18a9",
+    "wof:geomhash":"11bb38cd1f7045e814bd48f91f89b512",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404572349,
-    "wof:lastmodified":1598919810,
+    "wof:lastmodified":1684351769,
     "wof:name":"Muntelier",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",
+    "wof:population":972,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lutzenberg",
+    "eurostat:nuts_2021_id":"CH3033",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH053",
+    "eurostat:nuts_2021_level_lau":"CH3033",
+    "eurostat:population":1279,
+    "eurostat:population_year":2020,
     "geom:area":0.000268,
     "geom:area_square_m":2241799.686717,
     "geom:bbox":"9.52563471313,47.4526402314,9.58941025354,47.4690439665",
@@ -38,6 +50,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -45,7 +59,10 @@
         1394137103
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3033",
+        "eurostat:nuts_2021_id":"CH3033"
+    },
     "wof:coterminous":[
         1394298059
     ],
@@ -53,7 +70,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bda5c68a1fad463679734acbcd48712a",
+    "wof:geomhash":"f7e4d0499cfcccda874030d12a9e63b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +81,12 @@
         }
     ],
     "wof:id":404328919,
-    "wof:lastmodified":1582223089,
+    "wof:lastmodified":1684351701,
     "wof:name":"Lutzenberg",
     "wof:parent_id":1394137103,
     "wof:placetype":"localadmin",
+    "wof:population":1279,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

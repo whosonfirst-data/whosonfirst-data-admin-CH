@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6710",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Court\u00e9telle",
+    "eurostat:nuts_2021_id":"CH6710",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6710",
+    "eurostat:population":2612,
+    "eurostat:population_year":2020,
     "geom:area":0.001613,
-    "geom:area_square_m":13519190.60688,
+    "geom:area_square_m":13519190.606881,
     "geom:bbox":"7.296042,47.305891,7.33768,47.359054",
     "geom:latitude":47.331002,
     "geom:longitude":7.317635,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062791,
-        85682347
+        85682347,
+        102062791
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6710",
+        "eurostat:nuts_2021_id":"CH6710",
         "gn:id":7285585,
         "qs_pg:id":671265
     },
@@ -116,7 +132,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b86c63354c0da70a1032b2834f90e59a",
+    "wof:geomhash":"689247fc88c56a8d0bfe5043aa65f6bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404569065,
-    "wof:lastmodified":1598919203,
+    "wof:lastmodified":1684351730,
     "wof:name":"Court\u00e9telle",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
+    "wof:population":2612,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

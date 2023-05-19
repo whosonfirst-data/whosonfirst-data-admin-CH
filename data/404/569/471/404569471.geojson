@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4263",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zeiningen",
+    "eurostat:nuts_2021_id":"CH4263",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4263",
+    "eurostat:population":2310,
+    "eurostat:population_year":2020,
     "geom:area":0.001358,
-    "geom:area_square_m":11338636.173413,
+    "geom:area_square_m":11338636.173412,
     "geom:bbox":"7.852331,47.519309,7.900124,47.569846",
     "geom:latitude":47.54325,
     "geom:longitude":7.876315,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062905,
-        85682329
+        85682329,
+        102062905
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4263",
+        "eurostat:nuts_2021_id":"CH4263",
         "gn:id":7287627,
         "gp:id":12684951,
         "qs_pg:id":902703
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"605e3ea015ad806fb56bc067bd166b27",
+    "wof:geomhash":"6540a05182f260ff0cfd085cae12a980",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404569471,
-    "wof:lastmodified":1598919177,
+    "wof:lastmodified":1684351734,
     "wof:name":"Zeiningen",
     "wof:parent_id":102062905,
     "wof:placetype":"localadmin",
+    "wof:population":2310,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

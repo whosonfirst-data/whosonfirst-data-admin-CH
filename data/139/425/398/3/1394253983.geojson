@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3543",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Surses",
+    "eurostat:nuts_2021_id":"CH3543",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3543",
+    "eurostat:population":2356,
+    "eurostat:population_year":2020,
     "geom:area":0.037964,
-    "geom:area_square_m":322934526.376725,
+    "geom:area_square_m":322934526.376722,
     "geom:bbox":"9.49276744242,46.4045483686,9.73252523059,46.6449274052",
     "geom:latitude":46.53451,
     "geom:longitude":9.614409,
@@ -51,6 +63,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -58,8 +72,12 @@
         102062885
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3543",
+        "eurostat:nuts_2021_id":"CH3543"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"bc9f3c6b7efb28ca7b175ec7853cd240",
+    "wof:geomhash":"aec9b3573fee76af285453ce67e41da7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,10 +88,12 @@
         }
     ],
     "wof:id":1394253983,
-    "wof:lastmodified":1566640340,
+    "wof:lastmodified":1684351777,
     "wof:name":"Surses",
     "wof:parent_id":102062885,
     "wof:placetype":"localadmin",
+    "wof:population":2356,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

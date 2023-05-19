@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1347",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tuggen",
+    "eurostat:nuts_2021_id":"CH1347",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1347",
+    "eurostat:population":3310,
+    "eurostat:population_year":2020,
     "geom:area":0.001791,
-    "geom:area_square_m":15045821.793619,
+    "geom:area_square_m":15045821.79362,
     "geom:bbox":"8.905373,47.182733,8.974293,47.218138",
     "geom:latitude":47.201247,
     "geom:longitude":8.938088,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062927,
-        85682305
+        85682305,
+        102062927
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1347",
+        "eurostat:nuts_2021_id":"CH1347",
         "gn:id":7287350,
         "gp:id":12684526,
         "qs_pg:id":248428
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"2e75b98146c12d357c955f81a9d03ab1",
+    "wof:geomhash":"53f50173f2c21f900cf6002e1d2e9af3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404568907,
-    "wof:lastmodified":1598919462,
+    "wof:lastmodified":1684351727,
     "wof:name":"Tuggen",
     "wof:parent_id":102062927,
     "wof:placetype":"localadmin",
+    "wof:population":3310,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

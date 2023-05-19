@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5592",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Romanel-sur-Lausanne",
+    "eurostat:nuts_2021_id":"CH5592",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5592",
+    "eurostat:population":3309,
+    "eurostat:population_year":2020,
     "geom:area":0.000338,
     "geom:area_square_m":2873366.164092,
     "geom:bbox":"6.595132,46.548965,6.620037,46.569757",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063009,
-        85682325
+        85682325,
+        102063009
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5592",
+        "eurostat:nuts_2021_id":"CH5592",
         "gn:id":7286938,
         "gp:id":20075602,
         "qs_pg:id":384900
@@ -120,7 +136,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c6b3fd5a823a98b3dbcf0358195fc6c4",
+    "wof:geomhash":"dd86f4ee67882a2211990c3c457fba29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404572173,
-    "wof:lastmodified":1598919801,
+    "wof:lastmodified":1684351767,
     "wof:name":"Romanel-sur-Lausanne",
     "wof:parent_id":102063009,
     "wof:placetype":"localadmin",
+    "wof:population":3309,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

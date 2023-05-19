@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0717",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valbirse",
+    "eurostat:nuts_2021_id":"CH0717",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0717",
+    "eurostat:population":3975,
+    "eurostat:population_year":2020,
     "geom:area":0.00222,
     "geom:area_square_m":18633784.036889,
     "geom:bbox":"7.24618905578,47.2110112985,7.29742019488,47.2661260968",
@@ -48,6 +60,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -55,8 +69,12 @@
         102062865
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0717",
+        "eurostat:nuts_2021_id":"CH0717"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"ef2ca8be19a93523fbbebfd75f371f85",
+    "wof:geomhash":"e2b4dae8670548586ff0f645afd43d24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,10 +85,12 @@
         }
     ],
     "wof:id":1394254097,
-    "wof:lastmodified":1566640357,
+    "wof:lastmodified":1684351781,
     "wof:name":"Valbirse",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":3975,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Silvester",
+    "eurostat:nuts_2021_id":"CH2303",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2303",
+    "eurostat:population":958,
+    "eurostat:population_year":2020,
     "geom:area":0.000829,
-    "geom:area_square_m":7021932.058352,
+    "geom:area_square_m":7021932.05835,
     "geom:bbox":"7.194223,46.717306,7.240648,46.756658",
     "geom:latitude":46.738174,
     "geom:longitude":7.220606,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062891,
-        85682301
+        85682301,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2303",
+        "eurostat:nuts_2021_id":"CH2303",
         "gp:id":12684996,
         "qs_pg:id":1306497
     },
@@ -122,7 +138,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"38ce00639f8e8ee76f22f83c62540bdb",
+    "wof:geomhash":"c42c71d88af5093e611180cd7c07d766",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404570567,
-    "wof:lastmodified":1598920514,
+    "wof:lastmodified":1684351748,
     "wof:name":"St. Silvester",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",
+    "wof:population":958,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

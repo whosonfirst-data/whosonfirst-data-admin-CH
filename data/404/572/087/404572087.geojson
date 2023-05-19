@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4315",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rekingen (AG)",
+    "eurostat:nuts_2021_id":"CH4315",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4315",
+    "eurostat:population":971,
+    "eurostat:population_year":2020,
     "geom:area":0.000371,
     "geom:area_square_m":3092983.17822,
     "geom:bbox":"8.305387,47.557,8.337336,47.578828",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062841,
-        85682329
+        85682329,
+        102062841
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4315",
+        "eurostat:nuts_2021_id":"CH4315",
         "gn:id":7286880,
         "gp:id":12684251,
         "qs_pg:id":258786
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"749fd18aa685fdd2761b44a2e1d7f721",
+    "wof:geomhash":"75c002ef288ecd7a986337d5f815ad8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404572087,
-    "wof:lastmodified":1598919832,
+    "wof:lastmodified":1684351766,
     "wof:name":"Rekingen",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",
+    "wof:population":971,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

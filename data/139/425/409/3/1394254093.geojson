@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3837",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calanca",
+    "eurostat:nuts_2021_id":"CH3837",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3837",
+    "eurostat:population":199,
+    "eurostat:population_year":2020,
     "geom:area":0.004405,
     "geom:area_square_m":37622473.809061,
     "geom:bbox":"9.06431392398,46.2841461167,9.16219107719,46.3451481448",
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -52,8 +66,12 @@
         102062903
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3837",
+        "eurostat:nuts_2021_id":"CH3837"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"cf8066624d45392d8cf91a6d0057bfd9",
+    "wof:geomhash":"c403ebfb47f82f73572e8a0f5a5e5f39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +82,12 @@
         }
     ],
     "wof:id":1394254093,
-    "wof:lastmodified":1566640357,
+    "wof:lastmodified":1684351781,
     "wof:name":"Calanca",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
+    "wof:population":199,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

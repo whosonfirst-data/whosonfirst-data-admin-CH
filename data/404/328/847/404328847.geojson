@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2529",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oekingen",
+    "eurostat:nuts_2021_id":"CH2529",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2529",
+    "eurostat:population":839,
+    "eurostat:population_year":2020,
     "geom:area":0.000283,
     "geom:area_square_m":2381484.339943,
     "geom:bbox":"7.59940573346,47.1685698254,7.63722018063,47.1924098914",
@@ -102,6 +114,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2529",
+        "eurostat:nuts_2021_id":"CH2529",
         "gn:id":7286727,
         "gp:id":20075517,
         "qs_pg:id":1149862
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"62119b18dfbdbc33c7f604f96de7ea61",
+    "wof:geomhash":"59e93feb6a95f924000d27dad633fdd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404328847,
-    "wof:lastmodified":1582223084,
+    "wof:lastmodified":1684351701,
     "wof:name":"Oekingen",
     "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",
+    "wof:population":839,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5497",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pompaples",
+    "eurostat:nuts_2021_id":"CH5497",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5497",
+    "eurostat:population":847,
+    "eurostat:population_year":2020,
     "geom:area":0.000522,
-    "geom:area_square_m":4431583.608498,
+    "geom:area_square_m":4431583.608499,
     "geom:bbox":"6.494614,46.661806,6.549707,46.691411",
     "geom:latitude":46.676784,
     "geom:longitude":6.521297,
@@ -88,14 +100,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5497",
+        "eurostat:nuts_2021_id":"CH5497",
         "gn:id":7286810,
         "gp:id":12684776,
         "qs_pg:id":1040556
@@ -108,7 +124,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"59d897c1425ddd81e6e17aadd39ec6bb",
+    "wof:geomhash":"c6f5ffebedd4a810275b7b6f57e315c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404571489,
-    "wof:lastmodified":1598920181,
+    "wof:lastmodified":1684351759,
     "wof:name":"Pompaples",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":847,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

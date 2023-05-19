@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0082",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boppelsen",
+    "eurostat:nuts_2021_id":"CH0082",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0082",
+    "eurostat:population":1377,
+    "eurostat:population_year":2020,
     "geom:area":0.000473,
-    "geom:area_square_m":3953004.744201,
+    "geom:area_square_m":3953004.744202,
     "geom:bbox":"8.389349,47.45785,8.420952,47.482042",
     "geom:latitude":47.471932,
     "geom:longitude":8.406889,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062995,
-        85682309
+        85682309,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0082",
+        "eurostat:nuts_2021_id":"CH0082",
         "gn:id":7285295,
         "gp:id":12685099,
         "qs_pg:id":1112607
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a28ffa4d35f9a2592f37fcab3b4883ec",
+    "wof:geomhash":"30b332393e7748604cdced855fc62a40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404571707,
-    "wof:lastmodified":1598920026,
+    "wof:lastmodified":1684351762,
     "wof:name":"Boppelsen",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",
+    "wof:population":1377,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

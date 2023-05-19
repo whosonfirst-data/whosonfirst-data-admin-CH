@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castaneda",
+    "eurostat:nuts_2021_id":"CH3805",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3805",
+    "eurostat:population":275,
+    "eurostat:population_year":2020,
     "geom:area":0.000462,
     "geom:area_square_m":3950171.816192,
     "geom:bbox":"9.11178215732,46.2497160389,9.15170683817,46.2766632066",
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3805",
+        "eurostat:nuts_2021_id":"CH3805",
         "gn:id":7285439,
         "gp:id":12683106,
         "qs_pg:id":106547
@@ -60,7 +76,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"01a7bbdedc1ff38c38ff503be366f4b7",
+    "wof:geomhash":"d545c0b467a3820dbff0d2620ccc7ff9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +87,12 @@
         }
     ],
     "wof:id":404571711,
-    "wof:lastmodified":1582223067,
+    "wof:lastmodified":1684351762,
     "wof:name":"Castaneda",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
+    "wof:population":275,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

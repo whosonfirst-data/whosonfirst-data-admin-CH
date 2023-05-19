@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5750",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Les Cl\u00e9es",
+    "eurostat:nuts_2021_id":"CH5750",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5750",
+    "eurostat:population":185,
+    "eurostat:population_year":2020,
     "geom:area":0.000828,
-    "geom:area_square_m":7020326.062561,
+    "geom:area_square_m":7020326.06256,
     "geom:bbox":"6.429695,46.719931,6.503877,46.746415",
     "geom:latitude":46.733105,
     "geom:longitude":6.471447,
@@ -97,6 +109,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -105,6 +119,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5750",
+        "eurostat:nuts_2021_id":"CH5750",
         "gn:id":7286325,
         "qs_pg:id":671427
     },
@@ -113,7 +129,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"18322cfdabb4e5fb705d2635f4bff964",
+    "wof:geomhash":"ee7acf16c61f82b82203aa6edcd1220d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":404570569,
-    "wof:lastmodified":1617130030,
+    "wof:lastmodified":1684351748,
     "wof:name":"Les Cl\u00e9es",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":185,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

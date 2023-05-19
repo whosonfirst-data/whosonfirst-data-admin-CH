@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6719",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pleigne",
+    "eurostat:nuts_2021_id":"CH6719",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6719",
+    "eurostat:population":356,
+    "eurostat:population_year":2020,
     "geom:area":0.002126,
-    "geom:area_square_m":17790658.196527,
+    "geom:area_square_m":17790658.196525,
     "geom:bbox":"7.234188,47.39234,7.328158,47.440044",
     "geom:latitude":47.417492,
     "geom:longitude":7.284499,
@@ -96,19 +108,24 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062791,
-        85682347
+        85682347,
+        102062791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6719",
+        "eurostat:nuts_2021_id":"CH6719"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d616676f074f36b5f381319f3f497d85",
+    "wof:geomhash":"f86985edb3928a1d03ccd4256d9b3601",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404568715,
-    "wof:lastmodified":1598919595,
+    "wof:lastmodified":1684351723,
     "wof:name":"Pleigne",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
+    "wof:population":356,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

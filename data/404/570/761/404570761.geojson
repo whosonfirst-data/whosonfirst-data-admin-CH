@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5413",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roche (VD)",
+    "eurostat:nuts_2021_id":"CH5413",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5413",
+    "eurostat:population":1776,
+    "eurostat:population_year":2020,
     "geom:area":0.000754,
-    "geom:area_square_m":6431534.298696,
+    "geom:area_square_m":6431534.298697,
     "geom:bbox":"6.902808,46.347106,6.952019,46.37146",
     "geom:latitude":46.359781,
     "geom:longitude":6.925221,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062783,
-        85682325
+        85682325,
+        102062783
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5413",
+        "eurostat:nuts_2021_id":"CH5413",
         "gn:id":7286923,
         "qs_pg:id":106661
     },
@@ -143,7 +159,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b4dc7765483749f43a718d8caf7308a3",
+    "wof:geomhash":"cd21acf1342fe7375d22ba2134857d6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +170,12 @@
         }
     ],
     "wof:id":404570761,
-    "wof:lastmodified":1598920653,
+    "wof:lastmodified":1684351750,
     "wof:name":"Roche",
     "wof:parent_id":102062783,
     "wof:placetype":"localadmin",
+    "wof:population":1776,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

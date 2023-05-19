@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5571",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"T\u00e9venon",
+    "eurostat:nuts_2021_id":"CH5571",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5571",
+    "eurostat:population":876,
+    "eurostat:population_year":2020,
     "geom:area":0.001684,
-    "geom:area_square_m":14239590.369931,
+    "geom:area_square_m":14239590.369932,
     "geom:bbox":"6.604598,46.837799,6.663693,46.891615",
     "geom:latitude":46.864603,
     "geom:longitude":6.634152,
@@ -79,14 +91,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5571",
+        "eurostat:nuts_2021_id":"CH5571",
         "gn:id":8260348,
         "qs_pg:id":109765
     },
@@ -95,7 +111,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1b03a6bd5e07c5d529fbeac01a9d1084",
+    "wof:geomhash":"f0ee70088953c3a30446f340776720ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":404568989,
-    "wof:lastmodified":1598919743,
+    "wof:lastmodified":1684351728,
     "wof:name":"T\u00e9venon",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":876,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5493",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orny",
+    "eurostat:nuts_2021_id":"CH5493",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5493",
+    "eurostat:population":368,
+    "eurostat:population_year":2020,
     "geom:area":0.000652,
-    "geom:area_square_m":5535201.975743,
+    "geom:area_square_m":5535201.975741,
     "geom:bbox":"6.51518300559,46.6582799247,6.56017821943,46.6847465626",
     "geom:latitude":46.670144,
     "geom:longitude":6.537578,
@@ -64,6 +76,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5493",
+        "eurostat:nuts_2021_id":"CH5493",
         "gn:id":7286750,
         "gp:id":12684775,
         "qs_pg:id":1109254
@@ -84,7 +100,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1cbc43b82303cd6bc3eade5e7c9fc571",
+    "wof:geomhash":"2cea6a0f3bc0841c7b6e0db6e5eb6983",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,10 +111,12 @@
         }
     ],
     "wof:id":404571059,
-    "wof:lastmodified":1582223063,
+    "wof:lastmodified":1684351754,
     "wof:name":"Orny",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":368,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

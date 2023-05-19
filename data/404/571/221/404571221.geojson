@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4273",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bottenwil",
+    "eurostat:nuts_2021_id":"CH4273",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4273",
+    "eurostat:population":790,
+    "eurostat:population_year":2020,
     "geom:area":0.000606,
     "geom:area_square_m":5086712.540069,
     "geom:bbox":"7.978685,47.269743,8.020054,47.296765",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062851,
-        85682329
+        85682329,
+        102062851
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4273",
+        "eurostat:nuts_2021_id":"CH4273",
         "gn:id":7285303,
         "gp:id":12683020,
         "qs_pg:id":1102267
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"52c16586461ed6a311332204cca67c83",
+    "wof:geomhash":"09415c11ce32eba9c8b2f1c8d5ad7ead",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404571221,
-    "wof:lastmodified":1598920045,
+    "wof:lastmodified":1684351756,
     "wof:name":"Bottenwil",
     "wof:parent_id":102062851,
     "wof:placetype":"localadmin",
+    "wof:population":790,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

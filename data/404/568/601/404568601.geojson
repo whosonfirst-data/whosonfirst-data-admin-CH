@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monthey",
+    "eurostat:nuts_2021_id":"CH6153",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6153",
+    "eurostat:population":17785,
+    "eurostat:population_year":2020,
     "geom:area":0.003347,
-    "geom:area_square_m":28621943.197869,
+    "geom:area_square_m":28621943.197866,
     "geom:bbox":"6.8033046296,46.1928474728,6.97919455896,46.2999974865",
     "geom:latitude":46.240313,
     "geom:longitude":6.915271,
@@ -151,6 +163,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -159,6 +173,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6153",
+        "eurostat:nuts_2021_id":"CH6153",
         "gn:id":7286537,
         "gp:id":12684010,
         "qs_pg:id":1040538
@@ -168,7 +184,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9d81b876cc5b7aae5f6b76510289b97a",
+    "wof:geomhash":"8ca4377503d03ad80f1656ff96989d37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404568601,
-    "wof:lastmodified":1582223018,
+    "wof:lastmodified":1684351721,
     "wof:name":"Monthey",
     "wof:parent_id":102063065,
     "wof:placetype":"localadmin",
+    "wof:population":17785,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

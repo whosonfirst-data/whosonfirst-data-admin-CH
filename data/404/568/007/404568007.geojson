@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1343",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Innerthal",
+    "eurostat:nuts_2021_id":"CH1343",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1343",
+    "eurostat:population":173,
+    "eurostat:population_year":2020,
     "geom:area":0.005938,
-    "geom:area_square_m":50008756.928568,
+    "geom:area_square_m":50008756.928562,
     "geom:bbox":"8.867424,47.019965,8.975984,47.118804",
     "geom:latitude":47.075561,
     "geom:longitude":8.917167,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062927,
-        85682305
+        85682305,
+        102062927
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1343",
+        "eurostat:nuts_2021_id":"CH1343",
         "gn:id":7286140,
         "gp:id":12683726,
         "qs_pg:id":238917
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"464022122f0422676c5b690e188d2dc8",
+    "wof:geomhash":"14baf8a68e74e863c409d82bc29a74af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404568007,
-    "wof:lastmodified":1598919541,
+    "wof:lastmodified":1684351709,
     "wof:name":"Innerthal",
     "wof:parent_id":102062927,
     "wof:placetype":"localadmin",
+    "wof:population":173,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

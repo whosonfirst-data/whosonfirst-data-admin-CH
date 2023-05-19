@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4091",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Auenstein",
+    "eurostat:nuts_2021_id":"CH4091",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4091",
+    "eurostat:population":1582,
+    "eurostat:population_year":2020,
     "geom:area":0.000677,
-    "geom:area_square_m":5666021.5485,
+    "geom:area_square_m":5666021.548498,
     "geom:bbox":"8.09739466341,47.4105789086,8.16060493522,47.4266389767",
     "geom:latitude":47.418542,
     "geom:longitude":8.126172,
@@ -73,6 +85,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4091",
+        "eurostat:nuts_2021_id":"CH4091",
         "gn:id":7285116,
         "gp:id":20075543,
         "qs_pg:id":894260
@@ -93,7 +109,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e3ad2d1468d879db854b4b4459ccb38f",
+    "wof:geomhash":"46e02d2473dc7c3013000d83efff8651",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +120,12 @@
         }
     ],
     "wof:id":404571001,
-    "wof:lastmodified":1582223053,
+    "wof:lastmodified":1684351753,
     "wof:name":"Auenstein",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
+    "wof:population":1582,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

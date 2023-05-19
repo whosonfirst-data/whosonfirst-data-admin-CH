@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2532",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Subingen",
+    "eurostat:nuts_2021_id":"CH2532",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2532",
+    "eurostat:population":3203,
+    "eurostat:population_year":2020,
     "geom:area":0.000744,
     "geom:area_square_m":6254335.371321,
     "geom:bbox":"7.59977193099,47.1867607261,7.65122171905,47.2114996571",
@@ -102,6 +114,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -110,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2532",
+        "eurostat:nuts_2021_id":"CH2532",
         "gn:id":7287254,
         "gp:id":12684466,
         "qs_pg:id":491858
@@ -122,7 +138,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"db52f9f485e02d62edcbb1a73704a086",
+    "wof:geomhash":"13bf843bc26de5168ea5bf2f5bb95301",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404328589,
-    "wof:lastmodified":1582223079,
+    "wof:lastmodified":1684351698,
     "wof:name":"Subingen",
     "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",
+    "wof:population":3203,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

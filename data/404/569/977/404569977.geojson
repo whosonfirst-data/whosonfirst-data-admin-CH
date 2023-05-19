@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0081",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bachs",
+    "eurostat:nuts_2021_id":"CH0081",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0081",
+    "eurostat:population":580,
+    "eurostat:population_year":2020,
     "geom:area":0.001091,
     "geom:area_square_m":9106019.829226,
     "geom:bbox":"8.400689,47.511126,8.461452,47.546249",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062995,
-        85682309
+        85682309,
+        102062995
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0081",
+        "eurostat:nuts_2021_id":"CH0081",
         "gp:id":12682878,
         "qs_pg:id":1020036
     },
@@ -125,7 +141,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dee137228173a2b3d3240994ef1f3c4f",
+    "wof:geomhash":"625146cfee969d1068b47d614896a9db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404569977,
-    "wof:lastmodified":1598919233,
+    "wof:lastmodified":1684351741,
     "wof:name":"Bachs",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",
+    "wof:population":580,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

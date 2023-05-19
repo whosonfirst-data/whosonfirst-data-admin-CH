@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0577",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gsteigwiler",
+    "eurostat:nuts_2021_id":"CH0577",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0577",
+    "eurostat:population":406,
+    "eurostat:population_year":2020,
     "geom:area":0.000826,
-    "geom:area_square_m":7012204.836532,
+    "geom:area_square_m":7012204.836533,
     "geom:bbox":"7.867153,46.63388,7.910726,46.666648",
     "geom:latitude":46.652239,
     "geom:longitude":7.889033,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062759,
-        85682381
+        85682381,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0577",
+        "eurostat:nuts_2021_id":"CH0577",
         "gn:id":7285999,
         "gp:id":12685275,
         "qs_pg:id":1091252
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eabe6d51fd7f69d5feae66de14dcd211",
+    "wof:geomhash":"a46ff1e03e688e6157f4006cd6481f52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404570579,
-    "wof:lastmodified":1598920729,
+    "wof:lastmodified":1684351748,
     "wof:name":"Gsteigwiler",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":406,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

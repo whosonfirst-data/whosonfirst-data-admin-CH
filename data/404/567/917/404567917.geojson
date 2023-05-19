@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ollon",
+    "eurostat:nuts_2021_id":"CH5409",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5409",
+    "eurostat:population":7463,
+    "eurostat:population_year":2020,
     "geom:area":0.006954,
-    "geom:area_square_m":59400282.418669,
+    "geom:area_square_m":59400282.41867,
     "geom:bbox":"6.949472,46.263941,7.14919,46.339217",
     "geom:latitude":46.303876,
     "geom:longitude":7.041758,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062783,
-        85682325
+        85682325,
+        102062783
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5409",
+        "eurostat:nuts_2021_id":"CH5409",
         "gn:id":2659299,
         "gp:id":12683192,
         "qs_pg:id":190981
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7f610ab404f2aea4d04b21163f328bfd",
+    "wof:geomhash":"a5a898e664cea0ab8fc96dcfe82e5346",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404567917,
-    "wof:lastmodified":1598919453,
+    "wof:lastmodified":1684351707,
     "wof:name":"Ollon",
     "wof:parent_id":102062783,
     "wof:placetype":"localadmin",
+    "wof:population":7463,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

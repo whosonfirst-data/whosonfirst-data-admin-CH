@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4226",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Besenb\u00fcren",
+    "eurostat:nuts_2021_id":"CH4226",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4226",
+    "eurostat:population":624,
+    "eurostat:population_year":2020,
     "geom:area":0.000283,
-    "geom:area_square_m":2373425.533044,
+    "geom:area_square_m":2373425.533043,
     "geom:bbox":"8.334608,47.30271,8.354598,47.32207",
     "geom:latitude":47.312796,
     "geom:longitude":8.344877,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062809,
-        85682329
+        85682329,
+        102062809
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4226",
+        "eurostat:nuts_2021_id":"CH4226",
         "gp:id":12685093,
         "qs_pg:id":62078
     },
@@ -131,7 +147,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b5dab556b85a9b640351a3a4d4f52baa",
+    "wof:geomhash":"b88fdb49ce72261ae0aadebd37962f80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404572415,
-    "wof:lastmodified":1598919782,
+    "wof:lastmodified":1684351770,
     "wof:name":"Besenb\u00fcren",
     "wof:parent_id":102062809,
     "wof:placetype":"localadmin",
+    "wof:population":624,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

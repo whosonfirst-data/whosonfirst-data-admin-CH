@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2321",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Attalens",
+    "eurostat:nuts_2021_id":"CH2321",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2321",
+    "eurostat:population":3521,
+    "eurostat:population_year":2020,
     "geom:area":0.001142,
     "geom:area_square_m":9716326.638987,
     "geom:bbox":"6.8303446514,46.4930515168,6.88167780078,46.5404719243",
@@ -106,6 +118,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -114,6 +128,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2321",
+        "eurostat:nuts_2021_id":"CH2321",
         "gn:id":7285110,
         "gp:id":12682841,
         "qs_pg:id":211825
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f0b40fe11a78eec2f450477c9fcd7190",
+    "wof:geomhash":"62d9dcfc0903b0fa4fffbf5cb6a4ad5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404569819,
-    "wof:lastmodified":1582222951,
+    "wof:lastmodified":1684351739,
     "wof:name":"Attalens",
     "wof:parent_id":102063025,
     "wof:placetype":"localadmin",
+    "wof:population":3521,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

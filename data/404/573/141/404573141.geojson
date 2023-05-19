@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aefligen",
+    "eurostat:nuts_2021_id":"CH0401",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0401",
+    "eurostat:population":1090,
+    "eurostat:population_year":2020,
     "geom:area":0.000242,
     "geom:area_square_m":2035904.106666,
     "geom:bbox":"7.534566,47.086672,7.562877,47.109954",
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0401",
+        "eurostat:nuts_2021_id":"CH0401",
         "gp:id":12685263,
         "qs_pg:id":1109278
     },
@@ -134,7 +150,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48a89b95db0220824c42a109e0c10101",
+    "wof:geomhash":"e3241b54a08b881b91516f36cf32cd68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404573141,
-    "wof:lastmodified":1598919987,
+    "wof:lastmodified":1684351771,
     "wof:name":"Aefligen",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":1090,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

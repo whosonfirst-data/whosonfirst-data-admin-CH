@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agno",
+    "eurostat:nuts_2021_id":"CH5141",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5141",
+    "eurostat:population":4445,
+    "eurostat:population_year":2020,
     "geom:area":0.000352,
     "geom:area_square_m":3026937.928899,
     "geom:bbox":"8.88600100609,45.986371587,8.91211612813,46.0150575652",
@@ -68,6 +80,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -76,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5141",
+        "eurostat:nuts_2021_id":"CH5141",
         "gn:id":7285041,
         "gp:id":12682735,
         "qs_pg:id":1196965
@@ -88,7 +104,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"aef36b77b68cc2fba4b49a03ce588e77",
+    "wof:geomhash":"295336aa8313e0c56f6db4ef255f4998",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +115,12 @@
         }
     ],
     "wof:id":404572355,
-    "wof:lastmodified":1582223027,
+    "wof:lastmodified":1684351769,
     "wof:name":"Agno",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":4445,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

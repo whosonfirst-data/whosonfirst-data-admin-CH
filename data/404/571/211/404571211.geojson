@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5758",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Praz",
+    "eurostat:nuts_2021_id":"CH5758",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5758",
+    "eurostat:population":165,
+    "eurostat:population_year":2020,
     "geom:area":0.000602,
-    "geom:area_square_m":5109479.507464,
+    "geom:area_square_m":5109479.507465,
     "geom:bbox":"6.397464,46.656891,6.443483,46.680767",
     "geom:latitude":46.669781,
     "geom:longitude":6.424331,
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5758",
+        "eurostat:nuts_2021_id":"CH5758",
         "gn:id":7286265,
         "gp:id":12683808,
         "qs_pg:id":1169947
@@ -111,7 +127,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"788ec391981612f04b750bff74b1e141",
+    "wof:geomhash":"5f781378942e61e88510c93158e14286",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404571211,
-    "wof:lastmodified":1598920029,
+    "wof:lastmodified":1684351756,
     "wof:name":"La Praz",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":165,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

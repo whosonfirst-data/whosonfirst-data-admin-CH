@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2134",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grandvillard",
+    "eurostat:nuts_2021_id":"CH2134",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2134",
+    "eurostat:population":844,
+    "eurostat:population_year":2020,
     "geom:area":0.002851,
-    "geom:area_square_m":24257974.846121,
+    "geom:area_square_m":24257974.84612,
     "geom:bbox":"7.066627,46.494335,7.148354,46.558647",
     "geom:latitude":46.528104,
     "geom:longitude":7.109506,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062999,
-        85682301
+        85682301,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2134",
+        "eurostat:nuts_2021_id":"CH2134",
         "gn:id":7285964,
         "gp:id":12683592,
         "qs_pg:id":1019583
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8d871ef063adcef3b5fc09e4c2167b35",
+    "wof:geomhash":"50474ecf1a06e65ecb433e57553e0a7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568421,
-    "wof:lastmodified":1598919657,
+    "wof:lastmodified":1684351718,
     "wof:name":"Grandvillard",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",
+    "wof:population":844,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

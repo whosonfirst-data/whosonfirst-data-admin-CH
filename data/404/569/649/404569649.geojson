@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5755",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lignerolle",
+    "eurostat:nuts_2021_id":"CH5755",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5755",
+    "eurostat:population":419,
+    "eurostat:population_year":2020,
     "geom:area":0.001252,
-    "geom:area_square_m":10610944.955374,
+    "geom:area_square_m":10610944.955372,
     "geom:bbox":"6.417118,46.728857,6.47743,46.767093",
     "geom:latitude":46.747034,
     "geom:longitude":6.447456,
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5755",
+        "eurostat:nuts_2021_id":"CH5755",
         "gp:id":12684784,
         "qs_pg:id":1250105
     },
@@ -107,7 +123,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"61e285aa795d0cb874b2d684b563191a",
+    "wof:geomhash":"69314e288c56929ac6380f5bc94a6a41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":404569649,
-    "wof:lastmodified":1598919292,
+    "wof:lastmodified":1684351736,
     "wof:name":"Lignerolle",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":419,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

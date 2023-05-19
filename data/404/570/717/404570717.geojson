@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0692",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eschert",
+    "eurostat:nuts_2021_id":"CH0692",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0692",
+    "eurostat:population":377,
+    "eurostat:population_year":2020,
     "geom:area":0.000782,
     "geom:area_square_m":6565973.517101,
     "geom:bbox":"7.389365,47.251545,7.434883,47.282484",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062865,
-        85682381
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0692",
+        "eurostat:nuts_2021_id":"CH0692",
         "gn:id":7285769,
         "gp:id":12684909,
         "qs_pg:id":44026
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"727d680810fc10bc41d19827a92fa356",
+    "wof:geomhash":"233be9d000fefa8a83370a9a56a5cd4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570717,
-    "wof:lastmodified":1598920720,
+    "wof:lastmodified":1684351750,
     "wof:name":"Eschert",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":377,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

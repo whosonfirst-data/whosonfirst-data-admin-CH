@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morcote",
+    "eurostat:nuts_2021_id":"CH5203",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5203",
+    "eurostat:population":723,
+    "eurostat:population_year":2020,
     "geom:area":0.000611,
-    "geom:area_square_m":5255549.285054,
+    "geom:area_square_m":5255549.285053,
     "geom:bbox":"8.892724,45.917636,8.931543,45.949367",
     "geom:latitude":45.932351,
     "geom:longitude":8.908189,
@@ -113,14 +125,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5203",
+        "eurostat:nuts_2021_id":"CH5203",
         "gn:id":7286551,
         "gp:id":12684019,
         "qs_pg:id":1197336
@@ -133,7 +149,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6def3fc6416d3cdd7c9a5d0a5081e77f",
+    "wof:geomhash":"df3a6fba81320ec86e84e1ee9254e53d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404572225,
-    "wof:lastmodified":1607981492,
+    "wof:lastmodified":1684351768,
     "wof:name":"Morcote",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":723,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6218",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salvan",
+    "eurostat:nuts_2021_id":"CH6218",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6218",
+    "eurostat:population":1395,
+    "eurostat:population_year":2020,
     "geom:area":0.006219,
     "geom:area_square_m":53316145.394829,
     "geom:bbox":"6.88222729695,46.0705523915,7.03853699919,46.1530353984",
@@ -40,6 +52,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -48,6 +62,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6218",
+        "eurostat:nuts_2021_id":"CH6218",
         "gn:id":7287046,
         "gp:id":12683380,
         "qs_pg:id":248272
@@ -57,7 +73,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0d33d1c9018ee3d7c5f4fdca01e9b59c",
+    "wof:geomhash":"cd405900310ef9a6b8d44f80b3e15d96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,10 +84,12 @@
         }
     ],
     "wof:id":404567967,
-    "wof:lastmodified":1582222980,
+    "wof:lastmodified":1684351708,
     "wof:name":"Salvan",
     "wof:parent_id":102062965,
     "wof:placetype":"localadmin",
+    "wof:population":1395,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

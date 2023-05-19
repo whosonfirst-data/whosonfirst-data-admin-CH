@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2063",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Billens-Hennens",
+    "eurostat:nuts_2021_id":"CH2063",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2063",
+    "eurostat:population":772,
+    "eurostat:population_year":2020,
     "geom:area":0.000575,
-    "geom:area_square_m":4881550.412966,
+    "geom:area_square_m":4881550.412965,
     "geom:bbox":"6.862692,46.67325,6.909145,46.699857",
     "geom:latitude":46.685323,
     "geom:longitude":6.886691,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062867,
-        85682301
+        85682301,
+        102062867
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2063",
+        "eurostat:nuts_2021_id":"CH2063",
         "gn:id":7285245,
         "gp:id":12684810,
         "qs_pg:id":671193
@@ -114,7 +130,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"93f1ea1c69c585e31d68a1ae4dc1e8c8",
+    "wof:geomhash":"864e7790fdde1c24ce81810e2bd06397",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404571293,
-    "wof:lastmodified":1598920082,
+    "wof:lastmodified":1684351757,
     "wof:name":"Billens-Hennens",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",
+    "wof:population":772,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

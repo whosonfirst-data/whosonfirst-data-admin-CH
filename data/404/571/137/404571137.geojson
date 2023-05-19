@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0628",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Z\u00e4ziwil",
+    "eurostat:nuts_2021_id":"CH0628",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0628",
+    "eurostat:population":1595,
+    "eurostat:population_year":2020,
     "geom:area":0.000638,
     "geom:area_square_m":5391205.527271,
     "geom:bbox":"7.645692,46.878862,7.688769,46.911478",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0628",
+        "eurostat:nuts_2021_id":"CH0628",
         "gn:id":7287624,
         "qs_pg:id":106724
     },
@@ -131,7 +147,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c9055afdd0f2dec1c49dd61832442a92",
+    "wof:geomhash":"2a8c0a9ec7a5720d154cccf984e5ad6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404571137,
-    "wof:lastmodified":1598920154,
+    "wof:lastmodified":1684351755,
     "wof:name":"Z\u00e4ziwil",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":1595,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

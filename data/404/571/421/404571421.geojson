@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0151",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Erlenbach (ZH)",
+    "eurostat:nuts_2021_id":"CH0151",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0151",
+    "eurostat:population":5618,
+    "eurostat:population_year":2020,
     "geom:area":0.000343,
     "geom:area_square_m":2879380.14497,
     "geom:bbox":"8.58644354723,47.2938151691,8.63205864533,47.31424366",
@@ -86,6 +98,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -94,6 +108,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0151",
+        "eurostat:nuts_2021_id":"CH0151",
         "gn:id":7285753,
         "gp:id":12683404,
         "qs_pg:id":671300
@@ -103,7 +119,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fd284ab31c60a59e7be80a005657b160",
+    "wof:geomhash":"e16ecc5929d21bc3f87c9eaff8512cdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +130,12 @@
         }
     ],
     "wof:id":404571421,
-    "wof:lastmodified":1582223059,
+    "wof:lastmodified":1684351758,
     "wof:name":"Erlenbach",
     "wof:parent_id":102062769,
     "wof:placetype":"localadmin",
+    "wof:population":5618,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

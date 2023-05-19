@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0619",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberdiessbach",
+    "eurostat:nuts_2021_id":"CH0619",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0619",
+    "eurostat:population":3527,
+    "eurostat:population_year":2020,
     "geom:area":0.001941,
-    "geom:area_square_m":16422427.097379,
+    "geom:area_square_m":16422427.09738,
     "geom:bbox":"7.60267682719,46.8059672907,7.67568490638,46.8584832872",
     "geom:latitude":46.834278,
     "geom:longitude":7.637293,
@@ -87,6 +99,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -94,8 +108,12 @@
         102062861
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0619",
+        "eurostat:nuts_2021_id":"CH0619"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"ce048795517faf520f47e39ee6000f57",
+    "wof:geomhash":"be332c83e1abc28f1bca66eb88a057e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +124,12 @@
         }
     ],
     "wof:id":1394254147,
-    "wof:lastmodified":1566640349,
+    "wof:lastmodified":1684351782,
     "wof:name":"Oberdiessbach",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":3527,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

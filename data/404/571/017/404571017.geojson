@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5485",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grancy",
+    "eurostat:nuts_2021_id":"CH5485",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5485",
+    "eurostat:population":398,
+    "eurostat:population_year":2020,
     "geom:area":0.000666,
-    "geom:area_square_m":5655049.352672,
+    "geom:area_square_m":5655049.352671,
     "geom:bbox":"6.442322,46.580749,6.47845,46.609155",
     "geom:latitude":46.593579,
     "geom:longitude":6.460949,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5485",
+        "eurostat:nuts_2021_id":"CH5485",
         "gn:id":7285957,
         "gp:id":12683584,
         "qs_pg:id":671354
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"10e8ce5084c0aa77e40ebd6e017f0976",
+    "wof:geomhash":"53d45bcc7664ea89b29d9514128a4de2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404571017,
-    "wof:lastmodified":1598920177,
+    "wof:lastmodified":1684351753,
     "wof:name":"Grancy",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":398,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

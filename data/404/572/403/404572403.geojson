@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4192",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boniswil",
+    "eurostat:nuts_2021_id":"CH4192",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4192",
+    "eurostat:population":1428,
+    "eurostat:population_year":2020,
     "geom:area":0.000332,
-    "geom:area_square_m":2779853.712038,
+    "geom:area_square_m":2779853.712037,
     "geom:bbox":"8.171473,47.297817,8.206405,47.322537",
     "geom:latitude":47.311691,
     "geom:longitude":8.192236,
@@ -113,14 +125,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063017,
-        85682329
+        85682329,
+        102063017
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4192",
+        "eurostat:nuts_2021_id":"CH4192",
         "gn:id":7285292,
         "gp:id":12683009,
         "qs_pg:id":426054
@@ -133,7 +149,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"062c2d0f371428bf5239181db09fe6db",
+    "wof:geomhash":"88ad1e8092187b8fd6c3610b5dc7db42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404572403,
-    "wof:lastmodified":1598919860,
+    "wof:lastmodified":1684351769,
     "wof:name":"Boniswil",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",
+    "wof:population":1428,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5813",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chevroux",
+    "eurostat:nuts_2021_id":"CH5813",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5813",
+    "eurostat:population":481,
+    "eurostat:population_year":2020,
     "geom:area":0.000411,
     "geom:area_square_m":3470319.2842,
     "geom:bbox":"6.89171454928,46.8786195264,6.93032235269,46.903016417",
@@ -92,6 +104,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -100,6 +114,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5813",
+        "eurostat:nuts_2021_id":"CH5813",
         "gn:id":7285506,
         "gp:id":12683195,
         "qs_pg:id":493248
@@ -109,7 +125,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d8c5ba4c2630168529396146e280a70c",
+    "wof:geomhash":"352d72f22ac05f7ad176bd69f9307f27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404571049,
-    "wof:lastmodified":1582223050,
+    "wof:lastmodified":1684351754,
     "wof:name":"Chevroux",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":481,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

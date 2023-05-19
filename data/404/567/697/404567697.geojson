@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bagnes",
+    "eurostat:nuts_2021_id":"CH6031",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6031",
+    "eurostat:population":8096,
+    "eurostat:population_year":2020,
     "geom:area":0.032989,
-    "geom:area_square_m":283341245.434839,
+    "geom:area_square_m":283341245.434836,
     "geom:bbox":"7.177714,45.89645,7.488111,46.123627",
     "geom:latitude":46.003868,
     "geom:longitude":7.318328,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062807,
-        85682281
+        85682281,
+        102062807
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6031",
+        "eurostat:nuts_2021_id":"CH6031",
         "gn:id":7285138,
         "gp:id":12682764,
         "qs_pg:id":1154226
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3d645dc0c67d0f4b6f9dfc578bbf7061",
+    "wof:geomhash":"a0b657a3faf62999370fc6d70c805099",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404567697,
-    "wof:lastmodified":1598919436,
+    "wof:lastmodified":1684351702,
     "wof:name":"Bagnes",
     "wof:parent_id":102062807,
     "wof:placetype":"localadmin",
+    "wof:population":8096,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

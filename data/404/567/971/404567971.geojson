@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1372",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schwyz",
+    "eurostat:nuts_2021_id":"CH1372",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1372",
+    "eurostat:population":15181,
+    "eurostat:population_year":2020,
     "geom:area":0.006292,
-    "geom:area_square_m":53037002.407484,
+    "geom:area_square_m":53037002.407478,
     "geom:bbox":"8.603221,46.985154,8.778895,47.066416",
     "geom:latitude":47.023467,
     "geom:longitude":8.674564,
@@ -220,6 +232,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -228,6 +242,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1372",
+        "eurostat:nuts_2021_id":"CH1372",
         "gn:id":7287129,
         "gp:id":12683715,
         "qs_pg:id":191048
@@ -237,7 +253,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e3b3ca7501990b8834ff262ad0e290f7",
+    "wof:geomhash":"d3b1507572606351bb6069d5f80748b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -248,10 +264,12 @@
         }
     ],
     "wof:id":404567971,
-    "wof:lastmodified":1636413520,
+    "wof:lastmodified":1684351708,
     "wof:name":"Schwyz",
     "wof:parent_id":102062887,
     "wof:placetype":"localadmin",
+    "wof:population":15181,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"H\u00e4rkingen",
+    "eurostat:nuts_2021_id":"CH2402",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2402",
+    "eurostat:population":1644,
+    "eurostat:population_year":2020,
     "geom:area":0.000655,
     "geom:area_square_m":5492930.021424,
     "geom:bbox":"7.801065,47.286154,7.84057,47.322077",
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137097,
-        85682365
+        85682365,
+        1394137097
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2402",
+        "eurostat:nuts_2021_id":"CH2402",
         "gn:id":7286030,
         "gp:id":12685229,
         "qs_pg:id":380090
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3674e0e516aa10799dd8635ecc16ed6a",
+    "wof:geomhash":"441adacf05ec235860e912802d6cee66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328647,
-    "wof:lastmodified":1598920435,
+    "wof:lastmodified":1684351698,
     "wof:name":"H\u00e4rkingen",
     "wof:parent_id":1394137097,
     "wof:placetype":"localadmin",
+    "wof:population":1644,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

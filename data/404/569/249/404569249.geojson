@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5415",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Yvorne",
+    "eurostat:nuts_2021_id":"CH5415",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5415",
+    "eurostat:population":1064,
+    "eurostat:population_year":2020,
     "geom:area":0.001425,
     "geom:area_square_m":12169032.545473,
     "geom:bbox":"6.895852,46.323962,6.988125,46.360296",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062783,
-        85682325
+        85682325,
+        102062783
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5415",
+        "eurostat:nuts_2021_id":"CH5415",
         "gn:id":7287622,
         "gp:id":12684658,
         "qs_pg:id":891650
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7f1c9072adb79b5daa3f8cc725e6db78",
+    "wof:geomhash":"3bfb63e74738ef0d3e77a46071f9af7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404569249,
-    "wof:lastmodified":1598919306,
+    "wof:lastmodified":1684351732,
     "wof:name":"Yvorne",
     "wof:parent_id":102062783,
     "wof:placetype":"localadmin",
+    "wof:population":1064,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

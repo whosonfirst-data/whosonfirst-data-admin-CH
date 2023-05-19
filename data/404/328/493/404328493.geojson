@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neuheim",
+    "eurostat:nuts_2021_id":"CH1705",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH066",
+    "eurostat:nuts_2021_level_lau":"CH1705",
+    "eurostat:population":2257,
+    "eurostat:population_year":2020,
     "geom:area":0.000941,
-    "geom:area_square_m":7905564.576976,
+    "geom:area_square_m":7905564.576973,
     "geom:bbox":"8.556948,47.18533,8.611183,47.218736",
     "geom:latitude":47.199419,
     "geom:longitude":8.582686,
@@ -110,14 +122,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063067,
-        85682263
+        85682263,
+        102063067
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1705",
+        "eurostat:nuts_2021_id":"CH1705",
         "gp:id":12684071,
         "qs_pg:id":1092296
     },
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b7262f5bc581f57adfa6fd8ef1ce760f",
+    "wof:geomhash":"b23dd5967d722817aa41d62d3269cbaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404328493,
-    "wof:lastmodified":1598920448,
+    "wof:lastmodified":1684351696,
     "wof:name":"Neuheim",
     "wof:parent_id":102063067,
     "wof:placetype":"localadmin",
+    "wof:population":2257,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

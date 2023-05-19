@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0159",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uetikon am See",
+    "eurostat:nuts_2021_id":"CH0159",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0159",
+    "eurostat:population":6176,
+    "eurostat:population_year":2020,
     "geom:area":0.000411,
     "geom:area_square_m":3447838.385406,
     "geom:bbox":"8.667401,47.257951,8.69692,47.284257",
@@ -119,14 +131,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062769,
-        85682309
+        85682309,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0159",
+        "eurostat:nuts_2021_id":"CH0159",
         "gn:id":7287364,
         "gp:id":12684535,
         "qs_pg:id":1154327
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c2d76d6d2173b213c192566e4854e8f8",
+    "wof:geomhash":"1c92b574027004b9d6aba2689f5554f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404571553,
-    "wof:lastmodified":1598920155,
+    "wof:lastmodified":1684351760,
     "wof:name":"Uetikon am See",
     "wof:parent_id":102062769,
     "wof:placetype":"localadmin",
+    "wof:population":6176,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

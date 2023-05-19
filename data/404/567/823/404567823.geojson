@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0561",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Adelboden",
+    "eurostat:nuts_2021_id":"CH0561",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0561",
+    "eurostat:population":3390,
+    "eurostat:population_year":2020,
     "geom:area":0.010262,
-    "geom:area_square_m":87392162.670345,
+    "geom:area_square_m":87392162.670353,
     "geom:bbox":"7.488658,46.412435,7.627839,46.526853",
     "geom:latitude":46.473359,
     "geom:longitude":7.555247,
@@ -166,14 +178,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062831,
-        85682381
+        85682381,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0561",
+        "eurostat:nuts_2021_id":"CH0561",
         "gn:id":7285020,
         "gp:id":12682708,
         "qs_pg:id":1208866
@@ -186,7 +202,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a07032502aaab9d27428558010e4d145",
+    "wof:geomhash":"8f7ec19420841b400fcf7fa7edcf2009",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404567823,
-    "wof:lastmodified":1598919431,
+    "wof:lastmodified":1684351705,
     "wof:name":"Adelboden",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",
+    "wof:population":3390,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

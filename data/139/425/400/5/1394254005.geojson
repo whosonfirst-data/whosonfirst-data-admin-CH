@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rapperswil (BE)",
+    "eurostat:nuts_2021_id":"CH0310",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0310",
+    "eurostat:population":2618,
+    "eurostat:population_year":2020,
     "geom:area":0.002674,
-    "geom:area_square_m":22521258.291171,
+    "geom:area_square_m":22521258.291173,
     "geom:bbox":"7.37222161943,47.0320819446,7.4583470363,47.1004997423",
     "geom:latitude":47.061824,
     "geom:longitude":7.420552,
@@ -87,6 +99,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -94,8 +108,12 @@
         102062909
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0310",
+        "eurostat:nuts_2021_id":"CH0310"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"4ed00314d3baffea4a3fe79e404c1758",
+    "wof:geomhash":"f1445d80769bc9133e0617d5249b832a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +124,12 @@
         }
     ],
     "wof:id":1394254005,
-    "wof:lastmodified":1566640361,
+    "wof:lastmodified":1684351778,
     "wof:name":"Rapperswil",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":2618,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

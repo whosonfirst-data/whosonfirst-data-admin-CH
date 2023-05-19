@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5199",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mezzovico-Vira",
+    "eurostat:nuts_2021_id":"CH5199",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5199",
+    "eurostat:population":1371,
+    "eurostat:population_year":2020,
     "geom:area":0.001295,
     "geom:area_square_m":11100671.761392,
     "geom:bbox":"8.864402,46.082163,8.944157,46.110874",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5199",
+        "eurostat:nuts_2021_id":"CH5199",
         "gn:id":7286505,
         "gp:id":20075563,
         "qs_pg:id":1294320
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f567f20b46ead291d3a286b8dc38caf7",
+    "wof:geomhash":"f7cba70ccb809790b2f2550d94df9d13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404569733,
-    "wof:lastmodified":1598919264,
+    "wof:lastmodified":1684351737,
     "wof:name":"Mezzovico-Vira",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":1371,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

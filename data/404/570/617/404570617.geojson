@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3581",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sagogn",
+    "eurostat:nuts_2021_id":"CH3581",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3581",
+    "eurostat:population":719,
+    "eurostat:population_year":2020,
     "geom:area":0.000815,
-    "geom:area_square_m":6899541.495125,
+    "geom:area_square_m":6899541.495126,
     "geom:bbox":"9.241789,46.782188,9.307566,46.815424",
     "geom:latitude":46.798271,
     "geom:longitude":9.275546,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062773,
-        85682255
+        85682255,
+        102062773
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3581",
+        "eurostat:nuts_2021_id":"CH3581",
         "gn:id":7287015,
         "gp:id":12684327,
         "qs_pg:id":671575
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"125e1090554541892aaa1f066d93c774",
+    "wof:geomhash":"1fd5150555a5b1dfa4110aea0a00c38f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404570617,
-    "wof:lastmodified":1598920546,
+    "wof:lastmodified":1684351748,
     "wof:name":"Sagogn",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
+    "wof:population":719,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

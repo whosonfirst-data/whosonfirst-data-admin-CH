@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jaun",
+    "eurostat:nuts_2021_id":"CH2138",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2138",
+    "eurostat:population":644,
+    "eurostat:population_year":2020,
     "geom:area":0.006483,
-    "geom:area_square_m":55069990.730212,
+    "geom:area_square_m":55069990.730216,
     "geom:bbox":"7.193993,46.5634,7.320734,46.670037",
     "geom:latitude":46.605911,
     "geom:longitude":7.266217,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062999,
-        85682301
+        85682301,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2138",
+        "eurostat:nuts_2021_id":"CH2138",
         "gn:id":7286158,
         "gp:id":12682883,
         "qs_pg:id":248853
@@ -117,7 +133,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09ef32a11de2af0e4c0b2b49244ad8b6",
+    "wof:geomhash":"b45fa33ecd94a9a72a051132eb55d4eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404567951,
-    "wof:lastmodified":1598919424,
+    "wof:lastmodified":1684351708,
     "wof:name":"Jaun",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",
+    "wof:population":644,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

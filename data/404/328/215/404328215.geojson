@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Menzingen",
+    "eurostat:nuts_2021_id":"CH1704",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH066",
+    "eurostat:nuts_2021_level_lau":"CH1704",
+    "eurostat:population":4539,
+    "eurostat:population_year":2020,
     "geom:area":0.003264,
-    "geom:area_square_m":27439257.301769,
+    "geom:area_square_m":27439257.301772,
     "geom:bbox":"8.554399,47.148063,8.665774,47.205241",
     "geom:latitude":47.169877,
     "geom:longitude":8.603196,
@@ -110,14 +122,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063067,
-        85682263
+        85682263,
+        102063067
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1704",
+        "eurostat:nuts_2021_id":"CH1704",
         "gn:id":7286486,
         "gp:id":12683620,
         "qs_pg:id":219054
@@ -127,7 +143,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e525105283d18dc541af0f4044b16030",
+    "wof:geomhash":"c8baf36f828a09a3e45e7a96a1039d1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":404328215,
-    "wof:lastmodified":1598920431,
+    "wof:lastmodified":1684351692,
     "wof:name":"Menzingen",
     "wof:parent_id":102063067,
     "wof:placetype":"localadmin",
+    "wof:population":4539,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

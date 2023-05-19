@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5925",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orzens",
+    "eurostat:nuts_2021_id":"CH5925",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5925",
+    "eurostat:population":196,
+    "eurostat:population_year":2020,
     "geom:area":0.000494,
-    "geom:area_square_m":4184961.582296,
+    "geom:area_square_m":4184961.582295,
     "geom:bbox":"6.665341,46.711493,6.703295,46.740692",
     "geom:latitude":46.726262,
     "geom:longitude":6.682961,
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5925",
+        "eurostat:nuts_2021_id":"CH5925",
         "gn:id":7286757,
         "qs_pg:id":671517
     },
@@ -110,7 +126,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"aee06d61294c8334843e7db4aa656d53",
+    "wof:geomhash":"8842b2a8650ac34f0e8e10dc4e682fb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":404571617,
-    "wof:lastmodified":1598920038,
+    "wof:lastmodified":1684351761,
     "wof:name":"Orzens",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":196,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

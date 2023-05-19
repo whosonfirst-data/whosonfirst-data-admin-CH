@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1058",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horw",
+    "eurostat:nuts_2021_id":"CH1058",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1058",
+    "eurostat:population":14109,
+    "eurostat:population_year":2020,
     "geom:area":0.002417,
-    "geom:area_square_m":20380061.25097,
+    "geom:area_square_m":20380061.250971,
     "geom:bbox":"8.258133,46.98901,8.368504,47.036935",
     "geom:latitude":47.012613,
     "geom:longitude":8.321337,
@@ -123,14 +135,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137079,
-        85682319
+        85682319,
+        1394137079
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1058",
+        "eurostat:nuts_2021_id":"CH1058",
         "gn:id":7286115,
         "gp:id":12683756,
         "qs_pg:id":1252186
@@ -140,7 +156,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5a25c19dad890c683b399f432bf61049",
+    "wof:geomhash":"d5fba46129fdc3c859f497e4fd18127c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         }
     ],
     "wof:id":404328261,
-    "wof:lastmodified":1598920324,
+    "wof:lastmodified":1684351693,
     "wof:name":"Horw",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",
+    "wof:population":14109,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

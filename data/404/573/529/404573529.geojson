@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0196",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00f6nchaltorf",
+    "eurostat:nuts_2021_id":"CH0196",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0196",
+    "eurostat:population":3769,
+    "eurostat:population_year":2020,
     "geom:area":0.000902,
-    "geom:area_square_m":7565971.421812,
+    "geom:area_square_m":7565971.421811,
     "geom:bbox":"8.69728,47.294423,8.764599,47.336208",
     "geom:latitude":47.312781,
     "geom:longitude":8.723307,
@@ -114,14 +126,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062933,
-        85682309
+        85682309,
+        102062933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0196",
+        "eurostat:nuts_2021_id":"CH0196"
+    },
     "wof:coterminous":[
         1125807279
     ],
@@ -129,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"53359d318cba12920ac383ace4215f36",
+    "wof:geomhash":"758c7f037a9596d892c6c5f2a4b34290",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +157,12 @@
         }
     ],
     "wof:id":404573529,
-    "wof:lastmodified":1598919939,
+    "wof:lastmodified":1684351775,
     "wof:name":"M\u00f6nchaltorf",
     "wof:parent_id":102062933,
     "wof:placetype":"localadmin",
+    "wof:population":3769,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

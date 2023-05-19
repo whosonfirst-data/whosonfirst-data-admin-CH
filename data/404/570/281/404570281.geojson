@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5561",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grandson",
+    "eurostat:nuts_2021_id":"CH5561",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5561",
+    "eurostat:population":3357,
+    "eurostat:population_year":2020,
     "geom:area":0.000925,
-    "geom:area_square_m":7830140.808535,
+    "geom:area_square_m":7830140.808532,
     "geom:bbox":"6.619007,46.793971,6.682672,46.829703",
     "geom:latitude":46.814613,
     "geom:longitude":6.644446,
@@ -46,14 +58,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5561",
+        "eurostat:nuts_2021_id":"CH5561",
         "gn:id":7285961,
         "gp:id":12683590,
         "qs_pg:id":1310932
@@ -63,7 +79,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"5ad041b3228c1259d659cf9932c495c1",
+    "wof:geomhash":"ecffb339f4d58c20fe326969381771bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,10 +90,12 @@
         }
     ],
     "wof:id":404570281,
-    "wof:lastmodified":1598920567,
+    "wof:lastmodified":1684351744,
     "wof:name":"Grandson",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":3357,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

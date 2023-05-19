@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Locarno",
+    "eurostat:nuts_2021_id":"CH5113",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5113",
+    "eurostat:population":15826,
+    "eurostat:population_year":2020,
     "geom:area":0.002866,
-    "geom:area_square_m":24545104.714456,
+    "geom:area_square_m":24545104.714459,
     "geom:bbox":"8.74942218208,46.1423467481,8.92036022199,46.1973282385",
     "geom:latitude":46.166857,
     "geom:longitude":8.831165,
@@ -186,6 +198,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -193,8 +207,12 @@
         102062975
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5113",
+        "eurostat:nuts_2021_id":"CH5113"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"5a4a49113ffac637d78ceb5c05d72a2a",
+    "wof:geomhash":"17fd39fad952f3480ec5ebebe4954d73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -205,10 +223,12 @@
         }
     ],
     "wof:id":1394254169,
-    "wof:lastmodified":1566640368,
+    "wof:lastmodified":1684351783,
     "wof:name":"Locarno",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
+    "wof:population":15826,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hombrechtikon",
+    "eurostat:nuts_2021_id":"CH0153",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0153",
+    "eurostat:population":8757,
+    "eurostat:population_year":2020,
     "geom:area":0.001447,
-    "geom:area_square_m":12146720.323511,
+    "geom:area_square_m":12146720.32351,
     "geom:bbox":"8.729856,47.233601,8.804827,47.270419",
     "geom:latitude":47.252712,
     "geom:longitude":8.768634,
@@ -119,14 +131,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062769,
-        85682309
+        85682309,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0153",
+        "eurostat:nuts_2021_id":"CH0153",
         "gn:id":7286106,
         "gp:id":12683447,
         "qs_pg:id":1040503
@@ -136,7 +152,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7469b1cc70f2d9c5e1691da3a8f0906",
+    "wof:geomhash":"7fe3445bfc64e4f4db28b542e166d9cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":404568875,
-    "wof:lastmodified":1598919526,
+    "wof:lastmodified":1684351726,
     "wof:name":"Hombrechtikon",
     "wof:parent_id":102062769,
     "wof:placetype":"localadmin",
+    "wof:population":8757,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

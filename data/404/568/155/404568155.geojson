@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6137",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Martigny-Combe",
+    "eurostat:nuts_2021_id":"CH6137",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6137",
+    "eurostat:population":2315,
+    "eurostat:population_year":2020,
     "geom:area":0.00435,
-    "geom:area_square_m":37313418.413155,
+    "geom:area_square_m":37313418.413159,
     "geom:bbox":"6.985093,46.022974,7.075988,46.11156",
     "geom:latitude":46.070368,
     "geom:longitude":7.033601,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063045,
-        85682281
+        85682281,
+        102063045
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6137",
+        "eurostat:nuts_2021_id":"CH6137",
         "gn:id":7286445,
         "gp:id":12683850,
         "qs_pg:id":671449
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e1654e14a6c8722ee358c805ec4fb46d",
+    "wof:geomhash":"600df17a4911fbeeac34c192c55173d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404568155,
-    "wof:lastmodified":1598919641,
+    "wof:lastmodified":1684351713,
     "wof:name":"Martigny-Combe",
     "wof:parent_id":102063045,
     "wof:placetype":"localadmin",
+    "wof:population":2315,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

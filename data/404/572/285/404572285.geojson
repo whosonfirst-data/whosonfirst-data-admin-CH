@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5581",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belmont-sur-Lausanne",
+    "eurostat:nuts_2021_id":"CH5581",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5581",
+    "eurostat:population":3724,
+    "eurostat:population_year":2020,
     "geom:area":0.000311,
-    "geom:area_square_m":2641686.201575,
+    "geom:area_square_m":2641686.201573,
     "geom:bbox":"6.670536,46.513251,6.710844,46.539381",
     "geom:latitude":46.526508,
     "geom:longitude":6.687602,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063047,
-        85682325
+        85682325,
+        102063047
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5581",
+        "eurostat:nuts_2021_id":"CH5581",
         "gn:id":7285192,
         "gp:id":12682938,
         "qs_pg:id":1012708
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8353060f5062444e7e507b5fa5dd3ca1",
+    "wof:geomhash":"385883e0ee1c74aac0e3514f9d6a52c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404572285,
-    "wof:lastmodified":1598919843,
+    "wof:lastmodified":1684351768,
     "wof:name":"Belmont-sur-Lausanne",
     "wof:parent_id":102063047,
     "wof:placetype":"localadmin",
+    "wof:population":3724,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

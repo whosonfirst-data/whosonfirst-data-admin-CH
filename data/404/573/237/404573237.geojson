@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5852",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bursinel",
+    "eurostat:nuts_2021_id":"CH5852",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5852",
+    "eurostat:population":471,
+    "eurostat:population_year":2020,
     "geom:area":0.000208,
     "geom:area_square_m":1770824.260812,
     "geom:bbox":"6.298861,46.432245,6.320488,46.447874",
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5852",
+        "eurostat:nuts_2021_id":"CH5852",
         "gn:id":7285397,
         "gp:id":20075639,
         "qs_pg:id":1294463
@@ -114,7 +130,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"d9dcb98ab662e11b706e8d1d1dc28882",
+    "wof:geomhash":"b9f91ed8aeb0bedc2aa661ad5820501f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404573237,
-    "wof:lastmodified":1598919979,
+    "wof:lastmodified":1684351772,
     "wof:name":"Bursinel",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":471,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

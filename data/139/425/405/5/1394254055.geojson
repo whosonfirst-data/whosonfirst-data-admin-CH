@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3427",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wil (SG)",
+    "eurostat:nuts_2021_id":"CH3427",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3427",
+    "eurostat:population":23966,
+    "eurostat:population_year":2020,
     "geom:area":0.002484,
-    "geom:area_square_m":20757350.941816,
+    "geom:area_square_m":20757350.941817,
     "geom:bbox":"9.00358128012,47.4462334342,9.09772074371,47.4957922543",
     "geom:latitude":47.474347,
     "geom:longitude":9.05054,
@@ -132,6 +144,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -139,8 +153,12 @@
         102062947
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3427",
+        "eurostat:nuts_2021_id":"CH3427"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"c37f63cd69e5bd1162b9f8fb602b46bb",
+    "wof:geomhash":"2e5ec8a99b8fee93c1b7b9b72e169a44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +169,12 @@
         }
     ],
     "wof:id":1394254055,
-    "wof:lastmodified":1566640372,
+    "wof:lastmodified":1684351779,
     "wof:name":"Wil",
     "wof:parent_id":102062947,
     "wof:placetype":"localadmin",
+    "wof:population":23966,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

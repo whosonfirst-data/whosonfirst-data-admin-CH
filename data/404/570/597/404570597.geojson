@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0754",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Walperswil",
+    "eurostat:nuts_2021_id":"CH0754",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0754",
+    "eurostat:population":1043,
+    "eurostat:population_year":2020,
     "geom:area":0.000823,
-    "geom:area_square_m":6936629.778458,
+    "geom:area_square_m":6936629.77846,
     "geom:bbox":"7.196235,47.038305,7.250739,47.067652",
     "geom:latitude":47.052178,
     "geom:longitude":7.223836,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0754",
+        "eurostat:nuts_2021_id":"CH0754",
         "gp:id":12684884,
         "qs_pg:id":1002577
     },
@@ -119,7 +135,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"14918c2838759151a1e4a64e0df8f6c6",
+    "wof:geomhash":"4967606fcf7e70f1c1968e76949d5aed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404570597,
-    "wof:lastmodified":1598920642,
+    "wof:lastmodified":1684351748,
     "wof:name":"Walperswil",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":1043,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

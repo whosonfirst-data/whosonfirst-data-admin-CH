@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0869",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kaufdorf",
+    "eurostat:nuts_2021_id":"CH0869",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0869",
+    "eurostat:population":1089,
+    "eurostat:population_year":2020,
     "geom:area":0.000243,
     "geom:area_square_m":2052913.137938,
     "geom:bbox":"7.481151,46.833232,7.511463,46.846144",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0869",
+        "eurostat:nuts_2021_id":"CH0869",
         "gn:id":7286183,
         "gp:id":12683673,
         "qs_pg:id":1154278
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"825c10584eb791296883843421e163fd",
+    "wof:geomhash":"8dfd9e2130b4cc4f3bc6c5d619bb9a5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404573127,
-    "wof:lastmodified":1598919937,
+    "wof:lastmodified":1684351771,
     "wof:name":"Kaufdorf",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":1089,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

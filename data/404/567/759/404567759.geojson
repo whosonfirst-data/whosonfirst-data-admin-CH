@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3986",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tujetsch",
+    "eurostat:nuts_2021_id":"CH3986",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3986",
+    "eurostat:population":1238,
+    "eurostat:population_year":2020,
     "geom:area":0.015736,
-    "geom:area_square_m":133564385.156118,
+    "geom:area_square_m":133564385.156119,
     "geom:bbox":"8.651063,46.571089,8.806578,46.744782",
     "geom:latitude":46.650478,
     "geom:longitude":8.732316,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062773,
-        85682255
+        85682255,
+        102062773
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3986",
+        "eurostat:nuts_2021_id":"CH3986",
         "gn:id":7287351,
         "gp:id":12684310,
         "qs_pg:id":106699
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"826e65315aa4d30df182f09d27d2aabd",
+    "wof:geomhash":"8ef4b34d60739b7f42e508d4e44a3b2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404567759,
-    "wof:lastmodified":1598919428,
+    "wof:lastmodified":1684351704,
     "wof:name":"Tujetsch",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",
+    "wof:population":1238,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

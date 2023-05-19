@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cugnasco-Gerra",
+    "eurostat:nuts_2021_id":"CH5138",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5138",
+    "eurostat:population":2861,
+    "eurostat:population_year":2020,
     "geom:area":0.004178,
-    "geom:area_square_m":35721944.765343,
+    "geom:area_square_m":35721944.765342,
     "geom:bbox":"8.763991,46.161377,8.942732,46.335579",
     "geom:latitude":46.255312,
     "geom:longitude":8.860671,
@@ -96,19 +108,24 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062975,
-        85682269
+        85682269,
+        102062975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5138",
+        "eurostat:nuts_2021_id":"CH5138"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c5dda4a37f7c620f90279963cf98c5bd",
+    "wof:geomhash":"9780ea3c56c600587fa81b32badeff98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":404568739,
-    "wof:lastmodified":1598919472,
+    "wof:lastmodified":1684351724,
     "wof:name":"Cugnasco-Gerra",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",
+    "wof:population":2861,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

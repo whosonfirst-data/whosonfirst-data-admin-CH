@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Freienstein-Teufen",
+    "eurostat:nuts_2021_id":"CH0057",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0057",
+    "eurostat:population":2371,
+    "eurostat:population_year":2020,
     "geom:area":0.001004,
-    "geom:area_square_m":8379969.93368,
+    "geom:area_square_m":8379969.933678,
     "geom:bbox":"8.553884,47.521357,8.61235,47.562557",
     "geom:latitude":47.542615,
     "geom:longitude":8.585032,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063019,
-        85682309
+        85682309,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0057",
+        "eurostat:nuts_2021_id":"CH0057",
         "gp:id":12684489,
         "qs_pg:id":493287
     },
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"acf393aaf0a3983e1770c536f261f0b2",
+    "wof:geomhash":"08ef32af7e8daa44e2acf1a9b983a481",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404570167,
-    "wof:lastmodified":1598920534,
+    "wof:lastmodified":1684351743,
     "wof:name":"Freienstein-Teufen",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",
+    "wof:population":2371,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

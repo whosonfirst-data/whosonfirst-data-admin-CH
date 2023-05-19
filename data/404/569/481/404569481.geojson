@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0953",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eriswil",
+    "eurostat:nuts_2021_id":"CH0953",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0953",
+    "eurostat:population":1396,
+    "eurostat:population_year":2020,
     "geom:area":0.001343,
-    "geom:area_square_m":11307053.611294,
+    "geom:area_square_m":11307053.611292,
     "geom:bbox":"7.836839,47.046647,7.881642,47.091446",
     "geom:latitude":47.071776,
     "geom:longitude":7.857645,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0953",
+        "eurostat:nuts_2021_id":"CH0953",
         "gn:id":7285746,
         "gp:id":12683400,
         "qs_pg:id":671299
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7c05cbcfb5bc1f745fa7228957765027",
+    "wof:geomhash":"88db81ac41f81f44eda89cf5e8dd7a5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404569481,
-    "wof:lastmodified":1598919295,
+    "wof:lastmodified":1684351734,
     "wof:name":"Eriswil",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":1396,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

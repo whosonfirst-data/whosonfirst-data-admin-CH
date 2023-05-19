@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belmont-sur-Yverdon",
+    "eurostat:nuts_2021_id":"CH5902",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5902",
+    "eurostat:population":384,
+    "eurostat:population_year":2020,
     "geom:area":0.000761,
-    "geom:area_square_m":6448036.028213,
+    "geom:area_square_m":6448036.028211,
     "geom:bbox":"6.612277,46.713325,6.637198,46.762839",
     "geom:latitude":46.73791,
     "geom:longitude":6.625458,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5902",
+        "eurostat:nuts_2021_id":"CH5902",
         "gn:id":7285193,
         "qs_pg:id":106525
     },
@@ -119,7 +135,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6451acd5fec666c9383c41114b4cd42e",
+    "wof:geomhash":"53ef84b8a929f0b9f5ac483e3baa7956",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404570753,
-    "wof:lastmodified":1598920526,
+    "wof:lastmodified":1684351750,
     "wof:name":"Belmont-sur-Yverdon",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":384,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

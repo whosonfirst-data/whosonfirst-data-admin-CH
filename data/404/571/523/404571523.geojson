@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Croglio",
+    "eurostat:nuts_2021_id":"CH5178",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5178",
+    "eurostat:population":849,
+    "eurostat:population_year":2020,
     "geom:area":0.00051,
     "geom:area_square_m":4378550.086943,
     "geom:bbox":"8.823429,45.970538,8.858807,46.00248",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5178",
+        "eurostat:nuts_2021_id":"CH5178",
         "gn:id":7285595,
         "gp:id":12683486,
         "qs_pg:id":204367
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"cbe4a36d1c5b0101484de960c35a3186",
+    "wof:geomhash":"bce951705f254dd7a8caac8134b35845",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571523,
-    "wof:lastmodified":1598920240,
+    "wof:lastmodified":1684351760,
     "wof:name":"Croglio",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":849,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

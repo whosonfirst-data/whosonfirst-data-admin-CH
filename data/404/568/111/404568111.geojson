@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3733",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tamins",
+    "eurostat:nuts_2021_id":"CH3733",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3733",
+    "eurostat:population":1217,
+    "eurostat:population_year":2020,
     "geom:area":0.004806,
-    "geom:area_square_m":40630905.766162,
+    "geom:area_square_m":40630905.766167,
     "geom:bbox":"9.341576,46.821431,9.455634,46.899671",
     "geom:latitude":46.864422,
     "geom:longitude":9.399513,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062839,
-        85682255
+        85682255,
+        102062839
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3733",
+        "eurostat:nuts_2021_id":"CH3733",
         "gn:id":7287277,
         "gp:id":12684244,
         "qs_pg:id":539036
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b01eae8b2ce182cfa50fb60768addef5",
+    "wof:geomhash":"9d1b26cefda09570c85f8292e37722c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404568111,
-    "wof:lastmodified":1598919589,
+    "wof:lastmodified":1684351712,
     "wof:name":"Tamins",
     "wof:parent_id":102062839,
     "wof:placetype":"localadmin",
+    "wof:population":1217,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

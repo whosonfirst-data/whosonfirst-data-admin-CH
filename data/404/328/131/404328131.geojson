@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gurtnellen",
+    "eurostat:nuts_2021_id":"CH1209",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH062",
+    "eurostat:nuts_2021_level_lau":"CH1209",
+    "eurostat:population":540,
+    "eurostat:population_year":2020,
     "geom:area":0.009806,
-    "geom:area_square_m":83092979.925612,
+    "geom:area_square_m":83092979.925616,
     "geom:bbox":"8.53656,46.671224,8.693587,46.799303",
     "geom:latitude":46.743531,
     "geom:longitude":8.623843,
@@ -113,14 +125,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062879,
-        85682377
+        85682377,
+        102062879
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1209",
+        "eurostat:nuts_2021_id":"CH1209",
         "gn:id":7286010,
         "gp:id":12682797,
         "qs_pg:id":1093228
@@ -130,7 +146,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"702b0ce3aae17489b9569f2e6be36309",
+    "wof:geomhash":"fc52aefc460b23fb90a737dd41d7bab8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":404328131,
-    "wof:lastmodified":1598920396,
+    "wof:lastmodified":1684351690,
     "wof:name":"Gurtnellen",
     "wof:parent_id":102062879,
     "wof:placetype":"localadmin",
+    "wof:population":540,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

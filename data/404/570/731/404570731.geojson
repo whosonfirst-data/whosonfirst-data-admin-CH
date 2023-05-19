@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hedingen",
+    "eurostat:nuts_2021_id":"CH0005",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0005",
+    "eurostat:population":3734,
+    "eurostat:population_year":2020,
     "geom:area":0.000777,
-    "geom:area_square_m":6511476.018496,
+    "geom:area_square_m":6511476.018497,
     "geom:bbox":"8.428542,47.288926,8.482758,47.315829",
     "geom:latitude":47.301477,
     "geom:longitude":8.450948,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062775,
-        85682309
+        85682309,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0005",
+        "eurostat:nuts_2021_id":"CH0005",
         "gn:id":7286045,
         "gp:id":12685089,
         "qs_pg:id":44086
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7b5f0843a57759d5639ac59952f1f969",
+    "wof:geomhash":"5ecf8088f71c985f9ad4dd5d2ed9b408",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404570731,
-    "wof:lastmodified":1598920533,
+    "wof:lastmodified":1684351750,
     "wof:name":"Hedingen",
     "wof:parent_id":102062775,
     "wof:placetype":"localadmin",
+    "wof:population":3734,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

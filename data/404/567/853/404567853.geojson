@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3292",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Flums",
+    "eurostat:nuts_2021_id":"CH3292",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3292",
+    "eurostat:population":4858,
+    "eurostat:population_year":2020,
     "geom:area":0.008898,
-    "geom:area_square_m":74955934.35162,
+    "geom:area_square_m":74955934.351614,
     "geom:bbox":"9.214287,47.000428,9.402618,47.105743",
     "geom:latitude":47.059751,
     "geom:longitude":9.29705,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062963,
-        85682341
+        85682341,
+        102062963
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3292",
+        "eurostat:nuts_2021_id":"CH3292",
         "gn:id":7285844,
         "gp:id":12683479,
         "qs_pg:id":279375
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"acd315d3ef594f9868a2dd92fa7c3c41",
+    "wof:geomhash":"46f3446e1233643631e9c401a86b1333",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404567853,
-    "wof:lastmodified":1598919439,
+    "wof:lastmodified":1684351706,
     "wof:name":"Flums",
     "wof:parent_id":102062963,
     "wof:placetype":"localadmin",
+    "wof:population":4858,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

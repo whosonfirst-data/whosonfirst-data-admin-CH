@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4093",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Birrhard",
+    "eurostat:nuts_2021_id":"CH4093",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4093",
+    "eurostat:population":729,
+    "eurostat:population_year":2020,
     "geom:area":0.000357,
     "geom:area_square_m":2987429.897962,
     "geom:bbox":"8.228636,47.4238,8.257601,47.449474",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062993,
-        85682329
+        85682329,
+        102062993
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4093",
+        "eurostat:nuts_2021_id":"CH4093",
         "gn:id":7285257,
         "gp:id":12684979,
         "qs_pg:id":500452
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"ef2b7b5dca3e43a26c65cf94db819fcc",
+    "wof:geomhash":"fbb9303ab809a1a9fad0c6040dc07a5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404572133,
-    "wof:lastmodified":1598919767,
+    "wof:lastmodified":1684351767,
     "wof:name":"Birrhard",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
+    "wof:population":729,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

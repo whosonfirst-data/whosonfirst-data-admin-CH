@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0416",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00f6tschwil",
+    "eurostat:nuts_2021_id":"CH0416",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0416",
+    "eurostat:population":119,
+    "eurostat:population_year":2020,
     "geom:area":0.000349,
-    "geom:area_square_m":2938936.846985,
+    "geom:area_square_m":2938936.846986,
     "geom:bbox":"7.553811,47.033654,7.583765,47.055323",
     "geom:latitude":47.045818,
     "geom:longitude":7.56938,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0416",
+        "eurostat:nuts_2021_id":"CH0416",
         "gp:id":20075372,
         "qs_pg:id":334988
     },
@@ -125,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"06016db32b789b35955cbad803bc7a91",
+    "wof:geomhash":"ea1395bbaedd65133c505324961d00e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404572141,
-    "wof:lastmodified":1598919864,
+    "wof:lastmodified":1684351767,
     "wof:name":"M\u00f6tschwil",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":119,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

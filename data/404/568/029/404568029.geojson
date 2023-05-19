@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1362",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arth",
+    "eurostat:nuts_2021_id":"CH1362",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH063",
+    "eurostat:nuts_2021_level_lau":"CH1362",
+    "eurostat:population":11985,
+    "eurostat:population_year":2020,
     "geom:area":0.005743,
-    "geom:area_square_m":48378711.89541,
+    "geom:area_square_m":48378711.895411,
     "geom:bbox":"8.46486,47.021689,8.580122,47.094891",
     "geom:latitude":47.057221,
     "geom:longitude":8.527544,
@@ -124,14 +136,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062887,
-        85682305
+        85682305,
+        102062887
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1362",
+        "eurostat:nuts_2021_id":"CH1362",
         "gn:id":7285103,
         "gp:id":12682831,
         "qs_pg:id":906369
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c398e738cb1e1911d9903b9d718e00e0",
+    "wof:geomhash":"e928bf3bbddecb3c109cae68ec1ece39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404568029,
-    "wof:lastmodified":1598919668,
+    "wof:lastmodified":1684351710,
     "wof:name":"Arth",
     "wof:parent_id":102062887,
     "wof:placetype":"localadmin",
+    "wof:population":11985,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

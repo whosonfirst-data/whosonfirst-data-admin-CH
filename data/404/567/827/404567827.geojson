@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zwischbergen",
+    "eurostat:nuts_2021_id":"CH6011",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6011",
+    "eurostat:population":77,
+    "eurostat:population_year":2020,
     "geom:area":0.010018,
-    "geom:area_square_m":85800482.846999,
+    "geom:area_square_m":85800482.846993,
     "geom:bbox":"8.016059,46.099929,8.16601,46.250077",
     "geom:latitude":46.163007,
     "geom:longitude":8.099126,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063023,
-        85682281
+        85682281,
+        102063023
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6011",
+        "eurostat:nuts_2021_id":"CH6011",
         "gn:id":7287657,
         "gp:id":12683561,
         "qs_pg:id":671704
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9da264b3b3835a973f7d220a25e09b95",
+    "wof:geomhash":"3fd39bd3b2c8a4fc3470371daf754227",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404567827,
-    "wof:lastmodified":1598919383,
+    "wof:lastmodified":1684351706,
     "wof:name":"Zwischbergen",
     "wof:parent_id":102063023,
     "wof:placetype":"localadmin",
+    "wof:population":77,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

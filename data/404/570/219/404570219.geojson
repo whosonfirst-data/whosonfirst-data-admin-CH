@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4621",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Warth-Weiningen",
+    "eurostat:nuts_2021_id":"CH4621",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4621",
+    "eurostat:population":1346,
+    "eurostat:population_year":2020,
     "geom:area":0.000982,
-    "geom:area_square_m":8188981.740596,
+    "geom:area_square_m":8188981.740598,
     "geom:bbox":"8.84995524193,47.5765842147,8.9174922406,47.5991903057",
     "geom:latitude":47.58811,
     "geom:longitude":8.881925,
@@ -115,6 +127,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -123,6 +137,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4621",
+        "eurostat:nuts_2021_id":"CH4621",
         "gn:id":7287545,
         "gp:id":12685127,
         "qs_pg:id":1310737
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d7ff1d43a50c9213d9dd2ee45feac9a4",
+    "wof:geomhash":"1be3f1bda5c66297f241160dcfdfd983",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404570219,
-    "wof:lastmodified":1582223096,
+    "wof:lastmodified":1684351744,
     "wof:name":"Warth-Weiningen",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",
+    "wof:population":1346,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0491",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Br\u00fcttelen",
+    "eurostat:nuts_2021_id":"CH0491",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0491",
+    "eurostat:population":578,
+    "eurostat:population_year":2020,
     "geom:area":0.000782,
     "geom:area_square_m":6594764.369618,
     "geom:bbox":"7.123456,47.005797,7.17495,47.042237",
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0491",
+        "eurostat:nuts_2021_id":"CH0491",
         "gn:id":7285358,
         "gp:id":12683067,
         "qs_pg:id":910573
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f0e49d56631043a3f0f778ce8e01ee21",
+    "wof:geomhash":"d4422cfd5166c7847bdb594f2b530d62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404570703,
-    "wof:lastmodified":1598920645,
+    "wof:lastmodified":1684351749,
     "wof:name":"Br\u00fcttelen",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":578,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2196",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fribourg",
+    "eurostat:nuts_2021_id":"CH2196",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2196",
+    "eurostat:population":38365,
+    "eurostat:population_year":2020,
     "geom:area":0.001094,
     "geom:area_square_m":9260494.620373,
     "geom:bbox":"7.135655,46.784893,7.183975,46.821542",
@@ -277,6 +289,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -285,6 +299,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2196",
+        "eurostat:nuts_2021_id":"CH2196",
         "gn:id":7285870,
         "gp:id":12683493,
         "qs_pg:id":1109138
@@ -297,7 +313,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"06a4e85f59a880cb2ac2f1d7d1fda8e5",
+    "wof:geomhash":"8fcc7ff70ac3be411618b9c41528474b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -308,10 +324,12 @@
         }
     ],
     "wof:id":404569947,
-    "wof:lastmodified":1636413519,
+    "wof:lastmodified":1684351740,
     "wof:name":"Fribourg",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":38365,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

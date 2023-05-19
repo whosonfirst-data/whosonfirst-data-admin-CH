@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0935",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberlangenegg",
+    "eurostat:nuts_2021_id":"CH0935",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0935",
+    "eurostat:population":462,
+    "eurostat:population_year":2020,
     "geom:area":0.001079,
     "geom:area_square_m":9135536.461159,
     "geom:bbox":"7.713204,46.782004,7.777102,46.818028",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0935",
+        "eurostat:nuts_2021_id":"CH0935",
         "gn:id":7286702,
         "gp:id":12684384,
         "qs_pg:id":43862
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"2c426f7283670acff19231a7a8e462dd",
+    "wof:geomhash":"1b1c02006e381384c5c9beff0238ee45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404569973,
-    "wof:lastmodified":1598919353,
+    "wof:lastmodified":1684351741,
     "wof:name":"Oberlangenegg",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":462,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

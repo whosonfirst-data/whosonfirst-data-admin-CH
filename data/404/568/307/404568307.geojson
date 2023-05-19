@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3787",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St. Moritz",
+    "eurostat:nuts_2021_id":"CH3787",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3787",
+    "eurostat:population":4928,
+    "eurostat:population_year":2020,
     "geom:area":0.003361,
-    "geom:area_square_m":28611941.010273,
+    "geom:area_square_m":28611941.010275,
     "geom:bbox":"9.749357,46.457715,9.864542,46.514604",
     "geom:latitude":46.490333,
     "geom:longitude":9.816876,
@@ -244,14 +256,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062857,
-        85682255
+        85682255,
+        102062857
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3787",
+        "eurostat:nuts_2021_id":"CH3787",
         "gp:id":12684343,
         "qs_pg:id":1306479
     },
@@ -263,7 +279,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"df9ce7e0b53651096bdde38896690eb8",
+    "wof:geomhash":"c246116170058f3155f17045def099e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -274,10 +290,12 @@
         }
     ],
     "wof:id":404568307,
-    "wof:lastmodified":1598919459,
+    "wof:lastmodified":1684351716,
     "wof:name":"St. Moritz",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",
+    "wof:population":4928,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

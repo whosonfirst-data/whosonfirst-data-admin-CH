@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0738",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jens",
+    "eurostat:nuts_2021_id":"CH0738",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0738",
+    "eurostat:population":659,
+    "eurostat:population_year":2020,
     "geom:area":0.000543,
     "geom:area_square_m":4569903.077201,
     "geom:bbox":"7.251213,47.083915,7.290628,47.109328",
@@ -82,14 +94,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0738",
+        "eurostat:nuts_2021_id":"CH0738",
         "gp:id":12685258,
         "qs_pg:id":62113
     },
@@ -101,7 +117,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"810df19460d92fc10d5f53b3e9ed5188",
+    "wof:geomhash":"5961642697f688ffcf164dc9bb8f5790",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,10 +128,12 @@
         }
     ],
     "wof:id":404571425,
-    "wof:lastmodified":1598920038,
+    "wof:lastmodified":1684351758,
     "wof:name":"Jens",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":659,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

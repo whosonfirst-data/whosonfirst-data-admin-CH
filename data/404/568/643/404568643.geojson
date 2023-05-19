@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4461",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amriswil",
+    "eurostat:nuts_2021_id":"CH4461",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4461",
+    "eurostat:population":13538,
+    "eurostat:population_year":2020,
     "geom:area":0.002272,
-    "geom:area_square_m":18966725.044411,
+    "geom:area_square_m":18966725.044414,
     "geom:bbox":"9.247402,47.522126,9.339572,47.568156",
     "geom:latitude":47.542787,
     "geom:longitude":9.287122,
@@ -133,14 +145,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062959,
-        85682337
+        85682337,
+        102062959
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4461",
+        "eurostat:nuts_2021_id":"CH4461",
         "gn:id":7285073,
         "gp:id":12682795,
         "qs_pg:id":671156
@@ -150,7 +166,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a045a91ef04022aefc87b142ec90421b",
+    "wof:geomhash":"f1089d689b460f25f37f80f6140d06cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404568643,
-    "wof:lastmodified":1598919503,
+    "wof:lastmodified":1684351722,
     "wof:name":"Amriswil",
     "wof:parent_id":102062959,
     "wof:placetype":"localadmin",
+    "wof:population":13538,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

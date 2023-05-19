@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eggiwil",
+    "eurostat:nuts_2021_id":"CH0901",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0901",
+    "eurostat:population":2440,
+    "eurostat:population_year":2020,
     "geom:area":0.007114,
-    "geom:area_square_m":60143304.584978,
+    "geom:area_square_m":60143304.584984,
     "geom:bbox":"7.742618,46.810025,7.870111,46.920867",
     "geom:latitude":46.865395,
     "geom:longitude":7.809183,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0901",
+        "eurostat:nuts_2021_id":"CH0901",
         "gn:id":7285706,
         "gp:id":12682720,
         "qs_pg:id":910563
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8ef8706938914921e6eef936db4316f1",
+    "wof:geomhash":"883b0894cf85bb813f00ada3796c7253",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404567911,
-    "wof:lastmodified":1598919444,
+    "wof:lastmodified":1684351707,
     "wof:name":"Eggiwil",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":2440,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

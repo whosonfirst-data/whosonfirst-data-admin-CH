@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2962",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hemishofen",
+    "eurostat:nuts_2021_id":"CH2962",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH052",
+    "eurostat:nuts_2021_level_lau":"CH2962",
+    "eurostat:population":468,
+    "eurostat:population_year":2020,
     "geom:area":0.000945,
     "geom:area_square_m":7869489.566183,
     "geom:bbox":"8.805031,47.671269,8.87622,47.705475",
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394298251,
-        85682285
+        85682285,
+        1394298251
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2962",
+        "eurostat:nuts_2021_id":"CH2962",
         "gn:id":7286057,
         "gp:id":12683660,
         "qs_pg:id":1163635
@@ -128,7 +144,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0c5a43ca195372ae1b0df7ddf54d8485",
+    "wof:geomhash":"5fb9b5e4a62eb803aeb65f9014559083",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +155,12 @@
         }
     ],
     "wof:id":404328497,
-    "wof:lastmodified":1598920328,
+    "wof:lastmodified":1684351696,
     "wof:name":"Hemishofen",
     "wof:parent_id":1394298251,
     "wof:placetype":"localadmin",
+    "wof:population":468,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

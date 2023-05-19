@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5144",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arogno",
+    "eurostat:nuts_2021_id":"CH5144",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5144",
+    "eurostat:population":982,
+    "eurostat:population_year":2020,
     "geom:area":0.000985,
-    "geom:area_square_m":8464081.551218,
+    "geom:area_square_m":8464081.551221,
     "geom:bbox":"8.974198,45.942739,9.017122,45.982448",
     "geom:latitude":45.957594,
     "geom:longitude":8.992617,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5144",
+        "eurostat:nuts_2021_id":"CH5144",
         "gn:id":7285101,
         "gp:id":12682826,
         "qs_pg:id":197596
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"88063445b15664546ea1099bc77b1ead",
+    "wof:geomhash":"70eac5f9467e32e72c8a07fccdecb2a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404570143,
-    "wof:lastmodified":1598920614,
+    "wof:lastmodified":1684351743,
     "wof:name":"Arogno",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":982,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

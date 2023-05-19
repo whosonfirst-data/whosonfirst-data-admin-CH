@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0993",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wangenried",
+    "eurostat:nuts_2021_id":"CH0993",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0993",
+    "eurostat:population":425,
+    "eurostat:population_year":2020,
     "geom:area":0.000346,
-    "geom:area_square_m":2902895.036675,
+    "geom:area_square_m":2902895.036674,
     "geom:bbox":"7.640366,47.209898,7.676852,47.2263",
     "geom:latitude":47.217722,
     "geom:longitude":7.659028,
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0993",
+        "eurostat:nuts_2021_id":"CH0993",
         "gn:id":7287542,
         "gp:id":12685035,
         "qs_pg:id":671679
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b4ac7fe9d15ddc547a5c0a32c635e455",
+    "wof:geomhash":"9687928291d478ce7d483dba70e7b4e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404572151,
-    "wof:lastmodified":1598919771,
+    "wof:lastmodified":1684351767,
     "wof:name":"Wangenried",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":425,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

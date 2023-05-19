@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5764",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallorbe",
+    "eurostat:nuts_2021_id":"CH5764",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5764",
+    "eurostat:population":3837,
+    "eurostat:population_year":2020,
     "geom:area":0.002728,
-    "geom:area_square_m":23130641.17927,
+    "geom:area_square_m":23130641.179269,
     "geom:bbox":"6.30725,46.683987,6.439792,46.731911",
     "geom:latitude":46.707819,
     "geom:longitude":6.371402,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5764",
+        "eurostat:nuts_2021_id":"CH5764",
         "gn:id":7287412,
         "gp:id":12684558,
         "qs_pg:id":671642
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9be5775363af13de9bd15185f712834",
+    "wof:geomhash":"a35f814db5b3cfcea3c39c4a44e30cdc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568465,
-    "wof:lastmodified":1598919571,
+    "wof:lastmodified":1684351719,
     "wof:name":"Vallorbe",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":3837,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

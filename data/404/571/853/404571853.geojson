@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0975",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Farnern",
+    "eurostat:nuts_2021_id":"CH0975",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0975",
+    "eurostat:population":202,
+    "eurostat:population_year":2020,
     "geom:area":0.000437,
-    "geom:area_square_m":3668080.132255,
+    "geom:area_square_m":3668080.132256,
     "geom:bbox":"7.580107,47.260998,7.634585,47.280197",
     "geom:latitude":47.270495,
     "geom:longitude":7.610385,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0975",
+        "eurostat:nuts_2021_id":"CH0975",
         "gn:id":7285797,
         "gp:id":20075425,
         "qs_pg:id":106574
@@ -120,7 +136,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7d6a4c77058f62b16c8a4e37b60ea2d1",
+    "wof:geomhash":"ec6db979e38251aa67ae43ac7bc30844",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404571853,
-    "wof:lastmodified":1598920196,
+    "wof:lastmodified":1684351764,
     "wof:name":"Farnern",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":202,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

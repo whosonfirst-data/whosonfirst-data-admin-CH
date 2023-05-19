@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lyss",
+    "eurostat:nuts_2021_id":"CH0306",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0306",
+    "eurostat:population":15282,
+    "eurostat:population_year":2020,
     "geom:area":0.001756,
-    "geom:area_square_m":14789828.077733,
+    "geom:area_square_m":14789828.077735,
     "geom:bbox":"7.289127,47.054505,7.351293,47.110197",
     "geom:latitude":47.081267,
     "geom:longitude":7.317435,
@@ -133,14 +145,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0306",
+        "eurostat:nuts_2021_id":"CH0306",
         "gn:id":7286410,
         "gp:id":12683922,
         "qs_pg:id":1078619
@@ -150,7 +166,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"69b3ea0e927f4bc4f2b7eeb41b951eed",
+    "wof:geomhash":"4b6f0c44a1c8ad93600e74189726ebb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         }
     ],
     "wof:id":404568935,
-    "wof:lastmodified":1598919631,
+    "wof:lastmodified":1684351727,
     "wof:name":"Lyss",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":15282,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

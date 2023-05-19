@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6282",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eisten",
+    "eurostat:nuts_2021_id":"CH6282",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6282",
+    "eurostat:population":204,
+    "eurostat:population_year":2020,
     "geom:area":0.004427,
     "geom:area_square_m":37906046.036629,
     "geom:bbox":"7.858617,46.135138,7.996229,46.215921",
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062859,
-        85682281
+        85682281,
+        102062859
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6282",
+        "eurostat:nuts_2021_id":"CH6282",
         "gn:id":7285717,
         "gp:id":12683367,
         "qs_pg:id":671292
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"419e91ee21396823779bdeb63c4f260a",
+    "wof:geomhash":"d78dd918326763d2bcd47614056a0312",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404568143,
-    "wof:lastmodified":1598919596,
+    "wof:lastmodified":1684351713,
     "wof:name":"Eisten",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",
+    "wof:population":204,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

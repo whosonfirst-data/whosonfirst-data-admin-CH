@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2572",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u00e4niken",
+    "eurostat:nuts_2021_id":"CH2572",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2572",
+    "eurostat:population":2851,
+    "eurostat:population_year":2020,
     "geom:area":0.000647,
-    "geom:area_square_m":5418007.836537,
+    "geom:area_square_m":5418007.836538,
     "geom:bbox":"7.95878141842,47.3340017954,7.99182080992,47.3676921688",
     "geom:latitude":47.349231,
     "geom:longitude":7.975466,
@@ -39,6 +51,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -47,6 +61,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2572",
+        "eurostat:nuts_2021_id":"CH2572",
         "gn:id":7285622,
         "gp:id":12683290,
         "qs_pg:id":334285
@@ -56,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fc53e836997d4fabc51b0f8f69469b91",
+    "wof:geomhash":"fc4863b32848a4c57da98f43ed98070b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,10 +83,12 @@
         }
     ],
     "wof:id":404328653,
-    "wof:lastmodified":1582223086,
+    "wof:lastmodified":1684351699,
     "wof:name":"D\u00e4niken",
     "wof:parent_id":1394137091,
     "wof:placetype":"localadmin",
+    "wof:population":2851,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

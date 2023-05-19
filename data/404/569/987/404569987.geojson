@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saillon",
+    "eurostat:nuts_2021_id":"CH6140",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6140",
+    "eurostat:population":2620,
+    "eurostat:population_year":2020,
     "geom:area":0.001601,
-    "geom:area_square_m":13703707.756646,
+    "geom:area_square_m":13703707.756644,
     "geom:bbox":"7.094628,46.155369,7.205155,46.198076",
     "geom:latitude":46.177491,
     "geom:longitude":7.158722,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063045,
-        85682281
+        85682281,
+        102063045
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6140",
+        "eurostat:nuts_2021_id":"CH6140",
         "gn:id":7287018,
         "gp:id":20075659,
         "qs_pg:id":1154301
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"29e0fd909eaaa234c9ed4061bcacc019",
+    "wof:geomhash":"6d58520399639aa53f91ab1caf9922b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404569987,
-    "wof:lastmodified":1598919352,
+    "wof:lastmodified":1684351741,
     "wof:name":"Saillon",
     "wof:parent_id":102063045,
     "wof:placetype":"localadmin",
+    "wof:population":2620,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

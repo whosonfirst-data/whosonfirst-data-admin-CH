@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2228",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villars-sur-Gl\u00e2ne",
+    "eurostat:nuts_2021_id":"CH2228",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2228",
+    "eurostat:population":12094,
+    "eurostat:population_year":2020,
     "geom:area":0.000645,
     "geom:area_square_m":5464397.614171,
     "geom:bbox":"7.103509,46.783297,7.145524,46.809011",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063029,
-        85682301
+        85682301,
+        102063029
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2228",
+        "eurostat:nuts_2021_id":"CH2228",
         "gn:id":7287468,
         "gp:id":12684575,
         "qs_pg:id":1310722
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f4670177b4426468df10ba474adc7863",
+    "wof:geomhash":"c247a51616e9f11168573ba24156bcfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404571099,
-    "wof:lastmodified":1598920078,
+    "wof:lastmodified":1684351754,
     "wof:name":"Villars-sur-Gl\u00e2ne",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":12094,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

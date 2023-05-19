@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Bern",
+    "eurostat:name_local":"Bern",
+    "eurostat:nuts_2021_id":"CH021",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:population":1047473,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.702506,
-    "geom:area_square_m":5943846070.889005,
+    "geom:area_square_m":5943846070.889059,
     "geom:bbox":"6.861492,46.326468,8.455157,47.345309",
     "geom:latitude":46.822614,
     "geom:longitude":7.624376,
@@ -427,8 +441,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"6,049",
     "statoids:area_mi":"2,336",
     "statoids:as_of_date":"2010-12-31",
@@ -448,6 +462,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":10159,
+        "eurostat:nuts_2021_id":"CH021",
         "fips:code":"SZ05",
         "gn:id":2661551,
         "gp:id":2347087,
@@ -459,7 +474,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3cb325540541b92de397d983148d2a48",
+    "wof:geomhash":"574b9a93a8c2b80342f47adc099de2fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -481,13 +496,13 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1617129963,
+    "wof:lastmodified":1684351504,
     "wof:name":"Bern",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":979802,
-    "wof:population_rank":11,
+    "wof:population":1047473,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"BE",
     "wof:superseded_by":[],

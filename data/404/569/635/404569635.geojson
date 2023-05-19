@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corbi\u00e8res",
+    "eurostat:nuts_2021_id":"CH2129",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2129",
+    "eurostat:population":898,
+    "eurostat:population_year":2020,
     "geom:area":0.001264,
-    "geom:area_square_m":10732547.854273,
+    "geom:area_square_m":10732547.854272,
     "geom:bbox":"7.08855274514,46.6336306544,7.14731615368,46.6691874381",
     "geom:latitude":46.649282,
     "geom:longitude":7.11751,
@@ -97,6 +109,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -105,6 +119,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2129",
+        "eurostat:nuts_2021_id":"CH2129",
         "gp:id":12684842,
         "qs_pg:id":1250107
     },
@@ -113,7 +129,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3e19ec83676a3f58e7e4f71dd6e46154",
+    "wof:geomhash":"883981faaed0e7c1286898dcea4f3aae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":404569635,
-    "wof:lastmodified":1582222954,
+    "wof:lastmodified":1684351736,
     "wof:name":"Corbi\u00e8res",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",
+    "wof:population":898,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

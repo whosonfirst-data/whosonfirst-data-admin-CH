@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4193",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brunegg",
+    "eurostat:nuts_2021_id":"CH4193",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4193",
+    "eurostat:population":847,
+    "eurostat:population_year":2020,
     "geom:area":0.000185,
-    "geom:area_square_m":1549843.744278,
+    "geom:area_square_m":1549843.744277,
     "geom:bbox":"8.207559,47.412692,8.23651,47.429448",
     "geom:latitude":47.420919,
     "geom:longitude":8.219607,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063017,
-        85682329
+        85682329,
+        102063017
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4193",
+        "eurostat:nuts_2021_id":"CH4193",
         "gp:id":12684982,
         "qs_pg:id":235885
     },
@@ -134,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"52fb74cb10ad491966ca40ab24e31aab",
+    "wof:geomhash":"8f4dace311c68914c7dd44154b609fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404573313,
-    "wof:lastmodified":1598919942,
+    "wof:lastmodified":1684351773,
     "wof:name":"Brunegg",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",
+    "wof:population":847,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

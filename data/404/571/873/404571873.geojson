@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tentlingen",
+    "eurostat:nuts_2021_id":"CH2307",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2307",
+    "eurostat:population":1345,
+    "eurostat:population_year":2020,
     "geom:area":0.000425,
-    "geom:area_square_m":3600800.488955,
+    "geom:area_square_m":3600800.488954,
     "geom:bbox":"7.184694,46.753164,7.222972,46.779313",
     "geom:latitude":46.767634,
     "geom:longitude":7.200018,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062891,
-        85682301
+        85682301,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2307",
+        "eurostat:nuts_2021_id":"CH2307",
         "gn:id":7287291,
         "gp:id":12684995,
         "qs_pg:id":1164935
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7ce4f04b6906f8a076912c6c161d4287",
+    "wof:geomhash":"883ca9b3da58e5ad311c7c9c72a2df17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404571873,
-    "wof:lastmodified":1598920045,
+    "wof:lastmodified":1684351764,
     "wof:name":"Tentlingen",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",
+    "wof:population":1345,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

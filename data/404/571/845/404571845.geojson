@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2894",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Titterten",
+    "eurostat:nuts_2021_id":"CH2894",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2894",
+    "eurostat:population":404,
+    "eurostat:population_year":2020,
     "geom:area":0.000442,
     "geom:area_square_m":3700561.561575,
     "geom:bbox":"7.695907,47.392025,7.735187,47.410619",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062911,
-        85682361
+        85682361,
+        102062911
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2894",
+        "eurostat:nuts_2021_id":"CH2894",
         "gn:id":7287313,
         "gp:id":12684501,
         "qs_pg:id":1026154
@@ -141,7 +157,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c4813e964ce980d7515b838e2034fa90",
+    "wof:geomhash":"30c2aa214470dfae5f483c9921504823",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404571845,
-    "wof:lastmodified":1598920036,
+    "wof:lastmodified":1684351763,
     "wof:name":"Titterten",
     "wof:parent_id":102062911,
     "wof:placetype":"localadmin",
+    "wof:population":404,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

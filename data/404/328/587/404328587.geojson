@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solothurn",
+    "eurostat:nuts_2021_id":"CH2601",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2601",
+    "eurostat:population":16777,
+    "eurostat:population_year":2020,
     "geom:area":0.000746,
-    "geom:area_square_m":6264485.946207,
+    "geom:area_square_m":6264485.946206,
     "geom:bbox":"7.509308,47.195941,7.552306,47.22022",
     "geom:latitude":47.208337,
     "geom:longitude":7.530048,
@@ -237,6 +249,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -245,6 +259,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2601",
+        "eurostat:nuts_2021_id":"CH2601",
         "gn:id":7287186,
         "gp:id":12684298,
         "qs_pg:id":1079238
@@ -257,7 +273,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f72c8a95a69a47897bf119f7e61c2554",
+    "wof:geomhash":"e27567a00c5d3ba1415d415da11d70de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -268,10 +284,12 @@
         }
     ],
     "wof:id":404328587,
-    "wof:lastmodified":1636413524,
+    "wof:lastmodified":1684351698,
     "wof:name":"Solothurn",
     "wof:parent_id":1394137113,
     "wof:placetype":"localadmin",
+    "wof:population":16777,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

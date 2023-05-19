@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wettswil am Albis",
+    "eurostat:nuts_2021_id":"CH0014",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0014",
+    "eurostat:population":5188,
+    "eurostat:population_year":2020,
     "geom:area":0.000449,
     "geom:area_square_m":3760110.648549,
     "geom:bbox":"8.455209,47.323173,8.485992,47.350126",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062775,
-        85682309
+        85682309,
+        102062775
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0014",
+        "eurostat:nuts_2021_id":"CH0014",
         "gn:id":7287563,
         "gp:id":12684624,
         "qs_pg:id":1164933
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"92149786f80e37a65a9f6bde03d382fa",
+    "wof:geomhash":"2b6927eef8b4c7a1b7c3360009b16dfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404571821,
-    "wof:lastmodified":1598920048,
+    "wof:lastmodified":1684351763,
     "wof:name":"Wettswil am Albis",
     "wof:parent_id":102062775,
     "wof:placetype":"localadmin",
+    "wof:population":5188,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

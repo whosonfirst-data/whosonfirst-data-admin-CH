@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0921",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amsoldingen",
+    "eurostat:nuts_2021_id":"CH0921",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0921",
+    "eurostat:population":812,
+    "eurostat:population_year":2020,
     "geom:area":0.000554,
-    "geom:area_square_m":4699536.695562,
+    "geom:area_square_m":4699536.695561,
     "geom:bbox":"7.565932,46.713673,7.608612,46.744216",
     "geom:latitude":46.725363,
     "geom:longitude":7.585779,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0921",
+        "eurostat:nuts_2021_id":"CH0921",
         "gn:id":7285074,
         "gp:id":12682796,
         "qs_pg:id":1015636
@@ -141,7 +157,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"a1ee5479bc1ccebd32292c70db9bc031",
+    "wof:geomhash":"1f01d01254ce9799f2e82510145f82dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404571371,
-    "wof:lastmodified":1598920110,
+    "wof:lastmodified":1684351758,
     "wof:name":"Amsoldingen",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":812,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

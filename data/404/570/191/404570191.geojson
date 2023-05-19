@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2140",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marsens",
+    "eurostat:nuts_2021_id":"CH2140",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2140",
+    "eurostat:population":1909,
+    "eurostat:population_year":2020,
     "geom:area":0.000977,
     "geom:area_square_m":8290797.78489,
     "geom:bbox":"6.999946,46.648383,7.098772,46.673938",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062999,
-        85682301
+        85682301,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2140",
+        "eurostat:nuts_2021_id":"CH2140",
         "gn:id":7286440,
         "gp:id":12683944,
         "qs_pg:id":952912
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"cc64648a0bda60aa9f27a4bde72e9ed2",
+    "wof:geomhash":"b21c7b4509f194cd9c5788c796cf714e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404570191,
-    "wof:lastmodified":1598920635,
+    "wof:lastmodified":1684351743,
     "wof:name":"Marsens",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",
+    "wof:population":1909,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

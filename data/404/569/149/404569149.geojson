@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4280",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oftringen",
+    "eurostat:nuts_2021_id":"CH4280",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4280",
+    "eurostat:population":13794,
+    "eurostat:population_year":2020,
     "geom:area":0.001529,
-    "geom:area_square_m":12816794.836285,
+    "geom:area_square_m":12816794.836284,
     "geom:bbox":"7.908333,47.292687,7.976458,47.335315",
     "geom:latitude":47.313379,
     "geom:longitude":7.938971,
@@ -148,14 +160,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062851,
-        85682329
+        85682329,
+        102062851
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4280",
+        "eurostat:nuts_2021_id":"CH4280",
         "gn:id":7286733,
         "gp:id":12684155,
         "qs_pg:id":248715
@@ -168,7 +184,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"51c3d4c435bce9113425f619fe37b259",
+    "wof:geomhash":"ea7b3606276e3ebabd545e284c14a3d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":404569149,
-    "wof:lastmodified":1598919368,
+    "wof:lastmodified":1684351731,
     "wof:name":"Oftringen",
     "wof:parent_id":102062851,
     "wof:placetype":"localadmin",
+    "wof:population":13794,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6434",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Le Cerneux-P\u00e9quignot",
+    "eurostat:nuts_2021_id":"CH6434",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6434",
+    "eurostat:population":311,
+    "eurostat:population_year":2020,
     "geom:area":0.001857,
-    "geom:area_square_m":15655061.408877,
+    "geom:area_square_m":15655061.408879,
     "geom:bbox":"6.591413,46.98192,6.729684,47.038844",
     "geom:latitude":47.015847,
     "geom:longitude":6.669302,
@@ -96,18 +108,23 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
         85682359
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6434",
+        "eurostat:nuts_2021_id":"CH6434"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a2cfc8144adf23d0860e61c89d201f41",
+    "wof:geomhash":"c1736432046c7ecc2685a26d24fcb4e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +134,12 @@
         }
     ],
     "wof:id":404568857,
-    "wof:lastmodified":1598919537,
+    "wof:lastmodified":1684351726,
     "wof:name":"Le Cerneux-P\u00e9quignot",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":311,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

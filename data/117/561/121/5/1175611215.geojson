@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5149",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bedigliora",
+    "eurostat:nuts_2021_id":"CH5149",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5149",
+    "eurostat:population":625,
+    "eurostat:population_year":2020,
     "geom:area":0.000299,
     "geom:area_square_m":2567813.559803,
     "geom:bbox":"8.825931,45.989783,8.856021,46.02679",
@@ -102,14 +114,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5149",
+        "eurostat:nuts_2021_id":"CH5149",
         "gn:id":7285176,
         "gp:id":12682899,
         "qs_pg:id":43283
@@ -118,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"17271b7553288b9567c9dd8f6e8a66fc",
+    "wof:geomhash":"a9f53a2efa594bcf377c412a52d31d7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":1175611215,
-    "wof:lastmodified":1598916361,
+    "wof:lastmodified":1684351776,
     "wof:name":"Bedigliora",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":625,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

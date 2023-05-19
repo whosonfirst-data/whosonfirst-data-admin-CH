@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Degersheim",
+    "eurostat:nuts_2021_id":"CH3401",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3401",
+    "eurostat:population":4130,
+    "eurostat:population_year":2020,
     "geom:area":0.001724,
     "geom:area_square_m":14436885.955179,
     "geom:bbox":"9.142252,47.347782,9.222004,47.410297",
@@ -111,14 +123,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062947,
-        85682341
+        85682341,
+        102062947
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3401",
+        "eurostat:nuts_2021_id":"CH3401",
         "gp:id":12683294,
         "qs_pg:id":1169889
     },
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"102a891b3c4e1dd17901df4ee0924478",
+    "wof:geomhash":"bf32f6b9277064bea365390b3ba77273",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":1175611183,
-    "wof:lastmodified":1598916355,
+    "wof:lastmodified":1684351775,
     "wof:name":"Degersheim",
     "wof:parent_id":102062947,
     "wof:placetype":"localadmin",
+    "wof:population":4130,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

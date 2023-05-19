@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5257",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morbio Inferiore",
+    "eurostat:nuts_2021_id":"CH5257",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5257",
+    "eurostat:population":4576,
+    "eurostat:population_year":2020,
     "geom:area":0.000262,
     "geom:area_square_m":2257277.236287,
     "geom:bbox":"9.010037,45.839483,9.034405,45.858136",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063063,
-        85682269
+        85682269,
+        102063063
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5257",
+        "eurostat:nuts_2021_id":"CH5257",
         "gn:id":7286549,
         "gp:id":12683200,
         "qs_pg:id":1196195
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7e2696a965cda8c4a99644a6df0e1b53",
+    "wof:geomhash":"fc2f863aba870c60af79903f08e11c29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404572439,
-    "wof:lastmodified":1598919788,
+    "wof:lastmodified":1684351770,
     "wof:name":"Morbio Inferiore",
     "wof:parent_id":102063063,
     "wof:placetype":"localadmin",
+    "wof:population":4576,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

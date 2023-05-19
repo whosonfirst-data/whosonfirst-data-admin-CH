@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cadenazzo",
+    "eurostat:nuts_2021_id":"CH5003",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5003",
+    "eurostat:population":2952,
+    "eurostat:population_year":2020,
     "geom:area":0.000976,
     "geom:area_square_m":8359287.407329,
     "geom:bbox":"8.919121,46.130707,8.980479,46.164303",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062991,
-        85682269
+        85682269,
+        102062991
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5003",
+        "eurostat:nuts_2021_id":"CH5003",
         "gn:id":7285419,
         "gp:id":12682742,
         "qs_pg:id":1196948
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"110d863af988d897c7915cb12d1f903a",
+    "wof:geomhash":"15d5d2ec8a3a93a5daf8d7f904655906",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404570173,
-    "wof:lastmodified":1598920599,
+    "wof:lastmodified":1684351743,
     "wof:name":"Cadenazzo",
     "wof:parent_id":102062991,
     "wof:placetype":"localadmin",
+    "wof:population":2952,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

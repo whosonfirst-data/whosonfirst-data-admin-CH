@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5639",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lully (VD)",
+    "eurostat:nuts_2021_id":"CH5639",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5639",
+    "eurostat:population":786,
+    "eurostat:population_year":2020,
     "geom:area":0.00024,
-    "geom:area_square_m":2042088.192886,
+    "geom:area_square_m":2042088.192887,
     "geom:bbox":"6.45413583693,46.4916646637,6.47746363416,46.5145556141",
     "geom:latitude":46.503919,
     "geom:longitude":6.465764,
@@ -75,6 +87,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -82,7 +96,10 @@
         102062873
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5639",
+        "eurostat:nuts_2021_id":"CH5639"
+    },
     "wof:coterminous":[
         1125904213
     ],
@@ -90,7 +107,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f8854da28c73e52410292809ffd165e9",
+    "wof:geomhash":"a2e22d44bccd480cac9ef05200c0a124",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +118,12 @@
         }
     ],
     "wof:id":404573133,
-    "wof:lastmodified":1582223036,
+    "wof:lastmodified":1684351771,
     "wof:name":"Lully",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":786,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

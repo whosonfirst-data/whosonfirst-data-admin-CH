@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0580",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hofstetten bei Brienz",
+    "eurostat:nuts_2021_id":"CH0580",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0580",
+    "eurostat:population":518,
+    "eurostat:population_year":2020,
     "geom:area":0.001033,
     "geom:area_square_m":8751160.031331,
     "geom:bbox":"8.065615,46.741434,8.102347,46.788648",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062759,
-        85682381
+        85682381,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0580",
+        "eurostat:nuts_2021_id":"CH0580",
         "gp:id":12682893,
         "qs_pg:id":61774
     },
@@ -140,7 +156,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"30ecf8b4e60100e9f69037a1d06b596e",
+    "wof:geomhash":"4a9321548006279d6c95976419f80d58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         }
     ],
     "wof:id":404570095,
-    "wof:lastmodified":1598920689,
+    "wof:lastmodified":1684351742,
     "wof:name":"Hofstetten bei Brienz",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":518,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

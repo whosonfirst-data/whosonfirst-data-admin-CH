@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0670",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neuenegg",
+    "eurostat:nuts_2021_id":"CH0670",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0670",
+    "eurostat:population":5541,
+    "eurostat:population_year":2020,
     "geom:area":0.002577,
-    "geom:area_square_m":21770243.115412,
+    "geom:area_square_m":21770243.11541,
     "geom:bbox":"7.240992,46.88586,7.355061,46.925198",
     "geom:latitude":46.907089,
     "geom:longitude":7.298081,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0670",
+        "eurostat:nuts_2021_id":"CH0670",
         "gn:id":2659491,
         "gp:id":12684887,
         "qs_pg:id":248591
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b7d83672932a9e2ee24c6eca7b71689b",
+    "wof:geomhash":"dad0a7dbe6cac4e60f09446f36e00e41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404568537,
-    "wof:lastmodified":1598919615,
+    "wof:lastmodified":1684351720,
     "wof:name":"Neuenegg",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":5541,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6297",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Visp",
+    "eurostat:nuts_2021_id":"CH6297",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6297",
+    "eurostat:population":7950,
+    "eurostat:population_year":2020,
     "geom:area":0.001541,
     "geom:area_square_m":13163117.903728,
     "geom:bbox":"7.829994,46.27092,7.931541,46.303131",
@@ -139,14 +151,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062859,
-        85682281
+        85682281,
+        102062859
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6297",
+        "eurostat:nuts_2021_id":"CH6297",
         "gn:id":7287487,
         "gp:id":12683429,
         "qs_pg:id":106712
@@ -156,7 +172,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"08035a22184ce83fb45f8e837610cf48",
+    "wof:geomhash":"84dfea7c95aced7259d4aa1332eaabba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +183,12 @@
         }
     ],
     "wof:id":404569115,
-    "wof:lastmodified":1598919346,
+    "wof:lastmodified":1684351730,
     "wof:name":"Visp",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",
+    "wof:population":7950,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

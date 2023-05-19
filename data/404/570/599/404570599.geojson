@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2866",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wintersingen",
+    "eurostat:nuts_2021_id":"CH2866",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2866",
+    "eurostat:population":620,
+    "eurostat:population_year":2020,
     "geom:area":0.00083,
-    "geom:area_square_m":6932650.457898,
+    "geom:area_square_m":6932650.457899,
     "geom:bbox":"7.806033,47.481521,7.846426,47.514736",
     "geom:latitude":47.496073,
     "geom:longitude":7.827128,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062819,
-        85682361
+        85682361,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2866",
+        "eurostat:nuts_2021_id":"CH2866",
         "gn:id":7287591,
         "gp:id":12684941,
         "qs_pg:id":1095250
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3971ea44f21f3560d2a426255e3ca0e",
+    "wof:geomhash":"98375962c7004fa03800d83a8d07d884",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404570599,
-    "wof:lastmodified":1598920638,
+    "wof:lastmodified":1684351748,
     "wof:name":"Wintersingen",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",
+    "wof:population":620,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

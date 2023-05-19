@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0594",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wilderswil",
+    "eurostat:nuts_2021_id":"CH0594",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0594",
+    "eurostat:population":2658,
+    "eurostat:population_year":2020,
     "geom:area":0.00155,
-    "geom:area_square_m":13160239.061434,
+    "geom:area_square_m":13160239.061435,
     "geom:bbox":"7.83066,46.61238,7.904528,46.674671",
     "geom:latitude":46.646037,
     "geom:longitude":7.866027,
@@ -130,14 +142,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062759,
-        85682381
+        85682381,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0594",
+        "eurostat:nuts_2021_id":"CH0594",
         "gn:id":7287577,
         "gp:id":12683950,
         "qs_pg:id":1059675
@@ -147,7 +163,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8abf6070fe8a4fab308762df7d3bc1b9",
+    "wof:geomhash":"95b1dc597c8fb14926f5e9772b8c0ff0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404569067,
-    "wof:lastmodified":1598919343,
+    "wof:lastmodified":1684351730,
     "wof:name":"Wilderswil",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",
+    "wof:population":2658,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

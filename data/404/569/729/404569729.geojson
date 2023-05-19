@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meikirch",
+    "eurostat:nuts_2021_id":"CH0307",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0307",
+    "eurostat:population":2461,
+    "eurostat:population_year":2020,
     "geom:area":0.00121,
     "geom:area_square_m":10205447.638287,
     "geom:bbox":"7.312728,46.984867,7.412061,47.022368",
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0307",
+        "eurostat:nuts_2021_id":"CH0307",
         "gn:id":7286471,
         "gp:id":12685267,
         "qs_pg:id":671456
@@ -129,7 +145,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7a7e060e9a1ef6b44673b245592b9e26",
+    "wof:geomhash":"dd3245317b28948ccd1755ad54844a4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404569729,
-    "wof:lastmodified":1598919366,
+    "wof:lastmodified":1684351737,
     "wof:name":"Meikirch",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":2461,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

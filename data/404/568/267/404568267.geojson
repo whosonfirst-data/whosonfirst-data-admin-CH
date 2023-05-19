@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2293",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u00fcdingen",
+    "eurostat:nuts_2021_id":"CH2293",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2293",
+    "eurostat:population":7964,
+    "eurostat:population_year":2020,
     "geom:area":0.003628,
-    "geom:area_square_m":30682573.649341,
+    "geom:area_square_m":30682573.649339,
     "geom:bbox":"7.144332,46.809051,7.232165,46.883235",
     "geom:latitude":46.84473,
     "geom:longitude":7.191073,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062891,
-        85682301
+        85682301,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2293",
+        "eurostat:nuts_2021_id":"CH2293",
         "gn:id":7285676,
         "gp:id":12683087,
         "qs_pg:id":1197034
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e023056ba259d58e23358bfd06bb4cc4",
+    "wof:geomhash":"f6210890133b2647a3ca9f3dd6d82c58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404568267,
-    "wof:lastmodified":1598919552,
+    "wof:lastmodified":1684351715,
     "wof:name":"D\u00fcdingen",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",
+    "wof:population":7964,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

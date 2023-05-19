@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0297",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bauma",
+    "eurostat:nuts_2021_id":"CH0297",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0297",
+    "eurostat:population":4965,
+    "eurostat:population_year":2020,
     "geom:area":0.003517,
-    "geom:area_square_m":29449852.937612,
+    "geom:area_square_m":29449852.937615,
     "geom:bbox":"8.83807031401,47.347482581,8.94370551353,47.4017210685",
     "geom:latitude":47.377639,
     "geom:longitude":8.892776,
@@ -102,6 +114,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -109,8 +123,12 @@
         102062779
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0297",
+        "eurostat:nuts_2021_id":"CH0297"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"71dfe8bf57e2327f0fb05016a98a917a",
+    "wof:geomhash":"210f96874c8ce460f7896f0d4a7172f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +139,12 @@
         }
     ],
     "wof:id":1394254131,
-    "wof:lastmodified":1566640347,
+    "wof:lastmodified":1684351782,
     "wof:name":"Bauma",
     "wof:parent_id":102062779,
     "wof:placetype":"localadmin",
+    "wof:population":4965,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00f6riken-Wildegg",
+    "eurostat:nuts_2021_id":"CH4203",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4203",
+    "eurostat:population":4439,
+    "eurostat:population_year":2020,
     "geom:area":0.000788,
     "geom:area_square_m":6590238.669614,
     "geom:bbox":"8.154661,47.403687,8.212448,47.427382",
@@ -117,19 +129,24 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063017,
-        85682329
+        85682329,
+        102063017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH4203",
+        "eurostat:nuts_2021_id":"CH4203"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5c58530e997793731e745d232be1e875",
+    "wof:geomhash":"fe182535f271e47c646dea6a50b5724d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +157,12 @@
         }
     ],
     "wof:id":404570705,
-    "wof:lastmodified":1598920629,
+    "wof:lastmodified":1684351749,
     "wof:name":"M\u00f6riken-Wildegg",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",
+    "wof:population":4439,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

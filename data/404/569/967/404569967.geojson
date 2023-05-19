@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0344",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ursenbach",
+    "eurostat:nuts_2021_id":"CH0344",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0344",
+    "eurostat:population":896,
+    "eurostat:population_year":2020,
     "geom:area":0.001087,
     "geom:area_square_m":9147457.714748,
     "geom:bbox":"7.734108,47.10844,7.791691,47.149169",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063013,
-        85682381
+        85682381,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0344",
+        "eurostat:nuts_2021_id":"CH0344",
         "gn:id":7287393,
         "qs_pg:id":671637
     },
@@ -122,7 +138,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f856133817a6fa9bf6abcc5c3aa678f2",
+    "wof:geomhash":"d8b547ca13025535e41dc19de42d00c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404569967,
-    "wof:lastmodified":1598919271,
+    "wof:lastmodified":1684351740,
     "wof:name":"Ursenbach",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",
+    "wof:population":896,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

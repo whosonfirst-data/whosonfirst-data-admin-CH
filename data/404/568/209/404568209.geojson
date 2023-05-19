@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2162",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bas-Intyamon",
+    "eurostat:nuts_2021_id":"CH2162",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2162",
+    "eurostat:population":1454,
+    "eurostat:population_year":2020,
     "geom:area":0.003912,
-    "geom:area_square_m":33255938.132269,
+    "geom:area_square_m":33255938.132272,
     "geom:bbox":"7.034171,46.53436,7.166861,46.590972",
     "geom:latitude":46.560981,
     "geom:longitude":7.10613,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062999,
-        85682301
+        85682301,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2162",
+        "eurostat:nuts_2021_id":"CH2162",
         "gn:id":7285162,
         "gp:id":28997173,
         "qs_pg:id":1164194
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"72bd6100073f4517b97e2bef17f961bd",
+    "wof:geomhash":"2fbaa83170850fdd59a3d4bb432507bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404568209,
-    "wof:lastmodified":1598919693,
+    "wof:lastmodified":1684351714,
     "wof:name":"Bas-Intyamon",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",
+    "wof:population":1454,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6261",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arbaz",
+    "eurostat:nuts_2021_id":"CH6261",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6261",
+    "eurostat:population":1280,
+    "eurostat:population_year":2020,
     "geom:area":0.002245,
-    "geom:area_square_m":19180509.193576,
+    "geom:area_square_m":19180509.193575,
     "geom:bbox":"7.350236,46.26372,7.39863,46.340488",
     "geom:latitude":46.300639,
     "geom:longitude":7.373302,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062827,
-        85682281
+        85682281,
+        102062827
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6261",
+        "eurostat:nuts_2021_id":"CH6261",
         "gp:id":12682810,
         "qs_pg:id":895176
     },
@@ -134,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3d4f1aeea62de22916f70990a7e25017",
+    "wof:geomhash":"99f4d78a3249ac167d260e9d97c9eb52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404568629,
-    "wof:lastmodified":1598919527,
+    "wof:lastmodified":1684351722,
     "wof:name":"Arbaz",
     "wof:parent_id":102062827,
     "wof:placetype":"localadmin",
+    "wof:population":1280,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

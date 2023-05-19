@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4239",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sins",
+    "eurostat:nuts_2021_id":"CH4239",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4239",
+    "eurostat:population":4259,
+    "eurostat:population_year":2020,
     "geom:area":0.00241,
-    "geom:area_square_m":20250566.660895,
+    "geom:area_square_m":20250566.660893,
     "geom:bbox":"8.32984835992,47.1430502013,8.40532934345,47.2199650669",
     "geom:latitude":47.186083,
     "geom:longitude":8.373078,
@@ -52,6 +64,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -60,6 +74,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4239",
+        "eurostat:nuts_2021_id":"CH4239",
         "gn:id":7287175,
         "gp:id":12682726,
         "qs_pg:id":242307
@@ -69,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"1fe674d15851fcb5de70952125b4b75d",
+    "wof:geomhash":"901dfb4911c894588ea62260fe139ec1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +96,12 @@
         }
     ],
     "wof:id":404568591,
-    "wof:lastmodified":1582223011,
+    "wof:lastmodified":1684351721,
     "wof:name":"Sins",
     "wof:parent_id":102062809,
     "wof:placetype":"localadmin",
+    "wof:population":4259,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

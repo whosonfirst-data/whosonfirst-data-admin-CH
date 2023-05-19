@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2072",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ecublens (FR)",
+    "eurostat:nuts_2021_id":"CH2072",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2072",
+    "eurostat:population":339,
+    "eurostat:population_year":2020,
     "geom:area":0.000573,
-    "geom:area_square_m":4870566.647077,
+    "geom:area_square_m":4870566.647078,
     "geom:bbox":"6.79692218396,46.5911198961,6.8188625579,46.6446953763",
     "geom:latitude":46.615351,
     "geom:longitude":6.80704,
@@ -43,6 +55,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -51,6 +65,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2072",
+        "eurostat:nuts_2021_id":"CH2072",
         "gn:id":7285697,
         "qs_pg:id":671285
     },
@@ -62,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"00021343c9203373c3c0232b161deea2",
+    "wof:geomhash":"766ec5db6aa5e34fa8bfd2dd4db16075",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,10 +89,12 @@
         }
     ],
     "wof:id":404571301,
-    "wof:lastmodified":1582223046,
+    "wof:lastmodified":1684351757,
     "wof:name":"Ecublens",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",
+    "wof:population":339,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4261",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wallbach",
+    "eurostat:nuts_2021_id":"CH4261",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4261",
+    "eurostat:population":1953,
+    "eurostat:population_year":2020,
     "geom:area":0.000543,
     "geom:area_square_m":4534008.472791,
     "geom:bbox":"7.878084,47.552368,7.911594,47.58412",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062905,
-        85682329
+        85682329,
+        102062905
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4261",
+        "eurostat:nuts_2021_id":"CH4261",
         "gn:id":7287527,
         "gp:id":12684950,
         "qs_pg:id":1208776
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"336e6b5327822274be98747911347d3b",
+    "wof:geomhash":"41d6e0f5ace4c080cac20e02d57b377c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404571457,
-    "wof:lastmodified":1598920202,
+    "wof:lastmodified":1684351759,
     "wof:name":"Wallbach",
     "wof:parent_id":102062905,
     "wof:placetype":"localadmin",
+    "wof:population":1953,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

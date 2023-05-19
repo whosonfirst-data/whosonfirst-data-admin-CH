@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Burg (AG)",
+    "eurostat:nuts_2021_id":"CH4133",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4133",
+    "eurostat:population":1023,
+    "eurostat:population_year":2020,
     "geom:area":0.000112,
-    "geom:area_square_m":941055.103877,
+    "geom:area_square_m":941055.103876,
     "geom:bbox":"8.171463,47.226507,8.185988,47.240824",
     "geom:latitude":47.233893,
     "geom:longitude":8.177984,
@@ -120,14 +132,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062983,
-        85682329
+        85682329,
+        102062983
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH4133",
+        "eurostat:nuts_2021_id":"CH4133"
+    },
     "wof:coterminous":[
         1243298091
     ],
@@ -135,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"103c366131fe1c834d1f61a6efdfcee9",
+    "wof:geomhash":"ee6346a48e93ef619628db496419fd53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +163,12 @@
         }
     ],
     "wof:id":404573437,
-    "wof:lastmodified":1598919912,
+    "wof:lastmodified":1684351774,
     "wof:name":"Burg",
     "wof:parent_id":102062983,
     "wof:placetype":"localadmin",
+    "wof:population":1023,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

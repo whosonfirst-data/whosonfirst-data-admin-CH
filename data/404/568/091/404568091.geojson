@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vaz/Obervaz",
+    "eurostat:nuts_2021_id":"CH3506",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3506",
+    "eurostat:population":2780,
+    "eurostat:population_year":2020,
     "geom:area":0.005002,
-    "geom:area_square_m":42401547.23514,
+    "geom:area_square_m":42401547.235131,
     "geom:bbox":"9.48865,46.673617,9.602621,46.770959",
     "geom:latitude":46.72573,
     "geom:longitude":9.541498,
@@ -130,14 +142,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062885,
-        85682255
+        85682255,
+        102062885
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3506",
+        "eurostat:nuts_2021_id":"CH3506",
         "gn:id":7287424,
         "gp:id":12683822,
         "qs_pg:id":1197170
@@ -147,7 +163,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5ba744ac0308abecb6281c13c9273a5",
+    "wof:geomhash":"cc0e0831379b98caeb92a185da49d285",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404568091,
-    "wof:lastmodified":1598919532,
+    "wof:lastmodified":1684351711,
     "wof:name":"Vaz/Obervaz",
     "wof:parent_id":102062885,
     "wof:placetype":"localadmin",
+    "wof:population":2780,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

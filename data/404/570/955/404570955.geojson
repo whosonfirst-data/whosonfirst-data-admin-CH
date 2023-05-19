@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5590",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pully",
+    "eurostat:nuts_2021_id":"CH5590",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5590",
+    "eurostat:population":18313,
+    "eurostat:population_year":2020,
     "geom:area":0.00069,
-    "geom:area_square_m":5868885.867973,
+    "geom:area_square_m":5868885.867975,
     "geom:bbox":"6.63935,46.503916,6.702162,46.544624",
     "geom:latitude":46.521445,
     "geom:longitude":6.669512,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063047,
-        85682325
+        85682325,
+        102063047
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5590",
+        "eurostat:nuts_2021_id":"CH5590",
         "gn:id":7286842,
         "qs_pg:id":1040555
     },
@@ -134,7 +150,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"99ab683286db9f976f46f015122fa22a",
+    "wof:geomhash":"5288fa9be421d17ff8ff1b2fdc138cf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404570955,
-    "wof:lastmodified":1598920537,
+    "wof:lastmodified":1684351752,
     "wof:name":"Pully",
     "wof:parent_id":102063047,
     "wof:placetype":"localadmin",
+    "wof:population":18313,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

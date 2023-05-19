@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3713",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferrera",
+    "eurostat:nuts_2021_id":"CH3713",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3713",
+    "eurostat:population":75,
+    "eurostat:population_year":2020,
     "geom:area":0.008847,
-    "geom:area_square_m":75268614.453303,
+    "geom:area_square_m":75268614.453299,
     "geom:bbox":"9.368449,46.466839,9.531501,46.582858",
     "geom:latitude":46.524904,
     "geom:longitude":9.448548,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137069,
-        85682255
+        85682255,
+        1394137069
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3713",
+        "eurostat:nuts_2021_id":"CH3713",
         "gn:id":7285811,
         "gp:id":56071075,
         "qs_pg:id":505891
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"b14c3e467c90cebe2df77daed9218bcc",
+    "wof:geomhash":"618b2e26eef3683601310af742e1acc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404567855,
-    "wof:lastmodified":1598919441,
+    "wof:lastmodified":1684351706,
     "wof:name":"Ferrera",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",
+    "wof:population":75,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

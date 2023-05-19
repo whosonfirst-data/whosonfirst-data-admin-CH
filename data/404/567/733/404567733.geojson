@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3822",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mesocco",
+    "eurostat:nuts_2021_id":"CH3822",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3822",
+    "eurostat:population":1347,
+    "eurostat:population_year":2020,
     "geom:area":0.019289,
     "geom:area_square_m":164337978.692483,
     "geom:bbox":"9.078596,46.35984,9.284367,46.523221",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062903,
-        85682255
+        85682255,
+        102062903
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3822",
+        "eurostat:nuts_2021_id":"CH3822",
         "gp:id":12682767,
         "qs_pg:id":1095757
     },
@@ -137,7 +153,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2ba0376327e07b69e048d440fba9f7ac",
+    "wof:geomhash":"4b92f6cbc2ae8063864f3c5ba70aafc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,10 +164,12 @@
         }
     ],
     "wof:id":404567733,
-    "wof:lastmodified":1598919417,
+    "wof:lastmodified":1684351703,
     "wof:name":"Mesocco",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
+    "wof:population":1347,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

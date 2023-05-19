@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6633",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Plan-les-Ouates",
+    "eurostat:nuts_2021_id":"CH6633",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6633",
+    "eurostat:population":10657,
+    "eurostat:population_year":2020,
     "geom:area":0.000682,
-    "geom:area_square_m":5838019.598039,
+    "geom:area_square_m":5838019.59804,
     "geom:bbox":"6.097406,46.151757,6.140791,46.17607",
     "geom:latitude":46.163928,
     "geom:longitude":6.119066,
@@ -119,14 +131,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6633",
+        "eurostat:nuts_2021_id":"CH6633",
         "gn:id":7286803,
         "gp:id":12683300,
         "qs_pg:id":1118732
@@ -139,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"479930ff9c2771ce880f1433af98b820",
+    "wof:geomhash":"200bcd050a195f5a5b8f19d96bd8cda0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":404328619,
-    "wof:lastmodified":1598920298,
+    "wof:lastmodified":1684351698,
     "wof:name":"Plan-les-Ouates",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":10657,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

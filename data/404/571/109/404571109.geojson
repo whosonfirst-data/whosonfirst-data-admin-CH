@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5742",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agiez",
+    "eurostat:nuts_2021_id":"CH5742",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5742",
+    "eurostat:population":326,
+    "eurostat:population_year":2020,
     "geom:area":0.000643,
-    "geom:area_square_m":5446752.51855,
+    "geom:area_square_m":5446752.518551,
     "geom:bbox":"6.485241,46.703515,6.525759,46.728637",
     "geom:latitude":46.718152,
     "geom:longitude":6.50769,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5742",
+        "eurostat:nuts_2021_id":"CH5742",
         "gn:id":7285040,
         "gp:id":12682734,
         "qs_pg:id":1154213
@@ -117,7 +133,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed9f8037dfce0deca0a6f81d1a165418",
+    "wof:geomhash":"1898b53ecd3f2c842b30368cb56f68f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404571109,
-    "wof:lastmodified":1598920137,
+    "wof:lastmodified":1684351755,
     "wof:name":"Agiez",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":326,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

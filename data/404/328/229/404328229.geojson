@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1069",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Weggis",
+    "eurostat:nuts_2021_id":"CH1069",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1069",
+    "eurostat:population":4369,
+    "eurostat:population_year":2020,
     "geom:area":0.002992,
-    "geom:area_square_m":25220120.479736,
+    "geom:area_square_m":25220120.479734,
     "geom:bbox":"8.368504,47.011334,8.480507,47.054694",
     "geom:latitude":47.03176,
     "geom:longitude":8.428294,
@@ -116,14 +128,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137079,
-        85682319
+        85682319,
+        1394137079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH1069",
+        "eurostat:nuts_2021_id":"CH1069"
+    },
     "wof:coterminous":[
         101854051
     ],
@@ -131,7 +148,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"471568c45656c32e841449fde9b58808",
+    "wof:geomhash":"9e2e31c3ae0c4ea43279a1b65607d11a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +159,12 @@
         }
     ],
     "wof:id":404328229,
-    "wof:lastmodified":1598920282,
+    "wof:lastmodified":1684351692,
     "wof:name":"Weggis",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",
+    "wof:population":4369,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

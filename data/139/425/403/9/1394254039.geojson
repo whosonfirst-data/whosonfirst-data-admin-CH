@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH9328",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bodensee (SG)",
+    "eurostat:nuts_2021_id":"CH9328",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH9328",
     "geom:area":0.005566,
-    "geom:area_square_m":46483292.918578,
+    "geom:area_square_m":46483292.918575,
     "geom:bbox":"9.434746,47.478045,9.562636,47.549744",
     "geom:latitude":47.513312,
     "geom:longitude":9.512403,
@@ -41,8 +51,12 @@
         102063057
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH9328",
+        "eurostat:nuts_2021_id":"CH9328"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"dee43ff76cabe34b69f4d1b31105fbb4",
+    "wof:geomhash":"dec4ca2646325cff4d93bcc76801f023",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +67,7 @@
         }
     ],
     "wof:id":1394254039,
-    "wof:lastmodified":1636413512,
+    "wof:lastmodified":1684351779,
     "wof:name":"Bodensee",
     "wof:parent_id":102063057,
     "wof:placetype":"localadmin",

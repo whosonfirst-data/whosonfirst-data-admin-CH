@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6722",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saulcy",
+    "eurostat:nuts_2021_id":"CH6722",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6722",
+    "eurostat:population":260,
+    "eurostat:population_year":2020,
     "geom:area":0.000935,
-    "geom:area_square_m":7836253.763346,
+    "geom:area_square_m":7836253.763345,
     "geom:bbox":"7.123183,47.286573,7.192216,47.318212",
     "geom:latitude":47.302589,
     "geom:longitude":7.160737,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062791,
-        85682347
+        85682347,
+        102062791
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6722",
+        "eurostat:nuts_2021_id":"CH6722",
         "gn:id":7287062,
         "qs_pg:id":671586
     },
@@ -116,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"cde64c89d8c95574fc7ab5183d699281",
+    "wof:geomhash":"150001b685683f7de840acf56dbc4532",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404570323,
-    "wof:lastmodified":1598920605,
+    "wof:lastmodified":1684351745,
     "wof:name":"Saulcy",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
+    "wof:population":260,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

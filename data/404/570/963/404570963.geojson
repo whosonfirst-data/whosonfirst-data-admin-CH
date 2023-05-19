@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2174",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avry",
+    "eurostat:nuts_2021_id":"CH2174",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2174",
+    "eurostat:population":1921,
+    "eurostat:population_year":2020,
     "geom:area":0.000687,
-    "geom:area_square_m":5819891.431606,
+    "geom:area_square_m":5819891.431604,
     "geom:bbox":"7.035916,46.776884,7.083288,46.80264",
     "geom:latitude":46.788099,
     "geom:longitude":7.060266,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063029,
-        85682301
+        85682301,
+        102063029
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2174",
+        "eurostat:nuts_2021_id":"CH2174",
         "gn:id":7285128,
         "gp:id":12682869,
         "qs_pg:id":466649
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"aa61f09e4ec3374d0d53a534f2681d9c",
+    "wof:geomhash":"e2d67ca2009291408ef98b20e6338413",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570963,
-    "wof:lastmodified":1598920530,
+    "wof:lastmodified":1684351752,
     "wof:name":"Avry",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":1921,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

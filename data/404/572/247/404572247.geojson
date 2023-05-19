@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0755",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Worben",
+    "eurostat:nuts_2021_id":"CH0755",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0755",
+    "eurostat:population":2287,
+    "eurostat:population_year":2020,
     "geom:area":0.000327,
     "geom:area_square_m":2748751.789971,
     "geom:bbox":"7.279115,47.091527,7.312857,47.109116",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0755",
+        "eurostat:nuts_2021_id":"CH0755",
         "gn:id":7287611,
         "gp:id":12684648,
         "qs_pg:id":1013674
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"498bdeadeb358f41c91fa856c515c6e4",
+    "wof:geomhash":"a5d18df9849a5b6718fe5cf2b9bd00b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404572247,
-    "wof:lastmodified":1598919841,
+    "wof:lastmodified":1684351768,
     "wof:name":"Worben",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":2287,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6417",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Grande-B\u00e9roche",
+    "eurostat:nuts_2021_id":"CH6417",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH024",
+    "eurostat:nuts_2021_level_lau":"CH6417",
+    "eurostat:population":8852,
+    "eurostat:population_year":2020,
     "geom:area":0.00499,
-    "geom:area_square_m":42143173.225011,
+    "geom:area_square_m":42143173.225013,
     "geom:bbox":"6.71670627263,46.8678966615,6.83965014937,46.9500796633",
     "geom:latitude":46.9172,
     "geom:longitude":6.767075,
@@ -33,14 +45,20 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
         85682359
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6417",
+        "eurostat:nuts_2021_id":"CH6417"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"19c24da932af1871cc418fad773441c1",
+    "wof:geomhash":"57dcb6b9d7523705eeba1c2fbc54bebe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +68,12 @@
         }
     ],
     "wof:id":1394254061,
-    "wof:lastmodified":1566640354,
+    "wof:lastmodified":1684351780,
     "wof:name":"La Grande-B\u00e9roche",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",
+    "wof:population":8852,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5873",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Le Lieu",
+    "eurostat:nuts_2021_id":"CH5873",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5873",
+    "eurostat:population":874,
+    "eurostat:population_year":2020,
     "geom:area":0.003825,
-    "geom:area_square_m":32459403.314546,
+    "geom:area_square_m":32459403.314539,
     "geom:bbox":"6.219027,46.62747,6.336905,46.698889",
     "geom:latitude":46.662922,
     "geom:longitude":6.279442,
@@ -92,14 +104,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5873",
+        "eurostat:nuts_2021_id":"CH5873",
         "gn:id":7286308,
         "gp:id":12683868,
         "qs_pg:id":233912
@@ -109,7 +125,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c17bdca3ce521897fd700191f77adcdb",
+    "wof:geomhash":"4abff122cf005eb2e150ae0bd52d0e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,10 +136,12 @@
         }
     ],
     "wof:id":404568183,
-    "wof:lastmodified":1598919739,
+    "wof:lastmodified":1684351714,
     "wof:name":"Le Lieu",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":874,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

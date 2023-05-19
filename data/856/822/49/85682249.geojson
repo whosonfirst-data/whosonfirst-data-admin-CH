@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Glarus",
+    "eurostat:name_local":"Glarus",
+    "eurostat:nuts_2021_id":"CH051",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH051",
+    "eurostat:population":41190,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.081022,
-    "geom:area_square_m":683503506.807977,
+    "geom:area_square_m":683503506.808,
     "geom:bbox":"8.871228,46.79647,9.252577,47.173989",
     "geom:latitude":46.981221,
     "geom:longitude":9.06585,
@@ -417,8 +431,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"685",
     "statoids:area_mi":"264",
     "statoids:as_of_date":"2010-12-31",
@@ -439,6 +453,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":10168,
+        "eurostat:nuts_2021_id":"CH051",
         "fips:code":"SZ08",
         "gn:id":2660593,
         "gp:id":2347090,
@@ -453,7 +468,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"81e290c6bff81a8d904479ed83dd6646",
+    "wof:geomhash":"69c649c8a8d60b5c9838476494314bb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -475,12 +490,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1636413503,
+    "wof:lastmodified":1684351496,
     "wof:name":"Glarus",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":38608,
+    "wof:population":41190,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"GL",

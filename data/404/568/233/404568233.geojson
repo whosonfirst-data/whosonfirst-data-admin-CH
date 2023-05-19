@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0880",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00fceggisberg",
+    "eurostat:nuts_2021_id":"CH0880",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0880",
+    "eurostat:population":1791,
+    "eurostat:population_year":2020,
     "geom:area":0.00422,
-    "geom:area_square_m":35713022.105062,
+    "geom:area_square_m":35713022.105066,
     "geom:bbox":"7.3734,46.704058,7.482627,46.853954",
     "geom:latitude":46.815408,
     "geom:longitude":7.431891,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062861,
-        85682381
+        85682381,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0880",
+        "eurostat:nuts_2021_id":"CH0880",
         "gn:id":7286974,
         "qs_pg:id":671562
     },
@@ -131,7 +147,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7ec1198fbf0c8ea49f3d7a5660a3427f",
+    "wof:geomhash":"6b16a521a7acfee5ce7f631bae3aad7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":404568233,
-    "wof:lastmodified":1598919570,
+    "wof:lastmodified":1684351714,
     "wof:name":"R\u00fceggisberg",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",
+    "wof:population":1791,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

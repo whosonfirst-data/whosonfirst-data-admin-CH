@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1132",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hergiswil bei Willisau",
+    "eurostat:nuts_2021_id":"CH1132",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1132",
+    "eurostat:population":1913,
+    "eurostat:population_year":2020,
     "geom:area":0.003711,
-    "geom:area_square_m":31257949.92554,
+    "geom:area_square_m":31257949.925542,
     "geom:bbox":"7.92392,47.005331,7.989051,47.100436",
     "geom:latitude":47.061699,
     "geom:longitude":7.955315,
@@ -117,14 +129,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137075,
-        85682319
+        85682319,
+        1394137075
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1132",
+        "eurostat:nuts_2021_id":"CH1132",
         "gn:id":7286066,
         "gp:id":12683669,
         "qs_pg:id":992829
@@ -134,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e6417771183d47a465cdf7e0cfe5ccd4",
+    "wof:geomhash":"4881b59b34abcd6b011a2b9c9e8f2184",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404328201,
-    "wof:lastmodified":1598920467,
+    "wof:lastmodified":1684351691,
     "wof:name":"Hergiswil bei Willisau",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",
+    "wof:population":1913,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

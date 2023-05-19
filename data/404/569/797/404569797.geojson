@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Erlinsbach (AG)",
+    "eurostat:nuts_2021_id":"CH4005",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4005",
+    "eurostat:population":4196,
+    "eurostat:population_year":2020,
     "geom:area":0.001175,
-    "geom:area_square_m":9833142.750088,
+    "geom:area_square_m":9833142.750085,
     "geom:bbox":"7.96319967036,47.3939883458,8.03590903048,47.4310653356",
     "geom:latitude":47.415103,
     "geom:longitude":8.005014,
@@ -82,6 +94,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -90,6 +104,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4005",
+        "eurostat:nuts_2021_id":"CH4005",
         "gp:id":28997192,
         "qs_pg:id":1111117
     },
@@ -101,7 +117,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"c8ad4cb4816670506a9c5f96c8b24eaa",
+    "wof:geomhash":"56d138b9b724410f0b9072d3dcd11c63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,10 +128,12 @@
         }
     ],
     "wof:id":404569797,
-    "wof:lastmodified":1582222946,
+    "wof:lastmodified":1684351738,
     "wof:name":"Erlinsbach",
     "wof:parent_id":102062989,
     "wof:placetype":"localadmin",
+    "wof:population":4196,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

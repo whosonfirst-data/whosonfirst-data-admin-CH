@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wittenbach",
+    "eurostat:nuts_2021_id":"CH3204",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3204",
+    "eurostat:population":9691,
+    "eurostat:population_year":2020,
     "geom:area":0.001455,
-    "geom:area_square_m":12164423.926777,
+    "geom:area_square_m":12164423.926779,
     "geom:bbox":"9.350564,47.442253,9.412434,47.495655",
     "geom:latitude":47.466658,
     "geom:longitude":9.379557,
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062847,
-        85682341
+        85682341,
+        102062847
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3204",
+        "eurostat:nuts_2021_id":"CH3204",
         "gn:id":7287596,
         "gp:id":12683788,
         "qs_pg:id":231525
@@ -127,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d7e235d1a56d96b2570f0cf5cde8b4fa",
+    "wof:geomhash":"e7febaf884f8c683a71016b07b2110d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":1175611227,
-    "wof:lastmodified":1598916371,
+    "wof:lastmodified":1684351776,
     "wof:name":"Wittenbach",
     "wof:parent_id":102062847,
     "wof:placetype":"localadmin",
+    "wof:population":9691,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

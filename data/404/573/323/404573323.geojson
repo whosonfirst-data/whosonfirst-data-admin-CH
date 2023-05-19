@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5230",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vernate",
+    "eurostat:nuts_2021_id":"CH5230",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5230",
+    "eurostat:population":592,
+    "eurostat:population_year":2020,
     "geom:area":0.000175,
     "geom:area_square_m":1505357.804834,
     "geom:bbox":"8.869207,45.98769,8.890461,46.001976",
@@ -79,14 +91,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5230",
+        "eurostat:nuts_2021_id":"CH5230",
         "gp:id":12685177,
         "qs_pg:id":919229
     },
@@ -98,7 +114,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"072bd6f44d36a1a94ef3535175143fad",
+    "wof:geomhash":"0a5499713aa71e1a00125ea170625877",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":404573323,
-    "wof:lastmodified":1598919934,
+    "wof:lastmodified":1684351773,
     "wof:name":"Vernate",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":592,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

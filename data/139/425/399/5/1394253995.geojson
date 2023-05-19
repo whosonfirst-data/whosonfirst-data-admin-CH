@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3341",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gommiswald",
+    "eurostat:nuts_2021_id":"CH3341",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3341",
+    "eurostat:population":5167,
+    "eurostat:population_year":2020,
     "geom:area":0.00399,
-    "geom:area_square_m":33494661.859732,
+    "geom:area_square_m":33494661.859735,
     "geom:bbox":"8.9805023125,47.2091901658,9.10783110568,47.2675847552",
     "geom:latitude":47.239086,
     "geom:longitude":9.046236,
@@ -90,6 +102,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -97,8 +111,12 @@
         102062815
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3341",
+        "eurostat:nuts_2021_id":"CH3341"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"c8afec233611c0d5bcc3454f7f3fe581",
+    "wof:geomhash":"1e193cc382f9a1db22833bf184e3dd36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +127,12 @@
         }
     ],
     "wof:id":1394253995,
-    "wof:lastmodified":1566640341,
+    "wof:lastmodified":1684351778,
     "wof:name":"Gommiswald",
     "wof:parent_id":102062815,
     "wof:placetype":"localadmin",
+    "wof:population":5167,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

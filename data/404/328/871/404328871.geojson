@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2520",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Halten",
+    "eurostat:nuts_2021_id":"CH2520",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2520",
+    "eurostat:population":864,
+    "eurostat:population_year":2020,
     "geom:area":0.000219,
-    "geom:area_square_m":1841679.147795,
+    "geom:area_square_m":1841679.147794,
     "geom:bbox":"7.5968657745,47.1620067399,7.62780595189,47.1744466108",
     "geom:latitude":47.168173,
     "geom:longitude":7.611891,
@@ -99,6 +111,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -107,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2520",
+        "eurostat:nuts_2021_id":"CH2520",
         "gn:id":7286029,
         "gp:id":20075513,
         "qs_pg:id":345353
@@ -119,7 +135,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0e5071ad4cc0dcb0cb305063cbeb188e",
+    "wof:geomhash":"02d24fde08595fa143c13be2ac9dde31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404328871,
-    "wof:lastmodified":1582223084,
+    "wof:lastmodified":1684351701,
     "wof:name":"Halten",
     "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",
+    "wof:population":864,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

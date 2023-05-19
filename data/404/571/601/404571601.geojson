@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4446",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sommeri",
+    "eurostat:nuts_2021_id":"CH4446",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4446",
+    "eurostat:population":571,
+    "eurostat:population_year":2020,
     "geom:area":0.000504,
     "geom:area_square_m":4203583.932387,
     "geom:bbox":"9.263902,47.558574,9.299639,47.58197",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062959,
-        85682337
+        85682337,
+        102062959
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4446",
+        "eurostat:nuts_2021_id":"CH4446",
         "gn:id":7287187,
         "gp:id":12684086,
         "qs_pg:id":1019755
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d8cf399752e15ef1094fe8b852240120",
+    "wof:geomhash":"c32a8de2f1e4da76e56333101f2a684b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404571601,
-    "wof:lastmodified":1598920200,
+    "wof:lastmodified":1684351761,
     "wof:name":"Sommeri",
     "wof:parent_id":102062959,
     "wof:placetype":"localadmin",
+    "wof:population":571,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

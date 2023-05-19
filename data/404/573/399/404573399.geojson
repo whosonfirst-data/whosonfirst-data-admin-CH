@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4288",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wiliberg",
+    "eurostat:nuts_2021_id":"CH4288",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4288",
+    "eurostat:population":166,
+    "eurostat:population_year":2020,
     "geom:area":0.000139,
     "geom:area_square_m":1167213.979764,
     "geom:bbox":"8.004803,47.261464,8.028664,47.271188",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062851,
-        85682329
+        85682329,
+        102062851
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4288",
+        "eurostat:nuts_2021_id":"CH4288",
         "gn:id":7287583,
         "gp:id":12685062,
         "qs_pg:id":1112605
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"40577fb572fde5d524877789f3b9e7f4",
+    "wof:geomhash":"d7a52bd8bf0c214bdb71429bb03f820a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404573399,
-    "wof:lastmodified":1598919888,
+    "wof:lastmodified":1684351774,
     "wof:name":"Wiliberg",
     "wof:parent_id":102062851,
     "wof:placetype":"localadmin",
+    "wof:population":166,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

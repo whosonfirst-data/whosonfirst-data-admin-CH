@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0178",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Russikon",
+    "eurostat:nuts_2021_id":"CH0178",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0178",
+    "eurostat:population":4370,
+    "eurostat:population_year":2020,
     "geom:area":0.001694,
-    "geom:area_square_m":14174997.155305,
+    "geom:area_square_m":14174997.155306,
     "geom:bbox":"8.751446,47.380438,8.817333,47.424955",
     "geom:latitude":47.401151,
     "geom:longitude":8.787739,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062779,
-        85682309
+        85682309,
+        102062779
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0178",
+        "eurostat:nuts_2021_id":"CH0178",
         "gn:id":7286992,
         "gp:id":12684319,
         "qs_pg:id":1059683
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b070fa6b5450c2ccdecb2382c02feb9c",
+    "wof:geomhash":"fb5cab67644b8bdce80604e1b03305e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568995,
-    "wof:lastmodified":1598919620,
+    "wof:lastmodified":1684351728,
     "wof:name":"Russikon",
     "wof:parent_id":102062779,
     "wof:placetype":"localadmin",
+    "wof:population":4370,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1511",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wolfenschiessen",
+    "eurostat:nuts_2021_id":"CH1511",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH065",
+    "eurostat:nuts_2021_level_lau":"CH1511",
+    "eurostat:population":2097,
+    "eurostat:population_year":2020,
     "geom:area":0.010936,
-    "geom:area_square_m":92456535.993896,
+    "geom:area_square_m":92456535.993883,
     "geom:bbox":"8.322002,46.771516,8.479091,46.93091",
     "geom:latitude":46.862768,
     "geom:longitude":8.394557,
@@ -116,14 +128,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062973,
-        85682315
+        85682315,
+        102062973
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1511",
+        "eurostat:nuts_2021_id":"CH1511",
         "gn:id":7287603,
         "gp:id":12683583,
         "qs_pg:id":466150
@@ -133,7 +149,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"af815d9deb4080fda1b52720417d657f",
+    "wof:geomhash":"20759ba61f7629514f60dbd7d0b4fea8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":404328125,
-    "wof:lastmodified":1598920498,
+    "wof:lastmodified":1684351689,
     "wof:name":"Wolfenschiessen",
     "wof:parent_id":102062973,
     "wof:placetype":"localadmin",
+    "wof:population":2097,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

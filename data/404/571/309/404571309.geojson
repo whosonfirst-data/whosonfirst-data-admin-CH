@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5718",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Genolier",
+    "eurostat:nuts_2021_id":"CH5718",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5718",
+    "eurostat:population":1958,
+    "eurostat:population_year":2020,
     "geom:area":0.000569,
-    "geom:area_square_m":4851752.046525,
+    "geom:area_square_m":4851752.046526,
     "geom:bbox":"6.198189,46.421438,6.241794,46.447258",
     "geom:latitude":46.436246,
     "geom:longitude":6.220409,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5718",
+        "eurostat:nuts_2021_id":"CH5718",
         "gn:id":7285903,
         "gp:id":12683530,
         "qs_pg:id":32069
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3439a315184ae9e0d9482d57df4aaa41",
+    "wof:geomhash":"ae4ef84d1c67ac38a7f80d86eb3cb689",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404571309,
-    "wof:lastmodified":1598919999,
+    "wof:lastmodified":1684351757,
     "wof:name":"Genolier",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":1958,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

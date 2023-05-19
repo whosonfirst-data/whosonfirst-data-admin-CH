@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Neyruz (FR)",
+    "eurostat:nuts_2021_id":"CH2211",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2211",
+    "eurostat:population":2567,
+    "eurostat:population_year":2020,
     "geom:area":0.000651,
-    "geom:area_square_m":5515302.108762,
+    "geom:area_square_m":5515302.108761,
     "geom:bbox":"7.04329003998,46.7534319201,7.09131422057,46.7789400197",
     "geom:latitude":46.767966,
     "geom:longitude":7.0649,
@@ -46,6 +58,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -54,6 +68,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2211",
+        "eurostat:nuts_2021_id":"CH2211",
         "gn:id":7286631,
         "qs_pg:id":106639
     },
@@ -65,7 +81,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"32560b90ec9094829faa24d40b37958c",
+    "wof:geomhash":"a7d9a5842e531aa1fa2058c747ebd308",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,10 +92,12 @@
         }
     ],
     "wof:id":404571071,
-    "wof:lastmodified":1582223050,
+    "wof:lastmodified":1684351754,
     "wof:name":"Neyruz",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":2567,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

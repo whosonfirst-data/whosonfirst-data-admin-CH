@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wetzikon (ZH)",
+    "eurostat:nuts_2021_id":"CH0121",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0121",
+    "eurostat:population":24809,
+    "eurostat:population_year":2020,
     "geom:area":0.002,
-    "geom:area_square_m":16762144.287901,
+    "geom:area_square_m":16762144.287898,
     "geom:bbox":"8.76357,47.296205,8.844345,47.348857",
     "geom:latitude":47.324383,
     "geom:longitude":8.804628,
@@ -163,14 +175,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062967,
-        85682309
+        85682309,
+        102062967
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0121",
+        "eurostat:nuts_2021_id":"CH0121",
         "gn:id":7287564,
         "gp:id":12682699,
         "qs_pg:id":671683
@@ -183,7 +199,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"630997b6efe55327da132a0b05e12a98",
+    "wof:geomhash":"0d4935e3f94e2370c4a51c8b5d98a539",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404568793,
-    "wof:lastmodified":1598919630,
+    "wof:lastmodified":1684351725,
     "wof:name":"Wetzikon",
     "wof:parent_id":102062967,
     "wof:placetype":"localadmin",
+    "wof:population":24809,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

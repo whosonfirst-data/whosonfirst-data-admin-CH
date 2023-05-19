@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5186",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grancia",
+    "eurostat:nuts_2021_id":"CH5186",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5186",
+    "eurostat:population":492,
+    "eurostat:population_year":2020,
     "geom:area":0.000071,
-    "geom:area_square_m":610611.740912,
+    "geom:area_square_m":610611.740913,
     "geom:bbox":"8.921941,45.960334,8.931938,45.974298",
     "geom:latitude":45.968362,
     "geom:longitude":8.927561,
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5186",
+        "eurostat:nuts_2021_id":"CH5186",
         "gn:id":7285956,
         "gp:id":12685154,
         "qs_pg:id":539136
@@ -120,7 +136,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"49499f5d4a688cfbb9d3dbef7ffc63fa",
+    "wof:geomhash":"618c56c0abe3ea6248f144327502b8fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404573483,
-    "wof:lastmodified":1598919902,
+    "wof:lastmodified":1684351775,
     "wof:name":"Grancia",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":492,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

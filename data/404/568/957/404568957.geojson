@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0192",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Egg",
+    "eurostat:nuts_2021_id":"CH0192",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0192",
+    "eurostat:population":8598,
+    "eurostat:population_year":2020,
     "geom:area":0.001728,
-    "geom:area_square_m":14487995.741838,
+    "geom:area_square_m":14487995.741835,
     "geom:bbox":"8.656181,47.27535,8.738404,47.320772",
     "geom:latitude":47.297619,
     "geom:longitude":8.694332,
@@ -55,14 +67,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062933,
-        85682309
+        85682309,
+        102062933
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0192",
+        "eurostat:nuts_2021_id":"CH0192",
         "gn:id":7285702,
         "gp:id":12683352,
         "qs_pg:id":1197076
@@ -72,7 +88,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ea3c432471e95c38e061a719565e63fa",
+    "wof:geomhash":"c34d756d62a3da197447a2334dee696a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,10 +99,12 @@
         }
     ],
     "wof:id":404568957,
-    "wof:lastmodified":1621988750,
+    "wof:lastmodified":1684351728,
     "wof:name":"Egg",
     "wof:parent_id":102062933,
     "wof:placetype":"localadmin",
+    "wof:population":8598,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

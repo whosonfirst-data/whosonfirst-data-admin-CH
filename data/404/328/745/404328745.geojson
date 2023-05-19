@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2445",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Biezwil",
+    "eurostat:nuts_2021_id":"CH2445",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2445",
+    "eurostat:population":305,
+    "eurostat:population_year":2020,
     "geom:area":0.000492,
     "geom:area_square_m":4144170.867727,
     "geom:bbox":"7.404961,47.097636,7.437349,47.123364",
@@ -104,14 +116,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137095,
-        85682365
+        85682365,
+        1394137095
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2445",
+        "eurostat:nuts_2021_id":"CH2445"
+    },
     "wof:coterminous":[
         1126016177
     ],
@@ -119,7 +136,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ced98c144e5df8583e109675d2168f95",
+    "wof:geomhash":"01a05c4dfc119cc9061b6784cb83cc0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +147,12 @@
         }
     ],
     "wof:id":404328745,
-    "wof:lastmodified":1598920503,
+    "wof:lastmodified":1684351700,
     "wof:name":"Biezwil",
     "wof:parent_id":1394137095,
     "wof:placetype":"localadmin",
+    "wof:population":305,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

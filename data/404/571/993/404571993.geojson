@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5932",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ursins",
+    "eurostat:nuts_2021_id":"CH5932",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5932",
+    "eurostat:population":230,
+    "eurostat:population_year":2020,
     "geom:area":0.000396,
     "geom:area_square_m":3352621.730641,
     "geom:bbox":"6.655767,46.720761,6.683439,46.746285",
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5932",
+        "eurostat:nuts_2021_id":"CH5932",
         "gn:id":7287394,
         "gp:id":20075650,
         "qs_pg:id":1018708
@@ -117,7 +133,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dce1a9c3a85943fe4c2c66f1368289a6",
+    "wof:geomhash":"e5b20664f527ff99fe1571857180940e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404571993,
-    "wof:lastmodified":1598920143,
+    "wof:lastmodified":1684351765,
     "wof:name":"Ursins",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":230,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

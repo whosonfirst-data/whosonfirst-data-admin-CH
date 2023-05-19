@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4095",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brugg",
+    "eurostat:nuts_2021_id":"CH4095",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4095",
+    "eurostat:population":11179,
+    "eurostat:population_year":2020,
     "geom:area":0.000759,
-    "geom:area_square_m":6342299.308036,
+    "geom:area_square_m":6342299.308035,
     "geom:bbox":"8.170142,47.462355,8.237212,47.507943",
     "geom:latitude":47.485639,
     "geom:longitude":8.207963,
@@ -154,14 +166,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062993,
-        85682329
+        85682329,
+        102062993
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4095",
+        "eurostat:nuts_2021_id":"CH4095",
         "gn:id":7285348,
         "gp:id":12683059,
         "qs_pg:id":1197020
@@ -174,7 +190,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"01930e546b6aaedfc59830ad89935314",
+    "wof:geomhash":"2c272d1fde71cdbd10fc0f1cb3e56711",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,10 +201,12 @@
         }
     ],
     "wof:id":404570795,
-    "wof:lastmodified":1598920655,
+    "wof:lastmodified":1684351751,
     "wof:name":"Brugg",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",
+    "wof:population":11179,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chessel",
+    "eurostat:nuts_2021_id":"CH5403",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5403",
+    "eurostat:population":426,
+    "eurostat:population_year":2020,
     "geom:area":0.000416,
     "geom:area_square_m":3546461.492681,
     "geom:bbox":"6.881714,46.340586,6.910593,46.365322",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062783,
-        85682325
+        85682325,
+        102062783
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5403",
+        "eurostat:nuts_2021_id":"CH5403",
         "gp:id":12685016,
         "qs_pg:id":1322861
     },
@@ -125,7 +141,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8e0121f1035d6eeeb78a8b876ca74652",
+    "wof:geomhash":"db083139bc894ad2f50812206e1f4ee7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404571895,
-    "wof:lastmodified":1598920063,
+    "wof:lastmodified":1684351764,
     "wof:name":"Chessel",
     "wof:parent_id":102062783,
     "wof:placetype":"localadmin",
+    "wof:population":426,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

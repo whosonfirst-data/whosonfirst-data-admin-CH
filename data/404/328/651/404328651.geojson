@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2541",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Balm bei G\u00fcnsberg",
+    "eurostat:nuts_2021_id":"CH2541",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2541",
+    "eurostat:population":205,
+    "eurostat:population_year":2020,
     "geom:area":0.00065,
-    "geom:area_square_m":5452528.174528,
+    "geom:area_square_m":5452528.174527,
     "geom:bbox":"7.518697,47.246081,7.568618,47.273548",
     "geom:latitude":47.261175,
     "geom:longitude":7.545159,
@@ -102,14 +114,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137087,
-        85682365
+        85682365,
+        1394137087
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2541",
+        "eurostat:nuts_2021_id":"CH2541",
         "gn:id":7285146,
         "gp:id":12684913,
         "qs_pg:id":1188103
@@ -119,7 +135,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c2608460941f5a0b4f33caa74fd36419",
+    "wof:geomhash":"9ac8c3f9edc563f8fbc1a25775a2c895",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":404328651,
-    "wof:lastmodified":1598920326,
+    "wof:lastmodified":1684351699,
     "wof:name":"Balm bei G\u00fcnsberg",
     "wof:parent_id":1394137087,
     "wof:placetype":"localadmin",
+    "wof:population":205,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

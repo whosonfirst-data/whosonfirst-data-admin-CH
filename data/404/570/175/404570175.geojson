@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Obersiggenthal",
+    "eurostat:nuts_2021_id":"CH4038",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH033",
+    "eurostat:nuts_2021_level_lau":"CH4038",
+    "eurostat:population":8568,
+    "eurostat:population_year":2020,
     "geom:area":0.000998,
-    "geom:area_square_m":8336940.925279,
+    "geom:area_square_m":8336940.925277,
     "geom:bbox":"8.265281,47.481854,8.325819,47.515298",
     "geom:latitude":47.494863,
     "geom:longitude":8.292398,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062843,
-        85682329
+        85682329,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4038",
+        "eurostat:nuts_2021_id":"CH4038",
         "gn:id":2659345,
         "gp:id":12683676,
         "qs_pg:id":1102308
@@ -132,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b4af37e2b46ed4277af5a9fb96511814",
+    "wof:geomhash":"de03957ca3e4ab6946fddd43ba197918",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404570175,
-    "wof:lastmodified":1598920616,
+    "wof:lastmodified":1684351743,
     "wof:name":"Obersiggenthal",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",
+    "wof:population":8568,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

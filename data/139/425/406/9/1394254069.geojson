@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6790",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontenais",
+    "eurostat:nuts_2021_id":"CH6790",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6790",
+    "eurostat:population":1685,
+    "eurostat:population_year":2020,
     "geom:area":0.002381,
-    "geom:area_square_m":19929826.971644,
+    "geom:area_square_m":19929826.971643,
     "geom:bbox":"7.01216710508,47.3679889631,7.0966077709,47.4101299913",
     "geom:latitude":47.38603,
     "geom:longitude":7.058835,
@@ -78,6 +90,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -85,8 +99,12 @@
         102063059
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6790",
+        "eurostat:nuts_2021_id":"CH6790"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"a239b9fb10fa3959210afd4a1884bd08",
+    "wof:geomhash":"9c5886b76f5bb69c5185cf3393c3921f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +115,12 @@
         }
     ],
     "wof:id":1394254069,
-    "wof:lastmodified":1566640354,
+    "wof:lastmodified":1684351780,
     "wof:name":"Fontenais",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",
+    "wof:population":1685,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

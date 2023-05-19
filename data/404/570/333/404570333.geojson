@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2834",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ziefen",
+    "eurostat:nuts_2021_id":"CH2834",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2834",
+    "eurostat:population":1589,
+    "eurostat:population_year":2020,
     "geom:area":0.000932,
-    "geom:area_square_m":7799885.144609,
+    "geom:area_square_m":7799885.144608,
     "geom:bbox":"7.673848,47.412567,7.723732,47.447313",
     "geom:latitude":47.429021,
     "geom:longitude":7.702686,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062929,
-        85682361
+        85682361,
+        102062929
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2834",
+        "eurostat:nuts_2021_id":"CH2834",
         "gp:id":12685202,
         "qs_pg:id":911570
     },
@@ -134,7 +150,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8762d944306fbb18ba45b2e3c32aa4ba",
+    "wof:geomhash":"09f9f3dcbc332908c8eb0edcd6a99462",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         }
     ],
     "wof:id":404570333,
-    "wof:lastmodified":1598920652,
+    "wof:lastmodified":1684351745,
     "wof:name":"Ziefen",
     "wof:parent_id":102062929,
     "wof:placetype":"localadmin",
+    "wof:population":1589,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

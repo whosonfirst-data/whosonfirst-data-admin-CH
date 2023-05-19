@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5830",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villarzel",
+    "eurostat:nuts_2021_id":"CH5830",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5830",
+    "eurostat:population":446,
+    "eurostat:population_year":2020,
     "geom:area":0.000901,
     "geom:area_square_m":7637773.155882,
     "geom:bbox":"6.893195,46.721644,6.941108,46.754867",
@@ -91,14 +103,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062969,
-        85682325
+        85682325,
+        102062969
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5830",
+        "eurostat:nuts_2021_id":"CH5830",
         "gn:id":7287471,
         "gp:id":12684807,
         "qs_pg:id":1154335
@@ -108,7 +124,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2cca472fd1fff59974aac8d77f0c5a6b",
+    "wof:geomhash":"22873969cefb90fe7b555a19d2a45ddb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         }
     ],
     "wof:id":404570399,
-    "wof:lastmodified":1598920531,
+    "wof:lastmodified":1684351746,
     "wof:name":"Villarzel",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",
+    "wof:population":446,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

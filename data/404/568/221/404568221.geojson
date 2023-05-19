@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6022",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chamoson",
+    "eurostat:nuts_2021_id":"CH6022",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6022",
+    "eurostat:population":3897,
+    "eurostat:population_year":2020,
     "geom:area":0.003785,
-    "geom:area_square_m":32383439.379986,
+    "geom:area_square_m":32383439.379984,
     "geom:bbox":"7.130377,46.176915,7.267514,46.245609",
     "geom:latitude":46.21506,
     "geom:longitude":7.197031,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062915,
-        85682281
+        85682281,
+        102062915
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6022",
+        "eurostat:nuts_2021_id":"CH6022",
         "gn:id":7285464,
         "gp:id":12683163,
         "qs_pg:id":1154243
@@ -129,7 +145,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7852606f6db53c34a5c08e1670912b2c",
+    "wof:geomhash":"68880abacb287aa2b8d01f71b61fcb30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         }
     ],
     "wof:id":404568221,
-    "wof:lastmodified":1598919514,
+    "wof:lastmodified":1684351714,
     "wof:name":"Chamoson",
     "wof:parent_id":102062915,
     "wof:placetype":"localadmin",
+    "wof:population":3897,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

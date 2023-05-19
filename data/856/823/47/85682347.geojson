@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Jura",
+    "eurostat:name_local":"Jura",
+    "eurostat:nuts_2021_id":"CH025",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:population":73798,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":0.099813,
-    "geom:area_square_m":836182891.140082,
+    "geom:area_square_m":836182891.140058,
     "geom:bbox":"6.840731,47.150402,7.558341,47.504463",
     "geom:latitude":47.350751,
     "geom:longitude":7.156194,
@@ -476,8 +490,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"838",
     "statoids:area_mi":"323",
     "statoids:as_of_date":"2010-12-31",
@@ -498,6 +512,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":19579,
+        "eurostat:nuts_2021_id":"CH025",
         "fips:code":"SZ26",
         "gn:id":2660207,
         "gp:id":2347108,
@@ -509,7 +524,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d87f70f65ce9c50acd804a804b82d383",
+    "wof:geomhash":"2f087f57abd94ef3f627d9e64d4b0ab2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -531,12 +546,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1636413502,
+    "wof:lastmodified":1684351502,
     "wof:name":"Jura",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":70032,
+    "wof:population":73798,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"JU",

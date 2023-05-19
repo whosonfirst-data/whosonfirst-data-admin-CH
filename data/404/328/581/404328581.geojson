@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bellevue",
+    "eurostat:nuts_2021_id":"CH6606",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6606",
+    "eurostat:population":3300,
+    "eurostat:population_year":2020,
     "geom:area":0.00074,
-    "geom:area_square_m":6330035.653401,
+    "geom:area_square_m":6330035.653399,
     "geom:bbox":"6.119756,46.24195,6.177201,46.27231",
     "geom:latitude":46.254663,
     "geom:longitude":6.14529,
@@ -112,14 +124,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH6606",
+        "eurostat:nuts_2021_id":"CH6606"
+    },
     "wof:coterminous":[
         1126017581
     ],
@@ -127,7 +144,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7d38e544c1c3233f9cd2ef6f387dbaaa",
+    "wof:geomhash":"0271c54d6b3ada107749bb2573e3d882",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +155,12 @@
         }
     ],
     "wof:id":404328581,
-    "wof:lastmodified":1598920362,
+    "wof:lastmodified":1684351698,
     "wof:name":"Bellevue",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":3300,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

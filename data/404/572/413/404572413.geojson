@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5716",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eysins",
+    "eurostat:nuts_2021_id":"CH5716",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5716",
+    "eurostat:population":1608,
+    "eurostat:population_year":2020,
     "geom:area":0.000279,
     "geom:area_square_m":2377001.465764,
     "geom:bbox":"6.187875,46.370188,6.222882,46.390337",
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5716",
+        "eurostat:nuts_2021_id":"CH5716",
         "gn:id":2660837,
         "gp:id":12683431,
         "qs_pg:id":575578
@@ -117,7 +133,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"2c467666829bf14dcb3e89c70eee65ec",
+    "wof:geomhash":"51717aaa1ce6e9b5af8ad13f321e2829",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404572413,
-    "wof:lastmodified":1598919775,
+    "wof:lastmodified":1684351770,
     "wof:name":"Eysins",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",
+    "wof:population":1608,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

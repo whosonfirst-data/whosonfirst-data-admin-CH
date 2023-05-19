@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Valais",
+    "eurostat:name_local":"Valais",
+    "eurostat:nuts_2021_id":"CH012",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:population":353209,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.608961,
-    "geom:area_square_m":5210872017.201304,
+    "geom:area_square_m":5210872017.201275,
     "geom:bbox":"6.770587,45.858181,8.478516,46.654049",
     "geom:latitude":46.209355,
     "geom:longitude":7.605945,
@@ -462,8 +476,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"5,226",
     "statoids:area_mi":"2,018",
     "statoids:as_of_date":"2010-12-31",
@@ -484,6 +498,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":15836,
+        "eurostat:nuts_2021_id":"CH012",
         "fips:code":"SZ22",
         "gn:id":2658205,
         "gp:id":2347104,
@@ -495,7 +510,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"300724886832d0271f29d5b0e4f0e793",
+    "wof:geomhash":"e4543f01406a7d9e824deb161152ae50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -517,12 +532,12 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1598916051,
+    "wof:lastmodified":1684351498,
     "wof:name":"Valais",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
     "wof:placetype_local":"canton",
-    "wof:population":312684,
+    "wof:population":353209,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"VS",

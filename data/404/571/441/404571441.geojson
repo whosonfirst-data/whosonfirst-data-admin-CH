@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0940",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teuffenthal (BE)",
+    "eurostat:nuts_2021_id":"CH0940",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0940",
+    "eurostat:population":174,
+    "eurostat:population_year":2020,
     "geom:area":0.000534,
     "geom:area_square_m":4518894.630914,
     "geom:bbox":"7.696907,46.747064,7.732057,46.782019",
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063061,
-        85682381
+        85682381,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0940",
+        "eurostat:nuts_2021_id":"CH0940",
         "gn:id":7287295,
         "gp:id":12684491,
         "qs_pg:id":671627
@@ -138,7 +154,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a935cf633ea34cf0ce9a8fc7485c7014",
+    "wof:geomhash":"2c7a5ca02561d70a1b880f2b87751b36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404571441,
-    "wof:lastmodified":1598920051,
+    "wof:lastmodified":1684351759,
     "wof:name":"Teuffenthal",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",
+    "wof:population":174,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

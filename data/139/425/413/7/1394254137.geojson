@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3832",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grono",
+    "eurostat:nuts_2021_id":"CH3832",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3832",
+    "eurostat:population":1378,
+    "eurostat:population_year":2020,
     "geom:area":0.00433,
-    "geom:area_square_m":37024002.002415,
+    "geom:area_square_m":37024002.002416,
     "geom:bbox":"9.13219801289,46.2084114838,9.2530944021,46.3183106042",
     "geom:latitude":46.251466,
     "geom:longitude":9.190134,
@@ -30,6 +42,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -37,8 +51,12 @@
         102062903
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH3832",
+        "eurostat:nuts_2021_id":"CH3832"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"a17c353f066140ad1fc0806b3f56e353",
+    "wof:geomhash":"691eedebeb3c0e67b0707670a7699937",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +67,12 @@
         }
     ],
     "wof:id":1394254137,
-    "wof:lastmodified":1566640347,
+    "wof:lastmodified":1684351782,
     "wof:name":"Grono",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
+    "wof:population":1378,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0716",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Petit-Val",
+    "eurostat:nuts_2021_id":"CH0716",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0716",
+    "eurostat:population":426,
+    "eurostat:population_year":2020,
     "geom:area":0.002841,
     "geom:area_square_m":23836278.450897,
     "geom:bbox":"7.16787711253,47.2549498251,7.29546185546,47.2899700924",
@@ -45,6 +57,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -52,8 +66,12 @@
         102062865
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0716",
+        "eurostat:nuts_2021_id":"CH0716"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"c296b58cbf21890666a94bcf41ae74cd",
+    "wof:geomhash":"9915c4cb62ed28ad3da876fa30eb7db9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,10 +82,12 @@
         }
     ],
     "wof:id":1394254223,
-    "wof:lastmodified":1566640346,
+    "wof:lastmodified":1684351785,
     "wof:name":"Petit-Val",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":426,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

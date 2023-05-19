@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0226",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schlatt (ZH)",
+    "eurostat:nuts_2021_id":"CH0226",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0226",
+    "eurostat:population":769,
+    "eurostat:population_year":2020,
     "geom:area":0.00107,
-    "geom:area_square_m":8940355.733543,
+    "geom:area_square_m":8940355.733546,
     "geom:bbox":"8.79534720406,47.4538431732,8.8613539739,47.4887136463",
     "geom:latitude":47.470672,
     "geom:longitude":8.827077,
@@ -88,6 +100,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0226",
+        "eurostat:nuts_2021_id":"CH0226",
         "gn:id":7287090,
         "qs_pg:id":671594
     },
@@ -107,7 +123,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"32d848928a6d2302619fd23a60b6f4ae",
+    "wof:geomhash":"ee8004b56b0388d94021482afb7f7998",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":404570021,
-    "wof:lastmodified":1582223108,
+    "wof:lastmodified":1684351741,
     "wof:name":"Schlatt",
     "wof:parent_id":102063055,
     "wof:placetype":"localadmin",
+    "wof:population":769,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

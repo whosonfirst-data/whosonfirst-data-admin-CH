@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4451",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uttwil",
+    "eurostat:nuts_2021_id":"CH4451",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4451",
+    "eurostat:population":1857,
+    "eurostat:population_year":2020,
     "geom:area":0.000523,
     "geom:area_square_m":4362048.037727,
     "geom:bbox":"9.323155,47.562594,9.357487,47.591378",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062959,
-        85682337
+        85682337,
+        102062959
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4451",
+        "eurostat:nuts_2021_id":"CH4451",
         "gn:id":7287399,
         "gp:id":12684552,
         "qs_pg:id":1026187
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"dc38627c515f80b159c59a2d66152100",
+    "wof:geomhash":"aedcdce4d430516fab9115bcb920148a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404571541,
-    "wof:lastmodified":1598920233,
+    "wof:lastmodified":1684351760,
     "wof:name":"Uttwil",
     "wof:parent_id":102062959,
     "wof:placetype":"localadmin",
+    "wof:population":1857,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

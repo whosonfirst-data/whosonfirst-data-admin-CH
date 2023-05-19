@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5520",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Essertines-sur-Yverdon",
+    "eurostat:nuts_2021_id":"CH5520",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5520",
+    "eurostat:population":1023,
+    "eurostat:population_year":2020,
     "geom:area":0.001148,
-    "geom:area_square_m":9731007.981618,
+    "geom:area_square_m":9731007.981617,
     "geom:bbox":"6.618515,46.698939,6.668388,46.74341",
     "geom:latitude":46.717672,
     "geom:longitude":6.644696,
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062949,
-        85682325
+        85682325,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5520",
+        "eurostat:nuts_2021_id":"CH5520",
         "gp:id":12684785,
         "qs_pg:id":898664
     },
@@ -110,7 +126,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"78035c9c85eee435d66a19715a9c1c71",
+    "wof:geomhash":"606b1239c0b0782ccab26e35e783a6fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":404569813,
-    "wof:lastmodified":1598919311,
+    "wof:lastmodified":1684351739,
     "wof:name":"Essertines-sur-Yverdon",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":1023,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

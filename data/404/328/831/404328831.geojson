@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carouge (GE)",
+    "eurostat:nuts_2021_id":"CH6608",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH013",
+    "eurostat:nuts_2021_level_lau":"CH6608",
+    "eurostat:population":22458,
+    "eurostat:population_year":2020,
     "geom:area":0.000314,
     "geom:area_square_m":2689681.445783,
     "geom:bbox":"6.127643,46.16812,6.154535,46.190842",
@@ -167,14 +179,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6608",
+        "eurostat:nuts_2021_id":"CH6608",
         "gp:id":12682866,
         "qs_pg:id":248270
     },
@@ -186,7 +202,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"3dcee3bec290d25b06508d3e4e5cd264",
+    "wof:geomhash":"df0c45eb6b5c935948230898bad67a92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":404328831,
-    "wof:lastmodified":1598920454,
+    "wof:lastmodified":1684351701,
     "wof:name":"Carouge",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",
+    "wof:population":22458,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

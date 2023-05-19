@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3821",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lostallo",
+    "eurostat:nuts_2021_id":"CH3821",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH056",
+    "eurostat:nuts_2021_level_lau":"CH3821",
+    "eurostat:population":792,
+    "eurostat:population_year":2020,
     "geom:area":0.005939,
-    "geom:area_square_m":50730455.560179,
+    "geom:area_square_m":50730455.560173,
     "geom:bbox":"9.159102,46.265996,9.285052,46.340754",
     "geom:latitude":46.306848,
     "geom:longitude":9.224741,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062903,
-        85682255
+        85682255,
+        102062903
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3821",
+        "eurostat:nuts_2021_id":"CH3821",
         "gn:id":7286373,
         "gp:id":12683117,
         "qs_pg:id":918138
@@ -141,7 +157,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"789f796abd855aab9deb0445bd78aa76",
+    "wof:geomhash":"4b29bc7fd959186ed8553ce00172ede1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404567995,
-    "wof:lastmodified":1598919416,
+    "wof:lastmodified":1684351709,
     "wof:name":"Lostallo",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
+    "wof:population":792,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

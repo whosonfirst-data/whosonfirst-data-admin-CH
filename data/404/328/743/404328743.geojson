@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1127",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Egolzwil",
+    "eurostat:nuts_2021_id":"CH1127",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1127",
+    "eurostat:population":1457,
+    "eurostat:population_year":2020,
     "geom:area":0.000496,
     "geom:area_square_m":4169320.131455,
     "geom:bbox":"7.976188,47.173014,8.019398,47.195617",
@@ -113,14 +125,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137075,
-        85682319
+        85682319,
+        1394137075
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH1127",
+        "eurostat:nuts_2021_id":"CH1127"
+    },
     "wof:coterminous":[
         1125990431
     ],
@@ -128,7 +145,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"13a2cbbec6d5df9e5bc03b748f4f25b1",
+    "wof:geomhash":"dc2f8152310caebe8767d19644e3cbd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,10 +156,12 @@
         }
     ],
     "wof:id":404328743,
-    "wof:lastmodified":1598920482,
+    "wof:lastmodified":1684351700,
     "wof:name":"Egolzwil",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",
+    "wof:population":1457,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

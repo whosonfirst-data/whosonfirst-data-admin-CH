@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Novaggio",
+    "eurostat:nuts_2021_id":"CH5207",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5207",
+    "eurostat:population":852,
+    "eurostat:population_year":2020,
     "geom:area":0.000504,
     "geom:area_square_m":4328419.949627,
     "geom:bbox":"8.819657,46.005187,8.867312,46.034227",
@@ -103,14 +115,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5207",
+        "eurostat:nuts_2021_id":"CH5207",
         "gn:id":7286661,
         "gp:id":12684097,
         "qs_pg:id":248427
@@ -123,7 +139,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"75a969b426cd17d358dbb0499075107a",
+    "wof:geomhash":"42795f1250e1fc7d2dac6f3c633531ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404571565,
-    "wof:lastmodified":1598920152,
+    "wof:lastmodified":1684351760,
     "wof:name":"Novaggio",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":852,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

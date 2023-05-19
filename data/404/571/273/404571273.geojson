@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5432",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montherod",
+    "eurostat:nuts_2021_id":"CH5432",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5432",
+    "eurostat:population":534,
+    "eurostat:population_year":2020,
     "geom:area":0.000581,
-    "geom:area_square_m":4942622.979937,
+    "geom:area_square_m":4942622.979936,
     "geom:bbox":"6.335441,46.492995,6.374295,46.519196",
     "geom:latitude":46.506098,
     "geom:longitude":6.354498,
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5432",
+        "eurostat:nuts_2021_id":"CH5432",
         "gn:id":7286536,
         "gp:id":12684747,
         "qs_pg:id":106631
@@ -114,7 +130,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4f2acf043a67f7a441ab0095eb42179e",
+    "wof:geomhash":"ef20c6ecd72fc122f5509229890c4d34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +141,12 @@
         }
     ],
     "wof:id":404571273,
-    "wof:lastmodified":1598920037,
+    "wof:lastmodified":1684351757,
     "wof:name":"Montherod",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":534,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

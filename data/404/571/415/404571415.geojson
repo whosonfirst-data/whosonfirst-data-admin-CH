@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2793",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zwingen",
+    "eurostat:nuts_2021_id":"CH2793",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2793",
+    "eurostat:population":2399,
+    "eurostat:population_year":2020,
     "geom:area":0.000549,
-    "geom:area_square_m":4594334.291272,
+    "geom:area_square_m":4594334.291273,
     "geom:bbox":"7.505534,47.423687,7.549862,47.447951",
     "geom:latitude":47.435932,
     "geom:longitude":7.527856,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062757,
-        85682361
+        85682361,
+        102062757
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2793",
+        "eurostat:nuts_2021_id":"CH2793",
         "gn:id":7287656,
         "gp:id":12684677,
         "qs_pg:id":908991
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4cb245012f14695f2f1ecb5f6d47d20f",
+    "wof:geomhash":"22cbc09fd94e374e49ed917d7f37274d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404571415,
-    "wof:lastmodified":1598920054,
+    "wof:lastmodified":1684351758,
     "wof:name":"Zwingen",
     "wof:parent_id":102062757,
     "wof:placetype":"localadmin",
+    "wof:population":2399,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

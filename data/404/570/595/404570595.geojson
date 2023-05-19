@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2235",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"La Sonnaz",
+    "eurostat:nuts_2021_id":"CH2235",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2235",
+    "eurostat:population":1190,
+    "eurostat:population_year":2020,
     "geom:area":0.00082,
     "geom:area_square_m":6940231.067817,
     "geom:bbox":"7.094449,46.820266,7.147175,46.849848",
@@ -105,19 +117,24 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063029,
-        85682301
+        85682301,
+        102063029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2235",
+        "eurostat:nuts_2021_id":"CH2235"
+    },
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"130f6f2f91486f97afa83c45bf23abfb",
+    "wof:geomhash":"c655566019d2d23c46b39c76008817e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":404570595,
-    "wof:lastmodified":1598920524,
+    "wof:lastmodified":1684351748,
     "wof:name":"La Sonnaz",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",
+    "wof:population":1190,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

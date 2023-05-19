@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5627",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chavannes-pr\u00e8s-Renens",
+    "eurostat:nuts_2021_id":"CH5627",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5627",
+    "eurostat:population":7727,
+    "eurostat:population_year":2020,
     "geom:area":0.000193,
-    "geom:area_square_m":1644450.49595,
+    "geom:area_square_m":1644450.495949,
     "geom:bbox":"6.566176,46.520758,6.589357,46.537898",
     "geom:latitude":46.528166,
     "geom:longitude":6.576251,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062829,
-        85682325
+        85682325,
+        102062829
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5627",
+        "eurostat:nuts_2021_id":"CH5627",
         "gn:id":7285489,
         "qs_pg:id":380052
     },
@@ -116,7 +132,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"69ca487728541acec70670c36806ff6c",
+    "wof:geomhash":"636601cb7c0511c1d7cf3a77bfe64406",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404573287,
-    "wof:lastmodified":1598919898,
+    "wof:lastmodified":1684351773,
     "wof:name":"Chavannes-pr\u00e8s-Renens",
     "wof:parent_id":102062829,
     "wof:placetype":"localadmin",
+    "wof:population":7727,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

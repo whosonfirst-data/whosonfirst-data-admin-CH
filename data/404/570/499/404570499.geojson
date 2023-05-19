@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2051",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Delley-Portalban",
+    "eurostat:nuts_2021_id":"CH2051",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2051",
+    "eurostat:population":1148,
+    "eurostat:population_year":2020,
     "geom:area":0.001962,
-    "geom:area_square_m":16566544.882126,
+    "geom:area_square_m":16566544.882125,
     "geom:bbox":"6.906813,46.895457,6.98751,46.953395",
     "geom:latitude":46.923538,
     "geom:longitude":6.945874,
@@ -101,14 +113,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062945,
-        85682301
+        85682301,
+        102062945
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2051",
+        "eurostat:nuts_2021_id":"CH2051",
         "gn:id":7285634,
         "gp:id":28997175,
         "qs_pg:id":269000
@@ -118,7 +134,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"438b4584c21cdd404c48bf9f87d1135f",
+    "wof:geomhash":"f97f654373be7ebd5b91a1891162c1f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +145,12 @@
         }
     ],
     "wof:id":404570499,
-    "wof:lastmodified":1598920578,
+    "wof:lastmodified":1684351747,
     "wof:name":"Delley-Portalban",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",
+    "wof:population":1148,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

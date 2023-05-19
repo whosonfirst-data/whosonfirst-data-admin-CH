@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6089",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vex",
+    "eurostat:nuts_2021_id":"CH6089",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6089",
+    "eurostat:population":1811,
+    "eurostat:population_year":2020,
     "geom:area":0.001521,
     "geom:area_square_m":13016758.379452,
     "geom:bbox":"7.36384858307,46.1591499106,7.41523000328,46.2264714479",
@@ -49,6 +61,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -57,6 +71,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6089",
+        "eurostat:nuts_2021_id":"CH6089",
         "gn:id":7287445,
         "gp:id":12684568,
         "qs_pg:id":1153981
@@ -66,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"9bee6bbe0a58e63a8ebd812e72898ea1",
+    "wof:geomhash":"87927cbaa892244dd6b54c4ecce42157",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +93,12 @@
         }
     ],
     "wof:id":404569133,
-    "wof:lastmodified":1582222948,
+    "wof:lastmodified":1684351731,
     "wof:name":"Vex",
     "wof:parent_id":102062985,
     "wof:placetype":"localadmin",
+    "wof:population":1811,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5540",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montilliez",
+    "eurostat:nuts_2021_id":"CH5540",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5540",
+    "eurostat:population":1780,
+    "eurostat:population_year":2020,
     "geom:area":0.001394,
-    "geom:area_square_m":11831707.375315,
+    "geom:area_square_m":11831707.375312,
     "geom:bbox":"6.649413,46.622572,6.709389,46.66766",
     "geom:latitude":46.64601,
     "geom:longitude":6.679913,
@@ -82,14 +94,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062949,
-        85682325
+        85682325,
+        102062949
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5540",
+        "eurostat:nuts_2021_id":"CH5540",
         "gn:id":8260349,
         "qs_pg:id":760525
     },
@@ -98,7 +114,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"98b0da3d951849d6dd6b01796011818e",
+    "wof:geomhash":"ecf993dafde914cd95b9fd24a403ccca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":404569303,
-    "wof:lastmodified":1598919267,
+    "wof:lastmodified":1684351733,
     "wof:name":"Montilliez",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":1780,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

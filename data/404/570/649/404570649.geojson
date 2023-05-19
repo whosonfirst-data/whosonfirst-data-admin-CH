@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0687",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corcelles (BE)",
+    "eurostat:nuts_2021_id":"CH0687",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0687",
+    "eurostat:population":205,
+    "eurostat:population_year":2020,
     "geom:area":0.000807,
     "geom:area_square_m":6768819.520658,
     "geom:bbox":"7.44927715134,47.2775127607,7.49529295008,47.3070902059",
@@ -100,6 +112,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -108,6 +122,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0687",
+        "eurostat:nuts_2021_id":"CH0687",
         "gn:id":7285550,
         "gp:id":12683237,
         "qs_pg:id":395538
@@ -120,7 +136,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"48fe82bc81df1d1bfedfdfb758a4b9e7",
+    "wof:geomhash":"e6375e853add998ff7be59afd102ead0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         }
     ],
     "wof:id":404570649,
-    "wof:lastmodified":1582223106,
+    "wof:lastmodified":1684351749,
     "wof:name":"Corcelles",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":205,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0566",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krattigen",
+    "eurostat:nuts_2021_id":"CH0566",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0566",
+    "eurostat:population":1132,
+    "eurostat:population_year":2020,
     "geom:area":0.000705,
     "geom:area_square_m":5982648.421292,
     "geom:bbox":"7.71458,46.631901,7.765101,46.666037",
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062831,
-        85682381
+        85682381,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0566",
+        "eurostat:nuts_2021_id":"CH0566",
         "gn:id":7286220,
         "gp:id":12683783,
         "qs_pg:id":1310933
@@ -138,7 +154,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"22113525d2e95699b63d72b55f777705",
+    "wof:geomhash":"59a3d985dc65beece6af4092ceb6f2a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         }
     ],
     "wof:id":404570859,
-    "wof:lastmodified":1598920568,
+    "wof:lastmodified":1684351751,
     "wof:name":"Krattigen",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",
+    "wof:population":1132,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

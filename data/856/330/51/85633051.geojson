@@ -4,8 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:level_code":"1",
+    "eurostat:name_latin":"Schweiz/Suisse/Svizzera",
+    "eurostat:name_local":"Schweiz/Suisse/Svizzera",
+    "eurostat:nuts_2021_id":"CH0",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:population":8738791,
+    "eurostat:population_year":2022,
     "geom:area":4.864574,
-    "geom:area_square_m":41175210006.681984,
+    "geom:area_square_m":41175210006.681969,
     "geom:bbox":"5.955902,45.817981,10.492064,47.808453",
     "geom:latitude":46.800148,
     "geom:longitude":8.229121,
@@ -1250,7 +1259,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"41",
     "statoids:ds":"CH",
     "statoids:fifa":"SUI",
@@ -1279,6 +1289,7 @@
     "wof:concordances":{
         "dbp:id":"Switzerland",
         "digitalenvoy:country_code":756,
+        "eurostat:nuts_2021_id":"CH0",
         "fb:id":"en.switzerland",
         "fifa:id":"SUI",
         "fips:code":"SZ",
@@ -1308,7 +1319,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"6efe8f08bb3a6062b6abab24af54224a",
+    "wof:geomhash":"501b88bf45846d22426b3698c0613f82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1329,11 +1340,11 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1617827324,
+    "wof:lastmodified":1684351349,
     "wof:name":"Switzerland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":8211700,
+    "wof:population":8738791,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:shortcode":"CH",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4436",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Romanshorn",
+    "eurostat:nuts_2021_id":"CH4436",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4436",
+    "eurostat:population":11165,
+    "eurostat:population_year":2020,
     "geom:area":0.001062,
-    "geom:area_square_m":8858009.173411,
+    "geom:area_square_m":8858009.173418,
     "geom:bbox":"9.326146,47.549534,9.385621,47.580888",
     "geom:latitude":47.563617,
     "geom:longitude":9.356883,
@@ -130,14 +142,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062959,
-        85682337
+        85682337,
+        102062959
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4436",
+        "eurostat:nuts_2021_id":"CH4436",
         "gn:id":7286940,
         "gp:id":12684288,
         "qs_pg:id":248466
@@ -147,7 +163,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a9a8c7257ad35f6a7801713903fe6a33",
+    "wof:geomhash":"c42a99c3c0c902e5b3180bfa38f9a0da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":404570085,
-    "wof:lastmodified":1598920561,
+    "wof:lastmodified":1684351742,
     "wof:name":"Romanshorn",
     "wof:parent_id":102062959,
     "wof:placetype":"localadmin",
+    "wof:population":11165,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

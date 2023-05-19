@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2427",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Matzendorf",
+    "eurostat:nuts_2021_id":"CH2427",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH023",
+    "eurostat:nuts_2021_level_lau":"CH2427",
+    "eurostat:population":1332,
+    "eurostat:population_year":2020,
     "geom:area":0.001341,
-    "geom:area_square_m":11240196.991814,
+    "geom:area_square_m":11240196.991813,
     "geom:bbox":"7.606269,47.280994,7.651273,47.334759",
     "geom:latitude":47.304801,
     "geom:longitude":7.627023,
@@ -105,14 +117,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137083,
-        85682365
+        85682365,
+        1394137083
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2427",
+        "eurostat:nuts_2021_id":"CH2427",
         "gn:id":7286460,
         "gp:id":12683951,
         "qs_pg:id":980061
@@ -125,7 +141,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"518bbe3909aa3b61fec7990497d233dc",
+    "wof:geomhash":"a93596fd617afd4ceaab29d37e927c19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":404328407,
-    "wof:lastmodified":1598920338,
+    "wof:lastmodified":1684351695,
     "wof:name":"Matzendorf",
     "wof:parent_id":1394137083,
     "wof:placetype":"localadmin",
+    "wof:population":1332,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

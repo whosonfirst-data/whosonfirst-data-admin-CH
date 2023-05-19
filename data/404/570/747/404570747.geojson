@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0393",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00fcti bei B\u00fcren",
+    "eurostat:nuts_2021_id":"CH0393",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0393",
+    "eurostat:population":859,
+    "eurostat:population_year":2020,
     "geom:area":0.000771,
     "geom:area_square_m":6485472.443981,
     "geom:bbox":"7.385656,47.141099,7.441161,47.162847",
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0393",
+        "eurostat:nuts_2021_id":"CH0393",
         "gn:id":7286998,
         "gp:id":12684916,
         "qs_pg:id":1102376
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"83b21f65cc6a2ca6dd6599ef9096c7cb",
+    "wof:geomhash":"800555564d72a3c3e9c8224c4bfa91fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570747,
-    "wof:lastmodified":1598920607,
+    "wof:lastmodified":1684351750,
     "wof:name":"R\u00fcti bei B\u00fcren",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":859,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

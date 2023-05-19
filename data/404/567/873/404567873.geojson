@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0230",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Winterthur",
+    "eurostat:nuts_2021_id":"CH0230",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0230",
+    "eurostat:population":111851,
+    "eurostat:population_year":2020,
     "geom:area":0.008125,
-    "geom:area_square_m":67878374.871237,
+    "geom:area_square_m":67878374.871231,
     "geom:bbox":"8.65659468101,47.449719414,8.80992970266,47.5480047275",
     "geom:latitude":47.496748,
     "geom:longitude":8.734176,
@@ -277,6 +289,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -285,6 +299,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0230",
+        "eurostat:nuts_2021_id":"CH0230",
         "gn:id":7287592,
         "gp:id":12683652,
         "qs_pg:id":1150829
@@ -294,7 +310,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"07315d1940c02220bdc4d1c2cd24cb86",
+    "wof:geomhash":"fb75f05f67cb5852bc18afce2689ee19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -305,10 +321,12 @@
         }
     ],
     "wof:id":404567873,
-    "wof:lastmodified":1582222973,
+    "wof:lastmodified":1684351707,
     "wof:name":"Winterthur",
     "wof:parent_id":102063055,
     "wof:placetype":"localadmin",
+    "wof:population":111851,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

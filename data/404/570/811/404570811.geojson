@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3441",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Andwil (SG)",
+    "eurostat:nuts_2021_id":"CH3441",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3441",
+    "eurostat:population":2014,
+    "eurostat:population_year":2020,
     "geom:area":0.000752,
-    "geom:area_square_m":6288580.626874,
+    "geom:area_square_m":6288580.626872,
     "geom:bbox":"9.259739,47.426964,9.30432,47.455484",
     "geom:latitude":47.440579,
     "geom:longitude":9.281093,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062847,
-        85682341
+        85682341,
+        102062847
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3441",
+        "eurostat:nuts_2021_id":"CH3441",
         "gp:id":12682802,
         "qs_pg:id":1169822
     },
@@ -122,7 +138,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4e7402101da3e45ea19c257108f94ebe",
+    "wof:geomhash":"669780c952d5c6ca66212df8be2a9b82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,10 +149,12 @@
         }
     ],
     "wof:id":404570811,
-    "wof:lastmodified":1598920544,
+    "wof:lastmodified":1684351751,
     "wof:name":"Andwil",
     "wof:parent_id":102062847,
     "wof:placetype":"localadmin",
+    "wof:population":2014,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

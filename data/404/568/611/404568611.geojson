@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6709",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Courroux",
+    "eurostat:nuts_2021_id":"CH6709",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH025",
+    "eurostat:nuts_2021_level_lau":"CH6709",
+    "eurostat:population":3314,
+    "eurostat:population_year":2020,
     "geom:area":0.00235,
     "geom:area_square_m":19684342.862962,
     "geom:bbox":"7.359748,47.33058,7.437325,47.392697",
@@ -100,14 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062791,
-        85682347
+        85682347,
+        102062791
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6709",
+        "eurostat:nuts_2021_id":"CH6709",
         "gn:id":7285580,
         "gp:id":12683254,
         "qs_pg:id":32035
@@ -117,7 +133,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"870dcf2866692c5bbdf4fbe238307984",
+    "wof:geomhash":"ab90730cb196ec1d7a388360f71e1da3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404568611,
-    "wof:lastmodified":1598919528,
+    "wof:lastmodified":1684351722,
     "wof:name":"Courroux",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",
+    "wof:population":3314,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Champvent",
+    "eurostat:nuts_2021_id":"CH5905",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5905",
+    "eurostat:population":685,
+    "eurostat:population_year":2020,
     "geom:area":0.001064,
-    "geom:area_square_m":9009027.948241,
+    "geom:area_square_m":9009027.948244,
     "geom:bbox":"6.534196,46.766679,6.595543,46.804007",
     "geom:latitude":46.785231,
     "geom:longitude":6.567428,
@@ -94,14 +106,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062813,
-        85682325
+        85682325,
+        102062813
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5905",
+        "eurostat:nuts_2021_id":"CH5905",
         "gn:id":7285469,
         "gp:id":12683167,
         "qs_pg:id":1071051
@@ -111,7 +127,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4bbd59023bdc5bdeb53cad67a529e4b4",
+    "wof:geomhash":"c847617bc77ceab67bf67a44acd19980",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         }
     ],
     "wof:id":404570001,
-    "wof:lastmodified":1598920591,
+    "wof:lastmodified":1684351741,
     "wof:name":"Champvent",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",
+    "wof:population":685,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

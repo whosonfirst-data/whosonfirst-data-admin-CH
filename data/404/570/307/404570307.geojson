@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2771",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oberwil (BL)",
+    "eurostat:nuts_2021_id":"CH2771",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH03",
+    "eurostat:nuts_2021_level_3":"CH032",
+    "eurostat:nuts_2021_level_lau":"CH2771",
+    "eurostat:population":11138,
+    "eurostat:population_year":2020,
     "geom:area":0.000942,
-    "geom:area_square_m":7862625.524724,
+    "geom:area_square_m":7862625.524723,
     "geom:bbox":"7.523456,47.504199,7.583676,47.534014",
     "geom:latitude":47.516863,
     "geom:longitude":7.550763,
@@ -79,14 +91,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062971,
-        85682361
+        85682361,
+        102062971
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2771",
+        "eurostat:nuts_2021_id":"CH2771",
         "gn:id":7286721,
         "qs_pg:id":671506
     },
@@ -98,7 +114,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"4fc30087e4a90264eec0d3af5de98309",
+    "wof:geomhash":"6a3fb6b62c7ca73a94d4f195d0a3f2c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":404570307,
-    "wof:lastmodified":1598920512,
+    "wof:lastmodified":1684351745,
     "wof:name":"Oberwil",
     "wof:parent_id":102062971,
     "wof:placetype":"localadmin",
+    "wof:population":11138,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

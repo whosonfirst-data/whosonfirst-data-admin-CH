@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0958",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trachselwald",
+    "eurostat:nuts_2021_id":"CH0958",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0958",
+    "eurostat:population":960,
+    "eurostat:population_year":2020,
     "geom:area":0.001888,
-    "geom:area_square_m":15919844.413747,
+    "geom:area_square_m":15919844.413746,
     "geom:bbox":"7.735069,46.991177,7.819396,47.028267",
     "geom:latitude":47.009441,
     "geom:longitude":7.781382,
@@ -109,14 +121,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062837,
-        85682381
+        85682381,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0958",
+        "eurostat:nuts_2021_id":"CH0958",
         "gn:id":7287321,
         "gp:id":12684508,
         "qs_pg:id":987931
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b043883e76e262b6ca6645313fefd03b",
+    "wof:geomhash":"459348e6d9acb3c7d587114140887723",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404568841,
-    "wof:lastmodified":1598919654,
+    "wof:lastmodified":1684351726,
     "wof:name":"Trachselwald",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",
+    "wof:population":960,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

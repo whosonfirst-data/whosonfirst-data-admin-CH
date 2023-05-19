@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH9751",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lac de Joux",
+    "eurostat:nuts_2021_id":"CH9751",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH9751",
     "geom:area":0.001033,
-    "geom:area_square_m":8768949.065341,
+    "geom:area_square_m":8768949.065342,
     "geom:bbox":"6.241001,46.606565,6.330842,46.667908",
     "geom:latitude":46.638166,
     "geom:longitude":6.285947,
@@ -41,8 +51,12 @@
         1394212859
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH9751",
+        "eurostat:nuts_2021_id":"CH9751"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"b51bb286e0d7df4aadd94dae7eb0a3b3",
+    "wof:geomhash":"ba4980990e3359ee3b68a8129b443232",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +67,7 @@
         }
     ],
     "wof:id":1394254121,
-    "wof:lastmodified":1617130655,
+    "wof:lastmodified":1684351782,
     "wof:name":"Lac de Joux",
     "wof:parent_id":1394212859,
     "wof:placetype":"localadmin",

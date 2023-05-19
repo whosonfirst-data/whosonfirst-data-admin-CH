@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nendaz",
+    "eurostat:nuts_2021_id":"CH6024",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6024",
+    "eurostat:population":6623,
+    "eurostat:population_year":2020,
     "geom:area":0.010007,
-    "geom:area_square_m":85735650.960715,
+    "geom:area_square_m":85735650.960718,
     "geom:bbox":"7.24951,46.060498,7.368536,46.211385",
     "geom:latitude":46.142531,
     "geom:longitude":7.317969,
@@ -118,14 +130,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062915,
-        85682281
+        85682281,
+        102062915
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6024",
+        "eurostat:nuts_2021_id":"CH6024",
         "gn:id":2659502,
         "gp:id":12682763,
         "qs_pg:id":238829
@@ -135,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"7349eed3ece4bce87cb45798268cc6ab",
+    "wof:geomhash":"79999ad74e703655ec4ffc73498da7d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404567831,
-    "wof:lastmodified":1598919436,
+    "wof:lastmodified":1684351706,
     "wof:name":"Nendaz",
     "wof:parent_id":102062915,
     "wof:placetype":"localadmin",
+    "wof:population":6623,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

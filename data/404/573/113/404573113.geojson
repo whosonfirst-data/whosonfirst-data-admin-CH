@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5650",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vaux-sur-Morges",
+    "eurostat:nuts_2021_id":"CH5650",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5650",
+    "eurostat:population":184,
+    "eurostat:population_year":2020,
     "geom:area":0.000247,
     "geom:area_square_m":2099060.478729,
     "geom:bbox":"6.448176,46.529412,6.47486,46.545913",
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5650",
+        "eurostat:nuts_2021_id":"CH5650",
         "gn:id":7287423,
         "gp:id":12684737,
         "qs_pg:id":891654
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"54aa11f086e19201521525d930a91e35",
+    "wof:geomhash":"da5cc67ead32be590565acd49666628b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404573113,
-    "wof:lastmodified":1598919990,
+    "wof:lastmodified":1684351771,
     "wof:name":"Vaux-sur-Morges",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":184,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0437",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mont-Tramelan",
+    "eurostat:nuts_2021_id":"CH0437",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0437",
+    "eurostat:population":122,
+    "eurostat:population_year":2020,
     "geom:area":0.000551,
-    "geom:area_square_m":4624707.721988,
+    "geom:area_square_m":4624707.721987,
     "geom:bbox":"7.034938,47.199335,7.153443,47.240106",
     "geom:latitude":47.209981,
     "geom:longitude":7.064748,
@@ -108,14 +120,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062865,
-        85682381
+        85682381,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0437",
+        "eurostat:nuts_2021_id":"CH0437",
         "gp:id":12684866,
         "qs_pg:id":1120654
     },
@@ -123,7 +139,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4fb8578441529b18c9e9c9c53122bfff",
+    "wof:geomhash":"8732e583c4a118b63dac1c09a5e52e17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":1175611235,
-    "wof:lastmodified":1598916370,
+    "wof:lastmodified":1684351776,
     "wof:name":"Mont-Tramelan",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":122,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hinwil",
+    "eurostat:nuts_2021_id":"CH0117",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0117",
+    "eurostat:population":11138,
+    "eurostat:population_year":2020,
     "geom:area":0.00265,
-    "geom:area_square_m":22220714.759113,
+    "geom:area_square_m":22220714.759114,
     "geom:bbox":"8.803768,47.278745,8.909787,47.326677",
     "geom:latitude":47.301479,
     "geom:longitude":8.852765,
@@ -136,14 +148,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062967,
-        85682309
+        85682309,
+        102062967
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0117",
+        "eurostat:nuts_2021_id":"CH0117",
         "gn:id":7286087,
         "gp:id":12683548,
         "qs_pg:id":224115
@@ -153,7 +169,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"fe20c07edeb299c504173ce257c96182",
+    "wof:geomhash":"b2ceb50224972ce9e3af773846057521",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +180,12 @@
         }
     ],
     "wof:id":404568503,
-    "wof:lastmodified":1598919487,
+    "wof:lastmodified":1684351719,
     "wof:name":"Hinwil",
     "wof:parent_id":102062967,
     "wof:placetype":"localadmin",
+    "wof:population":11138,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

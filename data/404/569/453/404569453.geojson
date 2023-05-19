@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Flawil",
+    "eurostat:nuts_2021_id":"CH3402",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3402",
+    "eurostat:population":10523,
+    "eurostat:population_year":2020,
     "geom:area":0.001367,
-    "geom:area_square_m":11436808.499936,
+    "geom:area_square_m":11436808.499935,
     "geom:bbox":"9.156117,47.384423,9.233153,47.428485",
     "geom:latitude":47.405335,
     "geom:longitude":9.197751,
@@ -115,14 +127,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062947,
-        85682341
+        85682341,
+        102062947
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3402",
+        "eurostat:nuts_2021_id":"CH3402",
         "gn:id":7285837,
         "gp:id":12683472,
         "qs_pg:id":671320
@@ -135,7 +151,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"48a1318fa8c3adb2648510bb6e762c5c",
+    "wof:geomhash":"1cb5eff4a35254673938e90104e417e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         }
     ],
     "wof:id":404569453,
-    "wof:lastmodified":1598919227,
+    "wof:lastmodified":1684351734,
     "wof:name":"Flawil",
     "wof:parent_id":102062947,
     "wof:placetype":"localadmin",
+    "wof:population":10523,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

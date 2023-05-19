@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Villaz-Saint-Pierre",
+    "eurostat:nuts_2021_id":"CH2111",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2111",
+    "eurostat:population":1305,
+    "eurostat:population_year":2020,
     "geom:area":0.000655,
-    "geom:area_square_m":5552729.890091,
+    "geom:area_square_m":5552729.890092,
     "geom:bbox":"6.933969,46.704513,6.981765,46.735105",
     "geom:latitude":46.720533,
     "geom:longitude":6.960505,
@@ -96,14 +108,19 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062867,
-        85682301
+        85682301,
+        102062867
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH2111",
+        "eurostat:nuts_2021_id":"CH2111"
+    },
     "wof:coterminous":[
         1125947075
     ],
@@ -111,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3fd27324981b25a8fa8f55ee38f4e142",
+    "wof:geomhash":"b5d172372b0302991e85684f9512e705",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":404571045,
-    "wof:lastmodified":1598920160,
+    "wof:lastmodified":1684351754,
     "wof:name":"Villaz-Saint-Pierre",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",
+    "wof:population":1305,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

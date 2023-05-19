@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0726",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Plateau de Diesse",
+    "eurostat:nuts_2021_id":"CH0726",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0726",
+    "eurostat:population":2048,
+    "eurostat:population_year":2020,
     "geom:area":0.003028,
     "geom:area_square_m":25480048.861025,
     "geom:bbox":"7.08413299684,47.0815458276,7.20052605764,47.1455860912",
@@ -24,6 +36,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -31,8 +45,12 @@
         102062865
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH0726",
+        "eurostat:nuts_2021_id":"CH0726"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"85f7b7e1425cc7a9353156f824f0d35c",
+    "wof:geomhash":"6f453db8b61ac534acdcd96a56e21fd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,10 +61,12 @@
         }
     ],
     "wof:id":1394254189,
-    "wof:lastmodified":1566640370,
+    "wof:lastmodified":1684351784,
     "wof:name":"Plateau de Diesse",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",
+    "wof:population":2048,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[

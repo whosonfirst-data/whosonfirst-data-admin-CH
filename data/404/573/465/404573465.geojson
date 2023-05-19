@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5221",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Savosa",
+    "eurostat:nuts_2021_id":"CH5221",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5221",
+    "eurostat:population":2213,
+    "eurostat:population_year":2020,
     "geom:area":0.000087,
-    "geom:area_square_m":743230.80746,
+    "geom:area_square_m":743230.807459,
     "geom:bbox":"8.932808,46.014735,8.954123,46.024535",
     "geom:latitude":46.01919,
     "geom:longitude":8.944707,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062767,
-        85682269
+        85682269,
+        102062767
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5221",
+        "eurostat:nuts_2021_id":"CH5221",
         "gn:id":7287067,
         "gp:id":12684355,
         "qs_pg:id":1059682
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"85e1d18bf8d1bde319eb14e3bc5211ad",
+    "wof:geomhash":"7f40799d5f38b4a6dd697a8d10531a86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404573465,
-    "wof:lastmodified":1598919926,
+    "wof:lastmodified":1684351774,
     "wof:name":"Savosa",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",
+    "wof:population":2213,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

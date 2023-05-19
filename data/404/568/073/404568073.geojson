@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH3352",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ebnat-Kappel",
+    "eurostat:nuts_2021_id":"CH3352",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH055",
+    "eurostat:nuts_2021_level_lau":"CH3352",
+    "eurostat:population":5031,
+    "eurostat:population_year":2020,
     "geom:area":0.005173,
-    "geom:area_square_m":43427578.248289,
+    "geom:area_square_m":43427578.248293,
     "geom:bbox":"9.073795,47.185786,9.19139,47.283684",
     "geom:latitude":47.244807,
     "geom:longitude":9.130485,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062771,
-        85682341
+        85682341,
+        102062771
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH3352",
+        "eurostat:nuts_2021_id":"CH3352",
         "gn:id":7285688,
         "gp:id":12683343,
         "qs_pg:id":1154254
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"dffd9a6016d0ecc6017e15cd3baee408",
+    "wof:geomhash":"1fc8d40f4d77ca2d27d25fa93bc2ad94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404568073,
-    "wof:lastmodified":1598919659,
+    "wof:lastmodified":1684351711,
     "wof:name":"Ebnat-Kappel",
     "wof:parent_id":102062771,
     "wof:placetype":"localadmin",
+    "wof:population":5031,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

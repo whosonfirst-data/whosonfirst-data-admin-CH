@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5511",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Assens",
+    "eurostat:nuts_2021_id":"CH5511",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5511",
+    "eurostat:population":1077,
+    "eurostat:population_year":2020,
     "geom:area":0.000627,
     "geom:area_square_m":5327510.103305,
     "geom:bbox":"6.6104617835,46.6033993297,6.64760217249,46.6286481924",
@@ -76,6 +88,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -84,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5511",
+        "eurostat:nuts_2021_id":"CH5511",
         "gn:id":7285108,
         "qs_pg:id":1154224
     },
@@ -95,7 +111,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"15a38b3eb50436ca797fd95fe4ecaa9d",
+    "wof:geomhash":"a32e6f1c4cde25506f52c6bb7873af5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":404571163,
-    "wof:lastmodified":1582223058,
+    "wof:lastmodified":1684351755,
     "wof:name":"Assens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",
+    "wof:population":1077,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

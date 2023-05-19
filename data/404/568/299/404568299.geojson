@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH2336",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Semsales",
+    "eurostat:nuts_2021_id":"CH2336",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH022",
+    "eurostat:nuts_2021_level_lau":"CH2336",
+    "eurostat:population":1413,
+    "eurostat:population_year":2020,
     "geom:area":0.003445,
-    "geom:area_square_m":29283376.983723,
+    "geom:area_square_m":29283376.983724,
     "geom:bbox":"6.897948,46.533807,7.010774,46.605061",
     "geom:latitude":46.569863,
     "geom:longitude":6.955743,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102063025,
-        85682301
+        85682301,
+        102063025
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH2336",
+        "eurostat:nuts_2021_id":"CH2336",
         "gn:id":7287149,
         "gp:id":12683849,
         "qs_pg:id":1197244
@@ -123,7 +139,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"21aa760ed10c2ca83b16ad58bf48e6ab",
+    "wof:geomhash":"e253994bee44b4620791c9d9922afcb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +150,12 @@
         }
     ],
     "wof:id":404568299,
-    "wof:lastmodified":1598919722,
+    "wof:lastmodified":1684351716,
     "wof:name":"Semsales",
     "wof:parent_id":102063025,
     "wof:placetype":"localadmin",
+    "wof:population":1413,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

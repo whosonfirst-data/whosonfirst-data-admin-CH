@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0250",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Urdorf",
+    "eurostat:nuts_2021_id":"CH0250",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH04",
+    "eurostat:nuts_2021_level_3":"CH040",
+    "eurostat:nuts_2021_level_lau":"CH0250",
+    "eurostat:population":9848,
+    "eurostat:population_year":2020,
     "geom:area":0.000903,
-    "geom:area_square_m":7561627.632028,
+    "geom:area_square_m":7561627.63203,
     "geom:bbox":"8.399561,47.365435,8.448007,47.396478",
     "geom:latitude":47.379845,
     "geom:longitude":8.4224,
@@ -121,14 +133,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062893,
-        85682309
+        85682309,
+        102062893
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0250",
+        "eurostat:nuts_2021_id":"CH0250",
         "gn:id":7287390,
         "gp:id":12684107,
         "qs_pg:id":1188073
@@ -141,7 +157,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5022f19e86bc70ea7d1af3143973217e",
+    "wof:geomhash":"02dac3b098f59ac54185721ef717eaae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         }
     ],
     "wof:id":404570425,
-    "wof:lastmodified":1598920547,
+    "wof:lastmodified":1684351746,
     "wof:name":"Urdorf",
     "wof:parent_id":102062893,
     "wof:placetype":"localadmin",
+    "wof:population":9848,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

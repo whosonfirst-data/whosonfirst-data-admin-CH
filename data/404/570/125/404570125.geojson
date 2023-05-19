@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH4741",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lommis",
+    "eurostat:nuts_2021_id":"CH4741",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH05",
+    "eurostat:nuts_2021_level_3":"CH057",
+    "eurostat:nuts_2021_level_lau":"CH4741",
+    "eurostat:population":1215,
+    "eurostat:population_year":2020,
     "geom:area":0.001028,
-    "geom:area_square_m":8581506.495612,
+    "geom:area_square_m":8581506.495614,
     "geom:bbox":"8.96777965774,47.5021974749,9.01602331652,47.535807924",
     "geom:latitude":47.519291,
     "geom:longitude":8.993235,
@@ -109,6 +121,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -117,6 +131,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH4741",
+        "eurostat:nuts_2021_id":"CH4741",
         "gn:id":7286368,
         "gp:id":12683900,
         "qs_pg:id":989360
@@ -126,7 +142,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"aeadca5b7defbb311f8e32abbc554644",
+    "wof:geomhash":"18acecd258a3999029e7c955672cdd50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404570125,
-    "wof:lastmodified":1582223113,
+    "wof:lastmodified":1684351743,
     "wof:name":"Lommis",
     "wof:parent_id":102062981,
     "wof:placetype":"localadmin",
+    "wof:population":1215,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

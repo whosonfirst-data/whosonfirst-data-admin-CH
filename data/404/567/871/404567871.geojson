@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH6265",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Savi\u00e8se",
+    "eurostat:nuts_2021_id":"CH6265",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH012",
+    "eurostat:nuts_2021_level_lau":"CH6265",
+    "eurostat:population":7716,
+    "eurostat:population_year":2020,
     "geom:area":0.008288,
-    "geom:area_square_m":70788981.159484,
+    "geom:area_square_m":70788981.159496,
     "geom:bbox":"7.200735,46.232926,7.371942,46.375156",
     "geom:latitude":46.309325,
     "geom:longitude":7.311448,
@@ -112,14 +124,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062827,
-        85682281
+        85682281,
+        102062827
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH6265",
+        "eurostat:nuts_2021_id":"CH6265",
         "gn:id":7287064,
         "gp:id":12683233,
         "qs_pg:id":1154320
@@ -132,7 +148,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"8a00f36682d014e731a561ef22ec2d0f",
+    "wof:geomhash":"aaeb51c5ef8185a879323cd4201885d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +159,12 @@
         }
     ],
     "wof:id":404567871,
-    "wof:lastmodified":1598919433,
+    "wof:lastmodified":1684351706,
     "wof:name":"Savi\u00e8se",
     "wof:parent_id":102062827,
     "wof:placetype":"localadmin",
+    "wof:population":7716,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

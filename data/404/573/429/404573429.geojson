@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5629",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Clarmont",
+    "eurostat:nuts_2021_id":"CH5629",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5629",
+    "eurostat:population":190,
+    "eurostat:population_year":2020,
     "geom:area":0.000119,
-    "geom:area_square_m":1013791.808559,
+    "geom:area_square_m":1013791.808558,
     "geom:bbox":"6.443006,46.539681,6.456224,46.559325",
     "geom:latitude":46.548645,
     "geom:longitude":6.449626,
@@ -97,14 +109,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5629",
+        "eurostat:nuts_2021_id":"CH5629",
         "gn:id":7285518,
         "gp:id":12684735,
         "qs_pg:id":43984
@@ -117,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0e7a11a46d79569f8e994f1daa02ca7d",
+    "wof:geomhash":"fadf8e4e968bc6a892ec17f0f07b2f50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +144,12 @@
         }
     ],
     "wof:id":404573429,
-    "wof:lastmodified":1598919965,
+    "wof:lastmodified":1684351774,
     "wof:name":"Clarmont",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":190,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

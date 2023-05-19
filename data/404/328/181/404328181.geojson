@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH1066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schwarzenberg",
+    "eurostat:nuts_2021_id":"CH1066",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH06",
+    "eurostat:nuts_2021_level_3":"CH061",
+    "eurostat:nuts_2021_level_lau":"CH1066",
+    "eurostat:population":1709,
+    "eurostat:population_year":2020,
     "geom:area":0.004648,
-    "geom:area_square_m":39196688.61808,
+    "geom:area_square_m":39196688.618076,
     "geom:bbox":"8.127224,46.963484,8.237708,47.029092",
     "geom:latitude":46.996002,
     "geom:longitude":8.184334,
@@ -99,14 +111,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        1394137079,
-        85682319
+        85682319,
+        1394137079
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH1066",
+        "eurostat:nuts_2021_id":"CH1066",
         "gn:id":7287123,
         "gp:id":12683363,
         "qs_pg:id":43452
@@ -116,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"e8cb4dda615c70b3188cd132a57d66f0",
+    "wof:geomhash":"2cd470fa7cbb6ef8654cfc4037997319",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,10 +143,12 @@
         }
     ],
     "wof:id":404328181,
-    "wof:lastmodified":1598920373,
+    "wof:lastmodified":1684351691,
     "wof:name":"Schwarzenberg",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",
+    "wof:population":1709,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH0388",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leuzigen",
+    "eurostat:nuts_2021_id":"CH0388",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH02",
+    "eurostat:nuts_2021_level_3":"CH021",
+    "eurostat:nuts_2021_level_lau":"CH0388",
+    "eurostat:population":1259,
+    "eurostat:population_year":2020,
     "geom:area":0.00122,
-    "geom:area_square_m":10252209.973408,
+    "geom:area_square_m":10252209.973407,
     "geom:bbox":"7.441171,47.151281,7.497039,47.190648",
     "geom:latitude":47.170907,
     "geom:longitude":7.466611,
@@ -106,14 +118,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062909,
-        85682381
+        85682381,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH0388",
+        "eurostat:nuts_2021_id":"CH0388",
         "gn:id":7286341,
         "gp:id":12683881,
         "qs_pg:id":77458
@@ -126,7 +142,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8bad441db20850809caed15216364f8f",
+    "wof:geomhash":"8abea055f09f4028820f4a38a317d272",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +153,12 @@
         }
     ],
     "wof:id":404569715,
-    "wof:lastmodified":1598919246,
+    "wof:lastmodified":1684351737,
     "wof:name":"Leuzigen",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",
+    "wof:population":1259,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

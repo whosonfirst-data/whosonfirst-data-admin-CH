@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5642",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morges",
+    "eurostat:nuts_2021_id":"CH5642",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH01",
+    "eurostat:nuts_2021_level_3":"CH011",
+    "eurostat:nuts_2021_level_lau":"CH5642",
+    "eurostat:population":15708,
+    "eurostat:population_year":2020,
     "geom:area":0.000449,
     "geom:area_square_m":3824462.284084,
     "geom:bbox":"6.47651,46.501009,6.513498,46.523754",
@@ -163,14 +175,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
-        102062873,
-        85682325
+        85682325,
+        102062873
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"CH_CH5642",
+        "eurostat:nuts_2021_id":"CH5642",
         "gn:id":7286554,
         "gp:id":12684023,
         "qs_pg:id":221385
@@ -183,7 +199,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"0f8d3cfabfa8b3a7eb8c926e5d58f613",
+    "wof:geomhash":"97820b6c6a348b50387759dd768c3d5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,10 +210,12 @@
         }
     ],
     "wof:id":404571775,
-    "wof:lastmodified":1598920223,
+    "wof:lastmodified":1684351763,
     "wof:name":"Morges",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",
+    "wof:population":15708,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"CH",
+    "eurostat:gisco_id":"CH_CH5287",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Riviera",
+    "eurostat:nuts_2021_id":"CH5287",
+    "eurostat:nuts_2021_level_0":"CH",
+    "eurostat:nuts_2021_level_1":"CH0",
+    "eurostat:nuts_2021_level_2":"CH07",
+    "eurostat:nuts_2021_level_3":"CH070",
+    "eurostat:nuts_2021_level_lau":"CH5287",
+    "eurostat:population":4220,
+    "eurostat:population_year":2020,
     "geom:area":0.010102,
-    "geom:area_square_m":86285903.301563,
+    "geom:area_square_m":86285970.219835,
     "geom:bbox":"8.898937,46.253503,9.075106,46.356125",
     "geom:latitude":46.307271,
     "geom:longitude":8.979946,
@@ -93,6 +105,8 @@
     ],
     "src:geom":"ch-cadastre",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633051,
@@ -100,8 +114,12 @@
         102062941
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"CH_CH5287",
+        "eurostat:nuts_2021_id":"CH5287"
+    },
     "wof:country":"CH",
-    "wof:geomhash":"f970d1b825751f5eb48734077c710d36",
+    "wof:geomhash":"036a0d533d98196163c9dfb438448b0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,10 +130,12 @@
         }
     ],
     "wof:id":1394254173,
-    "wof:lastmodified":1636413512,
+    "wof:lastmodified":1684351783,
     "wof:name":"Riviera",
     "wof:parent_id":102062941,
     "wof:placetype":"localadmin",
+    "wof:population":4220,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[
