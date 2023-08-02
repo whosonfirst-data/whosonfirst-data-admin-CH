@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Schlossrued"
+    ],
     "name:cat_x_preferred":[
         "Schlossrued"
     ],
@@ -50,10 +53,16 @@
     "name:fra_x_preferred":[
         "Schlossrued"
     ],
+    "name:gle_x_preferred":[
+        "Schlossrued"
+    ],
     "name:glg_x_preferred":[
         "Schlossrued"
     ],
     "name:gsw_x_preferred":[
+        "Schlossrued"
+    ],
+    "name:hsb_x_preferred":[
         "Schlossrued"
     ],
     "name:hun_x_preferred":[
@@ -80,6 +89,9 @@
     "name:nno_x_preferred":[
         "Schlossrued"
     ],
+    "name:nob_x_preferred":[
+        "Schlossrued"
+    ],
     "name:oci_x_preferred":[
         "Schlossrued"
     ],
@@ -103,6 +115,9 @@
     ],
     "name:swe_x_preferred":[
         "Schlossrued"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043b\u043e\u0441\u0441\u0440\u044e\u0434"
     ],
     "name:uzb_x_preferred":[
         "Schlossrued"
@@ -141,11 +156,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062983,
         404570509,
-        85682329
+        85633051,
+        102062983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,7 +188,7 @@
         }
     ],
     "wof:id":1125822597,
-    "wof:lastmodified":1598921750,
+    "wof:lastmodified":1690866589,
     "wof:name":"Schlossrued",
     "wof:parent_id":404570509,
     "wof:placetype":"locality",

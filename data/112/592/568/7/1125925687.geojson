@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Unterentfelden"
+    ],
     "name:bul_x_preferred":[
         "\u0423\u043d\u0442\u0435\u0440\u0435\u043d\u0442\u0444\u0435\u043b\u0434\u0435\u043d"
     ],
@@ -47,8 +50,14 @@
     "name:fra_x_preferred":[
         "Unterentfelden"
     ],
+    "name:gle_x_preferred":[
+        "Unterentfelden"
+    ],
     "name:gsw_x_preferred":[
         "Onder\u00e4ntf\u00e4lde"
+    ],
+    "name:hsb_x_preferred":[
+        "Unterentfelden"
     ],
     "name:hun_x_preferred":[
         "Unterentfelden"
@@ -72,6 +81,9 @@
         "Unterentfelden"
     ],
     "name:nno_x_preferred":[
+        "Unterentfelden"
+    ],
+    "name:nob_x_preferred":[
         "Unterentfelden"
     ],
     "name:oci_x_preferred":[
@@ -100,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "Unterentfelden"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043d\u0442\u0435\u0440\u0435\u043d\u0442\u0444\u0435\u043b\u044c\u0434\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "Unterentfelden"
@@ -151,11 +166,11 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062989,
         404572175,
-        85682329
+        85633051,
+        102062989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -184,7 +199,7 @@
         }
     ],
     "wof:id":1125925687,
-    "wof:lastmodified":1598920809,
+    "wof:lastmodified":1690866232,
     "wof:name":"Unterentfelden",
     "wof:parent_id":404572175,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:arz_x_preferred":[
         "\u0633\u062a\u0627\u0645\u067e\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u043c\u043f\u0430"
+    ],
     "name:cat_x_preferred":[
         "Stampa"
     ],
@@ -72,6 +75,9 @@
         "Stampa"
     ],
     "name:pms_x_preferred":[
+        "Stampa"
+    ],
+    "name:pol_x_preferred":[
         "Stampa"
     ],
     "name:por_x_preferred":[
@@ -126,11 +132,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682255,
         102191581,
-        85633051,
-        102062857,
         404567699,
-        85682255
+        85633051,
+        102062857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1125768605,
-    "wof:lastmodified":1598921773,
+    "wof:lastmodified":1690866602,
     "wof:name":"Stampa",
     "wof:parent_id":404567699,
     "wof:placetype":"locality",

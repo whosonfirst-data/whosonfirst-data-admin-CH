@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Chevroux"
+    ],
     "name:cat_x_preferred":[
         "Chevroux"
     ],
@@ -62,10 +65,16 @@
     "name:fra_x_preferred":[
         "Chevroux"
     ],
+    "name:gle_x_preferred":[
+        "Chevroux"
+    ],
     "name:gsw_x_preferred":[
         "Chevroux VD"
     ],
     "name:gsw_x_variant":[
+        "Chevroux"
+    ],
+    "name:hsb_x_preferred":[
         "Chevroux"
     ],
     "name:hun_x_preferred":[
@@ -73,6 +82,9 @@
     ],
     "name:ita_x_preferred":[
         "Chevroux"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30f4\u30eb\u30fc"
     ],
     "name:lmo_x_preferred":[
         "Chevroux"
@@ -92,6 +104,9 @@
     "name:pol_x_preferred":[
         "Chevroux"
     ],
+    "name:por_x_preferred":[
+        "Chevroux"
+    ],
     "name:roh_x_preferred":[
         "Chevroux"
     ],
@@ -101,10 +116,16 @@
     "name:swe_x_preferred":[
         "Chevroux"
     ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u0432\u0440\u0443"
+    ],
     "name:vec_x_preferred":[
         "Chevroux"
     ],
     "name:vol_x_preferred":[
+        "Chevroux"
+    ],
+    "name:war_x_preferred":[
         "Chevroux"
     ],
     "name:zho_cn_x_preferred":[
@@ -148,11 +169,11 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682325,
         102191581,
-        85633051,
-        102063021,
         404571049,
-        85682325
+        85633051,
+        102063021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -178,7 +199,7 @@
         }
     ],
     "wof:id":1125911829,
-    "wof:lastmodified":1606866759,
+    "wof:lastmodified":1690866521,
     "wof:name":"Chevroux",
     "wof:parent_id":404571049,
     "wof:placetype":"locality",

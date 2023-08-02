@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Liesberg"
+    ],
     "name:cat_x_preferred":[
         "Liesberg"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Liesberg"
     ],
+    "name:gle_x_preferred":[
+        "Liesberg"
+    ],
     "name:gsw_x_preferred":[
         "Lieschbrg"
+    ],
+    "name:hsb_x_preferred":[
+        "Liesberg"
     ],
     "name:hun_x_preferred":[
         "Liesberg"
@@ -77,7 +86,16 @@
     "name:nno_x_preferred":[
         "Liesberg"
     ],
+    "name:nob_x_preferred":[
+        "Liesberg"
+    ],
     "name:oci_x_preferred":[
+        "Liesberg"
+    ],
+    "name:pol_x_preferred":[
+        "Liesberg"
+    ],
+    "name:por_x_preferred":[
         "Liesberg"
     ],
     "name:rus_x_preferred":[
@@ -91,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Liesberg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0441\u0431\u0435\u0440\u0433"
     ],
     "name:uzb_x_preferred":[
         "Liesberg"
@@ -142,11 +163,11 @@
     "woe:name_adm1":"Kanton Basel-Land",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682361,
         102191581,
-        85633051,
-        102062757,
         404569211,
-        85682361
+        85633051,
+        102062757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -172,7 +193,7 @@
         }
     ],
     "wof:id":1125951619,
-    "wof:lastmodified":1598920840,
+    "wof:lastmodified":1690866250,
     "wof:name":"Liesberg",
     "wof:parent_id":404569211,
     "wof:placetype":"locality",

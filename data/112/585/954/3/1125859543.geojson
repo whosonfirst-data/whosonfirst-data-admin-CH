@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Bannwil"
+    ],
     "name:cat_x_preferred":[
         "Bannwil"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Bannwil"
     ],
+    "name:gle_x_preferred":[
+        "Bannwil"
+    ],
     "name:gsw_x_preferred":[
         "Baau"
+    ],
+    "name:hsb_x_preferred":[
+        "Bannwil"
     ],
     "name:hun_x_preferred":[
         "Bannwil"
@@ -74,7 +83,16 @@
     "name:nno_x_preferred":[
         "Bannwil"
     ],
+    "name:nob_x_preferred":[
+        "Bannwil"
+    ],
     "name:oci_x_preferred":[
+        "Bannwil"
+    ],
+    "name:pol_x_preferred":[
+        "Bannwil"
+    ],
+    "name:por_x_preferred":[
         "Bannwil"
     ],
     "name:rus_x_preferred":[
@@ -88,6 +106,9 @@
     ],
     "name:swe_x_preferred":[
         "Bannwil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u043d\u0432\u0456\u043b\u044c"
     ],
     "name:vec_x_preferred":[
         "Bannwil"
@@ -137,11 +158,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102063013,
         404571337,
-        85682381
+        85633051,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,7 +191,7 @@
         }
     ],
     "wof:id":1125859543,
-    "wof:lastmodified":1598921788,
+    "wof:lastmodified":1690866610,
     "wof:name":"Bannwil",
     "wof:parent_id":404571337,
     "wof:placetype":"locality",

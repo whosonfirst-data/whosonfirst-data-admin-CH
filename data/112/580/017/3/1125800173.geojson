@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Nesslau"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0435\u0441\u043b\u0430\u0443"
     ],
@@ -47,10 +50,16 @@
     "name:fra_x_preferred":[
         "Nesslau"
     ],
+    "name:gle_x_preferred":[
+        "Nesslau"
+    ],
     "name:gsw_x_preferred":[
         "Nesslau SG"
     ],
     "name:gsw_x_variant":[
+        "Nesslau"
+    ],
+    "name:hsb_x_preferred":[
         "Nesslau"
     ],
     "name:ita_x_preferred":[
@@ -59,7 +68,16 @@
     "name:nld_x_preferred":[
         "Nesslau"
     ],
+    "name:nob_x_preferred":[
+        "Nesslau"
+    ],
     "name:oci_x_preferred":[
+        "Nesslau"
+    ],
+    "name:pol_x_preferred":[
+        "Nesslau"
+    ],
+    "name:por_x_preferred":[
         "Nesslau"
     ],
     "name:spa_x_preferred":[
@@ -68,8 +86,14 @@
     "name:swe_x_preferred":[
         "Nesslau"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0441\u0441\u043b\u0430\u0443"
+    ],
     "name:vec_x_preferred":[
         "Nesslau"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u65af\u52b3"
     ],
     "nav:latitude":47.2228,
     "nav:longitude":9.20124,
@@ -105,11 +129,11 @@
     "woe:name_adm1":"Kanton St. Gallen",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682341,
         102191581,
-        85633051,
-        102062771,
         1394254163,
-        85682341
+        85633051,
+        102062771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,7 +159,7 @@
         }
     ],
     "wof:id":1125800173,
-    "wof:lastmodified":1598921148,
+    "wof:lastmodified":1690866399,
     "wof:name":"Nesslau",
     "wof:parent_id":1394254163,
     "wof:placetype":"locality",

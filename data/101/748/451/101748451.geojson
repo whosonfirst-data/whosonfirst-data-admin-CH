@@ -23,6 +23,9 @@
     "name:afr_x_preferred":[
         "Luzern"
     ],
+    "name:aka_x_preferred":[
+        "Lucerne"
+    ],
     "name:als_x_preferred":[
         "Luzern"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:bel_x_variant":[
         "\u041b\u044e\u0446\u044d\u0440\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u09b8\u09be\u09b0\u09cd\u09a8"
     ],
     "name:bod_x_preferred":[
         "\u0f63\u0f74\u0f0b\u0f5b\u0f7a\u0f62\u0f0b\u0f53\u0f0d"
@@ -76,6 +82,9 @@
     ],
     "name:che_x_preferred":[
         "\u041b\u044e\u0446\u0435\u0440\u043d"
+    ],
+    "name:che_x_variant":[
+        "\u041b\u0443\u044c\u0446\u0435\u0440\u043d"
     ],
     "name:chv_x_preferred":[
         "\u041b\u044e\u0446\u0435\u0440\u043d"
@@ -152,8 +161,14 @@
     "name:hin_x_preferred":[
         "\u0932\u0942\u091c\u093c\u0930\u094d\u0928"
     ],
+    "name:hin_x_variant":[
+        "\u0932\u0942\u0938\u0930\u094d\u0928"
+    ],
     "name:hrv_x_preferred":[
         "Luzern"
+    ],
+    "name:hsb_x_preferred":[
+        "Lucerne"
     ],
     "name:hun_x_preferred":[
         "Luzern"
@@ -165,6 +180,9 @@
         "\u053c\u0575\u0578\u0582\u0581\u0565\u0580\u0576"
     ],
     "name:ilo_x_preferred":[
+        "Lucerna"
+    ],
+    "name:ina_x_preferred":[
         "Lucerna"
     ],
     "name:ind_x_preferred":[
@@ -195,6 +213,9 @@
     "name:kor_x_preferred":[
         "\ub8e8\uccb4\ub978"
     ],
+    "name:kur_x_preferred":[
+        "Lucerne"
+    ],
     "name:lat_x_preferred":[
         "Lucerna"
     ],
@@ -212,6 +233,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0932\u0941\u0924\u094d\u0938\u0930\u094d\u0928"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041b\u044e\u0446\u044d\u0440\u043d"
     ],
     "name:msa_x_preferred":[
         "Luzern"
@@ -297,6 +321,9 @@
     "name:srp_x_preferred":[
         "\u041b\u0443\u0446\u0435\u0440\u043d"
     ],
+    "name:swa_x_preferred":[
+        "Luzern"
+    ],
     "name:swe_x_preferred":[
         "Luzern"
     ],
@@ -345,11 +372,17 @@
     "name:wuu_x_preferred":[
         "\u5362\u585e\u6069"
     ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10e3\u10ea\u10d4\u10e0\u10dc\u10d8"
+    ],
     "name:yid_x_preferred":[
         "\u05dc\u05d5\u05e6\u05e2\u05e8\u05df"
     ],
     "name:yue_x_preferred":[
         "\u7409\u68ee"
+    ],
+    "name:yue_x_variant":[
+        "\u76e7\u585e\u6069"
     ],
     "name:zho_min_nan_x_preferred":[
         "Luzern"
@@ -518,7 +551,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1636413516,
+    "wof:lastmodified":1690866085,
     "wof:name":"Luzern",
     "wof:parent_id":404328203,
     "wof:placetype":"locality",

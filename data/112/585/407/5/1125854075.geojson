@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Giffers"
+    ],
     "name:cat_x_preferred":[
         "Giffers"
     ],
@@ -47,8 +50,14 @@
     "name:fra_x_preferred":[
         "Giffers"
     ],
+    "name:gle_x_preferred":[
+        "Giffers"
+    ],
     "name:gsw_x_preferred":[
         "G\u00fcfersch"
+    ],
+    "name:hsb_x_preferred":[
+        "Giffers"
     ],
     "name:hun_x_preferred":[
         "Giffers"
@@ -71,10 +80,16 @@
     "name:nno_x_preferred":[
         "Giffers"
     ],
+    "name:nob_x_preferred":[
+        "Giffers"
+    ],
     "name:oci_x_preferred":[
         "Giffers"
     ],
     "name:pms_x_preferred":[
+        "Giffers"
+    ],
+    "name:pol_x_preferred":[
         "Giffers"
     ],
     "name:por_x_preferred":[
@@ -91,6 +106,9 @@
     ],
     "name:swe_x_preferred":[
         "Giffers"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u0444\u0444\u0435\u0440\u0441"
     ],
     "name:vec_x_preferred":[
         "Giffers"
@@ -139,11 +157,11 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682301,
         102191581,
-        85633051,
-        102062891,
         404571191,
-        85682301
+        85633051,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -172,7 +190,7 @@
         }
     ],
     "wof:id":1125854075,
-    "wof:lastmodified":1598921800,
+    "wof:lastmodified":1690866617,
     "wof:name":"Giffers",
     "wof:parent_id":404571191,
     "wof:placetype":"locality",

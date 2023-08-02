@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Mont-Tramelan"
+    ],
     "name:cat_x_preferred":[
         "Mont-Tramelan"
     ],
@@ -50,7 +53,13 @@
     "name:fra_x_preferred":[
         "Mont-Tramelan"
     ],
+    "name:gle_x_preferred":[
+        "Mont-Tramelan"
+    ],
     "name:gsw_x_preferred":[
+        "Mont-Tramelan"
+    ],
+    "name:hsb_x_preferred":[
         "Mont-Tramelan"
     ],
     "name:hun_x_preferred":[
@@ -74,7 +83,13 @@
     "name:nno_x_preferred":[
         "Mont-Tramelan"
     ],
+    "name:nob_x_preferred":[
+        "Mont-Tramelan"
+    ],
     "name:oci_x_preferred":[
+        "Mont-Tramelan"
+    ],
+    "name:pol_x_preferred":[
         "Mont-Tramelan"
     ],
     "name:por_x_preferred":[
@@ -92,6 +107,9 @@
     "name:swe_x_preferred":[
         "Mont-Tramelan"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d-\u0422\u0440\u0430\u043c\u043b\u0430\u043d"
+    ],
     "name:vec_x_preferred":[
         "Mont-Tramelan"
     ],
@@ -106,6 +124,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8499\u7279-\u7279\u62c9\u6885\u862d"
+    ],
+    "name:zho_x_variant":[
+        "\u8499\u7279\u62c9\u59c6\u6717"
     ],
     "nav:latitude":47.20999,
     "nav:longitude":7.06477,
@@ -140,11 +161,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062865,
         1175611235,
-        85682381
+        85633051,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,7 +191,7 @@
         }
     ],
     "wof:id":1126016159,
-    "wof:lastmodified":1598921673,
+    "wof:lastmodified":1690866561,
     "wof:name":"Mont-Tramelan",
     "wof:parent_id":1175611235,
     "wof:placetype":"locality",

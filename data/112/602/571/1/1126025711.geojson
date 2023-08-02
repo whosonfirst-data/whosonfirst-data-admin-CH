@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Oberhallau"
+    ],
     "name:cat_x_preferred":[
         "Oberhallau"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Oberhallau"
     ],
+    "name:gle_x_preferred":[
+        "Oberhallau"
+    ],
     "name:gsw_x_preferred":[
         "Oberhalau"
+    ],
+    "name:hsb_x_preferred":[
+        "Oberhallau"
     ],
     "name:hun_x_preferred":[
         "Oberhallau"
@@ -71,10 +80,16 @@
     "name:nno_x_preferred":[
         "Oberhallau"
     ],
+    "name:nob_x_preferred":[
+        "Oberhallau"
+    ],
     "name:oci_x_preferred":[
         "Oberhallau"
     ],
     "name:pms_x_preferred":[
+        "Oberhallau"
+    ],
+    "name:pol_x_preferred":[
         "Oberhallau"
     ],
     "name:por_x_preferred":[
@@ -92,6 +107,9 @@
     "name:swe_x_preferred":[
         "Oberhallau"
     ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u0433\u0430\u043b\u043b\u0430\u0443"
+    ],
     "name:vec_x_preferred":[
         "Oberhallau"
     ],
@@ -100,6 +118,9 @@
     ],
     "name:war_x_preferred":[
         "Oberhallau"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u54c8\u52b3"
     ],
     "nav:latitude":47.7071,
     "nav:longitude":8.47853,
@@ -134,11 +155,11 @@
     "woe:name_adm1":"Kanton Schaffhausen",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682285,
         102191581,
-        85633051,
-        1394137101,
         404328611,
-        85682285
+        85633051,
+        1394137101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -167,7 +188,7 @@
         }
     ],
     "wof:id":1126025711,
-    "wof:lastmodified":1598920922,
+    "wof:lastmodified":1690866280,
     "wof:name":"Oberhallau",
     "wof:parent_id":404328611,
     "wof:placetype":"locality",

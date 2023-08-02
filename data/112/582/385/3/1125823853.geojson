@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Rothenthurm"
+    ],
     "name:cat_x_preferred":[
         "Rothenthurm"
     ],
@@ -53,10 +56,16 @@
     "name:fra_x_preferred":[
         "Rothenthurm"
     ],
+    "name:gle_x_preferred":[
+        "Rothenthurm"
+    ],
     "name:gsw_x_preferred":[
         "Rothenthurm SZ"
     ],
     "name:gsw_x_variant":[
+        "Rothenthurm"
+    ],
+    "name:hsb_x_preferred":[
         "Rothenthurm"
     ],
     "name:hun_x_preferred":[
@@ -64,6 +73,9 @@
     ],
     "name:ita_x_preferred":[
         "Rothenthurm"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30fc\u30c6\u30f3\u30c4\u30eb\u30e0"
     ],
     "name:kaz_x_preferred":[
         "\u0420\u043e\u0442\u0435\u043d\u0442\u0443\u0440\u043c"
@@ -83,6 +95,9 @@
     "name:pms_x_preferred":[
         "Rothenthurm"
     ],
+    "name:pol_x_preferred":[
+        "Rothenthurm"
+    ],
     "name:por_x_preferred":[
         "Rothenthurm"
     ],
@@ -97,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "Rothenthurm"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0442\u0435\u043d\u0442\u0443\u0440\u043c"
     ],
     "name:und_x_variant":[
         "Rotenturm"
@@ -151,11 +169,11 @@
     "woe:name_adm1":"Kanton Schwyz",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682305,
         102191581,
-        85633051,
-        102062887,
         404568489,
-        85682305
+        85633051,
+        102062887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -184,7 +202,7 @@
         }
     ],
     "wof:id":1125823853,
-    "wof:lastmodified":1598921753,
+    "wof:lastmodified":1690866591,
     "wof:name":"Rothenthurm",
     "wof:parent_id":404568489,
     "wof:placetype":"locality",

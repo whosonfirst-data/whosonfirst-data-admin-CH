@@ -29,6 +29,9 @@
     "name:bar_x_preferred":[
         "Arch"
     ],
+    "name:bre_x_preferred":[
+        "Arch"
+    ],
     "name:cat_x_preferred":[
         "Arch"
     ],
@@ -62,8 +65,14 @@
     "name:fra_x_preferred":[
         "Arch"
     ],
+    "name:gle_x_preferred":[
+        "Arch"
+    ],
     "name:gsw_x_preferred":[
         "Aarch"
+    ],
+    "name:hsb_x_preferred":[
+        "Arch"
     ],
     "name:hun_x_preferred":[
         "Arch"
@@ -86,7 +95,16 @@
     "name:nno_x_preferred":[
         "Arch"
     ],
+    "name:nob_x_preferred":[
+        "Arch"
+    ],
     "name:oci_x_preferred":[
+        "Arch"
+    ],
+    "name:pol_x_preferred":[
+        "Arch"
+    ],
+    "name:por_x_preferred":[
         "Arch"
     ],
     "name:rus_x_preferred":[
@@ -100,6 +118,9 @@
     ],
     "name:swe_x_preferred":[
         "Arch"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0445"
     ],
     "name:vec_x_preferred":[
         "Arch"
@@ -148,11 +169,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062909,
         404570789,
-        85682381
+        85633051,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -181,7 +202,7 @@
         }
     ],
     "wof:id":1126046103,
-    "wof:lastmodified":1598920952,
+    "wof:lastmodified":1690866294,
     "wof:name":"Arch",
     "wof:parent_id":404570789,
     "wof:placetype":"locality",

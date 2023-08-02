@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Sennwald"
+    ],
     "name:bul_x_preferred":[
         "\u0417\u0435\u043d\u0432\u0430\u043b\u0434"
     ],
@@ -30,6 +33,9 @@
         "Sennwald"
     ],
     "name:ceb_x_preferred":[
+        "Sennwald"
+    ],
+    "name:ces_x_preferred":[
         "Sennwald"
     ],
     "name:cym_x_preferred":[
@@ -53,8 +59,17 @@
     "name:fra_x_preferred":[
         "Sennwald"
     ],
+    "name:gle_x_preferred":[
+        "Sennwald"
+    ],
     "name:gsw_x_preferred":[
         "Sennwaald"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05e0\u05d5\u05d5\u05d0\u05dc\u05d3"
+    ],
+    "name:hsb_x_preferred":[
+        "Sennwald"
     ],
     "name:hun_x_preferred":[
         "Sennwald"
@@ -86,6 +101,9 @@
     "name:nno_x_preferred":[
         "Sennwald"
     ],
+    "name:nob_x_preferred":[
+        "Sennwald"
+    ],
     "name:oci_x_preferred":[
         "Sennwald"
     ],
@@ -109,6 +127,9 @@
     ],
     "name:swe_x_preferred":[
         "Sennwald"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u043d\u043d\u0432\u0430\u043b\u044c\u0434"
     ],
     "name:uzb_x_preferred":[
         "Sennwald"
@@ -160,11 +181,11 @@
     "woe:name_adm1":"Kanton St. Gallen",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682341,
         102191581,
-        85633051,
-        102062755,
         404568103,
-        85682341
+        85633051,
+        102062755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -190,7 +211,7 @@
         }
     ],
     "wof:id":1126035597,
-    "wof:lastmodified":1598920986,
+    "wof:lastmodified":1690866314,
     "wof:name":"Sennwald",
     "wof:parent_id":404568103,
     "wof:placetype":"locality",

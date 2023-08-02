@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Arnex-sur-Nyon"
+    ],
     "name:cat_x_preferred":[
         "Arnex-sur-Nyon"
     ],
@@ -50,7 +53,13 @@
     "name:fra_x_preferred":[
         "Arnex-sur-Nyon"
     ],
+    "name:gle_x_preferred":[
+        "Arnex-sur-Nyon"
+    ],
     "name:gsw_x_preferred":[
+        "Arnex-sur-Nyon"
+    ],
+    "name:hsb_x_preferred":[
         "Arnex-sur-Nyon"
     ],
     "name:hun_x_preferred":[
@@ -74,6 +83,9 @@
     "name:nno_x_preferred":[
         "Arnex-sur-Nyon"
     ],
+    "name:nob_x_preferred":[
+        "Arnex-sur-Nyon"
+    ],
     "name:oci_x_preferred":[
         "Arnex-sur-Nyon"
     ],
@@ -91,6 +103,9 @@
     ],
     "name:swe_x_preferred":[
         "Arnex-sur-Nyon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u043d\u0435-\u0441\u044e\u0440-\u041d\u044c\u0439\u043e\u043d"
     ],
     "name:vec_x_preferred":[
         "Arnex-sur-Nyon"
@@ -155,11 +170,11 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682325,
         102191581,
-        85633051,
-        102063049,
         404573135,
-        85682325
+        85633051,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -188,7 +203,7 @@
         }
     ],
     "wof:id":1125767805,
-    "wof:lastmodified":1598921786,
+    "wof:lastmodified":1690866609,
     "wof:name":"Arnex-sur-Nyon",
     "wof:parent_id":404573135,
     "wof:placetype":"locality",

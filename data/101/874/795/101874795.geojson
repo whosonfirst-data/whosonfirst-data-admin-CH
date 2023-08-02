@@ -89,6 +89,9 @@
     "name:hrv_x_preferred":[
         "Sierre"
     ],
+    "name:hsb_x_preferred":[
+        "Sierre"
+    ],
     "name:hun_x_preferred":[
         "Sierre"
     ],
@@ -109,6 +112,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc2dc\uc5d0\ub974"
+    ],
+    "name:kur_x_preferred":[
+        "Sierre"
+    ],
+    "name:lat_x_preferred":[
+        "Sirrus"
     ],
     "name:lav_x_preferred":[
         "Sierre"
@@ -194,6 +203,9 @@
     "name:tur_x_preferred":[
         "Sierre"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u044c\u0454\u0440"
+    ],
     "name:vec_x_preferred":[
         "Sierre"
     ],
@@ -234,11 +246,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682281,
         102191581,
-        85633051,
-        102062793,
         404568635,
-        85682281
+        85633051,
+        102062793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -266,7 +278,7 @@
         }
     ],
     "wof:id":101874795,
-    "wof:lastmodified":1598918947,
+    "wof:lastmodified":1690866072,
     "wof:name":"Sierre",
     "wof:parent_id":404568635,
     "wof:placetype":"locality",

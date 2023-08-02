@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Nenzlingen"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0435\u043d\u0437\u043b\u0438\u043d\u0433\u0435\u043d"
     ],
@@ -53,8 +56,14 @@
     "name:fra_x_preferred":[
         "Nenzlingen"
     ],
+    "name:gle_x_preferred":[
+        "Nenzlingen"
+    ],
     "name:gsw_x_preferred":[
         "Aenzlige"
+    ],
+    "name:hsb_x_preferred":[
+        "Nenzlingen"
     ],
     "name:hun_x_preferred":[
         "Nenzlingen"
@@ -80,7 +89,16 @@
     "name:nno_x_preferred":[
         "Nenzlingen"
     ],
+    "name:nob_x_preferred":[
+        "Nenzlingen"
+    ],
     "name:oci_x_preferred":[
+        "Nenzlingen"
+    ],
+    "name:pol_x_preferred":[
+        "Nenzlingen"
+    ],
+    "name:por_x_preferred":[
         "Nenzlingen"
     ],
     "name:rus_x_preferred":[
@@ -94,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "Nenzlingen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u043d\u0446\u043b\u0456\u043d\u0433\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "Nenzlingen"
@@ -145,11 +166,11 @@
     "woe:name_adm1":"Kanton Basel-Land",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682361,
         102191581,
-        85633051,
-        102062757,
         404571863,
-        85682361
+        85633051,
+        102062757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -178,7 +199,7 @@
         }
     ],
     "wof:id":1125815795,
-    "wof:lastmodified":1598921055,
+    "wof:lastmodified":1690866350,
     "wof:name":"Nenzlingen",
     "wof:parent_id":404571863,
     "wof:placetype":"locality",

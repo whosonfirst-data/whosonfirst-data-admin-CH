@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Boniswil"
+    ],
     "name:cat_x_preferred":[
         "Boniswil"
     ],
@@ -47,8 +50,17 @@
     "name:fra_x_preferred":[
         "Boniswil"
     ],
+    "name:gle_x_preferred":[
+        "Boniswil"
+    ],
     "name:gsw_x_preferred":[
         "Bonischwiu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e0\u05d9\u05e1\u05d5\u05d5\u05d9\u05dc"
+    ],
+    "name:hsb_x_preferred":[
+        "Boniswil"
     ],
     "name:hun_x_preferred":[
         "Boniswil"
@@ -74,6 +86,9 @@
     "name:nno_x_preferred":[
         "Boniswil"
     ],
+    "name:nob_x_preferred":[
+        "Boniswil"
+    ],
     "name:oci_x_preferred":[
         "Boniswil"
     ],
@@ -97,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "Boniswil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043d\u0456\u0441\u0432\u0456\u043b\u044c"
     ],
     "name:uzb_x_preferred":[
         "Boniswil"
@@ -146,11 +164,11 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102063017,
         404572403,
-        85682329
+        85633051,
+        102063017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -179,7 +197,7 @@
         }
     ],
     "wof:id":1125911643,
-    "wof:lastmodified":1598921355,
+    "wof:lastmodified":1690866503,
     "wof:name":"Boniswil",
     "wof:parent_id":404572403,
     "wof:placetype":"locality",

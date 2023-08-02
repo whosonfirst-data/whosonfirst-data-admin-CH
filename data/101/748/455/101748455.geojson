@@ -30,6 +30,9 @@
     "name:ara_x_variant":[
         "\u0628\u064a\u0627\u0644/\u0628\u064a\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0627\u0644 \u0628\u064a\u0627\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0644/\u0628\u06cc\u0646"
     ],
@@ -60,6 +63,9 @@
     "name:chv_x_preferred":[
         "\u0411\u0438\u043b\u044c"
     ],
+    "name:cos_x_preferred":[
+        "Bienne"
+    ],
     "name:cym_x_preferred":[
         "Biel"
     ],
@@ -83,6 +89,9 @@
     ],
     "name:eng_x_preferred":[
         "Biel/Bienne"
+    ],
+    "name:eng_x_variant":[
+        "Bienne"
     ],
     "name:epo_x_preferred":[
         "Bielo"
@@ -120,6 +129,9 @@
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05dc/\u05d1\u05d9\u05d9\u05df"
     ],
+    "name:hsb_x_preferred":[
+        "Biel/Bienne"
+    ],
     "name:hun_x_preferred":[
         "Biel"
     ],
@@ -156,6 +168,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube4c/\ube44\uc5d4"
+    ],
+    "name:kur_x_preferred":[
+        "Biel/Bienne"
     ],
     "name:lat_x_preferred":[
         "Belna"
@@ -251,8 +266,14 @@
     "name:srp_x_preferred":[
         "\u0411\u0438\u043b/\u0411\u0458\u0435\u043d"
     ],
+    "name:swa_x_preferred":[
+        "Biel/Bienne"
+    ],
     "name:swe_x_preferred":[
         "Biel"
+    ],
+    "name:szl_x_preferred":[
+        "Biel/Bienne"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0baf\u0bc6\u0bb2\u0bcd/\u0baa\u0bbf\u0baf\u0bc6\u0ba9\u0bcd"
@@ -283,6 +304,12 @@
     ],
     "name:wuu_x_preferred":[
         "\u6bd4\u5c14"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d8\u10da\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u6a19"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u723e"
@@ -413,11 +440,11 @@
     "wd:population":52351,
     "wd:wordcount":4705,
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102063041,
         404568547,
-        85682381
+        85633051,
+        102063041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -454,7 +481,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1598918964,
+    "wof:lastmodified":1690866083,
     "wof:name":"Biel/Bienne",
     "wof:parent_id":404568547,
     "wof:placetype":"locality",

@@ -53,8 +53,14 @@
     "name:fra_x_preferred":[
         "Unterstammheim"
     ],
+    "name:gle_x_preferred":[
+        "Unterstammheim"
+    ],
     "name:gsw_x_preferred":[
         "Underschtamme"
+    ],
+    "name:hsb_x_preferred":[
+        "Unterstammheim"
     ],
     "name:hun_x_preferred":[
         "Unterstammheim"
@@ -75,6 +81,9 @@
         "Unterstammheim"
     ],
     "name:nno_x_preferred":[
+        "Unterstammheim"
+    ],
+    "name:nob_x_preferred":[
         "Unterstammheim"
     ],
     "name:oci_x_preferred":[
@@ -103,6 +112,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4e0b\u65af\u5854\u59c6\u6d77\u59c6"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u65bd\u5854\u59c6\u6d77\u59c6"
     ],
     "nav:latitude":47.63921,
     "nav:longitude":8.79064,
@@ -137,11 +149,11 @@
     "woe:name_adm1":"Kanton Z\u00fcrich",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682309,
         102191581,
-        85633051,
-        102062801,
         1394254219,
-        85682309
+        85633051,
+        102062801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -167,7 +179,7 @@
         }
     ],
     "wof:id":1125973933,
-    "wof:lastmodified":1598921276,
+    "wof:lastmodified":1690866461,
     "wof:name":"Unterstammheim",
     "wof:parent_id":1394254219,
     "wof:placetype":"locality",

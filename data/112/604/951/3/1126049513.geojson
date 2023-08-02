@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "K\u00fcttigen"
+    ],
     "name:cat_x_preferred":[
         "K\u00fcttigen"
     ],
@@ -50,11 +53,17 @@
     "name:fra_x_preferred":[
         "K\u00fcttigen"
     ],
+    "name:gle_x_preferred":[
+        "K\u00fcttigen"
+    ],
     "name:gsw_x_preferred":[
         "K\u00fcttigen"
     ],
     "name:gsw_x_variant":[
         "Ch\u00fcddige"
+    ],
+    "name:hsb_x_preferred":[
+        "K\u00fcttigen"
     ],
     "name:hun_x_preferred":[
         "K\u00fcttigen"
@@ -71,10 +80,16 @@
     "name:msa_x_preferred":[
         "K\u00fcttigen"
     ],
+    "name:nan_x_preferred":[
+        "K\u00fcttigen"
+    ],
     "name:nld_x_preferred":[
         "K\u00fcttigen"
     ],
     "name:nno_x_preferred":[
+        "K\u00fcttigen"
+    ],
+    "name:nob_x_preferred":[
         "K\u00fcttigen"
     ],
     "name:oci_x_preferred":[
@@ -144,11 +159,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062989,
         404569297,
-        85682329
+        85633051,
+        102062989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -176,7 +191,7 @@
         }
     ],
     "wof:id":1126049513,
-    "wof:lastmodified":1598920966,
+    "wof:lastmodified":1690866303,
     "wof:name":"K\u00fcttigen",
     "wof:parent_id":404569297,
     "wof:placetype":"locality",

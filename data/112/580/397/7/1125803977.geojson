@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Tr\u00e9lex"
+    ],
     "name:cat_x_preferred":[
         "Tr\u00e9lex"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:che_x_preferred":[
         "\u0422\u0440\u0435\u043b\u0438"
+    ],
+    "name:che_x_variant":[
+        "\u0422\u0433\u04c0\u0435\u043b\u0438"
     ],
     "name:cym_x_preferred":[
         "Tr\u00e9lex"
@@ -53,7 +59,13 @@
     "name:fra_x_preferred":[
         "Tr\u00e9lex"
     ],
+    "name:gle_x_preferred":[
+        "Tr\u00e9lex"
+    ],
     "name:gsw_x_preferred":[
+        "Tr\u00e9lex"
+    ],
+    "name:hsb_x_preferred":[
         "Tr\u00e9lex"
     ],
     "name:hun_x_preferred":[
@@ -77,7 +89,13 @@
     "name:nno_x_preferred":[
         "Tr\u00e9lex"
     ],
+    "name:nob_x_preferred":[
+        "Tr\u00e9lex"
+    ],
     "name:oci_x_preferred":[
+        "Tr\u00e9lex"
+    ],
+    "name:por_x_preferred":[
         "Tr\u00e9lex"
     ],
     "name:roh_x_preferred":[
@@ -88,6 +106,9 @@
     ],
     "name:swe_x_preferred":[
         "Tr\u00e9lex"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0435\u043b\u0435"
     ],
     "name:vec_x_preferred":[
         "Tr\u00e9lex"
@@ -136,11 +157,11 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682325,
         102191581,
-        85633051,
-        102063049,
         404570983,
-        85682325
+        85633051,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -169,7 +190,7 @@
         }
     ],
     "wof:id":1125803977,
-    "wof:lastmodified":1598921114,
+    "wof:lastmodified":1690866382,
     "wof:name":"Tr\u00e9lex",
     "wof:parent_id":404570983,
     "wof:placetype":"locality",

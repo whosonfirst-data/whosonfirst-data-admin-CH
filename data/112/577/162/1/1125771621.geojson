@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Bossonnens"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0441\u043e\u043d\u0435\u043d\u0441"
     ],
@@ -50,7 +53,13 @@
     "name:fra_x_preferred":[
         "Bossonnens"
     ],
+    "name:gle_x_preferred":[
+        "Bossonnens"
+    ],
     "name:gsw_x_preferred":[
+        "Bossonnens"
+    ],
+    "name:hsb_x_preferred":[
         "Bossonnens"
     ],
     "name:hun_x_preferred":[
@@ -74,7 +83,13 @@
     "name:nno_x_preferred":[
         "Bossonnens"
     ],
+    "name:nob_x_preferred":[
+        "Bossonnens"
+    ],
     "name:oci_x_preferred":[
+        "Bossonnens"
+    ],
+    "name:pol_x_preferred":[
         "Bossonnens"
     ],
     "name:roh_x_preferred":[
@@ -88,6 +103,9 @@
     ],
     "name:swe_x_preferred":[
         "Bossonnens"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0441\u043e\u043d\u0430\u043d\u0441"
     ],
     "name:vec_x_preferred":[
         "Bossonnens"
@@ -134,11 +152,11 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682301,
         102191581,
-        85633051,
-        102063025,
         404571649,
-        85682301
+        85633051,
+        102063025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":1125771621,
-    "wof:lastmodified":1598921911,
+    "wof:lastmodified":1690866670,
     "wof:name":"Bossonnens",
     "wof:parent_id":404571649,
     "wof:placetype":"locality",

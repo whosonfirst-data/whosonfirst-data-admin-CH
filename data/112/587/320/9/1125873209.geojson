@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Corminboeuf"
+    ],
     "name:cat_x_preferred":[
         "Corminboeuf"
     ],
@@ -50,10 +53,16 @@
     "name:fra_x_preferred":[
         "Corminboeuf"
     ],
+    "name:gle_x_preferred":[
+        "Corminboeuf"
+    ],
     "name:gsw_x_preferred":[
         "Corminboeuf FR"
     ],
     "name:gsw_x_variant":[
+        "Corminboeuf"
+    ],
+    "name:hsb_x_preferred":[
         "Corminboeuf"
     ],
     "name:hun_x_preferred":[
@@ -83,6 +92,9 @@
     "name:pms_x_preferred":[
         "Corminboeuf"
     ],
+    "name:pol_x_preferred":[
+        "Corminboeuf"
+    ],
     "name:por_x_preferred":[
         "Corminboeuf"
     ],
@@ -97,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Corminboeuf"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043c\u0435\u043d\u0431\u0435\u0444"
     ],
     "name:vec_x_preferred":[
         "Corminboeuf"
@@ -148,11 +163,11 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682301,
         102191581,
-        85633051,
-        102063029,
         1394254065,
-        85682301
+        85633051,
+        102063029
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -178,7 +193,7 @@
         }
     ],
     "wof:id":1125873209,
-    "wof:lastmodified":1598921197,
+    "wof:lastmodified":1690866418,
     "wof:name":"Corminboeuf",
     "wof:parent_id":1394254065,
     "wof:placetype":"locality",

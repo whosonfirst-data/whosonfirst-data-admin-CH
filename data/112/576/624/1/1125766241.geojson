@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Meinisberg"
+    ],
     "name:cat_x_preferred":[
         "Meinisberg"
     ],
@@ -53,8 +56,14 @@
     "name:fra_x_variant":[
         "Meinisberg"
     ],
+    "name:gle_x_preferred":[
+        "Meinisberg"
+    ],
     "name:gsw_x_preferred":[
         "Meinisbeerg"
+    ],
+    "name:hsb_x_preferred":[
+        "Meinisberg"
     ],
     "name:hun_x_preferred":[
         "Meinisberg"
@@ -77,7 +86,16 @@
     "name:nno_x_preferred":[
         "Meinisberg"
     ],
+    "name:nob_x_preferred":[
+        "Meinisberg"
+    ],
     "name:oci_x_preferred":[
+        "Meinisberg"
+    ],
+    "name:pol_x_preferred":[
+        "Meinisberg"
+    ],
+    "name:por_x_preferred":[
         "Meinisberg"
     ],
     "name:rus_x_preferred":[
@@ -91,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Meinisberg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0439\u043d\u0456\u0441\u0431\u0435\u0440\u0433"
     ],
     "name:vec_x_preferred":[
         "Meinisberg"
@@ -137,11 +158,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102063041,
         404571515,
-        85682381
+        85633051,
+        102063041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,7 +191,7 @@
         }
     ],
     "wof:id":1125766241,
-    "wof:lastmodified":1598921780,
+    "wof:lastmodified":1690866606,
     "wof:name":"Meinisberg",
     "wof:parent_id":404571515,
     "wof:placetype":"locality",

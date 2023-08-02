@@ -26,6 +26,9 @@
     "name:als_x_preferred":[
         "Messen SO"
     ],
+    "name:bre_x_preferred":[
+        "Messen"
+    ],
     "name:cat_x_preferred":[
         "Messen"
     ],
@@ -56,8 +59,14 @@
     "name:fra_x_preferred":[
         "Messen"
     ],
+    "name:gle_x_preferred":[
+        "Messen"
+    ],
     "name:gsw_x_preferred":[
         "Messe"
+    ],
+    "name:hsb_x_preferred":[
+        "Messen"
     ],
     "name:hun_x_preferred":[
         "Messen"
@@ -83,6 +92,12 @@
     "name:oci_x_preferred":[
         "Messen"
     ],
+    "name:pol_x_preferred":[
+        "Messen"
+    ],
+    "name:por_x_preferred":[
+        "Messen"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0441\u0441\u0435\u043d"
     ],
@@ -94,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Messen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0441\u0441\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "Messen"
@@ -143,11 +161,11 @@
     "woe:name_adm1":"Kanton Solothurn",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682365,
         102191581,
-        85633051,
-        1394137095,
         404328395,
-        85682365
+        85633051,
+        1394137095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,7 +191,7 @@
         }
     ],
     "wof:id":1125845347,
-    "wof:lastmodified":1598921876,
+    "wof:lastmodified":1690866654,
     "wof:name":"Messen",
     "wof:parent_id":404328395,
     "wof:placetype":"locality",

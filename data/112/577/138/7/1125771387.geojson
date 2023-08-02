@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Wynigen"
+    ],
     "name:cat_x_preferred":[
         "Wynigen"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Wynigen"
     ],
+    "name:gle_x_preferred":[
+        "Wynigen"
+    ],
     "name:gsw_x_preferred":[
         "Winige"
+    ],
+    "name:hsb_x_preferred":[
+        "Wynigen"
     ],
     "name:hun_x_preferred":[
         "Wynigen"
@@ -77,7 +86,16 @@
     "name:nno_x_preferred":[
         "Wynigen"
     ],
+    "name:nob_x_preferred":[
+        "Wynigen"
+    ],
     "name:oci_x_preferred":[
+        "Wynigen"
+    ],
+    "name:pol_x_preferred":[
+        "Wynigen"
+    ],
+    "name:por_x_preferred":[
         "Wynigen"
     ],
     "name:rus_x_preferred":[
@@ -91,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Wynigen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043d\u0456\u0433\u0435\u043d"
     ],
     "name:vec_x_preferred":[
         "Wynigen"
@@ -140,11 +161,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062837,
         404568311,
-        85682381
+        85633051,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,7 +191,7 @@
         }
     ],
     "wof:id":1125771387,
-    "wof:lastmodified":1598921913,
+    "wof:lastmodified":1690866671,
     "wof:name":"Wynigen",
     "wof:parent_id":404568311,
     "wof:placetype":"locality",

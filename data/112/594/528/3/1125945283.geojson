@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Gletterens"
+    ],
     "name:cat_x_preferred":[
         "Gletterens"
     ],
@@ -59,7 +62,13 @@
     "name:fra_x_preferred":[
         "Gletterens"
     ],
+    "name:gle_x_preferred":[
+        "Gletterens"
+    ],
     "name:gsw_x_preferred":[
+        "Gletterens"
+    ],
+    "name:hsb_x_preferred":[
         "Gletterens"
     ],
     "name:hun_x_preferred":[
@@ -83,7 +92,13 @@
     "name:nno_x_preferred":[
         "Gletterens"
     ],
+    "name:nob_x_preferred":[
+        "Gletterens"
+    ],
     "name:oci_x_preferred":[
+        "Gletterens"
+    ],
+    "name:pol_x_preferred":[
         "Gletterens"
     ],
     "name:por_br_x_preferred":[
@@ -103,6 +118,9 @@
     ],
     "name:swe_x_preferred":[
         "Gletterens"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0435\u0442\u0435\u0440\u0430\u043d\u0441"
     ],
     "name:vec_x_preferred":[
         "Gletterens"
@@ -154,11 +172,11 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682301,
         102191581,
-        85633051,
-        102062945,
         1175611211,
-        85682301
+        85633051,
+        102062945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -187,7 +205,7 @@
         }
     ],
     "wof:id":1125945283,
-    "wof:lastmodified":1598920754,
+    "wof:lastmodified":1690866203,
     "wof:name":"Gletterens",
     "wof:parent_id":1175611211,
     "wof:placetype":"locality",

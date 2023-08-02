@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Salvan"
+    ],
     "name:cat_x_preferred":[
         "Salvan"
     ],
@@ -51,10 +54,16 @@
     "name:frp_x_preferred":[
         "Sarvan"
     ],
+    "name:gle_x_preferred":[
+        "Salvan"
+    ],
     "name:gsw_x_preferred":[
         "Salvan VS"
     ],
     "name:gsw_x_variant":[
+        "Salvan"
+    ],
+    "name:hsb_x_preferred":[
         "Salvan"
     ],
     "name:hun_x_preferred":[
@@ -84,6 +93,12 @@
     "name:oci_x_preferred":[
         "Salvan"
     ],
+    "name:pol_x_preferred":[
+        "Salvan"
+    ],
+    "name:por_x_preferred":[
+        "Salvan"
+    ],
     "name:roh_x_preferred":[
         "Salvan"
     ],
@@ -95,6 +110,9 @@
     ],
     "name:swe_x_preferred":[
         "Salvan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u0432\u0430\u043d"
     ],
     "name:vec_x_preferred":[
         "Salvan"
@@ -139,11 +157,11 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682281,
         102191581,
-        85633051,
-        102062965,
         404567967,
-        85682281
+        85633051,
+        102062965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":1126054923,
-    "wof:lastmodified":1598920942,
+    "wof:lastmodified":1690866289,
     "wof:name":"Salvan",
     "wof:parent_id":404567967,
     "wof:placetype":"locality",

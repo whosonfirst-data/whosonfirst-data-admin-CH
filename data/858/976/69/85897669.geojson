@@ -50,6 +50,9 @@
     "name:ava_x_preferred":[
         "\u041c\u0438\u043b\u043b\u0430\u0442"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0644\u062a"
+    ],
     "name:aze_x_preferred":[
         "Mill\u0259t"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:bos_x_preferred":[
         "Nacija"
+    ],
+    "name:bos_x_variant":[
+        "nacija"
     ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u0446\u0438\u044f"
@@ -94,6 +100,9 @@
     ],
     "name:cym_x_preferred":[
         "Cenedl"
+    ],
+    "name:cym_x_variant":[
+        "cenedl"
     ],
     "name:dan_x_preferred":[
         "Nation"
@@ -174,8 +183,14 @@
     "name:glg_x_preferred":[
         "Naci\u00f3n"
     ],
+    "name:gom_x_preferred":[
+        "\u0930\u093e\u0936\u094d\u091f\u094d\u0930"
+    ],
     "name:gsw_x_preferred":[
         "Nation"
+    ],
+    "name:guw_x_preferred":[
+        "Ak\u1ecdta"
     ],
     "name:hak_x_preferred":[
         "M\u00ecn-chhu\u030dk"
@@ -192,11 +207,15 @@
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05de\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930"
+    ],
     "name:hrv_x_preferred":[
         "Nacija"
     ],
     "name:hrv_x_variant":[
-        "Narod"
+        "Narod",
+        "narod"
     ],
     "name:hsb_x_preferred":[
         "nacija"
@@ -209,6 +228,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u0566\u0563"
+    ],
+    "name:hye_x_variant":[
+        "\u0561\u0566\u0563"
     ],
     "name:ido_x_preferred":[
         "Naciono"
@@ -237,6 +259,9 @@
     "name:jpn_x_preferred":[
         "\u56fd\u6c11"
     ],
+    "name:jpn_x_variant":[
+        "\u30cd\u30fc\u30b7\u30e7\u30f3"
+    ],
     "name:kab_x_preferred":[
         "A\u0263lan"
     ],
@@ -248,6 +273,12 @@
     ],
     "name:kor_x_preferred":[
         "\uad6d\ubbfc"
+    ],
+    "name:kor_x_variant":[
+        "\ub124\uc774\uc158"
+    ],
+    "name:krj_x_preferred":[
+        "pungsod"
     ],
     "name:kur_x_preferred":[
         "Netewe"
@@ -264,6 +295,9 @@
     "name:lav_x_variant":[
         "n\u0101cija"
     ],
+    "name:lim_x_preferred":[
+        "Natie"
+    ],
     "name:lit_x_preferred":[
         "Nacija"
     ],
@@ -279,6 +313,9 @@
     "name:mar_x_preferred":[
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930"
     ],
+    "name:mdf_x_preferred":[
+        "\u041d\u0430\u0446\u0438\u044f\u0441\u044c"
+    ],
     "name:min_x_preferred":[
         "Bangso"
     ],
@@ -293,6 +330,9 @@
     ],
     "name:msa_x_preferred":[
         "Bangsa"
+    ],
+    "name:msa_x_variant":[
+        "bangsa"
     ],
     "name:mya_x_preferred":[
         "\u101c\u1030\u1019\u103b\u102d\u102f\u1038"
@@ -330,6 +370,12 @@
     "name:pan_x_variant":[
         "\u0a30\u0a3e\u0a38\u0a3c\u0a1f\u0a30"
     ],
+    "name:pcm_x_preferred":[
+        "Nation"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0642\u0648\u0645"
+    ],
     "name:pol_x_preferred":[
         "Nar\u00f3d"
     ],
@@ -347,6 +393,9 @@
     ],
     "name:pus_x_preferred":[
         "\u0648\u0644\u0633"
+    ],
+    "name:que_x_preferred":[
+        "Kawsayllaqta"
     ],
     "name:rmy_x_preferred":[
         "Sel"
@@ -380,6 +429,15 @@
     ],
     "name:slv_x_preferred":[
         "Narod"
+    ],
+    "name:slv_x_variant":[
+        "narod"
+    ],
+    "name:smn_x_preferred":[
+        "aalmuskodde"
+    ],
+    "name:sna_x_preferred":[
+        "Dhidhizha"
     ],
     "name:snd_x_preferred":[
         "\u0642\u0648\u0645"
@@ -443,6 +501,9 @@
     ],
     "name:udm_x_preferred":[
         "\u0419\u04e7\u0441\u043a\u0430\u043b\u044b\u043a"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u06c7\u0644\u06c7\u0633"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0446\u0456\u044f"
@@ -554,7 +615,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1617129965,
+    "wof:lastmodified":1690865989,
     "wof:name":"Nations",
     "wof:parent_id":101748445,
     "wof:placetype":"neighbourhood",

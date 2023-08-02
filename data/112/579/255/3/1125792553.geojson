@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Schupfart"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0447\u0443\u043f\u0444\u0430\u0440\u0442"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Schupfart"
     ],
+    "name:gle_x_preferred":[
+        "Schupfart"
+    ],
     "name:gsw_x_preferred":[
         "Schupfert"
+    ],
+    "name:hsb_x_preferred":[
+        "Schupfart"
     ],
     "name:hun_x_preferred":[
         "Schupfart"
@@ -77,7 +86,16 @@
     "name:nno_x_preferred":[
         "Schupfart"
     ],
+    "name:nob_x_preferred":[
+        "Schupfart"
+    ],
     "name:oci_x_preferred":[
+        "Schupfart"
+    ],
+    "name:pol_x_preferred":[
+        "Schupfart"
+    ],
+    "name:por_x_preferred":[
         "Schupfart"
     ],
     "name:rus_x_preferred":[
@@ -91,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Schupfart"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0443\u043f\u0444\u0430\u0440\u0442"
     ],
     "name:uzb_x_preferred":[
         "Schupfart"
@@ -141,11 +162,11 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062905,
         404570571,
-        85682329
+        85633051,
+        102062905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -174,7 +195,7 @@
         }
     ],
     "wof:id":1125792553,
-    "wof:lastmodified":1598921871,
+    "wof:lastmodified":1690866651,
     "wof:name":"Schupfart",
     "wof:parent_id":404570571,
     "wof:placetype":"locality",

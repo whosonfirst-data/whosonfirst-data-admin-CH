@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Lens"
+    ],
     "name:cat_x_preferred":[
         "Lens"
     ],
@@ -56,10 +59,19 @@
     "name:frp_x_preferred":[
         "Lens"
     ],
+    "name:frp_x_variant":[
+        "Lent"
+    ],
+    "name:gle_x_preferred":[
+        "Lens"
+    ],
     "name:gsw_x_preferred":[
         "Lens VS"
     ],
     "name:gsw_x_variant":[
+        "Lens"
+    ],
+    "name:hsb_x_preferred":[
         "Lens"
     ],
     "name:hun_x_preferred":[
@@ -86,6 +98,9 @@
     "name:nno_x_preferred":[
         "Lens i Valais"
     ],
+    "name:nob_x_preferred":[
+        "Lens"
+    ],
     "name:oci_x_preferred":[
         "Lens"
     ],
@@ -109,6 +124,9 @@
     ],
     "name:szl_x_preferred":[
         "Lens"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043d\u0441"
     ],
     "name:vec_x_preferred":[
         "Lens"
@@ -157,11 +175,11 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682281,
         102191581,
-        85633051,
-        102062793,
         404569029,
-        85682281
+        85633051,
+        102062793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -187,7 +205,7 @@
         }
     ],
     "wof:id":1125913035,
-    "wof:lastmodified":1598921351,
+    "wof:lastmodified":1690866500,
     "wof:name":"Lens",
     "wof:parent_id":404569029,
     "wof:placetype":"locality",

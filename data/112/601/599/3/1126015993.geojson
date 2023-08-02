@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Les Genevez"
+    ],
     "name:cat_x_preferred":[
         "Les Genevez"
     ],
@@ -47,7 +50,13 @@
     "name:fra_x_preferred":[
         "Les Genevez"
     ],
+    "name:gle_x_preferred":[
+        "Les Genevez"
+    ],
     "name:gsw_x_preferred":[
+        "Les Genevez"
+    ],
+    "name:hsb_x_preferred":[
         "Les Genevez"
     ],
     "name:hun_x_preferred":[
@@ -68,7 +77,16 @@
     "name:nno_x_preferred":[
         "Les Genevez"
     ],
+    "name:nob_x_preferred":[
+        "Les Genevez"
+    ],
     "name:oci_x_preferred":[
+        "Les Genevez"
+    ],
+    "name:pol_x_preferred":[
+        "Les Genevez"
+    ],
+    "name:por_x_preferred":[
         "Les Genevez"
     ],
     "name:roh_x_preferred":[
@@ -82,6 +100,9 @@
     ],
     "name:swe_x_preferred":[
         "Les Genevez"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u0416\u0435\u043d\u0435\u0432\u0435"
     ],
     "name:vec_x_preferred":[
         "Les Genevez"
@@ -128,11 +149,11 @@
     "woe:name_adm1":"Canton de Jura",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682347,
         102191581,
-        85633051,
-        102062875,
         404569049,
-        85682347
+        85633051,
+        102062875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -158,7 +179,7 @@
         }
     ],
     "wof:id":1126015993,
-    "wof:lastmodified":1598921662,
+    "wof:lastmodified":1690866555,
     "wof:name":"Les Genevez",
     "wof:parent_id":404569049,
     "wof:placetype":"locality",

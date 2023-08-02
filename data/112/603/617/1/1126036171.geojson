@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Feusisberg"
+    ],
     "name:cat_x_preferred":[
         "Feusisberg"
     ],
@@ -50,7 +53,16 @@
     "name:fra_x_preferred":[
         "Feusisberg"
     ],
+    "name:gle_x_preferred":[
+        "Feusisberg"
+    ],
+    "name:glg_x_preferred":[
+        "Feusisberg"
+    ],
     "name:gsw_x_preferred":[
+        "Feusisberg"
+    ],
+    "name:hsb_x_preferred":[
         "Feusisberg"
     ],
     "name:hun_x_preferred":[
@@ -58,6 +70,9 @@
     ],
     "name:ita_x_preferred":[
         "Feusisberg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a9\u30a4\u30b8\u30b9\u30d9\u30eb\u30af"
     ],
     "name:kaz_x_preferred":[
         "\u0424\u043e\u0439\u0437\u0438\u0441\u0431\u0435\u0440\u0433"
@@ -69,6 +84,9 @@
         "Feusisberg"
     ],
     "name:nno_x_preferred":[
+        "Feusisberg"
+    ],
+    "name:nob_x_preferred":[
         "Feusisberg"
     ],
     "name:oci_x_preferred":[
@@ -94,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "Feusisberg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043e\u0439\u0437\u0456\u0441\u0431\u0435\u0440\u0433"
     ],
     "name:uzb_x_preferred":[
         "Feusisberg"
@@ -145,11 +166,11 @@
     "woe:name_adm1":"Kanton Schwyz",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682305,
         102191581,
-        85633051,
-        102062919,
         404568745,
-        85682305
+        85633051,
+        102062919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +196,7 @@
         }
     ],
     "wof:id":1126036171,
-    "wof:lastmodified":1598920989,
+    "wof:lastmodified":1690866316,
     "wof:name":"Feusisberg",
     "wof:parent_id":404568745,
     "wof:placetype":"locality",

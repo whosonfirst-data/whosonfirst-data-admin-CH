@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Uttigen"
+    ],
     "name:cat_x_preferred":[
         "Uttigen"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Uttigen"
     ],
+    "name:gle_x_preferred":[
+        "Uttigen"
+    ],
     "name:gsw_x_preferred":[
         "Uttige"
+    ],
+    "name:hsb_x_preferred":[
+        "Uttigen"
     ],
     "name:hun_x_preferred":[
         "Uttigen"
@@ -65,6 +74,9 @@
     "name:kaz_x_preferred":[
         "\u0423\u0442\u0442\u0438\u0433\u0435\u043d"
     ],
+    "name:kor_x_preferred":[
+        "\uc6b0\ud2f0\uac90"
+    ],
     "name:lmo_x_preferred":[
         "Uttigen"
     ],
@@ -75,6 +87,9 @@
         "Uttigen"
     ],
     "name:nno_x_preferred":[
+        "Uttigen"
+    ],
+    "name:nob_x_preferred":[
         "Uttigen"
     ],
     "name:oci_x_preferred":[
@@ -100,6 +115,9 @@
     ],
     "name:swe_x_preferred":[
         "Uttigen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0442\u0442\u0456\u0433\u0435\u043d"
     ],
     "name:vec_x_preferred":[
         "Uttigen"
@@ -149,11 +167,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102063061,
         404572101,
-        85682381
+        85633051,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -182,7 +200,7 @@
         }
     ],
     "wof:id":1125918209,
-    "wof:lastmodified":1598921318,
+    "wof:lastmodified":1690866482,
     "wof:name":"Uttigen",
     "wof:parent_id":404572101,
     "wof:placetype":"locality",

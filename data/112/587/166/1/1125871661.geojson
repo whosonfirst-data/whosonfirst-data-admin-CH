@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "M\u00e4genwil"
+    ],
     "name:cat_x_preferred":[
         "M\u00e4genwil"
     ],
@@ -47,8 +50,17 @@
     "name:fra_x_preferred":[
         "M\u00e4genwil"
     ],
+    "name:gle_x_preferred":[
+        "M\u00e4genwil"
+    ],
     "name:gsw_x_preferred":[
         "M\u00e4gewil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d2\u05e0\u05d5\u05d5\u05d9\u05dc"
+    ],
+    "name:hsb_x_preferred":[
+        "M\u00e4genwil"
     ],
     "name:hun_x_preferred":[
         "M\u00e4genwil"
@@ -72,6 +84,9 @@
         "M\u00e4genwil"
     ],
     "name:nno_x_preferred":[
+        "M\u00e4genwil"
+    ],
+    "name:nob_x_preferred":[
         "M\u00e4genwil"
     ],
     "name:oci_x_preferred":[
@@ -100,6 +115,9 @@
     ],
     "name:swe_x_preferred":[
         "M\u00e4genwil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0433\u0435\u043d\u0432\u0456\u043b\u044c"
     ],
     "name:uzb_x_preferred":[
         "M\u00e4genwil"
@@ -150,11 +168,11 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062843,
         404571925,
-        85682329
+        85633051,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -183,7 +201,7 @@
         }
     ],
     "wof:id":1125871661,
-    "wof:lastmodified":1598921160,
+    "wof:lastmodified":1690866405,
     "wof:name":"M\u00e4genwil",
     "wof:parent_id":404571925,
     "wof:placetype":"locality",

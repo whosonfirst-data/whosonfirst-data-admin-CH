@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Brienzwiler"
+    ],
     "name:cat_x_preferred":[
         "Brienzwiler"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Brienzwiler"
     ],
+    "name:gle_x_preferred":[
+        "Brienzwiler"
+    ],
     "name:gsw_x_preferred":[
         "Brienzwiiler"
+    ],
+    "name:hsb_x_preferred":[
+        "Brienzwiler"
     ],
     "name:hun_x_preferred":[
         "Brienzwiler"
@@ -61,6 +70,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0440\u0438\u043d\u0446\u0432\u0438\u043b\u0435\u0440"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub9ac\uc5d4\uce20\ube4c\ub7ec"
     ],
     "name:lmo_x_preferred":[
         "Brienzwiler"
@@ -72,6 +84,9 @@
         "Brienzwiler"
     ],
     "name:nno_x_preferred":[
+        "Brienzwiler"
+    ],
+    "name:nob_x_preferred":[
         "Brienzwiler"
     ],
     "name:oci_x_preferred":[
@@ -103,6 +118,9 @@
     ],
     "name:swe_x_preferred":[
         "Brienzwiler"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0456\u0454\u043d\u0446\u0432\u0456\u043b\u0435\u0440"
     ],
     "name:und_x_variant":[
         "Brienzwiler-Dorf"
@@ -157,11 +175,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062759,
         404569767,
-        85682381
+        85633051,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -187,7 +205,7 @@
         }
     ],
     "wof:id":1125928879,
-    "wof:lastmodified":1598920813,
+    "wof:lastmodified":1690866234,
     "wof:name":"Brienzwiler",
     "wof:parent_id":404569767,
     "wof:placetype":"locality",

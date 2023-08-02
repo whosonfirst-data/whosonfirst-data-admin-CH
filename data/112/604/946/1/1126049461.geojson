@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Hornussen"
+    ],
     "name:cat_x_preferred":[
         "Hornussen"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Hornussen"
     ],
+    "name:gle_x_preferred":[
+        "Hornussen"
+    ],
     "name:gsw_x_preferred":[
         "Hornusse"
+    ],
+    "name:hsb_x_preferred":[
+        "Hornussen"
     ],
     "name:hun_x_preferred":[
         "Hornussen"
@@ -81,6 +90,9 @@
         "Hornussen"
     ],
     "name:pol_x_preferred":[
+        "Hornussen"
+    ],
+    "name:por_x_preferred":[
         "Hornussen"
     ],
     "name:rus_x_preferred":[
@@ -139,11 +151,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062977,
         404570497,
-        85682329
+        85633051,
+        102062977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -176,7 +188,7 @@
         }
     ],
     "wof:id":1126049461,
-    "wof:lastmodified":1598920961,
+    "wof:lastmodified":1690866300,
     "wof:name":"Hornussen",
     "wof:parent_id":404570497,
     "wof:placetype":"locality",

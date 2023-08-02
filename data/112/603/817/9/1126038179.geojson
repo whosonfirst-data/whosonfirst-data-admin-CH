@@ -23,10 +23,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Fideris"
+    ],
     "name:cat_x_preferred":[
         "Fideris"
     ],
     "name:ceb_x_preferred":[
+        "Fideris"
+    ],
+    "name:ces_x_preferred":[
         "Fideris"
     ],
     "name:cym_x_preferred":[
@@ -50,8 +56,14 @@
     "name:fra_x_preferred":[
         "Fideris"
     ],
+    "name:gle_x_preferred":[
+        "Fideris"
+    ],
     "name:gsw_x_preferred":[
         "Fiderisch"
+    ],
+    "name:hsb_x_preferred":[
+        "Fideris"
     ],
     "name:hun_x_preferred":[
         "Fideris"
@@ -75,6 +87,9 @@
         "Fideris"
     ],
     "name:nno_x_preferred":[
+        "Fideris"
+    ],
+    "name:nob_x_preferred":[
         "Fideris"
     ],
     "name:oci_x_preferred":[
@@ -106,6 +121,9 @@
     ],
     "name:swe_x_preferred":[
         "Fideris"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0456\u0434\u0435\u0440\u0456\u0441"
     ],
     "name:uzb_x_preferred":[
         "Fideris"
@@ -157,11 +175,11 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682255,
         102191581,
-        85633051,
-        102062803,
         404568365,
-        85682255
+        85633051,
+        102062803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -190,7 +208,7 @@
         }
     ],
     "wof:id":1126038179,
-    "wof:lastmodified":1598920990,
+    "wof:lastmodified":1690866316,
     "wof:name":"Fideris",
     "wof:parent_id":404568365,
     "wof:placetype":"locality",

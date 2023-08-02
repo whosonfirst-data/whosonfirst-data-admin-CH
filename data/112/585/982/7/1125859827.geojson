@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "R\u00fcmikon"
+    ],
     "name:cat_x_preferred":[
         "R\u00fcmikon"
     ],
@@ -50,7 +53,13 @@
     "name:fra_x_preferred":[
         "R\u00fcmikon"
     ],
+    "name:gle_x_preferred":[
+        "R\u00fcmikon"
+    ],
     "name:gsw_x_preferred":[
+        "R\u00fcmikon"
+    ],
+    "name:hsb_x_preferred":[
         "R\u00fcmikon"
     ],
     "name:hun_x_preferred":[
@@ -77,7 +86,13 @@
     "name:nno_x_preferred":[
         "R\u00fcmikon"
     ],
+    "name:nob_x_preferred":[
+        "R\u00fcmikon"
+    ],
     "name:oci_x_preferred":[
+        "R\u00fcmikon"
+    ],
+    "name:por_x_preferred":[
         "R\u00fcmikon"
     ],
     "name:roh_x_preferred":[
@@ -94,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "R\u00fcmikon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u044e\u043c\u0456\u043a\u043e\u043d"
     ],
     "name:uzb_x_preferred":[
         "R\u00fcmikon"
@@ -146,11 +164,11 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062841,
         404572165,
-        85682329
+        85633051,
+        102062841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -179,7 +197,7 @@
         }
     ],
     "wof:id":1125859827,
-    "wof:lastmodified":1598921809,
+    "wof:lastmodified":1690866621,
     "wof:name":"R\u00fcmikon",
     "wof:parent_id":404572165,
     "wof:placetype":"locality",

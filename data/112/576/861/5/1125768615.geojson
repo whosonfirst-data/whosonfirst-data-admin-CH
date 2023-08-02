@@ -23,10 +23,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Sisikon"
+    ],
     "name:cat_x_preferred":[
         "Sisikon"
     ],
     "name:ceb_x_preferred":[
+        "Sisikon"
+    ],
+    "name:ces_x_preferred":[
         "Sisikon"
     ],
     "name:chv_x_preferred":[
@@ -50,17 +56,26 @@
     "name:fra_x_preferred":[
         "Sisikon"
     ],
+    "name:gle_x_preferred":[
+        "Sisikon"
+    ],
     "name:gsw_x_preferred":[
         "Sisikon"
     ],
     "name:gsw_x_variant":[
         "Sisike"
     ],
+    "name:hsb_x_preferred":[
+        "Sisikon"
+    ],
     "name:hun_x_preferred":[
         "Sisikon"
     ],
     "name:ita_x_preferred":[
         "Sisikon"
+    ],
+    "name:kor_x_preferred":[
+        "\uc9c0\uc9c0\ucf58"
     ],
     "name:lmo_x_preferred":[
         "Sisikon"
@@ -69,6 +84,9 @@
         "Sisikon"
     ],
     "name:nno_x_preferred":[
+        "Sisikon"
+    ],
+    "name:nob_x_preferred":[
         "Sisikon"
     ],
     "name:oci_x_preferred":[
@@ -91,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Sisikon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0456\u0437\u0456\u043a\u043e\u043d"
     ],
     "name:uzb_x_preferred":[
         "Sisikon"
@@ -126,11 +147,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682377,
         102191581,
-        85633051,
-        102062879,
         404328269,
-        85682377
+        85633051,
+        102062879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,7 +176,7 @@
         }
     ],
     "wof:id":1125768615,
-    "wof:lastmodified":1598921772,
+    "wof:lastmodified":1690866601,
     "wof:name":"Sisikon",
     "wof:parent_id":404328269,
     "wof:placetype":"locality",

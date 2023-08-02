@@ -21,11 +21,17 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Celerina/Schlarigna"
+    ],
     "name:cat_x_preferred":[
         "Celerina/Schlarigna"
     ],
     "name:ceb_x_preferred":[
         "Celerina"
+    ],
+    "name:ces_x_preferred":[
+        "Celerina/Schlarigna"
     ],
     "name:cym_x_preferred":[
         "Celerina/Schlarigna"
@@ -57,6 +63,15 @@
     "name:fra_x_preferred":[
         "Celerina/Schlarigna"
     ],
+    "name:gle_x_preferred":[
+        "Celerina/Schlarigna"
+    ],
+    "name:gsw_x_preferred":[
+        "Celerina/Schlarigna"
+    ],
+    "name:hsb_x_preferred":[
+        "Celerina/Schlarigna"
+    ],
     "name:hun_x_preferred":[
         "Celerina/Schlarigna"
     ],
@@ -68,6 +83,12 @@
     ],
     "name:ita_x_variant":[
         "Celerina/Schlarigna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30a7\u30ec\u30ea\u30fc\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\uc140\ub808\ub9ac\ub098/\uc290\ub77c\ub9ac\ub0d0"
     ],
     "name:lat_x_preferred":[
         "Celarina"
@@ -114,6 +135,9 @@
     "name:swe_x_preferred":[
         "Celerina"
     ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u043b\u0435\u0440\u0456\u043d\u0430/\u0428\u043b\u0430\u0440\u0456\u043d\u044c\u044f"
+    ],
     "name:uzb_x_preferred":[
         "Celerina"
     ],
@@ -145,10 +169,10 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633051,
-        102062857,
         404568437,
+        85633051,
         1125993943,
+        102062857,
         85682255
     ],
     "wof:breaches":[],
@@ -172,7 +196,7 @@
         }
     ],
     "wof:id":1394395921,
-    "wof:lastmodified":1598918078,
+    "wof:lastmodified":1690866033,
     "wof:name":"Celerina",
     "wof:parent_id":1125993943,
     "wof:placetype":"neighbourhood",

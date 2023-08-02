@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Perroy"
+    ],
     "name:cat_x_preferred":[
         "Perroy"
     ],
@@ -53,10 +56,16 @@
     "name:fra_x_preferred":[
         "Perroy"
     ],
+    "name:gle_x_preferred":[
+        "Perroy"
+    ],
     "name:gsw_x_preferred":[
         "Perroy VD"
     ],
     "name:gsw_x_variant":[
+        "Perroy"
+    ],
+    "name:hsb_x_preferred":[
         "Perroy"
     ],
     "name:hun_x_preferred":[
@@ -80,6 +89,9 @@
     "name:oci_x_preferred":[
         "Perroy"
     ],
+    "name:por_x_preferred":[
+        "Perroy"
+    ],
     "name:roh_x_preferred":[
         "Perroy"
     ],
@@ -88,6 +100,9 @@
     ],
     "name:swe_x_preferred":[
         "Perroy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u0443\u0430"
     ],
     "name:vec_x_preferred":[
         "Perroy"
@@ -103,6 +118,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4f69\u7f57\u74e6"
+    ],
+    "name:zho_x_variant":[
+        "\u4f69\u9c81\u74e6"
     ],
     "nav:latitude":46.46821,
     "nav:longitude":6.36622,
@@ -139,11 +157,11 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682325,
         102191581,
-        85633051,
-        102063021,
         404572163,
-        85682325
+        85633051,
+        102063021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -172,7 +190,7 @@
         }
     ],
     "wof:id":1125944999,
-    "wof:lastmodified":1622665091,
+    "wof:lastmodified":1690866202,
     "wof:name":"Perroy",
     "wof:parent_id":404572163,
     "wof:placetype":"locality",

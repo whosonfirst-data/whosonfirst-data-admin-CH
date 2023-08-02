@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Ormalingen"
+    ],
     "name:cat_x_preferred":[
         "Ormalingen"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Ormalingen"
     ],
+    "name:gle_x_preferred":[
+        "Ormalingen"
+    ],
     "name:gsw_x_preferred":[
         "Ormalinge"
+    ],
+    "name:hsb_x_preferred":[
+        "Ormalingen"
     ],
     "name:hun_x_preferred":[
         "Ormalingen"
@@ -77,7 +86,16 @@
     "name:nno_x_preferred":[
         "Ormalingen"
     ],
+    "name:nob_x_preferred":[
+        "Ormalingen"
+    ],
     "name:oci_x_preferred":[
+        "Ormalingen"
+    ],
+    "name:pol_x_preferred":[
+        "Ormalingen"
+    ],
+    "name:por_x_preferred":[
         "Ormalingen"
     ],
     "name:rus_x_preferred":[
@@ -91,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Ormalingen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u043c\u0430\u043b\u0456\u043d\u0433\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "Ormalingen"
@@ -142,11 +163,11 @@
     "woe:name_adm1":"Kanton Basel-Land",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682361,
         102191581,
-        85633051,
-        102062819,
         404570605,
-        85682361
+        85633051,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +196,7 @@
         }
     ],
     "wof:id":1126015637,
-    "wof:lastmodified":1598921663,
+    "wof:lastmodified":1690866556,
     "wof:name":"Ormalingen",
     "wof:parent_id":404570605,
     "wof:placetype":"locality",

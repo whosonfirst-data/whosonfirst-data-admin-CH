@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "M\u00f6rel"
     ],
+    "name:gle_x_preferred":[
+        "M\u00f6rel"
+    ],
+    "name:hsb_x_preferred":[
+        "M\u00f6rel"
+    ],
     "name:ita_x_preferred":[
         "M\u00f6rel"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9ed8\u96f7\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u9ed8\u52d2\u5c14"
     ],
     "nav:latitude":46.35499,
     "nav:longitude":8.04332,
@@ -104,11 +113,11 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682281,
         102191581,
-        85633051,
-        102063037,
         404570141,
-        85682281
+        85633051,
+        102063037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,7 +143,7 @@
         }
     ],
     "wof:id":1125771083,
-    "wof:lastmodified":1598921916,
+    "wof:lastmodified":1690866673,
     "wof:name":"M\u00f6rel",
     "wof:parent_id":404570141,
     "wof:placetype":"locality",

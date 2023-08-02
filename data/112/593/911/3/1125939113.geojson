@@ -26,6 +26,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0646\u0646\u064a\u0631\u062a\u0643\u064a\u0631\u062e\u064a\u0646"
     ],
+    "name:bre_x_preferred":[
+        "Innertkirchen"
+    ],
     "name:cat_x_preferred":[
         "Innertkirchen"
     ],
@@ -56,8 +59,14 @@
     "name:fra_x_preferred":[
         "Innertkirchen"
     ],
+    "name:gle_x_preferred":[
+        "Innertkirchen"
+    ],
     "name:gsw_x_preferred":[
         "Innerkirchen"
+    ],
+    "name:hsb_x_preferred":[
+        "Innertkirchen"
     ],
     "name:hun_x_preferred":[
         "Innertkirchen"
@@ -67,6 +76,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0418\u043d\u043d\u0435\u0440\u0442\u043a\u0438\u0440\u0445\u0435\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\uc778\ub108\ud2b8\ud0a4\ub974\ud5e8"
     ],
     "name:lmo_x_preferred":[
         "Innertkirchen"
@@ -78,6 +90,9 @@
         "Innertkirchen"
     ],
     "name:nno_x_preferred":[
+        "Innertkirchen"
+    ],
+    "name:nob_x_preferred":[
         "Innertkirchen"
     ],
     "name:oci_x_preferred":[
@@ -109,6 +124,9 @@
     ],
     "name:swe_x_preferred":[
         "Innertkirchen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043d\u043d\u0435\u0440\u0442\u043a\u0456\u0440\u0445\u0435\u043d"
     ],
     "name:vec_x_preferred":[
         "Innertkirchen"
@@ -159,11 +177,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062759,
         404567713,
-        85682381
+        85633051,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -189,7 +207,7 @@
         }
     ],
     "wof:id":1125939113,
-    "wof:lastmodified":1598920801,
+    "wof:lastmodified":1690866227,
     "wof:name":"Innertkirchen",
     "wof:parent_id":404567713,
     "wof:placetype":"locality",

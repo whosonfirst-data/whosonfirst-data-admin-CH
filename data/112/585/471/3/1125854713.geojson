@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Bauen"
+    ],
     "name:cat_x_preferred":[
         "Bauen"
     ],
@@ -53,11 +56,17 @@
     "name:fra_x_preferred":[
         "Bauen"
     ],
+    "name:gle_x_preferred":[
+        "Bauen"
+    ],
     "name:gsw_x_preferred":[
         "Bauen UR"
     ],
     "name:gsw_x_variant":[
         "Baaue"
+    ],
+    "name:hsb_x_preferred":[
+        "Bauen"
     ],
     "name:hun_x_preferred":[
         "Bauen"
@@ -67,6 +76,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u0443\u044d\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc6b0\uc5d4"
     ],
     "name:lmo_x_preferred":[
         "Bauen"
@@ -81,6 +93,9 @@
         "Bauen"
     ],
     "name:nno_x_preferred":[
+        "Bauen"
+    ],
+    "name:nob_x_preferred":[
         "Bauen"
     ],
     "name:oci_x_preferred":[
@@ -157,11 +172,11 @@
     "woe:name_adm1":"Kanton Uri",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682377,
         102191581,
-        85633051,
-        102062879,
         404328523,
-        85682377
+        85633051,
+        102062879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -190,7 +205,7 @@
         }
     ],
     "wof:id":1125854713,
-    "wof:lastmodified":1598921795,
+    "wof:lastmodified":1690866614,
     "wof:name":"Bauen",
     "wof:parent_id":404328523,
     "wof:placetype":"locality",

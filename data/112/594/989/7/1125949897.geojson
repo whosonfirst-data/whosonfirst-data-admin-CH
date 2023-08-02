@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Fulenbach"
+    ],
     "name:cat_x_preferred":[
         "Fulenbach"
     ],
@@ -47,8 +50,14 @@
     "name:fra_x_preferred":[
         "Fulenbach"
     ],
+    "name:gle_x_preferred":[
+        "Fulenbach"
+    ],
     "name:gsw_x_preferred":[
         "Fulebach"
+    ],
+    "name:hsb_x_preferred":[
+        "Fulenbach"
     ],
     "name:hun_x_preferred":[
         "Fulenbach"
@@ -71,10 +80,16 @@
     "name:nno_x_preferred":[
         "Fulenbach"
     ],
+    "name:nob_x_preferred":[
+        "Fulenbach"
+    ],
     "name:oci_x_preferred":[
         "Fulenbach"
     ],
     "name:pms_x_preferred":[
+        "Fulenbach"
+    ],
+    "name:pol_x_preferred":[
         "Fulenbach"
     ],
     "name:por_x_preferred":[
@@ -91,6 +106,9 @@
     ],
     "name:swe_x_preferred":[
         "Fulenbach"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0443\u043b\u0435\u043d\u0431\u0430\u0445"
     ],
     "name:uzb_x_preferred":[
         "Fulenbach"
@@ -136,11 +154,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682365,
         102191581,
-        85633051,
-        1394137091,
         404328719,
-        85682365
+        85633051,
+        1394137091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,7 +191,7 @@
         }
     ],
     "wof:id":1125949897,
-    "wof:lastmodified":1598920772,
+    "wof:lastmodified":1690866212,
     "wof:name":"Fulenbach",
     "wof:parent_id":404328719,
     "wof:placetype":"locality",

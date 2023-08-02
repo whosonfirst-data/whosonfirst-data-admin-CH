@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Kleinl\u00fctzel"
+    ],
     "name:cat_x_preferred":[
         "Kleinl\u00fctzel"
     ],
@@ -50,8 +53,17 @@
     "name:fra_x_preferred":[
         "Kleinl\u00fctzel"
     ],
+    "name:gle_x_preferred":[
+        "Kleinl\u00fctzel"
+    ],
     "name:gsw_x_preferred":[
         "Chl\u00e4il\u00fctzel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05d9\u05d9\u05e0\u05dc\u05d9\u05e6\u05dc"
+    ],
+    "name:hsb_x_preferred":[
+        "Kleinl\u00fctzel"
     ],
     "name:hun_x_preferred":[
         "Kleinl\u00fctzel"
@@ -74,7 +86,16 @@
     "name:nno_x_preferred":[
         "Kleinl\u00fctzel"
     ],
+    "name:nob_x_preferred":[
+        "Kleinl\u00fctzel"
+    ],
     "name:oci_x_preferred":[
+        "Kleinl\u00fctzel"
+    ],
+    "name:pol_x_preferred":[
+        "Kleinl\u00fctzel"
+    ],
+    "name:por_x_preferred":[
         "Kleinl\u00fctzel"
     ],
     "name:roh_x_preferred":[
@@ -91,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "Kleinl\u00fctzel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u044f\u0439\u043d\u043b\u044e\u0442\u0446\u0435\u043b\u044c"
     ],
     "name:uzb_x_preferred":[
         "Kleinl\u00fctzel"
@@ -142,11 +166,11 @@
     "woe:name_adm1":"Kanton Solothurn",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682365,
         102191581,
-        85633051,
-        1394137121,
         404328311,
-        85682365
+        85633051,
+        1394137121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +199,7 @@
         }
     ],
     "wof:id":1125970923,
-    "wof:lastmodified":1598921279,
+    "wof:lastmodified":1690866462,
     "wof:name":"Kleinl\u00fctzel",
     "wof:parent_id":404328311,
     "wof:placetype":"locality",

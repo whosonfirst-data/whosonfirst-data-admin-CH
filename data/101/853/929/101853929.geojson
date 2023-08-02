@@ -20,6 +20,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0631\u0648\u0645\u0648\u0646\u062a"
+    ],
+    "name:bre_x_preferred":[
+        "Romont"
+    ],
     "name:cat_x_preferred":[
         "Romont"
     ],
@@ -59,6 +65,12 @@
     "name:fra_x_preferred":[
         "Romont"
     ],
+    "name:frp_x_preferred":[
+        "Remont"
+    ],
+    "name:gle_x_preferred":[
+        "Romont"
+    ],
     "name:gsw_x_preferred":[
         "Romont FR"
     ],
@@ -68,6 +80,9 @@
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05de\u05d5"
     ],
+    "name:hsb_x_preferred":[
+        "Romont"
+    ],
     "name:hun_x_preferred":[
         "Romont"
     ],
@@ -76,6 +91,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ed\u30e2\u30f3\u30c8"
+    ],
+    "name:kur_x_preferred":[
+        "Romont"
     ],
     "name:lat_x_preferred":[
         "Rotundus Mons"
@@ -103,6 +121,9 @@
     ],
     "name:nno_x_preferred":[
         "Romont i Fribourg"
+    ],
+    "name:nob_x_preferred":[
+        "Romont"
     ],
     "name:oci_x_preferred":[
         "Romont"
@@ -165,11 +186,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682301,
         102191581,
-        85633051,
-        102062867,
         404569615,
-        85682301
+        85633051,
+        102062867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -200,7 +221,7 @@
         }
     ],
     "wof:id":101853929,
-    "wof:lastmodified":1598919025,
+    "wof:lastmodified":1690866124,
     "wof:name":"Romont",
     "wof:parent_id":404569615,
     "wof:placetype":"locality",

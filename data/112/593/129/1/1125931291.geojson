@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Elfingen"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u043b\u0444\u0438\u043d\u0433\u0435\u043d"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Elfingen"
     ],
+    "name:gle_x_preferred":[
+        "Elfingen"
+    ],
     "name:gsw_x_preferred":[
         "Elfige"
+    ],
+    "name:hsb_x_preferred":[
+        "Elfingen"
     ],
     "name:hun_x_preferred":[
         "Elfingen"
@@ -77,10 +86,16 @@
     "name:nno_x_preferred":[
         "Elfingen"
     ],
+    "name:nob_x_preferred":[
+        "Elfingen"
+    ],
     "name:oci_x_preferred":[
         "Elfingen"
     ],
     "name:pol_x_preferred":[
+        "Elfingen"
+    ],
+    "name:por_x_preferred":[
         "Elfingen"
     ],
     "name:rus_x_preferred":[
@@ -143,11 +158,11 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062993,
         404571597,
-        85682329
+        85633051,
+        102062993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -176,7 +191,7 @@
         }
     ],
     "wof:id":1125931291,
-    "wof:lastmodified":1598920786,
+    "wof:lastmodified":1690866219,
     "wof:name":"Elfingen",
     "wof:parent_id":404571597,
     "wof:placetype":"locality",

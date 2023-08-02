@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0633\u064a\u0646\u062a\u064a\u0633"
     ],
+    "name:bre_x_preferred":[
+        "Disentis/Must\u00e9r"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0438\u0441\u0435\u043d\u0442\u0438\u0441"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:ceb_x_preferred":[
         "Disentis"
+    ],
+    "name:ces_x_preferred":[
+        "Disentis/Must\u00e9r"
     ],
     "name:cym_x_preferred":[
         "Disentis/Must\u00e9r"
@@ -59,17 +65,29 @@
     "name:eus_x_preferred":[
         "Disentis/Must\u00e9r"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0633\u0646\u062a\u06cc\u0632"
+    ],
     "name:fin_x_preferred":[
         "Disentis/Must\u00e9r"
     ],
     "name:fra_x_preferred":[
         "Disentis/Must\u00e9r"
     ],
+    "name:gle_x_preferred":[
+        "Disentis/Must\u00e9r"
+    ],
     "name:gsw_x_preferred":[
         "Disentis"
     ],
+    "name:hsb_x_preferred":[
+        "Disentis/Must\u00e9r"
+    ],
     "name:hun_x_preferred":[
         "Disentis/Must\u00e9r"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u056b\u057d\u0565\u0576\u057f\u056b\u057d"
     ],
     "name:ind_x_preferred":[
         "Disentis/Must\u00e9r"
@@ -89,11 +107,20 @@
     "name:kaz_x_preferred":[
         "\u0414\u0438\u0441\u0435\u043d\u0442\u0438\u0441"
     ],
+    "name:kor_x_preferred":[
+        "\ub514\uc820\ud2f0\uc2a4"
+    ],
     "name:lat_x_preferred":[
         "Desertina"
     ],
+    "name:lld_x_preferred":[
+        "Must\u00e9r"
+    ],
     "name:lmo_x_preferred":[
         "Disentis/Must\u00e9r"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0438\u0441\u0435\u043d\u0442\u0438\u0441/\u041c\u0438\u0441\u0442\u0435\u0440"
     ],
     "name:msa_x_preferred":[
         "Disentis/Must\u00e9r"
@@ -140,6 +167,9 @@
     "name:swe_x_preferred":[
         "Disentis/Must\u00e9r"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456\u0437\u0435\u043d\u0442\u0456\u0441/\u041c\u0443\u0448\u0442\u0435\u0440"
+    ],
     "name:uzb_x_preferred":[
         "Disentis/Must\u00e9r"
     ],
@@ -180,11 +210,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682255,
         102191581,
-        85633051,
-        102062773,
         404567815,
-        85682255
+        85633051,
+        102062773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -215,7 +245,7 @@
         }
     ],
     "wof:id":101853969,
-    "wof:lastmodified":1598919011,
+    "wof:lastmodified":1690866115,
     "wof:name":"Disentis/Must\u00e9r",
     "wof:parent_id":404567815,
     "wof:placetype":"locality",

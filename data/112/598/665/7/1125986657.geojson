@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Morlon"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u0440\u043b\u043e\u043d"
     ],
@@ -50,7 +53,13 @@
     "name:fra_x_preferred":[
         "Morlon"
     ],
+    "name:gle_x_preferred":[
+        "Morlon"
+    ],
     "name:gsw_x_preferred":[
+        "Morlon"
+    ],
+    "name:hsb_x_preferred":[
         "Morlon"
     ],
     "name:hun_x_preferred":[
@@ -74,10 +83,16 @@
     "name:nno_x_preferred":[
         "Morlon"
     ],
+    "name:nob_x_preferred":[
+        "Morlon"
+    ],
     "name:oci_x_preferred":[
         "Morlon"
     ],
     "name:pms_x_preferred":[
+        "Morlon"
+    ],
+    "name:pol_x_preferred":[
         "Morlon"
     ],
     "name:por_x_preferred":[
@@ -94,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Morlon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u043b\u043e\u043d"
     ],
     "name:vec_x_preferred":[
         "Morlon"
@@ -141,11 +159,11 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682301,
         102191581,
-        85633051,
-        102062999,
         404571593,
-        85682301
+        85633051,
+        102062999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -174,7 +192,7 @@
         }
     ],
     "wof:id":1125986657,
-    "wof:lastmodified":1598921404,
+    "wof:lastmodified":1690866530,
     "wof:name":"Morlon",
     "wof:parent_id":404571593,
     "wof:placetype":"locality",

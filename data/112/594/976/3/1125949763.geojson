@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "R\u00fcti bei Lyssach"
+    ],
     "name:cat_x_preferred":[
         "R\u00fcti bei Lyssach"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "R\u00fcti bei Lyssach"
     ],
+    "name:gle_x_preferred":[
+        "R\u00fcti bei Lyssach"
+    ],
     "name:gsw_x_preferred":[
         "R\u00fcti"
+    ],
+    "name:hsb_x_preferred":[
+        "R\u00fcti bei Lyssach"
     ],
     "name:hun_x_preferred":[
         "R\u00fcti bei Lyssach"
@@ -77,7 +86,16 @@
     "name:nno_x_preferred":[
         "R\u00fcti bei Lyssach"
     ],
+    "name:nob_x_preferred":[
+        "R\u00fcti bei Lyssach"
+    ],
     "name:oci_x_preferred":[
+        "R\u00fcti bei Lyssach"
+    ],
+    "name:pol_x_preferred":[
+        "R\u00fcti bei Lyssach"
+    ],
+    "name:por_x_preferred":[
         "R\u00fcti bei Lyssach"
     ],
     "name:rus_x_preferred":[
@@ -91,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "R\u00fcti bei Lyssach"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u044e\u0442\u0456-\u0431\u0430\u0439-\u041b\u0456\u0441\u0441\u0430\u0445"
     ],
     "name:vec_x_preferred":[
         "R\u00fcti bei Lyssach"
@@ -138,11 +159,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062837,
         404573383,
-        85682381
+        85633051,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -171,7 +192,7 @@
         }
     ],
     "wof:id":1125949763,
-    "wof:lastmodified":1598920757,
+    "wof:lastmodified":1690866205,
     "wof:name":"R\u00fcti b. Lyssach",
     "wof:parent_id":404573383,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "mz:is_current":1,
     "mz:max_zoom":9.0,
     "mz:min_zoom":4.0,
+    "name:abk_x_preferred":[
+        "\u0428\u0432\u0435\u0438\u0446\u0430\u0440\u0438\u0430"
+    ],
     "name:ace_x_preferred":[
         "Swiss"
     ],
@@ -57,11 +60,17 @@
     "name:amh_x_preferred":[
         "\u1235\u12ca\u12d8\u122d\u120b\u1295\u12f5"
     ],
+    "name:ami_x_preferred":[
+        "Switzerland"
+    ],
     "name:ang_x_preferred":[
         "Swissland"
     ],
     "name:ang_x_variant":[
         "S\u01bfissland"
+    ],
+    "name:anp_x_preferred":[
+        "\u0938\u094d\u0935\u093f\u091f\u094d\u091c\u0930\u0932\u0948\u0902\u0921"
     ],
     "name:ara_x_preferred":[
         "\u0633\u0648\u064a\u0633\u0631\u0627"
@@ -141,6 +150,9 @@
     "name:bis_x_preferred":[
         "Switzerland"
     ],
+    "name:blk_x_preferred":[
+        "\u101e\u103d\u102d\u101e\u102c\u101c\u1014\u103a\u1001\u1019\u103a\u1038\u1011\u102e"
+    ],
     "name:bod_x_preferred":[
         "\u0f66\u0f74\u0f51\u0f0b\u0f66\u0f72\u0f0d"
     ],
@@ -208,7 +220,8 @@
         "\u0633\u0648\u06cc\u0633"
     ],
     "name:ckb_x_variant":[
-        "\u0633\u0648\u06cc\u0633\u0631\u0627"
+        "\u0633\u0648\u06cc\u0633\u0631\u0627",
+        "\u0633\u0648\u06cc\u0633\u0695\u0627"
     ],
     "name:cor_x_preferred":[
         "Swistir"
@@ -227,6 +240,9 @@
     ],
     "name:cym_x_preferred":[
         "Y Swistir"
+    ],
+    "name:dag_x_preferred":[
+        "Switzerland"
     ],
     "name:dan_x_preferred":[
         "Schweiz"
@@ -372,6 +388,9 @@
     "name:glg_x_preferred":[
         "Su\u00edza"
     ],
+    "name:glk_x_preferred":[
+        "\u0633\u06ca\u0626\u064a\u0633"
+    ],
     "name:glv_x_preferred":[
         "Yn Elveeish"
     ],
@@ -380,6 +399,12 @@
     ],
     "name:got_x_preferred":[
         "\ud800\udf37\ud800\udf30\ud800\udf39\ud800\udf3b\ud800\udf45\ud800\udf30\ud800\udf39\ud800\udf44\ud800\udf3e\ud800\udf30"
+    ],
+    "name:gpe_x_preferred":[
+        "Switzerland"
+    ],
+    "name:grc_x_preferred":[
+        "\u1f19\u03bb\u03bf\u03c5\u03b7\u03c4\u03c4\u03af\u03b1"
     ],
     "name:grn_x_preferred":[
         "Suisa"
@@ -494,6 +519,9 @@
     "name:jav_x_preferred":[
         "Swiss"
     ],
+    "name:jav_x_variant":[
+        "Switserlan"
+    ],
     "name:jbo_x_preferred":[
         "elvetias"
     ],
@@ -518,6 +546,9 @@
     "name:kan_x_variant":[
         "\u0cb8\u0ccd\u0cb5\u0cbf\u0ca1\u0ccd\u0c9c\u0cb0\u0ccd\u200c\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd"
     ],
+    "name:kas_x_preferred":[
+        "\u0633\u064f\u0648\u06cc\u0632\u0631\u0644\u06cc\u0646\u0688"
+    ],
     "name:kat_x_preferred":[
         "\u10e8\u10d5\u10d4\u10d8\u10ea\u10d0\u10e0\u10d8\u10d0"
     ],
@@ -533,6 +564,9 @@
     "name:kbp_x_preferred":[
         "Suwiisi"
     ],
+    "name:kcg_x_preferred":[
+        "Shwit"
+    ],
     "name:kea_x_preferred":[
         "Su\u00edsa"
     ],
@@ -541,6 +575,9 @@
     ],
     "name:kik_x_preferred":[
         "Uswisi"
+    ],
+    "name:kik_x_variant":[
+        "Swissland"
     ],
     "name:kin_x_preferred":[
         "Ubusuwisi"
@@ -603,7 +640,8 @@
         "Svissea"
     ],
     "name:lij_x_variant":[
-        "Sviss\u00eba"
+        "Sviss\u00eba",
+        "Sv\u00ecssea"
     ],
     "name:lim_x_preferred":[
         "Zwitserland"
@@ -644,6 +682,9 @@
     "name:lzh_x_preferred":[
         "\u745e\u58eb"
     ],
+    "name:mad_x_preferred":[
+        "Swiss"
+    ],
     "name:mai_x_preferred":[
         "\u0938\u094d\u0935\u0940\u091f\u094d\u091c\u0930\u0932\u094d\u092f\u093e\u0923\u094d\u0921"
     ],
@@ -659,8 +700,14 @@
     "name:mdf_x_preferred":[
         "\u0428\u0432\u0430\u0439\u0446\u0430\u0440\u0438\u0435"
     ],
+    "name:mdf_x_variant":[
+        "\u0428\u0432\u0430\u0439\u0446\u0430\u0440\u0438\u044f"
+    ],
     "name:mhr_x_preferred":[
         "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0439"
+    ],
+    "name:min_x_preferred":[
+        "Swiss"
     ],
     "name:mkd_x_preferred":[
         "\u0428\u0432\u0430\u0458\u0446\u0430\u0440\u0438\u0458\u0430"
@@ -674,8 +721,14 @@
     "name:mlt_x_variant":[
         "Svizzera"
     ],
+    "name:mni_x_preferred":[
+        "\uabc1\uabed\uabcb\uabe4\uabe0\uabd3\uabd4\uabc2\uabe6\uabdf"
+    ],
     "name:mon_x_preferred":[
         "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438"
+    ],
+    "name:mos_x_preferred":[
+        "Switzerland"
     ],
     "name:mri_x_preferred":[
         "Huiterangi"
@@ -851,6 +904,9 @@
     "name:run_x_preferred":[
         "Ubusuwisi"
     ],
+    "name:run_x_variant":[
+        "Ubuswisi"
+    ],
     "name:rup_x_preferred":[
         "Shwaits\u00e3"
     ],
@@ -878,6 +934,9 @@
     "name:sgs_x_preferred":[
         "\u0160veicar\u0117j\u0117"
     ],
+    "name:shi_x_preferred":[
+        "Laswis"
+    ],
     "name:shn_x_preferred":[
         "\u1019\u102d\u1030\u1004\u103a\u1038\u101e\u101d\u102d\u1010\u103a\u1088\u1078\u1083\u1087\u101c\u1085\u107c\u103a\u1087"
     ],
@@ -898,6 +957,9 @@
     ],
     "name:smn_x_preferred":[
         "Sveitsi"
+    ],
+    "name:smn_x_variant":[
+        "Sveicci"
     ],
     "name:smo_x_preferred":[
         "Suitiselani"
@@ -993,6 +1055,9 @@
     "name:tgk_x_preferred":[
         "\u0428\u0432\u0435\u0439\u0442\u0441\u0430\u0440\u0438\u044f"
     ],
+    "name:tgk_x_variant":[
+        "\u0421\u0443\u0438\u0441"
+    ],
     "name:tgl_x_preferred":[
         "Suwisa"
     ],
@@ -1005,11 +1070,17 @@
     "name:tir_x_preferred":[
         "\u1235\u12ca\u12d8\u122d\u120b\u1295\u12f5"
     ],
+    "name:tok_x_preferred":[
+        "ma Suwasi"
+    ],
     "name:ton_x_preferred":[
         "Suisilani"
     ],
     "name:tpi_x_preferred":[
         "Suwisalan"
+    ],
+    "name:trv_x_preferred":[
+        "Switzerland"
     ],
     "name:tso_x_preferred":[
         "Switzerland"
@@ -1022,6 +1093,9 @@
     ],
     "name:tur_x_preferred":[
         "\u0130svi\u00e7re"
+    ],
+    "name:twi_x_preferred":[
+        "Switzerland"
     ],
     "name:tyv_x_preferred":[
         "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f"
@@ -1051,7 +1125,8 @@
         "Sv\u00eczera"
     ],
     "name:vec_x_variant":[
-        "Svisara"
+        "Svisara",
+        "Sv\u00ecsara"
     ],
     "name:vep_x_preferred":[
         "\u0160veicarii"
@@ -1319,7 +1394,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"501b88bf45846d22426b3698c0613f82",
+    "wof:geomhash":"6efe8f08bb3a6062b6abab24af54224a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1340,7 +1415,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1684351349,
+    "wof:lastmodified":1690865967,
     "wof:name":"Switzerland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "M\u00fclligen"
+    ],
     "name:cat_x_preferred":[
         "M\u00fclligen"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "M\u00fclligen"
     ],
+    "name:gle_x_preferred":[
+        "M\u00fclligen"
+    ],
     "name:gsw_x_preferred":[
         "M\u00fclige"
+    ],
+    "name:hsb_x_preferred":[
+        "M\u00fclligen"
     ],
     "name:hun_x_preferred":[
         "M\u00fclligen"
@@ -100,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "M\u00fclligen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u044e\u043b\u043b\u0456\u0433\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "M\u00fclligen"
@@ -151,11 +163,11 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062993,
         404572061,
-        85682329
+        85633051,
+        102062993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -184,7 +196,7 @@
         }
     ],
     "wof:id":1125808817,
-    "wof:lastmodified":1598921122,
+    "wof:lastmodified":1690866386,
     "wof:name":"M\u00fclligen",
     "wof:parent_id":404572061,
     "wof:placetype":"locality",

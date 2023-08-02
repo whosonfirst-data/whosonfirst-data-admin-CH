@@ -23,11 +23,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Klosters-Serneus"
+    ],
     "name:cat_x_preferred":[
         "Klosters-Serneus"
     ],
     "name:ceb_x_preferred":[
         "Klosters-Serneus"
+    ],
+    "name:ces_x_preferred":[
+        "Klosters"
     ],
     "name:cym_x_preferred":[
         "Klosters"
@@ -60,11 +66,23 @@
     "name:fra_x_preferred":[
         "Klosters-Serneus"
     ],
+    "name:fra_x_variant":[
+        "Klosters"
+    ],
+    "name:gle_x_preferred":[
+        "Klosters"
+    ],
     "name:gsw_x_preferred":[
         "Klosters-Serneus"
     ],
+    "name:gsw_x_variant":[
+        "Klosters"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05dc\u05d5\u05e1\u05d8\u05e8\u05e1"
+    ],
+    "name:hsb_x_preferred":[
+        "Klosters-Serneus"
     ],
     "name:hun_x_preferred":[
         "Klosters-Serneus"
@@ -81,6 +99,9 @@
     "name:kaz_x_preferred":[
         "\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u0441-\u0417\u0435\u0440\u043d\u043e\u0439\u0441"
     ],
+    "name:kor_x_preferred":[
+        "\ud074\ub85c\uc2a4\ud130\uc2a4"
+    ],
     "name:lmo_x_preferred":[
         "Klosters-Serneus"
     ],
@@ -91,6 +112,9 @@
         "Klosters-Serneus"
     ],
     "name:nno_x_preferred":[
+        "Klosters-Serneus"
+    ],
+    "name:nob_x_preferred":[
         "Klosters-Serneus"
     ],
     "name:oci_x_preferred":[
@@ -125,6 +149,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e04\u0e25\u0e2a\u0e40\u0e17\u0e2d\u0e23\u0e4c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u043e\u0441\u0442\u0435\u0440\u0441"
     ],
     "name:und_x_variant":[
         "D\u00f6rfli"
@@ -178,11 +205,11 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682255,
         102191581,
-        85633051,
-        102062803,
         1394254009,
-        85682255
+        85633051,
+        102062803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -208,7 +235,7 @@
         }
     ],
     "wof:id":1125909449,
-    "wof:lastmodified":1598921256,
+    "wof:lastmodified":1690866450,
     "wof:name":"Klosters Dorf",
     "wof:parent_id":1394254009,
     "wof:placetype":"locality",

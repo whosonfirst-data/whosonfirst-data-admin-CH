@@ -23,8 +23,14 @@
     "name:als_x_preferred":[
         "Visp"
     ],
+    "name:aze_x_preferred":[
+        "Fisp"
+    ],
     "name:bel_x_preferred":[
         "\u0424\u0456\u0441\u043f"
+    ],
+    "name:bre_x_preferred":[
+        "Visp"
     ],
     "name:cat_x_preferred":[
         "Visp"
@@ -59,11 +65,20 @@
     "name:fra_x_preferred":[
         "Vi\u00e8ge"
     ],
+    "name:frp_x_preferred":[
+        "Vi\u00e8ge"
+    ],
+    "name:gle_x_preferred":[
+        "Visp"
+    ],
     "name:gsw_x_preferred":[
         "Vischp"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05e1\u05e4"
+    ],
+    "name:hsb_x_preferred":[
+        "Visp"
     ],
     "name:hun_x_preferred":[
         "Visp"
@@ -79,6 +94,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud53c\uc2a4\ud504"
+    ],
+    "name:kur_x_preferred":[
+        "Visp"
     ],
     "name:lav_x_preferred":[
         "Fispa"
@@ -180,11 +198,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682281,
         102191581,
-        85633051,
-        102062859,
         404569115,
-        85682281
+        85633051,
+        102062859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -215,7 +233,7 @@
         }
     ],
     "wof:id":101874797,
-    "wof:lastmodified":1598918945,
+    "wof:lastmodified":1690866071,
     "wof:name":"Visp",
     "wof:parent_id":404569115,
     "wof:placetype":"locality",

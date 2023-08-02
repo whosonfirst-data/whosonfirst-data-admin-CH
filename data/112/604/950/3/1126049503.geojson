@@ -23,10 +23,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Quarten"
+    ],
     "name:cat_x_preferred":[
         "Quarten"
     ],
     "name:ceb_x_preferred":[
+        "Quarten"
+    ],
+    "name:ces_x_preferred":[
         "Quarten"
     ],
     "name:cym_x_preferred":[
@@ -47,11 +53,17 @@
     "name:fra_x_preferred":[
         "Quarten"
     ],
+    "name:gle_x_preferred":[
+        "Quarten"
+    ],
     "name:gsw_x_preferred":[
         "Quarten"
     ],
     "name:gsw_x_variant":[
         "Quarte"
+    ],
+    "name:hsb_x_preferred":[
+        "Quarten"
     ],
     "name:hun_x_preferred":[
         "Quarten"
@@ -83,6 +95,9 @@
     "name:nno_x_preferred":[
         "Quarten"
     ],
+    "name:nob_x_preferred":[
+        "Quarten"
+    ],
     "name:oci_x_preferred":[
         "Quarten"
     ],
@@ -100,6 +115,9 @@
     ],
     "name:swe_x_preferred":[
         "Quarten"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0432\u0430\u0440\u0442\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "Quarten"
@@ -138,11 +156,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682341,
         102191581,
-        85633051,
-        102062963,
         404567859,
-        85682341
+        85633051,
+        102062963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":1126049503,
-    "wof:lastmodified":1598920964,
+    "wof:lastmodified":1690866302,
     "wof:name":"Quarten",
     "wof:parent_id":404567859,
     "wof:placetype":"locality",

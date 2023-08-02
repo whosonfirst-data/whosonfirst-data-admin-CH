@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "L\u00f6hningen"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u044c\u043e\u043d\u0438\u043d\u0433\u0435\u043d"
     ],
@@ -53,11 +56,17 @@
     "name:fra_x_preferred":[
         "L\u00f6hningen"
     ],
+    "name:gle_x_preferred":[
+        "L\u00f6hningen"
+    ],
     "name:gsw_x_preferred":[
         "L\u00f6\u00f6ninge SH"
     ],
     "name:gsw_x_variant":[
         "L\u00f6\u00f6ninge"
+    ],
+    "name:hsb_x_preferred":[
+        "L\u00f6hningen"
     ],
     "name:hun_x_preferred":[
         "L\u00f6hningen"
@@ -77,10 +86,16 @@
     "name:nno_x_preferred":[
         "L\u00f6hningen"
     ],
+    "name:nob_x_preferred":[
+        "L\u00f6hningen"
+    ],
     "name:oci_x_preferred":[
         "L\u00f6hningen"
     ],
     "name:pms_x_preferred":[
+        "L\u00f6hningen"
+    ],
+    "name:pol_x_preferred":[
         "L\u00f6hningen"
     ],
     "name:por_x_preferred":[
@@ -97,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "L\u00f6hningen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043d\u0456\u043d\u0433\u0435\u043d"
     ],
     "name:vec_x_preferred":[
         "L\u00f6hningen"
@@ -140,11 +158,11 @@
     "woe:name_adm1":"Kanton Schaffhausen",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682285,
         102191581,
-        85633051,
-        1394137111,
         404328561,
-        85682285
+        85633051,
+        1394137111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,7 +191,7 @@
         }
     ],
     "wof:id":1125931483,
-    "wof:lastmodified":1598920804,
+    "wof:lastmodified":1690866229,
     "wof:name":"L\u00f6hningen",
     "wof:parent_id":404328561,
     "wof:placetype":"locality",

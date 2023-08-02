@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Sankt Stephan"
+    ],
     "name:cat_x_preferred":[
         "Sankt Stephan"
     ],
@@ -49,8 +52,17 @@
     "name:fra_x_preferred":[
         "Sankt Stephan"
     ],
+    "name:fra_x_variant":[
+        "St. Stephan"
+    ],
+    "name:gle_x_preferred":[
+        "St. Stephan"
+    ],
     "name:gsw_x_preferred":[
         "San St\u00e4ffe"
+    ],
+    "name:hsb_x_preferred":[
+        "St. Stephan"
     ],
     "name:hun_x_preferred":[
         "St. Stephan"
@@ -82,6 +94,9 @@
     "name:pms_x_preferred":[
         "Sankt Stephan"
     ],
+    "name:pol_x_preferred":[
+        "St. Stephan"
+    ],
     "name:por_x_preferred":[
         "Sankt Stephan"
     ],
@@ -97,6 +112,9 @@
     "name:swe_x_preferred":[
         "St. Stephan"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0428\u0442\u0435\u0444\u0430\u043d"
+    ],
     "name:vec_x_preferred":[
         "Sankt Stephan"
     ],
@@ -111,6 +129,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8056\u65af\u8482\u82ac"
+    ],
+    "name:zho_x_variant":[
+        "\u5723\u65af\u7279\u51e1"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -128,10 +149,10 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633051,
-        102062821,
         404567907,
+        85633051,
         1125851497,
+        102062821,
         85682381
     ],
     "wof:breaches":[],
@@ -155,7 +176,7 @@
         }
     ],
     "wof:id":1394395015,
-    "wof:lastmodified":1598918432,
+    "wof:lastmodified":1690866051,
     "wof:name":"Sankt Stephan",
     "wof:parent_id":1125851497,
     "wof:placetype":"neighbourhood",

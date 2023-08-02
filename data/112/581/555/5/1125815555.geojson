@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "B\u00f6ttstein"
+    ],
     "name:cat_x_preferred":[
         "B\u00f6ttstein"
     ],
@@ -47,8 +50,14 @@
     "name:fra_x_preferred":[
         "B\u00f6ttstein"
     ],
+    "name:gle_x_preferred":[
+        "B\u00f6ttstein"
+    ],
     "name:gsw_x_preferred":[
         "B\u00f6\u00f6tschde"
+    ],
+    "name:hsb_x_preferred":[
+        "B\u00f6ttstein"
     ],
     "name:hun_x_preferred":[
         "B\u00f6ttstein"
@@ -74,7 +83,16 @@
     "name:nno_x_preferred":[
         "B\u00f6ttstein"
     ],
+    "name:nob_x_preferred":[
+        "B\u00f6ttstein"
+    ],
     "name:oci_x_preferred":[
+        "B\u00f6ttstein"
+    ],
+    "name:pol_x_preferred":[
+        "B\u00f6ttstein"
+    ],
+    "name:por_x_preferred":[
         "B\u00f6ttstein"
     ],
     "name:roh_x_preferred":[
@@ -91,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "B\u00f6ttstein"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0442\u0442\u0448\u0442\u0430\u0439\u043d"
     ],
     "name:uzb_x_preferred":[
         "B\u00f6ttstein"
@@ -145,11 +166,11 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062841,
         404570467,
-        85682329
+        85633051,
+        102062841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +196,7 @@
         }
     ],
     "wof:id":1125815555,
-    "wof:lastmodified":1598921046,
+    "wof:lastmodified":1690866345,
     "wof:name":"B\u00f6ttstein",
     "wof:parent_id":404570467,
     "wof:placetype":"locality",

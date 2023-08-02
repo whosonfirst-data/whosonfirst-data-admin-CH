@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "W\u00fcrenlingen"
+    ],
     "name:cat_x_preferred":[
         "W\u00fcrenlingen"
     ],
@@ -47,8 +50,17 @@
     "name:fra_x_preferred":[
         "W\u00fcrenlingen"
     ],
+    "name:gle_x_preferred":[
+        "W\u00fcrenlingen"
+    ],
     "name:gsw_x_preferred":[
         "W\u00fcrlinge"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e8\u05e0\u05dc\u05d9\u05e0\u05d2\u05df"
+    ],
+    "name:hsb_x_preferred":[
+        "W\u00fcrenlingen"
     ],
     "name:hun_x_preferred":[
         "W\u00fcrenlingen"
@@ -77,6 +89,9 @@
     "name:nno_x_preferred":[
         "W\u00fcrenlingen"
     ],
+    "name:nob_x_preferred":[
+        "W\u00fcrenlingen"
+    ],
     "name:oci_x_preferred":[
         "W\u00fcrenlingen"
     ],
@@ -103,6 +118,9 @@
     ],
     "name:swe_x_preferred":[
         "W\u00fcrenlingen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u044e\u0440\u0435\u043d\u043b\u0456\u043d\u0433\u0435\u043d"
     ],
     "name:und_x_variant":[
         "W\u00fcrenling"
@@ -157,11 +175,11 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062843,
         404569929,
-        85682329
+        85633051,
+        102062843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -190,7 +208,7 @@
         }
     ],
     "wof:id":1125804261,
-    "wof:lastmodified":1598921144,
+    "wof:lastmodified":1690866397,
     "wof:name":"W\u00fcrenlingen",
     "wof:parent_id":404569929,
     "wof:placetype":"locality",

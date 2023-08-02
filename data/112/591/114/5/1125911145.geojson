@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Schwaderloch"
+    ],
     "name:cat_x_preferred":[
         "Schwaderloch"
     ],
@@ -47,7 +50,13 @@
     "name:fra_x_preferred":[
         "Schwaderloch"
     ],
+    "name:gle_x_preferred":[
+        "Schwaderloch"
+    ],
     "name:gsw_x_preferred":[
+        "Schwaderloch"
+    ],
+    "name:hsb_x_preferred":[
         "Schwaderloch"
     ],
     "name:hun_x_preferred":[
@@ -74,10 +83,16 @@
     "name:nno_x_preferred":[
         "Schwaderloch"
     ],
+    "name:nob_x_preferred":[
+        "Schwaderloch"
+    ],
     "name:oci_x_preferred":[
         "Schwaderloch"
     ],
     "name:pol_x_preferred":[
+        "Schwaderloch"
+    ],
+    "name:por_x_preferred":[
         "Schwaderloch"
     ],
     "name:rus_x_preferred":[
@@ -91,6 +106,9 @@
     ],
     "name:swe_x_preferred":[
         "Schwaderloch"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0432\u0430\u0434\u0435\u0440\u043b\u043e\u0445"
     ],
     "name:uzb_x_preferred":[
         "Schwaderloch"
@@ -140,11 +158,11 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062977,
         404572233,
-        85682329
+        85633051,
+        102062977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,7 +191,7 @@
         }
     ],
     "wof:id":1125911145,
-    "wof:lastmodified":1598921386,
+    "wof:lastmodified":1690866520,
     "wof:name":"Schwaderloch",
     "wof:parent_id":404572233,
     "wof:placetype":"locality",

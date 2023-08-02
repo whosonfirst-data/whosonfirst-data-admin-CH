@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Ersigen"
+    ],
     "name:cat_x_preferred":[
         "Ersigen"
     ],
@@ -53,8 +56,14 @@
     "name:fra_x_preferred":[
         "Ersigen"
     ],
+    "name:gle_x_preferred":[
+        "Ersigen"
+    ],
     "name:gsw_x_preferred":[
         "Eersige"
+    ],
+    "name:hsb_x_preferred":[
+        "Ersigen"
     ],
     "name:hun_x_preferred":[
         "Ersigen"
@@ -80,7 +89,16 @@
     "name:nno_x_preferred":[
         "Ersigen"
     ],
+    "name:nob_x_preferred":[
+        "Ersigen"
+    ],
     "name:oci_x_preferred":[
+        "Ersigen"
+    ],
+    "name:pol_x_preferred":[
+        "Ersigen"
+    ],
+    "name:por_x_preferred":[
         "Ersigen"
     ],
     "name:rus_x_preferred":[
@@ -94,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "Ersigen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0440\u0437\u0456\u0433\u0435\u043d"
     ],
     "name:vec_x_preferred":[
         "Ersigen"
@@ -143,11 +164,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062837,
         404570111,
-        85682381
+        85633051,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,7 +194,7 @@
         }
     ],
     "wof:id":1125964137,
-    "wof:lastmodified":1598921286,
+    "wof:lastmodified":1690866466,
     "wof:name":"Ersigen",
     "wof:parent_id":404570111,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Gunzgen"
+    ],
     "name:cat_x_preferred":[
         "Gunzgen"
     ],
@@ -47,8 +50,14 @@
     "name:fra_x_preferred":[
         "Gunzgen"
     ],
+    "name:gle_x_preferred":[
+        "Gunzgen"
+    ],
     "name:gsw_x_preferred":[
         "Gonzge"
+    ],
+    "name:hsb_x_preferred":[
+        "Gunzgen"
     ],
     "name:hun_x_preferred":[
         "Gunzgen"
@@ -71,10 +80,16 @@
     "name:nno_x_preferred":[
         "Gunzgen"
     ],
+    "name:nob_x_preferred":[
+        "Gunzgen"
+    ],
     "name:oci_x_preferred":[
         "Gunzgen"
     ],
     "name:pms_x_preferred":[
+        "Gunzgen"
+    ],
+    "name:pol_x_preferred":[
         "Gunzgen"
     ],
     "name:por_x_preferred":[
@@ -91,6 +106,9 @@
     ],
     "name:swe_x_preferred":[
         "Gunzgen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u043d\u0446\u0433\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "Gunzgen"
@@ -142,11 +160,11 @@
     "woe:name_adm1":"Kanton Solothurn",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682365,
         102191581,
-        85633051,
-        1394137091,
         404328757,
-        85682365
+        85633051,
+        1394137091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +193,7 @@
         }
     ],
     "wof:id":1125977135,
-    "wof:lastmodified":1598921272,
+    "wof:lastmodified":1690866458,
     "wof:name":"Gunzgen",
     "wof:parent_id":404328757,
     "wof:placetype":"locality",

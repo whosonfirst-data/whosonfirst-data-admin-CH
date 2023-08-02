@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Oberbuchsiten"
+    ],
     "name:cat_x_preferred":[
         "Oberbuchsiten"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Oberbuchsiten"
     ],
+    "name:gle_x_preferred":[
+        "Oberbuchsiten"
+    ],
     "name:gsw_x_preferred":[
         "Oberbuchste"
+    ],
+    "name:hsb_x_preferred":[
+        "Oberbuchsiten"
     ],
     "name:hun_x_preferred":[
         "Oberbuchsiten"
@@ -74,7 +83,13 @@
     "name:nno_x_preferred":[
         "Oberbuchsiten"
     ],
+    "name:nob_x_preferred":[
+        "Oberbuchsiten"
+    ],
     "name:oci_x_preferred":[
+        "Oberbuchsiten"
+    ],
+    "name:por_x_preferred":[
         "Oberbuchsiten"
     ],
     "name:roh_x_preferred":[
@@ -92,6 +107,9 @@
     "name:swe_x_preferred":[
         "Oberbuchsiten"
     ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u0435\u0440\u0431\u0443\u0445\u0441\u0456\u0442\u0435\u043d"
+    ],
     "name:uzb_x_preferred":[
         "Oberbuchsiten"
     ],
@@ -106,6 +124,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4e0a\u5e03\u8d6b\u932b\u8d6b"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u5e03\u8d6b\u897f\u6ed5"
     ],
     "nav:latitude":47.30508,
     "nav:longitude":7.75746,
@@ -140,11 +161,11 @@
     "woe:name_adm1":"Kanton Solothurn",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682365,
         102191581,
-        85633051,
-        1394137097,
         404328445,
-        85682365
+        85633051,
+        1394137097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,7 +194,7 @@
         }
     ],
     "wof:id":1126035643,
-    "wof:lastmodified":1598921000,
+    "wof:lastmodified":1690866322,
     "wof:name":"Oberbuchsiten",
     "wof:parent_id":404328445,
     "wof:placetype":"locality",

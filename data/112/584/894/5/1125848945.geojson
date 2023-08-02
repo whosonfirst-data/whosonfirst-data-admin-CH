@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Rechthalten"
+    ],
     "name:cat_x_preferred":[
         "Rechthalten"
     ],
@@ -47,8 +50,17 @@
     "name:fra_x_preferred":[
         "Rechthalten"
     ],
+    "name:frp_x_preferred":[
+        "Dr\u00eatlarr\u00e8t"
+    ],
+    "name:gle_x_preferred":[
+        "Rechthalten"
+    ],
     "name:gsw_x_preferred":[
         "R\u00e4chthaute"
+    ],
+    "name:hsb_x_preferred":[
+        "Rechthalten"
     ],
     "name:hun_x_preferred":[
         "Rechthalten"
@@ -71,10 +83,16 @@
     "name:nno_x_preferred":[
         "Rechthalten"
     ],
+    "name:nob_x_preferred":[
+        "Rechthalten"
+    ],
     "name:oci_x_preferred":[
         "Rechthalten"
     ],
     "name:pms_x_preferred":[
+        "Rechthalten"
+    ],
+    "name:pol_x_preferred":[
         "Rechthalten"
     ],
     "name:por_x_preferred":[
@@ -92,6 +110,9 @@
     "name:swe_x_preferred":[
         "Rechthalten"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0445\u0442\u0433\u0430\u043b\u044c\u0442\u0435\u043d"
+    ],
     "name:vec_x_preferred":[
         "Rechthalten"
     ],
@@ -103,6 +124,9 @@
     ],
     "name:zho_x_preferred":[
         "\u96f7\u8d6b\u5854\u723e\u6ed5"
+    ],
+    "name:zho_x_variant":[
+        "\u96f7\u5e0c\u7279\u54c8\u5c14\u6ed5"
     ],
     "nav:latitude":46.76766,
     "nav:longitude":7.24028,
@@ -137,11 +161,11 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682301,
         102191581,
-        85633051,
-        102062891,
         404570483,
-        85682301
+        85633051,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -167,7 +191,7 @@
         }
     ],
     "wof:id":1125848945,
-    "wof:lastmodified":1598921882,
+    "wof:lastmodified":1690866657,
     "wof:name":"Rechthalten",
     "wof:parent_id":404570483,
     "wof:placetype":"locality",

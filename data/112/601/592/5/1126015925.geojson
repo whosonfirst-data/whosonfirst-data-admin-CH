@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "B\u00e4rschwil"
+    ],
     "name:cat_x_preferred":[
         "B\u00e4rschwil"
     ],
@@ -47,8 +50,17 @@
     "name:fra_x_preferred":[
         "B\u00e4rschwil"
     ],
+    "name:gle_x_preferred":[
+        "B\u00e4rschwil"
+    ],
     "name:gsw_x_preferred":[
         "B\u00e4rschbel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05e9\u05d5\u05d5\u05d9\u05dc"
+    ],
+    "name:hsb_x_preferred":[
+        "B\u00e4rschwil"
     ],
     "name:hun_x_preferred":[
         "B\u00e4rschwil"
@@ -74,7 +86,16 @@
     "name:nno_x_preferred":[
         "B\u00e4rschwil"
     ],
+    "name:nob_x_preferred":[
+        "B\u00e4rschwil"
+    ],
     "name:oci_x_preferred":[
+        "B\u00e4rschwil"
+    ],
+    "name:pol_x_preferred":[
+        "B\u00e4rschwil"
+    ],
+    "name:por_x_preferred":[
         "B\u00e4rschwil"
     ],
     "name:roh_x_preferred":[
@@ -91,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "B\u00e4rschwil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0448\u0432\u0456\u043b\u044c"
     ],
     "name:und_x_variant":[
         "B\u00e4rschwil-Dorf"
@@ -143,11 +167,11 @@
     "woe:name_adm1":"Kanton Solothurn",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682365,
         102191581,
-        85633051,
-        1394137121,
         404328409,
-        85682365
+        85633051,
+        1394137121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -176,7 +200,7 @@
         }
     ],
     "wof:id":1126015925,
-    "wof:lastmodified":1598921639,
+    "wof:lastmodified":1690866543,
     "wof:name":"B\u00e4rschwil",
     "wof:parent_id":404328409,
     "wof:placetype":"locality",

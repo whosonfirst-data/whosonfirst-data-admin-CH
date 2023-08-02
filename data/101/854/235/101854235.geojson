@@ -29,6 +29,9 @@
     "name:ara_x_variant":[
         "\u062f\u0648\u0644\u064a\u0645\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0644\u064a\u0645\u0648"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u0644\u0645\u0648\u0646"
     ],
@@ -116,6 +119,9 @@
     "name:hrv_x_preferred":[
         "Del\u00e9mont"
     ],
+    "name:hsb_x_preferred":[
+        "Del\u00e9mont"
+    ],
     "name:hun_x_preferred":[
         "Del\u00e9mont"
     ],
@@ -133,6 +139,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub4e4\ub808\ubabd"
+    ],
+    "name:kur_x_preferred":[
+        "Del\u00e9mont"
     ],
     "name:lat_x_preferred":[
         "Delemons"
@@ -353,11 +362,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682347,
         102191581,
-        85633051,
-        102062791,
         404568529,
-        85682347
+        85633051,
+        102062791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -388,7 +397,7 @@
         }
     ],
     "wof:id":101854235,
-    "wof:lastmodified":1598919056,
+    "wof:lastmodified":1690866146,
     "wof:name":"Del\u00e9mont",
     "wof:parent_id":404568529,
     "wof:placetype":"locality",

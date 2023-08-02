@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Val-d'Illiez"
+    ],
     "name:cat_x_preferred":[
         "Val D'Illiez"
     ],
@@ -47,8 +50,17 @@
     "name:fra_x_preferred":[
         "Val-d'Illiez"
     ],
+    "name:frp_x_preferred":[
+        "V\u00e2l d\u2019Ely\u00e9z"
+    ],
+    "name:gle_x_preferred":[
+        "Val-d'Illiez"
+    ],
     "name:gsw_x_preferred":[
         "Val-d\u2019Illiez"
+    ],
+    "name:hsb_x_preferred":[
+        "Val-d'Illiez"
     ],
     "name:hun_x_preferred":[
         "Val-d'Illiez"
@@ -91,6 +103,9 @@
     ],
     "name:swe_x_preferred":[
         "Val-d'Illiez"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044c-\u0434'\u0406\u043b\u044c\u0454"
     ],
     "name:und_x_variant":[
         "Val-d'Iliez"
@@ -141,11 +156,11 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682281,
         102191581,
-        85633051,
-        102063065,
         404568133,
-        85682281
+        85633051,
+        102063065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -171,7 +186,7 @@
         }
     ],
     "wof:id":1125782809,
-    "wof:lastmodified":1598921836,
+    "wof:lastmodified":1690866637,
     "wof:name":"Val-d'Illiez",
     "wof:parent_id":404568133,
     "wof:placetype":"locality",

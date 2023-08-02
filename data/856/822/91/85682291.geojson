@@ -72,6 +72,9 @@
     "name:arg_x_preferred":[
         "Cant\u00f3n de Chinevra"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0646\u062a\u0648\u0646 \u0686\u064a\u0646\u064a\u06a4"
+    ],
     "name:ast_x_preferred":[
         "Cant\u00f3n de Xinebra"
     ],
@@ -88,7 +91,8 @@
         "\u041a\u0430\u043d\u0442\u043e\u043d \u0416\u044d\u043d\u0435\u0432\u0430"
     ],
     "name:bel_x_variant":[
-        "\u043a\u0430\u043d\u0442\u043e\u043d \u0416\u044d\u043d\u0435\u0432\u0430"
+        "\u043a\u0430\u043d\u0442\u043e\u043d \u0416\u044d\u043d\u0435\u0432\u0430",
+        "\u0416\u044d\u043d\u0435\u0432\u0430"
     ],
     "name:bos_x_preferred":[
         "\u017deneva"
@@ -139,6 +143,9 @@
     "name:epo_x_preferred":[
         "Kantono \u011cenevo"
     ],
+    "name:epo_x_variant":[
+        "\u011cenevo"
+    ],
     "name:est_x_preferred":[
         "Genfi kanton"
     ],
@@ -187,7 +194,8 @@
         "\u05d6\u05e0\u05d1\u05d4"
     ],
     "name:heb_x_variant":[
-        "\u05d6'\u05e0\u05d1\u05d4"
+        "\u05d6'\u05e0\u05d1\u05d4",
+        "\u05e7\u05e0\u05d8\u05d5\u05df \u05d6'\u05e0\u05d1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u091c\u0928\u0940\u0935\u093e \u0915\u0948\u0928\u094d\u091f\u0928"
@@ -238,6 +246,9 @@
     "name:kor_x_variant":[
         "\uc81c\ub124\ubc14\uc8fc"
     ],
+    "name:kur_x_preferred":[
+        "Cenevre"
+    ],
     "name:lat_x_preferred":[
         "Genava"
     ],
@@ -268,6 +279,9 @@
     "name:msa_x_variant":[
         "Kanton Geneva"
     ],
+    "name:mzn_x_preferred":[
+        "\u0698\u0646\u0648 \u06a9\u0627\u0646\u062a\u0648\u0646"
+    ],
     "name:nan_x_preferred":[
         "Gen\u00e8ve Chiu"
     ],
@@ -282,6 +296,9 @@
     ],
     "name:oci_x_preferred":[
         "Canton de Gen\u00e8va"
+    ],
+    "name:oss_x_preferred":[
+        "\u0416\u0435\u043d\u0435\u0432\u00e6"
     ],
     "name:pnb_x_preferred":[
         "\u062c\u06cc\u0646\u0648\u0627 \u06a9\u06cc\u0646\u0679\u0646"
@@ -331,6 +348,9 @@
     ],
     "name:spa_x_preferred":[
         "Cant\u00f3n de Ginebra"
+    ],
+    "name:spa_x_variant":[
+        "Ginebra"
     ],
     "name:sqi_x_preferred":[
         "Kantoni Gen\u00e8ve"
@@ -483,7 +503,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5174f7c493d07d661b9e1d7fa75d6fc4",
+    "wof:geomhash":"f5523aabbb62a6005c956e329e270654",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -505,7 +525,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1684351499,
+    "wof:lastmodified":1690865980,
     "wof:name":"Geneva",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

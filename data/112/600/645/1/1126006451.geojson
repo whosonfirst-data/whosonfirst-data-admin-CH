@@ -26,6 +26,9 @@
     "name:bel_x_preferred":[
         "\u042d\u0440\u043b\u0435\u043d\u0431\u0430\u0445"
     ],
+    "name:bre_x_preferred":[
+        "Erlenbach im Simmental"
+    ],
     "name:cat_x_preferred":[
         "Erlenbach im Simmental"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Erlenbach im Simmental"
     ],
+    "name:gle_x_preferred":[
+        "Erlenbach im Simmental"
+    ],
     "name:gsw_x_preferred":[
         "Eerlebach"
+    ],
+    "name:hsb_x_preferred":[
+        "Erlenbach im Simmental"
     ],
     "name:hun_x_preferred":[
         "Erlenbach im Simmental"
@@ -61,6 +70,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u042d\u0440\u043b\u0435\u043d\u0431\u0430\u0445"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\ub97c\ub80c\ubc14\ud750 \uc784 \uc9c0\uba58\ud0c8"
     ],
     "name:lmo_x_preferred":[
         "Erlenbach im Simmental"
@@ -74,10 +86,16 @@
     "name:nno_x_preferred":[
         "Erlenbach im Simmental"
     ],
+    "name:nob_x_preferred":[
+        "Erlenbach im Simmental"
+    ],
     "name:oci_x_preferred":[
         "Erlenbach im Simmental"
     ],
     "name:pms_x_preferred":[
+        "Erlenbach im Simmental"
+    ],
+    "name:pol_x_preferred":[
         "Erlenbach im Simmental"
     ],
     "name:por_x_preferred":[
@@ -100,6 +118,9 @@
     ],
     "name:swe_x_preferred":[
         "Erlenbach im Simmental"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0440\u043b\u0435\u043d\u0431\u0430\u0445-\u0456\u043c-\u0417\u0456\u043c\u043c\u0435\u043d\u0442\u0430\u043b\u044c"
     ],
     "name:vec_x_preferred":[
         "Erlenbach im Simmental"
@@ -151,11 +172,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062831,
         404568169,
-        85682381
+        85633051,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -181,7 +202,7 @@
         }
     ],
     "wof:id":1126006451,
-    "wof:lastmodified":1598921686,
+    "wof:lastmodified":1690866569,
     "wof:name":"Erlenbach im Simmental",
     "wof:parent_id":404568169,
     "wof:placetype":"locality",

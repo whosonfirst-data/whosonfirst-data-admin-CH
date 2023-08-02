@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "R\u00fcnenberg"
+    ],
     "name:cat_x_preferred":[
         "R\u00fcnenberg"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "R\u00fcnenberg"
     ],
+    "name:gle_x_preferred":[
+        "R\u00fcnenberg"
+    ],
     "name:gsw_x_preferred":[
         "R\u00fcnebrg"
+    ],
+    "name:hsb_x_preferred":[
+        "R\u00fcnenberg"
     ],
     "name:hun_x_preferred":[
         "R\u00fcnenberg"
@@ -77,7 +86,16 @@
     "name:nno_x_preferred":[
         "R\u00fcnenberg"
     ],
+    "name:nob_x_preferred":[
+        "R\u00fcnenberg"
+    ],
     "name:oci_x_preferred":[
+        "R\u00fcnenberg"
+    ],
+    "name:pol_x_preferred":[
+        "R\u00fcnenberg"
+    ],
+    "name:por_x_preferred":[
         "R\u00fcnenberg"
     ],
     "name:rus_x_preferred":[
@@ -91,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "R\u00fcnenberg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u044e\u043d\u0435\u043d\u0431\u0435\u0440\u0433"
     ],
     "name:uzb_x_preferred":[
         "R\u00fcnenberg"
@@ -142,11 +163,11 @@
     "woe:name_adm1":"Kanton Basel-Land",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682361,
         102191581,
-        85633051,
-        102062819,
         404571261,
-        85682361
+        85633051,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +196,7 @@
         }
     ],
     "wof:id":1125773709,
-    "wof:lastmodified":1598921907,
+    "wof:lastmodified":1690866668,
     "wof:name":"R\u00fcnenberg",
     "wof:parent_id":404571261,
     "wof:placetype":"locality",

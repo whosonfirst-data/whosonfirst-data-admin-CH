@@ -59,8 +59,14 @@
     "name:fra_x_preferred":[
         "B\u00f6nigen"
     ],
+    "name:gle_x_preferred":[
+        "B\u00f6nigen"
+    ],
     "name:gsw_x_preferred":[
         "B\u00f6nige"
+    ],
+    "name:hsb_x_preferred":[
+        "B\u00f6nigen"
     ],
     "name:hun_x_preferred":[
         "B\u00f6nigen"
@@ -70,6 +76,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0451\u043d\u0438\u0433\u0435\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd48\ub2c8\uac90"
     ],
     "name:lmo_x_preferred":[
         "B\u00f6nigen"
@@ -81,6 +90,9 @@
         "B\u00f6nigen"
     ],
     "name:nno_x_preferred":[
+        "B\u00f6nigen"
+    ],
+    "name:nob_x_preferred":[
         "B\u00f6nigen"
     ],
     "name:oci_x_preferred":[
@@ -109,6 +121,9 @@
     ],
     "name:swe_x_preferred":[
         "B\u00f6nigen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043d\u0456\u0433\u0435\u043d"
     ],
     "name:vec_x_preferred":[
         "B\u00f6nigen"
@@ -160,11 +175,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062759,
         404568867,
-        85682381
+        85633051,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -193,7 +208,7 @@
         }
     ],
     "wof:id":1125911657,
-    "wof:lastmodified":1598921351,
+    "wof:lastmodified":1690866500,
     "wof:name":"B\u00f6nigen b. Interlaken",
     "wof:parent_id":404568867,
     "wof:placetype":"locality",

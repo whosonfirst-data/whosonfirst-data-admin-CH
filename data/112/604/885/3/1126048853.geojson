@@ -26,6 +26,9 @@
     "name:als_x_preferred":[
         "Vich VD"
     ],
+    "name:bre_x_preferred":[
+        "Vich"
+    ],
     "name:cat_x_preferred":[
         "Vich"
     ],
@@ -59,10 +62,16 @@
     "name:fra_x_variant":[
         "Vich"
     ],
+    "name:gle_x_preferred":[
+        "Vich"
+    ],
     "name:gsw_x_preferred":[
         "Vich VD"
     ],
     "name:gsw_x_variant":[
+        "Vich"
+    ],
+    "name:hsb_x_preferred":[
         "Vich"
     ],
     "name:hun_x_preferred":[
@@ -89,6 +98,9 @@
     "name:oci_x_preferred":[
         "Vich"
     ],
+    "name:por_x_preferred":[
+        "Vich"
+    ],
     "name:roh_x_preferred":[
         "Vich"
     ],
@@ -97,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Vich"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0448"
     ],
     "name:vec_x_preferred":[
         "Vich"
@@ -147,11 +162,11 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682325,
         102191581,
-        85633051,
-        102063049,
         404573315,
-        85682325
+        85633051,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -180,7 +195,7 @@
         }
     ],
     "wof:id":1126048853,
-    "wof:lastmodified":1598920971,
+    "wof:lastmodified":1690866305,
     "wof:name":"Vich",
     "wof:parent_id":404573315,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Oltingen"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u043b\u0442\u0438\u043d\u0433\u0435\u043d"
     ],
@@ -53,11 +56,17 @@
     "name:fra_x_preferred":[
         "Oltingen"
     ],
+    "name:gle_x_preferred":[
+        "Oltingen"
+    ],
     "name:gsw_x_preferred":[
         "Oltige"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d8\u05dc\u05d9\u05e0\u05d2\u05df"
+    ],
+    "name:hsb_x_preferred":[
+        "Oltingen"
     ],
     "name:hun_x_preferred":[
         "Oltingen"
@@ -83,7 +92,16 @@
     "name:nno_x_preferred":[
         "Oltingen"
     ],
+    "name:nob_x_preferred":[
+        "Oltingen"
+    ],
     "name:oci_x_preferred":[
+        "Oltingen"
+    ],
+    "name:pol_x_preferred":[
+        "Oltingen"
+    ],
+    "name:por_x_preferred":[
         "Oltingen"
     ],
     "name:rus_x_preferred":[
@@ -97,6 +115,9 @@
     ],
     "name:swe_x_preferred":[
         "Oltingen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043b\u044c\u0442\u0456\u043d\u0433\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "Oltingen"
@@ -148,11 +169,11 @@
     "woe:name_adm1":"Kanton Basel-Land",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682361,
         102191581,
-        85633051,
-        102062819,
         404570519,
-        85682361
+        85633051,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -181,7 +202,7 @@
         }
     ],
     "wof:id":1125898059,
-    "wof:lastmodified":1598921095,
+    "wof:lastmodified":1690866371,
     "wof:name":"Oltingen",
     "wof:parent_id":404570519,
     "wof:placetype":"locality",

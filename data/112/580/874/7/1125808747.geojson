@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Saas-Almagell"
+    ],
     "name:cat_x_preferred":[
         "Saas Almagell"
     ],
@@ -53,7 +56,16 @@
     "name:fra_x_preferred":[
         "Saas-Almagell"
     ],
+    "name:frp_x_preferred":[
+        "Armenc\u00e9l-de-S\u00f4ssa"
+    ],
+    "name:gle_x_preferred":[
+        "Saas-Almagell"
+    ],
     "name:gsw_x_preferred":[
+        "Saas-Almagell"
+    ],
+    "name:hsb_x_preferred":[
         "Saas-Almagell"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +73,9 @@
     ],
     "name:ita_x_preferred":[
         "Saas-Almagell"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\uc2a4-\uc54c\ub9c8\uac94"
     ],
     "name:lmo_x_preferred":[
         "Saas-Almagell"
@@ -95,6 +110,9 @@
     "name:roh_x_preferred":[
         "Saas Almagell"
     ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0441-\u0410\u043b\u044c\u043c\u0430\u0433\u0435\u043b\u043b\u044c"
+    ],
     "name:slv_x_preferred":[
         "Saas-Almagell"
     ],
@@ -106,6 +124,9 @@
     ],
     "name:swe_x_preferred":[
         "Saas-Almagell"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0430\u0441-\u0410\u043b\u044c\u043c\u0430\u0433\u0435\u043b\u043b\u044c"
     ],
     "name:und_x_variant":[
         "Almagell"
@@ -156,11 +177,11 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682281,
         102191581,
-        85633051,
-        102062859,
         404567789,
-        85682281
+        85633051,
+        102062859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -189,7 +210,7 @@
         }
     ],
     "wof:id":1125808747,
-    "wof:lastmodified":1598921116,
+    "wof:lastmodified":1690866384,
     "wof:name":"Saas-Almagell",
     "wof:parent_id":404567789,
     "wof:placetype":"locality",
