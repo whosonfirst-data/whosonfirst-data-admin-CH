@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "D\u00e4rstetten"
+    ],
     "name:cat_x_preferred":[
         "D\u00e4rstetten"
     ],
@@ -47,8 +50,14 @@
     "name:fra_x_preferred":[
         "D\u00e4rstetten"
     ],
+    "name:gle_x_preferred":[
+        "D\u00e4rstetten"
+    ],
     "name:gsw_x_preferred":[
         "D\u00e4\u00e4rstette"
+    ],
+    "name:hsb_x_preferred":[
+        "D\u00e4rstetten"
     ],
     "name:hun_x_preferred":[
         "D\u00e4rstetten"
@@ -58,6 +67,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0414\u0435\u0440\u0448\u0442\u0435\u0442\u0442\u0435\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\ub370\uc5b4\uc288\ud14c\ud150"
     ],
     "name:lmo_x_preferred":[
         "D\u00e4rstetten"
@@ -71,10 +83,16 @@
     "name:nno_x_preferred":[
         "D\u00e4rstetten"
     ],
+    "name:nob_x_preferred":[
+        "D\u00e4rstetten"
+    ],
     "name:oci_x_preferred":[
         "D\u00e4rstetten"
     ],
     "name:pms_x_preferred":[
+        "D\u00e4rstetten"
+    ],
+    "name:pol_x_preferred":[
         "D\u00e4rstetten"
     ],
     "name:por_x_preferred":[
@@ -91,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "D\u00e4rstetten"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0440\u0448\u0442\u0435\u0442\u0442\u0435\u043d"
     ],
     "name:vec_x_preferred":[
         "D\u00e4rstetten"
@@ -142,11 +163,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062831,
         404568215,
-        85682381
+        85633051,
+        102062831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -172,7 +193,7 @@
         }
     ],
     "wof:id":1126043913,
-    "wof:lastmodified":1598920945,
+    "wof:lastmodified":1690866291,
     "wof:name":"D\u00e4rstetten",
     "wof:parent_id":404568215,
     "wof:placetype":"locality",

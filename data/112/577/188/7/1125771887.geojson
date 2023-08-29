@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Bellach"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0430\u0447"
     ],
@@ -50,17 +53,29 @@
     "name:eus_x_preferred":[
         "Bellach"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0627\u0686"
+    ],
     "name:fra_x_preferred":[
+        "Bellach"
+    ],
+    "name:gle_x_preferred":[
         "Bellach"
     ],
     "name:gsw_x_preferred":[
         "B\u00e4uch"
+    ],
+    "name:hsb_x_preferred":[
+        "Bellach"
     ],
     "name:hun_x_preferred":[
         "Bellach"
     ],
     "name:ita_x_preferred":[
         "Bellach"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30e9\u30c3\u30cf"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0435\u043b\u043b\u0430\u0445"
@@ -77,7 +92,16 @@
     "name:nno_x_preferred":[
         "Bellach"
     ],
+    "name:nob_x_preferred":[
+        "Bellach"
+    ],
     "name:oci_x_preferred":[
+        "Bellach"
+    ],
+    "name:pol_x_preferred":[
+        "Bellach"
+    ],
+    "name:por_x_preferred":[
         "Bellach"
     ],
     "name:rus_x_preferred":[
@@ -91,6 +115,9 @@
     ],
     "name:swe_x_preferred":[
         "Bellach"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u043b\u0430\u0445"
     ],
     "name:uzb_x_preferred":[
         "Bellach"
@@ -141,11 +168,11 @@
     "woe:name_adm1":"Kanton Solothurn",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682365,
         102191581,
-        85633051,
-        1394137087,
         404328667,
-        85682365
+        85633051,
+        1394137087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -174,7 +201,7 @@
         }
     ],
     "wof:id":1125771887,
-    "wof:lastmodified":1598921908,
+    "wof:lastmodified":1690866669,
     "wof:name":"Bellach",
     "wof:parent_id":404328667,
     "wof:placetype":"locality",

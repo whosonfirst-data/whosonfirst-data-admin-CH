@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Homberg"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u043c\u0431\u0435\u0440\u0433"
     ],
@@ -63,7 +66,13 @@
     "name:fra_x_preferred":[
         "Homberg"
     ],
+    "name:gle_x_preferred":[
+        "Homberg"
+    ],
     "name:gsw_x_preferred":[
+        "Homberg"
+    ],
+    "name:hsb_x_preferred":[
         "Homberg"
     ],
     "name:hun_x_preferred":[
@@ -110,6 +119,9 @@
     ],
     "name:swe_x_preferred":[
         "Homberg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043c\u0431\u0435\u0440\u0433"
     ],
     "name:vec_x_preferred":[
         "Homberg"
@@ -164,11 +176,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102063061,
         404570741,
-        85682381
+        85633051,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -197,7 +209,7 @@
         }
     ],
     "wof:id":1125851161,
-    "wof:lastmodified":1598921805,
+    "wof:lastmodified":1690866619,
     "wof:name":"Homberg b. Thun",
     "wof:parent_id":404570741,
     "wof:placetype":"locality",

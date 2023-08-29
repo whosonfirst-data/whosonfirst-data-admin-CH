@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "M\u00f6tschwil"
+    ],
     "name:cat_x_preferred":[
         "M\u00f6tschwil"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "M\u00f6tschwil"
     ],
+    "name:gle_x_preferred":[
+        "M\u00f6tschwil"
+    ],
     "name:gsw_x_preferred":[
         "M\u00f6tschwiu"
+    ],
+    "name:hsb_x_preferred":[
+        "M\u00f6tschwil"
     ],
     "name:hun_x_preferred":[
         "M\u00f6tschwil"
@@ -75,6 +84,9 @@
         "M\u00f6tschwil"
     ],
     "name:nno_x_preferred":[
+        "M\u00f6tschwil"
+    ],
+    "name:nob_x_preferred":[
         "M\u00f6tschwil"
     ],
     "name:oci_x_preferred":[
@@ -140,11 +152,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062837,
         404572141,
-        85682381
+        85633051,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,7 +185,7 @@
         }
     ],
     "wof:id":1125765651,
-    "wof:lastmodified":1598921777,
+    "wof:lastmodified":1690866604,
     "wof:name":"M\u00f6tschwil",
     "wof:parent_id":404572141,
     "wof:placetype":"locality",

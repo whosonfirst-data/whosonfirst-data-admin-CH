@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Ettiswil"
+    ],
     "name:cat_x_preferred":[
         "Ettiswil"
     ],
@@ -56,17 +59,29 @@
     "name:fra_x_preferred":[
         "Ettiswil"
     ],
+    "name:gle_x_preferred":[
+        "Ettiswil"
+    ],
     "name:gsw_x_preferred":[
         "Ettiswil"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d8\u05d9\u05e1\u05d5\u05d5\u05d9\u05dc"
     ],
+    "name:hsb_x_preferred":[
+        "Ettiswil"
+    ],
     "name:hun_x_preferred":[
         "Ettiswil"
     ],
+    "name:hye_x_preferred":[
+        "\u0537\u0569\u056b\u057d\u057e\u056b\u056c"
+    ],
     "name:ita_x_preferred":[
         "Ettiswil"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30c3\u30c6\u30a3\u30b9\u30f4\u30a3\u30eb"
     ],
     "name:kaz_x_preferred":[
         "\u042d\u0442\u0442\u0438\u0441\u0432\u0438\u043b\u044c"
@@ -112,6 +127,9 @@
     ],
     "name:swe_x_preferred":[
         "Ettiswil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0442\u0442\u0456\u0441\u0432\u0456\u043b\u044c"
     ],
     "name:uzb_x_preferred":[
         "Ettiswil"
@@ -163,11 +181,11 @@
     "woe:name_adm1":"Kanton Luzern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682319,
         102191581,
-        85633051,
-        1394137075,
         404328377,
-        85682319
+        85633051,
+        1394137075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -193,7 +211,7 @@
         }
     ],
     "wof:id":1125935117,
-    "wof:lastmodified":1598920789,
+    "wof:lastmodified":1690866221,
     "wof:name":"Ettiswil",
     "wof:parent_id":404328377,
     "wof:placetype":"locality",

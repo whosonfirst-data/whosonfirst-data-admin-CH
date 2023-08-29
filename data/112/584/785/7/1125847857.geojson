@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Villigen"
+    ],
     "name:cat_x_preferred":[
         "Villigen"
     ],
@@ -47,8 +50,14 @@
     "name:fra_x_preferred":[
         "Villigen"
     ],
+    "name:gle_x_preferred":[
+        "Villigen"
+    ],
     "name:gsw_x_preferred":[
         "Villige"
+    ],
+    "name:hsb_x_preferred":[
+        "Villigen"
     ],
     "name:hun_x_preferred":[
         "Villigen"
@@ -74,10 +83,16 @@
     "name:nno_x_preferred":[
         "Villigen"
     ],
+    "name:nob_x_preferred":[
+        "Villigen"
+    ],
     "name:oci_x_preferred":[
         "Villigen"
     ],
     "name:pol_x_preferred":[
+        "Villigen"
+    ],
+    "name:por_x_preferred":[
         "Villigen"
     ],
     "name:rus_x_preferred":[
@@ -91,6 +106,9 @@
     ],
     "name:swe_x_preferred":[
         "Villigen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0456\u043b\u043b\u0456\u0433\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "Villigen"
@@ -142,11 +160,11 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062993,
         404569501,
-        85682329
+        85633051,
+        102062993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +193,7 @@
         }
     ],
     "wof:id":1125847857,
-    "wof:lastmodified":1598921885,
+    "wof:lastmodified":1690866658,
     "wof:name":"Villigen",
     "wof:parent_id":404569501,
     "wof:placetype":"locality",

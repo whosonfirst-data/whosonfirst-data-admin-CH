@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Saignel\u00e9gier"
+    ],
     "name:cat_x_preferred":[
         "Saignel\u00e9gier"
     ],
@@ -47,11 +50,17 @@
     "name:fra_x_preferred":[
         "Saignel\u00e9gier"
     ],
+    "name:gle_x_preferred":[
+        "Saignel\u00e9gier"
+    ],
     "name:gsw_x_preferred":[
         "Saignel\u00e9gier"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e0\u05d9\u05d9\u05dc\u05d6'\u05d9\u05d9\u05d4"
+    ],
+    "name:hsb_x_preferred":[
+        "Saignel\u00e9gier"
     ],
     "name:hun_x_preferred":[
         "Saignel\u00e9gier"
@@ -74,7 +83,16 @@
     "name:nno_x_preferred":[
         "Saignel\u00e9gier"
     ],
+    "name:nob_x_preferred":[
+        "Saignel\u00e9gier"
+    ],
     "name:oci_x_preferred":[
+        "Saignel\u00e9gier"
+    ],
+    "name:pol_x_preferred":[
+        "Saignel\u00e9gier"
+    ],
+    "name:por_x_preferred":[
         "Saignel\u00e9gier"
     ],
     "name:roh_x_preferred":[
@@ -89,6 +107,9 @@
     "name:swe_x_preferred":[
         "Saignel\u00e9gier"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u044c\u043b\u0435\u0436'\u0454"
+    ],
     "name:vec_x_preferred":[
         "Saignel\u00e9gier"
     ],
@@ -100,6 +121,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8cfd\u5c3c\u5384\u840a\u5409\u8036"
+    ],
+    "name:zho_x_variant":[
+        "\u8d5b\u6d85\u83b1\u65e5\u8036"
     ],
     "nav:latitude":47.25619,
     "nav:longitude":6.99648,
@@ -136,11 +160,11 @@
     "woe:name_adm1":"Canton de Jura",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682347,
         102191581,
-        85633051,
-        102062875,
         404568237,
-        85682347
+        85633051,
+        102062875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,7 +190,7 @@
         }
     ],
     "wof:id":1125863481,
-    "wof:lastmodified":1598921022,
+    "wof:lastmodified":1690866336,
     "wof:name":"Saignel\u00e9gier",
     "wof:parent_id":404568237,
     "wof:placetype":"locality",

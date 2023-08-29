@@ -33,6 +33,9 @@
     "name:bel_x_preferred":[
         "\u0425\u043e\u0440\u0433\u0435\u043d"
     ],
+    "name:bre_x_preferred":[
+        "Horgen"
+    ],
     "name:cat_x_preferred":[
         "Horgen"
     ],
@@ -46,6 +49,9 @@
         "\u0425\u043e\u0440\u0433\u0435\u043d"
     ],
     "name:cym_x_preferred":[
+        "Horgen"
+    ],
+    "name:dan_x_preferred":[
         "Horgen"
     ],
     "name:deu_x_preferred":[
@@ -81,6 +87,9 @@
     "name:heb_x_preferred":[
         "\u05d4\u05d5\u05e8\u05d2\u05df"
     ],
+    "name:hsb_x_preferred":[
+        "Horgen"
+    ],
     "name:hun_x_preferred":[
         "Horgen"
     ],
@@ -92,6 +101,12 @@
     ],
     "name:kaz_x_preferred":[
         "\u0425\u043e\u0440\u0433\u0435\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\ud638\ub974\uac90"
+    ],
+    "name:kur_x_preferred":[
+        "Horgen"
     ],
     "name:lat_x_preferred":[
         "Horga"
@@ -112,6 +127,9 @@
         "Horgen"
     ],
     "name:nno_x_preferred":[
+        "Horgen"
+    ],
+    "name:nob_x_preferred":[
         "Horgen"
     ],
     "name:oci_x_preferred":[
@@ -154,7 +172,8 @@
         "\u0425\u043e\u0440\u0491\u0435\u043d"
     ],
     "name:ukr_x_variant":[
-        "\u0413\u043e\u0440\u0491\u0435\u043d"
+        "\u0413\u043e\u0440\u0491\u0435\u043d",
+        "\u0413\u043e\u0440\u0433\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "Horgen"
@@ -173,6 +192,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8c6a\u5c14\u6839"
+    ],
+    "name:zho_x_variant":[
+        "\u970d\u5c14\u6839"
     ],
     "nav:latitude":47.261948,
     "nav:longitude":8.596927,
@@ -199,11 +221,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
-        85633051,
-        102062825,
         1394254109,
-        85682309
+        85633051,
+        102062825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -235,7 +257,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1598919121,
+    "wof:lastmodified":1690866186,
     "wof:name":"Horgen",
     "wof:parent_id":1394254109,
     "wof:placetype":"locality",

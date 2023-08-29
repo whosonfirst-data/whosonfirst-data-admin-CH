@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "\u0625\u064a\u0631\u0644\u0627\u062e"
     ],
+    "name:bre_x_preferred":[
+        "Erlach"
+    ],
     "name:cat_x_preferred":[
         "Erlach"
     ],
@@ -59,6 +62,9 @@
     "name:epo_x_variant":[
         "Erlach"
     ],
+    "name:eus_x_preferred":[
+        "Erlach"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0631\u0644\u06a9\u060c \u0633\u0648\u0626\u06cc\u0633"
     ],
@@ -68,8 +74,14 @@
     "name:fra_x_preferred":[
         "Cerlier"
     ],
+    "name:gle_x_preferred":[
+        "Erlach"
+    ],
     "name:gsw_x_preferred":[
         "Erlech"
+    ],
+    "name:hsb_x_preferred":[
+        "Erlach"
     ],
     "name:hun_x_preferred":[
         "Erlach"
@@ -77,8 +89,14 @@
     "name:ita_x_preferred":[
         "Erlach"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30e9\u30c3\u30cf"
+    ],
     "name:kaz_x_preferred":[
         "\u042d\u0440\u043b\u0430\u0445"
+    ],
+    "name:kur_x_preferred":[
+        "Erlach"
     ],
     "name:lat_x_preferred":[
         "Erilachus"
@@ -95,10 +113,16 @@
     "name:nno_x_preferred":[
         "Erlach i Sveits"
     ],
+    "name:nob_x_preferred":[
+        "Erlach"
+    ],
     "name:oci_x_preferred":[
         "Erlach"
     ],
     "name:pol_x_preferred":[
+        "Erlach"
+    ],
+    "name:por_x_preferred":[
         "Erlach"
     ],
     "name:rus_x_preferred":[
@@ -115,6 +139,9 @@
     ],
     "name:swe_x_preferred":[
         "Erlach"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0440\u043b\u0430\u0445"
     ],
     "name:vec_x_preferred":[
         "Erlach"
@@ -169,11 +196,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102063043,
         1175611189,
-        85682381
+        85633051,
+        102063043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -199,7 +226,7 @@
         }
     ],
     "wof:id":1125851677,
-    "wof:lastmodified":1606866759,
+    "wof:lastmodified":1690866613,
     "wof:name":"Erlach",
     "wof:parent_id":1175611189,
     "wof:placetype":"locality",

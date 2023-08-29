@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Sankt Stephan"
+    ],
     "name:cat_x_preferred":[
         "Sankt Stephan"
     ],
@@ -33,7 +36,8 @@
         "Sankt Stephan BE"
     ],
     "name:deu_x_variant":[
-        "Sankt Stephan"
+        "Sankt Stephan",
+        "St. Stephan"
     ],
     "name:eng_x_preferred":[
         "St. Stephan"
@@ -50,8 +54,17 @@
     "name:fra_x_preferred":[
         "Sankt Stephan"
     ],
+    "name:fra_x_variant":[
+        "St. Stephan"
+    ],
+    "name:gle_x_preferred":[
+        "St. Stephan"
+    ],
     "name:gsw_x_preferred":[
         "San St\u00e4ffe"
+    ],
+    "name:hsb_x_preferred":[
+        "St. Stephan"
     ],
     "name:hun_x_preferred":[
         "St. Stephan"
@@ -83,6 +96,9 @@
     "name:pms_x_preferred":[
         "Sankt Stephan"
     ],
+    "name:pol_x_preferred":[
+        "St. Stephan"
+    ],
     "name:por_x_preferred":[
         "Sankt Stephan"
     ],
@@ -98,6 +114,9 @@
     "name:swe_x_preferred":[
         "St. Stephan"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0428\u0442\u0435\u0444\u0430\u043d"
+    ],
     "name:vec_x_preferred":[
         "Sankt Stephan"
     ],
@@ -112,6 +131,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8056\u65af\u8482\u82ac"
+    ],
+    "name:zho_x_variant":[
+        "\u5723\u65af\u7279\u51e1"
     ],
     "nav:latitude":46.50327,
     "nav:longitude":7.42622,
@@ -148,11 +170,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062821,
         404567907,
-        85682381
+        85633051,
+        102062821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -178,7 +200,7 @@
         }
     ],
     "wof:id":1125851497,
-    "wof:lastmodified":1598921830,
+    "wof:lastmodified":1690866634,
     "wof:name":"St. Stephan",
     "wof:parent_id":404567907,
     "wof:placetype":"locality",

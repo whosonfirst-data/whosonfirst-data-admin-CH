@@ -23,11 +23,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Niederbuchsiten"
+    ],
     "name:cat_x_preferred":[
         "Niederbuchsiten"
     ],
     "name:ceb_x_preferred":[
         "Niederbuchsiten"
+    ],
+    "name:chv_x_preferred":[
+        "\u041d\u0438\u0434\u0435\u0440\u0431\u0443\u043a\u0441\u0438\u0442\u0435\u043d"
     ],
     "name:cym_x_preferred":[
         "Niederbuchsiten"
@@ -47,8 +53,17 @@
     "name:fra_x_preferred":[
         "Niederbuchsiten"
     ],
+    "name:gle_x_preferred":[
+        "Niederbuchsiten"
+    ],
     "name:gsw_x_preferred":[
         "Niderbuchste"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05d3\u05e8\u05d1\u05d5\u05db\u05e1\u05d9\u05d8\u05df"
+    ],
+    "name:hsb_x_preferred":[
+        "Niederbuchsiten"
     ],
     "name:hun_x_preferred":[
         "Niederbuchsiten"
@@ -71,7 +86,13 @@
     "name:nno_x_preferred":[
         "Niederbuchsiten"
     ],
+    "name:nob_x_preferred":[
+        "Niederbuchsiten"
+    ],
     "name:oci_x_preferred":[
+        "Niederbuchsiten"
+    ],
+    "name:por_x_preferred":[
         "Niederbuchsiten"
     ],
     "name:roh_x_preferred":[
@@ -88,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Niederbuchsiten"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u0434\u0435\u0440\u0431\u0443\u0445\u0437\u0456\u0442\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "Niederbuchsiten"
@@ -139,11 +163,11 @@
     "woe:name_adm1":"Kanton Solothurn",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682365,
         102191581,
-        85633051,
-        1394137097,
         404328649,
-        85682365
+        85633051,
+        1394137097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -172,7 +196,7 @@
         }
     ],
     "wof:id":1125919761,
-    "wof:lastmodified":1598921344,
+    "wof:lastmodified":1690866496,
     "wof:name":"Niederbuchsiten",
     "wof:parent_id":404328649,
     "wof:placetype":"locality",

@@ -95,6 +95,9 @@
     "name:fra_x_preferred":[
         "Le Grand-Saconnex"
     ],
+    "name:fra_x_variant":[
+        "Grand-Saconnex"
+    ],
     "name:frp_x_preferred":[
         "Grand-Saconnex"
     ],
@@ -113,8 +116,14 @@
     "name:gsw_x_preferred":[
         "Le Grand-Saconnex"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05d2\u05e8\u05d0\u05df \u05e1\u05e7\u05d5\u05e0\u05e7\u05e1"
+    ],
     "name:hrv_x_preferred":[
         "Grand-Saconnex"
+    ],
+    "name:hsb_x_preferred":[
+        "Le Grand-Saconnex"
     ],
     "name:hun_x_preferred":[
         "Le Grand-Saconnex"
@@ -203,6 +212,9 @@
     "name:pol_x_preferred":[
         "Grand-Saconnex"
     ],
+    "name:pol_x_variant":[
+        "Le Grand-Saconnex"
+    ],
     "name:por_br_x_preferred":[
         "Grand-Saconnex"
     ],
@@ -241,6 +253,9 @@
     ],
     "name:swe_x_preferred":[
         "Grand-Saconnex"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u0413\u0440\u0430\u043d-\u0421\u0430\u043a\u043e\u043d\u0435"
     ],
     "name:vec_x_preferred":[
         "Grand-Saconnex"
@@ -304,11 +319,11 @@
     "woe:name_adm1":"Canton de Gen\u00e8ve",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682291,
         102191581,
-        85633051,
-        102062917,
         404328733,
-        85682291
+        85633051,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -334,7 +349,7 @@
         }
     ],
     "wof:id":1125995669,
-    "wof:lastmodified":1598921201,
+    "wof:lastmodified":1690866420,
     "wof:name":"Le Grand-Saconnex",
     "wof:parent_id":404328733,
     "wof:placetype":"locality",

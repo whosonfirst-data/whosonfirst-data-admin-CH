@@ -69,8 +69,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0648\u0646 \u063a\u0631\u0627\u0648\u0628\u0648\u0646\u062f\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u063a\u0631\u0627\u0648\u0628\u0648\u0646\u062f\u0646"
+    ],
     "name:arg_x_preferred":[
         "Cant\u00f3n d'os Grisons"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0646\u062a\u0648\u0646 \u062c\u0631\u0627\u0648\u0628\u0648\u0646\u062f\u0646"
     ],
     "name:azb_x_preferred":[
         "\u06af\u0631\u0627\u0648\u0628\u0648\u0646\u062f\u0646"
@@ -149,6 +155,9 @@
     "name:epo_x_preferred":[
         "Kantono Grizono"
     ],
+    "name:epo_x_variant":[
+        "Grizono"
+    ],
     "name:est_x_preferred":[
         "Graub\u00fcndeni kanton"
     ],
@@ -157,6 +166,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u06af\u0631\u0627\u0648\u0628\u0648\u0646\u062f\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0631\u0627\u0648\u0628\u0648\u0646\u062f\u0646"
     ],
     "name:fin_x_preferred":[
         "Graub\u00fcnden"
@@ -204,6 +216,9 @@
     "name:hye_x_preferred":[
         "\u0533\u0580\u0561\u0578\u0582\u0562\u0575\u0578\u0582\u0564\u0565\u0576"
     ],
+    "name:ido_x_preferred":[
+        "Graub\u00fcnden"
+    ],
     "name:ile_x_preferred":[
         "Canton de Graub\u00fcnden"
     ],
@@ -243,6 +258,9 @@
     "name:kor_x_variant":[
         "\uadf8\ub77c\uc6b0\ubdd8\ub374\uc8fc"
     ],
+    "name:kur_x_preferred":[
+        "Grisons"
+    ],
     "name:lat_x_preferred":[
         "Grisonia"
     ],
@@ -261,6 +279,9 @@
     "name:lld_x_preferred":[
         "Grijon"
     ],
+    "name:lld_x_variant":[
+        "Grijons"
+    ],
     "name:lmo_x_preferred":[
         "Canton Grisun"
     ],
@@ -275,6 +296,9 @@
     ],
     "name:msa_x_preferred":[
         "Graub\u00fcnden"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06af\u0631\u0627\u0648\u0628\u0648\u0646\u062f\u0646"
     ],
     "name:nan_x_preferred":[
         "Graub\u00fcnden Chiu"
@@ -318,6 +342,9 @@
     "name:ron_x_preferred":[
         "Cantonul Grisunilor"
     ],
+    "name:ron_x_variant":[
+        "cantonul Graub\u00fcnden"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0430\u0443\u0431\u044e\u043d\u0434\u0435\u043d"
     ],
@@ -340,7 +367,8 @@
         "Cant\u00f3n de los Grisones"
     ],
     "name:spa_x_variant":[
-        "cant\u00f3n Grisones"
+        "cant\u00f3n Grisones",
+        "Grisones"
     ],
     "name:sqi_x_preferred":[
         "Kantoni Graub\u00fcnden"
@@ -381,11 +409,17 @@
     "name:vie_x_preferred":[
         "Graub\u00fcnden"
     ],
+    "name:vls_x_preferred":[
+        "Graub\u00fcnden"
+    ],
     "name:war_x_preferred":[
         "Graub\u00fcnden"
     ],
     "name:wuu_x_preferred":[
         "\u683c\u52b3\u5bbe\u767b\u5dde"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d2\u05e8\u05d5\u05d9\u05d1\u05d9\u05e0\u05d3\u05df"
     ],
     "name:yue_x_preferred":[
         "\u683c\u7559\u908a\u767b\u5dde"
@@ -496,7 +530,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7990b4e159553b542b115653e031a6ef",
+    "wof:geomhash":"f3a88727046fd37d1df6d73e983c3d92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -518,7 +552,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1684351496,
+    "wof:lastmodified":1690865981,
     "wof:name":"Graubunden",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

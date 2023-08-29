@@ -23,6 +23,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Les Diablerets"
+    ],
+    "name:deu_x_preferred":[
+        "Les Diablerets"
+    ],
     "name:eng_x_preferred":[
         "Les Diablerets"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:und_x_variant":[
         "Diablerets"
+    ],
+    "name:uzb_x_preferred":[
+        "Les Diablerets"
     ],
     "name:zho_x_preferred":[
         "\u8fea\u4e9a\u5e03\u52d2\u96f7"
@@ -90,11 +99,11 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682325,
         102191581,
-        85633051,
-        102062783,
         404567899,
-        85682325
+        85633051,
+        102062783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":1125919429,
-    "wof:lastmodified":1598921383,
+    "wof:lastmodified":1690866518,
     "wof:name":"Les Diablerets",
     "wof:parent_id":404567899,
     "wof:placetype":"locality",

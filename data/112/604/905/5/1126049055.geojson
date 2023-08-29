@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Savi\u00e8se"
+    ],
     "name:cat_x_preferred":[
         "Savi\u00e8se"
     ],
@@ -53,7 +56,13 @@
     "name:frp_x_preferred":[
         "Savi\u00e9se"
     ],
+    "name:gle_x_preferred":[
+        "Savi\u00e8se"
+    ],
     "name:gsw_x_preferred":[
+        "Savi\u00e8se"
+    ],
+    "name:hsb_x_preferred":[
         "Savi\u00e8se"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +70,9 @@
     ],
     "name:ita_x_preferred":[
         "Savi\u00e8se"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f4\u30a3\u30a8\u30fc\u30ba"
     ],
     "name:lmo_x_preferred":[
         "Savi\u00e8se"
@@ -72,6 +84,9 @@
         "Savi\u00e8se"
     ],
     "name:nno_x_preferred":[
+        "Savi\u00e8se"
+    ],
+    "name:nob_x_preferred":[
         "Savi\u00e8se"
     ],
     "name:oci_x_preferred":[
@@ -94,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Savi\u00e8se"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0432'\u0454\u0437"
     ],
     "name:vec_x_preferred":[
         "Savi\u00e8se"
@@ -129,11 +147,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682281,
         102191581,
-        85633051,
-        102062827,
         404567871,
-        85682281
+        85633051,
+        102062827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -161,7 +179,7 @@
         }
     ],
     "wof:id":1126049055,
-    "wof:lastmodified":1598920966,
+    "wof:lastmodified":1690866303,
     "wof:name":"Savi\u00e8se",
     "wof:parent_id":404567871,
     "wof:placetype":"locality",

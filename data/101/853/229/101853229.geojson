@@ -26,6 +26,9 @@
     "name:azb_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0647"
     ],
+    "name:bre_x_preferred":[
+        "Monthey"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:deu_x_preferred":[
         "Monthey"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03c4\u03ad"
     ],
     "name:eng_x_preferred":[
         "Monthey"
@@ -74,6 +80,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e0\u05d8\u05d4"
     ],
+    "name:hsb_x_preferred":[
+        "Monthey"
+    ],
     "name:hun_x_preferred":[
         "Monthey"
     ],
@@ -88,6 +97,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubabd\ud14c"
+    ],
+    "name:kur_x_preferred":[
+        "Monthey"
     ],
     "name:lit_x_preferred":[
         "Montlis"
@@ -108,6 +120,9 @@
         "Monthey"
     ],
     "name:nno_x_preferred":[
+        "Monthey"
+    ],
+    "name:nob_x_preferred":[
         "Monthey"
     ],
     "name:oci_x_preferred":[
@@ -186,11 +201,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682281,
         102191581,
-        85633051,
-        102063065,
         404568601,
-        85682281
+        85633051,
+        102063065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -218,7 +233,7 @@
         }
     ],
     "wof:id":101853229,
-    "wof:lastmodified":1598918991,
+    "wof:lastmodified":1690866101,
     "wof:name":"Monthey",
     "wof:parent_id":404568601,
     "wof:placetype":"locality",

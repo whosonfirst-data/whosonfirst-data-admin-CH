@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Vex"
+    ],
     "name:cat_x_preferred":[
         "Vex"
     ],
@@ -56,10 +59,16 @@
     "name:frp_x_preferred":[
         "Vex"
     ],
+    "name:gle_x_preferred":[
+        "Vex"
+    ],
     "name:gsw_x_preferred":[
         "Vex VS"
     ],
     "name:gsw_x_variant":[
+        "Vex"
+    ],
+    "name:hsb_x_preferred":[
         "Vex"
     ],
     "name:hun_x_preferred":[
@@ -135,11 +144,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682281,
         102191581,
-        85633051,
-        102062985,
         404569133,
-        85682281
+        85633051,
+        102062985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -164,7 +173,7 @@
         }
     ],
     "wof:id":1125918259,
-    "wof:lastmodified":1598921369,
+    "wof:lastmodified":1690866510,
     "wof:name":"Vex",
     "wof:parent_id":404569133,
     "wof:placetype":"locality",

@@ -23,10 +23,19 @@
     "name:als_x_preferred":[
         "Altst\u00e4tten SG"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062a\u0634\u062a\u0627\u062a\u0646"
+    ],
+    "name:bre_x_preferred":[
+        "Altst\u00e4tten"
+    ],
     "name:cat_x_preferred":[
         "Altst\u00e4tten"
     ],
     "name:ceb_x_preferred":[
+        "Altst\u00e4tten"
+    ],
+    "name:ces_x_preferred":[
         "Altst\u00e4tten"
     ],
     "name:cym_x_preferred":[
@@ -37,6 +46,9 @@
     ],
     "name:deu_x_variant":[
         "Altst\u00e4tten SG"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bb\u03c4\u03c3\u03c4\u03b1\u03af\u03c4\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Altst\u00e4tten"
@@ -74,6 +86,9 @@
     "name:gsw_x_variant":[
         "Aaltstetta"
     ],
+    "name:hsb_x_preferred":[
+        "Altst\u00e4tten"
+    ],
     "name:hun_x_preferred":[
         "Altst\u00e4tten"
     ],
@@ -92,6 +107,12 @@
     "name:kaz_x_preferred":[
         "\u0410\u043b\u044c\u0442\u0448\u0442\u0435\u0442\u0442\u0435\u043d"
     ],
+    "name:kor_x_preferred":[
+        "\uc54c\ud2b8\uc288\ud14c\ud150"
+    ],
+    "name:kur_x_preferred":[
+        "Altst\u00e4tten"
+    ],
     "name:lmo_x_preferred":[
         "Altst\u00e4tten"
     ],
@@ -105,6 +126,9 @@
         "Altst\u00e4tten"
     ],
     "name:nno_x_preferred":[
+        "Altst\u00e4tten"
+    ],
+    "name:nob_x_preferred":[
         "Altst\u00e4tten"
     ],
     "name:oci_x_preferred":[
@@ -130,6 +154,9 @@
     ],
     "name:swe_x_preferred":[
         "Altst\u00e4tten"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u0448\u0442\u0435\u0442\u0442\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "Altst\u00e4tten"
@@ -175,11 +202,11 @@
     "src:population":"geonames",
     "wd:wordcount":1710,
     "wof:belongsto":[
+        85682341,
         102191581,
-        85633051,
-        102063005,
         404568259,
-        85682341
+        85633051,
+        102063005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -207,7 +234,7 @@
         }
     ],
     "wof:id":101854271,
-    "wof:lastmodified":1598919092,
+    "wof:lastmodified":1690866170,
     "wof:name":"Altst\u00e4tten",
     "wof:parent_id":404568259,
     "wof:placetype":"locality",

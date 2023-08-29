@@ -32,6 +32,9 @@
     "name:bel_x_preferred":[
         "\u041c\u0430\u0439\u043b\u0435\u043d"
     ],
+    "name:bre_x_preferred":[
+        "Meilen"
+    ],
     "name:cat_x_preferred":[
         "Meilen"
     ],
@@ -77,14 +80,29 @@
     "name:heb_x_preferred":[
         "\u05de\u05d9\u05d9\u05dc\u05df"
     ],
+    "name:hsb_x_preferred":[
+        "Meilen"
+    ],
     "name:hun_x_preferred":[
         "Meilen"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0575\u056c\u0565\u0576"
     ],
     "name:ita_x_preferred":[
         "Meilen"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30a4\u30ec\u30f3"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0439\u043b\u0435\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc77c\ub80c"
+    ],
+    "name:kur_x_preferred":[
+        "Meilen"
     ],
     "name:lat_x_preferred":[
         "Meilana"
@@ -140,6 +158,9 @@
     "name:tur_x_preferred":[
         "Meilen"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0439\u043b\u0435\u043d"
+    ],
     "name:uzb_x_preferred":[
         "Meilen"
     ],
@@ -183,11 +204,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
-        85633051,
-        102062769,
         404568775,
-        85682309
+        85633051,
+        102062769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -219,7 +240,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1598919035,
+    "wof:lastmodified":1690866132,
     "wof:name":"Meilen",
     "wof:parent_id":404568775,
     "wof:placetype":"locality",

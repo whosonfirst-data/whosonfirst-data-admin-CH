@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "D\u00e4niken"
+    ],
     "name:cat_x_preferred":[
         "D\u00e4niken"
     ],
@@ -53,8 +56,14 @@
     "name:fra_x_preferred":[
         "D\u00e4niken"
     ],
+    "name:gle_x_preferred":[
+        "D\u00e4niken"
+    ],
     "name:gsw_x_preferred":[
         "D\u00e4nike"
+    ],
+    "name:hsb_x_preferred":[
+        "D\u00e4niken"
     ],
     "name:hun_x_preferred":[
         "D\u00e4niken"
@@ -86,6 +95,9 @@
     "name:pms_x_preferred":[
         "D\u00e4niken"
     ],
+    "name:pol_x_preferred":[
+        "D\u00e4niken"
+    ],
     "name:por_x_preferred":[
         "D\u00e4niken"
     ],
@@ -101,6 +113,9 @@
     "name:swe_x_preferred":[
         "D\u00e4niken"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043d\u0456\u043a\u0435\u043d"
+    ],
     "name:uzb_x_preferred":[
         "D\u00e4niken"
     ],
@@ -115,6 +130,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u5c3c\u80af"
+    ],
+    "name:zho_x_variant":[
+        "\u4ee3\u5c3c\u80af"
     ],
     "nav:latitude":47.35321,
     "nav:longitude":7.98737,
@@ -150,11 +168,11 @@
     "woe:name_adm1":"Kanton Solothurn",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682365,
         102191581,
-        85633051,
-        1394137091,
         404328653,
-        85682365
+        85633051,
+        1394137091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -180,7 +198,7 @@
         }
     ],
     "wof:id":1125947351,
-    "wof:lastmodified":1598920760,
+    "wof:lastmodified":1690866206,
     "wof:name":"D\u00e4niken",
     "wof:parent_id":404328653,
     "wof:placetype":"locality",

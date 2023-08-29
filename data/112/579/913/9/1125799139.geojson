@@ -26,6 +26,9 @@
     "name:als_x_preferred":[
         "La Ferri\u00e8re BE"
     ],
+    "name:bre_x_preferred":[
+        "La Ferri\u00e8re"
+    ],
     "name:cat_x_preferred":[
         "La Ferri\u00e8re"
     ],
@@ -53,7 +56,13 @@
     "name:fra_x_preferred":[
         "La Ferri\u00e8re"
     ],
+    "name:gle_x_preferred":[
+        "La Ferri\u00e8re"
+    ],
     "name:gsw_x_preferred":[
+        "La Ferri\u00e8re"
+    ],
+    "name:hsb_x_preferred":[
         "La Ferri\u00e8re"
     ],
     "name:hun_x_preferred":[
@@ -77,6 +86,12 @@
     "name:oci_x_preferred":[
         "La Ferri\u00e8re"
     ],
+    "name:pol_x_preferred":[
+        "La Ferri\u00e8re"
+    ],
+    "name:por_x_preferred":[
+        "La Ferri\u00e8re"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0430-\u0424\u0435\u0440\u0440\u044c\u0435\u0440"
     ],
@@ -88,6 +103,9 @@
     ],
     "name:swe_x_preferred":[
         "La Ferri\u00e8re"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0424\u0435\u0440'\u0454\u0440"
     ],
     "name:vec_x_preferred":[
         "La Ferri\u00e8re"
@@ -106,6 +124,9 @@
     ],
     "name:zho_x_preferred":[
         "\u62c9\u8cbb\u91cc\u57c3"
+    ],
+    "name:zho_x_variant":[
+        "\u62c9\u8d39\u91cc\u8036\u5c14"
     ],
     "nav:latitude":47.14303,
     "nav:longitude":6.8922,
@@ -141,11 +162,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062865,
         404569001,
-        85682381
+        85633051,
+        102062865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -171,7 +192,7 @@
         }
     ],
     "wof:id":1125799139,
-    "wof:lastmodified":1598921860,
+    "wof:lastmodified":1690866647,
     "wof:name":"La Ferri\u00e8re",
     "wof:parent_id":404569001,
     "wof:placetype":"locality",

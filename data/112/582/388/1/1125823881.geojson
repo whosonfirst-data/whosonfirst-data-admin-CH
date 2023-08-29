@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Zeglingen"
+    ],
     "name:cat_x_preferred":[
         "Zeglingen"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Zeglingen"
     ],
+    "name:gle_x_preferred":[
+        "Zeglingen"
+    ],
     "name:gsw_x_preferred":[
         "Zeglige"
+    ],
+    "name:hsb_x_preferred":[
+        "Zeglingen"
     ],
     "name:hun_x_preferred":[
         "Zeglingen"
@@ -77,10 +86,16 @@
     "name:nno_x_preferred":[
         "Zeglingen"
     ],
+    "name:nob_x_preferred":[
+        "Zeglingen"
+    ],
     "name:oci_x_preferred":[
         "Zeglingen"
     ],
     "name:pms_x_preferred":[
+        "Zeglingen"
+    ],
+    "name:pol_x_preferred":[
         "Zeglingen"
     ],
     "name:por_x_preferred":[
@@ -97,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "Zeglingen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u0433\u043b\u0456\u043d\u0433\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "Zeglingen"
@@ -148,11 +166,11 @@
     "woe:name_adm1":"Kanton Basel-Land",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682361,
         102191581,
-        85633051,
-        102062819,
         404570299,
-        85682361
+        85633051,
+        102062819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -181,7 +199,7 @@
         }
     ],
     "wof:id":1125823881,
-    "wof:lastmodified":1598921766,
+    "wof:lastmodified":1690866598,
     "wof:name":"Zeglingen",
     "wof:parent_id":404570299,
     "wof:placetype":"locality",

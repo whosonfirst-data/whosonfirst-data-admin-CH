@@ -29,6 +29,9 @@
     "name:als_x_variant":[
         "Eich"
     ],
+    "name:bre_x_preferred":[
+        "Eich"
+    ],
     "name:cat_x_preferred":[
         "Eich LU"
     ],
@@ -71,7 +74,13 @@
     "name:fra_x_variant":[
         "Eich"
     ],
+    "name:gle_x_preferred":[
+        "Eich"
+    ],
     "name:gsw_x_preferred":[
+        "Eich"
+    ],
+    "name:hsb_x_preferred":[
         "Eich"
     ],
     "name:hun_x_preferred":[
@@ -104,6 +113,9 @@
     "name:pms_x_preferred":[
         "Eich"
     ],
+    "name:pol_x_preferred":[
+        "Eich"
+    ],
     "name:por_br_x_preferred":[
         "Eich"
     ],
@@ -124,6 +136,9 @@
     ],
     "name:swe_x_preferred":[
         "Eich"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u0445"
     ],
     "name:uzb_x_preferred":[
         "Eich"
@@ -173,11 +188,11 @@
     "woe:name_adm1":"Kanton Luzern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682319,
         102191581,
-        85633051,
-        1394137077,
         404328455,
-        85682319
+        85633051,
+        1394137077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -206,7 +221,7 @@
         }
     ],
     "wof:id":1126035861,
-    "wof:lastmodified":1598920996,
+    "wof:lastmodified":1690866320,
     "wof:name":"Eich",
     "wof:parent_id":404328455,
     "wof:placetype":"locality",

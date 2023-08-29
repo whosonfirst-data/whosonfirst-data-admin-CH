@@ -26,6 +26,9 @@
     "name:als_x_preferred":[
         "Ursenbach BE"
     ],
+    "name:bre_x_preferred":[
+        "Ursenbach"
+    ],
     "name:cat_x_preferred":[
         "Ursenbach"
     ],
@@ -56,8 +59,14 @@
     "name:fra_x_preferred":[
         "Ursenbach"
     ],
+    "name:gle_x_preferred":[
+        "Ursenbach"
+    ],
     "name:gsw_x_preferred":[
         "Urschebech"
+    ],
+    "name:hsb_x_preferred":[
+        "Ursenbach"
     ],
     "name:hun_x_preferred":[
         "Ursenbach"
@@ -83,6 +92,12 @@
     "name:oci_x_preferred":[
         "Ursenbach"
     ],
+    "name:pol_x_preferred":[
+        "Ursenbach"
+    ],
+    "name:por_x_preferred":[
+        "Ursenbach"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u0440\u0437\u0435\u043d\u0431\u0430\u0445"
     ],
@@ -94,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Ursenbach"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0440\u0437\u0435\u043d\u0431\u0430\u0445"
     ],
     "name:vec_x_preferred":[
         "Ursenbach"
@@ -132,11 +150,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102063013,
         404569967,
-        85682381
+        85633051,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":1125768593,
-    "wof:lastmodified":1598921771,
+    "wof:lastmodified":1690866601,
     "wof:name":"Ursenbach",
     "wof:parent_id":404569967,
     "wof:placetype":"locality",

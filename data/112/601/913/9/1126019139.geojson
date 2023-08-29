@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "H\u00e4rkingen"
+    ],
     "name:cat_x_preferred":[
         "H\u00e4rkingen"
     ],
@@ -47,11 +50,20 @@
     "name:eus_x_preferred":[
         "H\u00e4rkingen"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0631\u06a9\u06cc\u0646\u06af\u0646"
+    ],
     "name:fra_x_preferred":[
+        "H\u00e4rkingen"
+    ],
+    "name:gle_x_preferred":[
         "H\u00e4rkingen"
     ],
     "name:gsw_x_preferred":[
         "H\u00e4rchenge"
+    ],
+    "name:hsb_x_preferred":[
+        "H\u00e4rkingen"
     ],
     "name:hun_x_preferred":[
         "H\u00e4rkingen"
@@ -74,7 +86,13 @@
     "name:nno_x_preferred":[
         "H\u00e4rkingen"
     ],
+    "name:nob_x_preferred":[
+        "H\u00e4rkingen"
+    ],
     "name:oci_x_preferred":[
+        "H\u00e4rkingen"
+    ],
+    "name:por_x_preferred":[
         "H\u00e4rkingen"
     ],
     "name:roh_x_preferred":[
@@ -91,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "H\u00e4rkingen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u0440\u043a\u0456\u043d\u0433\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "H\u00e4rkingen"
@@ -141,11 +162,11 @@
     "woe:name_adm1":"Kanton Solothurn",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682365,
         102191581,
-        85633051,
-        1394137097,
         404328647,
-        85682365
+        85633051,
+        1394137097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -174,7 +195,7 @@
         }
     ],
     "wof:id":1126019139,
-    "wof:lastmodified":1598921658,
+    "wof:lastmodified":1690866553,
     "wof:name":"H\u00e4rkingen",
     "wof:parent_id":404328647,
     "wof:placetype":"locality",

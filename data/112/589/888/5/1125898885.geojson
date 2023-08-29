@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Sankt Antoni"
+    ],
     "name:ceb_x_preferred":[
         "Sankt Antoni"
     ],
@@ -44,8 +47,14 @@
     "name:fra_x_preferred":[
         "Saint-Antoine"
     ],
+    "name:gle_x_preferred":[
+        "St. Antoni"
+    ],
     "name:gsw_x_preferred":[
         "Saantoni"
+    ],
+    "name:hsb_x_preferred":[
+        "St. Antoni"
     ],
     "name:hun_x_preferred":[
         "St. Antoni"
@@ -133,11 +142,11 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682301,
         102191581,
-        85633051,
-        102062891,
         404568789,
-        85682301
+        85633051,
+        102062891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -163,7 +172,7 @@
         }
     ],
     "wof:id":1125898885,
-    "wof:lastmodified":1598921093,
+    "wof:lastmodified":1690866370,
     "wof:name":"St. Antoni",
     "wof:parent_id":404568789,
     "wof:placetype":"locality",

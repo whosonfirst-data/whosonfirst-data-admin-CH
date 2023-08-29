@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Mellikon"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0435\u043b\u0438\u043a\u043e\u043d"
     ],
@@ -50,7 +53,13 @@
     "name:fra_x_preferred":[
         "Mellikon"
     ],
+    "name:gle_x_preferred":[
+        "Mellikon"
+    ],
     "name:gsw_x_preferred":[
+        "Mellikon"
+    ],
+    "name:hsb_x_preferred":[
         "Mellikon"
     ],
     "name:hun_x_preferred":[
@@ -77,7 +86,16 @@
     "name:nno_x_preferred":[
         "Mellikon"
     ],
+    "name:nob_x_preferred":[
+        "Mellikon"
+    ],
     "name:oci_x_preferred":[
+        "Mellikon"
+    ],
+    "name:pol_x_preferred":[
+        "Mellikon"
+    ],
+    "name:por_x_preferred":[
         "Mellikon"
     ],
     "name:roh_x_preferred":[
@@ -94,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "Mellikon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u043b\u0456\u043a\u043e\u043d"
     ],
     "name:uzb_x_preferred":[
         "Mellikon"
@@ -150,11 +171,11 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062841,
         404572271,
-        85682329
+        85633051,
+        102062841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -183,7 +204,7 @@
         }
     ],
     "wof:id":1125771927,
-    "wof:lastmodified":1598921894,
+    "wof:lastmodified":1690866662,
     "wof:name":"Mellikon",
     "wof:parent_id":404572271,
     "wof:placetype":"locality",

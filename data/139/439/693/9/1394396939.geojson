@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Full-Reuenthal"
+    ],
     "name:cat_x_preferred":[
         "Full-Reuenthal"
     ],
@@ -45,17 +48,26 @@
     "name:fra_x_preferred":[
         "Full-Reuenthal"
     ],
+    "name:gle_x_preferred":[
+        "Full-Reuenthal"
+    ],
     "name:gsw_x_preferred":[
         "Full-Reuenthal"
     ],
     "name:gsw_x_variant":[
         "Full-R\u00f6ilete"
     ],
+    "name:hsb_x_preferred":[
+        "Full-Reuenthal"
+    ],
     "name:hun_x_preferred":[
         "Full-Reuenthal"
     ],
     "name:ita_x_preferred":[
         "Full-Reuenthal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30eb\uff1d\u30ed\u30a4\u30a7\u30f3\u30bf\u30fc\u30eb"
     ],
     "name:kaz_x_preferred":[
         "\u0424\u0443\u043b\u043b\u044c-\u0420\u043e\u0439\u0435\u043d\u0442\u0430\u043b\u044c"
@@ -75,7 +87,16 @@
     "name:nno_x_preferred":[
         "Full-Reuenthal"
     ],
+    "name:nob_x_preferred":[
+        "Full-Reuenthal"
+    ],
     "name:oci_x_preferred":[
+        "Full-Reuenthal"
+    ],
+    "name:pol_x_preferred":[
+        "Full-Reuenthal"
+    ],
+    "name:por_x_preferred":[
         "Full-Reuenthal"
     ],
     "name:roh_x_preferred":[
@@ -89,6 +110,9 @@
     ],
     "name:swe_x_preferred":[
         "Full-Reuenthal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0443\u043b\u043b\u044c-\u0420\u043e\u0454\u043d\u0442\u0430\u043b\u044c"
     ],
     "name:uzb_x_preferred":[
         "Full-Reuenthal"
@@ -136,10 +160,10 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        85633051,
-        102062841,
         404569039,
+        85633051,
         1243103533,
+        102062841,
         85682329
     ],
     "wof:breaches":[],
@@ -164,7 +188,7 @@
         }
     ],
     "wof:id":1394396939,
-    "wof:lastmodified":1598918260,
+    "wof:lastmodified":1690866046,
     "wof:name":"Full",
     "wof:parent_id":1243103533,
     "wof:placetype":"neighbourhood",

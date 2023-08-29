@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "D\u00e4rligen"
+    ],
     "name:cat_x_preferred":[
         "D\u00e4rligen"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "D\u00e4rligen"
     ],
+    "name:gle_x_preferred":[
+        "D\u00e4rligen"
+    ],
     "name:gsw_x_preferred":[
         "T\u00e4rlige"
+    ],
+    "name:hsb_x_preferred":[
+        "D\u00e4rligen"
     ],
     "name:hun_x_preferred":[
         "D\u00e4rligen"
@@ -65,6 +74,9 @@
     "name:kaz_x_preferred":[
         "\u0414\u0435\u0440\u043b\u0438\u0433\u0435\u043d"
     ],
+    "name:kor_x_preferred":[
+        "\ub378\ub9ac\uac90"
+    ],
     "name:lmo_x_preferred":[
         "D\u00e4rligen"
     ],
@@ -75,6 +87,9 @@
         "D\u00e4rligen"
     ],
     "name:nno_x_preferred":[
+        "D\u00e4rligen"
+    ],
+    "name:nob_x_preferred":[
         "D\u00e4rligen"
     ],
     "name:oci_x_preferred":[
@@ -103,6 +118,9 @@
     ],
     "name:swe_x_preferred":[
         "D\u00e4rligen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0440\u043b\u0456\u0433\u0435\u043d"
     ],
     "name:vec_x_preferred":[
         "D\u00e4rligen"
@@ -154,11 +172,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062759,
         404570495,
-        85682381
+        85633051,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -187,7 +205,7 @@
         }
     ],
     "wof:id":1125793355,
-    "wof:lastmodified":1598921861,
+    "wof:lastmodified":1690866648,
     "wof:name":"D\u00e4rligen",
     "wof:parent_id":404570495,
     "wof:placetype":"locality",

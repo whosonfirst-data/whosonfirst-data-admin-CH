@@ -23,10 +23,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Flims"
+    ],
     "name:cat_x_preferred":[
         "Flims"
     ],
     "name:ceb_x_preferred":[
+        "Flims"
+    ],
+    "name:ces_x_preferred":[
         "Flims"
     ],
     "name:cym_x_preferred":[
@@ -56,7 +62,16 @@
     "name:fra_x_preferred":[
         "Flims"
     ],
+    "name:gle_x_preferred":[
+        "Flims"
+    ],
     "name:gsw_x_preferred":[
+        "Flims"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d9\u05de\u05e1"
+    ],
+    "name:hsb_x_preferred":[
         "Flims"
     ],
     "name:hun_x_preferred":[
@@ -73,6 +88,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0424\u043b\u0438\u043c\u0441"
+    ],
+    "name:kor_x_preferred":[
+        "\ud50c\ub9bc\uc2a4"
     ],
     "name:lat_x_preferred":[
         "Flemme"
@@ -121,6 +139,9 @@
     ],
     "name:swe_x_preferred":[
         "Flims"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043b\u0456\u043c\u0441"
     ],
     "name:uzb_x_preferred":[
         "Flims"
@@ -172,11 +193,11 @@
     "woe:name_adm1":"Kanton Graub\u00fcnden",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682255,
         102191581,
-        85633051,
-        102062839,
         404567999,
-        85682255
+        85633051,
+        102062839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -202,7 +223,7 @@
         }
     ],
     "wof:id":1126015917,
-    "wof:lastmodified":1598921666,
+    "wof:lastmodified":1690866558,
     "wof:name":"Flims Dorf",
     "wof:parent_id":404567999,
     "wof:placetype":"locality",

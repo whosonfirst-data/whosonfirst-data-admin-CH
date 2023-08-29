@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Les Breuleux"
+    ],
     "name:cat_x_preferred":[
         "Les Breuleux"
     ],
@@ -44,7 +47,13 @@
     "name:fra_x_preferred":[
         "Les Breuleux"
     ],
+    "name:gle_x_preferred":[
+        "Les Breuleux"
+    ],
     "name:gsw_x_preferred":[
+        "Les Breuleux"
+    ],
+    "name:hsb_x_preferred":[
         "Les Breuleux"
     ],
     "name:hun_x_preferred":[
@@ -68,7 +77,16 @@
     "name:nno_x_preferred":[
         "Les Breuleux"
     ],
+    "name:nob_x_preferred":[
+        "Les Breuleux"
+    ],
     "name:oci_x_preferred":[
+        "Les Breuleux"
+    ],
+    "name:pol_x_preferred":[
+        "Les Breuleux"
+    ],
+    "name:por_x_preferred":[
         "Les Breuleux"
     ],
     "name:roh_x_preferred":[
@@ -83,6 +101,9 @@
     "name:swe_x_preferred":[
         "Les Breuleux"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u0411\u0440\u0435\u043b\u0435"
+    ],
     "name:vec_x_preferred":[
         "Les Breuleux"
     ],
@@ -94,6 +115,9 @@
     ],
     "name:zho_x_preferred":[
         "\u52d2\u5e03\u52d2\u52d2"
+    ],
+    "name:zho_x_variant":[
+        "\u83b1\u5e03\u52d2\u52d2"
     ],
     "nav:latitude":47.21099,
     "nav:longitude":7.00792,
@@ -128,11 +152,11 @@
     "woe:name_adm1":"Canton de Jura",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682347,
         102191581,
-        85633051,
-        102062875,
         404569623,
-        85682347
+        85633051,
+        102062875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -158,7 +182,7 @@
         }
     ],
     "wof:id":1126015847,
-    "wof:lastmodified":1598921680,
+    "wof:lastmodified":1690866565,
     "wof:name":"Les Breuleux",
     "wof:parent_id":404569623,
     "wof:placetype":"locality",

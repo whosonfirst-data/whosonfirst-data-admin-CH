@@ -51,6 +51,12 @@
     "name:fra_x_preferred":[
         "Brunnen"
     ],
+    "name:frp_x_preferred":[
+        "Brunnen"
+    ],
+    "name:gle_x_preferred":[
+        "Brunnen"
+    ],
     "name:gsw_x_preferred":[
         "Brunne SZ"
     ],
@@ -65,6 +71,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30eb\u30f3\u30cd\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub8e8\ub128"
     ],
     "name:ltz_x_preferred":[
         "Brunnen"
@@ -81,11 +90,17 @@
     "name:swe_x_preferred":[
         "Brunnen"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0443\u043d\u043d\u0435\u043d"
+    ],
     "name:uzb_x_preferred":[
         "Brunnen"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u9c81\u5ae9"
+    ],
+    "name:zho_x_variant":[
+        "\u5e03\u4f26\u5ae9"
     ],
     "qs_pg:aaroncc":"CH",
     "qs_pg:gn_country":"CH",
@@ -115,9 +130,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        404568795,
         85633051,
         102062887,
-        404568795,
         85682305
     ],
     "wof:breaches":[],
@@ -142,7 +157,7 @@
         }
     ],
     "wof:id":1394410039,
-    "wof:lastmodified":1598917976,
+    "wof:lastmodified":1690866031,
     "wof:name":"Brunnen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

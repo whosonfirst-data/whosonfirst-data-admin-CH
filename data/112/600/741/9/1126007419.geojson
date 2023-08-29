@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "R\u00fcderswil"
+    ],
     "name:cat_x_preferred":[
         "R\u00fcderswil"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "R\u00fcderswil"
     ],
+    "name:gle_x_preferred":[
+        "R\u00fcderswil"
+    ],
     "name:gsw_x_preferred":[
         "R\u00fcderschwiu"
+    ],
+    "name:hsb_x_preferred":[
+        "R\u00fcderswil"
     ],
     "name:hun_x_preferred":[
         "R\u00fcderswil"
@@ -61,6 +70,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0420\u044e\u0434\u0435\u0440\u0441\u0432\u0438\u043b\u044c"
+    ],
+    "name:kor_x_preferred":[
+        "\ub93c\ub354\uc2a4\ube4c"
     ],
     "name:lmo_x_preferred":[
         "R\u00fcderswil"
@@ -74,10 +86,16 @@
     "name:nno_x_preferred":[
         "R\u00fcderswil"
     ],
+    "name:nob_x_preferred":[
+        "R\u00fcderswil"
+    ],
     "name:oci_x_preferred":[
         "R\u00fcderswil"
     ],
     "name:pol_x_preferred":[
+        "R\u00fcderswil"
+    ],
+    "name:por_x_preferred":[
         "R\u00fcderswil"
     ],
     "name:rus_x_preferred":[
@@ -94,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "R\u00fcderswil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u044e\u043f\u0435\u0440\u0441\u0432\u0456\u043b\u044c"
     ],
     "name:vec_x_preferred":[
         "R\u00fcderswil"
@@ -144,11 +165,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062837,
         404568767,
-        85682381
+        85633051,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -174,7 +195,7 @@
         }
     ],
     "wof:id":1126007419,
-    "wof:lastmodified":1598921695,
+    "wof:lastmodified":1690866573,
     "wof:name":"R\u00fcderswil",
     "wof:parent_id":404568767,
     "wof:placetype":"locality",

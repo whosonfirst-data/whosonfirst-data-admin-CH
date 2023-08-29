@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Rue"
+    ],
     "name:cat_x_preferred":[
         "Rue"
     ],
@@ -62,16 +65,25 @@
     "name:frp_x_preferred":[
         "Ruva"
     ],
+    "name:gle_x_preferred":[
+        "Rue"
+    ],
     "name:gsw_x_preferred":[
         "Rue FR"
     ],
     "name:gsw_x_variant":[
         "Rue"
     ],
+    "name:hsb_x_preferred":[
+        "Rue"
+    ],
     "name:hun_x_preferred":[
         "Rue"
     ],
     "name:ita_x_preferred":[
+        "Rue"
+    ],
+    "name:kur_x_preferred":[
         "Rue"
     ],
     "name:lmo_x_preferred":[
@@ -88,6 +100,9 @@
     ],
     "name:nno_x_preferred":[
         "Rue i Sveits"
+    ],
+    "name:nob_x_preferred":[
+        "Rue"
     ],
     "name:oci_x_preferred":[
         "Rue"
@@ -154,11 +169,11 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682301,
         102191581,
-        85633051,
-        102062867,
         404569511,
-        85682301
+        85633051,
+        102062867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -184,7 +199,7 @@
         }
     ],
     "wof:id":1125943907,
-    "wof:lastmodified":1598920747,
+    "wof:lastmodified":1690866200,
     "wof:name":"Rue",
     "wof:parent_id":404569511,
     "wof:placetype":"locality",

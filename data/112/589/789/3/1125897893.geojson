@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Hilterfingen"
+    ],
     "name:cat_x_preferred":[
         "Hilterfingen"
     ],
@@ -50,14 +53,23 @@
     "name:fra_x_preferred":[
         "Hilterfingen"
     ],
+    "name:gle_x_preferred":[
+        "Hilterfingen"
+    ],
     "name:gsw_x_preferred":[
         "Hiuterfinge"
+    ],
+    "name:hsb_x_preferred":[
+        "Hilterfingen"
     ],
     "name:hun_x_preferred":[
         "Hilterfingen"
     ],
     "name:ita_x_preferred":[
         "Hilterfingen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d2\u30eb\u30bf\u30fc\u30d5\u30a3\u30f3\u30b2\u30f3"
     ],
     "name:kaz_x_preferred":[
         "\u0425\u0438\u043b\u044c\u0442\u0435\u0440\u0444\u0438\u043d\u0433\u0435\u043d"
@@ -72,6 +84,9 @@
         "Hilterfingen"
     ],
     "name:nno_x_preferred":[
+        "Hilterfingen"
+    ],
+    "name:nob_x_preferred":[
         "Hilterfingen"
     ],
     "name:oci_x_preferred":[
@@ -100,6 +115,9 @@
     ],
     "name:swe_x_preferred":[
         "Hilterfingen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u043b\u044c\u0442\u0435\u0440\u0444\u0456\u043d\u0433\u0435\u043d"
     ],
     "name:vec_x_preferred":[
         "Hilterfingen"
@@ -151,11 +169,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102063061,
         404572111,
-        85682381
+        85633051,
+        102063061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -184,7 +202,7 @@
         }
     ],
     "wof:id":1125897893,
-    "wof:lastmodified":1598921109,
+    "wof:lastmodified":1690866380,
     "wof:name":"Hilterfingen",
     "wof:parent_id":404572111,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Gretzenbach"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0440\u0435\u0442\u0437\u0435\u043d\u0431\u0430\u0447"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Gretzenbach"
     ],
+    "name:gle_x_preferred":[
+        "Gretzenbach"
+    ],
     "name:gsw_x_preferred":[
         "Gretzebach"
+    ],
+    "name:hsb_x_preferred":[
+        "Gretzenbach"
     ],
     "name:hun_x_preferred":[
         "Gretzenbach"
@@ -83,6 +92,9 @@
     "name:pms_x_preferred":[
         "Gretzenbach"
     ],
+    "name:pol_x_preferred":[
+        "Gretzenbach"
+    ],
     "name:por_x_preferred":[
         "Gretzenbach"
     ],
@@ -97,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Gretzenbach"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0435\u0442\u0446\u0435\u043d\u0431\u0430\u0445"
     ],
     "name:uzb_x_preferred":[
         "Gretzenbach"
@@ -148,11 +163,11 @@
     "woe:name_adm1":"Kanton Solothurn",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682365,
         102191581,
-        85633051,
-        1394137091,
         404328621,
-        85682365
+        85633051,
+        1394137091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -178,7 +193,7 @@
         }
     ],
     "wof:id":1125979575,
-    "wof:lastmodified":1598921274,
+    "wof:lastmodified":1690866459,
     "wof:name":"Gretzenbach",
     "wof:parent_id":404328621,
     "wof:placetype":"locality",

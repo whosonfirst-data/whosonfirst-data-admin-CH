@@ -26,8 +26,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u0648\u062c"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0440\u0443\u0433"
+    ],
+    "name:bre_x_preferred":[
+        "Brugg"
     ],
     "name:cat_x_preferred":[
         "Brugg"
@@ -92,6 +98,9 @@
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d5\u05d2"
     ],
+    "name:hsb_x_preferred":[
+        "Brugg"
+    ],
     "name:hun_x_preferred":[
         "Brugg"
     ],
@@ -113,11 +122,17 @@
     "name:kor_x_preferred":[
         "\ube0c\ub8e8\uadf8"
     ],
+    "name:kur_x_preferred":[
+        "Brugg"
+    ],
     "name:lat_x_preferred":[
         "Bruga"
     ],
     "name:lmo_x_preferred":[
         "Brugg"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0440\u0443\u0433"
     ],
     "name:msa_x_preferred":[
         "Brugg"
@@ -214,11 +229,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062993,
         404570795,
-        85682329
+        85633051,
+        102062993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -252,7 +267,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1598918979,
+    "wof:lastmodified":1690866093,
     "wof:name":"Brugg",
     "wof:parent_id":404570795,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Berken"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u043a\u0435\u043d"
     ],
@@ -48,8 +51,14 @@
     "name:fra_x_preferred":[
         "Berken"
     ],
+    "name:gle_x_preferred":[
+        "Berken"
+    ],
     "name:gsw_x_preferred":[
         "Berke"
+    ],
+    "name:hsb_x_preferred":[
+        "Berken"
     ],
     "name:hun_x_preferred":[
         "Berken"
@@ -75,10 +84,16 @@
     "name:nno_x_preferred":[
         "Berken"
     ],
+    "name:nob_x_preferred":[
+        "Berken"
+    ],
     "name:oci_x_preferred":[
         "Berken"
     ],
     "name:pol_x_preferred":[
+        "Berken"
+    ],
+    "name:por_x_preferred":[
         "Berken"
     ],
     "name:rus_x_preferred":[
@@ -92,6 +107,9 @@
     ],
     "name:swe_x_preferred":[
         "Berken"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u043a\u0435\u043d"
     ],
     "name:vec_x_preferred":[
         "Berken"
@@ -139,11 +157,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102063013,
         404573353,
-        85682381
+        85633051,
+        102063013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -171,7 +189,7 @@
         }
     ],
     "wof:id":1125817165,
-    "wof:lastmodified":1607981379,
+    "wof:lastmodified":1690866350,
     "wof:name":"Berken",
     "wof:parent_id":404573353,
     "wof:placetype":"locality",

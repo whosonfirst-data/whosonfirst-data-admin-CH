@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Lauperswil"
+    ],
     "name:cat_x_preferred":[
         "Lauperswil"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Lauperswil"
     ],
+    "name:gle_x_preferred":[
+        "Lauperswil"
+    ],
     "name:gsw_x_preferred":[
         "Luperschwiu"
+    ],
+    "name:hsb_x_preferred":[
+        "Lauperswil"
     ],
     "name:hun_x_preferred":[
         "Lauperswil"
@@ -74,10 +83,16 @@
     "name:nno_x_preferred":[
         "Lauperswil"
     ],
+    "name:nob_x_preferred":[
+        "Lauperswil"
+    ],
     "name:oci_x_preferred":[
         "Lauperswil"
     ],
     "name:pol_x_preferred":[
+        "Lauperswil"
+    ],
+    "name:por_x_preferred":[
         "Lauperswil"
     ],
     "name:rus_x_preferred":[
@@ -91,6 +106,9 @@
     ],
     "name:swe_x_preferred":[
         "Lauperswil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0443\u043f\u0435\u0440\u0441\u0432\u0456\u043b\u044c"
     ],
     "name:vec_x_preferred":[
         "Lauperswil"
@@ -140,11 +158,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062837,
         404568559,
-        85682381
+        85633051,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,7 +188,7 @@
         }
     ],
     "wof:id":1126036621,
-    "wof:lastmodified":1598921008,
+    "wof:lastmodified":1690866327,
     "wof:name":"Lauperswil",
     "wof:parent_id":404568559,
     "wof:placetype":"locality",

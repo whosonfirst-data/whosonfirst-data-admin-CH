@@ -41,8 +41,14 @@
     "name:fra_x_preferred":[
         "Alt Sankt Johann"
     ],
+    "name:gle_x_preferred":[
+        "Alt St. Johann"
+    ],
     "name:gsw_x_preferred":[
         "Alt Santihann"
+    ],
+    "name:hsb_x_preferred":[
+        "Alt St. Johann"
     ],
     "name:ita_x_preferred":[
         "Alt Sankt Johann"
@@ -73,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "Alt Sankt Johann"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u0442-\u0421\u0430\u043d\u043a\u0442-\u0419\u043e\u0433\u0430\u043d\u043d"
     ],
     "name:uzb_x_preferred":[
         "Alt St. Johann"
@@ -114,11 +123,11 @@
     "woe:name_adm1":"Kanton St. Gallen",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682341,
         102191581,
-        85633051,
-        102062771,
         404567825,
-        85682341
+        85633051,
+        102062771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -144,7 +153,7 @@
         }
     ],
     "wof:id":1125920409,
-    "wof:lastmodified":1598920814,
+    "wof:lastmodified":1690866234,
     "wof:name":"Alt St. Johann",
     "wof:parent_id":404567825,
     "wof:placetype":"locality",

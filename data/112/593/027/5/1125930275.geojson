@@ -38,8 +38,17 @@
     "name:fra_x_preferred":[
         "Sankt Gallenkappel"
     ],
+    "name:fra_x_variant":[
+        "St. Gallenkappel"
+    ],
+    "name:gle_x_preferred":[
+        "St. Gallenkappel"
+    ],
     "name:gsw_x_preferred":[
         "Sanggalechapele"
+    ],
+    "name:hsb_x_preferred":[
+        "St. Gallenkappel"
     ],
     "name:hun_x_preferred":[
         "St. Gallenkappel"
@@ -76,6 +85,9 @@
     ],
     "name:swe_x_preferred":[
         "Sankt Gallenkappel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0413\u0430\u043b\u043b\u0435\u043d\u043a\u0430\u043f\u043f\u0435\u043b\u044c"
     ],
     "name:uzb_x_preferred":[
         "St. Gallenkappel"
@@ -122,11 +134,11 @@
     "woe:name_adm1":"Kanton St. Gallen",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682341,
         102191581,
-        85633051,
-        102062815,
         1394253985,
-        85682341
+        85633051,
+        102062815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -152,7 +164,7 @@
         }
     ],
     "wof:id":1125930275,
-    "wof:lastmodified":1598920794,
+    "wof:lastmodified":1690866224,
     "wof:name":"St. Gallenkappel",
     "wof:parent_id":1394253985,
     "wof:placetype":"locality",

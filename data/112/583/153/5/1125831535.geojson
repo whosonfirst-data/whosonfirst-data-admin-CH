@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Schwarzenberg"
+    ],
     "name:ceb_x_preferred":[
         "Schwarzenberg"
     ],
@@ -65,10 +68,16 @@
     "name:fra_x_preferred":[
         "Schwarzenberg"
     ],
+    "name:gle_x_preferred":[
+        "Schwarzenberg"
+    ],
     "name:gsw_x_preferred":[
         "Schwarzenberg LU"
     ],
     "name:gsw_x_variant":[
+        "Schwarzenberg"
+    ],
+    "name:hsb_x_preferred":[
         "Schwarzenberg"
     ],
     "name:hun_x_preferred":[
@@ -95,7 +104,13 @@
     "name:nno_x_preferred":[
         "Schwarzenberg i Sveits"
     ],
+    "name:nob_x_preferred":[
+        "Schwarzenberg"
+    ],
     "name:pms_x_preferred":[
+        "Schwarzenberg"
+    ],
+    "name:pol_x_preferred":[
         "Schwarzenberg"
     ],
     "name:por_br_x_preferred":[
@@ -115,6 +130,9 @@
     ],
     "name:swe_x_preferred":[
         "Schwarzenberg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0432\u0430\u0440\u0446\u0435\u043d\u0431\u0435\u0440\u0433"
     ],
     "name:uzb_x_preferred":[
         "Schwarzenberg"
@@ -164,11 +182,11 @@
     "woe:name_adm1":"Kanton Luzern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682319,
         102191581,
-        85633051,
-        1394137079,
         404328181,
-        85682319
+        85633051,
+        1394137079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -194,7 +212,7 @@
         }
     ],
     "wof:id":1125831535,
-    "wof:lastmodified":1598921938,
+    "wof:lastmodified":1690866684,
     "wof:name":"Schwarzenberg",
     "wof:parent_id":404328181,
     "wof:placetype":"locality",

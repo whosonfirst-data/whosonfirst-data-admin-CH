@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Widen"
+    ],
     "name:cat_x_preferred":[
         "Widen"
     ],
@@ -48,7 +51,16 @@
     "name:fra_x_preferred":[
         "Widen"
     ],
+    "name:gle_x_preferred":[
+        "Widen"
+    ],
     "name:gsw_x_preferred":[
+        "Widen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d3\u05df"
+    ],
+    "name:hsb_x_preferred":[
         "Widen"
     ],
     "name:hun_x_preferred":[
@@ -78,6 +90,9 @@
     "name:nno_x_preferred":[
         "Widen"
     ],
+    "name:nob_x_preferred":[
+        "Widen"
+    ],
     "name:oci_x_preferred":[
         "Widen"
     ],
@@ -101,6 +116,9 @@
     ],
     "name:swe_x_preferred":[
         "Widen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0434\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "Widen"
@@ -136,10 +154,10 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633051,
-        102062825,
         1394253971,
+        85633051,
         101854439,
+        102062825,
         85682309
     ],
     "wof:breaches":[],
@@ -163,7 +181,7 @@
         }
     ],
     "wof:id":1394400751,
-    "wof:lastmodified":1598917407,
+    "wof:lastmodified":1690866020,
     "wof:name":"Widen",
     "wof:parent_id":101854439,
     "wof:placetype":"neighbourhood",

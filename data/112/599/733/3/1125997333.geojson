@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "R\u00fcdlingen"
+    ],
     "name:cat_x_preferred":[
         "R\u00fcdlingen"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "R\u00fcdlingen"
     ],
+    "name:gle_x_preferred":[
+        "R\u00fcdlingen"
+    ],
     "name:gsw_x_preferred":[
         "R\u00fcedlinge"
+    ],
+    "name:hsb_x_preferred":[
+        "R\u00fcdlingen"
     ],
     "name:hun_x_preferred":[
         "R\u00fcdlingen"
@@ -69,6 +78,9 @@
         "R\u00fcdlingen"
     ],
     "name:nno_x_preferred":[
+        "R\u00fcdlingen"
+    ],
+    "name:nob_x_preferred":[
         "R\u00fcdlingen"
     ],
     "name:oci_x_preferred":[
@@ -95,6 +107,9 @@
     "name:swe_x_preferred":[
         "R\u00fcdlingen"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u044e\u0434\u043b\u0456\u043d\u0433\u0435\u043d"
+    ],
     "name:vec_x_preferred":[
         "R\u00fcdlingen"
     ],
@@ -106,6 +121,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5415\u7279\u7075\u6839"
+    ],
+    "name:zho_x_variant":[
+        "\u5415\u5fb7\u6797\u6839"
     ],
     "nav:latitude":47.57826,
     "nav:longitude":8.57191,
@@ -141,11 +159,11 @@
     "woe:name_adm1":"Kanton Schaffhausen",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682285,
         102191581,
-        85633051,
-        1394137119,
         404328643,
-        85682285
+        85633051,
+        1394137119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -171,7 +189,7 @@
         }
     ],
     "wof:id":1125997333,
-    "wof:lastmodified":1598921209,
+    "wof:lastmodified":1690866422,
     "wof:name":"R\u00fcdlingen",
     "wof:parent_id":404328643,
     "wof:placetype":"locality",

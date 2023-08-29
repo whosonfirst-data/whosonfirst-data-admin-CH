@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Walperswil"
+    ],
     "name:cat_x_preferred":[
         "Walperswil"
     ],
@@ -47,8 +50,14 @@
     "name:fra_x_preferred":[
         "Walperswil"
     ],
+    "name:gle_x_preferred":[
+        "Walperswil"
+    ],
     "name:gsw_x_preferred":[
         "Wauperswiu"
+    ],
+    "name:hsb_x_preferred":[
+        "Walperswil"
     ],
     "name:hun_x_preferred":[
         "Walperswil"
@@ -71,7 +80,16 @@
     "name:nno_x_preferred":[
         "Walperswil"
     ],
+    "name:nob_x_preferred":[
+        "Walperswil"
+    ],
     "name:oci_x_preferred":[
+        "Walperswil"
+    ],
+    "name:pol_x_preferred":[
+        "Walperswil"
+    ],
+    "name:por_x_preferred":[
         "Walperswil"
     ],
     "name:rus_x_preferred":[
@@ -85,6 +103,9 @@
     ],
     "name:swe_x_preferred":[
         "Walperswil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u043f\u0435\u0440\u0441\u0432\u0456\u043b\u044c"
     ],
     "name:vec_x_preferred":[
         "Walperswil"
@@ -131,11 +152,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062909,
         404570597,
-        85682381
+        85633051,
+        102062909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -164,7 +185,7 @@
         }
     ],
     "wof:id":1125860671,
-    "wof:lastmodified":1598921032,
+    "wof:lastmodified":1690866340,
     "wof:name":"Walperswil",
     "wof:parent_id":404570597,
     "wof:placetype":"locality",

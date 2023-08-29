@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Remigen"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0435\u043c\u0438\u0433\u0435\u043d"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Remigen"
     ],
+    "name:gle_x_preferred":[
+        "Remigen"
+    ],
     "name:gsw_x_preferred":[
         "Remige"
+    ],
+    "name:hsb_x_preferred":[
+        "Remigen"
     ],
     "name:hun_x_preferred":[
         "Remigen"
@@ -77,10 +86,16 @@
     "name:nno_x_preferred":[
         "Remigen"
     ],
+    "name:nob_x_preferred":[
+        "Remigen"
+    ],
     "name:oci_x_preferred":[
         "Remigen"
     ],
     "name:pol_x_preferred":[
+        "Remigen"
+    ],
+    "name:por_x_preferred":[
         "Remigen"
     ],
     "name:rus_x_preferred":[
@@ -94,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Remigen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043c\u0456\u0433\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "Remigen"
@@ -145,11 +163,11 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062993,
         404570315,
-        85682329
+        85633051,
+        102062993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -178,7 +196,7 @@
         }
     ],
     "wof:id":1125845219,
-    "wof:lastmodified":1598921884,
+    "wof:lastmodified":1690866658,
     "wof:name":"Remigen",
     "wof:parent_id":404570315,
     "wof:placetype":"locality",

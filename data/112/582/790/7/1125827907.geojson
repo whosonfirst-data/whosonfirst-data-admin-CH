@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Gipf-Oberfrick"
+    ],
     "name:cat_x_preferred":[
         "Gipf-Oberfrick"
     ],
@@ -47,7 +50,13 @@
     "name:fra_x_preferred":[
         "Gipf-Oberfrick"
     ],
+    "name:gle_x_preferred":[
+        "Gipf-Oberfrick"
+    ],
     "name:gsw_x_preferred":[
+        "Gipf-Oberfrick"
+    ],
+    "name:hsb_x_preferred":[
         "Gipf-Oberfrick"
     ],
     "name:hun_x_preferred":[
@@ -74,10 +83,16 @@
     "name:nno_x_preferred":[
         "Gipf-Oberfrick"
     ],
+    "name:nob_x_preferred":[
+        "Gipf-Oberfrick"
+    ],
     "name:oci_x_preferred":[
         "Gipf-Oberfrick"
     ],
     "name:pol_x_preferred":[
+        "Gipf-Oberfrick"
+    ],
+    "name:por_x_preferred":[
         "Gipf-Oberfrick"
     ],
     "name:rus_x_preferred":[
@@ -91,6 +106,9 @@
     ],
     "name:swe_x_preferred":[
         "Gipf-Oberfrick"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u043f\u0444-\u041e\u0431\u0435\u0440\u0444\u0440\u0456\u043a"
     ],
     "name:uzb_x_preferred":[
         "Gipf-Oberfrick"
@@ -142,11 +160,11 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062977,
         404569743,
-        85682329
+        85633051,
+        102062977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +193,7 @@
         }
     ],
     "wof:id":1125827907,
-    "wof:lastmodified":1598921743,
+    "wof:lastmodified":1690866585,
     "wof:name":"Gipf-Oberfrick",
     "wof:parent_id":404569743,
     "wof:placetype":"locality",

@@ -33,8 +33,14 @@
     "name:azb_x_variant":[
         "\u0622\u06cc\u0646\u200c\u0633\u06cc\u062f\u0646\u060c \u0633\u0648\u0626\u06cc\u0633"
     ],
+    "name:aze_x_preferred":[
+        "Aynzideln"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0439\u043d\u0437\u0456\u0434\u044d\u043b\u044c\u043d"
+    ],
+    "name:bre_x_preferred":[
+        "Einsiedeln"
     ],
     "name:cat_x_preferred":[
         "Einsiedeln"
@@ -97,8 +103,14 @@
     "name:hrv_x_preferred":[
         "Einsiedeln"
     ],
+    "name:hsb_x_preferred":[
+        "Einsiedeln"
+    ],
     "name:hun_x_preferred":[
         "Einsiedeln"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0576\u0566\u056b\u0564\u0565\u056c\u0576"
     ],
     "name:ita_x_preferred":[
         "Einsiedeln"
@@ -111,6 +123,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\uc778\uc9c0\ub378\ub978"
+    ],
+    "name:kur_x_preferred":[
+        "Einsiedeln"
     ],
     "name:lmo_x_preferred":[
         "Einsiedeln"
@@ -224,11 +239,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682305,
         102191581,
-        85633051,
-        102062795,
         1394254135,
-        85682305
+        85633051,
+        102062795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -260,7 +275,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1598919056,
+    "wof:lastmodified":1690866146,
     "wof:name":"Einsiedeln",
     "wof:parent_id":1394254135,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Grandfontaine"
+    ],
     "name:cat_x_preferred":[
         "Grandfontaine"
     ],
@@ -47,10 +50,19 @@
     "name:epo_x_variant":[
         "Grandfontaine"
     ],
+    "name:eus_x_preferred":[
+        "Grandfontaine"
+    ],
     "name:fra_x_preferred":[
         "Grandfontaine"
     ],
+    "name:gle_x_preferred":[
+        "Grandfontaine"
+    ],
     "name:gsw_x_preferred":[
+        "Grandfontaine"
+    ],
+    "name:hsb_x_preferred":[
         "Grandfontaine"
     ],
     "name:hun_x_preferred":[
@@ -74,6 +86,12 @@
     "name:oci_x_preferred":[
         "Grandfontaine"
     ],
+    "name:pol_x_preferred":[
+        "Grandfontaine"
+    ],
+    "name:por_x_preferred":[
+        "Grandfontaine"
+    ],
     "name:roh_x_preferred":[
         "Grandfontaine"
     ],
@@ -86,6 +104,9 @@
     "name:swe_x_preferred":[
         "Grandfontaine"
     ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0444\u043e\u043d\u0442\u0435\u043d"
+    ],
     "name:vec_x_preferred":[
         "Grandfontaine"
     ],
@@ -97,6 +118,9 @@
     ],
     "name:zho_x_preferred":[
         "\u683c\u862d\u5fb7\u8c50\u5766"
+    ],
+    "name:zho_x_variant":[
+        "\u683c\u6717\u65b9\u4e39"
     ],
     "nav:latitude":47.3917,
     "nav:longitude":6.93952,
@@ -133,11 +157,11 @@
     "woe:name_adm1":"Canton de Jura",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682347,
         102191581,
-        85633051,
-        102063059,
         404570015,
-        85682347
+        85633051,
+        102063059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,7 +190,7 @@
         }
     ],
     "wof:id":1125982027,
-    "wof:lastmodified":1598921396,
+    "wof:lastmodified":1690866526,
     "wof:name":"Grandfontaine",
     "wof:parent_id":404570015,
     "wof:placetype":"locality",

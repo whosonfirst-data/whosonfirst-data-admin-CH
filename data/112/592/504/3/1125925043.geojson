@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Gurmels"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0443\u0440\u043c\u0435\u043b\u0441"
     ],
@@ -45,7 +48,13 @@
     "name:fra_x_preferred":[
         "Cormondes"
     ],
+    "name:gle_x_preferred":[
+        "Gurmels"
+    ],
     "name:gsw_x_preferred":[
+        "Gurmels"
+    ],
+    "name:hsb_x_preferred":[
         "Gurmels"
     ],
     "name:hun_x_preferred":[
@@ -69,6 +78,12 @@
     "name:nno_x_preferred":[
         "Gurmels"
     ],
+    "name:nob_x_preferred":[
+        "Gurmels"
+    ],
+    "name:pol_x_preferred":[
+        "Gurmels"
+    ],
     "name:roh_x_preferred":[
         "Gurmels"
     ],
@@ -80,6 +95,9 @@
     ],
     "name:swe_x_preferred":[
         "Gurmels"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0440\u043c\u0435\u043b\u044c\u0441"
     ],
     "name:vec_x_preferred":[
         "Gurmels"
@@ -127,11 +145,11 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682301,
         102191581,
-        85633051,
-        102062765,
         1175611207,
-        85682301
+        85633051,
+        102062765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":1125925043,
-    "wof:lastmodified":1598920809,
+    "wof:lastmodified":1690866232,
     "wof:name":"Gurmels",
     "wof:parent_id":1175611207,
     "wof:placetype":"locality",

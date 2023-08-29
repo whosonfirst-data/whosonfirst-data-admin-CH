@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Biezwil"
+    ],
     "name:cat_x_preferred":[
         "Biezwil"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Biezwil"
     ],
+    "name:gle_x_preferred":[
+        "Biezwil"
+    ],
     "name:gsw_x_preferred":[
         "Biezwiu"
+    ],
+    "name:hsb_x_preferred":[
+        "Biezwil"
     ],
     "name:hun_x_preferred":[
         "Biezwil"
@@ -80,6 +89,12 @@
     "name:oci_x_preferred":[
         "Biezwil"
     ],
+    "name:pol_x_preferred":[
+        "Biezwil"
+    ],
+    "name:por_x_preferred":[
+        "Biezwil"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0438\u0446\u0432\u0438\u043b\u044c"
     ],
@@ -91,6 +106,9 @@
     ],
     "name:swe_x_preferred":[
         "Biezwil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0446\u0432\u0456\u043b\u044c"
     ],
     "name:uzb_x_preferred":[
         "Biezwil"
@@ -140,11 +158,11 @@
     "woe:name_adm1":"Kanton Solothurn",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682365,
         102191581,
-        85633051,
-        1394137095,
         404328745,
-        85682365
+        85633051,
+        1394137095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,7 +191,7 @@
         }
     ],
     "wof:id":1126016177,
-    "wof:lastmodified":1598921645,
+    "wof:lastmodified":1690866546,
     "wof:name":"Biezwil",
     "wof:parent_id":404328745,
     "wof:placetype":"locality",

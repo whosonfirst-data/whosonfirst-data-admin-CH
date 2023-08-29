@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Sembrancher"
+    ],
     "name:cat_x_preferred":[
         "Sembrancher"
     ],
@@ -53,7 +56,16 @@
     "name:fra_x_preferred":[
         "Sembrancher"
     ],
+    "name:frp_x_preferred":[
+        "Sant-Brenchi\u00e9s"
+    ],
+    "name:gle_x_preferred":[
+        "Sembrancher"
+    ],
     "name:gsw_x_preferred":[
+        "Sembrancher"
+    ],
+    "name:hsb_x_preferred":[
         "Sembrancher"
     ],
     "name:hun_x_preferred":[
@@ -64,6 +76,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30d6\u30e9\u30f3\u30b7\u30a7\u30fc\u30eb"
+    ],
+    "name:kur_x_preferred":[
+        "Sembrancher"
     ],
     "name:lmo_x_preferred":[
         "Sembrancher"
@@ -77,10 +92,16 @@
     "name:nno_x_preferred":[
         "Sembrancher"
     ],
+    "name:nob_x_preferred":[
+        "Sembrancher"
+    ],
     "name:oci_x_preferred":[
         "Sembrancher"
     ],
     "name:pol_x_preferred":[
+        "Sembrancher"
+    ],
+    "name:por_x_preferred":[
         "Sembrancher"
     ],
     "name:roh_x_preferred":[
@@ -95,6 +116,9 @@
     "name:swe_x_preferred":[
         "Sembrancher"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0431\u0440\u0430\u043d\u0448\u0435"
+    ],
     "name:vec_x_preferred":[
         "Sembrancher"
     ],
@@ -106,6 +130,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6851\u5e0c\u6717\u8b1d"
+    ],
+    "name:zho_x_variant":[
+        "\u6851\u5e03\u6717\u8b1d"
     ],
     "nav:latitude":46.07752,
     "nav:longitude":7.15279,
@@ -142,11 +169,11 @@
     "woe:name_adm1":"Canton de Valais",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682281,
         102191581,
-        85633051,
-        102062807,
         404568727,
-        85682281
+        85633051,
+        102062807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +202,7 @@
         }
     ],
     "wof:id":1125911183,
-    "wof:lastmodified":1598921340,
+    "wof:lastmodified":1690866494,
     "wof:name":"Sembrancher",
     "wof:parent_id":404568727,
     "wof:placetype":"locality",

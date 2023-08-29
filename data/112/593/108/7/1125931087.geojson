@@ -26,6 +26,9 @@
     "name:afr_x_preferred":[
         "M\u00fcnchenwiler"
     ],
+    "name:bre_x_preferred":[
+        "M\u00fcnchenwiler"
+    ],
     "name:cat_x_preferred":[
         "M\u00fcnchenwiler"
     ],
@@ -53,8 +56,14 @@
     "name:fra_x_variant":[
         "Villars-les-Moines"
     ],
+    "name:gle_x_preferred":[
+        "M\u00fcnchenwiler"
+    ],
     "name:gsw_x_preferred":[
         "M\u00fcnchewiler"
+    ],
+    "name:hsb_x_preferred":[
+        "M\u00fcnchenwiler"
     ],
     "name:hun_x_preferred":[
         "M\u00fcnchenwiler"
@@ -80,6 +89,15 @@
     "name:nno_x_preferred":[
         "M\u00fcnchenwiler"
     ],
+    "name:nob_x_preferred":[
+        "M\u00fcnchenwiler"
+    ],
+    "name:pol_x_preferred":[
+        "M\u00fcnchenwiler"
+    ],
+    "name:por_x_preferred":[
+        "M\u00fcnchenwiler"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u044e\u043d\u0445\u0435\u043d\u0432\u0438\u043b\u0435\u0440"
     ],
@@ -91,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "M\u00fcnchenwiler"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u044e\u043d\u0445\u0435\u043d\u0432\u0456\u043b\u0435\u0440"
     ],
     "name:vec_x_preferred":[
         "M\u00fcnchenwiler"
@@ -141,11 +162,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062861,
         404572359,
-        85682381
+        85633051,
+        102062861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -174,7 +195,7 @@
         }
     ],
     "wof:id":1125931087,
-    "wof:lastmodified":1598920793,
+    "wof:lastmodified":1690866223,
     "wof:name":"M\u00fcnchenwiler",
     "wof:parent_id":404572359,
     "wof:placetype":"locality",

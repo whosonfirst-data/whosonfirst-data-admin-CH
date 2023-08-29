@@ -29,16 +29,25 @@
     "name:ara_x_variant":[
         "\u0628\u0648\u0644\u0627\u062e"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0644\u0627\u062e"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0644\u06a9"
     ],
     "name:bel_x_preferred":[
         "\u0411\u044e\u043b\u0430\u0445"
     ],
+    "name:bre_x_preferred":[
+        "B\u00fclach"
+    ],
     "name:cat_x_preferred":[
         "B\u00fclach"
     ],
     "name:ceb_x_preferred":[
+        "B\u00fclach"
+    ],
+    "name:ces_x_preferred":[
         "B\u00fclach"
     ],
     "name:chv_x_preferred":[
@@ -83,6 +92,9 @@
     "name:fra_x_preferred":[
         "B\u00fclach"
     ],
+    "name:gle_x_preferred":[
+        "B\u00fclach"
+    ],
     "name:gsw_x_preferred":[
         "B\u00fc\u00fcli"
     ],
@@ -90,6 +102,9 @@
         "\u05d1\u05d9\u05dc\u05d0\u05da"
     ],
     "name:hrv_x_preferred":[
+        "B\u00fclach"
+    ],
+    "name:hsb_x_preferred":[
         "B\u00fclach"
     ],
     "name:hun_x_preferred":[
@@ -106,6 +121,12 @@
     ],
     "name:kaz_x_preferred":[
         "\u0411\u044e\u043b\u0430\u0445"
+    ],
+    "name:kor_x_preferred":[
+        "\ubddc\ub77c\ud750"
+    ],
+    "name:kur_x_preferred":[
+        "B\u00fclach"
     ],
     "name:lat_x_preferred":[
         "Pulacha"
@@ -125,10 +146,16 @@
     "name:nno_x_preferred":[
         "B\u00fclach"
     ],
+    "name:nob_x_preferred":[
+        "B\u00fclach"
+    ],
     "name:oci_x_preferred":[
         "B\u00fclach"
     ],
     "name:pol_x_preferred":[
+        "B\u00fclach"
+    ],
+    "name:por_x_preferred":[
         "B\u00fclach"
     ],
     "name:rus_x_preferred":[
@@ -198,11 +225,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682309,
         102191581,
-        85633051,
-        102063019,
         404568829,
-        85682309
+        85633051,
+        102063019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -237,7 +264,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1598919069,
+    "wof:lastmodified":1690866155,
     "wof:name":"B\u00fclach",
     "wof:parent_id":404568829,
     "wof:placetype":"locality",

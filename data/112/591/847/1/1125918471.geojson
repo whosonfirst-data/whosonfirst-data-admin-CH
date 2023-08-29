@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Les Bois"
+    ],
     "name:cat_x_preferred":[
         "Les Bois"
     ],
@@ -44,7 +47,13 @@
     "name:fra_x_preferred":[
         "Les Bois"
     ],
+    "name:gle_x_preferred":[
+        "Les Bois"
+    ],
     "name:gsw_x_preferred":[
+        "Les Bois"
+    ],
+    "name:hsb_x_preferred":[
         "Les Bois"
     ],
     "name:hun_x_preferred":[
@@ -65,7 +74,16 @@
     "name:nno_x_preferred":[
         "Les Bois"
     ],
+    "name:nob_x_preferred":[
+        "Les Bois"
+    ],
     "name:oci_x_preferred":[
+        "Les Bois"
+    ],
+    "name:pol_x_preferred":[
+        "Les Bois"
+    ],
+    "name:por_x_preferred":[
         "Les Bois"
     ],
     "name:roh_x_preferred":[
@@ -83,6 +101,9 @@
     "name:swe_x_preferred":[
         "Les Bois"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u0411\u0443\u0430"
+    ],
     "name:vec_x_preferred":[
         "Les Bois"
     ],
@@ -94,6 +115,9 @@
     ],
     "name:zho_x_preferred":[
         "\u52d2\u5e03\u74e6"
+    ],
+    "name:zho_x_variant":[
+        "\u83b1\u5e03\u74e6"
     ],
     "nav:latitude":47.17715,
     "nav:longitude":6.90498,
@@ -128,11 +152,11 @@
     "woe:name_adm1":"Canton de Jura",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682347,
         102191581,
-        85633051,
-        102062875,
         404568403,
-        85682347
+        85633051,
+        102062875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -161,7 +185,7 @@
         }
     ],
     "wof:id":1125918471,
-    "wof:lastmodified":1598921366,
+    "wof:lastmodified":1690866509,
     "wof:name":"Les Bois",
     "wof:parent_id":404568403,
     "wof:placetype":"locality",

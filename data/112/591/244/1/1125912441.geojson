@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Guttannen"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0443\u0442\u0430\u043d\u0435\u043d"
     ],
@@ -59,11 +62,17 @@
     "name:fra_x_preferred":[
         "Guttannen"
     ],
+    "name:gle_x_preferred":[
+        "Guttannen"
+    ],
     "name:gsw_x_preferred":[
         "G\u00f6\u00f6ttanne"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d5\u05d8\u05d0\u05e0\u05df"
+    ],
+    "name:hsb_x_preferred":[
+        "Guttannen"
     ],
     "name:hun_x_preferred":[
         "Guttannen"
@@ -77,8 +86,14 @@
     "name:kaz_x_preferred":[
         "\u0413\u0443\u0442\u0442\u0430\u043d\u043d\u0435\u043d"
     ],
+    "name:kor_x_preferred":[
+        "\uad6c\ud0c4\ub128"
+    ],
     "name:lmo_x_preferred":[
         "Guttannen"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0443\u0442\u0442\u0430\u043d\u0435\u043d"
     ],
     "name:msa_x_preferred":[
         "Guttannen"
@@ -87,6 +102,9 @@
         "Guttannen"
     ],
     "name:nno_x_preferred":[
+        "Guttannen"
+    ],
+    "name:nob_x_preferred":[
         "Guttannen"
     ],
     "name:oci_x_preferred":[
@@ -121,6 +139,9 @@
     ],
     "name:swe_x_preferred":[
         "Guttannen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0442\u0442\u0430\u043d\u043d\u0435\u043d"
     ],
     "name:vec_x_preferred":[
         "Guttannen"
@@ -171,11 +192,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062759,
         404567713,
-        85682381
+        85633051,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -204,7 +225,7 @@
         }
     ],
     "wof:id":1125912441,
-    "wof:lastmodified":1598921324,
+    "wof:lastmodified":1690866485,
     "wof:name":"Guttannen",
     "wof:parent_id":404567713,
     "wof:placetype":"locality",

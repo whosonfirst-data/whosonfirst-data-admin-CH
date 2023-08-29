@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "H\u00e4tzingen"
     ],
+    "name:gle_x_preferred":[
+        "H\u00e4tzingen"
+    ],
+    "name:hsb_x_preferred":[
+        "H\u00e4tzingen"
+    ],
     "name:ita_x_preferred":[
         "H\u00e4tzingen"
     ],
@@ -50,11 +56,20 @@
     "name:nld_x_preferred":[
         "H\u00e4tzingen"
     ],
+    "name:nob_x_preferred":[
+        "H\u00e4tzingen"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0435\u0442\u0446\u0438\u043d\u0433\u0435\u043d"
     ],
+    "name:smn_x_preferred":[
+        "H\u00e4tzingen"
+    ],
     "name:swe_x_preferred":[
         "H\u00e4tzingen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0442\u0446\u0456\u043d\u0433\u0435\u043d"
     ],
     "name:uzb_x_preferred":[
         "H\u00e4tzingen"
@@ -81,11 +96,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682249,
         102191581,
-        85633051,
-        102063003,
         404328109,
-        85682249
+        85633051,
+        102063003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":1126049491,
-    "wof:lastmodified":1598920963,
+    "wof:lastmodified":1690866301,
     "wof:name":"H\u00e4tzingen",
     "wof:parent_id":404328109,
     "wof:placetype":"locality",

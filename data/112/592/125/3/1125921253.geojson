@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Wallbach"
+    ],
     "name:cat_x_preferred":[
         "Wallbach"
     ],
@@ -50,10 +53,16 @@
     "name:fra_x_preferred":[
         "Wallbach"
     ],
+    "name:gle_x_preferred":[
+        "Wallbach"
+    ],
     "name:gsw_x_preferred":[
         "Wallbach AG"
     ],
     "name:gsw_x_variant":[
+        "Wallbach"
+    ],
+    "name:hsb_x_preferred":[
         "Wallbach"
     ],
     "name:hun_x_preferred":[
@@ -80,7 +89,16 @@
     "name:nno_x_preferred":[
         "Wallbach i Sveits"
     ],
+    "name:nob_x_preferred":[
+        "Wallbach"
+    ],
     "name:oci_x_preferred":[
+        "Wallbach"
+    ],
+    "name:pol_x_preferred":[
+        "Wallbach"
+    ],
+    "name:por_x_preferred":[
         "Wallbach"
     ],
     "name:rus_x_preferred":[
@@ -94,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "Wallbach"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u043b\u044c\u0431\u0430\u0445"
     ],
     "name:uzb_x_preferred":[
         "Wallbach"
@@ -144,11 +165,11 @@
     "woe:name_adm1":"Kanton Aargau",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682329,
         102191581,
-        85633051,
-        102062905,
         404571457,
-        85682329
+        85633051,
+        102062905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -177,7 +198,7 @@
         }
     ],
     "wof:id":1125921253,
-    "wof:lastmodified":1598920837,
+    "wof:lastmodified":1690866248,
     "wof:name":"Wallbach",
     "wof:parent_id":404571457,
     "wof:placetype":"locality",

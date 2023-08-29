@@ -23,7 +23,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Bosco/Gurin"
+    ],
     "name:ceb_x_preferred":[
+        "Bosco/Gurin"
+    ],
+    "name:ces_x_preferred":[
         "Bosco/Gurin"
     ],
     "name:deu_x_preferred":[
@@ -50,8 +56,14 @@
     "name:fra_x_preferred":[
         "Bosco/Gurin"
     ],
+    "name:gle_x_preferred":[
+        "Bosco/Gurin"
+    ],
     "name:gsw_x_preferred":[
         "Gurin"
+    ],
+    "name:hsb_x_preferred":[
+        "Bosco/Gurin"
     ],
     "name:hun_x_preferred":[
         "Bosco/Gurin"
@@ -74,6 +86,9 @@
     "name:nno_x_preferred":[
         "Bosco Gurin"
     ],
+    "name:nob_x_preferred":[
+        "Bosco/Gurin"
+    ],
     "name:por_br_x_preferred":[
         "Bosco Gurin"
     ],
@@ -94,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Bosco/Gurin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0441\u043a\u043e/\u0413\u0443\u0440\u0456\u043d"
     ],
     "name:vec_x_preferred":[
         "Bosco/Gurin"
@@ -142,11 +160,11 @@
     "woe:name_adm1":"Cantone Ticino",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682269,
         102191581,
-        85633051,
-        102062957,
         404568525,
-        85682269
+        85633051,
+        102062957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +193,7 @@
         }
     ],
     "wof:id":1125823553,
-    "wof:lastmodified":1598921745,
+    "wof:lastmodified":1690866586,
     "wof:name":"Bosco/Gurin",
     "wof:parent_id":404568525,
     "wof:placetype":"locality",

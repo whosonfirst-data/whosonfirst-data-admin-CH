@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Matran"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0442\u0440\u0430\u043d"
     ],
@@ -50,7 +53,13 @@
     "name:fra_x_preferred":[
         "Matran"
     ],
+    "name:gle_x_preferred":[
+        "Matran"
+    ],
     "name:gsw_x_preferred":[
+        "Matran"
+    ],
+    "name:hsb_x_preferred":[
         "Matran"
     ],
     "name:hun_x_preferred":[
@@ -74,10 +83,16 @@
     "name:nno_x_preferred":[
         "Matran"
     ],
+    "name:nob_x_preferred":[
+        "Matran"
+    ],
     "name:oci_x_preferred":[
         "Matran"
     ],
     "name:pms_x_preferred":[
+        "Matran"
+    ],
+    "name:pol_x_preferred":[
         "Matran"
     ],
     "name:por_x_preferred":[
@@ -94,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Matran"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0442\u0440\u0430\u043d"
     ],
     "name:vec_x_preferred":[
         "Matran"
@@ -145,11 +163,11 @@
     "woe:name_adm1":"Canton de Fribourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682301,
         102191581,
-        85633051,
-        102063029,
         404572147,
-        85682301
+        85633051,
+        102063029
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +193,7 @@
         }
     ],
     "wof:id":1125887723,
-    "wof:lastmodified":1598921081,
+    "wof:lastmodified":1690866364,
     "wof:name":"Matran",
     "wof:parent_id":404572147,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:bre_x_preferred":[
+        "Mels"
+    ],
     "name:cat_x_preferred":[
         "Mels"
     ],
@@ -46,7 +49,13 @@
     "name:fra_x_preferred":[
         "Mels"
     ],
+    "name:gle_x_preferred":[
+        "Mels"
+    ],
     "name:gsw_x_preferred":[
+        "Mels"
+    ],
+    "name:hsb_x_preferred":[
         "Mels"
     ],
     "name:hun_x_preferred":[
@@ -57,6 +66,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e1\u30eb\u30b9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0435\u043b\u044c\u0441"
     ],
     "name:lat_x_preferred":[
         "Meilis"
@@ -71,6 +83,9 @@
         "Mels"
     ],
     "name:nno_x_preferred":[
+        "Mels"
+    ],
+    "name:nob_x_preferred":[
         "Mels"
     ],
     "name:oci_x_preferred":[
@@ -94,8 +109,14 @@
     "name:spa_x_preferred":[
         "Mels"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u043b\u0441"
+    ],
     "name:swe_x_preferred":[
         "Mels"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u044c\u0441"
     ],
     "name:vec_x_preferred":[
         "Mels"
@@ -134,11 +155,11 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85682341,
         102191581,
-        85633051,
-        102062963,
         404567749,
-        85682341
+        85633051,
+        102062963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,7 +187,7 @@
         }
     ],
     "wof:id":101854263,
-    "wof:lastmodified":1598919106,
+    "wof:lastmodified":1690866179,
     "wof:name":"Mels",
     "wof:parent_id":404567749,
     "wof:placetype":"locality",

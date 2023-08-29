@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Lohn"
+    ],
     "name:cat_x_preferred":[
         "Lohn"
     ],
@@ -53,10 +56,16 @@
     "name:fra_x_preferred":[
         "Lohn"
     ],
+    "name:gle_x_preferred":[
+        "Lohn"
+    ],
     "name:gsw_x_preferred":[
         "Lohn GR"
     ],
     "name:gsw_x_variant":[
+        "Lohn"
+    ],
+    "name:hsb_x_preferred":[
         "Lohn"
     ],
     "name:hun_x_preferred":[
@@ -82,6 +91,9 @@
     ],
     "name:nno_x_preferred":[
         "Lohn i Graub\u00fcnden"
+    ],
+    "name:nob_x_preferred":[
+        "Lohn"
     ],
     "name:oci_x_preferred":[
         "Lohn"
@@ -144,11 +156,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682255,
         102191581,
-        85633051,
-        1394137069,
         404570225,
-        85682255
+        85633051,
+        1394137069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -176,7 +188,7 @@
         }
     ],
     "wof:id":1125898851,
-    "wof:lastmodified":1598921102,
+    "wof:lastmodified":1690866376,
     "wof:name":"Lohn",
     "wof:parent_id":404570225,
     "wof:placetype":"locality",

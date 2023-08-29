@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Iseltwald"
+    ],
     "name:cat_x_preferred":[
         "Iseltwald"
     ],
@@ -50,11 +53,17 @@
     "name:fra_x_preferred":[
         "Iseltwald"
     ],
+    "name:gle_x_preferred":[
+        "Iseltwald"
+    ],
     "name:gsw_x_preferred":[
         "Iseltwaald"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05e1\u05dc\u05d8\u05d5\u05d5\u05dc\u05d3"
+    ],
+    "name:hsb_x_preferred":[
+        "Iseltwald"
     ],
     "name:hun_x_preferred":[
         "Iseltwald"
@@ -64,6 +73,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0418\u0437\u0435\u043b\u044c\u0442\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc824\ud2b8\ubc1c\ud2b8"
     ],
     "name:lmo_x_preferred":[
         "Iseltwald"
@@ -75,6 +87,9 @@
         "Iseltwald"
     ],
     "name:nno_x_preferred":[
+        "Iseltwald"
+    ],
+    "name:nob_x_preferred":[
         "Iseltwald"
     ],
     "name:oci_x_preferred":[
@@ -103,6 +118,9 @@
     ],
     "name:swe_x_preferred":[
         "Iseltwald"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0437\u0435\u043b\u044c\u0442\u0432\u0430\u043b\u044c\u0434"
     ],
     "name:vec_x_preferred":[
         "Iseltwald"
@@ -154,11 +172,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062759,
         404568453,
-        85682381
+        85633051,
+        102062759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -187,7 +205,7 @@
         }
     ],
     "wof:id":1125793423,
-    "wof:lastmodified":1598921871,
+    "wof:lastmodified":1690866652,
     "wof:name":"Iseltwald",
     "wof:parent_id":404568453,
     "wof:placetype":"locality",

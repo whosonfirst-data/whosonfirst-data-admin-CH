@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Neuheim"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0435\u0443\u0445\u0435\u0438\u043c"
     ],
@@ -30,6 +33,9 @@
         "Neuheim"
     ],
     "name:ceb_x_preferred":[
+        "Neuheim"
+    ],
+    "name:ces_x_preferred":[
         "Neuheim"
     ],
     "name:chv_x_preferred":[
@@ -59,10 +65,16 @@
     "name:fra_x_preferred":[
         "Neuheim"
     ],
+    "name:gle_x_preferred":[
+        "Neuheim"
+    ],
     "name:gsw_x_preferred":[
         "Neuheim ZG"
     ],
     "name:gsw_x_variant":[
+        "Neuheim"
+    ],
+    "name:hsb_x_preferred":[
         "Neuheim"
     ],
     "name:hun_x_preferred":[
@@ -106,6 +118,12 @@
     ],
     "name:swe_x_preferred":[
         "Neuheim"
+    ],
+    "name:tur_x_preferred":[
+        "Neuheim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0439\u0433\u0430\u0439\u043c"
     ],
     "name:vec_x_preferred":[
         "Neuheim"
@@ -154,11 +172,11 @@
     "woe:name_adm1":"Kanton Zug",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682263,
         102191581,
-        85633051,
-        102063067,
         404328493,
-        85682263
+        85633051,
+        102063067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -187,7 +205,7 @@
         }
     ],
     "wof:id":1126025359,
-    "wof:lastmodified":1598920900,
+    "wof:lastmodified":1690866266,
     "wof:name":"Neuheim",
     "wof:parent_id":404328493,
     "wof:placetype":"locality",

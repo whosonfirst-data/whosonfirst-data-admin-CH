@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0634\u0648\u0641\u062a\u0632\u0644"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u0448\u0430\u0444\u0446\u044d\u043b\u044c"
+    ],
+    "name:bre_x_preferred":[
+        "Bischofszell"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u0441\u0447\u043e\u0444\u0441\u0437\u0435\u043b"
     ],
@@ -58,11 +64,17 @@
     "name:fra_x_preferred":[
         "Bischofszell"
     ],
+    "name:gle_x_preferred":[
+        "Bischofszell"
+    ],
     "name:gsw_x_preferred":[
         "Bischofszell"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05e9\u05d5\u05e4\u05d6\u05d5\u05d6\u05d5\u05dc"
+    ],
+    "name:hsb_x_preferred":[
+        "Bischofszell"
     ],
     "name:hun_x_preferred":[
         "Bischofszell"
@@ -76,6 +88,9 @@
     "name:kaz_x_preferred":[
         "\u0411\u0438\u0448\u043e\u0444\u0441\u0446\u0435\u043b\u043b\u044c"
     ],
+    "name:kur_x_preferred":[
+        "Bischofszell"
+    ],
     "name:lmo_x_preferred":[
         "Bischofszell"
     ],
@@ -86,6 +101,9 @@
         "Bischofszell"
     ],
     "name:nno_x_preferred":[
+        "Bischofszell"
+    ],
+    "name:nob_x_preferred":[
         "Bischofszell"
     ],
     "name:oci_x_preferred":[
@@ -111,6 +129,9 @@
     ],
     "name:tur_x_preferred":[
         "Bischofszell"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0448\u043e\u0444\u0441\u0446\u0435\u043b\u043b\u044c"
     ],
     "name:uzb_x_preferred":[
         "Bischofszell"
@@ -152,11 +173,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3607,
     "wof:belongsto":[
+        85682337,
         102191581,
-        85633051,
-        102062955,
         404569203,
-        85682337
+        85633051,
+        102062955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -191,7 +212,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1598919058,
+    "wof:lastmodified":1690866148,
     "wof:name":"Bischofszell",
     "wof:parent_id":404569203,
     "wof:placetype":"locality",

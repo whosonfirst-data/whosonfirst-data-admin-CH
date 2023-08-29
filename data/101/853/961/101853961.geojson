@@ -71,6 +71,9 @@
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03b9\u03bd\u03c4 \u039c\u03cc\u03c1\u03b9\u03c4\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03bd\u03ba\u03c4 \u039c\u03cc\u03c1\u03b9\u03c4\u03c2"
+    ],
     "name:eng_x_preferred":[
         "St. Moritz"
     ],
@@ -104,6 +107,9 @@
     "name:fry_x_preferred":[
         "Sankt Moritz"
     ],
+    "name:gle_x_preferred":[
+        "St. Moritz"
+    ],
     "name:gsw_x_preferred":[
         "St. Moritz"
     ],
@@ -114,6 +120,9 @@
         "\u05e1\u05e0\u05d8 \u05de\u05d5\u05e8\u05d9\u05e5"
     ],
     "name:hrv_x_preferred":[
+        "St. Moritz"
+    ],
+    "name:hsb_x_preferred":[
         "St. Moritz"
     ],
     "name:hun_x_preferred":[
@@ -127,6 +136,9 @@
     ],
     "name:ita_x_preferred":[
         "Sankt Moritz"
+    ],
+    "name:ita_x_variant":[
+        "Saint Moritz"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30e2\u30ea\u30c3\u30c4"
@@ -304,11 +316,11 @@
     "src:population":"geonames",
     "wd:wordcount":2513,
     "wof:belongsto":[
+        85682255,
         102191581,
-        85633051,
-        102062857,
         404568307,
-        85682255
+        85633051,
+        102062857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -343,7 +355,7 @@
         }
     ],
     "wof:id":101853961,
-    "wof:lastmodified":1598919008,
+    "wof:lastmodified":1690866113,
     "wof:name":"St. Moritz",
     "wof:parent_id":404568307,
     "wof:placetype":"locality",

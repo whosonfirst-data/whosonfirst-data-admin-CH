@@ -68,6 +68,9 @@
     "name:deu_x_preferred":[
         "Rorschach"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03c1\u03c3\u03b1\u03c7"
+    ],
     "name:eng_ca_x_preferred":[
         "Rorschach"
     ],
@@ -119,11 +122,20 @@
     "name:heb_x_preferred":[
         "\u05e9\u05d5\u05d5\u05d9\u05d9\u05e5"
     ],
+    "name:heb_x_variant":[
+        "\u05e8\u05d5\u05e8\u05e9\u05da"
+    ],
     "name:hrv_x_preferred":[
+        "Rorschach"
+    ],
+    "name:hsb_x_preferred":[
         "Rorschach"
     ],
     "name:hun_x_preferred":[
         "Rorschach"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0578\u0580\u0577\u0561\u056d"
     ],
     "name:ido_x_preferred":[
         "Rorschach"
@@ -147,6 +159,12 @@
         "\u30ed\u30eb\u30b7\u30e3\u30cf"
     ],
     "name:kon_x_preferred":[
+        "Rorschach"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ub974\uc0e4\ud750"
+    ],
+    "name:kur_x_preferred":[
         "Rorschach"
     ],
     "name:lij_x_preferred":[
@@ -245,6 +263,9 @@
     "name:swe_x_preferred":[
         "Rorschach"
     ],
+    "name:tgk_x_preferred":[
+        "\u0420\u043e\u0440\u0448\u0430\u0445"
+    ],
     "name:tur_x_preferred":[
         "Rorschach"
     ],
@@ -307,11 +328,11 @@
     "src:population":"geonames",
     "wd:wordcount":1390,
     "wof:belongsto":[
+        85682341,
         102191581,
-        85633051,
-        102063057,
         404573239,
-        85682341
+        85633051,
+        102063057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -343,7 +364,7 @@
     "wof:lang":[
         "ger"
     ],
-    "wof:lastmodified":1606866759,
+    "wof:lastmodified":1690866164,
     "wof:name":"Rorschach",
     "wof:parent_id":404573239,
     "wof:placetype":"locality",

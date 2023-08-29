@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Lyssach"
+    ],
     "name:cat_x_preferred":[
         "Lyssach"
     ],
@@ -50,8 +53,14 @@
     "name:fra_x_preferred":[
         "Lyssach"
     ],
+    "name:gle_x_preferred":[
+        "Lyssach"
+    ],
     "name:gsw_x_preferred":[
         "Liissach"
+    ],
+    "name:hsb_x_preferred":[
+        "Lyssach"
     ],
     "name:hun_x_preferred":[
         "Lyssach"
@@ -65,6 +74,9 @@
     "name:kaz_x_preferred":[
         "\u041b\u0438\u0441\u0430\u0445"
     ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc0ac\ud750"
+    ],
     "name:lmo_x_preferred":[
         "Lyssach"
     ],
@@ -77,7 +89,16 @@
     "name:nno_x_preferred":[
         "Lyssach"
     ],
+    "name:nob_x_preferred":[
+        "Lyssach"
+    ],
     "name:oci_x_preferred":[
+        "Lyssach"
+    ],
+    "name:pol_x_preferred":[
+        "Lyssach"
+    ],
+    "name:por_x_preferred":[
         "Lyssach"
     ],
     "name:rus_x_preferred":[
@@ -94,6 +115,9 @@
     ],
     "name:swe_x_preferred":[
         "Lyssach"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0441\u0441\u0430\u0445"
     ],
     "name:vec_x_preferred":[
         "Lyssach"
@@ -145,11 +169,11 @@
     "woe:name_adm1":"Kanton Bern",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682381,
         102191581,
-        85633051,
-        102062837,
         404570893,
-        85682381
+        85633051,
+        102062837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +199,7 @@
         }
     ],
     "wof:id":1125957651,
-    "wof:lastmodified":1598920840,
+    "wof:lastmodified":1690866251,
     "wof:name":"Lyssach",
     "wof:parent_id":404570893,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Roggenburg"
+    ],
     "name:cat_x_preferred":[
         "Roggenburg"
     ],
@@ -53,11 +56,17 @@
     "name:fra_x_preferred":[
         "Roggenburg"
     ],
+    "name:gle_x_preferred":[
+        "Roggenburg"
+    ],
     "name:gsw_x_preferred":[
         "Roggeburg BL"
     ],
     "name:gsw_x_variant":[
         "Roggeburg"
+    ],
+    "name:hsb_x_preferred":[
+        "Roggenburg"
     ],
     "name:hun_x_preferred":[
         "Roggenburg"
@@ -86,6 +95,12 @@
     "name:oci_x_preferred":[
         "Roggenburg"
     ],
+    "name:pol_x_preferred":[
+        "Roggenburg"
+    ],
+    "name:por_x_preferred":[
+        "Roggenburg"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0433\u0433\u0435\u043d\u0431\u0443\u0440\u0433"
     ],
@@ -97,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "Roggenburg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0433\u0433\u0435\u043d\u0431\u0443\u0440\u0433"
     ],
     "name:uzb_x_preferred":[
         "Roggenburg"
@@ -148,11 +166,11 @@
     "woe:name_adm1":"Kanton Basel-Land",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682361,
         102191581,
-        85633051,
-        102062757,
         404570687,
-        85682361
+        85633051,
+        102062757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -181,7 +199,7 @@
         }
     ],
     "wof:id":1125771863,
-    "wof:lastmodified":1598921909,
+    "wof:lastmodified":1690866670,
     "wof:name":"Roggenburg",
     "wof:parent_id":404570687,
     "wof:placetype":"locality",
