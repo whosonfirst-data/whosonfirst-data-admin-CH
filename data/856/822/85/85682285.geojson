@@ -469,20 +469,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"14",
         "digitalenvoy:region_code":10176,
         "eurostat:nuts_2021_id":"CH052",
         "fips:code":"SZ16",
         "gn:id":2658760,
         "gp:id":2347098,
         "hasc:id":"CH.SH",
+        "iso:code":"CH-SH",
         "iso:id":"CH-SH",
         "wd:id":"Q12697"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"86b78df1e7136e3f5f9539f3043dd975",
+    "wof:geomhash":"19519698f94c484f9ec346735d7bfe47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -504,7 +510,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865982,
+    "wof:lastmodified":1695885194,
     "wof:name":"Schaffhausen",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

@@ -525,20 +525,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"23",
         "digitalenvoy:region_code":15836,
         "eurostat:nuts_2021_id":"CH012",
         "fips:code":"SZ22",
         "gn:id":2658205,
         "gp:id":2347104,
         "hasc:id":"CH.VS",
+        "iso:code":"CH-VS",
         "iso:id":"CH-VS",
         "wd:id":"Q834"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"300724886832d0271f29d5b0e4f0e793",
+    "wof:geomhash":"e4543f01406a7d9e824deb161152ae50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -560,7 +566,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865979,
+    "wof:lastmodified":1695885194,
     "wof:name":"Valais",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

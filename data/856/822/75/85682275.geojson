@@ -514,20 +514,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"16",
         "digitalenvoy:region_code":10157,
         "eurostat:nuts_2021_id":"CH054",
         "fips:code":"SZ10",
         "gn:id":2661741,
         "gp:id":2347092,
         "hasc:id":"CH.AI",
+        "iso:code":"CH-AI",
         "iso:id":"CH-AI",
         "wd:id":"Q12094"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b87bc9fe99f983750e02ccd768b5ce1a",
+    "wof:geomhash":"8d874d6d3995f47dc5c8cae390f7187d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -549,7 +555,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865979,
+    "wof:lastmodified":1695885194,
     "wof:name":"Appenzell Innerrhoden",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

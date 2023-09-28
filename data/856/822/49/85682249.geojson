@@ -482,15 +482,21 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"08",
         "digitalenvoy:region_code":10168,
         "eurostat:nuts_2021_id":"CH051",
         "fips:code":"SZ08",
         "gn:id":2660593,
         "gp:id":2347090,
         "hasc:id":"CH.GL",
+        "iso:code":"CH-GL",
         "iso:id":"CH-GL",
         "wd:id":"Q11922"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         102063003
     ],
@@ -498,7 +504,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"81e290c6bff81a8d904479ed83dd6646",
+    "wof:geomhash":"69c649c8a8d60b5c9838476494314bb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -520,7 +526,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865983,
+    "wof:lastmodified":1695885192,
     "wof:name":"Glarus",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

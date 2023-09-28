@@ -506,20 +506,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"06",
         "digitalenvoy:region_code":15933,
         "eurostat:nuts_2021_id":"CH064",
         "fips:code":"SZ14",
         "gn:id":2659315,
         "gp:id":2347096,
         "hasc:id":"CH.OW",
+        "iso:code":"CH-OW",
         "iso:id":"CH-OW",
         "wd:id":"Q12573"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2fb7f50bc51c14af5fbb9644aed3aa4c",
+    "wof:geomhash":"71a5b9318ec381a69086b6116d54e2e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -541,7 +547,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865976,
+    "wof:lastmodified":1695885199,
     "wof:name":"Obwalden",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

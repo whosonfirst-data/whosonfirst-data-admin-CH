@@ -491,15 +491,21 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"07",
         "digitalenvoy:region_code":14642,
         "eurostat:nuts_2021_id":"CH065",
         "fips:code":"SZ13",
         "gn:id":2659471,
         "gp:id":2347095,
         "hasc:id":"CH.NW",
+        "iso:code":"CH-NW",
         "iso:id":"CH-NW",
         "wd:id":"Q12592"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         102062973
     ],
@@ -507,7 +513,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0f29f07d1102137223ddfb64b989c8de",
+    "wof:geomhash":"09c82436da357b3bca1af95ff18afb91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -529,7 +535,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865976,
+    "wof:lastmodified":1695885196,
     "wof:name":"Nidwalden",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

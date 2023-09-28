@@ -518,20 +518,26 @@
         85682275
     ],
     "wof:concordances":{
+        "chgov:number":"15",
         "digitalenvoy:region_code":10158,
         "eurostat:nuts_2021_id":"CH053",
         "fips:code":"SZ02",
         "gn:id":2661739,
         "gp:id":2347084,
         "hasc:id":"CH.AR",
+        "iso:code":"CH-AR",
         "iso:id":"CH-AR",
         "wd:id":"Q12079"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"84bbc1f30f2ef36f676aa09c6216ee73",
+    "wof:geomhash":"4faa6bdc4734ae2384c47bae10efe63d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -553,7 +559,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865973,
+    "wof:lastmodified":1695885198,
     "wof:name":"Appenzell Ausserrhoden",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

@@ -555,20 +555,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"21",
         "digitalenvoy:region_code":10180,
         "eurostat:nuts_2021_id":"CH070",
         "fips:code":"SZ20",
         "gn:id":2658370,
         "gp:id":2347102,
         "hasc:id":"CH.TI",
+        "iso:code":"CH-TI",
         "iso:id":"CH-TI",
         "wd:id":"Q12724"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c0acf7831335f8e968883292728c75cd",
+    "wof:geomhash":"562b2680f0bc44d6037c9a0f73311fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -590,7 +596,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865978,
+    "wof:lastmodified":1695885193,
     "wof:name":"Ticino",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

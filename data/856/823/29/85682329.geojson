@@ -524,20 +524,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"19",
         "digitalenvoy:region_code":10151,
         "eurostat:nuts_2021_id":"CH033",
         "fips:code":"SZ01",
         "gn:id":2661876,
         "gp:id":2347083,
         "hasc:id":"CH.AG",
+        "iso:code":"CH-AG",
         "iso:id":"CH-AG",
         "wd:id":"Q11972"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"29bfa4a7b449ffd37f562705c5ae3a32",
+    "wof:geomhash":"a805aaef339604a9875333d4f3d9a8ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -559,7 +565,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865970,
+    "wof:lastmodified":1695885197,
     "wof:name":"Aargau",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

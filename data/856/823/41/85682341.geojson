@@ -501,20 +501,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"17",
         "digitalenvoy:region_code":3761,
         "eurostat:nuts_2021_id":"CH055",
         "fips:code":"SZ15",
         "gn:id":2658821,
         "gp:id":2347097,
         "hasc:id":"CH.SG",
+        "iso:code":"CH-SG",
         "iso:id":"CH-SG",
         "wd:id":"Q12746"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ebcfd5f2138f2ef8f0cddf8e2c01b01",
+    "wof:geomhash":"2f2ad146227d1754269f4dc8ed4a6c6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -536,7 +542,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865975,
+    "wof:lastmodified":1695885198,
     "wof:name":"Saint Gallen",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

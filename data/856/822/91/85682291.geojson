@@ -490,20 +490,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"25",
         "digitalenvoy:region_code":10165,
         "eurostat:nuts_2021_id":"CH013",
         "fips:code":"SZ07",
         "gn:id":2660645,
         "gp:id":2347089,
         "hasc:id":"CH.GE",
+        "iso:code":"CH-GE",
         "iso:id":"CH-GE",
         "wd:id":"Q11917"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f5523aabbb62a6005c956e329e270654",
+    "wof:geomhash":"5174f7c493d07d661b9e1d7fa75d6fc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -525,7 +531,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865980,
+    "wof:lastmodified":1695885194,
     "wof:name":"Geneva",
     "wof:parent_id":85633051,
     "wof:placetype":"region",
