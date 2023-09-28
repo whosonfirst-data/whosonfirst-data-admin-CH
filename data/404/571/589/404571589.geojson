@@ -22,6 +22,18 @@
     "geom:latitude":47.423964,
     "geom:longitude":8.615304,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.425837,
     "lbl:longitude":8.614185,
     "lbl:max_zoom":18.0,
@@ -143,11 +155,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0054",
+        "chgov:number_qualified":"0100054",
         "eg:gisco_id":"CH_CH0054",
         "eurostat:nuts_2021_id":"CH0054",
         "gp:id":12683310,
         "qs_pg:id":218913
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125778681
     ],
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":404571589,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878954,
     "wof:name":"Dietlikon",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.192381,
     "geom:longitude":8.995682,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.19297,
     "lbl:longitude":8.995707,
     "lbl:max_zoom":18.0,
@@ -104,11 +116,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3312",
+        "chgov:number_qualified":"1703312",
         "eg:gisco_id":"CH_CH3312",
         "eurostat:nuts_2021_id":"CH3312",
         "gn:id":7285197,
         "qs_pg:id":671176
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126025233
     ],
@@ -128,7 +146,7 @@
         }
     ],
     "wof:id":404568805,
-    "wof:lastmodified":1684351725,
+    "wof:lastmodified":1695878912,
     "wof:name":"Benken",
     "wof:parent_id":102062815,
     "wof:placetype":"localadmin",

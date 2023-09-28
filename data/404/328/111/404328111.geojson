@@ -22,6 +22,18 @@
     "geom:latitude":47.100352,
     "geom:longitude":9.068633,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.114815,
     "lbl:longitude":9.016005,
     "lbl:max_zoom":18.0,
@@ -111,11 +123,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1630",
+        "chgov:number_qualified":"0801630",
         "eg:gisco_id":"CH_CH1630",
         "eurostat:nuts_2021_id":"CH1630",
         "gn:id":8260335,
         "qs_pg:id":760512
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":404328111,
-    "wof:lastmodified":1684351689,
+    "wof:lastmodified":1695878872,
     "wof:name":"Glarus Nord",
     "wof:parent_id":102063003,
     "wof:placetype":"localadmin",

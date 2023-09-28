@@ -22,6 +22,18 @@
     "geom:latitude":47.374998,
     "geom:longitude":8.083802,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.371454,
     "lbl:longitude":8.078167,
     "lbl:max_zoom":18.0,
@@ -92,12 +104,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4012",
+        "chgov:number_qualified":"1904012",
         "eg:gisco_id":"CH_CH4012",
         "eurostat:nuts_2021_id":"CH4012",
         "gn:id":7287258,
         "gp:id":12684469,
         "qs_pg:id":267303
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854367
     ],
@@ -117,7 +135,7 @@
         }
     ],
     "wof:id":404569653,
-    "wof:lastmodified":1684351736,
+    "wof:lastmodified":1695878925,
     "wof:name":"Suhr",
     "wof:parent_id":102062989,
     "wof:placetype":"localadmin",

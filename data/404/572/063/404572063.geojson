@@ -22,6 +22,18 @@
     "geom:latitude":46.660214,
     "geom:longitude":6.479548,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.661129,
     "lbl:longitude":6.474911,
     "lbl:max_zoom":18.0,
@@ -113,12 +125,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5483",
+        "chgov:number_qualified":"2205483",
         "eg:gisco_id":"CH_CH5483",
         "eurostat:nuts_2021_id":"CH5483",
         "gn:id":7285813,
         "gp:id":12684753,
         "qs_pg:id":671312
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125787543
     ],
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":404572063,
-    "wof:lastmodified":1684351766,
+    "wof:lastmodified":1695878960,
     "wof:name":"Ferreyres",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

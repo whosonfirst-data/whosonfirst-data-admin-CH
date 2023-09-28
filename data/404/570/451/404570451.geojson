@@ -22,6 +22,18 @@
     "geom:latitude":47.245679,
     "geom:longitude":7.651642,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.248314,
     "lbl:longitude":7.642702,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0995",
+        "chgov:number_qualified":"0200995",
         "eg:gisco_id":"CH_CH0995",
         "eurostat:nuts_2021_id":"CH0995",
         "gn:id":7287568,
         "gp:id":12684626,
         "qs_pg:id":1019962
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854121
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404570451,
-    "wof:lastmodified":1684351746,
+    "wof:lastmodified":1695878937,
     "wof:name":"Wiedlisbach",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",

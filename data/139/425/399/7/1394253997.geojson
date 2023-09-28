@@ -22,6 +22,18 @@
     "geom:latitude":47.449785,
     "geom:longitude":8.134496,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.454353,
     "lbl:longitude":8.137685,
     "lbl:max_zoom":18.0,
@@ -76,9 +88,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4125",
         "eg:gisco_id":"CH_CH4125",
         "eurostat:nuts_2021_id":"CH4125"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"55e120f29d5b2b21f8799c612e6b2209",
     "wof:hierarchy":[
@@ -91,7 +105,7 @@
         }
     ],
     "wof:id":1394253997,
-    "wof:lastmodified":1684351778,
+    "wof:lastmodified":1695878974,
     "wof:name":"Schinznach",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",

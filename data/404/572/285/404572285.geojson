@@ -22,6 +22,18 @@
     "geom:latitude":46.526508,
     "geom:longitude":6.687602,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.526218,
     "lbl:longitude":6.687275,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5581",
+        "chgov:number_qualified":"2205581",
         "eg:gisco_id":"CH_CH5581",
         "eurostat:nuts_2021_id":"CH5581",
         "gn:id":7285192,
         "gp:id":12682938,
         "qs_pg:id":1012708
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126007067
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404572285,
-    "wof:lastmodified":1684351768,
+    "wof:lastmodified":1695878963,
     "wof:name":"Belmont-sur-Lausanne",
     "wof:parent_id":102063047,
     "wof:placetype":"localadmin",

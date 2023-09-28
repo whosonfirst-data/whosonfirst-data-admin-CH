@@ -22,6 +22,18 @@
     "geom:latitude":47.051466,
     "geom:longitude":7.907769,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.057545,
     "lbl:longitude":7.900689,
     "lbl:max_zoom":18.0,
@@ -133,12 +145,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1135",
+        "chgov:number_qualified":"0301135",
         "eg:gisco_id":"CH_CH1135",
         "eurostat:nuts_2021_id":"CH1135",
         "gn:id":7286401,
         "gp:id":12683916,
         "qs_pg:id":1015650
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404328185,
-    "wof:lastmodified":1684351691,
+    "wof:lastmodified":1695878874,
     "wof:name":"Luthern",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",

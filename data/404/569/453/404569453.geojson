@@ -22,6 +22,18 @@
     "geom:latitude":47.405335,
     "geom:longitude":9.197751,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.402758,
     "lbl:longitude":9.201538,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3402",
+        "chgov:number_qualified":"1703402",
         "eg:gisco_id":"CH_CH3402",
         "eurostat:nuts_2021_id":"CH3402",
         "gn:id":7285837,
         "gp:id":12683472,
         "qs_pg:id":671320
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854261
     ],
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404569453,
-    "wof:lastmodified":1684351734,
+    "wof:lastmodified":1695878922,
     "wof:name":"Flawil",
     "wof:parent_id":102062947,
     "wof:placetype":"localadmin",

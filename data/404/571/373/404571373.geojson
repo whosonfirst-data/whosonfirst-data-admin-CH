@@ -22,6 +22,18 @@
     "geom:latitude":46.611024,
     "geom:longitude":6.753746,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.615086,
     "lbl:longitude":6.754901,
     "lbl:max_zoom":18.0,
@@ -116,11 +128,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5798",
+        "chgov:number_qualified":"2205798",
         "eg:gisco_id":"CH_CH5798",
         "eurostat:nuts_2021_id":"CH5798",
         "gn:id":7286948,
         "qs_pg:id":671552
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126012927
     ],
@@ -140,7 +158,7 @@
         }
     ],
     "wof:id":404571373,
-    "wof:lastmodified":1684351758,
+    "wof:lastmodified":1695878951,
     "wof:name":"Ropraz",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",

@@ -20,6 +20,18 @@
     "geom:latitude":47.513312,
     "geom:longitude":9.512403,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.514132,
     "lbl:longitude":9.513606,
     "lbl:max_zoom":18.0,
@@ -52,9 +64,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"9328",
         "eg:gisco_id":"CH_CH9328",
         "eurostat:nuts_2021_id":"CH9328"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"dec4ca2646325cff4d93bcc76801f023",
     "wof:hierarchy":[
@@ -67,7 +81,7 @@
         }
     ],
     "wof:id":1394254039,
-    "wof:lastmodified":1684351779,
+    "wof:lastmodified":1695878975,
     "wof:name":"Bodensee",
     "wof:parent_id":102063057,
     "wof:placetype":"localadmin",

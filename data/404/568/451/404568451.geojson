@@ -22,6 +22,18 @@
     "geom:latitude":46.970858,
     "geom:longitude":8.643563,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.9723,
     "lbl:longitude":8.633054,
     "lbl:max_zoom":18.0,
@@ -133,9 +145,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1366",
+        "chgov:number_qualified":"0501366",
         "eg:gisco_id":"CH_CH1366",
         "eurostat:nuts_2021_id":"CH1366"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -151,7 +169,7 @@
         }
     ],
     "wof:id":404568451,
-    "wof:lastmodified":1684351719,
+    "wof:lastmodified":1695878905,
     "wof:name":"Morschach",
     "wof:parent_id":102062887,
     "wof:placetype":"localadmin",

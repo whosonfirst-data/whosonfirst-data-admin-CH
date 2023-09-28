@@ -22,6 +22,18 @@
     "geom:latitude":47.409195,
     "geom:longitude":7.809941,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.409466,
     "lbl:longitude":7.81169,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2884",
+        "chgov:number_qualified":"1302884",
         "eg:gisco_id":"CH_CH2884",
         "eurostat:nuts_2021_id":"CH2884",
         "gn:id":7285642,
         "gp:id":12683302,
         "qs_pg:id":43429
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125801929
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404569841,
-    "wof:lastmodified":1684351739,
+    "wof:lastmodified":1695878928,
     "wof:name":"Diegten",
     "wof:parent_id":102062911,
     "wof:placetype":"localadmin",

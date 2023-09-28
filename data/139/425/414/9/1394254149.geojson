@@ -22,6 +22,18 @@
     "geom:latitude":46.191316,
     "geom:longitude":8.723338,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.191244,
     "lbl:longitude":8.723337,
     "lbl:max_zoom":18.0,
@@ -46,9 +58,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5396",
         "eg:gisco_id":"CH_CH5396",
         "eurostat:nuts_2021_id":"CH5396"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"044b2face7a5b9c221901b375b758151",
     "wof:hierarchy":[
@@ -61,7 +75,7 @@
         }
     ],
     "wof:id":1394254149,
-    "wof:lastmodified":1684351783,
+    "wof:lastmodified":1695878979,
     "wof:name":"Terre di Pedemonte",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",

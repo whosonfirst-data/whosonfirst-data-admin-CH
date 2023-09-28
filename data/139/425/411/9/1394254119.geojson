@@ -22,6 +22,18 @@
     "geom:latitude":47.082441,
     "geom:longitude":8.449981,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.086212,
     "lbl:longitude":8.455834,
     "lbl:max_zoom":18.0,
@@ -127,9 +139,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1331",
         "eg:gisco_id":"CH_CH1331",
         "eurostat:nuts_2021_id":"CH1331"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:coterminous":[
         102062811
     ],
@@ -145,7 +159,7 @@
         }
     ],
     "wof:id":1394254119,
-    "wof:lastmodified":1684351782,
+    "wof:lastmodified":1695878978,
     "wof:name":"K\u00fcssnacht",
     "wof:parent_id":102062811,
     "wof:placetype":"localadmin",

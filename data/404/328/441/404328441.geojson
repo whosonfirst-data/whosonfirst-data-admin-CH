@@ -22,6 +22,18 @@
     "geom:latitude":47.131613,
     "geom:longitude":8.263168,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.133221,
     "lbl:longitude":8.265316,
     "lbl:max_zoom":18.0,
@@ -76,12 +88,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1037",
+        "chgov:number_qualified":"0301037",
         "eg:gisco_id":"CH_CH1037",
         "eurostat:nuts_2021_id":"CH1037",
         "gn:id":7286849,
         "gp:id":12685072,
         "qs_pg:id":1019642
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125772031
     ],
@@ -101,7 +119,7 @@
         }
     ],
     "wof:id":404328441,
-    "wof:lastmodified":1684351696,
+    "wof:lastmodified":1695878879,
     "wof:name":"Rain",
     "wof:parent_id":1394137081,
     "wof:placetype":"localadmin",

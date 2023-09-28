@@ -22,6 +22,18 @@
     "geom:latitude":47.400611,
     "geom:longitude":9.477162,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.39988,
     "lbl:longitude":9.480802,
     "lbl:max_zoom":18.0,
@@ -169,12 +181,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3025",
+        "chgov:number_qualified":"1503025",
         "eg:gisco_id":"CH_CH3025",
         "eurostat:nuts_2021_id":"CH3025",
         "gn:id":7287337,
         "gp:id":12684520,
         "qs_pg:id":1137092
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854199
     ],
@@ -194,7 +212,7 @@
         }
     ],
     "wof:id":404328433,
-    "wof:lastmodified":1684351695,
+    "wof:lastmodified":1695878879,
     "wof:name":"Trogen",
     "wof:parent_id":1394137099,
     "wof:placetype":"localadmin",

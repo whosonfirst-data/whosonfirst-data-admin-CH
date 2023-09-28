@@ -22,6 +22,18 @@
     "geom:latitude":46.956533,
     "geom:longitude":7.522132,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.954756,
     "lbl:longitude":7.520575,
     "lbl:max_zoom":18.0,
@@ -134,11 +146,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0358",
+        "chgov:number_qualified":"0200358",
         "eg:gisco_id":"CH_CH0358",
         "eurostat:nuts_2021_id":"CH0358",
         "gn:id":7287239,
         "qs_pg:id":1040586
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404571919,
-    "wof:lastmodified":1684351764,
+    "wof:lastmodified":1695878959,
     "wof:name":"Stettlen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.718152,
     "geom:longitude":6.50769,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.71801,
     "lbl:longitude":6.508079,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5742",
+        "chgov:number_qualified":"2205742",
         "eg:gisco_id":"CH_CH5742",
         "eurostat:nuts_2021_id":"CH5742",
         "gn:id":7285040,
         "gp:id":12682734,
         "qs_pg:id":1154213
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125798247
     ],
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404571109,
-    "wof:lastmodified":1684351755,
+    "wof:lastmodified":1695878947,
     "wof:name":"Agiez",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

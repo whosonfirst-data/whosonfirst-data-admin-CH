@@ -22,6 +22,18 @@
     "geom:latitude":47.265487,
     "geom:longitude":7.407551,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.264735,
     "lbl:longitude":7.407204,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0692",
+        "chgov:number_qualified":"0200692",
         "eg:gisco_id":"CH_CH0692",
         "eurostat:nuts_2021_id":"CH0692",
         "gn:id":7285769,
         "gp:id":12684909,
         "qs_pg:id":44026
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1243208707
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404570717,
-    "wof:lastmodified":1684351750,
+    "wof:lastmodified":1695878941,
     "wof:name":"Eschert",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",

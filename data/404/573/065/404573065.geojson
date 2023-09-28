@@ -22,6 +22,18 @@
     "geom:latitude":47.326457,
     "geom:longitude":8.17792,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.326801,
     "lbl:longitude":8.177913,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4197",
+        "chgov:number_qualified":"1904197",
         "eg:gisco_id":"CH_CH4197",
         "eurostat:nuts_2021_id":"CH4197",
         "gn:id":7286028,
         "gp:id":12683640,
         "qs_pg:id":396255
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1326465385
     ],
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404573065,
-    "wof:lastmodified":1684351770,
+    "wof:lastmodified":1695878965,
     "wof:name":"Hallwil",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",

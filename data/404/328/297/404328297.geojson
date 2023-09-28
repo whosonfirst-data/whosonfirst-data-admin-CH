@@ -22,6 +22,18 @@
     "geom:latitude":47.351776,
     "geom:longitude":9.234738,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.352113,
     "lbl:longitude":9.238009,
     "lbl:max_zoom":18.0,
@@ -136,12 +148,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3004",
+        "chgov:number_qualified":"1503004",
         "eg:gisco_id":"CH_CH3004",
         "eurostat:nuts_2021_id":"CH3004",
         "gn:id":7287125,
         "gp:id":12684385,
         "qs_pg:id":43861
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125930331
     ],
@@ -161,7 +179,7 @@
         }
     ],
     "wof:id":404328297,
-    "wof:lastmodified":1684351693,
+    "wof:lastmodified":1695878877,
     "wof:name":"Schwellbrunn",
     "wof:parent_id":1394137085,
     "wof:placetype":"localadmin",

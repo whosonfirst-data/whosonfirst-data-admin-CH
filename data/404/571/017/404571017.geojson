@@ -22,6 +22,18 @@
     "geom:latitude":46.593579,
     "geom:longitude":6.460949,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.594023,
     "lbl:longitude":6.460954,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5485",
+        "chgov:number_qualified":"2205485",
         "eg:gisco_id":"CH_CH5485",
         "eurostat:nuts_2021_id":"CH5485",
         "gn:id":7285957,
         "gp:id":12683584,
         "qs_pg:id":671354
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1326761297
     ],
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404571017,
-    "wof:lastmodified":1684351753,
+    "wof:lastmodified":1695878945,
     "wof:name":"Grancy",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

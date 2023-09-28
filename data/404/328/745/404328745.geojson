@@ -22,6 +22,18 @@
     "geom:latitude":47.111751,
     "geom:longitude":7.419135,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.112146,
     "lbl:longitude":7.418825,
     "lbl:max_zoom":18.0,
@@ -126,9 +138,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2445",
+        "chgov:number_qualified":"1102445",
         "eg:gisco_id":"CH_CH2445",
         "eurostat:nuts_2021_id":"CH2445"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126016177
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404328745,
-    "wof:lastmodified":1684351700,
+    "wof:lastmodified":1695878885,
     "wof:name":"Biezwil",
     "wof:parent_id":1394137095,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.420318,
     "geom:longitude":8.044054,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.41771,
     "lbl:longitude":8.043514,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4008",
+        "chgov:number_qualified":"1904008",
         "eg:gisco_id":"CH_CH4008",
         "eurostat:nuts_2021_id":"CH4008",
         "gn:id":7286231,
         "gp:id":12683677,
         "qs_pg:id":1019701
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126049513
     ],
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404569297,
-    "wof:lastmodified":1684351733,
+    "wof:lastmodified":1695878921,
     "wof:name":"K\u00fcttigen",
     "wof:parent_id":102062989,
     "wof:placetype":"localadmin",

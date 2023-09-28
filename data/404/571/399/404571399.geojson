@@ -22,6 +22,18 @@
     "geom:latitude":47.426287,
     "geom:longitude":9.63689,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.425398,
     "lbl:longitude":9.638449,
     "lbl:max_zoom":18.0,
@@ -74,11 +86,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3231",
+        "chgov:number_qualified":"1703231",
         "eg:gisco_id":"CH_CH3231",
         "eurostat:nuts_2021_id":"CH3231",
         "gn:id":7285118,
         "qs_pg:id":671169
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -95,7 +113,7 @@
         }
     ],
     "wof:id":404571399,
-    "wof:lastmodified":1684351758,
+    "wof:lastmodified":1695878951,
     "wof:name":"Au",
     "wof:parent_id":102063005,
     "wof:placetype":"localadmin",

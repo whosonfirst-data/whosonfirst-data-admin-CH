@@ -22,6 +22,18 @@
     "geom:latitude":46.483674,
     "geom:longitude":6.350819,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.480368,
     "lbl:longitude":6.35309,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5426",
+        "chgov:number_qualified":"2205426",
         "eg:gisco_id":"CH_CH5426",
         "eurostat:nuts_2021_id":"CH5426",
         "gn:id":7285309,
         "gp:id":20075573,
         "qs_pg:id":671198
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1343495203
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404573243,
-    "wof:lastmodified":1684351772,
+    "wof:lastmodified":1695878967,
     "wof:name":"Bougy-Villars",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

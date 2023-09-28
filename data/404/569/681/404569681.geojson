@@ -22,6 +22,18 @@
     "geom:latitude":47.656128,
     "geom:longitude":9.091775,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.653314,
     "lbl:longitude":9.091321,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4646",
+        "chgov:number_qualified":"2004646",
         "eg:gisco_id":"CH_CH4646",
         "eurostat:nuts_2021_id":"CH4646",
         "gn:id":7285756,
         "gp:id":12683406,
         "qs_pg:id":1102289
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854453
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404569681,
-    "wof:lastmodified":1684351736,
+    "wof:lastmodified":1695878926,
     "wof:name":"Ermatingen",
     "wof:parent_id":102062953,
     "wof:placetype":"localadmin",

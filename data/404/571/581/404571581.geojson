@@ -22,6 +22,18 @@
     "geom:latitude":46.691612,
     "geom:longitude":6.706247,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.691267,
     "lbl:longitude":6.707226,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5512",
+        "chgov:number_qualified":"2205512",
         "eg:gisco_id":"CH_CH5512",
         "eurostat:nuts_2021_id":"CH5512",
         "gn:id":7285201,
         "gp:id":12682942,
         "qs_pg:id":1040449
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394292765
     ],
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404571581,
-    "wof:lastmodified":1684351760,
+    "wof:lastmodified":1695878954,
     "wof:name":"Bercher",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

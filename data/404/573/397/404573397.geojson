@@ -22,6 +22,18 @@
     "geom:latitude":46.541692,
     "geom:longitude":6.440085,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.54232,
     "lbl:longitude":6.440223,
     "lbl:max_zoom":18.0,
@@ -115,9 +127,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5644",
+        "chgov:number_qualified":"2205644",
         "eg:gisco_id":"CH_CH5644",
         "eurostat:nuts_2021_id":"CH5644"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125912353
     ],
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":404573397,
-    "wof:lastmodified":1684351774,
+    "wof:lastmodified":1695878969,
     "wof:name":"Reverolle",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

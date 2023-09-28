@@ -22,6 +22,18 @@
     "geom:latitude":47.183388,
     "geom:longitude":7.635723,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.182982,
     "lbl:longitude":7.63561,
     "lbl:max_zoom":18.0,
@@ -124,12 +136,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2524",
+        "chgov:number_qualified":"1102524",
         "eg:gisco_id":"CH_CH2524",
         "eurostat:nuts_2021_id":"CH2524",
         "gn:id":7286122,
         "gp:id":20075515,
         "qs_pg:id":1149860
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1242608681
     ],
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":404328913,
-    "wof:lastmodified":1684351701,
+    "wof:lastmodified":1695878886,
     "wof:name":"H\u00fcniken",
     "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",

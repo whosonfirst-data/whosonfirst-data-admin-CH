@@ -22,6 +22,18 @@
     "geom:latitude":46.767798,
     "geom:longitude":9.463411,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.764783,
     "lbl:longitude":9.464368,
     "lbl:max_zoom":18.0,
@@ -70,9 +82,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3673",
         "eg:gisco_id":"CH_CH3673",
         "eurostat:nuts_2021_id":"CH3673"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"c6d9c8e59d6e7a4033d8f6967bca13db",
     "wof:hierarchy":[
@@ -85,7 +99,7 @@
         }
     ],
     "wof:id":1394254049,
-    "wof:lastmodified":1684351779,
+    "wof:lastmodified":1695878975,
     "wof:name":"Domleschg",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",

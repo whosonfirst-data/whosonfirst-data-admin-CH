@@ -22,6 +22,18 @@
     "geom:latitude":46.707354,
     "geom:longitude":7.000179,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.704737,
     "lbl:longitude":6.997191,
     "lbl:max_zoom":18.0,
@@ -125,11 +137,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2114",
+        "chgov:number_qualified":"1002114",
         "eg:gisco_id":"CH_CH2114",
         "eurostat:nuts_2021_id":"CH2114",
         "gp:id":12684578,
         "qs_pg:id":259426
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -146,7 +164,7 @@
         }
     ],
     "wof:id":404568893,
-    "wof:lastmodified":1684351727,
+    "wof:lastmodified":1695878914,
     "wof:name":"Villorsonnens",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",

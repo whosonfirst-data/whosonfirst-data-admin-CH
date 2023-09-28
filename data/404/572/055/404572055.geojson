@@ -22,6 +22,18 @@
     "geom:latitude":47.368178,
     "geom:longitude":8.205716,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.367321,
     "lbl:longitude":8.203737,
     "lbl:max_zoom":18.0,
@@ -140,11 +152,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4191",
+        "chgov:number_qualified":"1904191",
         "eg:gisco_id":"CH_CH4191",
         "eurostat:nuts_2021_id":"CH4191",
         "gp:id":20075548,
         "qs_pg:id":395547
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125899999
     ],
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":404572055,
-    "wof:lastmodified":1684351766,
+    "wof:lastmodified":1695878960,
     "wof:name":"Ammerswil",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",

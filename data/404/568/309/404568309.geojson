@@ -22,6 +22,18 @@
     "geom:latitude":46.574225,
     "geom:longitude":7.051846,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.558915,
     "lbl:longitude":7.013033,
     "lbl:max_zoom":18.0,
@@ -164,12 +176,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2135",
+        "chgov:number_qualified":"1002135",
         "eg:gisco_id":"CH_CH2135",
         "eurostat:nuts_2021_id":"CH2135",
         "gn:id":7285996,
         "gp:id":12683617,
         "qs_pg:id":1102307
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -186,7 +204,7 @@
         }
     ],
     "wof:id":404568309,
-    "wof:lastmodified":1684351716,
+    "wof:lastmodified":1695878902,
     "wof:name":"Gruy\u00e8res",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",

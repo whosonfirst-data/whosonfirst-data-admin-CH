@@ -22,6 +22,18 @@
     "geom:latitude":46.801026,
     "geom:longitude":7.741829,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.804133,
     "lbl:longitude":7.741339,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0935",
+        "chgov:number_qualified":"0200935",
         "eg:gisco_id":"CH_CH0935",
         "eurostat:nuts_2021_id":"CH0935",
         "gn:id":7286702,
         "gp:id":12684384,
         "qs_pg:id":43862
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404569973,
-    "wof:lastmodified":1684351741,
+    "wof:lastmodified":1695878931,
     "wof:name":"Oberlangenegg",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",

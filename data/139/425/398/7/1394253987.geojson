@@ -22,6 +22,18 @@
     "geom:latitude":46.699587,
     "geom:longitude":6.838351,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.717779,
     "lbl:longitude":6.833917,
     "lbl:max_zoom":18.0,
@@ -100,9 +112,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5675",
         "eg:gisco_id":"CH_CH5675",
         "eurostat:nuts_2021_id":"CH5675"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"0b98b778af9c1b3bc556c9507b894ca9",
     "wof:hierarchy":[
@@ -115,7 +129,7 @@
         }
     ],
     "wof:id":1394253987,
-    "wof:lastmodified":1684351778,
+    "wof:lastmodified":1695878973,
     "wof:name":"Lucens",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",

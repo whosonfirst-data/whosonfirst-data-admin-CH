@@ -22,6 +22,18 @@
     "geom:latitude":47.516793,
     "geom:longitude":9.316422,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.517309,
     "lbl:longitude":9.32444,
     "lbl:max_zoom":18.0,
@@ -131,11 +143,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3202",
+        "chgov:number_qualified":"1703202",
         "eg:gisco_id":"CH_CH3202",
         "eurostat:nuts_2021_id":"CH3202",
         "gn:id":7286595,
         "qs_pg:id":1154284
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126007351
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404569703,
-    "wof:lastmodified":1684351737,
+    "wof:lastmodified":1695878926,
     "wof:name":"Muolen",
     "wof:parent_id":102062847,
     "wof:placetype":"localadmin",

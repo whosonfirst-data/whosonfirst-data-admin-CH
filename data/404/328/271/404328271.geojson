@@ -22,6 +22,18 @@
     "geom:latitude":47.133473,
     "geom:longitude":8.054877,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.133108,
     "lbl:longitude":8.0543,
     "lbl:max_zoom":18.0,
@@ -133,12 +145,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1086",
+        "chgov:number_qualified":"0301086",
         "eg:gisco_id":"CH_CH1086",
         "eurostat:nuts_2021_id":"CH1086",
         "gn:id":7285993,
         "gp:id":12683612,
         "qs_pg:id":1102311
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125918597
     ],
@@ -158,7 +176,7 @@
         }
     ],
     "wof:id":404328271,
-    "wof:lastmodified":1684351693,
+    "wof:lastmodified":1695878876,
     "wof:name":"Grosswangen",
     "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.892981,
     "geom:longitude":7.202414,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.893359,
     "lbl:longitude":7.201251,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2266",
+        "chgov:number_qualified":"1002266",
         "eg:gisco_id":"CH_CH2266",
         "eurostat:nuts_2021_id":"CH2266",
         "gn:id":7286205,
         "gp:id":20075501,
         "qs_pg:id":671403
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125930941
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404572125,
-    "wof:lastmodified":1684351767,
+    "wof:lastmodified":1695878961,
     "wof:name":"Kleinb\u00f6singen",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",

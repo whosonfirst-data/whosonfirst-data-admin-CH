@@ -22,6 +22,18 @@
     "geom:latitude":47.585899,
     "geom:longitude":8.291954,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.585388,
     "lbl:longitude":8.287927,
     "lbl:max_zoom":18.0,
@@ -167,12 +179,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4323",
+        "chgov:number_qualified":"1904323",
         "eg:gisco_id":"CH_CH4323",
         "eurostat:nuts_2021_id":"CH4323",
         "gn:id":7285137,
         "gp:id":12682702,
         "qs_pg:id":1028494
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101766263
     ],
@@ -192,7 +210,7 @@
         }
     ],
     "wof:id":404570737,
-    "wof:lastmodified":1684351750,
+    "wof:lastmodified":1695878941,
     "wof:name":"Bad Zurzach",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",

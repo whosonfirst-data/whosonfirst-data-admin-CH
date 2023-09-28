@@ -22,6 +22,18 @@
     "geom:latitude":47.454761,
     "geom:longitude":8.256492,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.457858,
     "lbl:longitude":8.261378,
     "lbl:max_zoom":18.0,
@@ -74,12 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4024",
+        "chgov:number_qualified":"1904024",
         "eg:gisco_id":"CH_CH4024",
         "eurostat:nuts_2021_id":"CH4024",
         "gn:id":7285254,
         "gp:id":12682978,
         "qs_pg:id":538432
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125801023
     ],
@@ -99,7 +117,7 @@
         }
     ],
     "wof:id":404570341,
-    "wof:lastmodified":1684351745,
+    "wof:lastmodified":1695878935,
     "wof:name":"Birmenstorf",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.448873,
     "geom:longitude":8.816981,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.447621,
     "lbl:longitude":8.827903,
     "lbl:max_zoom":18.0,
@@ -106,9 +118,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5072",
         "eg:gisco_id":"CH_CH5072",
         "eurostat:nuts_2021_id":"CH5072"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"65f555509fb62b57fd03c33a808f4822",
     "wof:hierarchy":[
@@ -121,7 +135,7 @@
         }
     ],
     "wof:id":1394254111,
-    "wof:lastmodified":1684351781,
+    "wof:lastmodified":1695878978,
     "wof:name":"Faido",
     "wof:parent_id":102062931,
     "wof:placetype":"localadmin",

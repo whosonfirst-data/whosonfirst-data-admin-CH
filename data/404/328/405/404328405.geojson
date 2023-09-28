@@ -22,6 +22,18 @@
     "geom:latitude":46.237118,
     "geom:longitude":6.279128,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.235416,
     "lbl:longitude":6.281459,
     "lbl:max_zoom":18.0,
@@ -120,12 +132,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6626",
+        "chgov:number_qualified":"2506626",
         "eg:gisco_id":"CH_CH6626",
         "eurostat:nuts_2021_id":"CH6626",
         "gn:id":7286169,
         "gp:id":12683747,
         "qs_pg:id":961772
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125778417
     ],
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":404328405,
-    "wof:lastmodified":1684351695,
+    "wof:lastmodified":1695878879,
     "wof:name":"Jussy",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",

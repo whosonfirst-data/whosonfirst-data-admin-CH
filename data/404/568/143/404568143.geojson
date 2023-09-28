@@ -22,6 +22,18 @@
     "geom:latitude":46.179106,
     "geom:longitude":7.907601,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.18287,
     "lbl:longitude":7.895061,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6282",
+        "chgov:number_qualified":"2306282",
         "eg:gisco_id":"CH_CH6282",
         "eurostat:nuts_2021_id":"CH6282",
         "gn:id":7285717,
         "gp:id":12683367,
         "qs_pg:id":671292
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126004541
     ],
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404568143,
-    "wof:lastmodified":1684351713,
+    "wof:lastmodified":1695878898,
     "wof:name":"Eisten",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",

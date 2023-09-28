@@ -22,6 +22,18 @@
     "geom:latitude":47.317576,
     "geom:longitude":8.067136,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.31618,
     "lbl:longitude":8.071158,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4007",
+        "chgov:number_qualified":"1904007",
         "eg:gisco_id":"CH_CH4007",
         "eurostat:nuts_2021_id":"CH4007",
         "gn:id":7286088,
         "gp:id":12685237,
         "qs_pg:id":290442
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1209243349
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404571905,
-    "wof:lastmodified":1684351764,
+    "wof:lastmodified":1695878958,
     "wof:name":"Hirschthal",
     "wof:parent_id":102062989,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.747508,
     "geom:longitude":7.163728,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.74806,
     "lbl:longitude":7.164391,
     "lbl:max_zoom":18.0,
@@ -127,9 +139,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2194",
+        "chgov:number_qualified":"1002194",
         "eg:gisco_id":"CH_CH2194",
         "eurostat:nuts_2021_id":"CH2194"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125962525
     ],
@@ -148,7 +166,7 @@
         }
     ],
     "wof:id":404573425,
-    "wof:lastmodified":1684351774,
+    "wof:lastmodified":1695878969,
     "wof:name":"Ferpicloz",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",

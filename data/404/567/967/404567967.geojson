@@ -22,6 +22,18 @@
     "geom:latitude":46.110239,
     "geom:longitude":6.959963,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.10285,
     "lbl:longitude":6.927576,
     "lbl:max_zoom":18.0,
@@ -62,12 +74,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6218",
+        "chgov:number_qualified":"2306218",
         "eg:gisco_id":"CH_CH6218",
         "eurostat:nuts_2021_id":"CH6218",
         "gn:id":7287046,
         "gp:id":12683380,
         "qs_pg:id":248272
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -84,7 +102,7 @@
         }
     ],
     "wof:id":404567967,
-    "wof:lastmodified":1684351708,
+    "wof:lastmodified":1695878894,
     "wof:name":"Salvan",
     "wof:parent_id":102062965,
     "wof:placetype":"localadmin",

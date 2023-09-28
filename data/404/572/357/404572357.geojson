@@ -22,6 +22,18 @@
     "geom:latitude":47.685757,
     "geom:longitude":8.651677,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.686269,
     "lbl:longitude":8.649829,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0027",
+        "chgov:number_qualified":"0100027",
         "eg:gisco_id":"CH_CH0027",
         "eurostat:nuts_2021_id":"CH0027",
         "gn:id":7285815,
         "gp:id":12683456,
         "qs_pg:id":279374
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404572357,
-    "wof:lastmodified":1684351769,
+    "wof:lastmodified":1695878963,
     "wof:name":"Feuerthalen",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",

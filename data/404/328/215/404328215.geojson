@@ -22,6 +22,18 @@
     "geom:latitude":47.169877,
     "geom:longitude":8.603196,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.17163,
     "lbl:longitude":8.602347,
     "lbl:max_zoom":18.0,
@@ -132,12 +144,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1704",
+        "chgov:number_qualified":"0901704",
         "eg:gisco_id":"CH_CH1704",
         "eurostat:nuts_2021_id":"CH1704",
         "gn:id":7286486,
         "gp:id":12683620,
         "qs_pg:id":219054
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -154,7 +172,7 @@
         }
     ],
     "wof:id":404328215,
-    "wof:lastmodified":1684351692,
+    "wof:lastmodified":1695878875,
     "wof:name":"Menzingen",
     "wof:parent_id":102063067,
     "wof:placetype":"localadmin",

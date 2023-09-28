@@ -22,6 +22,18 @@
     "geom:latitude":46.794988,
     "geom:longitude":7.573213,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.792387,
     "lbl:longitude":7.576043,
     "lbl:max_zoom":18.0,
@@ -135,12 +147,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0885",
+        "chgov:number_qualified":"0200885",
         "eg:gisco_id":"CH_CH0885",
         "eurostat:nuts_2021_id":"CH0885",
         "gn:id":7287398,
         "gp:id":12684551,
         "qs_pg:id":43928
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125918209
     ],
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":404572101,
-    "wof:lastmodified":1684351766,
+    "wof:lastmodified":1695878961,
     "wof:name":"Uttigen",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",

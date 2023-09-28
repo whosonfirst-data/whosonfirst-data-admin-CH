@@ -22,6 +22,18 @@
     "geom:latitude":47.513376,
     "geom:longitude":7.962502,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.513133,
     "lbl:longitude":7.962188,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4259",
+        "chgov:number_qualified":"1904259",
         "eg:gisco_id":"CH_CH4259",
         "eurostat:nuts_2021_id":"CH4259",
         "gn:id":7287115,
         "gp:id":12684954,
         "qs_pg:id":1060894
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125792553
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404570571,
-    "wof:lastmodified":1684351748,
+    "wof:lastmodified":1695878938,
     "wof:name":"Schupfart",
     "wof:parent_id":102062905,
     "wof:placetype":"localadmin",

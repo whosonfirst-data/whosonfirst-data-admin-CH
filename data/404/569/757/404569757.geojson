@@ -22,6 +22,18 @@
     "geom:latitude":47.432883,
     "geom:longitude":7.464952,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.436041,
     "lbl:longitude":7.465399,
     "lbl:max_zoom":18.0,
@@ -131,11 +143,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2791",
+        "chgov:number_qualified":"1302791",
         "eg:gisco_id":"CH_CH2791",
         "eurostat:nuts_2021_id":"CH2791",
         "gp:id":12684297,
         "qs_pg:id":1026107
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125872279
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404569757,
-    "wof:lastmodified":1684351738,
+    "wof:lastmodified":1695878927,
     "wof:name":"R\u00f6schenz",
     "wof:parent_id":102062757,
     "wof:placetype":"localadmin",

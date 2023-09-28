@@ -22,6 +22,18 @@
     "geom:latitude":47.435932,
     "geom:longitude":7.527856,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.43288,
     "lbl:longitude":7.522,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2793",
+        "chgov:number_qualified":"1302793",
         "eg:gisco_id":"CH_CH2793",
         "eurostat:nuts_2021_id":"CH2793",
         "gn:id":7287656,
         "gp:id":12684677,
         "qs_pg:id":908991
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125973015
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404571415,
-    "wof:lastmodified":1684351758,
+    "wof:lastmodified":1695878951,
     "wof:name":"Zwingen",
     "wof:parent_id":102062757,
     "wof:placetype":"localadmin",

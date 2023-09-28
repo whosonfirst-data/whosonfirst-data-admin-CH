@@ -22,6 +22,18 @@
     "geom:latitude":47.444653,
     "geom:longitude":8.405775,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.444116,
     "lbl:longitude":8.406092,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0085",
+        "chgov:number_qualified":"0100085",
         "eg:gisco_id":"CH_CH0085",
         "eurostat:nuts_2021_id":"CH0085",
         "gn:id":7285623,
         "gp:id":12685097,
         "qs_pg:id":903237
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126008931
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404572187,
-    "wof:lastmodified":1684351767,
+    "wof:lastmodified":1695878962,
     "wof:name":"D\u00e4nikon",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",

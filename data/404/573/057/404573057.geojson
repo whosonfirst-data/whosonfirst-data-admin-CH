@@ -22,6 +22,18 @@
     "geom:latitude":46.641314,
     "geom:longitude":6.813034,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.641611,
     "lbl:longitude":6.815124,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2089",
+        "chgov:number_qualified":"1002089",
         "eg:gisco_id":"CH_CH2089",
         "eurostat:nuts_2021_id":"CH2089",
         "gn:id":7286533,
         "gp:id":20075468,
         "qs_pg:id":106629
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1326664135
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404573057,
-    "wof:lastmodified":1684351770,
+    "wof:lastmodified":1695878965,
     "wof:name":"Montet",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",

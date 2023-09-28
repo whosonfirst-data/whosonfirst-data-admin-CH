@@ -22,6 +22,18 @@
     "geom:latitude":47.027126,
     "geom:longitude":9.562509,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.012878,
     "lbl:longitude":9.535408,
     "lbl:max_zoom":18.0,
@@ -167,12 +179,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3953",
+        "chgov:number_qualified":"1803953",
         "eg:gisco_id":"CH_CH3953",
         "eurostat:nuts_2021_id":"CH3953",
         "gn:id":7286419,
         "gp:id":12683930,
         "qs_pg:id":671441
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -189,7 +207,7 @@
         }
     ],
     "wof:id":404568227,
-    "wof:lastmodified":1684351714,
+    "wof:lastmodified":1695878900,
     "wof:name":"Maienfeld",
     "wof:parent_id":102062881,
     "wof:placetype":"localadmin",

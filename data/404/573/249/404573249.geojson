@@ -22,6 +22,18 @@
     "geom:latitude":47.492844,
     "geom:longitude":9.46093,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.492926,
     "lbl:longitude":9.460933,
     "lbl:max_zoom":18.0,
@@ -146,11 +158,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4421",
+        "chgov:number_qualified":"2004421",
         "eg:gisco_id":"CH_CH4421",
         "eurostat:nuts_2021_id":"CH4421",
         "gp:id":12683706,
         "qs_pg:id":220746
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":404573249,
-    "wof:lastmodified":1684351772,
+    "wof:lastmodified":1695878967,
     "wof:name":"Horn",
     "wof:parent_id":102062959,
     "wof:placetype":"localadmin",

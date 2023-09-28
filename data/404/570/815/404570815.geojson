@@ -22,6 +22,18 @@
     "geom:latitude":47.670254,
     "geom:longitude":8.643487,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.668904,
     "lbl:longitude":8.641008,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0034",
+        "chgov:number_qualified":"0100034",
         "eg:gisco_id":"CH_CH0034",
         "eurostat:nuts_2021_id":"CH0034",
         "gn:id":7286279,
         "gp:id":12684538,
         "qs_pg:id":671416
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404570815,
-    "wof:lastmodified":1684351751,
+    "wof:lastmodified":1695878942,
     "wof:name":"Laufen-Uhwiesen",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",

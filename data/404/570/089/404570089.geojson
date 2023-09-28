@@ -22,6 +22,18 @@
     "geom:latitude":47.018129,
     "geom:longitude":7.448569,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.020227,
     "lbl:longitude":7.449087,
     "lbl:max_zoom":18.0,
@@ -146,12 +158,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0546",
+        "chgov:number_qualified":"0200546",
         "eg:gisco_id":"CH_CH0546",
         "eurostat:nuts_2021_id":"CH0546",
         "gn:id":7286582,
         "gp:id":12684046,
         "qs_pg:id":1306450
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854093
     ],
@@ -171,7 +189,7 @@
         }
     ],
     "wof:id":404570089,
-    "wof:lastmodified":1684351742,
+    "wof:lastmodified":1695878932,
     "wof:name":"M\u00fcnchenbuchsee",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

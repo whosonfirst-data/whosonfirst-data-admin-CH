@@ -22,6 +22,18 @@
     "geom:latitude":47.439383,
     "geom:longitude":8.432422,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.439901,
     "lbl:longitude":8.432774,
     "lbl:max_zoom":18.0,
@@ -140,11 +152,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0084",
+        "chgov:number_qualified":"0100084",
         "eg:gisco_id":"CH_CH0084",
         "eurostat:nuts_2021_id":"CH0084",
         "gp:id":12685096,
         "qs_pg:id":264758
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125993773
     ],
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":404571459,
-    "wof:lastmodified":1684351759,
+    "wof:lastmodified":1695878952,
     "wof:name":"D\u00e4llikon",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",

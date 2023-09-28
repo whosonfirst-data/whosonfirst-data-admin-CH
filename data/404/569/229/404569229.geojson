@@ -22,6 +22,18 @@
     "geom:latitude":47.271284,
     "geom:longitude":8.339536,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.272192,
     "lbl:longitude":8.339999,
     "lbl:max_zoom":18.0,
@@ -106,9 +118,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4236",
+        "chgov:number_qualified":"1904236",
         "eg:gisco_id":"CH_CH4236",
         "eurostat:nuts_2021_id":"CH4236"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854351
     ],
@@ -127,7 +145,7 @@
         }
     ],
     "wof:id":404569229,
-    "wof:lastmodified":1684351732,
+    "wof:lastmodified":1695878920,
     "wof:name":"Muri",
     "wof:parent_id":102062809,
     "wof:placetype":"localadmin",

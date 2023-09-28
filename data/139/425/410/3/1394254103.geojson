@@ -22,6 +22,18 @@
     "geom:latitude":46.777022,
     "geom:longitude":9.193737,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.821765,
     "lbl:longitude":9.147705,
     "lbl:max_zoom":18.0,
@@ -70,9 +82,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3619",
         "eg:gisco_id":"CH_CH3619",
         "eurostat:nuts_2021_id":"CH3619"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"b11ee8df2569fba45e6498f6adc580f9",
     "wof:hierarchy":[
@@ -85,7 +99,7 @@
         }
     ],
     "wof:id":1394254103,
-    "wof:lastmodified":1684351781,
+    "wof:lastmodified":1695878978,
     "wof:name":"Ilanz/Glion",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",

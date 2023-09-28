@@ -22,6 +22,18 @@
     "geom:latitude":46.943239,
     "geom:longitude":7.198605,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.943536,
     "lbl:longitude":7.198605,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2260",
+        "chgov:number_qualified":"1002260",
         "eg:gisco_id":"CH_CH2260",
         "eurostat:nuts_2021_id":"CH2260",
         "gn:id":7285900,
         "gp:id":12683742,
         "qs_pg:id":251004
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1226080923
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404573271,
-    "wof:lastmodified":1684351773,
+    "wof:lastmodified":1695878968,
     "wof:name":"Gempenach",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",

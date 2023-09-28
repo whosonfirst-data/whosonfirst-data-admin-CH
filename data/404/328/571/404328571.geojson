@@ -22,6 +22,18 @@
     "geom:latitude":47.427871,
     "geom:longitude":9.481728,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.428514,
     "lbl:longitude":9.482347,
     "lbl:max_zoom":18.0,
@@ -136,12 +148,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3034",
+        "chgov:number_qualified":"1503034",
         "eg:gisco_id":"CH_CH3034",
         "eurostat:nuts_2021_id":"CH3034",
         "gn:id":7286871,
         "gp:id":12684243,
         "qs_pg:id":1188080
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125874667
     ],
@@ -161,7 +179,7 @@
         }
     ],
     "wof:id":404328571,
-    "wof:lastmodified":1684351698,
+    "wof:lastmodified":1695878882,
     "wof:name":"Rehetobel",
     "wof:parent_id":1394137103,
     "wof:placetype":"localadmin",

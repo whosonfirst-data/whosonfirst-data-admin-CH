@@ -22,6 +22,18 @@
     "geom:latitude":47.270495,
     "geom:longitude":7.610385,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.269094,
     "lbl:longitude":7.61449,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0975",
+        "chgov:number_qualified":"0200975",
         "eg:gisco_id":"CH_CH0975",
         "eurostat:nuts_2021_id":"CH0975",
         "gn:id":7285797,
         "gp:id":20075425,
         "qs_pg:id":106574
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125959869
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404571853,
-    "wof:lastmodified":1684351764,
+    "wof:lastmodified":1695878958,
     "wof:name":"Farnern",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",

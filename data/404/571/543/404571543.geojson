@@ -22,6 +22,18 @@
     "geom:latitude":47.304328,
     "geom:longitude":8.546905,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.307666,
     "lbl:longitude":8.552621,
     "lbl:max_zoom":18.0,
@@ -141,12 +153,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0139",
+        "chgov:number_qualified":"0100139",
         "eg:gisco_id":"CH_CH0139",
         "eurostat:nuts_2021_id":"CH0139",
         "gn:id":7286991,
         "gp:id":12684318,
         "qs_pg:id":1208599
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -163,7 +181,7 @@
         }
     ],
     "wof:id":404571543,
-    "wof:lastmodified":1684351760,
+    "wof:lastmodified":1695878953,
     "wof:name":"R\u00fcschlikon",
     "wof:parent_id":102062825,
     "wof:placetype":"localadmin",

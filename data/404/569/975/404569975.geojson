@@ -22,6 +22,18 @@
     "geom:latitude":47.45192,
     "geom:longitude":7.148488,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.450664,
     "lbl:longitude":7.149092,
     "lbl:max_zoom":18.0,
@@ -122,11 +134,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6806",
+        "chgov:number_qualified":"2606806",
         "eg:gisco_id":"CH_CH6806",
         "eurostat:nuts_2021_id":"CH6806",
         "gn:id":7287429,
         "qs_pg:id":671648
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126021553
     ],
@@ -146,7 +164,7 @@
         }
     ],
     "wof:id":404569975,
-    "wof:lastmodified":1684351741,
+    "wof:lastmodified":1695878931,
     "wof:name":"Vendlincourt",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",

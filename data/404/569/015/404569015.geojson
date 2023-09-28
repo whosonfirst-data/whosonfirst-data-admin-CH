@@ -22,6 +22,18 @@
     "geom:latitude":47.039734,
     "geom:longitude":9.533046,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.03594,
     "lbl:longitude":9.508222,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3951",
+        "chgov:number_qualified":"1803951",
         "eg:gisco_id":"CH_CH3951",
         "eurostat:nuts_2021_id":"CH3951",
         "gn:id":7285835,
         "gp:id":12683471,
         "qs_pg:id":671319
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404569015,
-    "wof:lastmodified":1684351729,
+    "wof:lastmodified":1695878917,
     "wof:name":"Fl\u00e4sch",
     "wof:parent_id":102062881,
     "wof:placetype":"localadmin",

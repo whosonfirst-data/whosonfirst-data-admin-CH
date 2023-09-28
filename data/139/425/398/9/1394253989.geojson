@@ -22,6 +22,18 @@
     "geom:latitude":46.222938,
     "geom:longitude":7.364892,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.220958,
     "lbl:longitude":7.35992,
     "lbl:max_zoom":18.0,
@@ -133,9 +145,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6266",
         "eg:gisco_id":"CH_CH6266",
         "eurostat:nuts_2021_id":"CH6266"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"55b4b7700f484721daab69cad59cf340",
     "wof:hierarchy":[
@@ -148,7 +162,7 @@
         }
     ],
     "wof:id":1394253989,
-    "wof:lastmodified":1684351778,
+    "wof:lastmodified":1695878973,
     "wof:name":"Sion",
     "wof:parent_id":102062827,
     "wof:placetype":"localadmin",

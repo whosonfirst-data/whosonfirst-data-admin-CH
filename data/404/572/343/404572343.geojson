@@ -22,6 +22,18 @@
     "geom:latitude":47.552234,
     "geom:longitude":7.985236,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.551451,
     "lbl:longitude":7.989251,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4177",
+        "chgov:number_qualified":"1904177",
         "eg:gisco_id":"CH_CH4177",
         "eurostat:nuts_2021_id":"CH4177",
         "gn:id":7287181,
         "gp:id":12684956,
         "qs_pg:id":1019885
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125819833
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404572343,
-    "wof:lastmodified":1684351769,
+    "wof:lastmodified":1695878963,
     "wof:name":"Sisseln",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.485413,
     "geom:longitude":7.725679,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.485117,
     "lbl:longitude":7.729579,
     "lbl:max_zoom":18.0,
@@ -242,12 +254,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2829",
+        "chgov:number_qualified":"1302829",
         "eg:gisco_id":"CH_CH2829",
         "eurostat:nuts_2021_id":"CH2829",
         "gn:id":7286349,
         "gp:id":12683888,
         "qs_pg:id":538884
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101876021
     ],
@@ -267,7 +285,7 @@
         }
     ],
     "wof:id":404568695,
-    "wof:lastmodified":1684351723,
+    "wof:lastmodified":1695878910,
     "wof:name":"Liestal",
     "wof:parent_id":102062929,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.288031,
     "geom:longitude":8.274799,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.291209,
     "lbl:longitude":8.267745,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4227",
+        "chgov:number_qualified":"1904227",
         "eg:gisco_id":"CH_CH4227",
         "eurostat:nuts_2021_id":"CH4227",
         "gn:id":7285227,
         "gp:id":12685074,
         "qs_pg:id":246643
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1226676705
     ],
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":404571587,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878954,
     "wof:name":"Bettwil",
     "wof:parent_id":102062809,
     "wof:placetype":"localadmin",

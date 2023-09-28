@@ -22,6 +22,18 @@
     "geom:latitude":47.430001,
     "geom:longitude":7.839276,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.429773,
     "lbl:longitude":7.839043,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2867",
+        "chgov:number_qualified":"1302867",
         "eg:gisco_id":"CH_CH2867",
         "eurostat:nuts_2021_id":"CH2867",
         "gn:id":7287598,
         "gp:id":12685216,
         "qs_pg:id":953043
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1242708305
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404572049,
-    "wof:lastmodified":1684351766,
+    "wof:lastmodified":1695878960,
     "wof:name":"Wittinsburg",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",

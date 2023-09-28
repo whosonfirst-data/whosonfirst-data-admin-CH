@@ -22,6 +22,18 @@
     "geom:latitude":47.327276,
     "geom:longitude":7.390539,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.332244,
     "lbl:longitude":7.375583,
     "lbl:max_zoom":18.0,
@@ -106,9 +118,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6708",
         "eg:gisco_id":"CH_CH6708",
         "eurostat:nuts_2021_id":"CH6708"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"b9640abbc3cdd8b90fe6ffd11ba791c1",
     "wof:hierarchy":[
@@ -121,7 +135,7 @@
         }
     ],
     "wof:id":1394254041,
-    "wof:lastmodified":1684351779,
+    "wof:lastmodified":1695878975,
     "wof:name":"Courrendlin",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",

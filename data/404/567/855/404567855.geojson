@@ -22,6 +22,18 @@
     "geom:latitude":46.524904,
     "geom:longitude":9.448548,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.540148,
     "lbl:longitude":9.455305,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3713",
+        "chgov:number_qualified":"1803713",
         "eg:gisco_id":"CH_CH3713",
         "eurostat:nuts_2021_id":"CH3713",
         "gn:id":7285811,
         "gp:id":56071075,
         "qs_pg:id":505891
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404567855,
-    "wof:lastmodified":1684351706,
+    "wof:lastmodified":1695878891,
     "wof:name":"Ferrera",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",

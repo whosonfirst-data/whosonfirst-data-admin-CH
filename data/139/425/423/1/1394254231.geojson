@@ -22,6 +22,18 @@
     "geom:latitude":46.99788,
     "geom:longitude":8.519819,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.998531,
     "lbl:longitude":8.527845,
     "lbl:max_zoom":18.0,
@@ -121,9 +133,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1311",
         "eg:gisco_id":"CH_CH1311",
         "eurostat:nuts_2021_id":"CH1311"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:coterminous":[
         1125973903,
         102062883
@@ -140,7 +154,7 @@
         }
     ],
     "wof:id":1394254231,
-    "wof:lastmodified":1684351785,
+    "wof:lastmodified":1695878982,
     "wof:name":"Gersau",
     "wof:parent_id":102062883,
     "wof:placetype":"localadmin",

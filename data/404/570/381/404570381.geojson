@@ -22,6 +22,18 @@
     "geom:latitude":46.235697,
     "geom:longitude":8.823874,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.237967,
     "lbl:longitude":8.823427,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5102",
+        "chgov:number_qualified":"2105102",
         "eg:gisco_id":"CH_CH5102",
         "eurostat:nuts_2021_id":"CH5102",
         "gn:id":7285557,
         "gp:id":12683241,
         "qs_pg:id":1145777
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125771011
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404570381,
-    "wof:lastmodified":1684351745,
+    "wof:lastmodified":1695878936,
     "wof:name":"Corippo",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",

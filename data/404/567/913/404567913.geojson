@@ -22,6 +22,18 @@
     "geom:latitude":46.498626,
     "geom:longitude":7.03393,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.506766,
     "lbl:longitude":7.032946,
     "lbl:max_zoom":18.0,
@@ -128,11 +140,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2121",
+        "chgov:number_qualified":"1002121",
         "eg:gisco_id":"CH_CH2121",
         "eurostat:nuts_2021_id":"CH2121",
         "gp:id":23388501,
         "qs_pg:id":1310982
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":404567913,
-    "wof:lastmodified":1684351707,
+    "wof:lastmodified":1695878893,
     "wof:name":"Haut-Intyamon",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.965229,
     "geom:longitude":7.213628,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.965821,
     "lbl:longitude":7.218191,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0665",
+        "chgov:number_qualified":"0200665",
         "eg:gisco_id":"CH_CH0665",
         "eurostat:nuts_2021_id":"CH0665",
         "gn:id":7286007,
         "gp:id":20075400,
         "qs_pg:id":671369
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1277106245
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404573205,
-    "wof:lastmodified":1684351772,
+    "wof:lastmodified":1695878967,
     "wof:name":"Gurbr\u00fc",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

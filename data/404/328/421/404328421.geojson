@@ -22,6 +22,18 @@
     "geom:latitude":46.252157,
     "geom:longitude":6.198618,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.252145,
     "lbl:longitude":6.198624,
     "lbl:max_zoom":18.0,
@@ -132,12 +144,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6616",
+        "chgov:number_qualified":"2506616",
         "eg:gisco_id":"CH_CH6616",
         "eurostat:nuts_2021_id":"CH6616",
         "gn:id":3209499,
         "gp:id":12683214,
         "qs_pg:id":358540
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -154,7 +172,7 @@
         }
     ],
     "wof:id":404328421,
-    "wof:lastmodified":1684351695,
+    "wof:lastmodified":1695878879,
     "wof:name":"Collonge-Bellerive",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",

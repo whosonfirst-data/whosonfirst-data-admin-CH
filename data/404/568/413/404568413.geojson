@@ -22,6 +22,18 @@
     "geom:latitude":47.176292,
     "geom:longitude":8.827783,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.177081,
     "lbl:longitude":8.8278,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1341",
+        "chgov:number_qualified":"0501341",
         "eg:gisco_id":"CH_CH1341",
         "eurostat:nuts_2021_id":"CH1341",
         "gn:id":7285058,
         "gp:id":12682784,
         "qs_pg:id":1196178
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126016135
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404568413,
-    "wof:lastmodified":1684351718,
+    "wof:lastmodified":1695878904,
     "wof:name":"Altendorf",
     "wof:parent_id":102062927,
     "wof:placetype":"localadmin",

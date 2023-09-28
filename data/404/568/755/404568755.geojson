@@ -22,6 +22,18 @@
     "geom:latitude":47.351565,
     "geom:longitude":8.106714,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.354876,
     "lbl:longitude":8.10241,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4006",
+        "chgov:number_qualified":"1904006",
         "eg:gisco_id":"CH_CH4006",
         "eurostat:nuts_2021_id":"CH4006",
         "gn:id":7285969,
         "gp:id":12683595,
         "qs_pg:id":241842
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854357
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404568755,
-    "wof:lastmodified":1684351724,
+    "wof:lastmodified":1695878912,
     "wof:name":"Gr\u00e4nichen",
     "wof:parent_id":102062989,
     "wof:placetype":"localadmin",

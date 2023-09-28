@@ -22,6 +22,18 @@
     "geom:latitude":46.176108,
     "geom:longitude":6.030619,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.17661,
     "lbl:longitude":6.030307,
     "lbl:max_zoom":18.0,
@@ -81,12 +93,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6609",
+        "chgov:number_qualified":"2506609",
         "eg:gisco_id":"CH_CH6609",
         "eurostat:nuts_2021_id":"CH6609",
         "gn:id":7285437,
         "gp:id":12683135,
         "qs_pg:id":1093247
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125823575
     ],
@@ -106,7 +124,7 @@
         }
     ],
     "wof:id":404328731,
-    "wof:lastmodified":1684351700,
+    "wof:lastmodified":1695878884,
     "wof:name":"Cartigny",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",

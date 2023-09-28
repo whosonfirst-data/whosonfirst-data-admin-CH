@@ -22,6 +22,18 @@
     "geom:latitude":47.515321,
     "geom:longitude":9.419148,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.511807,
     "lbl:longitude":9.422793,
     "lbl:max_zoom":18.0,
@@ -182,12 +194,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4401",
+        "chgov:number_qualified":"2004401",
         "eg:gisco_id":"CH_CH4401",
         "eurostat:nuts_2021_id":"CH4401",
         "gn:id":7285089,
         "gp:id":12682812,
         "qs_pg:id":894466
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -204,7 +222,7 @@
         }
     ],
     "wof:id":404570881,
-    "wof:lastmodified":1684351751,
+    "wof:lastmodified":1695878943,
     "wof:name":"Arbon",
     "wof:parent_id":102062959,
     "wof:placetype":"localadmin",

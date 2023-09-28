@@ -22,6 +22,18 @@
     "geom:latitude":47.497415,
     "geom:longitude":7.591222,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.494451,
     "lbl:longitude":7.596309,
     "lbl:max_zoom":18.0,
@@ -110,12 +122,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2773",
+        "chgov:number_qualified":"1302773",
         "eg:gisco_id":"CH_CH2773",
         "eurostat:nuts_2021_id":"CH2773",
         "gn:id":7286877,
         "gp:id":12684249,
         "qs_pg:id":671534
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1344093037
     ],
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":404570593,
-    "wof:lastmodified":1684351748,
+    "wof:lastmodified":1695878939,
     "wof:name":"Reinach",
     "wof:parent_id":102062971,
     "wof:placetype":"localadmin",

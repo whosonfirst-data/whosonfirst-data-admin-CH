@@ -22,6 +22,18 @@
     "geom:latitude":47.343041,
     "geom:longitude":7.927096,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.344703,
     "lbl:longitude":7.927095,
     "lbl:max_zoom":18.0,
@@ -130,12 +142,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2584",
+        "chgov:number_qualified":"1102584",
         "eg:gisco_id":"CH_CH2584",
         "eurostat:nuts_2021_id":"CH2584",
         "gn:id":7287221,
         "gp:id":12685226,
         "qs_pg:id":885885
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394296027
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404328873,
-    "wof:lastmodified":1684351701,
+    "wof:lastmodified":1695878886,
     "wof:name":"Starrkirch-Wil",
     "wof:parent_id":1394137091,
     "wof:placetype":"localadmin",

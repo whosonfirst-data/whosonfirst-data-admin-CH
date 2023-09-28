@@ -22,6 +22,18 @@
     "geom:latitude":46.823176,
     "geom:longitude":6.841347,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.83055,
     "lbl:longitude":6.85077,
     "lbl:max_zoom":18.0,
@@ -110,12 +122,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2025",
+        "chgov:number_qualified":"1002025",
         "eg:gisco_id":"CH_CH2025",
         "eurostat:nuts_2021_id":"CH2025",
         "gn:id":2659833,
         "gp:id":20075449,
         "qs_pg:id":1019672
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":404571101,
-    "wof:lastmodified":1684351754,
+    "wof:lastmodified":1695878947,
     "wof:name":"Lully",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",

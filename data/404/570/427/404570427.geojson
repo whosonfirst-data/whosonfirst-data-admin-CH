@@ -22,6 +22,18 @@
     "geom:latitude":47.534255,
     "geom:longitude":8.726099,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.533316,
     "lbl:longitude":8.726554,
     "lbl:max_zoom":18.0,
@@ -143,11 +155,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0227",
+        "chgov:number_qualified":"0100227",
         "eg:gisco_id":"CH_CH0227",
         "eurostat:nuts_2021_id":"CH0227",
         "gp:id":12684401,
         "qs_pg:id":1325477
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854409
     ],
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":404570427,
-    "wof:lastmodified":1684351746,
+    "wof:lastmodified":1695878936,
     "wof:name":"Seuzach",
     "wof:parent_id":102063055,
     "wof:placetype":"localadmin",

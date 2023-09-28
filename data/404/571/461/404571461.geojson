@@ -22,6 +22,18 @@
     "geom:latitude":46.760955,
     "geom:longitude":7.532415,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.757834,
     "lbl:longitude":7.526436,
     "lbl:max_zoom":18.0,
@@ -130,9 +142,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0948",
+        "chgov:number_qualified":"0200948",
         "eg:gisco_id":"CH_CH0948",
         "eurostat:nuts_2021_id":"CH0948"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -148,7 +166,7 @@
         }
     ],
     "wof:id":404571461,
-    "wof:lastmodified":1684351759,
+    "wof:lastmodified":1695878952,
     "wof:name":"Forst-L\u00e4ngenb\u00fchl",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",

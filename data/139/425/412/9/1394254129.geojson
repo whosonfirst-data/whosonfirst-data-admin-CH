@@ -22,6 +22,18 @@
     "geom:latitude":47.143019,
     "geom:longitude":7.684067,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.140812,
     "lbl:longitude":7.677863,
     "lbl:max_zoom":18.0,
@@ -103,9 +115,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0988",
         "eg:gisco_id":"CH_CH0988",
         "eurostat:nuts_2021_id":"CH0988"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"1aa7c2d07d7fe7e71fd825a6de11116e",
     "wof:hierarchy":[
@@ -118,7 +132,7 @@
         }
     ],
     "wof:id":1394254129,
-    "wof:lastmodified":1684351782,
+    "wof:lastmodified":1695878979,
     "wof:name":"Seeberg",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",

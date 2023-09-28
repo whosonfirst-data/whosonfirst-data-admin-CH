@@ -22,6 +22,18 @@
     "geom:latitude":47.509866,
     "geom:longitude":8.475385,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.511437,
     "lbl:longitude":8.472368,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0088",
+        "chgov:number_qualified":"0100088",
         "eg:gisco_id":"CH_CH0088",
         "eurostat:nuts_2021_id":"CH0088",
         "gn:id":7286615,
         "gp:id":12685101,
         "qs_pg:id":289841
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126007599
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404570897,
-    "wof:lastmodified":1684351752,
+    "wof:lastmodified":1695878943,
     "wof:name":"Neerach",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",

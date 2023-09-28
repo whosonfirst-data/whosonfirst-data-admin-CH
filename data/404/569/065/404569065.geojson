@@ -22,6 +22,18 @@
     "geom:latitude":47.331002,
     "geom:longitude":7.317635,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.330866,
     "lbl:longitude":7.317247,
     "lbl:max_zoom":18.0,
@@ -119,11 +131,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6710",
+        "chgov:number_qualified":"2606710",
         "eg:gisco_id":"CH_CH6710",
         "eurostat:nuts_2021_id":"CH6710",
         "gn:id":7285585,
         "qs_pg:id":671265
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125872555
     ],
@@ -143,7 +161,7 @@
         }
     ],
     "wof:id":404569065,
-    "wof:lastmodified":1684351730,
+    "wof:lastmodified":1695878917,
     "wof:name":"Court\u00e9telle",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",

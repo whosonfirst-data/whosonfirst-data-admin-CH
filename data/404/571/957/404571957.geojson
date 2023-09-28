@@ -22,6 +22,18 @@
     "geom:latitude":46.678904,
     "geom:longitude":6.718323,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.678681,
     "lbl:longitude":6.718565,
     "lbl:max_zoom":18.0,
@@ -116,11 +128,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5661",
+        "chgov:number_qualified":"2205661",
         "eg:gisco_id":"CH_CH5661",
         "eurostat:nuts_2021_id":"CH5661",
         "gn:id":7285310,
         "qs_pg:id":671199
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1327170209
     ],
@@ -140,7 +158,7 @@
         }
     ],
     "wof:id":404571957,
-    "wof:lastmodified":1684351765,
+    "wof:lastmodified":1695878959,
     "wof:name":"Boulens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

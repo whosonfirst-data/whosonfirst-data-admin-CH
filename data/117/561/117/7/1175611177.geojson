@@ -22,6 +22,18 @@
     "geom:latitude":47.44727,
     "geom:longitude":8.363711,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.447613,
     "lbl:longitude":8.363587,
     "lbl:max_zoom":18.0,
@@ -136,12 +148,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4048",
+        "chgov:number_qualified":"1904048",
         "eg:gisco_id":"CH_CH4048",
         "eurostat:nuts_2021_id":"CH4048",
         "gn:id":7287615,
         "gp:id":12684651,
         "qs_pg:id":248693
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101876043
     ],
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":1175611177,
-    "wof:lastmodified":1684351775,
+    "wof:lastmodified":1695878971,
     "wof:name":"W\u00fcrenlos",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.196844,
     "geom:longitude":7.391225,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.206147,
     "lbl:longitude":7.395893,
     "lbl:max_zoom":18.0,
@@ -71,12 +83,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6089",
+        "chgov:number_qualified":"2306089",
         "eg:gisco_id":"CH_CH6089",
         "eurostat:nuts_2021_id":"CH6089",
         "gn:id":7287445,
         "gp:id":12684568,
         "qs_pg:id":1153981
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -93,7 +111,7 @@
         }
     ],
     "wof:id":404569133,
-    "wof:lastmodified":1684351731,
+    "wof:lastmodified":1695878918,
     "wof:name":"Vex",
     "wof:parent_id":102062985,
     "wof:placetype":"localadmin",

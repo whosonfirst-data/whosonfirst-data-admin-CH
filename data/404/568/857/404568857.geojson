@@ -22,6 +22,18 @@
     "geom:latitude":47.015847,
     "geom:longitude":6.669302,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.019101,
     "lbl:longitude":6.670343,
     "lbl:max_zoom":18.0,
@@ -117,9 +129,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6434",
+        "chgov:number_qualified":"2406434",
         "eg:gisco_id":"CH_CH6434",
         "eurostat:nuts_2021_id":"CH6434"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -134,7 +152,7 @@
         }
     ],
     "wof:id":404568857,
-    "wof:lastmodified":1684351726,
+    "wof:lastmodified":1695878914,
     "wof:name":"Le Cerneux-P\u00e9quignot",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.030184,
     "geom:longitude":8.782167,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.03011,
     "lbl:longitude":8.776683,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1368",
+        "chgov:number_qualified":"0501368",
         "eg:gisco_id":"CH_CH1368",
         "eurostat:nuts_2021_id":"CH1368",
         "gn:id":7286699,
         "gp:id":12684129,
         "qs_pg:id":1059680
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404568213,
-    "wof:lastmodified":1684351714,
+    "wof:lastmodified":1695878900,
     "wof:name":"Oberiberg",
     "wof:parent_id":102062887,
     "wof:placetype":"localadmin",

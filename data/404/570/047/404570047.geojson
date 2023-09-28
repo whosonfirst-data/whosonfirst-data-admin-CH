@@ -22,6 +22,18 @@
     "geom:latitude":47.333582,
     "geom:longitude":8.020935,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.334572,
     "lbl:longitude":8.018666,
     "lbl:max_zoom":18.0,
@@ -149,12 +161,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4276",
+        "chgov:number_qualified":"1904276",
         "eg:gisco_id":"CH_CH4276",
         "eurostat:nuts_2021_id":"CH4276",
         "gn:id":7286214,
         "gp:id":12683778,
         "qs_pg:id":1188057
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854335
     ],
@@ -174,7 +192,7 @@
         }
     ],
     "wof:id":404570047,
-    "wof:lastmodified":1684351742,
+    "wof:lastmodified":1695878932,
     "wof:name":"K\u00f6lliken",
     "wof:parent_id":102062851,
     "wof:placetype":"localadmin",

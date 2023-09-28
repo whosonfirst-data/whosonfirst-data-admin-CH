@@ -22,6 +22,18 @@
     "geom:latitude":46.201032,
     "geom:longitude":6.968435,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.201324,
     "lbl:longitude":6.967962,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6220",
+        "chgov:number_qualified":"2306220",
         "eg:gisco_id":"CH_CH6220",
         "eurostat:nuts_2021_id":"CH6220",
         "gn:id":7287439,
         "gp:id":20075663,
         "qs_pg:id":671652
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1326964727
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404568985,
-    "wof:lastmodified":1684351728,
+    "wof:lastmodified":1695878916,
     "wof:name":"V\u00e9rossaz",
     "wof:parent_id":102062965,
     "wof:placetype":"localadmin",

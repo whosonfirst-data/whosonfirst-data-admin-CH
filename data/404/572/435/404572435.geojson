@@ -22,6 +22,18 @@
     "geom:latitude":47.087275,
     "geom:longitude":7.253742,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.087413,
     "lbl:longitude":7.254887,
     "lbl:max_zoom":18.0,
@@ -121,9 +133,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0741",
+        "chgov:number_qualified":"0200741",
         "eg:gisco_id":"CH_CH0741",
         "eurostat:nuts_2021_id":"CH0741"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125848185
     ],
@@ -142,7 +160,7 @@
         }
     ],
     "wof:id":404572435,
-    "wof:lastmodified":1684351770,
+    "wof:lastmodified":1695878965,
     "wof:name":"Merzligen",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",

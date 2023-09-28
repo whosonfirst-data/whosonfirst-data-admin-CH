@@ -22,6 +22,18 @@
     "geom:latitude":46.608373,
     "geom:longitude":7.004708,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.606314,
     "lbl:longitude":6.995014,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2160",
+        "chgov:number_qualified":"1002160",
         "eg:gisco_id":"CH_CH2160",
         "eurostat:nuts_2021_id":"CH2160",
         "gn:id":7287498,
         "gp:id":12684592,
         "qs_pg:id":191095
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125872021
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404569687,
-    "wof:lastmodified":1684351737,
+    "wof:lastmodified":1695878926,
     "wof:name":"Vuadens",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",

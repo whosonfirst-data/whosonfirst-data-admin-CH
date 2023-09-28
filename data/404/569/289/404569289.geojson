@@ -22,6 +22,18 @@
     "geom:latitude":46.998447,
     "geom:longitude":7.415782,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.999726,
     "lbl:longitude":7.418359,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0354",
+        "chgov:number_qualified":"0200354",
         "eg:gisco_id":"CH_CH0354",
         "eurostat:nuts_2021_id":"CH0354",
         "gn:id":7286203,
         "gp:id":12683041,
         "qs_pg:id":671401
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125897883
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404569289,
-    "wof:lastmodified":1684351733,
+    "wof:lastmodified":1695878921,
     "wof:name":"Kirchlindach",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

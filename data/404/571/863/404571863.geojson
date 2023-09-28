@@ -22,6 +22,18 @@
     "geom:latitude":47.449301,
     "geom:longitude":7.560961,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.448544,
     "lbl:longitude":7.562603,
     "lbl:max_zoom":18.0,
@@ -131,11 +143,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2789",
+        "chgov:number_qualified":"1302789",
         "eg:gisco_id":"CH_CH2789",
         "eurostat:nuts_2021_id":"CH2789",
         "gp:id":12684935,
         "qs_pg:id":1120656
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125815795
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404571863,
-    "wof:lastmodified":1684351764,
+    "wof:lastmodified":1695878958,
     "wof:name":"Nenzlingen",
     "wof:parent_id":102062757,
     "wof:placetype":"localadmin",

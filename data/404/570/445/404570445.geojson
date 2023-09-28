@@ -22,6 +22,18 @@
     "geom:latitude":46.675547,
     "geom:longitude":6.994903,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.67593,
     "lbl:longitude":6.995313,
     "lbl:max_zoom":18.0,
@@ -62,12 +74,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2067",
+        "chgov:number_qualified":"1002067",
         "eg:gisco_id":"CH_CH2067",
         "eurostat:nuts_2021_id":"CH2067",
         "gn:id":7286296,
         "gp:id":12684840,
         "qs_pg:id":380105
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1327467787
     ],
@@ -87,7 +105,7 @@
         }
     ],
     "wof:id":404570445,
-    "wof:lastmodified":1684351746,
+    "wof:lastmodified":1695878936,
     "wof:name":"Le Ch\u00e2telard",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",

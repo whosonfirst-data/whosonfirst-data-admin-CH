@@ -22,6 +22,18 @@
     "geom:latitude":46.785231,
     "geom:longitude":6.567428,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.785208,
     "lbl:longitude":6.569511,
     "lbl:max_zoom":18.0,
@@ -116,12 +128,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5905",
+        "chgov:number_qualified":"2205905",
         "eg:gisco_id":"CH_CH5905",
         "eurostat:nuts_2021_id":"CH5905",
         "gn:id":7285469,
         "gp:id":12683167,
         "qs_pg:id":1071051
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":404570001,
-    "wof:lastmodified":1684351741,
+    "wof:lastmodified":1695878931,
     "wof:name":"Champvent",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.090758,
     "geom:longitude":7.509797,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.090762,
     "lbl:longitude":7.510625,
     "lbl:max_zoom":18.0,
@@ -112,9 +124,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0538",
         "eg:gisco_id":"CH_CH0538",
         "eurostat:nuts_2021_id":"CH0538"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"8589acfdb0d85c17add02e60b7b0fcf4",
     "wof:hierarchy":[
@@ -127,7 +141,7 @@
         }
     ],
     "wof:id":1394254067,
-    "wof:lastmodified":1684351780,
+    "wof:lastmodified":1695878977,
     "wof:name":"Fraubrunnen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

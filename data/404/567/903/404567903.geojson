@@ -22,6 +22,18 @@
     "geom:latitude":46.459982,
     "geom:longitude":8.927283,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.453743,
     "lbl:longitude":8.920414,
     "lbl:max_zoom":18.0,
@@ -74,12 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5048",
+        "chgov:number_qualified":"2105048",
         "eg:gisco_id":"CH_CH5048",
         "eurostat:nuts_2021_id":"CH5048",
         "gn:id":7285019,
         "gp:id":28997178,
         "qs_pg:id":1086504
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -96,7 +114,7 @@
         }
     ],
     "wof:id":404567903,
-    "wof:lastmodified":1684351707,
+    "wof:lastmodified":1695878892,
     "wof:name":"Acquarossa",
     "wof:parent_id":102063035,
     "wof:placetype":"localadmin",

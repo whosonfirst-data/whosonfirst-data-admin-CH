@@ -22,6 +22,18 @@
     "geom:latitude":47.303529,
     "geom:longitude":9.455935,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.318924,
     "lbl:longitude":9.46803,
     "lbl:max_zoom":18.0,
@@ -121,9 +133,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3103",
         "eg:gisco_id":"CH_CH3103",
         "eurostat:nuts_2021_id":"CH3103"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"e871aa5ce9c8a86a5ed1393efd8fbd40",
     "wof:hierarchy":[
@@ -136,7 +150,7 @@
         }
     ],
     "wof:id":1394254075,
-    "wof:lastmodified":1684351780,
+    "wof:lastmodified":1695878977,
     "wof:name":"R\u00fcte",
     "wof:parent_id":1394237541,
     "wof:placetype":"localadmin",

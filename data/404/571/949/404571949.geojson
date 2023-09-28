@@ -22,6 +22,18 @@
     "geom:latitude":46.771852,
     "geom:longitude":6.989034,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.773121,
     "lbl:longitude":6.988829,
     "lbl:max_zoom":18.0,
@@ -124,9 +136,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2185",
+        "chgov:number_qualified":"1002185",
         "eg:gisco_id":"CH_CH2185",
         "eurostat:nuts_2021_id":"CH2185"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125915231
     ],
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":404571949,
-    "wof:lastmodified":1684351765,
+    "wof:lastmodified":1695878959,
     "wof:name":"Corserey",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",

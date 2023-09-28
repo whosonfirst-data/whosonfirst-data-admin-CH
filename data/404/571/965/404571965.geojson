@@ -22,6 +22,18 @@
     "geom:latitude":46.995555,
     "geom:longitude":6.88943,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.995259,
     "lbl:longitude":6.889672,
     "lbl:max_zoom":18.0,
@@ -88,12 +100,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6412",
+        "chgov:number_qualified":"2406412",
         "eg:gisco_id":"CH_CH6412",
         "eurostat:nuts_2021_id":"CH6412",
         "gn:id":7286785,
         "gp:id":12684195,
         "qs_pg:id":1118739
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853997
     ],
@@ -112,7 +130,7 @@
         }
     ],
     "wof:id":404571965,
-    "wof:lastmodified":1684351765,
+    "wof:lastmodified":1695878959,
     "wof:name":"Peseux",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",

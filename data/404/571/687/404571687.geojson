@@ -22,6 +22,18 @@
     "geom:latitude":46.500532,
     "geom:longitude":6.40811,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.500621,
     "lbl:longitude":6.408349,
     "lbl:max_zoom":18.0,
@@ -85,9 +97,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5637",
+        "chgov:number_qualified":"2205637",
         "eg:gisco_id":"CH_CH5637",
         "eurostat:nuts_2021_id":"CH5637"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126004559
     ],
@@ -106,7 +124,7 @@
         }
     ],
     "wof:id":404571687,
-    "wof:lastmodified":1684351762,
+    "wof:lastmodified":1695878955,
     "wof:name":"Lavigny",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

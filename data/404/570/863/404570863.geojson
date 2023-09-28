@@ -22,6 +22,18 @@
     "geom:latitude":47.438233,
     "geom:longitude":7.046327,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.437719,
     "lbl:longitude":7.044412,
     "lbl:max_zoom":18.0,
@@ -116,11 +128,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6783",
+        "chgov:number_qualified":"2606783",
         "eg:gisco_id":"CH_CH6783",
         "eurostat:nuts_2021_id":"CH6783",
         "gn:id":7285574,
         "qs_pg:id":671259
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1344093519
     ],
@@ -140,7 +158,7 @@
         }
     ],
     "wof:id":404570863,
-    "wof:lastmodified":1684351751,
+    "wof:lastmodified":1695878943,
     "wof:name":"Courchavon",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",

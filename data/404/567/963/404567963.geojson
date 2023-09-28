@@ -22,6 +22,18 @@
     "geom:latitude":46.097057,
     "geom:longitude":7.779283,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.100024,
     "lbl:longitude":7.765769,
     "lbl:max_zoom":18.0,
@@ -95,12 +107,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6287",
+        "chgov:number_qualified":"2306287",
         "eg:gisco_id":"CH_CH6287",
         "eurostat:nuts_2021_id":"CH6287",
         "gn:id":7286855,
         "gp:id":12684233,
         "qs_pg:id":671527
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125806351
     ],
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":404567963,
-    "wof:lastmodified":1684351708,
+    "wof:lastmodified":1695878894,
     "wof:name":"Randa",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",

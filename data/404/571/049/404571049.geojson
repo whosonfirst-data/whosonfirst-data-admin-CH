@@ -22,6 +22,18 @@
     "geom:latitude":46.889976,
     "geom:longitude":6.910738,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.892912,
     "lbl:longitude":6.909764,
     "lbl:max_zoom":18.0,
@@ -114,12 +126,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5813",
+        "chgov:number_qualified":"2205813",
         "eg:gisco_id":"CH_CH5813",
         "eurostat:nuts_2021_id":"CH5813",
         "gn:id":7285506,
         "gp:id":12683195,
         "qs_pg:id":493248
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":404571049,
-    "wof:lastmodified":1684351754,
+    "wof:lastmodified":1695878946,
     "wof:name":"Chevroux",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.421006,
     "geom:longitude":9.253647,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.4203,
     "lbl:longitude":9.245115,
     "lbl:max_zoom":18.0,
@@ -110,11 +122,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3443",
+        "chgov:number_qualified":"1703443",
         "eg:gisco_id":"CH_CH3443",
         "eurostat:nuts_2021_id":"CH3443",
         "gn:id":7285945,
         "qs_pg:id":106582
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -131,7 +149,7 @@
         }
     ],
     "wof:id":404568327,
-    "wof:lastmodified":1684351716,
+    "wof:lastmodified":1695878902,
     "wof:name":"Gossau",
     "wof:parent_id":102062847,
     "wof:placetype":"localadmin",

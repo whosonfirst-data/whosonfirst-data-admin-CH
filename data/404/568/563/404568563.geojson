@@ -22,6 +22,18 @@
     "geom:latitude":46.927224,
     "geom:longitude":7.570756,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.926111,
     "lbl:longitude":7.571642,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0627",
+        "chgov:number_qualified":"0200627",
         "eg:gisco_id":"CH_CH0627",
         "eurostat:nuts_2021_id":"CH0627",
         "gn:id":7287610,
         "gp:id":12684260,
         "qs_pg:id":106719
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404568563,
-    "wof:lastmodified":1684351721,
+    "wof:lastmodified":1695878907,
     "wof:name":"Worb",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

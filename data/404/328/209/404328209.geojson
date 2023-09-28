@@ -22,6 +22,18 @@
     "geom:latitude":46.949775,
     "geom:longitude":8.526972,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.943689,
     "lbl:longitude":8.52388,
     "lbl:max_zoom":18.0,
@@ -141,12 +153,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1504",
+        "chgov:number_qualified":"0701504",
         "eg:gisco_id":"CH_CH1504",
         "eurostat:nuts_2021_id":"CH1504",
         "gn:id":7285726,
         "gp:id":12683378,
         "qs_pg:id":1145840
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125871161
     ],
@@ -166,7 +184,7 @@
         }
     ],
     "wof:id":404328209,
-    "wof:lastmodified":1684351691,
+    "wof:lastmodified":1695878875,
     "wof:name":"Emmetten",
     "wof:parent_id":102062973,
     "wof:placetype":"localadmin",

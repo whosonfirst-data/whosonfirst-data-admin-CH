@@ -22,6 +22,18 @@
     "geom:latitude":47.281667,
     "geom:longitude":8.450303,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.278581,
     "lbl:longitude":8.4503,
     "lbl:max_zoom":18.0,
@@ -161,12 +173,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0002",
+        "chgov:number_qualified":"0100002",
         "eg:gisco_id":"CH_CH0002",
         "eurostat:nuts_2021_id":"CH0002",
         "gn:id":7285037,
         "gp:id":12682729,
         "qs_pg:id":290440
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -183,7 +201,7 @@
         }
     ],
     "wof:id":404569659,
-    "wof:lastmodified":1684351736,
+    "wof:lastmodified":1695878925,
     "wof:name":"Affoltern am Albis",
     "wof:parent_id":102062775,
     "wof:placetype":"localadmin",

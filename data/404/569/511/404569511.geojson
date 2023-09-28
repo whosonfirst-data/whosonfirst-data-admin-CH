@@ -22,6 +22,18 @@
     "geom:latitude":46.607704,
     "geom:longitude":6.827511,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.61162,
     "lbl:longitude":6.829661,
     "lbl:max_zoom":18.0,
@@ -62,11 +74,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2097",
+        "chgov:number_qualified":"1002097",
         "eg:gisco_id":"CH_CH2097",
         "eurostat:nuts_2021_id":"CH2097",
         "gn:id":7286973,
         "qs_pg:id":1154303
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -83,7 +101,7 @@
         }
     ],
     "wof:id":404569511,
-    "wof:lastmodified":1684351735,
+    "wof:lastmodified":1695878924,
     "wof:name":"Rue",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.195452,
     "geom:longitude":8.537019,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.199955,
     "lbl:longitude":8.5398,
     "lbl:max_zoom":18.0,
@@ -168,12 +180,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1701",
+        "chgov:number_qualified":"0901701",
         "eg:gisco_id":"CH_CH1701",
         "eurostat:nuts_2021_id":"CH1701",
         "gn:id":7285132,
         "gp:id":12682874,
         "qs_pg:id":1292328
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101875981
     ],
@@ -193,7 +211,7 @@
         }
     ],
     "wof:id":404328235,
-    "wof:lastmodified":1684351692,
+    "wof:lastmodified":1695878875,
     "wof:name":"Baar",
     "wof:parent_id":102063067,
     "wof:placetype":"localadmin",

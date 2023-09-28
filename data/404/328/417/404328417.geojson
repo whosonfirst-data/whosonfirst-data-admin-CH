@@ -22,6 +22,18 @@
     "geom:latitude":47.579443,
     "geom:longitude":7.651164,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.578198,
     "lbl:longitude":7.64813,
     "lbl:max_zoom":18.0,
@@ -165,11 +177,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2703",
+        "chgov:number_qualified":"1202703",
         "eg:gisco_id":"CH_CH2703",
         "eurostat:nuts_2021_id":"CH2703",
         "gn:id":7286907,
         "qs_pg:id":1154302
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394297929
     ],
@@ -189,7 +207,7 @@
         }
     ],
     "wof:id":404328417,
-    "wof:lastmodified":1684351695,
+    "wof:lastmodified":1695878879,
     "wof:name":"Riehen",
     "wof:parent_id":102062895,
     "wof:placetype":"localadmin",

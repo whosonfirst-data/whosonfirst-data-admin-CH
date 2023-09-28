@@ -22,6 +22,18 @@
     "geom:latitude":47.053174,
     "geom:longitude":6.748189,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.054491,
     "lbl:longitude":6.752516,
     "lbl:max_zoom":18.0,
@@ -181,12 +193,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6436",
+        "chgov:number_qualified":"2406436",
         "eg:gisco_id":"CH_CH6436",
         "eurostat:nuts_2021_id":"CH6436",
         "gn:id":7286309,
         "gp:id":12683851,
         "qs_pg:id":1315809
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101767409
     ],
@@ -205,7 +223,7 @@
         }
     ],
     "wof:id":404568469,
-    "wof:lastmodified":1684351719,
+    "wof:lastmodified":1695878905,
     "wof:name":"Le Locle",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",

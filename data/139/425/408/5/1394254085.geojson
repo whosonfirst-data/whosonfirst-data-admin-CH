@@ -22,6 +22,18 @@
     "geom:latitude":46.708802,
     "geom:longitude":6.580682,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.706567,
     "lbl:longitude":6.580016,
     "lbl:max_zoom":18.0,
@@ -91,9 +103,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5749",
         "eg:gisco_id":"CH_CH5749",
         "eurostat:nuts_2021_id":"CH5749"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"a1ec1105dd3f32cc1cda3c2af9cdea58",
     "wof:hierarchy":[
@@ -106,7 +120,7 @@
         }
     ],
     "wof:id":1394254085,
-    "wof:lastmodified":1684351781,
+    "wof:lastmodified":1695878977,
     "wof:name":"Chavornay",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

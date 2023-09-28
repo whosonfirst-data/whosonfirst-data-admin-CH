@@ -22,6 +22,18 @@
     "geom:latitude":46.133504,
     "geom:longitude":9.014371,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.137095,
     "lbl:longitude":9.014359,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5009",
+        "chgov:number_qualified":"2105009",
         "eg:gisco_id":"CH_CH5009",
         "eurostat:nuts_2021_id":"CH5009",
         "gn:id":7286152,
         "gp:id":12683737,
         "qs_pg:id":1019116
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126044245
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404569153,
-    "wof:lastmodified":1684351731,
+    "wof:lastmodified":1695878919,
     "wof:name":"Isone",
     "wof:parent_id":102062991,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.548871,
     "geom:longitude":6.727044,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.54899,
     "lbl:longitude":6.726611,
     "lbl:max_zoom":18.0,
@@ -140,11 +152,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5611",
+        "chgov:number_qualified":"2205611",
         "eg:gisco_id":"CH_CH5611",
         "eurostat:nuts_2021_id":"CH5611",
         "gn:id":7287065,
         "qs_pg:id":671588
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -161,7 +179,7 @@
         }
     ],
     "wof:id":404568835,
-    "wof:lastmodified":1684351726,
+    "wof:lastmodified":1695878913,
     "wof:name":"Savigny",
     "wof:parent_id":102063047,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.208061,
     "geom:longitude":9.150977,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.211701,
     "lbl:longitude":9.137564,
     "lbl:max_zoom":18.0,
@@ -149,12 +161,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3834",
+        "chgov:number_qualified":"1803834",
         "eg:gisco_id":"CH_CH3834",
         "eurostat:nuts_2021_id":"CH3834",
         "gn:id":7286965,
         "gp:id":12684011,
         "qs_pg:id":671559
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125773789
     ],
@@ -174,7 +192,7 @@
         }
     ],
     "wof:id":404568141,
-    "wof:lastmodified":1684351712,
+    "wof:lastmodified":1695878898,
     "wof:name":"Roveredo",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",

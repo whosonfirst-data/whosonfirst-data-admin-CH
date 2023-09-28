@@ -22,6 +22,18 @@
     "geom:latitude":46.709075,
     "geom:longitude":6.72351,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.708274,
     "lbl:longitude":6.722238,
     "lbl:max_zoom":18.0,
@@ -116,11 +128,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5680",
+        "chgov:number_qualified":"2205680",
         "eg:gisco_id":"CH_CH5680",
         "eurostat:nuts_2021_id":"CH5680",
         "gn:id":7286734,
         "qs_pg:id":671511
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1276580569
     ],
@@ -140,7 +158,7 @@
         }
     ],
     "wof:id":404571967,
-    "wof:lastmodified":1684351765,
+    "wof:lastmodified":1695878959,
     "wof:name":"Ogens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

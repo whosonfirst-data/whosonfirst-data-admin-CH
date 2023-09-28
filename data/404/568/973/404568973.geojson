@@ -22,6 +22,18 @@
     "geom:latitude":46.695211,
     "geom:longitude":7.841264,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.695478,
     "lbl:longitude":7.84065,
     "lbl:max_zoom":18.0,
@@ -149,12 +161,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0593",
+        "chgov:number_qualified":"0200593",
         "eg:gisco_id":"CH_CH0593",
         "eurostat:nuts_2021_id":"CH0593",
         "gn:id":7287385,
         "gp:id":12684070,
         "qs_pg:id":1120146
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125968027
     ],
@@ -174,7 +192,7 @@
         }
     ],
     "wof:id":404568973,
-    "wof:lastmodified":1684351728,
+    "wof:lastmodified":1695878916,
     "wof:name":"Unterseen",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.508642,
     "geom:longitude":7.916522,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.506248,
     "lbl:longitude":7.912777,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4251",
+        "chgov:number_qualified":"1904251",
         "eg:gisco_id":"CH_CH4251",
         "eurostat:nuts_2021_id":"CH4251",
         "gn:id":7286054,
         "gp:id":12684953,
         "qs_pg:id":1013786
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1259917003
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404570563,
-    "wof:lastmodified":1684351748,
+    "wof:lastmodified":1695878938,
     "wof:name":"Hellikon",
     "wof:parent_id":102062905,
     "wof:placetype":"localadmin",

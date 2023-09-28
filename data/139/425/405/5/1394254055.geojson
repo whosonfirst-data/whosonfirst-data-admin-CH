@@ -22,6 +22,18 @@
     "geom:latitude":47.474347,
     "geom:longitude":9.05054,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.471297,
     "lbl:longitude":9.045923,
     "lbl:max_zoom":18.0,
@@ -154,9 +166,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3427",
         "eg:gisco_id":"CH_CH3427",
         "eurostat:nuts_2021_id":"CH3427"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"2e5ec8a99b8fee93c1b7b9b72e169a44",
     "wof:hierarchy":[
@@ -169,7 +183,7 @@
         }
     ],
     "wof:id":1394254055,
-    "wof:lastmodified":1684351779,
+    "wof:lastmodified":1695878976,
     "wof:name":"Wil",
     "wof:parent_id":102062947,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.240313,
     "geom:longitude":6.915271,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.242293,
     "lbl:longitude":6.955402,
     "lbl:max_zoom":18.0,
@@ -173,12 +185,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6153",
+        "chgov:number_qualified":"2306153",
         "eg:gisco_id":"CH_CH6153",
         "eurostat:nuts_2021_id":"CH6153",
         "gn:id":7286537,
         "gp:id":12684010,
         "qs_pg:id":1040538
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -195,7 +213,7 @@
         }
     ],
     "wof:id":404568601,
-    "wof:lastmodified":1684351721,
+    "wof:lastmodified":1695878908,
     "wof:name":"Monthey",
     "wof:parent_id":102063065,
     "wof:placetype":"localadmin",

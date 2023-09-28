@@ -22,6 +22,18 @@
     "geom:latitude":47.52985,
     "geom:longitude":7.936999,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.529521,
     "lbl:longitude":7.938979,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4256",
+        "chgov:number_qualified":"1904256",
         "eg:gisco_id":"CH_CH4256",
         "eurostat:nuts_2021_id":"CH4256",
         "gn:id":7286704,
         "gp:id":12684952,
         "qs_pg:id":952959
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126049633
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404571243,
-    "wof:lastmodified":1684351756,
+    "wof:lastmodified":1695878949,
     "wof:name":"Obermumpf",
     "wof:parent_id":102062905,
     "wof:placetype":"localadmin",

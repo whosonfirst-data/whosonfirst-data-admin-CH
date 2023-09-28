@@ -22,6 +22,18 @@
     "geom:latitude":47.38603,
     "geom:longitude":7.058835,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.385546,
     "lbl:longitude":7.05803,
     "lbl:max_zoom":18.0,
@@ -100,9 +112,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6790",
         "eg:gisco_id":"CH_CH6790",
         "eurostat:nuts_2021_id":"CH6790"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"9c5886b76f5bb69c5185cf3393c3921f",
     "wof:hierarchy":[
@@ -115,7 +129,7 @@
         }
     ],
     "wof:id":1394254069,
-    "wof:lastmodified":1684351780,
+    "wof:lastmodified":1695878977,
     "wof:name":"Fontenais",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",

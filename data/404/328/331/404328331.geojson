@@ -22,6 +22,18 @@
     "geom:latitude":47.104735,
     "geom:longitude":8.263516,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.10245,
     "lbl:longitude":8.252689,
     "lbl:max_zoom":18.0,
@@ -148,12 +160,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1040",
+        "chgov:number_qualified":"0301040",
         "eg:gisco_id":"CH_CH1040",
         "eurostat:nuts_2021_id":"CH1040",
         "gn:id":7286959,
         "gp:id":12684303,
         "qs_pg:id":1197362
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125843163
     ],
@@ -173,7 +191,7 @@
         }
     ],
     "wof:id":404328331,
-    "wof:lastmodified":1684351694,
+    "wof:lastmodified":1695878877,
     "wof:name":"Rothenburg",
     "wof:parent_id":1394137081,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.389994,
     "geom:longitude":8.258282,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.390857,
     "lbl:longitude":8.257898,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4068",
+        "chgov:number_qualified":"1904068",
         "eg:gisco_id":"CH_CH4068",
         "eurostat:nuts_2021_id":"CH4068",
         "gn:id":7286024,
         "gp:id":12683635,
         "qs_pg:id":538746
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125918577
     ],
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404570377,
-    "wof:lastmodified":1684351745,
+    "wof:lastmodified":1695878935,
     "wof:name":"H\u00e4gglingen",
     "wof:parent_id":102062877,
     "wof:placetype":"localadmin",

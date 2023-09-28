@@ -22,6 +22,18 @@
     "geom:latitude":47.608447,
     "geom:longitude":8.671164,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.614255,
     "lbl:longitude":8.678262,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0033",
+        "chgov:number_qualified":"0100033",
         "eg:gisco_id":"CH_CH0033",
         "eurostat:nuts_2021_id":"CH0033",
         "gn:id":7286204,
         "gp:id":12682783,
         "qs_pg:id":671402
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404569713,
-    "wof:lastmodified":1684351737,
+    "wof:lastmodified":1695878926,
     "wof:name":"Kleinandelfingen",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",

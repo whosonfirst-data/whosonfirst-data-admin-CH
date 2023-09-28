@@ -22,6 +22,18 @@
     "geom:latitude":47.793387,
     "geom:longitude":8.59193,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.792289,
     "lbl:longitude":8.58487,
     "lbl:max_zoom":18.0,
@@ -106,12 +118,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2931",
+        "chgov:number_qualified":"1402931",
         "eg:gisco_id":"CH_CH2931",
         "eurostat:nuts_2021_id":"CH2931",
         "gn:id":7285157,
         "gp:id":12684885,
         "qs_pg:id":239081
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125953597
     ],
@@ -131,7 +149,7 @@
         }
     ],
     "wof:id":404328481,
-    "wof:lastmodified":1684351696,
+    "wof:lastmodified":1695878880,
     "wof:name":"Bargen",
     "wof:parent_id":1394137119,
     "wof:placetype":"localadmin",

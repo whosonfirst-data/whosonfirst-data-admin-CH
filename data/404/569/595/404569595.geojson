@@ -22,6 +22,18 @@
     "geom:latitude":46.578706,
     "geom:longitude":6.355333,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.576456,
     "lbl:longitude":6.358163,
     "lbl:max_zoom":18.0,
@@ -98,12 +110,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5431",
+        "chgov:number_qualified":"2205431",
         "eg:gisco_id":"CH_CH5431",
         "eurostat:nuts_2021_id":"CH5431",
         "gn:id":2659638,
         "gp:id":12683992,
         "qs_pg:id":43694
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394386111
     ],
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":404569595,
-    "wof:lastmodified":1684351735,
+    "wof:lastmodified":1695878924,
     "wof:name":"Mollens",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

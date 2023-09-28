@@ -22,6 +22,18 @@
     "geom:latitude":47.485424,
     "geom:longitude":7.093995,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.486592,
     "lbl:longitude":7.093994,
     "lbl:max_zoom":18.0,
@@ -118,9 +130,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6793",
+        "chgov:number_qualified":"2606793",
         "eg:gisco_id":"CH_CH6793",
         "eurostat:nuts_2021_id":"CH6793"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1310239417
     ],
@@ -139,7 +157,7 @@
         }
     ],
     "wof:id":404571217,
-    "wof:lastmodified":1684351756,
+    "wof:lastmodified":1695878948,
     "wof:name":"Lugnez",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.843915,
     "geom:longitude":6.846199,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.871885,
     "lbl:longitude":6.858141,
     "lbl:max_zoom":18.0,
@@ -67,9 +79,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2054",
         "eg:gisco_id":"CH_CH2054",
         "eurostat:nuts_2021_id":"CH2054"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"a664557649d8703bf630557caaa5c4c3",
     "wof:hierarchy":[
@@ -82,7 +96,7 @@
         }
     ],
     "wof:id":1394254193,
-    "wof:lastmodified":1684351784,
+    "wof:lastmodified":1695878981,
     "wof:name":"Estavayer",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",

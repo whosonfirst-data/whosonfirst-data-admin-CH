@@ -22,6 +22,18 @@
     "geom:latitude":47.421293,
     "geom:longitude":7.07099,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.42327,
     "lbl:longitude":7.077862,
     "lbl:max_zoom":18.0,
@@ -170,12 +182,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6800",
+        "chgov:number_qualified":"2606800",
         "eg:gisco_id":"CH_CH6800",
         "eurostat:nuts_2021_id":"CH6800",
         "gn:id":7286819,
         "gp:id":12684212,
         "qs_pg:id":106652
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854239
     ],
@@ -195,7 +213,7 @@
         }
     ],
     "wof:id":404568941,
-    "wof:lastmodified":1684351728,
+    "wof:lastmodified":1695878915,
     "wof:name":"Porrentruy",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.660625,
     "geom:longitude":7.539523,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.671921,
     "lbl:longitude":7.540622,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0763",
+        "chgov:number_qualified":"0200763",
         "eg:gisco_id":"CH_CH0763",
         "eurostat:nuts_2021_id":"CH0763",
         "gn:id":7285752,
         "gp:id":12682858,
         "qs_pg:id":538402
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404568169,
-    "wof:lastmodified":1684351713,
+    "wof:lastmodified":1695878899,
     "wof:name":"Erlenbach im Simmental",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.787634,
     "geom:longitude":6.499449,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.785898,
     "lbl:longitude":6.505206,
     "lbl:max_zoom":18.0,
@@ -116,12 +128,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5745",
+        "chgov:number_qualified":"2205745",
         "eg:gisco_id":"CH_CH5745",
         "eurostat:nuts_2021_id":"CH5745",
         "gn:id":7285170,
         "gp:id":12682916,
         "qs_pg:id":1154227
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125844503
     ],
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":404568497,
-    "wof:lastmodified":1684351719,
+    "wof:lastmodified":1695878906,
     "wof:name":"Baulmes",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

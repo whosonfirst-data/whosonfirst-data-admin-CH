@@ -22,6 +22,18 @@
     "geom:latitude":47.576103,
     "geom:longitude":9.319058,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.576504,
     "lbl:longitude":9.318865,
     "lbl:max_zoom":18.0,
@@ -140,11 +152,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4406",
+        "chgov:number_qualified":"2004406",
         "eg:gisco_id":"CH_CH4406",
         "eurostat:nuts_2021_id":"CH4406",
         "gp:id":20075552,
         "qs_pg:id":1154067
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126005091
     ],
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":404573375,
-    "wof:lastmodified":1684351774,
+    "wof:lastmodified":1695878969,
     "wof:name":"Dozwil",
     "wof:parent_id":102062959,
     "wof:placetype":"localadmin",

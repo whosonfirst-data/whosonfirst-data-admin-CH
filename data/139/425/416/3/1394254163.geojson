@@ -22,6 +22,18 @@
     "geom:latitude":47.228232,
     "geom:longitude":9.217068,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.22777,
     "lbl:longitude":9.20714,
     "lbl:max_zoom":18.0,
@@ -67,9 +79,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3360",
         "eg:gisco_id":"CH_CH3360",
         "eurostat:nuts_2021_id":"CH3360"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"880247b0dbd1f618cbd439e2ec56d7ca",
     "wof:hierarchy":[
@@ -82,7 +96,7 @@
         }
     ],
     "wof:id":1394254163,
-    "wof:lastmodified":1684351783,
+    "wof:lastmodified":1695878980,
     "wof:name":"Nesslau",
     "wof:parent_id":102062771,
     "wof:placetype":"localadmin",

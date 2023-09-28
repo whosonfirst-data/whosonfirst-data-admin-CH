@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000364,
-    "geom:area_square_m":3100417.621377,
+    "geom:area_square_m":3100417.621374,
     "geom:bbox":"6.200895,46.460891,6.249484,46.498875",
     "geom:latitude":46.477433,
     "geom:longitude":6.233679,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.477374,
     "lbl:longitude":6.235736,
     "lbl:max_zoom":18.0,
@@ -97,15 +109,21 @@
     "wof:belongsto":[
         102191581,
         85633051,
-        102063049,
-        85682325
+        85682325,
+        102063049
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5731",
+        "chgov:number_qualified":"2205731",
         "gn:id":7286342,
         "gp:id":20075627,
         "qs_pg:id":248174
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125919713
     ],
@@ -114,7 +132,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "wof:geomhash":"6983a7ab73c0b38cd4d4e1c9e35bcc49",
+    "wof:geomhash":"3bb015e76a8159155211add70a02e464",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,7 +143,7 @@
         }
     ],
     "wof:id":404572083,
-    "wof:lastmodified":1598919776,
+    "wof:lastmodified":1695878872,
     "wof:name":"Le Vaud",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

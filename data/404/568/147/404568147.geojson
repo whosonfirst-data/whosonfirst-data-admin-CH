@@ -22,6 +22,18 @@
     "geom:latitude":46.15752,
     "geom:longitude":7.111858,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.157084,
     "lbl:longitude":7.116657,
     "lbl:max_zoom":18.0,
@@ -128,11 +140,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6133",
+        "chgov:number_qualified":"2306133",
         "eg:gisco_id":"CH_CH6133",
         "eurostat:nuts_2021_id":"CH6133",
         "gp:id":12683508,
         "qs_pg:id":211697
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125918713
     ],
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":404568147,
-    "wof:lastmodified":1684351713,
+    "wof:lastmodified":1695878898,
     "wof:name":"Fully",
     "wof:parent_id":102063045,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.484921,
     "geom:longitude":8.861246,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.487197,
     "lbl:longitude":8.861822,
     "lbl:max_zoom":18.0,
@@ -127,9 +139,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0294",
         "eg:gisco_id":"CH_CH0294",
         "eurostat:nuts_2021_id":"CH0294"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"a8667be3c12543542b7d10fcfd436d1a",
     "wof:hierarchy":[
@@ -142,7 +156,7 @@
         }
     ],
     "wof:id":1394254209,
-    "wof:lastmodified":1684351784,
+    "wof:lastmodified":1695878981,
     "wof:name":"Elgg",
     "wof:parent_id":102063055,
     "wof:placetype":"localadmin",

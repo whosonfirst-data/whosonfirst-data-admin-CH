@@ -22,6 +22,18 @@
     "geom:latitude":46.785821,
     "geom:longitude":7.014562,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.786998,
     "lbl:longitude":7.01421,
     "lbl:max_zoom":18.0,
@@ -124,9 +136,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2221",
+        "chgov:number_qualified":"1002221",
         "eg:gisco_id":"CH_CH2221",
         "eurostat:nuts_2021_id":"CH2221"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126027967
     ],
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":404571009,
-    "wof:lastmodified":1684351753,
+    "wof:lastmodified":1695878945,
     "wof:name":"Prez-vers-Nor\u00e9az",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",

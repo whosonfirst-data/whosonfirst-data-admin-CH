@@ -22,6 +22,18 @@
     "geom:latitude":46.489928,
     "geom:longitude":6.898173,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.500782,
     "lbl:longitude":6.90719,
     "lbl:max_zoom":18.0,
@@ -115,9 +127,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5888",
+        "chgov:number_qualified":"2205888",
         "eg:gisco_id":"CH_CH5888",
         "eurostat:nuts_2021_id":"CH5888"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1276911111
     ],
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":404568903,
-    "wof:lastmodified":1684351727,
+    "wof:lastmodified":1695878915,
     "wof:name":"Saint-L\u00e9gier-La Chi\u00e9saz",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",

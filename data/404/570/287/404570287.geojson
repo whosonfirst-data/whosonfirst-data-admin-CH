@@ -22,6 +22,18 @@
     "geom:latitude":46.601299,
     "geom:longitude":6.730863,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.599974,
     "lbl:longitude":6.730575,
     "lbl:max_zoom":18.0,
@@ -116,11 +128,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5785",
+        "chgov:number_qualified":"2205785",
         "eg:gisco_id":"CH_CH5785",
         "eurostat:nuts_2021_id":"CH5785",
         "gn:id":7285552,
         "qs_pg:id":106558
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394295815
     ],
@@ -140,7 +158,7 @@
         }
     ],
     "wof:id":404570287,
-    "wof:lastmodified":1684351744,
+    "wof:lastmodified":1695878934,
     "wof:name":"Corcelles-le-Jorat",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.37876,
     "geom:longitude":8.15997,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.378639,
     "lbl:longitude":8.163527,
     "lbl:max_zoom":18.0,
@@ -110,12 +122,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4210",
+        "chgov:number_qualified":"1904210",
         "eg:gisco_id":"CH_CH4210",
         "eurostat:nuts_2021_id":"CH4210",
         "gn:id":7287222,
         "gp:id":12684454,
         "qs_pg:id":210203
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126009753
     ],
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":404571891,
-    "wof:lastmodified":1684351764,
+    "wof:lastmodified":1695878958,
     "wof:name":"Staufen",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",

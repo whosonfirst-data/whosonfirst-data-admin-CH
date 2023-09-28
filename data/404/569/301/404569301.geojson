@@ -22,6 +22,18 @@
     "geom:latitude":46.669807,
     "geom:longitude":7.130737,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.669444,
     "lbl:longitude":7.130729,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2137",
+        "chgov:number_qualified":"1002137",
         "eg:gisco_id":"CH_CH2137",
         "eurostat:nuts_2021_id":"CH2137",
         "gn:id":7286042,
         "gp:id":12683651,
         "qs_pg:id":1252201
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125969263
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404569301,
-    "wof:lastmodified":1684351733,
+    "wof:lastmodified":1695878921,
     "wof:name":"Hauteville",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",

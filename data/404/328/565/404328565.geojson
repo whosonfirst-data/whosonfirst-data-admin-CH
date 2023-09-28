@@ -22,6 +22,18 @@
     "geom:latitude":47.406483,
     "geom:longitude":7.557133,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.406123,
     "lbl:longitude":7.557131,
     "lbl:max_zoom":18.0,
@@ -115,11 +127,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2613",
+        "chgov:number_qualified":"1102613",
         "eg:gisco_id":"CH_CH2613",
         "eurostat:nuts_2021_id":"CH2613",
         "gn:id":7285322,
         "qs_pg:id":1154239
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":404328565,
-    "wof:lastmodified":1684351697,
+    "wof:lastmodified":1695878882,
     "wof:name":"Breitenbach",
     "wof:parent_id":1394137121,
     "wof:placetype":"localadmin",

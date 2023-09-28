@@ -22,6 +22,18 @@
     "geom:latitude":46.200167,
     "geom:longitude":7.15592,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.194525,
     "lbl:longitude":7.160543,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6135",
+        "chgov:number_qualified":"2306135",
         "eg:gisco_id":"CH_CH6135",
         "eurostat:nuts_2021_id":"CH6135",
         "gn:id":7286344,
         "gp:id":12683882,
         "qs_pg:id":380116
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404568335,
-    "wof:lastmodified":1684351716,
+    "wof:lastmodified":1695878902,
     "wof:name":"Leytron",
     "wof:parent_id":102063045,
     "wof:placetype":"localadmin",

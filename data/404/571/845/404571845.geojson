@@ -22,6 +22,18 @@
     "geom:latitude":47.401955,
     "geom:longitude":7.714826,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.399944,
     "lbl:longitude":7.712862,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2894",
+        "chgov:number_qualified":"1302894",
         "eg:gisco_id":"CH_CH2894",
         "eurostat:nuts_2021_id":"CH2894",
         "gn:id":7287313,
         "gp:id":12684501,
         "qs_pg:id":1026154
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125859965
     ],
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":404571845,
-    "wof:lastmodified":1684351763,
+    "wof:lastmodified":1695878958,
     "wof:name":"Titterten",
     "wof:parent_id":102062911,
     "wof:placetype":"localadmin",

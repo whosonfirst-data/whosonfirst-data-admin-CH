@@ -22,6 +22,18 @@
     "geom:latitude":46.592309,
     "geom:longitude":6.627065,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.590903,
     "lbl:longitude":6.627282,
     "lbl:max_zoom":18.0,
@@ -113,12 +125,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5527",
+        "chgov:number_qualified":"2205527",
         "eg:gisco_id":"CH_CH5527",
         "eurostat:nuts_2021_id":"CH5527",
         "gn:id":7286559,
         "gp:id":12685302,
         "qs_pg:id":671470
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1310241271
     ],
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":404571857,
-    "wof:lastmodified":1684351764,
+    "wof:lastmodified":1695878958,
     "wof:name":"Morrens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

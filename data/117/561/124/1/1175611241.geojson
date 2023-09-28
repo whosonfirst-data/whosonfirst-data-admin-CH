@@ -22,6 +22,18 @@
     "geom:latitude":47.06294,
     "geom:longitude":7.670838,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.064126,
     "lbl:longitude":7.671374,
     "lbl:max_zoom":18.0,
@@ -127,12 +139,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0407",
+        "chgov:number_qualified":"0200407",
         "eg:gisco_id":"CH_CH0407",
         "eurostat:nuts_2021_id":"CH0407",
         "gn:id":7286051,
         "gp:id":12683656,
         "qs_pg:id":1188052
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -148,7 +166,7 @@
         }
     ],
     "wof:id":1175611241,
-    "wof:lastmodified":1684351776,
+    "wof:lastmodified":1695878972,
     "wof:name":"Heimiswil",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",

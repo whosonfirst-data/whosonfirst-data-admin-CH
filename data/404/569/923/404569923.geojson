@@ -22,6 +22,18 @@
     "geom:latitude":47.2984,
     "geom:longitude":8.125923,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.297165,
     "lbl:longitude":8.126393,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4140",
+        "chgov:number_qualified":"1904140",
         "eg:gisco_id":"CH_CH4140",
         "eurostat:nuts_2021_id":"CH4140",
         "gn:id":7286701,
         "gp:id":12685064,
         "qs_pg:id":246642
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394288447
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404569923,
-    "wof:lastmodified":1684351740,
+    "wof:lastmodified":1695878929,
     "wof:name":"Oberkulm",
     "wof:parent_id":102062983,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.186156,
     "geom:longitude":7.494188,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.184953,
     "lbl:longitude":7.494608,
     "lbl:max_zoom":18.0,
@@ -73,9 +85,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2464",
         "eg:gisco_id":"CH_CH2464",
         "eurostat:nuts_2021_id":"CH2464"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"f8653ca12611233b759c3e5824b51a66",
     "wof:hierarchy":[
@@ -88,7 +102,7 @@
         }
     ],
     "wof:id":1394253975,
-    "wof:lastmodified":1684351777,
+    "wof:lastmodified":1695878973,
     "wof:name":"L\u00fcsslingen-Nennigkofen",
     "wof:parent_id":1394137095,
     "wof:placetype":"localadmin",

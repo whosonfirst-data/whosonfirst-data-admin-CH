@@ -22,6 +22,18 @@
     "geom:latitude":46.64058,
     "geom:longitude":9.380289,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.639994,
     "lbl:longitude":9.372475,
     "lbl:max_zoom":18.0,
@@ -83,12 +95,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3708",
+        "chgov:number_qualified":"1803708",
         "eg:gisco_id":"CH_CH3708",
         "eurostat:nuts_2021_id":"CH3708",
         "gn:id":7286455,
         "gp:id":12683442,
         "qs_pg:id":213871
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125902075
     ],
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":404568905,
-    "wof:lastmodified":1684351727,
+    "wof:lastmodified":1695878915,
     "wof:name":"Mathon",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",

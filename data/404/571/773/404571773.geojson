@@ -22,6 +22,18 @@
     "geom:latitude":47.497669,
     "geom:longitude":9.018696,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.495307,
     "lbl:longitude":9.021143,
     "lbl:max_zoom":18.0,
@@ -136,9 +148,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4716",
+        "chgov:number_qualified":"2004716",
         "eg:gisco_id":"CH_CH4716",
         "eurostat:nuts_2021_id":"CH4716"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125976983
     ],
@@ -157,7 +175,7 @@
         }
     ],
     "wof:id":404571773,
-    "wof:lastmodified":1684351763,
+    "wof:lastmodified":1695878957,
     "wof:name":"Bettwiesen",
     "wof:parent_id":102062981,
     "wof:placetype":"localadmin",

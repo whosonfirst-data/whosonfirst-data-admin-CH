@@ -22,6 +22,18 @@
     "geom:latitude":47.239519,
     "geom:longitude":8.58978,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.236679,
     "lbl:longitude":8.597904,
     "lbl:max_zoom":18.0,
@@ -154,9 +166,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0295",
         "eg:gisco_id":"CH_CH0295",
         "eurostat:nuts_2021_id":"CH0295"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"5ff319cd23ef9906cf70775154519a26",
     "wof:hierarchy":[
@@ -169,7 +183,7 @@
         }
     ],
     "wof:id":1394254109,
-    "wof:lastmodified":1684351781,
+    "wof:lastmodified":1695878978,
     "wof:name":"Horgen",
     "wof:parent_id":102062825,
     "wof:placetype":"localadmin",

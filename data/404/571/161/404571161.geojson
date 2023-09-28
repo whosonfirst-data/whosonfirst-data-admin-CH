@@ -22,6 +22,18 @@
     "geom:latitude":47.337126,
     "geom:longitude":8.395187,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.33748,
     "lbl:longitude":8.394845,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4074",
+        "chgov:number_qualified":"1904074",
         "eg:gisco_id":"CH_CH4074",
         "eurostat:nuts_2021_id":"CH4074",
         "gn:id":7286723,
         "gp:id":12684144,
         "qs_pg:id":905982
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394297915
     ],
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":404571161,
-    "wof:lastmodified":1684351755,
+    "wof:lastmodified":1695878947,
     "wof:name":"Oberwil-Lieli",
     "wof:parent_id":102062877,
     "wof:placetype":"localadmin",

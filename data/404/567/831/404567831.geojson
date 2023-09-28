@@ -22,6 +22,18 @@
     "geom:latitude":46.142531,
     "geom:longitude":7.317969,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.155085,
     "lbl:longitude":7.323827,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6024",
+        "chgov:number_qualified":"2306024",
         "eg:gisco_id":"CH_CH6024",
         "eurostat:nuts_2021_id":"CH6024",
         "gn:id":2659502,
         "gp:id":12682763,
         "qs_pg:id":238829
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404567831,
-    "wof:lastmodified":1684351706,
+    "wof:lastmodified":1695878891,
     "wof:name":"Nendaz",
     "wof:parent_id":102062915,
     "wof:placetype":"localadmin",

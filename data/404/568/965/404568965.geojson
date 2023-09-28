@@ -22,6 +22,18 @@
     "geom:latitude":47.446774,
     "geom:longitude":9.117188,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.44967,
     "lbl:longitude":9.11342,
     "lbl:max_zoom":18.0,
@@ -158,12 +170,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3408",
+        "chgov:number_qualified":"1703408",
         "eg:gisco_id":"CH_CH3408",
         "eurostat:nuts_2021_id":"CH3408",
         "gn:id":7287402,
         "gp:id":12683663,
         "qs_pg:id":380137
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -180,7 +198,7 @@
         }
     ],
     "wof:id":404568965,
-    "wof:lastmodified":1684351728,
+    "wof:lastmodified":1695878916,
     "wof:name":"Uzwil",
     "wof:parent_id":102062947,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.369204,
     "geom:longitude":7.393004,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.369903,
     "lbl:longitude":7.387135,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6709",
+        "chgov:number_qualified":"2606709",
         "eg:gisco_id":"CH_CH6709",
         "eurostat:nuts_2021_id":"CH6709",
         "gn:id":7285580,
         "gp:id":12683254,
         "qs_pg:id":32035
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404568611,
-    "wof:lastmodified":1684351722,
+    "wof:lastmodified":1695878909,
     "wof:name":"Courroux",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",

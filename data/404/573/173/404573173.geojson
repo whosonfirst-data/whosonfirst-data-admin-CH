@@ -22,6 +22,18 @@
     "geom:latitude":46.516018,
     "geom:longitude":6.529108,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.517895,
     "lbl:longitude":6.528025,
     "lbl:max_zoom":18.0,
@@ -113,12 +125,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5643",
+        "chgov:number_qualified":"2205643",
         "eg:gisco_id":"CH_CH5643",
         "eurostat:nuts_2021_id":"CH5643",
         "gn:id":7286835,
         "gp:id":12684679,
         "qs_pg:id":539080
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125883875
     ],
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":404573173,
-    "wof:lastmodified":1684351771,
+    "wof:lastmodified":1695878966,
     "wof:name":"Pr\u00e9verenges",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

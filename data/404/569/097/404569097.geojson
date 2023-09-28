@@ -22,6 +22,18 @@
     "geom:latitude":46.781455,
     "geom:longitude":7.632712,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.780693,
     "lbl:longitude":7.632222,
     "lbl:max_zoom":18.0,
@@ -161,12 +173,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0939",
+        "chgov:number_qualified":"0200939",
         "eg:gisco_id":"CH_CH0939",
         "eurostat:nuts_2021_id":"CH0939",
         "gn:id":7287224,
         "gp:id":12684145,
         "qs_pg:id":1016814
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101875989
     ],
@@ -186,7 +204,7 @@
         }
     ],
     "wof:id":404569097,
-    "wof:lastmodified":1684351730,
+    "wof:lastmodified":1695878918,
     "wof:name":"Steffisburg",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",

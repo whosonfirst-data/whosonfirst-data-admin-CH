@@ -22,6 +22,18 @@
     "geom:latitude":47.34613,
     "geom:longitude":9.164025,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.351959,
     "lbl:longitude":9.164899,
     "lbl:max_zoom":18.0,
@@ -113,11 +125,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3378",
+        "chgov:number_qualified":"1703378",
         "eg:gisco_id":"CH_CH3378",
         "eurostat:nuts_2021_id":"CH3378",
         "gn:id":7286614,
         "qs_pg:id":671489
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -134,7 +152,7 @@
         }
     ],
     "wof:id":404568013,
-    "wof:lastmodified":1684351709,
+    "wof:lastmodified":1695878895,
     "wof:name":"Neckertal",
     "wof:parent_id":102062771,
     "wof:placetype":"localadmin",

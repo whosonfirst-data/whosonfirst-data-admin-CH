@@ -22,6 +22,18 @@
     "geom:latitude":47.055583,
     "geom:longitude":9.44885,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.054299,
     "lbl:longitude":9.448843,
     "lbl:max_zoom":18.0,
@@ -161,12 +173,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3296",
+        "chgov:number_qualified":"1703296",
         "eg:gisco_id":"CH_CH3296",
         "eurostat:nuts_2021_id":"CH3296",
         "gn:id":7287053,
         "gp:id":12684347,
         "qs_pg:id":1102353
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854295
     ],
@@ -186,7 +204,7 @@
         }
     ],
     "wof:id":404569911,
-    "wof:lastmodified":1684351740,
+    "wof:lastmodified":1695878929,
     "wof:name":"Sargans",
     "wof:parent_id":102062963,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.364319,
     "geom:longitude":6.205313,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.362999,
     "lbl:longitude":6.205321,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5713",
+        "chgov:number_qualified":"2205713",
         "eg:gisco_id":"CH_CH5713",
         "eurostat:nuts_2021_id":"CH5713",
         "gn:id":7285586,
         "gp:id":12683263,
         "qs_pg:id":238831
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404571567,
-    "wof:lastmodified":1684351760,
+    "wof:lastmodified":1695878954,
     "wof:name":"Crans-pr\u00e8s-C\u00e9ligny",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

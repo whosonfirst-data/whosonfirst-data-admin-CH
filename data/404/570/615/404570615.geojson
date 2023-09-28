@@ -22,6 +22,18 @@
     "geom:latitude":46.899703,
     "geom:longitude":7.544875,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.898737,
     "lbl:longitude":7.544474,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0623",
+        "chgov:number_qualified":"0200623",
         "eg:gisco_id":"CH_CH0623",
         "eurostat:nuts_2021_id":"CH0623",
         "gn:id":7286968,
         "gp:id":12683771,
         "qs_pg:id":671561
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854085
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404570615,
-    "wof:lastmodified":1684351748,
+    "wof:lastmodified":1695878939,
     "wof:name":"Rubigen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

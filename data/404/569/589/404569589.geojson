@@ -22,6 +22,18 @@
     "geom:latitude":47.197858,
     "geom:longitude":8.889325,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.196755,
     "lbl:longitude":8.891448,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1349",
+        "chgov:number_qualified":"0501349",
         "eg:gisco_id":"CH_CH1349",
         "eurostat:nuts_2021_id":"CH1349",
         "gn:id":7287543,
         "gp:id":12684405,
         "qs_pg:id":671680
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854009
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404569589,
-    "wof:lastmodified":1684351735,
+    "wof:lastmodified":1695878924,
     "wof:name":"Wangen",
     "wof:parent_id":102062927,
     "wof:placetype":"localadmin",

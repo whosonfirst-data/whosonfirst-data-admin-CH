@@ -22,6 +22,18 @@
     "geom:latitude":47.54508,
     "geom:longitude":7.913477,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.542853,
     "lbl:longitude":7.914996,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4255",
+        "chgov:number_qualified":"1904255",
         "eg:gisco_id":"CH_CH4255",
         "eurostat:nuts_2021_id":"CH4255",
         "gn:id":7286581,
         "gp:id":12684045,
         "qs_pg:id":1026153
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125905579
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404572085,
-    "wof:lastmodified":1684351766,
+    "wof:lastmodified":1695878960,
     "wof:name":"Mumpf",
     "wof:parent_id":102062905,
     "wof:placetype":"localadmin",

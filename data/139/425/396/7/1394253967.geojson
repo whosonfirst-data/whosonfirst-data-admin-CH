@@ -22,6 +22,18 @@
     "geom:latitude":46.777589,
     "geom:longitude":10.278703,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.785032,
     "lbl:longitude":10.276156,
     "lbl:max_zoom":18.0,
@@ -145,9 +157,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3762",
         "eg:gisco_id":"CH_CH3762",
         "eurostat:nuts_2021_id":"CH3762"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"44ad1a9544f9d73732a0822fbf9088b1",
     "wof:hierarchy":[
@@ -160,7 +174,7 @@
         }
     ],
     "wof:id":1394253967,
-    "wof:lastmodified":1684351776,
+    "wof:lastmodified":1695878972,
     "wof:name":"Scuol",
     "wof:parent_id":1394137067,
     "wof:placetype":"localadmin",

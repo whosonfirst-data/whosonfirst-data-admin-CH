@@ -22,6 +22,18 @@
     "geom:latitude":46.309325,
     "geom:longitude":7.311448,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.321834,
     "lbl:longitude":7.332911,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6265",
+        "chgov:number_qualified":"2306265",
         "eg:gisco_id":"CH_CH6265",
         "eurostat:nuts_2021_id":"CH6265",
         "gn:id":7287064,
         "gp:id":12683233,
         "qs_pg:id":1154320
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126049055
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404567871,
-    "wof:lastmodified":1684351706,
+    "wof:lastmodified":1695878892,
     "wof:name":"Savi\u00e8se",
     "wof:parent_id":102062827,
     "wof:placetype":"localadmin",

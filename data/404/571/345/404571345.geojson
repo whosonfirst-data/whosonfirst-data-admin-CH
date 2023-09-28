@@ -22,6 +22,18 @@
     "geom:latitude":47.494319,
     "geom:longitude":9.435235,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.493937,
     "lbl:longitude":9.435538,
     "lbl:max_zoom":18.0,
@@ -110,11 +122,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3217",
+        "chgov:number_qualified":"1703217",
         "eg:gisco_id":"CH_CH3217",
         "eurostat:nuts_2021_id":"CH3217",
         "gp:id":12685140,
         "qs_pg:id":1109264
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -131,7 +149,7 @@
         }
     ],
     "wof:id":404571345,
-    "wof:lastmodified":1684351758,
+    "wof:lastmodified":1695878950,
     "wof:name":"Steinach",
     "wof:parent_id":102062855,
     "wof:placetype":"localadmin",

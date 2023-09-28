@@ -22,6 +22,18 @@
     "geom:latitude":46.441153,
     "geom:longitude":9.957611,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.434542,
     "lbl:longitude":9.949967,
     "lbl:max_zoom":18.0,
@@ -155,12 +167,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3784",
+        "chgov:number_qualified":"1803784",
         "eg:gisco_id":"CH_CH3784",
         "eurostat:nuts_2021_id":"CH3784",
         "gn:id":7286818,
         "gp:id":12682948,
         "qs_pg:id":1040549
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -177,7 +195,7 @@
         }
     ],
     "wof:id":404567777,
-    "wof:lastmodified":1684351704,
+    "wof:lastmodified":1695878890,
     "wof:name":"Pontresina",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",

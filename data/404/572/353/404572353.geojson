@@ -22,6 +22,18 @@
     "geom:latitude":46.839378,
     "geom:longitude":6.874215,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.839432,
     "lbl:longitude":6.874032,
     "lbl:max_zoom":18.0,
@@ -128,11 +140,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2043",
+        "chgov:number_qualified":"1002043",
         "eg:gisco_id":"CH_CH2043",
         "eurostat:nuts_2021_id":"CH2043",
         "gp:id":20075455,
         "qs_pg:id":1019173
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126025963
     ],
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":404572353,
-    "wof:lastmodified":1684351769,
+    "wof:lastmodified":1695878963,
     "wof:name":"S\u00e9vaz",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",

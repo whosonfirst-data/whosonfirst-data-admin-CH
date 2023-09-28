@@ -22,6 +22,18 @@
     "geom:latitude":46.957978,
     "geom:longitude":9.558994,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.954032,
     "lbl:longitude":9.580442,
     "lbl:max_zoom":18.0,
@@ -94,9 +106,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3955",
+        "chgov:number_qualified":"1803955",
         "eg:gisco_id":"CH_CH3955",
         "eurostat:nuts_2021_id":"CH3955"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -112,7 +130,7 @@
         }
     ],
     "wof:id":404570255,
-    "wof:lastmodified":1684351744,
+    "wof:lastmodified":1695878934,
     "wof:name":"Landquart",
     "wof:parent_id":102062881,
     "wof:placetype":"localadmin",

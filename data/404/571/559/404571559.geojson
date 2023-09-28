@@ -22,6 +22,18 @@
     "geom:latitude":46.685964,
     "geom:longitude":9.401866,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.688547,
     "lbl:longitude":9.403463,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3670",
+        "chgov:number_qualified":"1803670",
         "eg:gisco_id":"CH_CH3670",
         "eurostat:nuts_2021_id":"CH3670",
         "gn:id":7287391,
         "gp:id":12684547,
         "qs_pg:id":908554
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125921097
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404571559,
-    "wof:lastmodified":1684351760,
+    "wof:lastmodified":1695878953,
     "wof:name":"Urmein",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",

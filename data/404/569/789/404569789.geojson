@@ -22,6 +22,18 @@
     "geom:latitude":47.235296,
     "geom:longitude":7.763503,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.235995,
     "lbl:longitude":7.768111,
     "lbl:max_zoom":18.0,
@@ -152,12 +164,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0321",
+        "chgov:number_qualified":"0200321",
         "eg:gisco_id":"CH_CH0321",
         "eurostat:nuts_2021_id":"CH0321",
         "gn:id":7285016,
         "gp:id":12682698,
         "qs_pg:id":106510
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101875993
     ],
@@ -177,7 +195,7 @@
         }
     ],
     "wof:id":404569789,
-    "wof:lastmodified":1684351738,
+    "wof:lastmodified":1695878928,
     "wof:name":"Aarwangen",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",

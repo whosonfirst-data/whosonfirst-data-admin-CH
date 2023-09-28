@@ -22,6 +22,18 @@
     "geom:latitude":47.517561,
     "geom:longitude":8.176204,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.518849,
     "lbl:longitude":8.175737,
     "lbl:max_zoom":18.0,
@@ -128,11 +140,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4110",
+        "chgov:number_qualified":"1904110",
         "eg:gisco_id":"CH_CH4110",
         "eurostat:nuts_2021_id":"CH4110",
         "gp:id":12684975,
         "qs_pg:id":919133
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125845219
     ],
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":404570315,
-    "wof:lastmodified":1684351745,
+    "wof:lastmodified":1695878935,
     "wof:name":"Remigen",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.344874,
     "geom:longitude":7.900172,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.34534,
     "lbl:longitude":7.897513,
     "lbl:max_zoom":18.0,
@@ -202,12 +214,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2581",
+        "chgov:number_qualified":"1102581",
         "eg:gisco_id":"CH_CH2581",
         "eurostat:nuts_2021_id":"CH2581",
         "gn:id":7286738,
         "gp:id":12684157,
         "qs_pg:id":198355
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101876005
     ],
@@ -227,7 +245,7 @@
         }
     ],
     "wof:id":404328401,
-    "wof:lastmodified":1684351695,
+    "wof:lastmodified":1695878879,
     "wof:name":"Olten",
     "wof:parent_id":1394137091,
     "wof:placetype":"localadmin",

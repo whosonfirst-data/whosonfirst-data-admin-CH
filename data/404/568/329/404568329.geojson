@@ -22,6 +22,18 @@
     "geom:latitude":47.558027,
     "geom:longitude":8.89639,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.558752,
     "lbl:longitude":8.896414,
     "lbl:max_zoom":18.0,
@@ -241,9 +253,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4566",
+        "chgov:number_qualified":"2004566",
         "eg:gisco_id":"CH_CH4566",
         "eurostat:nuts_2021_id":"CH4566"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854447
     ],
@@ -262,7 +280,7 @@
         }
     ],
     "wof:id":404568329,
-    "wof:lastmodified":1684351716,
+    "wof:lastmodified":1695878902,
     "wof:name":"Frauenfeld",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",

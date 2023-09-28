@@ -22,6 +22,18 @@
     "geom:latitude":46.708129,
     "geom:longitude":10.092669,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.723557,
     "lbl:longitude":10.061577,
     "lbl:max_zoom":18.0,
@@ -127,9 +139,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3746",
         "eg:gisco_id":"CH_CH3746",
         "eurostat:nuts_2021_id":"CH3746"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"558a7b8d221b1a3287ecffac2ef60fd9",
     "wof:hierarchy":[
@@ -142,7 +156,7 @@
         }
     ],
     "wof:id":1394253977,
-    "wof:lastmodified":1684351777,
+    "wof:lastmodified":1695878973,
     "wof:name":"Zernez",
     "wof:parent_id":1394137067,
     "wof:placetype":"localadmin",

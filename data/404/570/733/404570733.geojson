@@ -22,6 +22,18 @@
     "geom:latitude":46.32359,
     "geom:longitude":6.160891,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.323758,
     "lbl:longitude":6.163081,
     "lbl:max_zoom":18.0,
@@ -122,11 +134,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5711",
+        "chgov:number_qualified":"2205711",
         "eg:gisco_id":"CH_CH5711",
         "eurostat:nuts_2021_id":"CH5711",
         "gp:id":12684766,
         "qs_pg:id":285476
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125942197
     ],
@@ -146,7 +164,7 @@
         }
     ],
     "wof:id":404570733,
-    "wof:lastmodified":1684351750,
+    "wof:lastmodified":1695878941,
     "wof:name":"Commugny",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

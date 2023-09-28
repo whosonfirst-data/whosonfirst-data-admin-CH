@@ -22,6 +22,18 @@
     "geom:latitude":47.549797,
     "geom:longitude":9.354278,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.549752,
     "lbl:longitude":9.361695,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4441",
+        "chgov:number_qualified":"2004441",
         "eg:gisco_id":"CH_CH4441",
         "eurostat:nuts_2021_id":"CH4441",
         "gn:id":7287044,
         "gp:id":12684336,
         "qs_pg:id":77592
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404572249,
-    "wof:lastmodified":1684351768,
+    "wof:lastmodified":1695878962,
     "wof:name":"Salmsach",
     "wof:parent_id":102062959,
     "wof:placetype":"localadmin",

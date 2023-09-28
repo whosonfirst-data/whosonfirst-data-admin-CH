@@ -22,6 +22,18 @@
     "geom:latitude":46.790346,
     "geom:longitude":6.736062,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.788652,
     "lbl:longitude":6.732945,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5939",
+        "chgov:number_qualified":"2205939",
         "eg:gisco_id":"CH_CH5939",
         "eurostat:nuts_2021_id":"CH5939",
         "gn:id":7287621,
         "gp:id":12684657,
         "qs_pg:id":1040612
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":404569007,
-    "wof:lastmodified":1684351729,
+    "wof:lastmodified":1695878916,
     "wof:name":"Yvonand",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

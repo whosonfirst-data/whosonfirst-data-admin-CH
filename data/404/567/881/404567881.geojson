@@ -22,6 +22,18 @@
     "geom:latitude":46.406579,
     "geom:longitude":9.770538,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.414388,
     "lbl:longitude":9.778287,
     "lbl:max_zoom":18.0,
@@ -146,11 +158,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3789",
+        "chgov:number_qualified":"1803789",
         "eg:gisco_id":"CH_CH3789",
         "eurostat:nuts_2021_id":"CH3789",
         "gp:id":12683265,
         "qs_pg:id":1120603
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":404567881,
-    "wof:lastmodified":1684351707,
+    "wof:lastmodified":1695878892,
     "wof:name":"Sils im Engadin/Segl",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",

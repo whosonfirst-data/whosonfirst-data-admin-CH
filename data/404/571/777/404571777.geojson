@@ -22,6 +22,18 @@
     "geom:latitude":46.196638,
     "geom:longitude":8.81481,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.190477,
     "lbl:longitude":8.820697,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5096",
+        "chgov:number_qualified":"2105096",
         "eg:gisco_id":"CH_CH5096",
         "eurostat:nuts_2021_id":"CH5096",
         "gn:id":7285337,
         "gp:id":12685180,
         "qs_pg:id":1261710
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":404571777,
-    "wof:lastmodified":1684351763,
+    "wof:lastmodified":1695878957,
     "wof:name":"Brione sopra Minusio",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",

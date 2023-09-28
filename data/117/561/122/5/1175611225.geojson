@@ -22,6 +22,18 @@
     "geom:latitude":46.67347,
     "geom:longitude":7.873957,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.678095,
     "lbl:longitude":7.863046,
     "lbl:max_zoom":18.0,
@@ -136,12 +148,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0587",
+        "chgov:number_qualified":"0200587",
         "eg:gisco_id":"CH_CH0587",
         "eurostat:nuts_2021_id":"CH0587",
         "gn:id":7286458,
         "gp:id":12683618,
         "qs_pg:id":1102316
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -157,7 +175,7 @@
         }
     ],
     "wof:id":1175611225,
-    "wof:lastmodified":1684351776,
+    "wof:lastmodified":1695878972,
     "wof:name":"Matten bei Interlaken",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.8225,
     "geom:longitude":7.53592,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.816071,
     "lbl:longitude":7.538525,
     "lbl:max_zoom":18.0,
@@ -97,9 +109,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0872",
         "eg:gisco_id":"CH_CH0872",
         "eurostat:nuts_2021_id":"CH0872"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"b5cd4a03e48506b395e14980fd07fe14",
     "wof:hierarchy":[
@@ -112,7 +126,7 @@
         }
     ],
     "wof:id":1394253969,
-    "wof:lastmodified":1684351777,
+    "wof:lastmodified":1695878972,
     "wof:name":"Kirchdorf",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

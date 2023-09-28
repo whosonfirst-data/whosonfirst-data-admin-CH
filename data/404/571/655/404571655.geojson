@@ -22,6 +22,18 @@
     "geom:latitude":47.418794,
     "geom:longitude":8.083027,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.418834,
     "lbl:longitude":8.079005,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4002",
+        "chgov:number_qualified":"1904002",
         "eg:gisco_id":"CH_CH4002",
         "eurostat:nuts_2021_id":"CH4002",
         "gn:id":7285237,
         "gp:id":12685233,
         "qs_pg:id":44131
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125991769
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404571655,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878955,
     "wof:name":"Biberstein",
     "wof:parent_id":102062989,
     "wof:placetype":"localadmin",

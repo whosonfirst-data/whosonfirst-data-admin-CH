@@ -22,6 +22,18 @@
     "geom:latitude":47.320741,
     "geom:longitude":9.231882,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.320907,
     "lbl:longitude":9.231548,
     "lbl:max_zoom":18.0,
@@ -136,12 +148,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3003",
+        "chgov:number_qualified":"1503003",
         "eg:gisco_id":"CH_CH3003",
         "eurostat:nuts_2021_id":"CH3003",
         "gn:id":7287109,
         "gp:id":12684377,
         "qs_pg:id":1180581
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -158,7 +176,7 @@
         }
     ],
     "wof:id":404328673,
-    "wof:lastmodified":1684351699,
+    "wof:lastmodified":1695878883,
     "wof:name":"Sch\u00f6nengrund",
     "wof:parent_id":1394137085,
     "wof:placetype":"localadmin",

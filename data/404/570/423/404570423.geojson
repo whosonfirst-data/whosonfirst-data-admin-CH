@@ -22,6 +22,18 @@
     "geom:latitude":46.121348,
     "geom:longitude":7.136931,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.123085,
     "lbl:longitude":7.140525,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6132",
+        "chgov:number_qualified":"2306132",
         "eg:gisco_id":"CH_CH6132",
         "eurostat:nuts_2021_id":"CH6132",
         "gn:id":7285477,
         "gp:id":12683174,
         "qs_pg:id":69578
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394297853
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404570423,
-    "wof:lastmodified":1684351746,
+    "wof:lastmodified":1695878936,
     "wof:name":"Charrat",
     "wof:parent_id":102063045,
     "wof:placetype":"localadmin",

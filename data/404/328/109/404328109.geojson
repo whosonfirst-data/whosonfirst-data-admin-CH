@@ -22,6 +22,18 @@
     "geom:latitude":46.927097,
     "geom:longitude":9.077878,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.945041,
     "lbl:longitude":9.090799,
     "lbl:max_zoom":18.0,
@@ -105,11 +117,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1631",
+        "chgov:number_qualified":"0801631",
         "eg:gisco_id":"CH_CH1631",
         "eurostat:nuts_2021_id":"CH1631",
         "gn:id":8260333,
         "qs_pg:id":760509
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -126,7 +144,7 @@
         }
     ],
     "wof:id":404328109,
-    "wof:lastmodified":1684351689,
+    "wof:lastmodified":1695878872,
     "wof:name":"Glarus S\u00fcd",
     "wof:parent_id":102063003,
     "wof:placetype":"localadmin",

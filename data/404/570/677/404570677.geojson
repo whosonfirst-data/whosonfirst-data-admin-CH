@@ -22,6 +22,18 @@
     "geom:latitude":47.588631,
     "geom:longitude":8.250682,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.586781,
     "lbl:longitude":8.250683,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4309",
+        "chgov:number_qualified":"1904309",
         "eg:gisco_id":"CH_CH4309",
         "eurostat:nuts_2021_id":"CH4309",
         "gn:id":7286208,
         "gp:id":12683773,
         "qs_pg:id":538792
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125792617
     ],
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404570677,
-    "wof:lastmodified":1684351749,
+    "wof:lastmodified":1695878940,
     "wof:name":"Klingnau",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.390532,
     "geom:longitude":8.617198,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.39279,
     "lbl:longitude":8.616651,
     "lbl:max_zoom":18.0,
@@ -176,12 +188,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0191",
+        "chgov:number_qualified":"0100191",
         "eg:gisco_id":"CH_CH0191",
         "eurostat:nuts_2021_id":"CH0191",
         "gn:id":7285675,
         "gp:id":12683336,
         "qs_pg:id":907137
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -198,7 +216,7 @@
         }
     ],
     "wof:id":404569055,
-    "wof:lastmodified":1684351729,
+    "wof:lastmodified":1695878917,
     "wof:name":"D\u00fcbendorf",
     "wof:parent_id":102062933,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.204785,
     "geom:longitude":8.651248,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.216078,
     "lbl:longitude":8.651989,
     "lbl:max_zoom":18.0,
@@ -148,9 +160,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0293",
         "eg:gisco_id":"CH_CH0293",
         "eurostat:nuts_2021_id":"CH0293"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"8232f2d39b2956a8492521847fda7573",
     "wof:hierarchy":[
@@ -163,7 +177,7 @@
         }
     ],
     "wof:id":1394253971,
-    "wof:lastmodified":1684351777,
+    "wof:lastmodified":1695878972,
     "wof:name":"W\u00e4denswil",
     "wof:parent_id":102062825,
     "wof:placetype":"localadmin",

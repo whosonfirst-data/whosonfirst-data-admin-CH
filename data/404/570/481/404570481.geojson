@@ -22,6 +22,18 @@
     "geom:latitude":47.396072,
     "geom:longitude":7.650114,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.396281,
     "lbl:longitude":7.649748,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2883",
+        "chgov:number_qualified":"1302883",
         "eg:gisco_id":"CH_CH2883",
         "eurostat:nuts_2021_id":"CH2883",
         "gn:id":7285331,
         "gp:id":12683045,
         "qs_pg:id":1015639
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125859607
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404570481,
-    "wof:lastmodified":1684351747,
+    "wof:lastmodified":1695878937,
     "wof:name":"Bretzwil",
     "wof:parent_id":102062911,
     "wof:placetype":"localadmin",

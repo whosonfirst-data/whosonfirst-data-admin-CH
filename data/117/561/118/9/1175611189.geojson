@@ -22,6 +22,18 @@
     "geom:latitude":47.036177,
     "geom:longitude":7.091764,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.039384,
     "lbl:longitude":7.097114,
     "lbl:max_zoom":18.0,
@@ -94,12 +106,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0492",
+        "chgov:number_qualified":"0200492",
         "eg:gisco_id":"CH_CH0492",
         "eurostat:nuts_2021_id":"CH0492",
         "gn:id":7285748,
         "gp:id":20075378,
         "qs_pg:id":50232
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -115,7 +133,7 @@
         }
     ],
     "wof:id":1175611189,
-    "wof:lastmodified":1684351776,
+    "wof:lastmodified":1695878971,
     "wof:name":"Erlach",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",

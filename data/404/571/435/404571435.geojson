@@ -22,6 +22,18 @@
     "geom:latitude":47.172693,
     "geom:longitude":7.730512,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.170377,
     "lbl:longitude":7.732152,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0989",
+        "chgov:number_qualified":"0200989",
         "eg:gisco_id":"CH_CH0989",
         "eurostat:nuts_2021_id":"CH0989",
         "gn:id":7287305,
         "gp:id":20075428,
         "qs_pg:id":911475
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1310036943
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404571435,
-    "wof:lastmodified":1684351759,
+    "wof:lastmodified":1695878952,
     "wof:name":"Th\u00f6rigen",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",

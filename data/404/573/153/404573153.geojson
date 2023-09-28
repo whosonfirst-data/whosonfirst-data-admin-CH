@@ -22,6 +22,18 @@
     "geom:latitude":47.161296,
     "geom:longitude":7.842442,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.161462,
     "lbl:longitude":7.843308,
     "lbl:max_zoom":18.0,
@@ -128,11 +140,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0336",
+        "chgov:number_qualified":"0200336",
         "eg:gisco_id":"CH_CH0336",
         "eurostat:nuts_2021_id":"CH0336",
         "gp:id":12685053,
         "qs_pg:id":1109275
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394289483
     ],
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":404573153,
-    "wof:lastmodified":1684351771,
+    "wof:lastmodified":1695878966,
     "wof:name":"Reisiswil",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",

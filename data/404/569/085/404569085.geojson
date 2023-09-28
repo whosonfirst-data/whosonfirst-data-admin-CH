@@ -22,6 +22,18 @@
     "geom:latitude":46.85653,
     "geom:longitude":9.462317,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.856362,
     "lbl:longitude":9.468237,
     "lbl:max_zoom":18.0,
@@ -95,12 +107,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3731",
+        "chgov:number_qualified":"1803731",
         "eg:gisco_id":"CH_CH3731",
         "eurostat:nuts_2021_id":"CH3731",
         "gn:id":7285804,
         "gp:id":12682781,
         "qs_pg:id":1196177
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125945401
     ],
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":404569085,
-    "wof:lastmodified":1684351730,
+    "wof:lastmodified":1695878918,
     "wof:name":"Felsberg",
     "wof:parent_id":102062839,
     "wof:placetype":"localadmin",

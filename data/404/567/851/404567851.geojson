@@ -22,6 +22,18 @@
     "geom:latitude":46.528164,
     "geom:longitude":8.711736,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.532149,
     "lbl:longitude":8.712839,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5079",
+        "chgov:number_qualified":"2105079",
         "eg:gisco_id":"CH_CH5079",
         "eurostat:nuts_2021_id":"CH5079",
         "gn:id":7286846,
         "gp:id":12682773,
         "qs_pg:id":902538
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":404567851,
-    "wof:lastmodified":1684351706,
+    "wof:lastmodified":1695878891,
     "wof:name":"Quinto",
     "wof:parent_id":102062931,
     "wof:placetype":"localadmin",

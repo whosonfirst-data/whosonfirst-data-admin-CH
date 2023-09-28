@@ -22,6 +22,18 @@
     "geom:latitude":47.424626,
     "geom:longitude":9.612515,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.424218,
     "lbl:longitude":9.614219,
     "lbl:max_zoom":18.0,
@@ -92,11 +104,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3233",
+        "chgov:number_qualified":"1703233",
         "eg:gisco_id":"CH_CH3233",
         "eurostat:nuts_2021_id":"CH3233",
         "gn:id":7285213,
         "qs_pg:id":671184
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854273
     ],
@@ -116,7 +134,7 @@
         }
     ],
     "wof:id":404571029,
-    "wof:lastmodified":1684351753,
+    "wof:lastmodified":1695878945,
     "wof:name":"Berneck",
     "wof:parent_id":102063005,
     "wof:placetype":"localadmin",

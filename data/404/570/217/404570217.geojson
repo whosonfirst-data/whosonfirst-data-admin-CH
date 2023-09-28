@@ -22,6 +22,18 @@
     "geom:latitude":47.412881,
     "geom:longitude":7.028031,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.409546,
     "lbl:longitude":7.030828,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6785",
+        "chgov:number_qualified":"2606785",
         "eg:gisco_id":"CH_CH6785",
         "eurostat:nuts_2021_id":"CH6785",
         "gn:id":7285582,
         "gp:id":12683256,
         "qs_pg:id":901179
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125897815
     ],
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404570217,
-    "wof:lastmodified":1684351744,
+    "wof:lastmodified":1695878934,
     "wof:name":"Courtedoux",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",

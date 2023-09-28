@@ -22,6 +22,18 @@
     "geom:latitude":46.751455,
     "geom:longitude":7.121251,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.749518,
     "lbl:longitude":7.124521,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2171",
+        "chgov:number_qualified":"1002171",
         "eg:gisco_id":"CH_CH2171",
         "eurostat:nuts_2021_id":"CH2171",
         "gn:id":7285091,
         "gp:id":12682815,
         "qs_pg:id":1016810
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126046113
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404570869,
-    "wof:lastmodified":1684351751,
+    "wof:lastmodified":1695878943,
     "wof:name":"Arconciel",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",

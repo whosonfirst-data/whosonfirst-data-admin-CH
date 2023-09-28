@@ -22,6 +22,18 @@
     "geom:latitude":46.812217,
     "geom:longitude":6.583135,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.812766,
     "lbl:longitude":6.584533,
     "lbl:max_zoom":18.0,
@@ -62,11 +74,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5924",
+        "chgov:number_qualified":"2205924",
         "eg:gisco_id":"CH_CH5924",
         "eurostat:nuts_2021_id":"CH5924",
         "gn:id":7286747,
         "qs_pg:id":671515
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1343597397
     ],
@@ -86,7 +104,7 @@
         }
     ],
     "wof:id":404571677,
-    "wof:lastmodified":1684351762,
+    "wof:lastmodified":1695878955,
     "wof:name":"Orges",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

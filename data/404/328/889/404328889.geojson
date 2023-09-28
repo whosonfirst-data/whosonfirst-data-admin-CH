@@ -22,6 +22,18 @@
     "geom:latitude":47.118948,
     "geom:longitude":7.480821,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.118649,
     "lbl:longitude":7.480826,
     "lbl:max_zoom":18.0,
@@ -127,12 +139,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2463",
+        "chgov:number_qualified":"1102463",
         "eg:gisco_id":"CH_CH2463",
         "eurostat:nuts_2021_id":"CH2463",
         "gn:id":7287383,
         "gp:id":12684926,
         "qs_pg:id":1205971
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1276804549
     ],
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":404328889,
-    "wof:lastmodified":1684351701,
+    "wof:lastmodified":1695878886,
     "wof:name":"Unterramsern",
     "wof:parent_id":1394137095,
     "wof:placetype":"localadmin",

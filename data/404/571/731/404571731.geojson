@@ -22,6 +22,18 @@
     "geom:latitude":47.602897,
     "geom:longitude":8.273907,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.60335,
     "lbl:longitude":8.275835,
     "lbl:max_zoom":18.0,
@@ -62,12 +74,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4316",
+        "chgov:number_qualified":"1904316",
         "eg:gisco_id":"CH_CH4316",
         "eurostat:nuts_2021_id":"CH4316",
         "gn:id":7286910,
         "gp:id":12684970,
         "qs_pg:id":1093349
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125931187
     ],
@@ -87,7 +105,7 @@
         }
     ],
     "wof:id":404571731,
-    "wof:lastmodified":1684351762,
+    "wof:lastmodified":1695878956,
     "wof:name":"Rietheim",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",

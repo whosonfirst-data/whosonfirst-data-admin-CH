@@ -22,6 +22,18 @@
     "geom:latitude":46.33594,
     "geom:longitude":6.849298,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.334682,
     "lbl:longitude":6.835035,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6159",
+        "chgov:number_qualified":"2306159",
         "eg:gisco_id":"CH_CH6159",
         "eurostat:nuts_2021_id":"CH6159",
         "gn:id":7287496,
         "gp:id":12684478,
         "qs_pg:id":62004
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404568203,
-    "wof:lastmodified":1684351714,
+    "wof:lastmodified":1695878900,
     "wof:name":"Vouvry",
     "wof:parent_id":102063065,
     "wof:placetype":"localadmin",

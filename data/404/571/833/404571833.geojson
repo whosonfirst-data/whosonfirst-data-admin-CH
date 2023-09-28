@@ -22,6 +22,18 @@
     "geom:latitude":46.632838,
     "geom:longitude":6.525526,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.632305,
     "lbl:longitude":6.525265,
     "lbl:max_zoom":18.0,
@@ -113,11 +125,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5487",
+        "chgov:number_qualified":"2205487",
         "eg:gisco_id":"CH_CH5487",
         "eurostat:nuts_2021_id":"CH5487",
         "gp:id":20075692,
         "qs_pg:id":261549
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394297995
     ],
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":404571833,
-    "wof:lastmodified":1684351763,
+    "wof:lastmodified":1695878958,
     "wof:name":"Lussery-Villars",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

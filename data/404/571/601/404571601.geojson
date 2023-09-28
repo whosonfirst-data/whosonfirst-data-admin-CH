@@ -22,6 +22,18 @@
     "geom:latitude":47.571275,
     "geom:longitude":9.283855,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.572245,
     "lbl:longitude":9.28352,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4446",
+        "chgov:number_qualified":"2004446",
         "eg:gisco_id":"CH_CH4446",
         "eurostat:nuts_2021_id":"CH4446",
         "gn:id":7287187,
         "gp:id":12684086,
         "qs_pg:id":1019755
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125910151
     ],
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":404571601,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878954,
     "wof:name":"Sommeri",
     "wof:parent_id":102062959,
     "wof:placetype":"localadmin",

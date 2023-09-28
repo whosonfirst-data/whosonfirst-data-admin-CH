@@ -22,6 +22,18 @@
     "geom:latitude":46.105915,
     "geom:longitude":9.021838,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.126416,
     "lbl:longitude":9.06463,
     "lbl:max_zoom":18.0,
@@ -125,11 +137,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5212",
+        "chgov:number_qualified":"2105212",
         "eg:gisco_id":"CH_CH5212",
         "eurostat:nuts_2021_id":"CH5212",
         "gp:id":12682973,
         "qs_pg:id":493228
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -146,7 +164,7 @@
         }
     ],
     "wof:id":404573227,
-    "wof:lastmodified":1684351772,
+    "wof:lastmodified":1695878967,
     "wof:name":"Ponte Capriasca",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.255312,
     "geom:longitude":8.860671,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.192173,
     "lbl:longitude":8.913689,
     "lbl:max_zoom":18.0,
@@ -118,9 +130,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5138",
+        "chgov:number_qualified":"2105138",
         "eg:gisco_id":"CH_CH5138",
         "eurostat:nuts_2021_id":"CH5138"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":404568739,
-    "wof:lastmodified":1684351724,
+    "wof:lastmodified":1695878911,
     "wof:name":"Cugnasco-Gerra",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",

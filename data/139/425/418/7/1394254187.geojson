@@ -20,6 +20,18 @@
     "geom:latitude":47.349367,
     "geom:longitude":8.67862,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.354201,
     "lbl:longitude":8.675869,
     "lbl:max_zoom":18.0,
@@ -82,9 +94,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"9040",
         "eg:gisco_id":"CH_CH9040",
         "eurostat:nuts_2021_id":"CH9040"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"1ed3717452a9bd024f23240cea6bfbff",
     "wof:hierarchy":[
@@ -97,7 +111,7 @@
         }
     ],
     "wof:id":1394254187,
-    "wof:lastmodified":1684351784,
+    "wof:lastmodified":1695878981,
     "wof:name":"Greifensee",
     "wof:parent_id":1394212863,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.702619,
     "geom:longitude":7.111697,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.703268,
     "lbl:longitude":7.111964,
     "lbl:max_zoom":18.0,
@@ -89,11 +101,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2147",
+        "chgov:number_qualified":"1002147",
         "eg:gisco_id":"CH_CH2147",
         "eurostat:nuts_2021_id":"CH2147",
         "gp:id":12683381,
         "qs_pg:id":248273
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126030071
     ],
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":404571079,
-    "wof:lastmodified":1684351754,
+    "wof:lastmodified":1695878946,
     "wof:name":"Pont-la-Ville",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",

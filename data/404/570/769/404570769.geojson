@@ -22,6 +22,18 @@
     "geom:latitude":46.385995,
     "geom:longitude":8.920513,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.385275,
     "lbl:longitude":8.92214,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5064",
+        "chgov:number_qualified":"2105064",
         "eg:gisco_id":"CH_CH5064",
         "eurostat:nuts_2021_id":"CH5064",
         "gn:id":7285276,
         "gp:id":12682998,
         "qs_pg:id":968685
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125945937
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404570769,
-    "wof:lastmodified":1684351750,
+    "wof:lastmodified":1695878941,
     "wof:name":"Bodio",
     "wof:parent_id":102062931,
     "wof:placetype":"localadmin",

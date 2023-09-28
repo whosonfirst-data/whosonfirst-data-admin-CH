@@ -22,6 +22,18 @@
     "geom:latitude":46.765794,
     "geom:longitude":7.712652,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.763903,
     "lbl:longitude":7.709469,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0940",
+        "chgov:number_qualified":"0200940",
         "eg:gisco_id":"CH_CH0940",
         "eurostat:nuts_2021_id":"CH0940",
         "gn:id":7287295,
         "gp:id":12684491,
         "qs_pg:id":671627
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404571441,
-    "wof:lastmodified":1684351759,
+    "wof:lastmodified":1695878952,
     "wof:name":"Teuffenthal",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.430408,
     "geom:longitude":9.02376,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.439355,
     "lbl:longitude":9.040635,
     "lbl:max_zoom":18.0,
@@ -94,9 +106,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5050",
         "eg:gisco_id":"CH_CH5050",
         "eurostat:nuts_2021_id":"CH5050"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"8914a1e23ef76ab2d6131315d67c84fd",
     "wof:hierarchy":[
@@ -109,7 +123,7 @@
         }
     ],
     "wof:id":1394254153,
-    "wof:lastmodified":1684351783,
+    "wof:lastmodified":1695878980,
     "wof:name":"Serravalle",
     "wof:parent_id":102063035,
     "wof:placetype":"localadmin",

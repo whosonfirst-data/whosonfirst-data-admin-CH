@@ -22,6 +22,18 @@
     "geom:latitude":47.504652,
     "geom:longitude":7.866005,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.505241,
     "lbl:longitude":7.86558,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2844",
+        "chgov:number_qualified":"1302844",
         "eg:gisco_id":"CH_CH2844",
         "eurostat:nuts_2021_id":"CH2844",
         "gn:id":7285415,
         "gp:id":12683116,
         "qs_pg:id":538528
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125882917
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404570059,
-    "wof:lastmodified":1684351742,
+    "wof:lastmodified":1695878932,
     "wof:name":"Buus",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",

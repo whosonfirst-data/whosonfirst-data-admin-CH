@@ -22,6 +22,18 @@
     "geom:latitude":47.412185,
     "geom:longitude":8.233717,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.413483,
     "lbl:longitude":8.230854,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4032",
+        "chgov:number_qualified":"1904032",
         "eg:gisco_id":"CH_CH4032",
         "eurostat:nuts_2021_id":"CH4032",
         "gn:id":7286416,
         "gp:id":12684981,
         "qs_pg:id":1014969
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125871661
     ],
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404571925,
-    "wof:lastmodified":1684351764,
+    "wof:lastmodified":1695878959,
     "wof:name":"M\u00e4genwil",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",

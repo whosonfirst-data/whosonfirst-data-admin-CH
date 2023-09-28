@@ -22,6 +22,18 @@
     "geom:latitude":47.367014,
     "geom:longitude":8.459018,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.370187,
     "lbl:longitude":8.457259,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0248",
+        "chgov:number_qualified":"0100248",
         "eg:gisco_id":"CH_CH0248",
         "eurostat:nuts_2021_id":"CH0248",
         "gn:id":7287367,
         "gp:id":12684539,
         "qs_pg:id":421334
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394289095
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404571535,
-    "wof:lastmodified":1684351760,
+    "wof:lastmodified":1695878953,
     "wof:name":"Uitikon",
     "wof:parent_id":102062893,
     "wof:placetype":"localadmin",

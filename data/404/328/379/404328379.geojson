@@ -22,6 +22,18 @@
     "geom:latitude":47.267512,
     "geom:longitude":8.270481,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.267081,
     "lbl:longitude":8.27106,
     "lbl:max_zoom":18.0,
@@ -109,12 +121,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1041",
+        "chgov:number_qualified":"0301041",
         "eg:gisco_id":"CH_CH1041",
         "eurostat:nuts_2021_id":"CH1041",
         "gn:id":7287111,
         "gp:id":12684077,
         "qs_pg:id":1293347
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1226379049
     ],
@@ -134,7 +152,7 @@
         }
     ],
     "wof:id":404328379,
-    "wof:lastmodified":1684351695,
+    "wof:lastmodified":1695878878,
     "wof:name":"Schongau",
     "wof:parent_id":1394137081,
     "wof:placetype":"localadmin",

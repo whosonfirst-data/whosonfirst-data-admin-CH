@@ -22,6 +22,18 @@
     "geom:latitude":47.633703,
     "geom:longitude":8.788001,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.631627,
     "lbl:longitude":8.788608,
     "lbl:max_zoom":18.0,
@@ -70,9 +82,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0292",
         "eg:gisco_id":"CH_CH0292",
         "eurostat:nuts_2021_id":"CH0292"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"5d44da619d407cf9a48334eb8cc4d87f",
     "wof:hierarchy":[
@@ -85,7 +99,7 @@
         }
     ],
     "wof:id":1394254219,
-    "wof:lastmodified":1684351785,
+    "wof:lastmodified":1695878982,
     "wof:name":"Stammheim",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",

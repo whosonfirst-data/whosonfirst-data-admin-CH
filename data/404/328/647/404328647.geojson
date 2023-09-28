@@ -22,6 +22,18 @@
     "geom:latitude":47.304558,
     "geom:longitude":7.821439,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.303537,
     "lbl:longitude":7.822782,
     "lbl:max_zoom":18.0,
@@ -130,12 +142,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2402",
+        "chgov:number_qualified":"1102402",
         "eg:gisco_id":"CH_CH2402",
         "eurostat:nuts_2021_id":"CH2402",
         "gn:id":7286030,
         "gp:id":12685229,
         "qs_pg:id":380090
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126019139
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404328647,
-    "wof:lastmodified":1684351698,
+    "wof:lastmodified":1695878883,
     "wof:name":"H\u00e4rkingen",
     "wof:parent_id":1394137097,
     "wof:placetype":"localadmin",

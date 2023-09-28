@@ -22,6 +22,18 @@
     "geom:latitude":46.785266,
     "geom:longitude":6.886053,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.785584,
     "lbl:longitude":6.887572,
     "lbl:max_zoom":18.0,
@@ -125,11 +137,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2027",
+        "chgov:number_qualified":"1002027",
         "eg:gisco_id":"CH_CH2027",
         "eurostat:nuts_2021_id":"CH2027",
         "gp:id":12684718,
         "qs_pg:id":285457
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126021601
     ],
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":404571525,
-    "wof:lastmodified":1684351760,
+    "wof:lastmodified":1695878953,
     "wof:name":"M\u00e9ni\u00e8res",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",

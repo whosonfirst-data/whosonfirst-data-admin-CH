@@ -22,6 +22,18 @@
     "geom:latitude":47.573357,
     "geom:longitude":8.526077,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.575489,
     "lbl:longitude":8.525526,
     "lbl:max_zoom":18.0,
@@ -146,12 +158,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0055",
+        "chgov:number_qualified":"0100055",
         "eg:gisco_id":"CH_CH0055",
         "eurostat:nuts_2021_id":"CH0055",
         "gn:id":7285707,
         "gp:id":12684507,
         "qs_pg:id":1078624
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854387
     ],
@@ -171,7 +189,7 @@
         }
     ],
     "wof:id":404569993,
-    "wof:lastmodified":1684351741,
+    "wof:lastmodified":1695878931,
     "wof:name":"Eglisau",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.852116,
     "geom:longitude":9.529664,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.850649,
     "lbl:longitude":9.528938,
     "lbl:max_zoom":18.0,
@@ -279,12 +291,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3901",
+        "chgov:number_qualified":"1803901",
         "eg:gisco_id":"CH_CH3901",
         "eurostat:nuts_2021_id":"CH3901",
         "gn:id":7285515,
         "gp:id":12683204,
         "qs_pg:id":190975
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853949
     ],
@@ -304,7 +322,7 @@
         }
     ],
     "wof:id":404568313,
-    "wof:lastmodified":1684351716,
+    "wof:lastmodified":1695878902,
     "wof:name":"Chur",
     "wof:parent_id":102063001,
     "wof:placetype":"localadmin",

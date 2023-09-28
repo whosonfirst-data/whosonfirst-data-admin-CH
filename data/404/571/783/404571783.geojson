@@ -22,6 +22,18 @@
     "geom:latitude":46.598749,
     "geom:longitude":6.541368,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.599318,
     "lbl:longitude":6.541626,
     "lbl:max_zoom":18.0,
@@ -107,12 +119,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5496",
+        "chgov:number_qualified":"2205496",
         "eg:gisco_id":"CH_CH5496",
         "eurostat:nuts_2021_id":"CH5496",
         "gn:id":7286779,
         "gp:id":12684773,
         "qs_pg:id":1040545
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125921211
     ],
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":404571783,
-    "wof:lastmodified":1684351763,
+    "wof:lastmodified":1695878957,
     "wof:name":"Penthaz",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

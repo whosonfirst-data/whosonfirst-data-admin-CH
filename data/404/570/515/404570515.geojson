@@ -22,6 +22,18 @@
     "geom:latitude":47.51855,
     "geom:longitude":7.617382,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.520593,
     "lbl:longitude":7.612317,
     "lbl:max_zoom":18.0,
@@ -155,11 +167,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2769",
+        "chgov:number_qualified":"1302769",
         "eg:gisco_id":"CH_CH2769",
         "eurostat:nuts_2021_id":"CH2769",
         "gn:id":7286583,
         "qs_pg:id":380118
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394289055
     ],
@@ -179,7 +197,7 @@
         }
     ],
     "wof:id":404570515,
-    "wof:lastmodified":1684351747,
+    "wof:lastmodified":1695878937,
     "wof:name":"M\u00fcnchenstein",
     "wof:parent_id":102062971,
     "wof:placetype":"localadmin",

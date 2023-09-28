@@ -22,6 +22,18 @@
     "geom:latitude":46.352576,
     "geom:longitude":10.06078,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.363193,
     "lbl:longitude":10.052019,
     "lbl:max_zoom":18.0,
@@ -161,12 +173,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3561",
+        "chgov:number_qualified":"1803561",
         "eg:gisco_id":"CH_CH3561",
         "eurostat:nuts_2021_id":"CH3561",
         "gn:id":7286824,
         "gp:id":12682738,
         "qs_pg:id":1196947
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -183,7 +201,7 @@
         }
     ],
     "wof:id":404567719,
-    "wof:lastmodified":1684351703,
+    "wof:lastmodified":1695878888,
     "wof:name":"Poschiavo",
     "wof:parent_id":102062777,
     "wof:placetype":"localadmin",

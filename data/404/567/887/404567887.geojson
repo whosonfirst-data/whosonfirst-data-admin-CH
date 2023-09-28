@@ -22,6 +22,18 @@
     "geom:latitude":46.550834,
     "geom:longitude":9.930195,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.539315,
     "lbl:longitude":9.965546,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3785",
+        "chgov:number_qualified":"1803785",
         "eg:gisco_id":"CH_CH3785",
         "eurostat:nuts_2021_id":"CH3785",
         "gn:id":7286266,
         "gp:id":12683131,
         "qs_pg:id":61806
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394289059
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404567887,
-    "wof:lastmodified":1684351707,
+    "wof:lastmodified":1695878892,
     "wof:name":"La Punt-Chamues-ch",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.563091,
     "geom:longitude":9.980245,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.584647,
     "lbl:longitude":9.983589,
     "lbl:max_zoom":18.0,
@@ -148,9 +160,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3791",
+        "chgov:number_qualified":"1803791",
         "eg:gisco_id":"CH_CH3791",
         "eurostat:nuts_2021_id":"CH3791"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125787533
     ],
@@ -169,7 +187,7 @@
         }
     ],
     "wof:id":404570013,
-    "wof:lastmodified":1684351741,
+    "wof:lastmodified":1695878931,
     "wof:name":"Zuoz",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.742619,
     "geom:longitude":6.884827,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.746197,
     "lbl:longitude":6.886475,
     "lbl:max_zoom":18.0,
@@ -119,11 +131,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5819",
+        "chgov:number_qualified":"2205819",
         "eg:gisco_id":"CH_CH5819",
         "eurostat:nuts_2021_id":"CH5819",
         "gn:id":7286061,
         "qs_pg:id":380083
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1276481009
     ],
@@ -143,7 +161,7 @@
         }
     ],
     "wof:id":404572295,
-    "wof:lastmodified":1684351768,
+    "wof:lastmodified":1695878963,
     "wof:name":"Henniez",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",

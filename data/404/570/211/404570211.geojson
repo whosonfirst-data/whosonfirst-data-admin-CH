@@ -22,6 +22,18 @@
     "geom:latitude":47.226676,
     "geom:longitude":7.22293,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.228286,
     "lbl:longitude":7.225391,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0703",
+        "chgov:number_qualified":"0200703",
         "eg:gisco_id":"CH_CH0703",
         "eurostat:nuts_2021_id":"CH0703",
         "gn:id":7286868,
         "gp:id":12684240,
         "qs_pg:id":1102334
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125945035
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404570211,
-    "wof:lastmodified":1684351744,
+    "wof:lastmodified":1695878934,
     "wof:name":"Reconvilier",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",

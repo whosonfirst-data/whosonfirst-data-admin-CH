@@ -22,6 +22,18 @@
     "geom:latitude":47.137247,
     "geom:longitude":7.341677,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.135652,
     "lbl:longitude":7.343527,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0389",
+        "chgov:number_qualified":"0200389",
         "eg:gisco_id":"CH_CH0389",
         "eurostat:nuts_2021_id":"CH0389",
         "gn:id":7286469,
         "gp:id":20075370,
         "qs_pg:id":1024380
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1259620503
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404573479,
-    "wof:lastmodified":1684351775,
+    "wof:lastmodified":1695878970,
     "wof:name":"Meienried",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",

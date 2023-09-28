@@ -22,6 +22,18 @@
     "geom:latitude":46.88823,
     "geom:longitude":7.926777,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.871432,
     "lbl:longitude":7.912287,
     "lbl:max_zoom":18.0,
@@ -73,9 +85,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1010",
         "eg:gisco_id":"CH_CH1010",
         "eurostat:nuts_2021_id":"CH1010"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"4b0cba871f6aff6010d16aea05927443",
     "wof:hierarchy":[
@@ -88,7 +102,7 @@
         }
     ],
     "wof:id":1394254139,
-    "wof:lastmodified":1684351782,
+    "wof:lastmodified":1695878979,
     "wof:name":"Escholzmatt-Marbach",
     "wof:parent_id":1394137073,
     "wof:placetype":"localadmin",

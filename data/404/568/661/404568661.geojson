@@ -22,6 +22,18 @@
     "geom:latitude":47.210014,
     "geom:longitude":9.049085,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.211448,
     "lbl:longitude":9.031415,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3313",
+        "chgov:number_qualified":"1703313",
         "eg:gisco_id":"CH_CH3313",
         "eurostat:nuts_2021_id":"CH3313",
         "gn:id":7286175,
         "gp:id":12683752,
         "qs_pg:id":1154277
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854249
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404568661,
-    "wof:lastmodified":1684351722,
+    "wof:lastmodified":1695878910,
     "wof:name":"Kaltbrunn",
     "wof:parent_id":102062815,
     "wof:placetype":"localadmin",

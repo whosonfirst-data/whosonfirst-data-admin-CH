@@ -22,6 +22,18 @@
     "geom:latitude":47.22708,
     "geom:longitude":7.683484,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.227447,
     "lbl:longitude":7.68325,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0991",
+        "chgov:number_qualified":"0200991",
         "eg:gisco_id":"CH_CH0991",
         "eurostat:nuts_2021_id":"CH0991",
         "gn:id":7287531,
         "gp:id":12685036,
         "qs_pg:id":1306498
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1343490465
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404572097,
-    "wof:lastmodified":1684351766,
+    "wof:lastmodified":1695878961,
     "wof:name":"Walliswil bei Wangen",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",

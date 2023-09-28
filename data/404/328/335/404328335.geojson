@@ -22,6 +22,18 @@
     "geom:latitude":47.700458,
     "geom:longitude":8.443176,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.702757,
     "lbl:longitude":8.440588,
     "lbl:max_zoom":18.0,
@@ -130,12 +142,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2971",
+        "chgov:number_qualified":"1402971",
         "eg:gisco_id":"CH_CH2971",
         "eurostat:nuts_2021_id":"CH2971",
         "gn:id":7286027,
         "gp:id":12683639,
         "qs_pg:id":1261600
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125846343
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404328335,
-    "wof:lastmodified":1684351694,
+    "wof:lastmodified":1695878878,
     "wof:name":"Hallau",
     "wof:parent_id":1394137101,
     "wof:placetype":"localadmin",

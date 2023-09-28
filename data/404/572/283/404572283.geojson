@@ -22,6 +22,18 @@
     "geom:latitude":46.441459,
     "geom:longitude":6.275363,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.439971,
     "lbl:longitude":6.275574,
     "lbl:max_zoom":18.0,
@@ -113,12 +125,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5858",
+        "chgov:number_qualified":"2205858",
         "eg:gisco_id":"CH_CH5858",
         "eurostat:nuts_2021_id":"CH5858",
         "gn:id":7286385,
         "gp:id":12684586,
         "qs_pg:id":231530
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1209136591
     ],
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":404572283,
-    "wof:lastmodified":1684351768,
+    "wof:lastmodified":1695878963,
     "wof:name":"Luins",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

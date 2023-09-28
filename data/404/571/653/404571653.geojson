@@ -22,6 +22,18 @@
     "geom:latitude":46.409245,
     "geom:longitude":6.22974,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.408586,
     "lbl:longitude":6.229479,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5715",
+        "chgov:number_qualified":"2205715",
         "eg:gisco_id":"CH_CH5715",
         "eurostat:nuts_2021_id":"CH5715",
         "gn:id":7285678,
         "gp:id":12683170,
         "qs_pg:id":1154253
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1293917063
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404571653,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878955,
     "wof:name":"Duillier",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.498151,
     "geom:longitude":8.392083,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.496328,
     "lbl:longitude":8.391856,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0098",
+        "chgov:number_qualified":"0100098",
         "eg:gisco_id":"CH_CH0098",
         "eurostat:nuts_2021_id":"CH0098",
         "gn:id":7287091,
         "gp:id":20075362,
         "qs_pg:id":1016900
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126027073
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404571007,
-    "wof:lastmodified":1684351753,
+    "wof:lastmodified":1695878945,
     "wof:name":"Schleinikon",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",

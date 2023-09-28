@@ -22,6 +22,18 @@
     "geom:latitude":47.528925,
     "geom:longitude":9.365291,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.529185,
     "lbl:longitude":9.369422,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4411",
+        "chgov:number_qualified":"2004411",
         "eg:gisco_id":"CH_CH4411",
         "eurostat:nuts_2021_id":"CH4411",
         "gn:id":7285709,
         "gp:id":12683359,
         "qs_pg:id":43451
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854463
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404568663,
-    "wof:lastmodified":1684351723,
+    "wof:lastmodified":1695878910,
     "wof:name":"Egnach",
     "wof:parent_id":102062959,
     "wof:placetype":"localadmin",

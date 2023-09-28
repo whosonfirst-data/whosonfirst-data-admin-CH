@@ -22,6 +22,18 @@
     "geom:latitude":47.312781,
     "geom:longitude":8.723307,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.311629,
     "lbl:longitude":8.720241,
     "lbl:max_zoom":18.0,
@@ -136,9 +148,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0196",
+        "chgov:number_qualified":"0100196",
         "eg:gisco_id":"CH_CH0196",
         "eurostat:nuts_2021_id":"CH0196"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125807279
     ],
@@ -157,7 +175,7 @@
         }
     ],
     "wof:id":404573529,
-    "wof:lastmodified":1684351775,
+    "wof:lastmodified":1695878970,
     "wof:name":"M\u00f6nchaltorf",
     "wof:parent_id":102062933,
     "wof:placetype":"localadmin",

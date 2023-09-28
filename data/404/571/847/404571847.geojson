@@ -22,6 +22,18 @@
     "geom:latitude":46.518369,
     "geom:longitude":6.326842,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.5174,
     "lbl:longitude":6.32538,
     "lbl:max_zoom":18.0,
@@ -116,12 +128,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5437",
+        "chgov:number_qualified":"2205437",
         "eg:gisco_id":"CH_CH5437",
         "eurostat:nuts_2021_id":"CH5437",
         "gn:id":7287061,
         "gp:id":12684748,
         "qs_pg:id":1154319
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1326866549
     ],
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":404571847,
-    "wof:lastmodified":1684351763,
+    "wof:lastmodified":1695878958,
     "wof:name":"Saubraz",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

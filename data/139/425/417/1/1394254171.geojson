@@ -22,6 +22,18 @@
     "geom:latitude":46.033837,
     "geom:longitude":8.999592,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.010605,
     "lbl:longitude":8.988829,
     "lbl:max_zoom":18.0,
@@ -286,9 +298,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5192",
         "eg:gisco_id":"CH_CH5192",
         "eurostat:nuts_2021_id":"CH5192"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"b8a7462b83f6739964100fc998ae63d7",
     "wof:hierarchy":[
@@ -301,7 +315,7 @@
         }
     ],
     "wof:id":1394254171,
-    "wof:lastmodified":1684351783,
+    "wof:lastmodified":1695878980,
     "wof:name":"Lugano",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

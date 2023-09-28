@@ -22,6 +22,18 @@
     "geom:latitude":46.884002,
     "geom:longitude":7.235793,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.882185,
     "lbl:longitude":7.235786,
     "lbl:max_zoom":18.0,
@@ -101,12 +113,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2295",
+        "chgov:number_qualified":"1002295",
         "eg:gisco_id":"CH_CH2295",
         "eurostat:nuts_2021_id":"CH2295",
         "gn:id":7285299,
         "gp:id":12683018,
         "qs_pg:id":1248625
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125905201
     ],
@@ -126,7 +144,7 @@
         }
     ],
     "wof:id":404568983,
-    "wof:lastmodified":1684351728,
+    "wof:lastmodified":1695878916,
     "wof:name":"B\u00f6singen",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",

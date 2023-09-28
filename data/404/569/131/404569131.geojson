@@ -22,6 +22,18 @@
     "geom:latitude":46.063445,
     "geom:longitude":7.081873,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.0716,
     "lbl:longitude":7.088681,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6131",
+        "chgov:number_qualified":"2306131",
         "eg:gisco_id":"CH_CH6131",
         "eurostat:nuts_2021_id":"CH6131",
         "gn:id":7285315,
         "gp:id":12683028,
         "qs_pg:id":671202
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125996953
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404569131,
-    "wof:lastmodified":1684351731,
+    "wof:lastmodified":1695878918,
     "wof:name":"Bovernier",
     "wof:parent_id":102063045,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.003958,
     "geom:longitude":6.695407,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.00033,
     "lbl:longitude":6.692188,
     "lbl:max_zoom":18.0,
@@ -118,11 +130,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6435",
+        "chgov:number_qualified":"2406435",
         "eg:gisco_id":"CH_CH6435",
         "eurostat:nuts_2021_id":"CH6435",
         "gp:id":12684850,
         "qs_pg:id":1017692
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125800059
     ],
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":404568753,
-    "wof:lastmodified":1684351724,
+    "wof:lastmodified":1695878911,
     "wof:name":"La Chaux-du-Milieu",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",

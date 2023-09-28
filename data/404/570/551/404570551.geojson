@@ -22,6 +22,18 @@
     "geom:latitude":46.598159,
     "geom:longitude":6.691732,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.597622,
     "lbl:longitude":6.695221,
     "lbl:max_zoom":18.0,
@@ -86,12 +98,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5523",
+        "chgov:number_qualified":"2205523",
         "eg:gisco_id":"CH_CH5523",
         "eurostat:nuts_2021_id":"CH5523",
         "gn:id":7285872,
         "gp:id":12683500,
         "qs_pg:id":671332
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125971845
     ],
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":404570551,
-    "wof:lastmodified":1684351747,
+    "wof:lastmodified":1695878938,
     "wof:name":"Froideville",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

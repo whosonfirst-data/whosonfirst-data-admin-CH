@@ -22,6 +22,18 @@
     "geom:latitude":46.440971,
     "geom:longitude":6.308883,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.439978,
     "lbl:longitude":6.30867,
     "lbl:max_zoom":18.0,
@@ -116,12 +128,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5852",
+        "chgov:number_qualified":"2205852",
         "eg:gisco_id":"CH_CH5852",
         "eurostat:nuts_2021_id":"CH5852",
         "gn:id":7285397,
         "gp:id":20075639,
         "qs_pg:id":1294463
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125859623
     ],
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":404573237,
-    "wof:lastmodified":1684351772,
+    "wof:lastmodified":1695878967,
     "wof:name":"Bursinel",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

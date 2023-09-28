@@ -22,6 +22,18 @@
     "geom:latitude":46.685823,
     "geom:longitude":6.645891,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.686191,
     "lbl:longitude":6.643679,
     "lbl:max_zoom":18.0,
@@ -116,12 +128,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5539",
+        "chgov:number_qualified":"2205539",
         "eg:gisco_id":"CH_CH5539",
         "eurostat:nuts_2021_id":"CH5539",
         "gn:id":7287500,
         "gp:id":12684788,
         "qs_pg:id":671663
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1243007601
     ],
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":404570017,
-    "wof:lastmodified":1684351741,
+    "wof:lastmodified":1695878931,
     "wof:name":"Vuarrens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

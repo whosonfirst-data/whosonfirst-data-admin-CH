@@ -22,6 +22,18 @@
     "geom:latitude":47.279707,
     "geom:longitude":8.530074,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.280002,
     "lbl:longitude":8.529705,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0136",
+        "chgov:number_qualified":"0100136",
         "eg:gisco_id":"CH_CH0136",
         "eurostat:nuts_2021_id":"CH0136",
         "gn:id":7286260,
         "gp:id":12683833,
         "qs_pg:id":1197171
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404570117,
-    "wof:lastmodified":1684351742,
+    "wof:lastmodified":1695878932,
     "wof:name":"Langnau am Albis",
     "wof:parent_id":102062825,
     "wof:placetype":"localadmin",

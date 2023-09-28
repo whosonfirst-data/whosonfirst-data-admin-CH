@@ -22,6 +22,18 @@
     "geom:latitude":46.537051,
     "geom:longitude":6.88267,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.541101,
     "lbl:longitude":6.882898,
     "lbl:max_zoom":18.0,
@@ -124,9 +136,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2333",
+        "chgov:number_qualified":"1002333",
         "eg:gisco_id":"CH_CH2333",
         "eurostat:nuts_2021_id":"CH2333"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125766405
     ],
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":404570937,
-    "wof:lastmodified":1684351752,
+    "wof:lastmodified":1695878944,
     "wof:name":"Remaufens",
     "wof:parent_id":102063025,
     "wof:placetype":"localadmin",

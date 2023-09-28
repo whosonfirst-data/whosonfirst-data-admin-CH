@@ -22,6 +22,18 @@
     "geom:latitude":45.843083,
     "geom:longitude":9.007829,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.839911,
     "lbl:longitude":9.009201,
     "lbl:max_zoom":18.0,
@@ -127,9 +139,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5242",
+        "chgov:number_qualified":"2105242",
         "eg:gisco_id":"CH_CH5242",
         "eurostat:nuts_2021_id":"CH5242"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853209
     ],
@@ -148,7 +166,7 @@
         }
     ],
     "wof:id":404572333,
-    "wof:lastmodified":1684351769,
+    "wof:lastmodified":1695878963,
     "wof:name":"Balerna",
     "wof:parent_id":102063063,
     "wof:placetype":"localadmin",

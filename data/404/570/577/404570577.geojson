@@ -22,6 +22,18 @@
     "geom:latitude":47.197696,
     "geom:longitude":7.330799,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.19956,
     "lbl:longitude":7.329132,
     "lbl:max_zoom":18.0,
@@ -161,12 +173,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0442",
+        "chgov:number_qualified":"0200442",
         "eg:gisco_id":"CH_CH0442",
         "eurostat:nuts_2021_id":"CH0442",
         "gn:id":6690631,
         "gp:id":12684873,
         "qs_pg:id":965718
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -183,7 +201,7 @@
         }
     ],
     "wof:id":404570577,
-    "wof:lastmodified":1684351748,
+    "wof:lastmodified":1695878938,
     "wof:name":"Romont",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",

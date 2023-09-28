@@ -22,6 +22,18 @@
     "geom:latitude":47.507506,
     "geom:longitude":8.502452,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.509343,
     "lbl:longitude":8.499279,
     "lbl:max_zoom":18.0,
@@ -128,11 +140,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0060",
+        "chgov:number_qualified":"0100060",
         "eg:gisco_id":"CH_CH0060",
         "eurostat:nuts_2021_id":"CH0060",
         "gp:id":12685107,
         "qs_pg:id":62074
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125901757
     ],
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":404571331,
-    "wof:lastmodified":1684351757,
+    "wof:lastmodified":1695878950,
     "wof:name":"H\u00f6ri",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",

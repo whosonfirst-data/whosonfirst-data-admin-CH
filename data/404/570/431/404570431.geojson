@@ -22,6 +22,18 @@
     "geom:latitude":46.963288,
     "geom:longitude":7.181034,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.958171,
     "lbl:longitude":7.182978,
     "lbl:max_zoom":18.0,
@@ -119,11 +131,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2276",
+        "chgov:number_qualified":"1002276",
         "eg:gisco_id":"CH_CH2276",
         "eurostat:nuts_2021_id":"CH2276",
         "gp:id":12684266,
         "qs_pg:id":324018
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -140,7 +158,7 @@
         }
     ],
     "wof:id":404570431,
-    "wof:lastmodified":1684351746,
+    "wof:lastmodified":1695878936,
     "wof:name":"Ried bei Kerzers",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",

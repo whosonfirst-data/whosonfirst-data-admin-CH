@@ -22,6 +22,18 @@
     "geom:latitude":46.858237,
     "geom:longitude":7.604787,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.859185,
     "lbl:longitude":7.603662,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0609",
+        "chgov:number_qualified":"0200609",
         "eg:gisco_id":"CH_CH0609",
         "eurostat:nuts_2021_id":"CH0609",
         "gn:id":7286044,
         "gp:id":20075393,
         "qs_pg:id":671380
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1327467793
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404572103,
-    "wof:lastmodified":1684351766,
+    "wof:lastmodified":1695878961,
     "wof:name":"H\u00e4utligen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

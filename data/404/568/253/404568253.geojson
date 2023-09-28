@@ -22,6 +22,18 @@
     "geom:latitude":47.228682,
     "geom:longitude":8.854676,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.227574,
     "lbl:longitude":8.843525,
     "lbl:max_zoom":18.0,
@@ -152,12 +164,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3340",
+        "chgov:number_qualified":"1703340",
         "eg:gisco_id":"CH_CH3340",
         "eurostat:nuts_2021_id":"CH3340",
         "gn:id":7286859,
         "gp:id":56071078,
         "qs_pg:id":1154295
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -174,7 +192,7 @@
         }
     ],
     "wof:id":404568253,
-    "wof:lastmodified":1684351715,
+    "wof:lastmodified":1695878900,
     "wof:name":"Rapperswil-Jona",
     "wof:parent_id":102062815,
     "wof:placetype":"localadmin",

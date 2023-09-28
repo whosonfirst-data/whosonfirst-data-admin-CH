@@ -22,6 +22,18 @@
     "geom:latitude":46.863384,
     "geom:longitude":7.632465,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.864903,
     "lbl:longitude":7.632167,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0607",
+        "chgov:number_qualified":"0200607",
         "eg:gisco_id":"CH_CH0607",
         "eurostat:nuts_2021_id":"CH0607",
         "gn:id":7285867,
         "gp:id":12684447,
         "qs_pg:id":1040493
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1292940185
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404572137,
-    "wof:lastmodified":1684351767,
+    "wof:lastmodified":1695878961,
     "wof:name":"Freimettigen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

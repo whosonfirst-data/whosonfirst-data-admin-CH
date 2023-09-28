@@ -22,6 +22,18 @@
     "geom:latitude":46.148033,
     "geom:longitude":7.267801,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.144285,
     "lbl:longitude":7.272734,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6134",
+        "chgov:number_qualified":"2306134",
         "eg:gisco_id":"CH_CH6134",
         "eurostat:nuts_2021_id":"CH6134",
         "gn:id":7286150,
         "gp:id":12683735,
         "qs_pg:id":1154275
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125919671
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404568899,
-    "wof:lastmodified":1684351727,
+    "wof:lastmodified":1695878914,
     "wof:name":"Is\u00e9rables",
     "wof:parent_id":102063045,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.628655,
     "geom:longitude":6.549576,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.628191,
     "lbl:longitude":6.549305,
     "lbl:max_zoom":18.0,
@@ -113,12 +125,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5480",
+        "chgov:number_qualified":"2205480",
         "eg:gisco_id":"CH_CH5480",
         "eurostat:nuts_2021_id":"CH5480",
         "gn:id":7285617,
         "gp:id":12683285,
         "qs_pg:id":671281
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126045195
     ],
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":404571075,
-    "wof:lastmodified":1684351754,
+    "wof:lastmodified":1695878946,
     "wof:name":"Daillens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

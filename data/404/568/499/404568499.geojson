@@ -22,6 +22,18 @@
     "geom:latitude":46.827353,
     "geom:longitude":9.208508,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.827632,
     "lbl:longitude":9.20914,
     "lbl:max_zoom":18.0,
@@ -146,12 +158,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3572",
+        "chgov:number_qualified":"1803572",
         "eg:gisco_id":"CH_CH3572",
         "eurostat:nuts_2021_id":"CH3572",
         "gn:id":7285793,
         "gp:id":12683437,
         "qs_pg:id":380081
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":404568499,
-    "wof:lastmodified":1684351719,
+    "wof:lastmodified":1695878906,
     "wof:name":"Falera",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",

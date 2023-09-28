@@ -22,6 +22,18 @@
     "geom:latitude":45.98971,
     "geom:longitude":7.752675,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.99525,
     "lbl:longitude":7.755178,
     "lbl:max_zoom":18.0,
@@ -236,12 +248,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6300",
+        "chgov:number_qualified":"2306300",
         "eg:gisco_id":"CH_CH6300",
         "eurostat:nuts_2021_id":"CH6300",
         "gn:id":7287631,
         "gp:id":12682989,
         "qs_pg:id":671696
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853223
     ],
@@ -261,7 +279,7 @@
         }
     ],
     "wof:id":404567705,
-    "wof:lastmodified":1684351702,
+    "wof:lastmodified":1695878887,
     "wof:name":"Zermatt",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",

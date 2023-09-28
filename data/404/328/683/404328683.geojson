@@ -22,6 +22,18 @@
     "geom:latitude":46.148999,
     "geom:longitude":6.118312,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.149781,
     "lbl:longitude":6.111398,
     "lbl:max_zoom":18.0,
@@ -131,9 +143,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6605",
+        "chgov:number_qualified":"2506605",
         "eg:gisco_id":"CH_CH6605",
         "eurostat:nuts_2021_id":"CH6605"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":404328683,
-    "wof:lastmodified":1684351699,
+    "wof:lastmodified":1695878884,
     "wof:name":"Bardonnex",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",

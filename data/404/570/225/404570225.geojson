@@ -22,6 +22,18 @@
     "geom:latitude":46.657373,
     "geom:longitude":9.423232,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.657341,
     "lbl:longitude":9.423688,
     "lbl:max_zoom":18.0,
@@ -113,11 +125,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3707",
+        "chgov:number_qualified":"1803707",
         "eg:gisco_id":"CH_CH3707",
         "eurostat:nuts_2021_id":"CH3707",
         "gn:id":7286364,
         "qs_pg:id":671435
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125898851
     ],
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":404570225,
-    "wof:lastmodified":1684351744,
+    "wof:lastmodified":1695878934,
     "wof:name":"Lohn",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",

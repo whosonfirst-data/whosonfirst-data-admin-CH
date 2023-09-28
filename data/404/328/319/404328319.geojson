@@ -22,6 +22,18 @@
     "geom:latitude":47.107562,
     "geom:longitude":8.528313,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.108417,
     "lbl:longitude":8.521675,
     "lbl:max_zoom":18.0,
@@ -135,12 +147,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1710",
+        "chgov:number_qualified":"0901710",
         "eg:gisco_id":"CH_CH1710",
         "eurostat:nuts_2021_id":"CH1710",
         "gn:id":7287517,
         "gp:id":12684596,
         "qs_pg:id":1197429
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854021
     ],
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":404328319,
-    "wof:lastmodified":1684351694,
+    "wof:lastmodified":1695878877,
     "wof:name":"Walchwil",
     "wof:parent_id":102063067,
     "wof:placetype":"localadmin",

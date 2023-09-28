@@ -22,6 +22,18 @@
     "geom:latitude":47.444943,
     "geom:longitude":8.198425,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.443064,
     "lbl:longitude":8.186429,
     "lbl:max_zoom":18.0,
@@ -115,9 +127,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4104",
         "eg:gisco_id":"CH_CH4104",
         "eurostat:nuts_2021_id":"CH4104"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"86679de54e85f861e7036d92827c48d2",
     "wof:hierarchy":[
@@ -130,7 +144,7 @@
         }
     ],
     "wof:id":1394254165,
-    "wof:lastmodified":1684351783,
+    "wof:lastmodified":1695878980,
     "wof:name":"Lupfig",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",

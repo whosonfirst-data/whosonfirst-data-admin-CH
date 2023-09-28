@@ -22,6 +22,18 @@
     "geom:latitude":46.693046,
     "geom:longitude":7.311228,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.688499,
     "lbl:longitude":7.315616,
     "lbl:max_zoom":18.0,
@@ -106,9 +118,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2299",
         "eg:gisco_id":"CH_CH2299",
         "eurostat:nuts_2021_id":"CH2299"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"28345351c01df834695aa340d29b2771",
     "wof:hierarchy":[
@@ -121,7 +135,7 @@
         }
     ],
     "wof:id":1394254203,
-    "wof:lastmodified":1684351784,
+    "wof:lastmodified":1695878981,
     "wof:name":"Plaffeien",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",

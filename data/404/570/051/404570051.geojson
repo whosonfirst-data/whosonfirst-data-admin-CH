@@ -22,6 +22,18 @@
     "geom:latitude":47.318879,
     "geom:longitude":8.103504,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.319175,
     "lbl:longitude":8.101023,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4146",
+        "chgov:number_qualified":"1904146",
         "eg:gisco_id":"CH_CH4146",
         "eurostat:nuts_2021_id":"CH4146",
         "gn:id":7287380,
         "gp:id":12683792,
         "qs_pg:id":394358
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854343
     ],
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404570051,
-    "wof:lastmodified":1684351742,
+    "wof:lastmodified":1695878932,
     "wof:name":"Unterkulm",
     "wof:parent_id":102062983,
     "wof:placetype":"localadmin",

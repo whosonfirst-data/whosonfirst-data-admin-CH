@@ -22,6 +22,18 @@
     "geom:latitude":47.394709,
     "geom:longitude":7.889929,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.393921,
     "lbl:longitude":7.891575,
     "lbl:max_zoom":18.0,
@@ -142,12 +154,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2502",
+        "chgov:number_qualified":"1102502",
         "eg:gisco_id":"CH_CH2502",
         "eurostat:nuts_2021_id":"CH2502",
         "gn:id":7287594,
         "gp:id":12685222,
         "qs_pg:id":671693
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":404328697,
-    "wof:lastmodified":1684351699,
+    "wof:lastmodified":1695878884,
     "wof:name":"Wisen",
     "wof:parent_id":1394137093,
     "wof:placetype":"localadmin",

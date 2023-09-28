@@ -22,6 +22,18 @@
     "geom:latitude":47.748691,
     "geom:longitude":8.494535,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.749608,
     "lbl:longitude":8.487042,
     "lbl:max_zoom":18.0,
@@ -130,12 +142,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2952",
+        "chgov:number_qualified":"1402952",
         "eg:gisco_id":"CH_CH2952",
         "eurostat:nuts_2021_id":"CH2952",
         "gn:id":7287092,
         "gp:id":12684365,
         "qs_pg:id":500395
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125806339
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404328255,
-    "wof:lastmodified":1684351692,
+    "wof:lastmodified":1695878876,
     "wof:name":"Schleitheim",
     "wof:parent_id":1394137105,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.958838,
     "geom:longitude":8.363349,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.962278,
     "lbl:longitude":8.361038,
     "lbl:max_zoom":18.0,
@@ -240,12 +252,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1509",
+        "chgov:number_qualified":"0701509",
         "eg:gisco_id":"CH_CH1509",
         "eurostat:nuts_2021_id":"CH1509",
         "gn:id":7287217,
         "gp:id":12684452,
         "qs_pg:id":1145855
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853915
     ],
@@ -265,7 +283,7 @@
         }
     ],
     "wof:id":404328413,
-    "wof:lastmodified":1684351695,
+    "wof:lastmodified":1695878879,
     "wof:name":"Stans",
     "wof:parent_id":102062973,
     "wof:placetype":"localadmin",

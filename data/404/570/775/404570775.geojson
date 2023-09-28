@@ -22,6 +22,18 @@
     "geom:latitude":47.417379,
     "geom:longitude":8.594886,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.41709,
     "lbl:longitude":8.595242,
     "lbl:max_zoom":18.0,
@@ -167,12 +179,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0069",
+        "chgov:number_qualified":"0100069",
         "eg:gisco_id":"CH_CH0069",
         "eurostat:nuts_2021_id":"CH0069",
         "gn:id":7287529,
         "gp:id":12683555,
         "qs_pg:id":204374
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125915065
     ],
@@ -192,7 +210,7 @@
         }
     ],
     "wof:id":404570775,
-    "wof:lastmodified":1684351750,
+    "wof:lastmodified":1695878942,
     "wof:name":"Wallisellen",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",

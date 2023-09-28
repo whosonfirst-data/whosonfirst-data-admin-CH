@@ -22,6 +22,18 @@
     "geom:latitude":47.203461,
     "geom:longitude":7.666491,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.204706,
     "lbl:longitude":7.667723,
     "lbl:max_zoom":18.0,
@@ -125,11 +137,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0980",
+        "chgov:number_qualified":"0200980",
         "eg:gisco_id":"CH_CH0980",
         "eurostat:nuts_2021_id":"CH0980",
         "gn:id":7286139,
         "qs_pg:id":106593
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1293518249
     ],
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":404571981,
-    "wof:lastmodified":1684351765,
+    "wof:lastmodified":1695878959,
     "wof:name":"Inkwil",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",

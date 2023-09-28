@@ -22,6 +22,18 @@
     "geom:latitude":47.517096,
     "geom:longitude":8.136555,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.516078,
     "lbl:longitude":8.136551,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4106",
+        "chgov:number_qualified":"1904106",
         "eg:gisco_id":"CH_CH4106",
         "eurostat:nuts_2021_id":"CH4106",
         "gn:id":7286535,
         "gp:id":12684962,
         "qs_pg:id":1026050
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1209749127
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404571729,
-    "wof:lastmodified":1684351762,
+    "wof:lastmodified":1695878956,
     "wof:name":"M\u00f6nthal",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",

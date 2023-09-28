@@ -22,6 +22,18 @@
     "geom:latitude":46.210733,
     "geom:longitude":6.094643,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.210843,
     "lbl:longitude":6.102664,
     "lbl:max_zoom":18.0,
@@ -93,12 +105,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6643",
+        "chgov:number_qualified":"2506643",
         "eg:gisco_id":"CH_CH6643",
         "eurostat:nuts_2021_id":"CH6643",
         "gn:id":7287438,
         "gp:id":12683177,
         "qs_pg:id":1078604
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -115,7 +133,7 @@
         }
     ],
     "wof:id":404328503,
-    "wof:lastmodified":1684351696,
+    "wof:lastmodified":1695878880,
     "wof:name":"Vernier",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",

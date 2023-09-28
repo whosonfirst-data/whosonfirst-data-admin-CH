@@ -22,6 +22,18 @@
     "geom:latitude":47.270143,
     "geom:longitude":7.798221,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.267013,
     "lbl:longitude":7.785033,
     "lbl:max_zoom":18.0,
@@ -130,11 +142,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2408",
+        "chgov:number_qualified":"1102408",
         "eg:gisco_id":"CH_CH2408",
         "eurostat:nuts_2021_id":"CH2408",
         "gp:id":12684645,
         "qs_pg:id":988827
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125771517
     ],
@@ -154,7 +172,7 @@
         }
     ],
     "wof:id":404328559,
-    "wof:lastmodified":1684351697,
+    "wof:lastmodified":1695878882,
     "wof:name":"Wolfwil",
     "wof:parent_id":1394137097,
     "wof:placetype":"localadmin",

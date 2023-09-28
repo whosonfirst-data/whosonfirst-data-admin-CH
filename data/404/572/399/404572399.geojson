@@ -22,6 +22,18 @@
     "geom:latitude":47.004542,
     "geom:longitude":7.698026,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.010459,
     "lbl:longitude":7.710298,
     "lbl:max_zoom":18.0,
@@ -127,9 +139,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0955",
+        "chgov:number_qualified":"0200955",
         "eg:gisco_id":"CH_CH0955",
         "eurostat:nuts_2021_id":"CH0955"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":404572399,
-    "wof:lastmodified":1684351769,
+    "wof:lastmodified":1695878964,
     "wof:name":"L\u00fctzelfl\u00fch",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",

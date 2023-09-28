@@ -22,6 +22,18 @@
     "geom:latitude":46.718321,
     "geom:longitude":9.48251,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.719946,
     "lbl:longitude":9.479418,
     "lbl:max_zoom":18.0,
@@ -146,12 +158,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3638",
+        "chgov:number_qualified":"1803638",
         "eg:gisco_id":"CH_CH3638",
         "eurostat:nuts_2021_id":"CH3638",
         "gn:id":7287076,
         "gp:id":12684359,
         "qs_pg:id":43848
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126000621
     ],
@@ -171,7 +189,7 @@
         }
     ],
     "wof:id":404568987,
-    "wof:lastmodified":1684351728,
+    "wof:lastmodified":1695878916,
     "wof:name":"Scharans",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",

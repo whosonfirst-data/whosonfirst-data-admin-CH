@@ -22,6 +22,18 @@
     "geom:latitude":46.018496,
     "geom:longitude":8.873971,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.018283,
     "lbl:longitude":8.873768,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5143",
+        "chgov:number_qualified":"2105143",
         "eg:gisco_id":"CH_CH5143",
         "eurostat:nuts_2021_id":"CH5143",
         "gn:id":7285086,
         "gp:id":12685178,
         "qs_pg:id":396314
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1209351097
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404572267,
-    "wof:lastmodified":1684351768,
+    "wof:lastmodified":1695878963,
     "wof:name":"Aranno",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.379725,
     "geom:longitude":7.507305,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.379875,
     "lbl:longitude":7.507616,
     "lbl:max_zoom":18.0,
@@ -61,12 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2617",
+        "chgov:number_qualified":"1102617",
         "eg:gisco_id":"CH_CH2617",
         "eurostat:nuts_2021_id":"CH2617",
         "gn:id":7285983,
         "gp:id":12685195,
         "qs_pg:id":671363
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1360116185
     ],
@@ -86,7 +104,7 @@
         }
     ],
     "wof:id":404328801,
-    "wof:lastmodified":1684351700,
+    "wof:lastmodified":1695878885,
     "wof:name":"Grindel",
     "wof:parent_id":1394137121,
     "wof:placetype":"localadmin",

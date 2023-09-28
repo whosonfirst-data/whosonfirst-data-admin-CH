@@ -22,6 +22,18 @@
     "geom:latitude":47.472532,
     "geom:longitude":8.162566,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.471924,
     "lbl:longitude":8.167033,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4122",
+        "chgov:number_qualified":"1904122",
         "eg:gisco_id":"CH_CH4122",
         "eurostat:nuts_2021_id":"CH4122",
         "gn:id":7287480,
         "gp:id":20075547,
         "qs_pg:id":911123
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125871093
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404570989,
-    "wof:lastmodified":1684351753,
+    "wof:lastmodified":1695878945,
     "wof:name":"Villnachern",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",

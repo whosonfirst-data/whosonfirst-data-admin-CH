@@ -22,6 +22,18 @@
     "geom:latitude":47.042845,
     "geom:longitude":8.190138,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.048,
     "lbl:longitude":8.200001,
     "lbl:max_zoom":18.0,
@@ -136,12 +148,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1062",
+        "chgov:number_qualified":"0301062",
         "eg:gisco_id":"CH_CH1062",
         "eurostat:nuts_2021_id":"CH1062",
         "gn:id":7286426,
         "gp:id":12683935,
         "qs_pg:id":289838
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -158,7 +176,7 @@
         }
     ],
     "wof:id":404328211,
-    "wof:lastmodified":1684351691,
+    "wof:lastmodified":1695878875,
     "wof:name":"Malters",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",

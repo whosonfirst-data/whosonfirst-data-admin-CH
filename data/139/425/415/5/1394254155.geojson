@@ -22,6 +22,18 @@
     "geom:latitude":47.053247,
     "geom:longitude":7.496493,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.052403,
     "lbl:longitude":7.504454,
     "lbl:max_zoom":18.0,
@@ -109,9 +121,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0540",
         "eg:gisco_id":"CH_CH0540",
         "eurostat:nuts_2021_id":"CH0540"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"4389718ee37ac76be6bf180c6193a8bd",
     "wof:hierarchy":[
@@ -124,7 +138,7 @@
         }
     ],
     "wof:id":1394254155,
-    "wof:lastmodified":1684351783,
+    "wof:lastmodified":1695878980,
     "wof:name":"Jegenstorf",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

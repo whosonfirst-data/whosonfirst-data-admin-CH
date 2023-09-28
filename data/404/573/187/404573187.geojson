@@ -22,6 +22,18 @@
     "geom:latitude":45.934732,
     "geom:longitude":8.925171,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.934622,
     "lbl:longitude":8.921328,
     "lbl:max_zoom":18.0,
@@ -123,11 +135,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5233",
+        "chgov:number_qualified":"2105233",
         "eg:gisco_id":"CH_CH5233",
         "eurostat:nuts_2021_id":"CH5233",
         "gp:id":12685151,
         "qs_pg:id":1250204
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125804505
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404573187,
-    "wof:lastmodified":1684351772,
+    "wof:lastmodified":1695878967,
     "wof:name":"Vico Morcote",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.28641,
     "geom:longitude":8.065007,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.278602,
     "lbl:longitude":8.063934,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6008",
+        "chgov:number_qualified":"2306008",
         "eg:gisco_id":"CH_CH6008",
         "eurostat:nuts_2021_id":"CH6008",
         "gn:id":7286902,
         "gp:id":12682946,
         "qs_pg:id":1154298
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404568041,
-    "wof:lastmodified":1684351710,
+    "wof:lastmodified":1695878896,
     "wof:name":"Ried-Brig",
     "wof:parent_id":102063023,
     "wof:placetype":"localadmin",

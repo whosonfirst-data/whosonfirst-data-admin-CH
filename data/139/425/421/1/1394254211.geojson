@@ -22,6 +22,18 @@
     "geom:latitude":47.254818,
     "geom:longitude":8.036633,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.254887,
     "lbl:longitude":8.036164,
     "lbl:max_zoom":18.0,
@@ -121,9 +133,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4281",
         "eg:gisco_id":"CH_CH4281",
         "eurostat:nuts_2021_id":"CH4281"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"3ca97ddba6a5db0e2fe211017dccfb4d",
     "wof:hierarchy":[
@@ -136,7 +150,7 @@
         }
     ],
     "wof:id":1394254211,
-    "wof:lastmodified":1684351784,
+    "wof:lastmodified":1695878982,
     "wof:name":"Reitnau",
     "wof:parent_id":102062851,
     "wof:placetype":"localadmin",

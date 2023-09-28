@@ -22,6 +22,18 @@
     "geom:latitude":46.709239,
     "geom:longitude":6.441864,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.710201,
     "lbl:longitude":6.444835,
     "lbl:max_zoom":18.0,
@@ -83,12 +95,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5759",
+        "chgov:number_qualified":"2205759",
         "eg:gisco_id":"CH_CH5759",
         "eurostat:nuts_2021_id":"CH5759",
         "gn:id":7286832,
         "gp:id":12684778,
         "qs_pg:id":106656
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126019947
     ],
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":404570883,
-    "wof:lastmodified":1684351751,
+    "wof:lastmodified":1695878943,
     "wof:name":"Premier",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

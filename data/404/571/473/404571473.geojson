@@ -22,6 +22,18 @@
     "geom:latitude":46.525578,
     "geom:longitude":6.826532,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.525068,
     "lbl:longitude":6.825289,
     "lbl:max_zoom":18.0,
@@ -95,12 +107,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2328",
+        "chgov:number_qualified":"1002328",
         "eg:gisco_id":"CH_CH2328",
         "eurostat:nuts_2021_id":"CH2328",
         "gn:id":7285967,
         "gp:id":12684824,
         "qs_pg:id":671357
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1309941763
     ],
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":404571473,
-    "wof:lastmodified":1684351759,
+    "wof:lastmodified":1695878952,
     "wof:name":"Granges",
     "wof:parent_id":102063025,
     "wof:placetype":"localadmin",

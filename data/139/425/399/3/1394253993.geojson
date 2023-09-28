@@ -22,6 +22,18 @@
     "geom:latitude":46.710079,
     "geom:longitude":7.563645,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.708203,
     "lbl:longitude":7.564188,
     "lbl:max_zoom":18.0,
@@ -70,9 +82,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0770",
         "eg:gisco_id":"CH_CH0770",
         "eurostat:nuts_2021_id":"CH0770"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"3ebbb3118b89b94500f22e3bcc45784b",
     "wof:hierarchy":[
@@ -85,7 +99,7 @@
         }
     ],
     "wof:id":1394253993,
-    "wof:lastmodified":1684351778,
+    "wof:lastmodified":1695878974,
     "wof:name":"Stocken-H\u00f6fen",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",

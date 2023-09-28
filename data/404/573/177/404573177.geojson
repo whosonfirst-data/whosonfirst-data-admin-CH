@@ -22,6 +22,18 @@
     "geom:latitude":46.551852,
     "geom:longitude":6.595982,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.551681,
     "lbl:longitude":6.595831,
     "lbl:max_zoom":18.0,
@@ -124,9 +136,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5585",
+        "chgov:number_qualified":"2205585",
         "eg:gisco_id":"CH_CH5585",
         "eurostat:nuts_2021_id":"CH5585"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125770795
     ],
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":404573177,
-    "wof:lastmodified":1684351771,
+    "wof:lastmodified":1695878966,
     "wof:name":"Jouxtens-M\u00e9zery",
     "wof:parent_id":102063009,
     "wof:placetype":"localadmin",

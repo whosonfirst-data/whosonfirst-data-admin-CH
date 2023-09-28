@@ -22,6 +22,18 @@
     "geom:latitude":46.862768,
     "geom:longitude":8.394557,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.89305,
     "lbl:longitude":8.428461,
     "lbl:max_zoom":18.0,
@@ -138,12 +150,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1511",
+        "chgov:number_qualified":"0701511",
         "eg:gisco_id":"CH_CH1511",
         "eurostat:nuts_2021_id":"CH1511",
         "gn:id":7287603,
         "gp:id":12683583,
         "qs_pg:id":466150
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":404328125,
-    "wof:lastmodified":1684351689,
+    "wof:lastmodified":1695878872,
     "wof:name":"Wolfenschiessen",
     "wof:parent_id":102062973,
     "wof:placetype":"localadmin",

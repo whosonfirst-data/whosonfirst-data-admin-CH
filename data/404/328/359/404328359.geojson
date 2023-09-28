@@ -22,6 +22,18 @@
     "geom:latitude":47.70483,
     "geom:longitude":8.814724,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.70229,
     "lbl:longitude":8.817107,
     "lbl:max_zoom":18.0,
@@ -97,12 +109,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2963",
+        "chgov:number_qualified":"1402963",
         "eg:gisco_id":"CH_CH2963",
         "eurostat:nuts_2021_id":"CH2963",
         "gn:id":7286852,
         "gp:id":12684231,
         "qs_pg:id":490827
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125827155
     ],
@@ -122,7 +140,7 @@
         }
     ],
     "wof:id":404328359,
-    "wof:lastmodified":1684351694,
+    "wof:lastmodified":1695878878,
     "wof:name":"Ramsen",
     "wof:parent_id":1394298251,
     "wof:placetype":"localadmin",

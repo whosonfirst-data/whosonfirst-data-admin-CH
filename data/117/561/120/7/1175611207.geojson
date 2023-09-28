@@ -22,6 +22,18 @@
     "geom:latitude":46.894085,
     "geom:longitude":7.171905,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.888578,
     "lbl:longitude":7.16789,
     "lbl:max_zoom":18.0,
@@ -121,12 +133,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2262",
+        "chgov:number_qualified":"1002262",
         "eg:gisco_id":"CH_CH2262",
         "eurostat:nuts_2021_id":"CH2262",
         "gn:id":7286008,
         "gp:id":12683609,
         "qs_pg:id":907075
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -142,7 +160,7 @@
         }
     ],
     "wof:id":1175611207,
-    "wof:lastmodified":1684351776,
+    "wof:lastmodified":1695878971,
     "wof:name":"Gurmels",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",

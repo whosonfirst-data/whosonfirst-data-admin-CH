@@ -22,6 +22,18 @@
     "geom:latitude":46.758335,
     "geom:longitude":6.669234,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.758755,
     "lbl:longitude":6.66893,
     "lbl:max_zoom":18.0,
@@ -86,12 +98,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5926",
+        "chgov:number_qualified":"2205926",
         "eg:gisco_id":"CH_CH5926",
         "eurostat:nuts_2021_id":"CH5926",
         "gn:id":7286811,
         "gp:id":12684791,
         "qs_pg:id":1040546
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1343991711
     ],
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":404571031,
-    "wof:lastmodified":1684351753,
+    "wof:lastmodified":1695878945,
     "wof:name":"Pomy",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

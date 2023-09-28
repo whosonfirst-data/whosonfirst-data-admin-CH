@@ -22,6 +22,18 @@
     "geom:latitude":47.562888,
     "geom:longitude":8.230245,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.569982,
     "lbl:longitude":8.238844,
     "lbl:max_zoom":18.0,
@@ -131,11 +143,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4303",
+        "chgov:number_qualified":"1904303",
         "eg:gisco_id":"CH_CH4303",
         "eurostat:nuts_2021_id":"CH4303",
         "gp:id":12683023,
         "qs_pg:id":1205275
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":404570467,
-    "wof:lastmodified":1684351746,
+    "wof:lastmodified":1695878937,
     "wof:name":"B\u00f6ttstein",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.104306,
     "geom:longitude":7.608583,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.096763,
     "lbl:longitude":7.598898,
     "lbl:max_zoom":18.0,
@@ -129,12 +141,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0405",
+        "chgov:number_qualified":"0200405",
         "eg:gisco_id":"CH_CH0405",
         "eurostat:nuts_2021_id":"CH0405",
         "gn:id":7285763,
         "gp:id":12683409,
         "qs_pg:id":352671
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -151,7 +169,7 @@
         }
     ],
     "wof:id":404570111,
-    "wof:lastmodified":1684351742,
+    "wof:lastmodified":1695878932,
     "wof:name":"Ersigen",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",

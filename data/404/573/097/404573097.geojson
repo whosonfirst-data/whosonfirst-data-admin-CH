@@ -22,6 +22,18 @@
     "geom:latitude":46.525798,
     "geom:longitude":6.466717,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.52635,
     "lbl:longitude":6.466718,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5653",
+        "chgov:number_qualified":"2205653",
         "eg:gisco_id":"CH_CH5653",
         "eurostat:nuts_2021_id":"CH5653",
         "gn:id":7287503,
         "gp:id":20075608,
         "qs_pg:id":989384
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125997453
     ],
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404573097,
-    "wof:lastmodified":1684351770,
+    "wof:lastmodified":1695878965,
     "wof:name":"Vufflens-le-Ch\u00e2teau",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

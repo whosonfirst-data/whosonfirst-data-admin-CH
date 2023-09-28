@@ -22,6 +22,18 @@
     "geom:latitude":47.273962,
     "geom:longitude":8.723537,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.274245,
     "lbl:longitude":8.723153,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0157",
+        "chgov:number_qualified":"0100157",
         "eg:gisco_id":"CH_CH0157",
         "eurostat:nuts_2021_id":"CH0157",
         "gn:id":7286731,
         "gp:id":12684153,
         "qs_pg:id":671510
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126048801
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404570887,
-    "wof:lastmodified":1684351752,
+    "wof:lastmodified":1695878943,
     "wof:name":"Oetwil am See",
     "wof:parent_id":102062769,
     "wof:placetype":"localadmin",

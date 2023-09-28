@@ -22,6 +22,18 @@
     "geom:latitude":46.670144,
     "geom:longitude":6.537578,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.67037,
     "lbl:longitude":6.537228,
     "lbl:max_zoom":18.0,
@@ -86,12 +98,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5493",
+        "chgov:number_qualified":"2205493",
         "eg:gisco_id":"CH_CH5493",
         "eurostat:nuts_2021_id":"CH5493",
         "gn:id":7286750,
         "gp:id":12684775,
         "qs_pg:id":1109254
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1360215287
     ],
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":404571059,
-    "wof:lastmodified":1684351754,
+    "wof:lastmodified":1695878946,
     "wof:name":"Orny",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

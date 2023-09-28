@@ -22,6 +22,18 @@
     "geom:latitude":47.682037,
     "geom:longitude":8.51194,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.684933,
     "lbl:longitude":8.512643,
     "lbl:max_zoom":18.0,
@@ -139,12 +151,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2904",
+        "chgov:number_qualified":"1402904",
         "eg:gisco_id":"CH_CH2904",
         "eurostat:nuts_2021_id":"CH2904",
         "gn:id":7286630,
         "gp:id":12684074,
         "qs_pg:id":106638
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126035661
     ],
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":404328289,
-    "wof:lastmodified":1684351693,
+    "wof:lastmodified":1695878877,
     "wof:name":"Neunkirch",
     "wof:parent_id":1394137111,
     "wof:placetype":"localadmin",

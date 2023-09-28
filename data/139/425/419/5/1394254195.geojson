@@ -22,6 +22,18 @@
     "geom:latitude":47.318474,
     "geom:longitude":7.242208,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.320462,
     "lbl:longitude":7.252056,
     "lbl:max_zoom":18.0,
@@ -76,9 +88,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6729",
         "eg:gisco_id":"CH_CH6729",
         "eurostat:nuts_2021_id":"CH6729"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"790498ffd72bef89a28886a70681c47a",
     "wof:hierarchy":[
@@ -91,7 +105,7 @@
         }
     ],
     "wof:id":1394254195,
-    "wof:lastmodified":1684351784,
+    "wof:lastmodified":1695878981,
     "wof:name":"Haute-Sorne",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.221665,
     "geom:longitude":7.515486,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.223254,
     "lbl:longitude":7.517878,
     "lbl:max_zoom":18.0,
@@ -61,12 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2550",
+        "chgov:number_qualified":"1102550",
         "eg:gisco_id":"CH_CH2550",
         "eurostat:nuts_2021_id":"CH2550",
         "gn:id":7286258,
         "gp:id":12684914,
         "qs_pg:id":902550
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126035847
     ],
@@ -86,7 +104,7 @@
         }
     ],
     "wof:id":404328863,
-    "wof:lastmodified":1684351701,
+    "wof:lastmodified":1695878886,
     "wof:name":"Langendorf",
     "wof:parent_id":1394137087,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.151671,
     "geom:longitude":6.989434,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.153234,
     "lbl:longitude":6.994257,
     "lbl:max_zoom":18.0,
@@ -142,9 +154,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0443",
+        "chgov:number_qualified":"0200443",
         "eg:gisco_id":"CH_CH0443",
         "eurostat:nuts_2021_id":"CH0443"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":404568571,
-    "wof:lastmodified":1684351721,
+    "wof:lastmodified":1695878907,
     "wof:name":"Saint-Imier",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",

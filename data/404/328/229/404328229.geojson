@@ -22,6 +22,18 @@
     "geom:latitude":47.03176,
     "geom:longitude":8.428294,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.032954,
     "lbl:longitude":8.428294,
     "lbl:max_zoom":18.0,
@@ -138,9 +150,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1069",
+        "chgov:number_qualified":"0301069",
         "eg:gisco_id":"CH_CH1069",
         "eurostat:nuts_2021_id":"CH1069"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854051
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404328229,
-    "wof:lastmodified":1684351692,
+    "wof:lastmodified":1695878875,
     "wof:name":"Weggis",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",

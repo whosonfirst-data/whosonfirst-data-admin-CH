@@ -22,6 +22,18 @@
     "geom:latitude":46.985987,
     "geom:longitude":8.280248,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.986005,
     "lbl:longitude":8.28135,
     "lbl:max_zoom":18.0,
@@ -144,12 +156,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1507",
+        "chgov:number_qualified":"0701507",
         "eg:gisco_id":"CH_CH1507",
         "eurostat:nuts_2021_id":"CH1507",
         "gn:id":7286067,
         "gp:id":12683668,
         "qs_pg:id":671387
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1209451045
     ],
@@ -169,7 +187,7 @@
         }
     ],
     "wof:id":404328305,
-    "wof:lastmodified":1684351693,
+    "wof:lastmodified":1695878877,
     "wof:name":"Hergiswil",
     "wof:parent_id":102062973,
     "wof:placetype":"localadmin",

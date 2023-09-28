@@ -22,6 +22,18 @@
     "geom:latitude":46.660905,
     "geom:longitude":6.819363,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.657951,
     "lbl:longitude":6.814961,
     "lbl:max_zoom":18.0,
@@ -115,9 +127,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5665",
+        "chgov:number_qualified":"2205665",
         "eg:gisco_id":"CH_CH5665",
         "eurostat:nuts_2021_id":"CH5665"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125860653
     ],
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":404571203,
-    "wof:lastmodified":1684351756,
+    "wof:lastmodified":1695878948,
     "wof:name":"Chavannes-sur-Moudon",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.427122,
     "geom:longitude":7.856719,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.428168,
     "lbl:longitude":7.856512,
     "lbl:max_zoom":18.0,
@@ -127,9 +139,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2859",
+        "chgov:number_qualified":"1302859",
         "eg:gisco_id":"CH_CH2859",
         "eurostat:nuts_2021_id":"CH2859"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125915605
     ],
@@ -148,7 +166,7 @@
         }
     ],
     "wof:id":404573035,
-    "wof:lastmodified":1684351770,
+    "wof:lastmodified":1695878965,
     "wof:name":"R\u00fcmlingen",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.500981,
     "geom:longitude":7.697048,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.503416,
     "lbl:longitude":7.709409,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2824",
+        "chgov:number_qualified":"1302824",
         "eg:gisco_id":"CH_CH2824",
         "eurostat:nuts_2021_id":"CH2824",
         "gn:id":7285868,
         "gp:id":12683495,
         "qs_pg:id":43509
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101876019
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404571419,
-    "wof:lastmodified":1684351758,
+    "wof:lastmodified":1695878951,
     "wof:name":"Frenkendorf",
     "wof:parent_id":102062929,
     "wof:placetype":"localadmin",

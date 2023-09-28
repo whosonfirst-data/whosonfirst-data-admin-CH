@@ -22,6 +22,18 @@
     "geom:latitude":46.50159,
     "geom:longitude":6.477288,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.501689,
     "lbl:longitude":6.477446,
     "lbl:max_zoom":18.0,
@@ -152,12 +164,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5649",
+        "chgov:number_qualified":"2205649",
         "eg:gisco_id":"CH_CH5649",
         "eurostat:nuts_2021_id":"CH5649",
         "gn:id":7287316,
         "gp:id":12684742,
         "qs_pg:id":905980
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125937761
     ],
@@ -177,7 +195,7 @@
         }
     ],
     "wof:id":404573307,
-    "wof:lastmodified":1684351773,
+    "wof:lastmodified":1695878968,
     "wof:name":"Tolochenaz",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

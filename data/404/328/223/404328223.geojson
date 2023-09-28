@@ -22,6 +22,18 @@
     "geom:latitude":47.223552,
     "geom:longitude":8.271975,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.220668,
     "lbl:longitude":8.274886,
     "lbl:max_zoom":18.0,
@@ -139,11 +151,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1030",
+        "chgov:number_qualified":"0301030",
         "eg:gisco_id":"CH_CH1030",
         "eurostat:nuts_2021_id":"CH1030",
         "gp:id":12683692,
         "qs_pg:id":323562
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":404328223,
-    "wof:lastmodified":1684351692,
+    "wof:lastmodified":1695878875,
     "wof:name":"Hitzkirch",
     "wof:parent_id":1394137081,
     "wof:placetype":"localadmin",

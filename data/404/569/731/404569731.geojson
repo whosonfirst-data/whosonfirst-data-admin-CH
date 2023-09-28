@@ -22,6 +22,18 @@
     "geom:latitude":47.275727,
     "geom:longitude":8.853807,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.274666,
     "lbl:longitude":8.843148,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0113",
+        "chgov:number_qualified":"0100113",
         "eg:gisco_id":"CH_CH0113",
         "eurostat:nuts_2021_id":"CH0113",
         "gn:id":7285681,
         "gp:id":12683337,
         "qs_pg:id":248738
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404569731,
-    "wof:lastmodified":1684351737,
+    "wof:lastmodified":1695878927,
     "wof:name":"D\u00fcrnten",
     "wof:parent_id":102062967,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.78886,
     "geom:longitude":6.766691,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.783667,
     "lbl:longitude":6.760277,
     "lbl:max_zoom":18.0,
@@ -110,11 +122,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5928",
+        "chgov:number_qualified":"2205928",
         "eg:gisco_id":"CH_CH5928",
         "eurostat:nuts_2021_id":"CH5928",
         "gp:id":12684306,
         "qs_pg:id":47518
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125972951
     ],
@@ -134,7 +152,7 @@
         }
     ],
     "wof:id":404572053,
-    "wof:lastmodified":1684351766,
+    "wof:lastmodified":1695878960,
     "wof:name":"Rovray",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

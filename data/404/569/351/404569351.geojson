@@ -22,6 +22,18 @@
     "geom:latitude":47.550792,
     "geom:longitude":9.15993,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.546274,
     "lbl:longitude":9.15081,
     "lbl:max_zoom":18.0,
@@ -101,12 +113,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4911",
+        "chgov:number_qualified":"2004911",
         "eg:gisco_id":"CH_CH4911",
         "eurostat:nuts_2021_id":"CH4911",
         "gn:id":7285394,
         "gp:id":12683099,
         "qs_pg:id":671219
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":404569351,
-    "wof:lastmodified":1684351733,
+    "wof:lastmodified":1695878922,
     "wof:name":"B\u00fcrglen",
     "wof:parent_id":102062955,
     "wof:placetype":"localadmin",

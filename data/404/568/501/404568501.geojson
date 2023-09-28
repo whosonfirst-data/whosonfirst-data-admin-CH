@@ -22,6 +22,18 @@
     "geom:latitude":46.661486,
     "geom:longitude":7.641623,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.66539,
     "lbl:longitude":7.640898,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0769",
+        "chgov:number_qualified":"0200769",
         "eg:gisco_id":"CH_CH0769",
         "eurostat:nuts_2021_id":"CH0769",
         "gn:id":7287588,
         "gp:id":12683646,
         "qs_pg:id":1252198
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125836243
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404568501,
-    "wof:lastmodified":1684351719,
+    "wof:lastmodified":1695878906,
     "wof:name":"Wimmis",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",

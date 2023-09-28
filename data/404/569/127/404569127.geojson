@@ -22,6 +22,18 @@
     "geom:latitude":47.612833,
     "geom:longitude":8.721109,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.613404,
     "lbl:longitude":8.721601,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0037",
+        "chgov:number_qualified":"0100037",
         "eg:gisco_id":"CH_CH0037",
         "eurostat:nuts_2021_id":"CH0037",
         "gn:id":7286760,
         "gp:id":12684168,
         "qs_pg:id":996488
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125973345
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404569127,
-    "wof:lastmodified":1684351730,
+    "wof:lastmodified":1695878918,
     "wof:name":"Ossingen",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.557786,
     "geom:longitude":8.763074,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.557166,
     "lbl:longitude":8.762667,
     "lbl:max_zoom":18.0,
@@ -137,11 +149,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0216",
+        "chgov:number_qualified":"0100216",
         "eg:gisco_id":"CH_CH0216",
         "eurostat:nuts_2021_id":"CH0216",
         "gp:id":12682860,
         "qs_pg:id":61764
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126043969
     ],
@@ -161,7 +179,7 @@
         }
     ],
     "wof:id":404570557,
-    "wof:lastmodified":1684351748,
+    "wof:lastmodified":1695878938,
     "wof:name":"Dinhard",
     "wof:parent_id":102063055,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.726262,
     "geom:longitude":6.682961,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.726544,
     "lbl:longitude":6.682683,
     "lbl:max_zoom":18.0,
@@ -113,11 +125,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5925",
+        "chgov:number_qualified":"2205925",
         "eg:gisco_id":"CH_CH5925",
         "eurostat:nuts_2021_id":"CH5925",
         "gn:id":7286757,
         "qs_pg:id":671517
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1293920673
     ],
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":404571617,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878954,
     "wof:name":"Orzens",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

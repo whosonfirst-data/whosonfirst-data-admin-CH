@@ -22,6 +22,18 @@
     "geom:latitude":46.951937,
     "geom:longitude":7.027157,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.950952,
     "lbl:longitude":7.027166,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5456",
+        "chgov:number_qualified":"2205456",
         "eg:gisco_id":"CH_CH5456",
         "eurostat:nuts_2021_id":"CH5456",
         "gn:id":7285601,
         "gp:id":12683276,
         "qs_pg:id":671274
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":404568849,
-    "wof:lastmodified":1684351726,
+    "wof:lastmodified":1695878913,
     "wof:name":"Cudrefin",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",

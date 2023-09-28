@@ -22,6 +22,18 @@
     "geom:latitude":46.522612,
     "geom:longitude":6.257701,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.520975,
     "lbl:longitude":6.258148,
     "lbl:max_zoom":18.0,
@@ -122,11 +134,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5434",
+        "chgov:number_qualified":"2205434",
         "eg:gisco_id":"CH_CH5434",
         "eurostat:nuts_2021_id":"CH5434",
         "gn:id":7287027,
         "qs_pg:id":671581
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394295937
     ],
@@ -146,7 +164,7 @@
         }
     ],
     "wof:id":404569231,
-    "wof:lastmodified":1684351732,
+    "wof:lastmodified":1695878920,
     "wof:name":"Saint-George",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

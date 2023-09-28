@@ -22,6 +22,18 @@
     "geom:latitude":47.4901,
     "geom:longitude":7.89122,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.489326,
     "lbl:longitude":7.89122,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2848",
+        "chgov:number_qualified":"1302848",
         "eg:gisco_id":"CH_CH2848",
         "eurostat:nuts_2021_id":"CH2848",
         "gn:id":7286058,
         "gp:id":12683662,
         "qs_pg:id":911076
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125960563
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404571973,
-    "wof:lastmodified":1684351765,
+    "wof:lastmodified":1695878959,
     "wof:name":"Hemmiken",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",

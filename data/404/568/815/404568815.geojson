@@ -22,6 +22,18 @@
     "geom:latitude":47.478395,
     "geom:longitude":9.16563,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.480414,
     "lbl:longitude":9.170139,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3423",
+        "chgov:number_qualified":"1703423",
         "eg:gisco_id":"CH_CH3423",
         "eurostat:nuts_2021_id":"CH3423",
         "gn:id":7286642,
         "gp:id":12684667,
         "qs_pg:id":891653
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404568815,
-    "wof:lastmodified":1684351725,
+    "wof:lastmodified":1695878913,
     "wof:name":"Niederhelfenschwil",
     "wof:parent_id":102062947,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.18897,
     "geom:longitude":7.714189,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.161328,
     "lbl:longitude":7.713229,
     "lbl:max_zoom":18.0,
@@ -73,9 +85,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6119",
         "eg:gisco_id":"CH_CH6119",
         "eurostat:nuts_2021_id":"CH6119"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"eb6fbb1f1dfe8dcf529e609686d2855c",
     "wof:hierarchy":[
@@ -88,7 +102,7 @@
         }
     ],
     "wof:id":1394253991,
-    "wof:lastmodified":1684351778,
+    "wof:lastmodified":1695878973,
     "wof:name":"Turtmann-Unterems",
     "wof:parent_id":102062761,
     "wof:placetype":"localadmin",

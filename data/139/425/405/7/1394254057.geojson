@@ -22,6 +22,18 @@
     "geom:latitude":47.416909,
     "geom:longitude":9.557457,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.417001,
     "lbl:longitude":9.539484,
     "lbl:max_zoom":18.0,
@@ -64,9 +76,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3111",
         "eg:gisco_id":"CH_CH3111",
         "eurostat:nuts_2021_id":"CH3111"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:coterminous":[
         1125956923
     ],
@@ -82,7 +96,7 @@
         }
     ],
     "wof:id":1394254057,
-    "wof:lastmodified":1684351780,
+    "wof:lastmodified":1695878976,
     "wof:name":"Oberegg",
     "wof:parent_id":1394237541,
     "wof:placetype":"localadmin",

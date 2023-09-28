@@ -22,6 +22,18 @@
     "geom:latitude":46.69734,
     "geom:longitude":9.42295,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.700973,
     "lbl:longitude":9.42608,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3663",
+        "chgov:number_qualified":"1803663",
         "eg:gisco_id":"CH_CH3663",
         "eurostat:nuts_2021_id":"CH3663",
         "gn:id":7286449,
         "gp:id":12685188,
         "qs_pg:id":905986
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125962283
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404571615,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878954,
     "wof:name":"Masein",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",

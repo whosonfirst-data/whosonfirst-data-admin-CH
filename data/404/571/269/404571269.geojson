@@ -22,6 +22,18 @@
     "geom:latitude":46.70047,
     "geom:longitude":6.850612,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.697251,
     "lbl:longitude":6.846866,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5669",
+        "chgov:number_qualified":"2205669",
         "eg:gisco_id":"CH_CH5669",
         "eurostat:nuts_2021_id":"CH5669",
         "gn:id":7285613,
         "gp:id":12684806,
         "qs_pg:id":671279
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1209035945
     ],
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404571269,
-    "wof:lastmodified":1684351757,
+    "wof:lastmodified":1695878949,
     "wof:name":"Curtilles",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",

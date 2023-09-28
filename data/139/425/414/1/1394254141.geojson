@@ -22,6 +22,18 @@
     "geom:latitude":46.423419,
     "geom:longitude":8.060389,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.394666,
     "lbl:longitude":8.078548,
     "lbl:max_zoom":18.0,
@@ -73,9 +85,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6205",
         "eg:gisco_id":"CH_CH6205",
         "eurostat:nuts_2021_id":"CH6205"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"f856ed4a92ef32f002334698c0a451d8",
     "wof:hierarchy":[
@@ -88,7 +102,7 @@
         }
     ],
     "wof:id":1394254141,
-    "wof:lastmodified":1684351782,
+    "wof:lastmodified":1695878979,
     "wof:name":"Bettmeralp",
     "wof:parent_id":102063037,
     "wof:placetype":"localadmin",

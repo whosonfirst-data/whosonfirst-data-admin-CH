@@ -22,6 +22,18 @@
     "geom:latitude":47.164728,
     "geom:longitude":7.046937,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.169777,
     "lbl:longitude":7.047394,
     "lbl:max_zoom":18.0,
@@ -131,11 +143,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0432",
+        "chgov:number_qualified":"0200432",
         "eg:gisco_id":"CH_CH0432",
         "eurostat:nuts_2021_id":"CH0432",
         "gp:id":12685253,
         "qs_pg:id":62111
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":404569079,
-    "wof:lastmodified":1684351730,
+    "wof:lastmodified":1695878918,
     "wof:name":"Cormoret",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",

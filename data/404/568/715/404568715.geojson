@@ -22,6 +22,18 @@
     "geom:latitude":47.417492,
     "geom:longitude":7.284499,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.418105,
     "lbl:longitude":7.283796,
     "lbl:max_zoom":18.0,
@@ -118,9 +130,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6719",
+        "chgov:number_qualified":"2606719",
         "eg:gisco_id":"CH_CH6719",
         "eurostat:nuts_2021_id":"CH6719"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":404568715,
-    "wof:lastmodified":1684351723,
+    "wof:lastmodified":1695878911,
     "wof:name":"Pleigne",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",

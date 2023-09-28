@@ -22,6 +22,18 @@
     "geom:latitude":46.370921,
     "geom:longitude":8.945626,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.370284,
     "lbl:longitude":8.943694,
     "lbl:max_zoom":18.0,
@@ -125,11 +137,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5077",
+        "chgov:number_qualified":"2105077",
         "eg:gisco_id":"CH_CH5077",
         "eurostat:nuts_2021_id":"CH5077",
         "gp:id":12685187,
         "qs_pg:id":249119
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125815921
     ],
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":404570945,
-    "wof:lastmodified":1684351752,
+    "wof:lastmodified":1695878944,
     "wof:name":"Pollegio",
     "wof:parent_id":102062931,
     "wof:placetype":"localadmin",

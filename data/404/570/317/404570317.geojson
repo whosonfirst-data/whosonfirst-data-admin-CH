@@ -22,6 +22,18 @@
     "geom:latitude":47.104221,
     "geom:longitude":7.770066,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.104925,
     "lbl:longitude":7.775433,
     "lbl:max_zoom":18.0,
@@ -95,12 +107,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0959",
+        "chgov:number_qualified":"0200959",
         "eg:gisco_id":"CH_CH0959",
         "eurostat:nuts_2021_id":"CH0959",
         "gn:id":7287536,
         "gp:id":12684607,
         "qs_pg:id":671676
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125800427
     ],
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":404570317,
-    "wof:lastmodified":1684351745,
+    "wof:lastmodified":1695878935,
     "wof:name":"Walterswil",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",

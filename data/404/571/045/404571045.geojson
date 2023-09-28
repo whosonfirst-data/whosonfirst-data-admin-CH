@@ -22,6 +22,18 @@
     "geom:latitude":46.720533,
     "geom:longitude":6.960505,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.721001,
     "lbl:longitude":6.960145,
     "lbl:max_zoom":18.0,
@@ -118,9 +130,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2111",
+        "chgov:number_qualified":"1002111",
         "eg:gisco_id":"CH_CH2111",
         "eurostat:nuts_2021_id":"CH2111"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125947075
     ],
@@ -139,7 +157,7 @@
         }
     ],
     "wof:id":404571045,
-    "wof:lastmodified":1684351754,
+    "wof:lastmodified":1695878945,
     "wof:name":"Villaz-Saint-Pierre",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",

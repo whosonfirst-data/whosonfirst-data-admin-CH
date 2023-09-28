@@ -22,6 +22,18 @@
     "geom:latitude":47.237721,
     "geom:longitude":7.270417,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.237511,
     "lbl:longitude":7.270902,
     "lbl:max_zoom":18.0,
@@ -70,9 +82,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0717",
         "eg:gisco_id":"CH_CH0717",
         "eurostat:nuts_2021_id":"CH0717"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"e2b4dae8670548586ff0f645afd43d24",
     "wof:hierarchy":[
@@ -85,7 +99,7 @@
         }
     ],
     "wof:id":1394254097,
-    "wof:lastmodified":1684351781,
+    "wof:lastmodified":1695878978,
     "wof:name":"Valbirse",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",

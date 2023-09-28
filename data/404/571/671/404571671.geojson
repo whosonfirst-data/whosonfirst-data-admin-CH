@@ -22,6 +22,18 @@
     "geom:latitude":47.222655,
     "geom:longitude":7.028679,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.223473,
     "lbl:longitude":7.028971,
     "lbl:max_zoom":18.0,
@@ -119,11 +131,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6744",
+        "chgov:number_qualified":"2606744",
         "eg:gisco_id":"CH_CH6744",
         "eurostat:nuts_2021_id":"CH6744",
         "gp:id":12683801,
         "qs_pg:id":218917
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394297815
     ],
@@ -143,7 +161,7 @@
         }
     ],
     "wof:id":404571671,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878955,
     "wof:name":"La Chaux-des-Breuleux",
     "wof:parent_id":102062875,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.411986,
     "geom:longitude":7.846666,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.413195,
     "lbl:longitude":7.84753,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2843",
+        "chgov:number_qualified":"1302843",
         "eg:gisco_id":"CH_CH2843",
         "eurostat:nuts_2021_id":"CH2843",
         "gn:id":7285376,
         "gp:id":12685219,
         "qs_pg:id":1292777
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125798269
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404573159,
-    "wof:lastmodified":1684351771,
+    "wof:lastmodified":1695878966,
     "wof:name":"Buckten",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.904301,
     "geom:longitude":7.397801,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.903577,
     "lbl:longitude":7.3746,
     "lbl:max_zoom":18.0,
@@ -206,12 +218,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0355",
+        "chgov:number_qualified":"0200355",
         "eg:gisco_id":"CH_CH0355",
         "eurostat:nuts_2021_id":"CH0355",
         "gn:id":7286216,
         "gp:id":12683628,
         "qs_pg:id":1154270
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -228,7 +246,7 @@
         }
     ],
     "wof:id":404567993,
-    "wof:lastmodified":1684351709,
+    "wof:lastmodified":1695878894,
     "wof:name":"K\u00f6niz",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

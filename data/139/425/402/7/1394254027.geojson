@@ -22,6 +22,18 @@
     "geom:latitude":46.868476,
     "geom:longitude":7.124703,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.860783,
     "lbl:longitude":7.129,
     "lbl:max_zoom":18.0,
@@ -106,9 +118,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2254",
         "eg:gisco_id":"CH_CH2254",
         "eurostat:nuts_2021_id":"CH2254"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"a10e3792db4d63383b2194e793ea762d",
     "wof:hierarchy":[
@@ -121,7 +135,7 @@
         }
     ],
     "wof:id":1394254027,
-    "wof:lastmodified":1684351779,
+    "wof:lastmodified":1695878975,
     "wof:name":"Courtepin",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",

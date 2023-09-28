@@ -22,6 +22,18 @@
     "geom:latitude":46.151687,
     "geom:longitude":7.061684,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.150962,
     "lbl:longitude":7.061257,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6212",
+        "chgov:number_qualified":"2306212",
         "eg:gisco_id":"CH_CH6212",
         "eurostat:nuts_2021_id":"CH6212",
         "gn:id":7285668,
         "gp:id":12683326,
         "qs_pg:id":106568
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125771049
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404569185,
-    "wof:lastmodified":1684351731,
+    "wof:lastmodified":1695878919,
     "wof:name":"Dor\u00e9naz",
     "wof:parent_id":102062965,
     "wof:placetype":"localadmin",

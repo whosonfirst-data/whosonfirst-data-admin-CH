@@ -22,6 +22,18 @@
     "geom:latitude":46.819802,
     "geom:longitude":9.454564,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.824696,
     "lbl:longitude":9.454564,
     "lbl:max_zoom":18.0,
@@ -155,12 +167,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3722",
+        "chgov:number_qualified":"1803722",
         "eg:gisco_id":"CH_CH3722",
         "eurostat:nuts_2021_id":"CH3722",
         "gn:id":7285659,
         "gp:id":12683317,
         "qs_pg:id":1102287
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853955
     ],
@@ -180,7 +198,7 @@
         }
     ],
     "wof:id":404568425,
-    "wof:lastmodified":1684351718,
+    "wof:lastmodified":1695878904,
     "wof:name":"Domat/Ems",
     "wof:parent_id":102062839,
     "wof:placetype":"localadmin",

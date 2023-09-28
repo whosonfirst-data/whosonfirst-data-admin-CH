@@ -22,6 +22,18 @@
     "geom:latitude":46.761921,
     "geom:longitude":7.175487,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.76159,
     "lbl:longitude":7.175718,
     "lbl:max_zoom":18.0,
@@ -124,9 +136,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2230",
+        "chgov:number_qualified":"1002230",
         "eg:gisco_id":"CH_CH2230",
         "eurostat:nuts_2021_id":"CH2230"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1343398047
     ],
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":404573351,
-    "wof:lastmodified":1684351773,
+    "wof:lastmodified":1695878968,
     "wof:name":"Villarsel-sur-Marly",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",

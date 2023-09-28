@@ -22,6 +22,18 @@
     "geom:latitude":47.537455,
     "geom:longitude":7.964196,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.534917,
     "lbl:longitude":7.964357,
     "lbl:max_zoom":18.0,
@@ -100,9 +112,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4172",
+        "chgov:number_qualified":"1904172",
         "eg:gisco_id":"CH_CH4172",
         "eurostat:nuts_2021_id":"CH4172"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1276580921
     ],
@@ -121,7 +139,7 @@
         }
     ],
     "wof:id":404572369,
-    "wof:lastmodified":1684351769,
+    "wof:lastmodified":1695878964,
     "wof:name":"M\u00fcnchwilen",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",

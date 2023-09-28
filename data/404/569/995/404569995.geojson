@@ -22,6 +22,18 @@
     "geom:latitude":46.734879,
     "geom:longitude":6.4104,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.735063,
     "lbl:longitude":6.40991,
     "lbl:max_zoom":18.0,
@@ -113,11 +125,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5744",
+        "chgov:number_qualified":"2205744",
         "eg:gisco_id":"CH_CH5744",
         "eurostat:nuts_2021_id":"CH5744",
         "gn:id":7285142,
         "qs_pg:id":671174
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126008825
     ],
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":404569995,
-    "wof:lastmodified":1684351741,
+    "wof:lastmodified":1695878931,
     "wof:name":"Ballaigues",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

@@ -20,6 +20,18 @@
     "geom:latitude":47.257289,
     "geom:longitude":8.663451,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.233016,
     "lbl:longitude":8.698695,
     "lbl:max_zoom":18.0,
@@ -46,9 +58,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"9051",
         "eg:gisco_id":"CH_CH9051",
         "eurostat:nuts_2021_id":"CH9051"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"b1d6dac063963459169ab11a2b6274fe",
     "wof:hierarchy":[
@@ -61,7 +75,7 @@
         }
     ],
     "wof:id":1394253973,
-    "wof:lastmodified":1684351777,
+    "wof:lastmodified":1695878972,
     "wof:name":"Z\u00fcrichsee",
     "wof:parent_id":1394212863,
     "wof:placetype":"localadmin",

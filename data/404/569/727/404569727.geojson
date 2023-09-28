@@ -22,6 +22,18 @@
     "geom:latitude":47.548088,
     "geom:longitude":8.627403,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.549229,
     "lbl:longitude":8.627826,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0024",
+        "chgov:number_qualified":"0100024",
         "eg:gisco_id":"CH_CH0024",
         "eurostat:nuts_2021_id":"CH0024",
         "gn:id":7285364,
         "gp:id":12683070,
         "qs_pg:id":671211
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394298041
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404569727,
-    "wof:lastmodified":1684351737,
+    "wof:lastmodified":1695878926,
     "wof:name":"Buch am Irchel",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",

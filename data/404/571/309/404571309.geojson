@@ -22,6 +22,18 @@
     "geom:latitude":46.436246,
     "geom:longitude":6.220409,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.434703,
     "lbl:longitude":6.218254,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5718",
+        "chgov:number_qualified":"2205718",
         "eg:gisco_id":"CH_CH5718",
         "eurostat:nuts_2021_id":"CH5718",
         "gn:id":7285903,
         "gp:id":12683530,
         "qs_pg:id":32069
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126055671
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404571309,
-    "wof:lastmodified":1684351757,
+    "wof:lastmodified":1695878950,
     "wof:name":"Genolier",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

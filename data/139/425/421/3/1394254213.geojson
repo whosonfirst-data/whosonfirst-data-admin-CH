@@ -22,6 +22,18 @@
     "geom:latitude":46.958517,
     "geom:longitude":7.092879,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.954964,
     "lbl:longitude":7.089145,
     "lbl:max_zoom":18.0,
@@ -67,9 +79,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2284",
         "eg:gisco_id":"CH_CH2284",
         "eurostat:nuts_2021_id":"CH2284"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"6c5eb21f437bdb764f8077edbddc30f5",
     "wof:hierarchy":[
@@ -82,7 +96,7 @@
         }
     ],
     "wof:id":1394254213,
-    "wof:lastmodified":1684351784,
+    "wof:lastmodified":1695878982,
     "wof:name":"Mont-Vully",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",

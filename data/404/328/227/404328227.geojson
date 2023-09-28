@@ -22,6 +22,18 @@
     "geom:latitude":47.19722,
     "geom:longitude":7.387597,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.197543,
     "lbl:longitude":7.388292,
     "lbl:max_zoom":18.0,
@@ -178,12 +190,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2546",
+        "chgov:number_qualified":"1102546",
         "eg:gisco_id":"CH_CH2546",
         "eurostat:nuts_2021_id":"CH2546",
         "gn:id":7285973,
         "gp:id":12683598,
         "qs_pg:id":223850
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101876003
     ],
@@ -203,7 +221,7 @@
         }
     ],
     "wof:id":404328227,
-    "wof:lastmodified":1684351692,
+    "wof:lastmodified":1695878875,
     "wof:name":"Grenchen",
     "wof:parent_id":1394137087,
     "wof:placetype":"localadmin",

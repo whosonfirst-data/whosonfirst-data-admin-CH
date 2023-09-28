@@ -22,6 +22,18 @@
     "geom:latitude":47.170548,
     "geom:longitude":7.57199,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.16906,
     "lbl:longitude":7.57103,
     "lbl:max_zoom":18.0,
@@ -127,12 +139,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2519",
+        "chgov:number_qualified":"1102519",
         "eg:gisco_id":"CH_CH2519",
         "eurostat:nuts_2021_id":"CH2519",
         "gn:id":7285905,
         "gp:id":12683533,
         "qs_pg:id":1112587
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854205
     ],
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":404328867,
-    "wof:lastmodified":1684351701,
+    "wof:lastmodified":1695878886,
     "wof:name":"Gerlafingen",
     "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",

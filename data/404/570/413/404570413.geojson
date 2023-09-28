@@ -22,6 +22,18 @@
     "geom:latitude":46.689993,
     "geom:longitude":6.516847,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.691793,
     "lbl:longitude":6.514789,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5743",
+        "chgov:number_qualified":"2205743",
         "eg:gisco_id":"CH_CH5743",
         "eurostat:nuts_2021_id":"CH5743",
         "gn:id":7285098,
         "gp:id":12682824,
         "qs_pg:id":671163
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1327470195
     ],
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404570413,
-    "wof:lastmodified":1684351746,
+    "wof:lastmodified":1695878936,
     "wof:name":"Arnex-sur-Orbe",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

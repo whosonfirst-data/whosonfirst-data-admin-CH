@@ -22,6 +22,18 @@
     "geom:latitude":47.165565,
     "geom:longitude":7.434164,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.165324,
     "lbl:longitude":7.435689,
     "lbl:max_zoom":18.0,
@@ -77,12 +89,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0381",
+        "chgov:number_qualified":"0200381",
         "eg:gisco_id":"CH_CH0381",
         "eurostat:nuts_2021_id":"CH0381",
         "gn:id":7285090,
         "gp:id":12682814,
         "qs_pg:id":1188007
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126046103
     ],
@@ -102,7 +120,7 @@
         }
     ],
     "wof:id":404570789,
-    "wof:lastmodified":1684351751,
+    "wof:lastmodified":1695878942,
     "wof:name":"Arch",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",

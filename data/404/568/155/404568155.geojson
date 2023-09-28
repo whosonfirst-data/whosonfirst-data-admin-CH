@@ -22,6 +22,18 @@
     "geom:latitude":46.070368,
     "geom:longitude":7.033601,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.068445,
     "lbl:longitude":7.029146,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6137",
+        "chgov:number_qualified":"2306137",
         "eg:gisco_id":"CH_CH6137",
         "eurostat:nuts_2021_id":"CH6137",
         "gn:id":7286445,
         "gp:id":12683850,
         "qs_pg:id":671449
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125980393
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404568155,
-    "wof:lastmodified":1684351713,
+    "wof:lastmodified":1695878898,
     "wof:name":"Martigny-Combe",
     "wof:parent_id":102063045,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.489516,
     "geom:longitude":8.145239,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.495645,
     "lbl:longitude":8.145829,
     "lbl:max_zoom":18.0,
@@ -79,9 +91,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4124",
         "eg:gisco_id":"CH_CH4124",
         "eurostat:nuts_2021_id":"CH4124"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:coterminous":[
         1226777989
     ],
@@ -97,7 +111,7 @@
         }
     ],
     "wof:id":1394254191,
-    "wof:lastmodified":1684351784,
+    "wof:lastmodified":1695878981,
     "wof:name":"B\u00f6zberg",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.321129,
     "geom:longitude":7.857575,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.322842,
     "lbl:longitude":7.85794,
     "lbl:max_zoom":18.0,
@@ -98,12 +110,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2580",
+        "chgov:number_qualified":"1102580",
         "eg:gisco_id":"CH_CH2580",
         "eurostat:nuts_2021_id":"CH2580",
         "gn:id":7286182,
         "gp:id":12685227,
         "qs_pg:id":204424
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1343296183
     ],
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":404328677,
-    "wof:lastmodified":1684351699,
+    "wof:lastmodified":1695878884,
     "wof:name":"Kappel",
     "wof:parent_id":1394137091,
     "wof:placetype":"localadmin",

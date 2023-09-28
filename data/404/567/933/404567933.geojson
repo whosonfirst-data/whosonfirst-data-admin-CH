@@ -22,6 +22,18 @@
     "geom:latitude":46.340278,
     "geom:longitude":8.136963,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.344452,
     "lbl:longitude":8.131162,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6177",
+        "chgov:number_qualified":"2306177",
         "eg:gisco_id":"CH_CH6177",
         "eurostat:nuts_2021_id":"CH6177",
         "gn:id":7285975,
         "gp:id":12683599,
         "qs_pg:id":671360
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125793409
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404567933,
-    "wof:lastmodified":1684351708,
+    "wof:lastmodified":1695878893,
     "wof:name":"Grengiols",
     "wof:parent_id":102063037,
     "wof:placetype":"localadmin",

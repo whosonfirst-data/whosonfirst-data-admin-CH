@@ -22,6 +22,18 @@
     "geom:latitude":47.585123,
     "geom:longitude":8.707116,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.581336,
     "lbl:longitude":8.694575,
     "lbl:max_zoom":18.0,
@@ -62,12 +74,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0021",
+        "chgov:number_qualified":"0100021",
         "eg:gisco_id":"CH_CH0021",
         "eurostat:nuts_2021_id":"CH0021",
         "gn:id":7285022,
         "gp:id":12685117,
         "qs_pg:id":671143
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125874303
     ],
@@ -87,7 +105,7 @@
         }
     ],
     "wof:id":404570721,
-    "wof:lastmodified":1684351750,
+    "wof:lastmodified":1695878941,
     "wof:name":"Adlikon",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",

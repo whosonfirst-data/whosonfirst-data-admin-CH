@@ -22,6 +22,18 @@
     "geom:latitude":45.996122,
     "geom:longitude":8.803622,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.997573,
     "lbl:longitude":8.798212,
     "lbl:max_zoom":18.0,
@@ -124,9 +136,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5202",
+        "chgov:number_qualified":"2105202",
         "eg:gisco_id":"CH_CH5202",
         "eurostat:nuts_2021_id":"CH5202"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126016203
     ],
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":404571991,
-    "wof:lastmodified":1684351765,
+    "wof:lastmodified":1695878959,
     "wof:name":"Monteggio",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

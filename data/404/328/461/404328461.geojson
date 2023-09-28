@@ -22,6 +22,18 @@
     "geom:latitude":47.146522,
     "geom:longitude":8.337149,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.14404,
     "lbl:longitude":8.341976,
     "lbl:max_zoom":18.0,
@@ -136,12 +148,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1023",
+        "chgov:number_qualified":"0301023",
         "eg:gisco_id":"CH_CH1023",
         "eurostat:nuts_2021_id":"CH1023",
         "gn:id":7285145,
         "gp:id":12682892,
         "qs_pg:id":1188013
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125970979
     ],
@@ -161,7 +179,7 @@
         }
     ],
     "wof:id":404328461,
-    "wof:lastmodified":1684351696,
+    "wof:lastmodified":1695878880,
     "wof:name":"Ballwil",
     "wof:parent_id":1394137081,
     "wof:placetype":"localadmin",

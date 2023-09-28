@@ -22,6 +22,18 @@
     "geom:latitude":47.634884,
     "geom:longitude":8.989217,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.633302,
     "lbl:longitude":8.993767,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4816",
+        "chgov:number_qualified":"2004816",
         "eg:gisco_id":"CH_CH4816",
         "eurostat:nuts_2021_id":"CH4816",
         "gn:id":7286107,
         "gp:id":12683703,
         "qs_pg:id":106589
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":404568431,
-    "wof:lastmodified":1684351718,
+    "wof:lastmodified":1695878905,
     "wof:name":"Homburg",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",

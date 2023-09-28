@@ -22,6 +22,18 @@
     "geom:latitude":46.812609,
     "geom:longitude":9.689292,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.812919,
     "lbl:longitude":9.689299,
     "lbl:max_zoom":18.0,
@@ -163,9 +175,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3921",
         "eg:gisco_id":"CH_CH3921",
         "eurostat:nuts_2021_id":"CH3921"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"55cc706951fa1677b0f2a9da11465e31",
     "wof:hierarchy":[
@@ -178,7 +192,7 @@
         }
     ],
     "wof:id":1394254077,
-    "wof:lastmodified":1684351780,
+    "wof:lastmodified":1695878977,
     "wof:name":"Arosa",
     "wof:parent_id":102063001,
     "wof:placetype":"localadmin",

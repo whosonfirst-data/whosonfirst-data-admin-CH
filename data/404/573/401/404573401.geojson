@@ -22,6 +22,18 @@
     "geom:latitude":47.274861,
     "geom:longitude":8.170063,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.273556,
     "lbl:longitude":8.169224,
     "lbl:max_zoom":18.0,
@@ -107,11 +119,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4137",
+        "chgov:number_qualified":"1904137",
         "eg:gisco_id":"CH_CH4137",
         "eurostat:nuts_2021_id":"CH4137",
         "gp:id":12685067,
         "qs_pg:id":1019007
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1259714121
     ],
@@ -131,7 +149,7 @@
         }
     ],
     "wof:id":404573401,
-    "wof:lastmodified":1684351774,
+    "wof:lastmodified":1695878969,
     "wof:name":"Leimbach",
     "wof:parent_id":102062983,
     "wof:placetype":"localadmin",
