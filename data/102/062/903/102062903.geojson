@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057968,
-    "geom:area_square_m":494753509.703442,
+    "geom:area_square_m":494753509.703434,
     "geom:bbox":"9.053708,46.169158,9.299858,46.523221",
     "geom:latitude":46.350776,
     "geom:longitude":9.177485,
@@ -78,12 +78,15 @@
         85682255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"1828"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b91d7c67cf8c25c06f129e6e8fdb0ec4",
+    "wof:geomhash":"640671ffda41573dbd768b824ae6a932",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":102062903,
-    "wof:lastmodified":1627521997,
+    "wof:lastmodified":1695886476,
     "wof:name":"Moesa",
     "wof:parent_id":85682255,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066536,
-    "geom:area_square_m":567884333.315062,
+    "geom:area_square_m":567884333.315065,
     "geom:bbox":"8.427741,46.189701,8.800123,46.500556",
     "geom:latitude":46.350501,
     "geom:longitude":8.607516,
@@ -78,12 +78,15 @@
         85682269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"2108"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"62cceaee7539bb2786a171fb5ae1d8ca",
+    "wof:geomhash":"be2ea9bd04a5139614479747221a5cad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":102062957,
-    "wof:lastmodified":1627521999,
+    "wof:lastmodified":1695886480,
     "wof:name":"Vallemaggia",
     "wof:parent_id":85682269,
     "wof:placetype":"county",

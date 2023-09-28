@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015753,
-    "geom:area_square_m":133959072.291259,
+    "geom:area_square_m":133959072.291251,
     "geom:bbox":"6.810877,46.475387,7.010774,46.626229",
     "geom:latitude":46.55202,
     "geom:longitude":6.919915,
@@ -81,12 +81,15 @@
         85682301
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"1007"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"56dd3a75bc076cab9a02a7d027ef95de",
+    "wof:geomhash":"a56835edfdce106648efed18887a8e01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":102063025,
-    "wof:lastmodified":1627521996,
+    "wof:lastmodified":1695886475,
     "wof:name":"La Veveyse",
     "wof:parent_id":85682301,
     "wof:placetype":"county",

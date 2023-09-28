@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069015,
-    "geom:area_square_m":587671185.178576,
+    "geom:area_square_m":587671185.178599,
     "geom:bbox":"7.932451,46.306463,8.478516,46.654049",
     "geom:latitude":46.477681,
     "geom:longitude":8.2157,
@@ -84,12 +84,15 @@
         85682281
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"2304"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"97abf09c02001a3e8c3f10bc83dee66a",
+    "wof:geomhash":"57b875ad9a386f67faf3a7ed257261a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":102063031,
-    "wof:lastmodified":1627521994,
+    "wof:lastmodified":1695886471,
     "wof:name":"Goms",
     "wof:parent_id":85682281,
     "wof:placetype":"county",

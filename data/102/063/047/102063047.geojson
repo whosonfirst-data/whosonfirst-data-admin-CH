@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016428,
-    "geom:area_square_m":139726290.718928,
+    "geom:area_square_m":139726290.718919,
     "geom:bbox":"6.63935,46.472069,6.902279,46.619469",
     "geom:latitude":46.540252,
     "geom:longitude":6.767858,
@@ -78,12 +78,15 @@
         85682325
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"2226"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7da286d49702e83eab104234df284f78",
+    "wof:geomhash":"69265cf010900a8e4c1730415b4e6299",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":102063047,
-    "wof:lastmodified":1627521996,
+    "wof:lastmodified":1695886475,
     "wof:name":"Lavaux-Oron",
     "wof:parent_id":85682325,
     "wof:placetype":"county",
