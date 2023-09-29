@@ -22,6 +22,18 @@
     "geom:latitude":46.166857,
     "geom:longitude":8.831165,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.156096,
     "lbl:longitude":8.805673,
     "lbl:max_zoom":18.0,
@@ -208,9 +220,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5113",
         "eg:gisco_id":"CH_CH5113",
         "eurostat:nuts_2021_id":"CH5113"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"17fd39fad952f3480ec5ebebe4954d73",
     "wof:hierarchy":[
@@ -223,7 +237,7 @@
         }
     ],
     "wof:id":1394254169,
-    "wof:lastmodified":1684351783,
+    "wof:lastmodified":1695878980,
     "wof:name":"Locarno",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",

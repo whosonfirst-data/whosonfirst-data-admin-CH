@@ -22,6 +22,18 @@
     "geom:latitude":47.065167,
     "geom:longitude":7.197823,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.065969,
     "lbl:longitude":7.198115,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0751",
+        "chgov:number_qualified":"0200751",
         "eg:gisco_id":"CH_CH0751",
         "eurostat:nuts_2021_id":"CH0751",
         "gn:id":7287283,
         "gp:id":12683636,
         "qs_pg:id":272056
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854069
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404571513,
-    "wof:lastmodified":1684351760,
+    "wof:lastmodified":1695878953,
     "wof:name":"T\u00e4uffelen",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.316418,
     "geom:longitude":9.111983,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.315997,
     "lbl:longitude":9.111995,
     "lbl:max_zoom":18.0,
@@ -67,9 +79,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3837",
         "eg:gisco_id":"CH_CH3837",
         "eurostat:nuts_2021_id":"CH3837"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"c403ebfb47f82f73572e8a0f5a5e5f39",
     "wof:hierarchy":[
@@ -82,7 +96,7 @@
         }
     ],
     "wof:id":1394254093,
-    "wof:lastmodified":1684351781,
+    "wof:lastmodified":1695878977,
     "wof:name":"Calanca",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",

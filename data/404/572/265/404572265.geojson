@@ -22,6 +22,18 @@
     "geom:latitude":47.084832,
     "geom:longitude":7.568642,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.084442,
     "lbl:longitude":7.569708,
     "lbl:max_zoom":18.0,
@@ -128,11 +140,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0420",
+        "chgov:number_qualified":"0200420",
         "eg:gisco_id":"CH_CH0420",
         "eurostat:nuts_2021_id":"CH0420",
         "gp:id":20075374,
         "qs_pg:id":50504
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":404572265,
-    "wof:lastmodified":1684351768,
+    "wof:lastmodified":1695878963,
     "wof:name":"R\u00fcdtligen-Alchenfl\u00fch",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",

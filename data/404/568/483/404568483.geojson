@@ -22,6 +22,18 @@
     "geom:latitude":46.069491,
     "geom:longitude":6.931785,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.067915,
     "lbl:longitude":6.95104,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6214",
+        "chgov:number_qualified":"2306214",
         "eg:gisco_id":"CH_CH6214",
         "eurostat:nuts_2021_id":"CH6214",
         "gn:id":7285826,
         "gp:id":12683466,
         "qs_pg:id":671318
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125912009
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404568483,
-    "wof:lastmodified":1684351719,
+    "wof:lastmodified":1695878906,
     "wof:name":"Finhaut",
     "wof:parent_id":102062965,
     "wof:placetype":"localadmin",

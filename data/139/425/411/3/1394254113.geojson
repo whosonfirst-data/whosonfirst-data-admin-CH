@@ -22,6 +22,18 @@
     "geom:latitude":46.970864,
     "geom:longitude":6.856331,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.970685,
     "lbl:longitude":6.855761,
     "lbl:max_zoom":18.0,
@@ -84,9 +96,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6416",
         "eg:gisco_id":"CH_CH6416",
         "eurostat:nuts_2021_id":"CH6416"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"bda4aa74f67f603ff4e53ac9f8a7173e",
     "wof:hierarchy":[
@@ -98,7 +112,7 @@
         }
     ],
     "wof:id":1394254113,
-    "wof:lastmodified":1684351781,
+    "wof:lastmodified":1695878978,
     "wof:name":"Milvignes",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",

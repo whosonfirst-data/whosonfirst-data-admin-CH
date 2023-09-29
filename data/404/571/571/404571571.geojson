@@ -22,6 +22,18 @@
     "geom:latitude":47.425124,
     "geom:longitude":8.320528,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.424292,
     "lbl:longitude":8.320254,
     "lbl:max_zoom":18.0,
@@ -137,11 +149,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4037",
+        "chgov:number_qualified":"1904037",
         "eg:gisco_id":"CH_CH4037",
         "eurostat:nuts_2021_id":"CH4037",
         "gp:id":12684986,
         "qs_pg:id":62067
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125999313
     ],
@@ -161,7 +179,7 @@
         }
     ],
     "wof:id":404571571,
-    "wof:lastmodified":1684351760,
+    "wof:lastmodified":1695878954,
     "wof:name":"Oberrohrdorf",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",

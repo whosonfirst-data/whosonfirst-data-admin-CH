@@ -22,6 +22,18 @@
     "geom:latitude":46.207074,
     "geom:longitude":6.143752,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.208567,
     "lbl:longitude":6.143135,
     "lbl:max_zoom":18.0,
@@ -72,12 +84,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6621",
+        "chgov:number_qualified":"2506621",
         "eg:gisco_id":"CH_CH6621",
         "eurostat:nuts_2021_id":"CH6621",
         "gn:id":7285902,
         "gp:id":12683165,
         "qs_pg:id":209136
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101748445
     ],
@@ -97,7 +115,7 @@
         }
     ],
     "wof:id":404328283,
-    "wof:lastmodified":1684351693,
+    "wof:lastmodified":1695878876,
     "wof:name":"Gen\u00e8ve",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",

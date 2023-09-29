@@ -22,6 +22,18 @@
     "geom:latitude":46.444731,
     "geom:longitude":7.864709,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.443106,
     "lbl:longitude":7.864702,
     "lbl:max_zoom":18.0,
@@ -71,11 +83,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6192",
+        "chgov:number_qualified":"2306192",
         "eg:gisco_id":"CH_CH6192",
         "eurostat:nuts_2021_id":"CH6192",
         "gp:id":12682990,
         "qs_pg:id":1292650
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125906773
     ],
@@ -95,7 +113,7 @@
         }
     ],
     "wof:id":404567817,
-    "wof:lastmodified":1684351705,
+    "wof:lastmodified":1695878890,
     "wof:name":"Blatten",
     "wof:parent_id":102063037,
     "wof:placetype":"localadmin",

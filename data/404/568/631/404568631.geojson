@@ -22,6 +22,18 @@
     "geom:latitude":46.244254,
     "geom:longitude":9.09786,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.24543,
     "lbl:longitude":9.09349,
     "lbl:max_zoom":18.0,
@@ -110,12 +122,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3835",
+        "chgov:number_qualified":"1803835",
         "eg:gisco_id":"CH_CH3835",
         "eurostat:nuts_2021_id":"CH3835",
         "gn:id":7287052,
         "gp:id":12683842,
         "qs_pg:id":1120623
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125851595
     ],
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":404568631,
-    "wof:lastmodified":1684351722,
+    "wof:lastmodified":1695878909,
     "wof:name":"San Vittore",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",

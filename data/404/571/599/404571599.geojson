@@ -22,6 +22,18 @@
     "geom:latitude":47.404776,
     "geom:longitude":9.639147,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.406019,
     "lbl:longitude":9.639457,
     "lbl:max_zoom":18.0,
@@ -131,11 +143,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3238",
+        "chgov:number_qualified":"1703238",
         "eg:gisco_id":"CH_CH3238",
         "eurostat:nuts_2021_id":"CH3238",
         "gn:id":7287567,
         "qs_pg:id":1040602
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":404571599,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878954,
     "wof:name":"Widnau",
     "wof:parent_id":102063005,
     "wof:placetype":"localadmin",

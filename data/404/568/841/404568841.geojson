@@ -22,6 +22,18 @@
     "geom:latitude":47.009441,
     "geom:longitude":7.781382,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.010658,
     "lbl:longitude":7.786382,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0958",
+        "chgov:number_qualified":"0200958",
         "eg:gisco_id":"CH_CH0958",
         "eurostat:nuts_2021_id":"CH0958",
         "gn:id":7287321,
         "gp:id":12684508,
         "qs_pg:id":987931
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404568841,
-    "wof:lastmodified":1684351726,
+    "wof:lastmodified":1695878913,
     "wof:name":"Trachselwald",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",

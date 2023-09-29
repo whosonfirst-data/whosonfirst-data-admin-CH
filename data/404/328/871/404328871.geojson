@@ -22,6 +22,18 @@
     "geom:latitude":47.168173,
     "geom:longitude":7.611891,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.167857,
     "lbl:longitude":7.612126,
     "lbl:max_zoom":18.0,
@@ -121,12 +133,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2520",
+        "chgov:number_qualified":"1102520",
         "eg:gisco_id":"CH_CH2520",
         "eurostat:nuts_2021_id":"CH2520",
         "gn:id":7286029,
         "gp:id":20075513,
         "qs_pg:id":345353
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1360022317
     ],
@@ -146,7 +164,7 @@
         }
     ],
     "wof:id":404328871,
-    "wof:lastmodified":1684351701,
+    "wof:lastmodified":1695878886,
     "wof:name":"Halten",
     "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",

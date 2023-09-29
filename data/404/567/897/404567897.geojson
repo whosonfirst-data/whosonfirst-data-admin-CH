@@ -22,6 +22,18 @@
     "geom:latitude":46.992317,
     "geom:longitude":9.74607,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.995092,
     "lbl:longitude":9.746107,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3962",
+        "chgov:number_qualified":"1803962",
         "eg:gisco_id":"CH_CH3962",
         "eurostat:nuts_2021_id":"CH3962",
         "gn:id":7287084,
         "gp:id":12683108,
         "qs_pg:id":241237
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404567897,
-    "wof:lastmodified":1684351707,
+    "wof:lastmodified":1695878892,
     "wof:name":"Schiers",
     "wof:parent_id":102062803,
     "wof:placetype":"localadmin",

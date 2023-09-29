@@ -22,6 +22,18 @@
     "geom:latitude":47.294378,
     "geom:longitude":9.081807,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.293361,
     "lbl:longitude":9.077267,
     "lbl:max_zoom":18.0,
@@ -115,9 +127,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3379",
         "eg:gisco_id":"CH_CH3379",
         "eurostat:nuts_2021_id":"CH3379"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"fc6681b93d59129ebdd642c5601375e6",
     "wof:hierarchy":[
@@ -130,7 +144,7 @@
         }
     ],
     "wof:id":1394254011,
-    "wof:lastmodified":1684351778,
+    "wof:lastmodified":1695878974,
     "wof:name":"Wattwil",
     "wof:parent_id":102062771,
     "wof:placetype":"localadmin",

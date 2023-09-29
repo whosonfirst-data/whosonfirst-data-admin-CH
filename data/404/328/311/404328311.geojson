@@ -22,6 +22,18 @@
     "geom:latitude":47.426568,
     "geom:longitude":7.417812,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.427366,
     "lbl:longitude":7.417048,
     "lbl:max_zoom":18.0,
@@ -133,12 +145,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2619",
+        "chgov:number_qualified":"1102619",
         "eg:gisco_id":"CH_CH2619",
         "eurostat:nuts_2021_id":"CH2619",
         "gn:id":7286207,
         "gp:id":12683772,
         "qs_pg:id":232427
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125970923
     ],
@@ -158,7 +176,7 @@
         }
     ],
     "wof:id":404328311,
-    "wof:lastmodified":1684351694,
+    "wof:lastmodified":1695878877,
     "wof:name":"Kleinl\u00fctzel",
     "wof:parent_id":1394137121,
     "wof:placetype":"localadmin",

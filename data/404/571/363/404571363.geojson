@@ -22,6 +22,18 @@
     "geom:latitude":46.911184,
     "geom:longitude":7.215951,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.909846,
     "lbl:longitude":7.216303,
     "lbl:max_zoom":18.0,
@@ -131,11 +143,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0666",
+        "chgov:number_qualified":"0200666",
         "eg:gisco_id":"CH_CH0666",
         "eurostat:nuts_2021_id":"CH0666",
         "gn:id":7286223,
         "qs_pg:id":671408
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125986475
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404571363,
-    "wof:lastmodified":1684351758,
+    "wof:lastmodified":1695878951,
     "wof:name":"Kriechenwil",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

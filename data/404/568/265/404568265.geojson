@@ -22,6 +22,18 @@
     "geom:latitude":46.623516,
     "geom:longitude":7.748619,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.613652,
     "lbl:longitude":7.768277,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0562",
+        "chgov:number_qualified":"0200562",
         "eg:gisco_id":"CH_CH0562",
         "eurostat:nuts_2021_id":"CH0562",
         "gn:id":7285028,
         "gp:id":12682723,
         "qs_pg:id":248417
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404568265,
-    "wof:lastmodified":1684351715,
+    "wof:lastmodified":1695878901,
     "wof:name":"Aeschi bei Spiez",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",

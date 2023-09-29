@@ -22,6 +22,18 @@
     "geom:latitude":46.842595,
     "geom:longitude":6.556902,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.842456,
     "lbl:longitude":6.556911,
     "lbl:max_zoom":18.0,
@@ -77,12 +89,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5552",
+        "chgov:number_qualified":"2205552",
         "eg:gisco_id":"CH_CH5552",
         "eurostat:nuts_2021_id":"CH5552",
         "gn:id":7285382,
         "gp:id":12683086,
         "qs_pg:id":671216
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126025269
     ],
@@ -102,7 +120,7 @@
         }
     ],
     "wof:id":404568785,
-    "wof:lastmodified":1684351725,
+    "wof:lastmodified":1695878912,
     "wof:name":"Bullet",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

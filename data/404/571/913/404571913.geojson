@@ -22,6 +22,18 @@
     "geom:latitude":46.820103,
     "geom:longitude":7.737138,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.821545,
     "lbl:longitude":7.738762,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0946",
+        "chgov:number_qualified":"0200946",
         "eg:gisco_id":"CH_CH0946",
         "eurostat:nuts_2021_id":"CH0946",
         "gn:id":7287512,
         "gp:id":12684468,
         "qs_pg:id":1145859
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404571913,
-    "wof:lastmodified":1684351764,
+    "wof:lastmodified":1695878959,
     "wof:name":"Wachseldorn",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",

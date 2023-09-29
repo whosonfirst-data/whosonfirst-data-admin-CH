@@ -22,6 +22,18 @@
     "geom:latitude":47.2662,
     "geom:longitude":7.703745,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.265784,
     "lbl:longitude":7.698957,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0981",
+        "chgov:number_qualified":"0200981",
         "eg:gisco_id":"CH_CH0981",
         "eurostat:nuts_2021_id":"CH0981",
         "gn:id":7286634,
         "gp:id":12684079,
         "qs_pg:id":106640
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854123
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404568751,
-    "wof:lastmodified":1684351724,
+    "wof:lastmodified":1695878911,
     "wof:name":"Niederbipp",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",

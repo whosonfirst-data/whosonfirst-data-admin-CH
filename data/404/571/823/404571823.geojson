@@ -22,6 +22,18 @@
     "geom:latitude":47.013778,
     "geom:longitude":6.89953,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.012725,
     "lbl:longitude":6.900812,
     "lbl:max_zoom":18.0,
@@ -121,12 +133,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6485",
+        "chgov:number_qualified":"2406485",
         "eg:gisco_id":"CH_CH6485",
         "eurostat:nuts_2021_id":"CH6485",
         "gn:id":7287404,
         "gp:id":12684856,
         "qs_pg:id":288203
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125824043
     ],
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":404571823,
-    "wof:lastmodified":1684351763,
+    "wof:lastmodified":1695878957,
     "wof:name":"Valangin",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",

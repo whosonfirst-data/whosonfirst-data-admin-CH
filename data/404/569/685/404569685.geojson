@@ -22,6 +22,18 @@
     "geom:latitude":47.404767,
     "geom:longitude":7.163096,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.403673,
     "lbl:longitude":7.165612,
     "lbl:max_zoom":18.0,
@@ -119,11 +131,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6782",
+        "chgov:number_qualified":"2606782",
         "eg:gisco_id":"CH_CH6782",
         "eurostat:nuts_2021_id":"CH6782",
         "gn:id":7285561,
         "qs_pg:id":671251
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125859641
     ],
@@ -143,7 +161,7 @@
         }
     ],
     "wof:id":404569685,
-    "wof:lastmodified":1684351736,
+    "wof:lastmodified":1695878926,
     "wof:name":"Cornol",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",

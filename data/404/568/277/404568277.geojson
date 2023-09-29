@@ -22,6 +22,18 @@
     "geom:latitude":47.129679,
     "geom:longitude":9.458427,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.134588,
     "lbl:longitude":9.457244,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3275",
+        "chgov:number_qualified":"1703275",
         "eg:gisco_id":"CH_CH3275",
         "eurostat:nuts_2021_id":"CH3275",
         "gn:id":7287160,
         "gp:id":12684402,
         "qs_pg:id":1197358
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854265
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404568277,
-    "wof:lastmodified":1684351715,
+    "wof:lastmodified":1695878901,
     "wof:name":"Sevelen",
     "wof:parent_id":102062755,
     "wof:placetype":"localadmin",

@@ -521,20 +521,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"22",
         "digitalenvoy:region_code":10181,
         "eurostat:nuts_2021_id":"CH011",
         "fips:code":"SZ23",
         "gn:id":2658182,
         "gp:id":2347105,
         "hasc:id":"CH.VD",
+        "iso:code":"CH-VD",
         "iso:id":"CH-VD",
         "wd:id":"Q12771"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2284d336813800be2c1841127c6453f4",
+    "wof:geomhash":"70fa6a7d284b2c142deb79fd1e9a6a87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -556,7 +562,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865977,
+    "wof:lastmodified":1695885196,
     "wof:name":"Vaud",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

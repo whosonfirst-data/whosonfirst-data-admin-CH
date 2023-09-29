@@ -22,6 +22,18 @@
     "geom:latitude":47.412126,
     "geom:longitude":7.912334,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.411552,
     "lbl:longitude":7.909905,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2868",
+        "chgov:number_qualified":"1302868",
         "eg:gisco_id":"CH_CH2868",
         "eurostat:nuts_2021_id":"CH2868",
         "gn:id":7287625,
         "gp:id":12684660,
         "qs_pg:id":539074
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125823881
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404570299,
-    "wof:lastmodified":1684351745,
+    "wof:lastmodified":1695878935,
     "wof:name":"Zeglingen",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",

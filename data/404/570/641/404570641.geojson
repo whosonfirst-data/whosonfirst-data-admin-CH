@@ -22,6 +22,18 @@
     "geom:latitude":46.573437,
     "geom:longitude":6.480801,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.57423,
     "lbl:longitude":6.481141,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5654",
+        "chgov:number_qualified":"2205654",
         "eg:gisco_id":"CH_CH5654",
         "eurostat:nuts_2021_id":"CH5654",
         "gn:id":7287511,
         "gp:id":12684594,
         "qs_pg:id":261687
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125768187
     ],
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404570641,
-    "wof:lastmodified":1684351749,
+    "wof:lastmodified":1695878939,
     "wof:name":"Vullierens",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

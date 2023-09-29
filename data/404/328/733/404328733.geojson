@@ -22,6 +22,18 @@
     "geom:latitude":46.235767,
     "geom:longitude":6.119197,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.236014,
     "lbl:longitude":6.120683,
     "lbl:max_zoom":18.0,
@@ -138,12 +150,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6623",
+        "chgov:number_qualified":"2506623",
         "eg:gisco_id":"CH_CH6623",
         "eurostat:nuts_2021_id":"CH6623",
         "gn:id":7286302,
         "gp:id":12682820,
         "qs_pg:id":466644
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":404328733,
-    "wof:lastmodified":1684351700,
+    "wof:lastmodified":1695878884,
     "wof:name":"Le Grand-Saconnex",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",

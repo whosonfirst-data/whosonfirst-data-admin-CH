@@ -22,6 +22,18 @@
     "geom:latitude":47.013784,
     "geom:longitude":7.016375,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.013349,
     "lbl:longitude":7.019947,
     "lbl:max_zoom":18.0,
@@ -78,12 +90,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6461",
+        "chgov:number_qualified":"2406461",
         "eg:gisco_id":"CH_CH6461",
         "eurostat:nuts_2021_id":"CH6461",
         "gn:id":7286272,
         "gp:id":56071076,
         "qs_pg:id":1206460
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -98,7 +116,7 @@
         }
     ],
     "wof:id":1175611237,
-    "wof:lastmodified":1684351776,
+    "wof:lastmodified":1695878972,
     "wof:name":"La T\u00e8ne",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",

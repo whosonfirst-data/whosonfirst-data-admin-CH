@@ -22,6 +22,18 @@
     "geom:latitude":46.947069,
     "geom:longitude":8.011436,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.948186,
     "lbl:longitude":8.010507,
     "lbl:max_zoom":18.0,
@@ -139,12 +151,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1008",
+        "chgov:number_qualified":"0301008",
         "eg:gisco_id":"CH_CH1008",
         "eurostat:nuts_2021_id":"CH1008",
         "gn:id":7287117,
         "gp:id":12683827,
         "qs_pg:id":43623
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854039
     ],
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":404328183,
-    "wof:lastmodified":1684351691,
+    "wof:lastmodified":1695878874,
     "wof:name":"Sch\u00fcpfheim",
     "wof:parent_id":1394137073,
     "wof:placetype":"localadmin",

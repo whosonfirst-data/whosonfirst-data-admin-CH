@@ -22,6 +22,18 @@
     "geom:latitude":47.190982,
     "geom:longitude":8.42011,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.18599,
     "lbl:longitude":8.414056,
     "lbl:max_zoom":18.0,
@@ -132,12 +144,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1703",
+        "chgov:number_qualified":"0901703",
         "eg:gisco_id":"CH_CH1703",
         "eurostat:nuts_2021_id":"CH1703",
         "gn:id":7286121,
         "gp:id":12683710,
         "qs_pg:id":1197160
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126032575
     ],
@@ -157,7 +175,7 @@
         }
     ],
     "wof:id":404328281,
-    "wof:lastmodified":1684351693,
+    "wof:lastmodified":1695878876,
     "wof:name":"H\u00fcnenberg",
     "wof:parent_id":102063067,
     "wof:placetype":"localadmin",

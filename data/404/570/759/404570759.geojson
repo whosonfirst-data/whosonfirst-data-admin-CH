@@ -22,6 +22,18 @@
     "geom:latitude":47.113091,
     "geom:longitude":7.8029,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.112987,
     "lbl:longitude":7.803196,
     "lbl:max_zoom":18.0,
@@ -131,11 +143,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0339",
+        "chgov:number_qualified":"0200339",
         "eg:gisco_id":"CH_CH0339",
         "eurostat:nuts_2021_id":"CH0339",
         "gn:id":7286933,
         "qs_pg:id":106666
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1243203357
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404570759,
-    "wof:lastmodified":1684351750,
+    "wof:lastmodified":1695878941,
     "wof:name":"Rohrbachgraben",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",

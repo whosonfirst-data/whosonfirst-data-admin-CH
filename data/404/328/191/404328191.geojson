@@ -22,6 +22,18 @@
     "geom:latitude":47.349253,
     "geom:longitude":7.6769,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.352646,
     "lbl:longitude":7.675568,
     "lbl:max_zoom":18.0,
@@ -135,9 +147,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2428",
+        "chgov:number_qualified":"1102428",
         "eg:gisco_id":"CH_CH2428",
         "eurostat:nuts_2021_id":"CH2428"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404328191,
-    "wof:lastmodified":1684351691,
+    "wof:lastmodified":1695878874,
     "wof:name":"M\u00fcmliswil-Ramiswil",
     "wof:parent_id":1394137083,
     "wof:placetype":"localadmin",

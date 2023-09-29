@@ -22,6 +22,18 @@
     "geom:latitude":46.862435,
     "geom:longitude":9.32992,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.875193,
     "lbl:longitude":9.3255,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3734",
+        "chgov:number_qualified":"1803734",
         "eg:gisco_id":"CH_CH3734",
         "eurostat:nuts_2021_id":"CH3734",
         "gn:id":7287336,
         "gp:id":12683312,
         "qs_pg:id":1197064
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125891367
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404568043,
-    "wof:lastmodified":1684351710,
+    "wof:lastmodified":1695878896,
     "wof:name":"Trin",
     "wof:parent_id":102062839,
     "wof:placetype":"localadmin",

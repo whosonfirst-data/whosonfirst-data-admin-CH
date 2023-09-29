@@ -22,6 +22,18 @@
     "geom:latitude":46.553426,
     "geom:longitude":6.550771,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.554213,
     "lbl:longitude":6.552153,
     "lbl:max_zoom":18.0,
@@ -78,11 +90,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5624",
+        "chgov:number_qualified":"2205624",
         "eg:gisco_id":"CH_CH5624",
         "eurostat:nuts_2021_id":"CH5624",
         "gp:id":12683109,
         "qs_pg:id":241238
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126016077
     ],
@@ -102,7 +120,7 @@
         }
     ],
     "wof:id":404571323,
-    "wof:lastmodified":1684351757,
+    "wof:lastmodified":1695878950,
     "wof:name":"Bussigny",
     "wof:parent_id":102062829,
     "wof:placetype":"localadmin",

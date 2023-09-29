@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059941,
-    "geom:area_square_m":505382501.636208,
+    "geom:area_square_m":505382501.636212,
     "geom:bbox":"8.46486,46.885286,8.971633,47.136679",
     "geom:latitude":47.010667,
     "geom:longitude":8.73149,
@@ -252,12 +252,15 @@
         85682305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"0506"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1e7feed23c9e92bd333b288398b9a7d6",
+    "wof:geomhash":"4453f2ea589e96b9398f7ff93837f1e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -267,7 +270,7 @@
         }
     ],
     "wof:id":102062887,
-    "wof:lastmodified":1636413496,
+    "wof:lastmodified":1695886441,
     "wof:name":"Schwyz",
     "wof:parent_id":85682305,
     "wof:placetype":"county",

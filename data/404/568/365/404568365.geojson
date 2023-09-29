@@ -22,6 +22,18 @@
     "geom:latitude":46.886581,
     "geom:longitude":9.739465,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.876185,
     "lbl:longitude":9.74684,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3861",
+        "chgov:number_qualified":"1803861",
         "eg:gisco_id":"CH_CH3861",
         "eurostat:nuts_2021_id":"CH3861",
         "gn:id":7285818,
         "gp:id":12683460,
         "qs_pg:id":671314
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126038179
     ],
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":404568365,
-    "wof:lastmodified":1684351717,
+    "wof:lastmodified":1695878903,
     "wof:name":"Fideris",
     "wof:parent_id":102062803,
     "wof:placetype":"localadmin",

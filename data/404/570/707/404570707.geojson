@@ -22,6 +22,18 @@
     "geom:latitude":47.474826,
     "geom:longitude":8.672417,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.472578,
     "lbl:longitude":8.670022,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0213",
+        "chgov:number_qualified":"0100213",
         "eg:gisco_id":"CH_CH0213",
         "eurostat:nuts_2021_id":"CH0213",
         "gn:id":7285359,
         "gp:id":12683036,
         "qs_pg:id":1015638
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125884635
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404570707,
-    "wof:lastmodified":1684351749,
+    "wof:lastmodified":1695878940,
     "wof:name":"Br\u00fctten",
     "wof:parent_id":102063055,
     "wof:placetype":"localadmin",

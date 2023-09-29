@@ -22,6 +22,18 @@
     "geom:latitude":46.753193,
     "geom:longitude":7.036216,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.752756,
     "lbl:longitude":7.036562,
     "lbl:max_zoom":18.0,
@@ -95,12 +107,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2186",
+        "chgov:number_qualified":"1002186",
         "eg:gisco_id":"CH_CH2186",
         "eurostat:nuts_2021_id":"CH2186",
         "gn:id":7285571,
         "gp:id":20075581,
         "qs_pg:id":671256
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125882563
     ],
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":404571265,
-    "wof:lastmodified":1684351756,
+    "wof:lastmodified":1695878949,
     "wof:name":"Cottens",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",

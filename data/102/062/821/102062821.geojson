@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067339,
-    "geom:area_square_m":573398187.631682,
+    "geom:area_square_m":573398187.631733,
     "geom:bbox":"7.192548,46.326468,7.555274,46.65584",
     "geom:latitude":46.47793,
     "geom:longitude":7.361065,
@@ -78,12 +78,15 @@
         85682381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"0248"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"90c30c1a6bdfdaf745bcea9056eae923",
+    "wof:geomhash":"b1e6f655759c3ac38cef9399a17941af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":102062821,
-    "wof:lastmodified":1627521994,
+    "wof:lastmodified":1695886470,
     "wof:name":"Obersimmental-Saanen",
     "wof:parent_id":85682381,
     "wof:placetype":"county",

@@ -22,6 +22,18 @@
     "geom:latitude":46.669781,
     "geom:longitude":6.424331,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.670748,
     "lbl:longitude":6.424331,
     "lbl:max_zoom":18.0,
@@ -113,12 +125,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5758",
+        "chgov:number_qualified":"2205758",
         "eg:gisco_id":"CH_CH5758",
         "eurostat:nuts_2021_id":"CH5758",
         "gn:id":7286265,
         "gp:id":12683808,
         "qs_pg:id":1169947
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125958551
     ],
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":404571211,
-    "wof:lastmodified":1684351756,
+    "wof:lastmodified":1695878948,
     "wof:name":"La Praz",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

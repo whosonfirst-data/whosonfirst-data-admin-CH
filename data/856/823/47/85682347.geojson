@@ -541,20 +541,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"26",
         "digitalenvoy:region_code":19579,
         "eurostat:nuts_2021_id":"CH025",
         "fips:code":"SZ26",
         "gn:id":2660207,
         "gp:id":2347108,
         "hasc:id":"CH.JU",
+        "iso:code":"CH-JU",
         "iso:id":"CH-JU",
         "wd:id":"Q12755"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d87f70f65ce9c50acd804a804b82d383",
+    "wof:geomhash":"2f087f57abd94ef3f627d9e64d4b0ab2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -576,7 +582,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865977,
+    "wof:lastmodified":1695885198,
     "wof:name":"Jura",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

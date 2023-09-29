@@ -22,6 +22,18 @@
     "geom:latitude":46.528899,
     "geom:longitude":6.848128,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.529264,
     "lbl:longitude":6.84812,
     "lbl:max_zoom":18.0,
@@ -121,9 +133,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2323",
+        "chgov:number_qualified":"1002323",
         "eg:gisco_id":"CH_CH2323",
         "eurostat:nuts_2021_id":"CH2323"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125771621
     ],
@@ -142,7 +160,7 @@
         }
     ],
     "wof:id":404571649,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878955,
     "wof:name":"Bossonnens",
     "wof:parent_id":102063025,
     "wof:placetype":"localadmin",

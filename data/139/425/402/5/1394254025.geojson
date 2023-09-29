@@ -22,6 +22,18 @@
     "geom:latitude":46.630036,
     "geom:longitude":9.764369,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.616759,
     "lbl:longitude":9.76438,
     "lbl:max_zoom":18.0,
@@ -67,9 +79,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3544",
         "eg:gisco_id":"CH_CH3544",
         "eurostat:nuts_2021_id":"CH3544"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"59ad17f673daf481883f9f4f489f2bd6",
     "wof:hierarchy":[
@@ -82,7 +96,7 @@
         }
     ],
     "wof:id":1394254025,
-    "wof:lastmodified":1684351779,
+    "wof:lastmodified":1695878975,
     "wof:name":"Berg\u00fcn Filisur",
     "wof:parent_id":102062885,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.536639,
     "geom:longitude":7.567846,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.537025,
     "lbl:longitude":7.567846,
     "lbl:max_zoom":18.0,
@@ -89,11 +101,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2765",
+        "chgov:number_qualified":"1302765",
         "eg:gisco_id":"CH_CH2765",
         "eurostat:nuts_2021_id":"CH2765",
         "gn:id":7285248,
         "qs_pg:id":1040450
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394290481
     ],
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":404571475,
-    "wof:lastmodified":1684351759,
+    "wof:lastmodified":1695878952,
     "wof:name":"Binningen",
     "wof:parent_id":102062971,
     "wof:placetype":"localadmin",

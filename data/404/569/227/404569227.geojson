@@ -22,6 +22,18 @@
     "geom:latitude":47.39339,
     "geom:longitude":8.058175,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.3885,
     "lbl:longitude":8.047304,
     "lbl:max_zoom":18.0,
@@ -286,9 +298,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4001",
+        "chgov:number_qualified":"1904001",
         "eg:gisco_id":"CH_CH4001",
         "eurostat:nuts_2021_id":"CH4001"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -304,7 +322,7 @@
         }
     ],
     "wof:id":404569227,
-    "wof:lastmodified":1684351732,
+    "wof:lastmodified":1695878920,
     "wof:name":"Aarau",
     "wof:parent_id":102062989,
     "wof:placetype":"localadmin",

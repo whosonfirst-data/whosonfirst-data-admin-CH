@@ -22,6 +22,18 @@
     "geom:latitude":47.516439,
     "geom:longitude":9.224677,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.514515,
     "lbl:longitude":9.224306,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4495",
+        "chgov:number_qualified":"2004495",
         "eg:gisco_id":"CH_CH4495",
         "eurostat:nuts_2021_id":"CH4495",
         "gn:id":7286100,
         "gp:id":22757888,
         "qs_pg:id":106587
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404570253,
-    "wof:lastmodified":1684351744,
+    "wof:lastmodified":1695878934,
     "wof:name":"Hohentannen",
     "wof:parent_id":102062955,
     "wof:placetype":"localadmin",

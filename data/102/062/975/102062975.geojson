@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069011,
-    "geom:area_square_m":590394494.152723,
+    "geom:area_square_m":590394494.152752,
     "geom:bbox":"8.463927,46.075321,8.942732,46.406061",
     "geom:latitude":46.222068,
     "geom:longitude":8.755236,
@@ -239,12 +239,15 @@
     "wof:breaches":[
         102062957
     ],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"2104"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"19dc1449860261b688fb24f806f424e7",
+    "wof:geomhash":"373903e68678557b5e94ddefa21cf1dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -254,7 +257,7 @@
         }
     ],
     "wof:id":102062975,
-    "wof:lastmodified":1612224523,
+    "wof:lastmodified":1695886479,
     "wof:name":"Locarno",
     "wof:parent_id":85682269,
     "wof:placetype":"county",

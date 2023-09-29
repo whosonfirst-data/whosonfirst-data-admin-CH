@@ -22,6 +22,18 @@
     "geom:latitude":46.03737,
     "geom:longitude":8.944368,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.037543,
     "lbl:longitude":8.943882,
     "lbl:max_zoom":18.0,
@@ -124,9 +136,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5180",
+        "chgov:number_qualified":"2105180",
         "eg:gisco_id":"CH_CH5180",
         "eurostat:nuts_2021_id":"CH5180"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125977015
     ],
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":404573421,
-    "wof:lastmodified":1684351774,
+    "wof:lastmodified":1695878969,
     "wof:name":"Cureglia",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

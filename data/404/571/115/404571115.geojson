@@ -22,6 +22,18 @@
     "geom:latitude":46.586046,
     "geom:longitude":6.511954,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.584678,
     "lbl:longitude":6.513789,
     "lbl:max_zoom":18.0,
@@ -113,11 +125,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5484",
+        "chgov:number_qualified":"2205484",
         "eg:gisco_id":"CH_CH5484",
         "eurostat:nuts_2021_id":"CH5484",
         "gp:id":12683566,
         "qs_pg:id":1263936
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125855019
     ],
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":404571115,
-    "wof:lastmodified":1684351755,
+    "wof:lastmodified":1695878947,
     "wof:name":"Gollion",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.577027,
     "geom:longitude":9.337978,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.578183,
     "lbl:longitude":9.338246,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4451",
+        "chgov:number_qualified":"2004451",
         "eg:gisco_id":"CH_CH4451",
         "eurostat:nuts_2021_id":"CH4451",
         "gn:id":7287399,
         "gp:id":12684552,
         "qs_pg:id":1026187
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404571541,
-    "wof:lastmodified":1684351760,
+    "wof:lastmodified":1695878953,
     "wof:name":"Uttwil",
     "wof:parent_id":102062959,
     "wof:placetype":"localadmin",

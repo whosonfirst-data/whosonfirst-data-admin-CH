@@ -22,6 +22,18 @@
     "geom:latitude":47.424937,
     "geom:longitude":7.548791,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.426184,
     "lbl:longitude":7.553918,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2782",
+        "chgov:number_qualified":"1302782",
         "eg:gisco_id":"CH_CH2782",
         "eurostat:nuts_2021_id":"CH2782",
         "gn:id":7285339,
         "gp:id":12683050,
         "qs_pg:id":426055
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125860365
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404569921,
-    "wof:lastmodified":1684351740,
+    "wof:lastmodified":1695878929,
     "wof:name":"Brislach",
     "wof:parent_id":102062757,
     "wof:placetype":"localadmin",

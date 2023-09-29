@@ -22,6 +22,18 @@
     "geom:latitude":47.229531,
     "geom:longitude":8.339179,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.228157,
     "lbl:longitude":8.338627,
     "lbl:max_zoom":18.0,
@@ -107,11 +119,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4224",
+        "chgov:number_qualified":"1904224",
         "eg:gisco_id":"CH_CH4224",
         "eurostat:nuts_2021_id":"CH4224",
         "gn:id":7285182,
         "qs_pg:id":1154228
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1343891999
     ],
@@ -131,7 +149,7 @@
         }
     ],
     "wof:id":404569493,
-    "wof:lastmodified":1684351735,
+    "wof:lastmodified":1695878923,
     "wof:name":"Beinwil",
     "wof:parent_id":102062809,
     "wof:placetype":"localadmin",

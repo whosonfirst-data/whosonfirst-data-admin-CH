@@ -22,6 +22,18 @@
     "geom:latitude":46.967392,
     "geom:longitude":8.422923,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.965431,
     "lbl:longitude":8.425097,
     "lbl:max_zoom":18.0,
@@ -141,12 +153,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1502",
+        "chgov:number_qualified":"0701502",
         "eg:gisco_id":"CH_CH1502",
         "eurostat:nuts_2021_id":"CH1502",
         "gn:id":7285384,
         "gp:id":12683088,
         "qs_pg:id":221383
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853921
     ],
@@ -166,7 +184,7 @@
         }
     ],
     "wof:id":404328389,
-    "wof:lastmodified":1684351695,
+    "wof:lastmodified":1695878879,
     "wof:name":"Buochs",
     "wof:parent_id":102062973,
     "wof:placetype":"localadmin",

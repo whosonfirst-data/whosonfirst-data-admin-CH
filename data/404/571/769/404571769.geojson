@@ -22,6 +22,18 @@
     "geom:latitude":46.475372,
     "geom:longitude":6.336421,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.47598,
     "lbl:longitude":6.334778,
     "lbl:max_zoom":18.0,
@@ -116,12 +128,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5859",
+        "chgov:number_qualified":"2205859",
         "eg:gisco_id":"CH_CH5859",
         "eurostat:nuts_2021_id":"CH5859",
         "gn:id":7286545,
         "gp:id":12683999,
         "qs_pg:id":380120
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125902881
     ],
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":404571769,
-    "wof:lastmodified":1684351763,
+    "wof:lastmodified":1695878957,
     "wof:name":"Mont-sur-Rolle",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

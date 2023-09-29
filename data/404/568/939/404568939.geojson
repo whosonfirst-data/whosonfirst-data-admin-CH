@@ -22,6 +22,18 @@
     "geom:latitude":47.221321,
     "geom:longitude":7.183759,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.222784,
     "lbl:longitude":7.184401,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0713",
+        "chgov:number_qualified":"0200713",
         "eg:gisco_id":"CH_CH0713",
         "eurostat:nuts_2021_id":"CH0713",
         "gn:id":7287284,
         "gp:id":12684482,
         "qs_pg:id":198368
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854065
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404568939,
-    "wof:lastmodified":1684351727,
+    "wof:lastmodified":1695878915,
     "wof:name":"Tavannes",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",

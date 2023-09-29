@@ -22,6 +22,18 @@
     "geom:latitude":46.369576,
     "geom:longitude":6.979768,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.365919,
     "lbl:longitude":6.977125,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5404",
+        "chgov:number_qualified":"2205404",
         "eg:gisco_id":"CH_CH5404",
         "eurostat:nuts_2021_id":"CH5404",
         "gn:id":7285547,
         "gp:id":12683235,
         "qs_pg:id":1093257
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125997015
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404568527,
-    "wof:lastmodified":1684351720,
+    "wof:lastmodified":1695878906,
     "wof:name":"Corbeyrier",
     "wof:parent_id":102062783,
     "wof:placetype":"localadmin",

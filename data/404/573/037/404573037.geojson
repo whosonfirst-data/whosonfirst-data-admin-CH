@@ -22,6 +22,18 @@
     "geom:latitude":47.453053,
     "geom:longitude":7.828846,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.453854,
     "lbl:longitude":7.828643,
     "lbl:max_zoom":18.0,
@@ -128,11 +140,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2864",
+        "chgov:number_qualified":"1302864",
         "eg:gisco_id":"CH_CH2864",
         "eurostat:nuts_2021_id":"CH2864",
         "gp:id":12685214,
         "qs_pg:id":111820
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126044777
     ],
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":404573037,
-    "wof:lastmodified":1684351770,
+    "wof:lastmodified":1695878965,
     "wof:name":"Th\u00fcrnen",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",

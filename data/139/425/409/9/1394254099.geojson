@@ -22,6 +22,18 @@
     "geom:latitude":46.825379,
     "geom:longitude":7.089806,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.824018,
     "lbl:longitude":7.092715,
     "lbl:max_zoom":18.0,
@@ -112,9 +124,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2175",
         "eg:gisco_id":"CH_CH2175",
         "eurostat:nuts_2021_id":"CH2175"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"c375f2587036433c95273c0ebf73ad2d",
     "wof:hierarchy":[
@@ -127,7 +141,7 @@
         }
     ],
     "wof:id":1394254099,
-    "wof:lastmodified":1684351781,
+    "wof:lastmodified":1695878978,
     "wof:name":"Belfaux",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",

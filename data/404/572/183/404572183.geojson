@@ -22,6 +22,18 @@
     "geom:latitude":46.003235,
     "geom:longitude":8.815632,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.003301,
     "lbl:longitude":8.81265,
     "lbl:max_zoom":18.0,
@@ -92,12 +104,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5222",
+        "chgov:number_qualified":"2105222",
         "eg:gisco_id":"CH_CH5222",
         "eurostat:nuts_2021_id":"CH5222",
         "gn:id":7287157,
         "gp:id":12684400,
         "qs_pg:id":1315129
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126016751
     ],
@@ -117,7 +135,7 @@
         }
     ],
     "wof:id":404572183,
-    "wof:lastmodified":1684351767,
+    "wof:lastmodified":1695878962,
     "wof:name":"Sessa",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

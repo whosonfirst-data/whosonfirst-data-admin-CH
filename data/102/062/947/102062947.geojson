@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017318,
-    "geom:area_square_m":144827606.351391,
+    "geom:area_square_m":144827606.351385,
     "geom:bbox":"9.003581,47.347782,9.245445,47.504082",
     "geom:latitude":47.443634,
     "geom:longitude":9.144032,
@@ -180,12 +180,15 @@
         85682341
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"1728"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7649fd4411f3405b05ee1717b492e073",
+    "wof:geomhash":"fb2d37b7b0a50c68908f0866c328e55d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":102062947,
-    "wof:lastmodified":1612224531,
+    "wof:lastmodified":1695886491,
     "wof:name":"Wil",
     "wof:parent_id":85682341,
     "wof:placetype":"county",

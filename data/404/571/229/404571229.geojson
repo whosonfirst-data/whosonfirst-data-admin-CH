@@ -22,6 +22,18 @@
     "geom:latitude":46.804228,
     "geom:longitude":6.554689,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.802647,
     "lbl:longitude":6.555041,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5766",
+        "chgov:number_qualified":"2205766",
         "eg:gisco_id":"CH_CH5766",
         "eurostat:nuts_2021_id":"CH5766",
         "gn:id":7287509,
         "gp:id":12684187,
         "qs_pg:id":493272
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125919985
     ],
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404571229,
-    "wof:lastmodified":1684351756,
+    "wof:lastmodified":1695878949,
     "wof:name":"Vuiteboeuf",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

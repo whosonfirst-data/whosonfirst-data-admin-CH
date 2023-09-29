@@ -22,6 +22,18 @@
     "geom:latitude":47.09006,
     "geom:longitude":9.222946,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.099295,
     "lbl:longitude":9.224208,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3295",
+        "chgov:number_qualified":"1703295",
         "eg:gisco_id":"CH_CH3295",
         "eurostat:nuts_2021_id":"CH3295",
         "gn:id":7286845,
         "gp:id":12683995,
         "qs_pg:id":671525
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404567859,
-    "wof:lastmodified":1684351706,
+    "wof:lastmodified":1695878891,
     "wof:name":"Quarten",
     "wof:parent_id":102062963,
     "wof:placetype":"localadmin",

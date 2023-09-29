@@ -22,6 +22,18 @@
     "geom:latitude":46.135378,
     "geom:longitude":7.972831,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.131545,
     "lbl:longitude":7.968883,
     "lbl:max_zoom":18.0,
@@ -140,11 +152,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6291",
+        "chgov:number_qualified":"2306291",
         "eg:gisco_id":"CH_CH6291",
         "eurostat:nuts_2021_id":"CH6291",
         "gn:id":7287009,
         "qs_pg:id":671573
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125851441
     ],
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":404568399,
-    "wof:lastmodified":1684351718,
+    "wof:lastmodified":1695878904,
     "wof:name":"Saas-Grund",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",

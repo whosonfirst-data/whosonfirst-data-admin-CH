@@ -22,6 +22,18 @@
     "geom:latitude":47.502904,
     "geom:longitude":8.375049,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.501925,
     "lbl:longitude":8.37193,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0091",
+        "chgov:number_qualified":"0100091",
         "eg:gisco_id":"CH_CH0091",
         "eurostat:nuts_2021_id":"CH0091",
         "gn:id":7286654,
         "gp:id":12684089,
         "qs_pg:id":1019827
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1108980065
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404570639,
-    "wof:lastmodified":1684351749,
+    "wof:lastmodified":1695878939,
     "wof:name":"Niederweningen",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",

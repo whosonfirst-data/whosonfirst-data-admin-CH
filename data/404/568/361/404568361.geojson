@@ -22,6 +22,18 @@
     "geom:latitude":45.892865,
     "geom:longitude":9.046713,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.895552,
     "lbl:longitude":9.059787,
     "lbl:max_zoom":18.0,
@@ -62,11 +74,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5269",
+        "chgov:number_qualified":"2105269",
         "eg:gisco_id":"CH_CH5269",
         "eurostat:nuts_2021_id":"CH5269",
         "gn:id":8260342,
         "qs_pg:id":760519
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -83,7 +101,7 @@
         }
     ],
     "wof:id":404568361,
-    "wof:lastmodified":1684351717,
+    "wof:lastmodified":1695878903,
     "wof:name":"Breggia",
     "wof:parent_id":102063063,
     "wof:placetype":"localadmin",

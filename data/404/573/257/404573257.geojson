@@ -22,6 +22,18 @@
     "geom:latitude":47.491467,
     "geom:longitude":7.798473,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.491662,
     "lbl:longitude":7.798471,
     "lbl:max_zoom":18.0,
@@ -133,9 +145,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2854",
+        "chgov:number_qualified":"1302854",
         "eg:gisco_id":"CH_CH2854",
         "eurostat:nuts_2021_id":"CH2854"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126016185
     ],
@@ -154,7 +172,7 @@
         }
     ],
     "wof:id":404573257,
-    "wof:lastmodified":1684351772,
+    "wof:lastmodified":1695878967,
     "wof:name":"Nusshof",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",

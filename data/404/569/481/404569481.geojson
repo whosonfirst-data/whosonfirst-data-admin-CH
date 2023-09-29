@@ -22,6 +22,18 @@
     "geom:latitude":47.071776,
     "geom:longitude":7.857645,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.072456,
     "lbl:longitude":7.857221,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0953",
+        "chgov:number_qualified":"0200953",
         "eg:gisco_id":"CH_CH0953",
         "eurostat:nuts_2021_id":"CH0953",
         "gn:id":7285746,
         "gp:id":12683400,
         "qs_pg:id":671299
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125770615
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404569481,
-    "wof:lastmodified":1684351734,
+    "wof:lastmodified":1695878923,
     "wof:name":"Eriswil",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",

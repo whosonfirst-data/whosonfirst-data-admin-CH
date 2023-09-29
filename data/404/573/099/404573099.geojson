@@ -22,6 +22,18 @@
     "geom:latitude":46.316856,
     "geom:longitude":6.136681,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.316267,
     "lbl:longitude":6.136852,
     "lbl:max_zoom":18.0,
@@ -122,11 +134,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5708",
+        "chgov:number_qualified":"2205708",
         "eg:gisco_id":"CH_CH5708",
         "eurostat:nuts_2021_id":"CH5708",
         "gp:id":20075624,
         "qs_pg:id":248173
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1259419517
     ],
@@ -146,7 +164,7 @@
         }
     ],
     "wof:id":404573099,
-    "wof:lastmodified":1684351770,
+    "wof:lastmodified":1695878965,
     "wof:name":"Chavannes-des-Bois",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

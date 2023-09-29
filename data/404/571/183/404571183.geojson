@@ -22,6 +22,18 @@
     "geom:latitude":47.431759,
     "geom:longitude":8.148425,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.432918,
     "lbl:longitude":8.148108,
     "lbl:max_zoom":18.0,
@@ -168,12 +180,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4120",
+        "chgov:number_qualified":"1904120",
         "eg:gisco_id":"CH_CH4120",
         "eurostat:nuts_2021_id":"CH4120",
         "gn:id":7287428,
         "gp:id":12685240,
         "qs_pg:id":44123
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125871099
     ],
@@ -193,7 +211,7 @@
         }
     ],
     "wof:id":404571183,
-    "wof:lastmodified":1684351755,
+    "wof:lastmodified":1695878948,
     "wof:name":"Veltheim",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",

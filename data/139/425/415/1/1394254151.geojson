@@ -20,6 +20,18 @@
     "geom:latitude":46.993151,
     "geom:longitude":7.038471,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.993134,
     "lbl:longitude":7.038469,
     "lbl:max_zoom":18.0,
@@ -46,9 +58,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"9152",
         "eg:gisco_id":"CH_CH9152",
         "eurostat:nuts_2021_id":"CH9152"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"08ca5cbb90fe93da2760ea28f6d28628",
     "wof:hierarchy":[
@@ -61,7 +75,7 @@
         }
     ],
     "wof:id":1394254151,
-    "wof:lastmodified":1684351783,
+    "wof:lastmodified":1695878979,
     "wof:name":"Lac de Neuch\u00e2tel",
     "wof:parent_id":1394212857,
     "wof:placetype":"localadmin",

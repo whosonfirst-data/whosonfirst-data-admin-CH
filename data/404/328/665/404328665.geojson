@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000618,
-    "geom:area_square_m":5286321.054718,
+    "geom:area_square_m":5286321.054719,
     "geom:bbox":"6.14115,46.25168,6.184018,46.275454",
     "geom:latitude":46.263595,
     "geom:longitude":6.161795,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.263603,
     "lbl:longitude":6.161811,
     "lbl:max_zoom":18.0,
@@ -113,15 +125,21 @@
     "wof:belongsto":[
         102191581,
         85633051,
-        102062917,
-        85682291
+        85682291,
+        102062917
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6622",
+        "chgov:number_qualified":"2506622",
         "gn:id":7285904,
         "gp:id":12684765,
         "qs_pg:id":1164928
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125831857
     ],
@@ -130,7 +148,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"dd64eabc273d7db218031f42298745f3",
+    "wof:geomhash":"68938d9155a582a269530dcdf0c3baea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":404328665,
-    "wof:lastmodified":1598920468,
+    "wof:lastmodified":1695878872,
     "wof:name":"Genthod",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",

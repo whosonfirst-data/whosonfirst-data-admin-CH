@@ -22,6 +22,18 @@
     "geom:latitude":47.470546,
     "geom:longitude":8.093078,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.469343,
     "lbl:longitude":8.092696,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4183",
+        "chgov:number_qualified":"1904183",
         "eg:gisco_id":"CH_CH4183",
         "eurostat:nuts_2021_id":"CH4183",
         "gn:id":7287626,
         "gp:id":12684078,
         "qs_pg:id":1019227
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126051229
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404570629,
-    "wof:lastmodified":1684351748,
+    "wof:lastmodified":1695878939,
     "wof:name":"Zeihen",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",

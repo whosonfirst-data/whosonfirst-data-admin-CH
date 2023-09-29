@@ -22,6 +22,18 @@
     "geom:latitude":46.251709,
     "geom:longitude":6.270095,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.247672,
     "lbl:longitude":6.27688,
     "lbl:max_zoom":18.0,
@@ -63,12 +75,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6624",
+        "chgov:number_qualified":"2506624",
         "eg:gisco_id":"CH_CH6624",
         "eurostat:nuts_2021_id":"CH6624",
         "gn:id":7286015,
         "gp:id":12684760,
         "qs_pg:id":952957
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125870367
     ],
@@ -88,7 +106,7 @@
         }
     ],
     "wof:id":404328791,
-    "wof:lastmodified":1684351700,
+    "wof:lastmodified":1695878885,
     "wof:name":"Gy",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.490333,
     "geom:longitude":9.816876,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.48919,
     "lbl:longitude":9.830397,
     "lbl:max_zoom":18.0,
@@ -266,11 +278,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3787",
+        "chgov:number_qualified":"1803787",
         "eg:gisco_id":"CH_CH3787",
         "eurostat:nuts_2021_id":"CH3787",
         "gp:id":12684343,
         "qs_pg:id":1306479
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853961
     ],
@@ -290,7 +308,7 @@
         }
     ],
     "wof:id":404568307,
-    "wof:lastmodified":1684351716,
+    "wof:lastmodified":1695878902,
     "wof:name":"St. Moritz",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",

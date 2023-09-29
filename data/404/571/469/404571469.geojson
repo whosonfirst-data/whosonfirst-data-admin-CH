@@ -22,6 +22,18 @@
     "geom:latitude":47.314427,
     "geom:longitude":8.36594,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.31459,
     "lbl:longitude":8.364373,
     "lbl:max_zoom":18.0,
@@ -139,9 +151,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4238",
+        "chgov:number_qualified":"1904238",
         "eg:gisco_id":"CH_CH4238",
         "eurostat:nuts_2021_id":"CH4238"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1209243223
     ],
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":404571469,
-    "wof:lastmodified":1684351759,
+    "wof:lastmodified":1695878952,
     "wof:name":"Rottenschwil",
     "wof:parent_id":102062809,
     "wof:placetype":"localadmin",

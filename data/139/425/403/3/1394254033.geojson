@@ -22,6 +22,18 @@
     "geom:latitude":46.584159,
     "geom:longitude":9.140566,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.583721,
     "lbl:longitude":9.142233,
     "lbl:max_zoom":18.0,
@@ -94,9 +106,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3603",
         "eg:gisco_id":"CH_CH3603",
         "eurostat:nuts_2021_id":"CH3603"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:coterminous":[
         1125808783
     ],
@@ -112,7 +126,7 @@
         }
     ],
     "wof:id":1394254033,
-    "wof:lastmodified":1684351779,
+    "wof:lastmodified":1695878975,
     "wof:name":"Vals",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",

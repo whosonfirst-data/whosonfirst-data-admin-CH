@@ -22,6 +22,18 @@
     "geom:latitude":46.477846,
     "geom:longitude":6.921973,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.474633,
     "lbl:longitude":6.90887,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5881",
+        "chgov:number_qualified":"2205881",
         "eg:gisco_id":"CH_CH5881",
         "eurostat:nuts_2021_id":"CH5881",
         "gn:id":7285272,
         "gp:id":12682994,
         "qs_pg:id":904142
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853859
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404568831,
-    "wof:lastmodified":1684351725,
+    "wof:lastmodified":1695878913,
     "wof:name":"Blonay",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",

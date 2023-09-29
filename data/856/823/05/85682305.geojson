@@ -493,20 +493,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"05",
         "digitalenvoy:region_code":19667,
         "eurostat:nuts_2021_id":"CH063",
         "fips:code":"SZ17",
         "gn:id":2658664,
         "gp:id":2347099,
         "hasc:id":"CH.SZ",
+        "iso:code":"CH-SZ",
         "iso:id":"CH-SZ",
         "wd:id":"Q12433"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b366c92c5812677efd11c7aebcbd771",
+    "wof:geomhash":"79d9620d2b85b42ad709a9b4f4cc5a0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -528,7 +534,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865969,
+    "wof:lastmodified":1695885195,
     "wof:name":"Schwyz",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

@@ -22,6 +22,18 @@
     "geom:latitude":47.592828,
     "geom:longitude":8.675456,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.597079,
     "lbl:longitude":8.666749,
     "lbl:max_zoom":18.0,
@@ -104,12 +116,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0030",
+        "chgov:number_qualified":"0100030",
         "eg:gisco_id":"CH_CH0030",
         "eurostat:nuts_2021_id":"CH0030",
         "gn:id":7285076,
         "gp:id":12682799,
         "qs_pg:id":1196171
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125970363
     ],
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":404570671,
-    "wof:lastmodified":1684351749,
+    "wof:lastmodified":1695878940,
     "wof:name":"Andelfingen",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",

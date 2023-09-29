@@ -22,6 +22,18 @@
     "geom:latitude":46.912113,
     "geom:longitude":7.471547,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.912101,
     "lbl:longitude":7.471817,
     "lbl:max_zoom":18.0,
@@ -146,11 +158,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0870",
+        "chgov:number_qualified":"0200870",
         "eg:gisco_id":"CH_CH0870",
         "eurostat:nuts_2021_id":"CH0870",
         "gn:id":7286184,
         "qs_pg:id":1154279
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394289125
     ],
@@ -170,7 +188,7 @@
         }
     ],
     "wof:id":404571493,
-    "wof:lastmodified":1684351759,
+    "wof:lastmodified":1695878952,
     "wof:name":"Kehrsatz",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

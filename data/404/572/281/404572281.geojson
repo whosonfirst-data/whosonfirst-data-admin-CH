@@ -22,6 +22,18 @@
     "geom:latitude":47.309504,
     "geom:longitude":8.290136,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.312521,
     "lbl:longitude":8.292886,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4233",
+        "chgov:number_qualified":"1904233",
         "eg:gisco_id":"CH_CH4233",
         "eurostat:nuts_2021_id":"CH4233",
         "gn:id":7286173,
         "gp:id":12685077,
         "qs_pg:id":273242
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394297917
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404572281,
-    "wof:lastmodified":1684351768,
+    "wof:lastmodified":1695878963,
     "wof:name":"Kallern",
     "wof:parent_id":102062809,
     "wof:placetype":"localadmin",

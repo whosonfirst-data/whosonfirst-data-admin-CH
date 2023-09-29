@@ -22,6 +22,18 @@
     "geom:latitude":46.654274,
     "geom:longitude":6.775039,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.654706,
     "lbl:longitude":6.77489,
     "lbl:max_zoom":18.0,
@@ -119,11 +131,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5684",
+        "chgov:number_qualified":"2205684",
         "eg:gisco_id":"CH_CH5684",
         "eurostat:nuts_2021_id":"CH5684",
         "gn:id":7286954,
         "qs_pg:id":671555
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394298141
     ],
@@ -143,7 +161,7 @@
         }
     ],
     "wof:id":404573417,
-    "wof:lastmodified":1684351774,
+    "wof:lastmodified":1695878969,
     "wof:name":"Rossenges",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",

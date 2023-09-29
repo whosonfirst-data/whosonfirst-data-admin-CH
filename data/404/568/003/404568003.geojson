@@ -22,6 +22,18 @@
     "geom:latitude":46.465932,
     "geom:longitude":9.857451,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.403651,
     "lbl:longitude":9.864224,
     "lbl:max_zoom":18.0,
@@ -152,11 +164,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3786",
+        "chgov:number_qualified":"1803786",
         "eg:gisco_id":"CH_CH3786",
         "eurostat:nuts_2021_id":"CH3786",
         "gp:id":12684337,
         "qs_pg:id":1092288
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -173,7 +191,7 @@
         }
     ],
     "wof:id":404568003,
-    "wof:lastmodified":1684351709,
+    "wof:lastmodified":1695878895,
     "wof:name":"Samedan",
     "wof:parent_id":102062857,
     "wof:placetype":"localadmin",

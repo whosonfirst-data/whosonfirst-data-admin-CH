@@ -22,6 +22,18 @@
     "geom:latitude":46.202545,
     "geom:longitude":9.080833,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.196992,
     "lbl:longitude":9.084625,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5001",
+        "chgov:number_qualified":"2105001",
         "eg:gisco_id":"CH_CH5001",
         "eurostat:nuts_2021_id":"CH5001",
         "gn:id":2661732,
         "gp:id":12682811,
         "qs_pg:id":538378
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404568555,
-    "wof:lastmodified":1684351720,
+    "wof:lastmodified":1695878907,
     "wof:name":"Arbedo-Castione",
     "wof:parent_id":102062991,
     "wof:placetype":"localadmin",

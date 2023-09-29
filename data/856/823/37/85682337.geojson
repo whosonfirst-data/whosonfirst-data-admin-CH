@@ -485,20 +485,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"20",
         "digitalenvoy:region_code":10178,
         "eurostat:nuts_2021_id":"CH057",
         "fips:code":"SZ19",
         "gn:id":2658372,
         "gp:id":2347101,
         "hasc:id":"CH.TG",
+        "iso:code":"CH-TG",
         "iso:id":"CH-TG",
         "wd:id":"Q12713"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"500a6cae2beca7131623cae478cfe574",
+    "wof:geomhash":"18f47ad63867c5b477588f8b6d7b7780",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -520,7 +526,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865973,
+    "wof:lastmodified":1695885197,
     "wof:name":"Thurgau",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

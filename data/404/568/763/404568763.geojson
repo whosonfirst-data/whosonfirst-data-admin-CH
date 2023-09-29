@@ -22,6 +22,18 @@
     "geom:latitude":46.960688,
     "geom:longitude":7.627351,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.963016,
     "lbl:longitude":7.630861,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0626",
+        "chgov:number_qualified":"0200626",
         "eg:gisco_id":"CH_CH0626",
         "eurostat:nuts_2021_id":"CH0626",
         "gn:id":7287526,
         "gp:id":12682971,
         "qs_pg:id":1322170
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404568763,
-    "wof:lastmodified":1684351724,
+    "wof:lastmodified":1695878912,
     "wof:name":"Walkringen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.885539,
     "geom:longitude":9.788538,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.885542,
     "lbl:longitude":9.788009,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3881",
+        "chgov:number_qualified":"1803881",
         "eg:gisco_id":"CH_CH3881",
         "eurostat:nuts_2021_id":"CH3881",
         "gn:id":7285542,
         "gp:id":12683228,
         "qs_pg:id":106554
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394298109
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404568681,
-    "wof:lastmodified":1684351723,
+    "wof:lastmodified":1695878910,
     "wof:name":"Conters im Pr\u00e4ttigau",
     "wof:parent_id":102062803,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.003868,
     "geom:longitude":7.318328,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.004686,
     "lbl:longitude":7.315967,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6031",
+        "chgov:number_qualified":"2306031",
         "eg:gisco_id":"CH_CH6031",
         "eurostat:nuts_2021_id":"CH6031",
         "gn:id":7285138,
         "gp:id":12682764,
         "qs_pg:id":1154226
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404567697,
-    "wof:lastmodified":1684351702,
+    "wof:lastmodified":1695878887,
     "wof:name":"Bagnes",
     "wof:parent_id":102062807,
     "wof:placetype":"localadmin",

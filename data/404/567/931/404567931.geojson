@@ -22,6 +22,18 @@
     "geom:latitude":46.398091,
     "geom:longitude":7.338645,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.396308,
     "lbl:longitude":7.339581,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0842",
+        "chgov:number_qualified":"0200842",
         "eg:gisco_id":"CH_CH0842",
         "eurostat:nuts_2021_id":"CH0842",
         "gn:id":7286274,
         "gp:id":12683836,
         "qs_pg:id":245541
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125986559
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404567931,
-    "wof:lastmodified":1684351708,
+    "wof:lastmodified":1695878893,
     "wof:name":"Lauenen",
     "wof:parent_id":102062821,
     "wof:placetype":"localadmin",

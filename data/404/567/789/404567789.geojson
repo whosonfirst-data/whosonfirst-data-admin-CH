@@ -22,6 +22,18 @@
     "geom:latitude":46.054056,
     "geom:longitude":7.966858,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.050393,
     "lbl:longitude":7.968297,
     "lbl:max_zoom":18.0,
@@ -140,11 +152,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6288",
+        "chgov:number_qualified":"2306288",
         "eg:gisco_id":"CH_CH6288",
         "eurostat:nuts_2021_id":"CH6288",
         "gn:id":7287006,
         "qs_pg:id":1154305
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125808747
     ],
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":404567789,
-    "wof:lastmodified":1684351705,
+    "wof:lastmodified":1695878890,
     "wof:name":"Saas-Almagell",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.717672,
     "geom:longitude":6.644696,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.717235,
     "lbl:longitude":6.648481,
     "lbl:max_zoom":18.0,
@@ -116,11 +128,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5520",
+        "chgov:number_qualified":"2205520",
         "eg:gisco_id":"CH_CH5520",
         "eurostat:nuts_2021_id":"CH5520",
         "gp:id":12684785,
         "qs_pg:id":898664
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":404569813,
-    "wof:lastmodified":1684351739,
+    "wof:lastmodified":1695878928,
     "wof:name":"Essertines-sur-Yverdon",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

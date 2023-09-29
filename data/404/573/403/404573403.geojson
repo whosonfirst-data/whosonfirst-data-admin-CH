@@ -22,6 +22,18 @@
     "geom:latitude":46.197227,
     "geom:longitude":7.338059,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.197255,
     "lbl:longitude":7.338825,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6267",
+        "chgov:number_qualified":"2306267",
         "eg:gisco_id":"CH_CH6267",
         "eurostat:nuts_2021_id":"CH6267",
         "gn:id":7287448,
         "gp:id":12684569,
         "qs_pg:id":901191
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125945219
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404573403,
-    "wof:lastmodified":1684351774,
+    "wof:lastmodified":1695878969,
     "wof:name":"Veysonnaz",
     "wof:parent_id":102062827,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.31133,
     "geom:longitude":8.25273,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.31145,
     "lbl:longitude":8.252725,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4076",
+        "chgov:number_qualified":"1904076",
         "eg:gisco_id":"CH_CH4076",
         "eurostat:nuts_2021_id":"CH4076",
         "gn:id":7287054,
         "gp:id":12684348,
         "qs_pg:id":1059685
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125859847
     ],
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404570193,
-    "wof:lastmodified":1684351743,
+    "wof:lastmodified":1695878933,
     "wof:name":"Sarmenstorf",
     "wof:parent_id":102062877,
     "wof:placetype":"localadmin",

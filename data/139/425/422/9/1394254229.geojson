@@ -22,6 +22,18 @@
     "geom:latitude":47.195633,
     "geom:longitude":7.247899,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.190836,
     "lbl:longitude":7.236829,
     "lbl:max_zoom":18.0,
@@ -73,9 +85,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0450",
         "eg:gisco_id":"CH_CH0450",
         "eurostat:nuts_2021_id":"CH0450"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"1921a50ebe980755013a7a0db7b1b2dc",
     "wof:hierarchy":[
@@ -88,7 +102,7 @@
         }
     ],
     "wof:id":1394254229,
-    "wof:lastmodified":1684351785,
+    "wof:lastmodified":1695878982,
     "wof:name":"P\u00e9ry-La Heutte",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",

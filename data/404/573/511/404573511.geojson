@@ -22,6 +22,18 @@
     "geom:latitude":45.970672,
     "geom:longitude":8.859285,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.971685,
     "lbl:longitude":8.858694,
     "lbl:max_zoom":18.0,
@@ -126,12 +138,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5213",
+        "chgov:number_qualified":"2105213",
         "eg:gisco_id":"CH_CH5213",
         "eurostat:nuts_2021_id":"CH5213",
         "gn:id":7286815,
         "gp:id":12684210,
         "qs_pg:id":1102333
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125935241
     ],
@@ -151,7 +169,7 @@
         }
     ],
     "wof:id":404573511,
-    "wof:lastmodified":1684351775,
+    "wof:lastmodified":1695878970,
     "wof:name":"Ponte Tresa",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

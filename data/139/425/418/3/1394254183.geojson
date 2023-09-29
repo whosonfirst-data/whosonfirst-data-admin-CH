@@ -22,6 +22,18 @@
     "geom:latitude":46.848616,
     "geom:longitude":7.014186,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.849261,
     "lbl:longitude":7.009512,
     "lbl:max_zoom":18.0,
@@ -67,9 +79,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2053",
         "eg:gisco_id":"CH_CH2053",
         "eurostat:nuts_2021_id":"CH2053"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"7191127a931bfa295b3c0379347c3200",
     "wof:hierarchy":[
@@ -82,7 +96,7 @@
         }
     ],
     "wof:id":1394254183,
-    "wof:lastmodified":1684351783,
+    "wof:lastmodified":1695878981,
     "wof:name":"Belmont-Broye",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",

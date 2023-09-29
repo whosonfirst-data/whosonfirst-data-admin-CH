@@ -22,6 +22,18 @@
     "geom:latitude":47.261573,
     "geom:longitude":8.422042,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.259397,
     "lbl:longitude":8.419891,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0010",
+        "chgov:number_qualified":"0100010",
         "eg:gisco_id":"CH_CH0010",
         "eurostat:nuts_2021_id":"CH0010",
         "gn:id":7286724,
         "gp:id":12684146,
         "qs_pg:id":1188074
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125944871
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404570433,
-    "wof:lastmodified":1684351746,
+    "wof:lastmodified":1695878936,
     "wof:name":"Obfelden",
     "wof:parent_id":102062775,
     "wof:placetype":"localadmin",

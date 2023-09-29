@@ -22,6 +22,18 @@
     "geom:latitude":47.149189,
     "geom:longitude":7.2611,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.1523,
     "lbl:longitude":7.264886,
     "lbl:max_zoom":18.0,
@@ -290,11 +302,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0371",
+        "chgov:number_qualified":"0200371",
         "eg:gisco_id":"CH_CH0371",
         "eurostat:nuts_2021_id":"CH0371",
         "gn:id":7285241,
         "qs_pg:id":1047507
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101748455
     ],
@@ -314,7 +332,7 @@
         }
     ],
     "wof:id":404568547,
-    "wof:lastmodified":1684351720,
+    "wof:lastmodified":1695878907,
     "wof:name":"Biel/Bienne",
     "wof:parent_id":102063041,
     "wof:placetype":"localadmin",

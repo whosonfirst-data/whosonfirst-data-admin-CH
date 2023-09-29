@@ -22,6 +22,18 @@
     "geom:latitude":47.415103,
     "geom:longitude":8.005014,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.418622,
     "lbl:longitude":8.005541,
     "lbl:max_zoom":18.0,
@@ -104,11 +116,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4005",
+        "chgov:number_qualified":"1904005",
         "eg:gisco_id":"CH_CH4005",
         "eurostat:nuts_2021_id":"CH4005",
         "gp:id":28997192,
         "qs_pg:id":1111117
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1343697727
     ],
@@ -128,7 +146,7 @@
         }
     ],
     "wof:id":404569797,
-    "wof:lastmodified":1684351738,
+    "wof:lastmodified":1695878928,
     "wof:name":"Erlinsbach",
     "wof:parent_id":102062989,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.125479,
     "geom:longitude":8.403582,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.12563,
     "lbl:longitude":8.403441,
     "lbl:max_zoom":18.0,
@@ -130,11 +142,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1055",
+        "chgov:number_qualified":"0301055",
         "eg:gisco_id":"CH_CH1055",
         "eurostat:nuts_2021_id":"CH1055",
         "gp:id":12685085,
         "qs_pg:id":62076
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -151,7 +169,7 @@
         }
     ],
     "wof:id":404328909,
-    "wof:lastmodified":1684351701,
+    "wof:lastmodified":1695878886,
     "wof:name":"Gisikon",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",

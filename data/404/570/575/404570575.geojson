@@ -22,6 +22,18 @@
     "geom:latitude":47.332944,
     "geom:longitude":8.062704,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.332087,
     "lbl:longitude":8.06312,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4009",
+        "chgov:number_qualified":"1904009",
         "eg:gisco_id":"CH_CH4009",
         "eurostat:nuts_2021_id":"CH4009",
         "gn:id":7286569,
         "gp:id":12683987,
         "qs_pg:id":1197330
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126035687
     ],
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404570575,
-    "wof:lastmodified":1684351748,
+    "wof:lastmodified":1695878938,
     "wof:name":"Muhen",
     "wof:parent_id":102062989,
     "wof:placetype":"localadmin",

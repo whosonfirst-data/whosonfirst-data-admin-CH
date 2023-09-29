@@ -22,6 +22,18 @@
     "geom:latitude":46.867002,
     "geom:longitude":6.717398,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.862101,
     "lbl:longitude":6.718002,
     "lbl:max_zoom":18.0,
@@ -113,12 +125,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5554",
+        "chgov:number_qualified":"2205554",
         "eg:gisco_id":"CH_CH5554",
         "eurostat:nuts_2021_id":"CH5554",
         "gn:id":7285539,
         "gp:id":12683225,
         "qs_pg:id":106553
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":404569457,
-    "wof:lastmodified":1684351734,
+    "wof:lastmodified":1695878922,
     "wof:name":"Concise",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

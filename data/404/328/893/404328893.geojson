@@ -22,6 +22,18 @@
     "geom:latitude":47.397115,
     "geom:longitude":7.580031,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.39688,
     "lbl:longitude":7.580033,
     "lbl:max_zoom":18.0,
@@ -127,12 +139,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2616",
+        "chgov:number_qualified":"1102616",
         "eg:gisco_id":"CH_CH2616",
         "eurostat:nuts_2021_id":"CH2616",
         "gn:id":7285801,
         "gp:id":12685198,
         "qs_pg:id":911569
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":404328893,
-    "wof:lastmodified":1684351701,
+    "wof:lastmodified":1695878886,
     "wof:name":"Fehren",
     "wof:parent_id":1394137121,
     "wof:placetype":"localadmin",

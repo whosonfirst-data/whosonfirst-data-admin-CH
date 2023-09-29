@@ -22,6 +22,18 @@
     "geom:latitude":46.799427,
     "geom:longitude":9.601061,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.799156,
     "lbl:longitude":9.601064,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3932",
+        "chgov:number_qualified":"1803932",
         "eg:gisco_id":"CH_CH3932",
         "eurostat:nuts_2021_id":"CH3932",
         "gn:id":7287346,
         "gp:id":56071066,
         "qs_pg:id":1206441
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404568323,
-    "wof:lastmodified":1684351716,
+    "wof:lastmodified":1695878902,
     "wof:name":"Tschiertschen-Praden",
     "wof:parent_id":102063001,
     "wof:placetype":"localadmin",

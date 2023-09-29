@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011571,
-    "geom:area_square_m":97324359.364832,
+    "geom:area_square_m":97324359.364841,
     "geom:bbox":"7.119477,47.054686,7.391911,47.207219",
     "geom:latitude":47.137659,
     "geom:longitude":7.269886,
@@ -276,12 +276,15 @@
         85682381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"0242"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1bd51bfcbb4702cc45039ab625f7e2ea",
+    "wof:geomhash":"9f65e64bf7755aa56420b3dd502c475f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":102063041,
-    "wof:lastmodified":1617131207,
+    "wof:lastmodified":1695886613,
     "wof:name":"Biel/Bienne",
     "wof:parent_id":85682381,
     "wof:placetype":"county",

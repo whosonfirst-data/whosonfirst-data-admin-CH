@@ -22,6 +22,18 @@
     "geom:latitude":46.570596,
     "geom:longitude":6.442089,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.569045,
     "lbl:longitude":6.441182,
     "lbl:max_zoom":18.0,
@@ -116,12 +128,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5500",
+        "chgov:number_qualified":"2205500",
         "eg:gisco_id":"CH_CH5500",
         "eurostat:nuts_2021_id":"CH5500",
         "gn:id":7287161,
         "gp:id":12684755,
         "qs_pg:id":671611
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1260321397
     ],
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":404572409,
-    "wof:lastmodified":1684351769,
+    "wof:lastmodified":1695878964,
     "wof:name":"S\u00e9very",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

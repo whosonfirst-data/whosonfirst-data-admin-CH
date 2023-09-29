@@ -22,6 +22,18 @@
     "geom:latitude":46.307705,
     "geom:longitude":6.871306,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.305641,
     "lbl:longitude":6.870365,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6158",
+        "chgov:number_qualified":"2306158",
         "eg:gisco_id":"CH_CH6158",
         "eurostat:nuts_2021_id":"CH6158",
         "gn:id":7287485,
         "gp:id":12684587,
         "qs_pg:id":1154336
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404568565,
-    "wof:lastmodified":1684351721,
+    "wof:lastmodified":1695878907,
     "wof:name":"Vionnaz",
     "wof:parent_id":102063065,
     "wof:placetype":"localadmin",

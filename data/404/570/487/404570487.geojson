@@ -22,6 +22,18 @@
     "geom:latitude":47.380048,
     "geom:longitude":7.667753,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.380824,
     "lbl:longitude":7.673617,
     "lbl:max_zoom":18.0,
@@ -140,11 +152,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2889",
+        "chgov:number_qualified":"1302889",
         "eg:gisco_id":"CH_CH2889",
         "eurostat:nuts_2021_id":"CH2889",
         "gp:id":12685199,
         "qs_pg:id":235883
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125915583
     ],
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":404570487,
-    "wof:lastmodified":1684351747,
+    "wof:lastmodified":1695878937,
     "wof:name":"Lauwil",
     "wof:parent_id":102062911,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.660408,
     "geom:longitude":8.624649,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.664973,
     "lbl:longitude":8.61965,
     "lbl:max_zoom":18.0,
@@ -137,11 +149,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0025",
+        "chgov:number_qualified":"0100025",
         "eg:gisco_id":"CH_CH0025",
         "eurostat:nuts_2021_id":"CH0025",
         "gn:id":7285614,
         "qs_pg:id":671280
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125918805
     ],
@@ -161,7 +179,7 @@
         }
     ],
     "wof:id":404572277,
-    "wof:lastmodified":1684351768,
+    "wof:lastmodified":1695878963,
     "wof:name":"Dachsen",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",

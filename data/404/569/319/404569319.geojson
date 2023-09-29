@@ -22,6 +22,18 @@
     "geom:latitude":47.297618,
     "geom:longitude":8.308589,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.293668,
     "lbl:longitude":8.306621,
     "lbl:max_zoom":18.0,
@@ -131,11 +143,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4228",
+        "chgov:number_qualified":"1904228",
         "eg:gisco_id":"CH_CH4228",
         "eurostat:nuts_2021_id":"CH4228",
         "gp:id":12685078,
         "qs_pg:id":1002873
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125992859
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404569319,
-    "wof:lastmodified":1684351733,
+    "wof:lastmodified":1695878922,
     "wof:name":"Boswil",
     "wof:parent_id":102062809,
     "wof:placetype":"localadmin",

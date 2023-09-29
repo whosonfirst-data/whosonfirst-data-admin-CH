@@ -22,6 +22,18 @@
     "geom:latitude":47.101971,
     "geom:longitude":7.986055,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.107644,
     "lbl:longitude":7.996607,
     "lbl:max_zoom":18.0,
@@ -136,11 +148,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1151",
+        "chgov:number_qualified":"0301151",
         "eg:gisco_id":"CH_CH1151",
         "eurostat:nuts_2021_id":"CH1151",
         "gn:id":7287585,
         "qs_pg:id":380142
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -157,7 +175,7 @@
         }
     ],
     "wof:id":404328175,
-    "wof:lastmodified":1684351691,
+    "wof:lastmodified":1695878874,
     "wof:name":"Willisau",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",

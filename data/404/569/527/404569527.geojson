@@ -22,6 +22,18 @@
     "geom:latitude":47.379688,
     "geom:longitude":7.817228,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.379798,
     "lbl:longitude":7.820503,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2885",
+        "chgov:number_qualified":"1302885",
         "eg:gisco_id":"CH_CH2885",
         "eurostat:nuts_2021_id":"CH2885",
         "gn:id":7285744,
         "gp:id":12683399,
         "qs_pg:id":1188033
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125793369
     ],
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":404569527,
-    "wof:lastmodified":1684351735,
+    "wof:lastmodified":1695878924,
     "wof:name":"Eptingen",
     "wof:parent_id":102062911,
     "wof:placetype":"localadmin",

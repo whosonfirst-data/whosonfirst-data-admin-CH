@@ -22,6 +22,18 @@
     "geom:latitude":47.470021,
     "geom:longitude":9.583404,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.469108,
     "lbl:longitude":9.583253,
     "lbl:max_zoom":18.0,
@@ -146,12 +158,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3235",
+        "chgov:number_qualified":"1703235",
         "eg:gisco_id":"CH_CH3235",
         "eurostat:nuts_2021_id":"CH3235",
         "gn:id":7286891,
         "gp:id":12682918,
         "qs_pg:id":671539
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101828597
     ],
@@ -171,7 +189,7 @@
         }
     ],
     "wof:id":404573053,
-    "wof:lastmodified":1684351770,
+    "wof:lastmodified":1695878965,
     "wof:name":"Rheineck",
     "wof:parent_id":102063005,
     "wof:placetype":"localadmin",

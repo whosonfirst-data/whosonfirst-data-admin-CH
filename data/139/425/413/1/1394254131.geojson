@@ -22,6 +22,18 @@
     "geom:latitude":47.377639,
     "geom:longitude":8.892776,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.376082,
     "lbl:longitude":8.898057,
     "lbl:max_zoom":18.0,
@@ -124,9 +136,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0297",
         "eg:gisco_id":"CH_CH0297",
         "eurostat:nuts_2021_id":"CH0297"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"210f96874c8ce460f7896f0d4a7172f1",
     "wof:hierarchy":[
@@ -139,7 +153,7 @@
         }
     ],
     "wof:id":1394254131,
-    "wof:lastmodified":1684351782,
+    "wof:lastmodified":1695878979,
     "wof:name":"Bauma",
     "wof:parent_id":102062779,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.525327,
     "geom:longitude":6.9469,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.525983,
     "lbl:longitude":6.946899,
     "lbl:max_zoom":18.0,
@@ -133,9 +145,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2325",
+        "chgov:number_qualified":"1002325",
         "eg:gisco_id":"CH_CH2325",
         "eurostat:nuts_2021_id":"CH2325"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -151,7 +169,7 @@
         }
     ],
     "wof:id":404568037,
-    "wof:lastmodified":1684351710,
+    "wof:lastmodified":1695878896,
     "wof:name":"Ch\u00e2tel-Saint-Denis",
     "wof:parent_id":102063025,
     "wof:placetype":"localadmin",

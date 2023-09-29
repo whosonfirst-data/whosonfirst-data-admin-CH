@@ -22,6 +22,18 @@
     "geom:latitude":47.381416,
     "geom:longitude":8.531369,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.380542,
     "lbl:longitude":8.531424,
     "lbl:max_zoom":18.0,
@@ -460,9 +472,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0261",
         "eg:gisco_id":"CH_CH0261",
         "eurostat:nuts_2021_id":"CH0261"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:coterminous":[
         101748463,
         102063071
@@ -479,7 +493,7 @@
         }
     ],
     "wof:id":1394254167,
-    "wof:lastmodified":1684351783,
+    "wof:lastmodified":1695878980,
     "wof:name":"Z\u00fcrich",
     "wof:parent_id":102063071,
     "wof:placetype":"localadmin",

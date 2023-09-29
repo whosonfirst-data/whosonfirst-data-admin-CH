@@ -22,6 +22,18 @@
     "geom:latitude":47.305356,
     "geom:longitude":8.055696,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.30595,
     "lbl:longitude":8.055285,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4144",
+        "chgov:number_qualified":"1904144",
         "eg:gisco_id":"CH_CH4144",
         "eurostat:nuts_2021_id":"CH4144",
         "gn:id":7287106,
         "gp:id":12684373,
         "qs_pg:id":1197356
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854345
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404570821,
-    "wof:lastmodified":1684351751,
+    "wof:lastmodified":1695878942,
     "wof:name":"Sch\u00f6ftland",
     "wof:parent_id":102062983,
     "wof:placetype":"localadmin",

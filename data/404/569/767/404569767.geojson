@@ -22,6 +22,18 @@
     "geom:latitude":46.730387,
     "geom:longitude":8.09463,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.708427,
     "lbl:longitude":8.086433,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0574",
+        "chgov:number_qualified":"0200574",
         "eg:gisco_id":"CH_CH0574",
         "eurostat:nuts_2021_id":"CH0574",
         "gn:id":7285334,
         "gp:id":12683048,
         "qs_pg:id":77287
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404569767,
-    "wof:lastmodified":1684351738,
+    "wof:lastmodified":1695878927,
     "wof:name":"Brienzwiler",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",

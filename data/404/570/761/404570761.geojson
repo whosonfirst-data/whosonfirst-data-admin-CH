@@ -22,6 +22,18 @@
     "geom:latitude":46.359781,
     "geom:longitude":6.925221,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.359868,
     "lbl:longitude":6.927226,
     "lbl:max_zoom":18.0,
@@ -146,11 +158,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5413",
+        "chgov:number_qualified":"2205413",
         "eg:gisco_id":"CH_CH5413",
         "eurostat:nuts_2021_id":"CH5413",
         "gn:id":7286923,
         "qs_pg:id":106661
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125859811
     ],
@@ -170,7 +188,7 @@
         }
     ],
     "wof:id":404570761,
-    "wof:lastmodified":1684351750,
+    "wof:lastmodified":1695878941,
     "wof:name":"Roche",
     "wof:parent_id":102062783,
     "wof:placetype":"localadmin",

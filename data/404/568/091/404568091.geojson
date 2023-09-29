@@ -22,6 +22,18 @@
     "geom:latitude":46.72573,
     "geom:longitude":9.541498,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.729392,
     "lbl:longitude":9.535937,
     "lbl:max_zoom":18.0,
@@ -152,12 +164,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3506",
+        "chgov:number_qualified":"1803506",
         "eg:gisco_id":"CH_CH3506",
         "eurostat:nuts_2021_id":"CH3506",
         "gn:id":7287424,
         "gp:id":12683822,
         "qs_pg:id":1197170
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -174,7 +192,7 @@
         }
     ],
     "wof:id":404568091,
-    "wof:lastmodified":1684351711,
+    "wof:lastmodified":1695878897,
     "wof:name":"Vaz/Obervaz",
     "wof:parent_id":102062885,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.117168,
     "geom:longitude":7.28511,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.117107,
     "lbl:longitude":7.285329,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0731",
+        "chgov:number_qualified":"0200731",
         "eg:gisco_id":"CH_CH0731",
         "eurostat:nuts_2021_id":"CH0731",
         "gn:id":7285026,
         "gp:id":12684878,
         "qs_pg:id":334364
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1243098365
     ],
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404573087,
-    "wof:lastmodified":1684351770,
+    "wof:lastmodified":1695878965,
     "wof:name":"Aegerten",
     "wof:parent_id":102063041,
     "wof:placetype":"localadmin",

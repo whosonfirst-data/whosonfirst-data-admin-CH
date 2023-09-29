@@ -22,6 +22,18 @@
     "geom:latitude":47.319147,
     "geom:longitude":9.34852,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.320302,
     "lbl:longitude":9.347861,
     "lbl:max_zoom":18.0,
@@ -118,9 +130,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3102",
         "eg:gisco_id":"CH_CH3102",
         "eurostat:nuts_2021_id":"CH3102"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"36e1a092683a7448b4e07e96aa481a1a",
     "wof:hierarchy":[
@@ -133,7 +147,7 @@
         }
     ],
     "wof:id":1394254205,
-    "wof:lastmodified":1684351784,
+    "wof:lastmodified":1695878981,
     "wof:name":"Gonten",
     "wof:parent_id":1394237541,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":45.956353,
     "geom:longitude":8.948849,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.954755,
     "lbl:longitude":8.944418,
     "lbl:max_zoom":18.0,
@@ -102,12 +114,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5198",
+        "chgov:number_qualified":"2105198",
         "eg:gisco_id":"CH_CH5198",
         "eurostat:nuts_2021_id":"CH5198",
         "gn:id":7286478,
         "gp:id":12683968,
         "qs_pg:id":1102321
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126015835
     ],
@@ -127,7 +145,7 @@
         }
     ],
     "wof:id":404573269,
-    "wof:lastmodified":1684351773,
+    "wof:lastmodified":1695878967,
     "wof:name":"Melide",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.550975,
     "geom:longitude":9.236017,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.546682,
     "lbl:longitude":9.233751,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4476",
+        "chgov:number_qualified":"2004476",
         "eg:gisco_id":"CH_CH4476",
         "eurostat:nuts_2021_id":"CH4476",
         "gn:id":7285751,
         "gp:id":12683403,
         "qs_pg:id":1154255
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404569255,
-    "wof:lastmodified":1684351732,
+    "wof:lastmodified":1695878921,
     "wof:name":"Erlen",
     "wof:parent_id":102062955,
     "wof:placetype":"localadmin",

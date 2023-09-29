@@ -22,6 +22,18 @@
     "geom:latitude":46.926284,
     "geom:longitude":9.797913,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.931771,
     "lbl:longitude":9.803458,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3882",
+        "chgov:number_qualified":"1803882",
         "eg:gisco_id":"CH_CH3882",
         "eurostat:nuts_2021_id":"CH3882",
         "gn:id":7286227,
         "gp:id":12683791,
         "qs_pg:id":1190488
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125986515
     ],
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":404570229,
-    "wof:lastmodified":1684351744,
+    "wof:lastmodified":1695878934,
     "wof:name":"K\u00fcblis",
     "wof:parent_id":102062803,
     "wof:placetype":"localadmin",

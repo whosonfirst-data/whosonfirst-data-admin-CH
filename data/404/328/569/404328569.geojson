@@ -22,6 +22,18 @@
     "geom:latitude":47.35708,
     "geom:longitude":9.284581,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.355557,
     "lbl:longitude":9.284228,
     "lbl:max_zoom":18.0,
@@ -139,12 +151,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3007",
+        "chgov:number_qualified":"1503007",
         "eg:gisco_id":"CH_CH3007",
         "eurostat:nuts_2021_id":"CH3007",
         "gn:id":7287523,
         "gp:id":12684602,
         "qs_pg:id":191096
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126007531
     ],
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":404328569,
-    "wof:lastmodified":1684351697,
+    "wof:lastmodified":1695878882,
     "wof:name":"Waldstatt",
     "wof:parent_id":1394137085,
     "wof:placetype":"localadmin",

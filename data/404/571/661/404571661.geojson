@@ -22,6 +22,18 @@
     "geom:latitude":47.604387,
     "geom:longitude":8.244753,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.60496,
     "lbl:longitude":8.243288,
     "lbl:max_zoom":18.0,
@@ -305,12 +317,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4310",
+        "chgov:number_qualified":"1904310",
         "eg:gisco_id":"CH_CH4310",
         "eurostat:nuts_2021_id":"CH4310",
         "gn:id":7286213,
         "gp:id":20075551,
         "qs_pg:id":53579
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125802531
     ],
@@ -330,7 +348,7 @@
         }
     ],
     "wof:id":404571661,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878955,
     "wof:name":"Koblenz",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",

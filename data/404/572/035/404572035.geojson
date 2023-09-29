@@ -22,6 +22,18 @@
     "geom:latitude":46.757337,
     "geom:longitude":7.276392,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.757399,
     "lbl:longitude":7.276115,
     "lbl:max_zoom":18.0,
@@ -125,11 +137,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2292",
+        "chgov:number_qualified":"1002292",
         "eg:gisco_id":"CH_CH2292",
         "eurostat:nuts_2021_id":"CH2292",
         "gp:id":12684204,
         "qs_pg:id":61971
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126026227
     ],
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":404572035,
-    "wof:lastmodified":1684351766,
+    "wof:lastmodified":1695878960,
     "wof:name":"Br\u00fcnisried",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",

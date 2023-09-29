@@ -22,6 +22,18 @@
     "geom:latitude":47.034708,
     "geom:longitude":7.059856,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.031699,
     "lbl:longitude":7.05066,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0494",
+        "chgov:number_qualified":"0200494",
         "eg:gisco_id":"CH_CH0494",
         "eurostat:nuts_2021_id":"CH0494",
         "gn:id":7285888,
         "gp:id":12683518,
         "qs_pg:id":905981
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125905413
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404570257,
-    "wof:lastmodified":1684351744,
+    "wof:lastmodified":1695878934,
     "wof:name":"Gals",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",

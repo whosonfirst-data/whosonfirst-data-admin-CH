@@ -22,6 +22,18 @@
     "geom:latitude":47.160635,
     "geom:longitude":7.636927,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.161678,
     "lbl:longitude":7.636924,
     "lbl:max_zoom":18.0,
@@ -73,9 +85,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2535",
         "eg:gisco_id":"CH_CH2535",
         "eurostat:nuts_2021_id":"CH2535"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"01cd6a7ae2db60049bd8bc24e8fabd27",
     "wof:hierarchy":[
@@ -88,7 +102,7 @@
         }
     ],
     "wof:id":1394254221,
-    "wof:lastmodified":1684351785,
+    "wof:lastmodified":1695878982,
     "wof:name":"Drei H\u00f6fe",
     "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",

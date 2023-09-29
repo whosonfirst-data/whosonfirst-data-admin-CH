@@ -22,6 +22,18 @@
     "geom:latitude":46.307271,
     "geom:longitude":8.979946,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.306028,
     "lbl:longitude":8.949336,
     "lbl:max_zoom":18.0,
@@ -115,9 +127,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5287",
         "eg:gisco_id":"CH_CH5287",
         "eurostat:nuts_2021_id":"CH5287"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"036a0d533d98196163c9dfb438448b0a",
     "wof:hierarchy":[
@@ -130,7 +144,7 @@
         }
     ],
     "wof:id":1394254173,
-    "wof:lastmodified":1684351783,
+    "wof:lastmodified":1695878980,
     "wof:name":"Riviera",
     "wof:parent_id":102062941,
     "wof:placetype":"localadmin",

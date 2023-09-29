@@ -22,6 +22,18 @@
     "geom:latitude":46.862144,
     "geom:longitude":9.941433,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.862109,
     "lbl:longitude":9.941436,
     "lbl:max_zoom":18.0,
@@ -46,9 +58,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3871",
         "eg:gisco_id":"CH_CH3871",
         "eurostat:nuts_2021_id":"CH3871"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"96cfa7bf7eb17af7b3c3b074dae9bdec",
     "wof:hierarchy":[
@@ -61,7 +75,7 @@
         }
     ],
     "wof:id":1394254009,
-    "wof:lastmodified":1684351778,
+    "wof:lastmodified":1695878974,
     "wof:name":"Klosters-Serneus",
     "wof:parent_id":102062803,
     "wof:placetype":"localadmin",

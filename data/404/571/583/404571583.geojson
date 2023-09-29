@@ -22,6 +22,18 @@
     "geom:latitude":47.296072,
     "geom:longitude":8.223305,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.297026,
     "lbl:longitude":8.227704,
     "lbl:max_zoom":18.0,
@@ -135,12 +147,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4202",
+        "chgov:number_qualified":"1904202",
         "eg:gisco_id":"CH_CH4202",
         "eurostat:nuts_2021_id":"CH4202",
         "gn:id":7286476,
         "gp:id":12683965,
         "qs_pg:id":500381
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -157,7 +175,7 @@
         }
     ],
     "wof:id":404571583,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878954,
     "wof:name":"Meisterschwanden",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",

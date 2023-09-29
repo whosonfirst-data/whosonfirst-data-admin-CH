@@ -22,6 +22,18 @@
     "geom:latitude":46.897079,
     "geom:longitude":8.178392,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.894656,
     "lbl:longitude":8.194354,
     "lbl:max_zoom":18.0,
@@ -234,12 +246,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1407",
+        "chgov:number_qualified":"0601407",
         "eg:gisco_id":"CH_CH1407",
         "eurostat:nuts_2021_id":"CH1407",
         "gn:id":7287056,
         "gp:id":12683641,
         "qs_pg:id":1197159
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -256,7 +274,7 @@
         }
     ],
     "wof:id":404328137,
-    "wof:lastmodified":1684351690,
+    "wof:lastmodified":1695878873,
     "wof:name":"Sarnen",
     "wof:parent_id":102062787,
     "wof:placetype":"localadmin",

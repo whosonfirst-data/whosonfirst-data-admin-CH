@@ -22,6 +22,18 @@
     "geom:latitude":46.658871,
     "geom:longitude":6.604499,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.657769,
     "lbl:longitude":6.604498,
     "lbl:max_zoom":18.0,
@@ -107,11 +119,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5541",
+        "chgov:number_qualified":"2205541",
         "eg:gisco_id":"CH_CH5541",
         "eurostat:nuts_2021_id":"CH5541",
         "gn:id":8260350,
         "qs_pg:id":760526
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -128,7 +146,7 @@
         }
     ],
     "wof:id":404569641,
-    "wof:lastmodified":1684351736,
+    "wof:lastmodified":1695878925,
     "wof:name":"Goumo\u00ebns",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.981719,
     "geom:longitude":6.795746,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.987168,
     "lbl:longitude":6.801315,
     "lbl:max_zoom":18.0,
@@ -144,9 +156,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6413",
         "eg:gisco_id":"CH_CH6413",
         "eurostat:nuts_2021_id":"CH6413"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"c30716e39b6a500bc901b1ec81c80433",
     "wof:hierarchy":[
@@ -158,7 +172,7 @@
         }
     ],
     "wof:id":1394254181,
-    "wof:lastmodified":1684351783,
+    "wof:lastmodified":1695878980,
     "wof:name":"Rochefort",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",

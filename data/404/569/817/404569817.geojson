@@ -22,6 +22,18 @@
     "geom:latitude":47.267509,
     "geom:longitude":8.141168,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.268155,
     "lbl:longitude":8.143198,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4135",
+        "chgov:number_qualified":"1904135",
         "eg:gisco_id":"CH_CH4135",
         "eurostat:nuts_2021_id":"CH4135",
         "gn:id":7285940,
         "gp:id":12683570,
         "qs_pg:id":334350
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125963581
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404569817,
-    "wof:lastmodified":1684351739,
+    "wof:lastmodified":1695878928,
     "wof:name":"Gontenschwil",
     "wof:parent_id":102062983,
     "wof:placetype":"localadmin",

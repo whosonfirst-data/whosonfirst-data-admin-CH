@@ -22,6 +22,18 @@
     "geom:latitude":46.473359,
     "geom:longitude":7.555247,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.47398,
     "lbl:longitude":7.553928,
     "lbl:max_zoom":18.0,
@@ -188,12 +200,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0561",
+        "chgov:number_qualified":"0200561",
         "eg:gisco_id":"CH_CH0561",
         "eurostat:nuts_2021_id":"CH0561",
         "gn:id":7285020,
         "gp:id":12682708,
         "qs_pg:id":1208866
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854081
     ],
@@ -213,7 +231,7 @@
         }
     ],
     "wof:id":404567823,
-    "wof:lastmodified":1684351705,
+    "wof:lastmodified":1695878891,
     "wof:name":"Adelboden",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",

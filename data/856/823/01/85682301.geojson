@@ -579,20 +579,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"10",
         "digitalenvoy:region_code":10164,
         "eurostat:nuts_2021_id":"CH022",
         "fips:code":"SZ06",
         "gn:id":2660717,
         "gp:id":2347088,
         "hasc:id":"CH.FR",
+        "iso:code":"CH-FR",
         "iso:id":"CH-FR",
         "wd:id":"Q12640"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"721791774f19828ab6536d4735c884af",
+    "wof:geomhash":"f5436e8e4446a138ef894fba92c328c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -614,7 +620,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865974,
+    "wof:lastmodified":1695885195,
     "wof:name":"Fribourg",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

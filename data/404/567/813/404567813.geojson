@@ -22,6 +22,18 @@
     "geom:latitude":46.203195,
     "geom:longitude":8.036315,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.205728,
     "lbl:longitude":8.037355,
     "lbl:max_zoom":18.0,
@@ -110,11 +122,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6009",
+        "chgov:number_qualified":"2306009",
         "eg:gisco_id":"CH_CH6009",
         "eurostat:nuts_2021_id":"CH6009",
         "gp:id":12684410,
         "qs_pg:id":1097480
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125793511
     ],
@@ -134,7 +152,7 @@
         }
     ],
     "wof:id":404567813,
-    "wof:lastmodified":1684351705,
+    "wof:lastmodified":1695878890,
     "wof:name":"Simplon",
     "wof:parent_id":102063023,
     "wof:placetype":"localadmin",

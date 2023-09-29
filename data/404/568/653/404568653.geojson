@@ -22,6 +22,18 @@
     "geom:latitude":46.638622,
     "geom:longitude":6.973688,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.642008,
     "lbl:longitude":6.971192,
     "lbl:max_zoom":18.0,
@@ -62,12 +74,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2152",
+        "chgov:number_qualified":"1002152",
         "eg:gisco_id":"CH_CH2152",
         "eurostat:nuts_2021_id":"CH2152",
         "gn:id":7287041,
         "gp:id":12684333,
         "qs_pg:id":911080
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -84,7 +102,7 @@
         }
     ],
     "wof:id":404568653,
-    "wof:lastmodified":1684351722,
+    "wof:lastmodified":1695878910,
     "wof:name":"S\u00e2les",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",

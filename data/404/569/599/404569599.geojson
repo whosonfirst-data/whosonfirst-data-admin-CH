@@ -22,6 +22,18 @@
     "geom:latitude":47.072962,
     "geom:longitude":7.276996,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.07332,
     "lbl:longitude":7.27903,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0305",
+        "chgov:number_qualified":"0200305",
         "eg:gisco_id":"CH_CH0305",
         "eurostat:nuts_2021_id":"CH0305",
         "gn:id":7286181,
         "gp:id":12683754,
         "qs_pg:id":191043
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126007263
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404569599,
-    "wof:lastmodified":1684351735,
+    "wof:lastmodified":1695878924,
     "wof:name":"Kappelen",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",

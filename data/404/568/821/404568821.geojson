@@ -22,6 +22,18 @@
     "geom:latitude":46.624429,
     "geom:longitude":6.393196,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.625757,
     "lbl:longitude":6.398511,
     "lbl:max_zoom":18.0,
@@ -113,12 +125,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5486",
+        "chgov:number_qualified":"2205486",
         "eg:gisco_id":"CH_CH5486",
         "eurostat:nuts_2021_id":"CH5486",
         "gn:id":7287677,
         "gp:id":12683798,
         "qs_pg:id":671705
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":404568821,
-    "wof:lastmodified":1684351725,
+    "wof:lastmodified":1695878913,
     "wof:name":"L'Isle",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.436113,
     "geom:longitude":8.242336,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.435994,
     "lbl:longitude":8.241353,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4093",
+        "chgov:number_qualified":"1904093",
         "eg:gisco_id":"CH_CH4093",
         "eurostat:nuts_2021_id":"CH4093",
         "gn:id":7285257,
         "gp:id":12684979,
         "qs_pg:id":500452
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125954893
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404572133,
-    "wof:lastmodified":1684351767,
+    "wof:lastmodified":1695878961,
     "wof:name":"Birrhard",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",

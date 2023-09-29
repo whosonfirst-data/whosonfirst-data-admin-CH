@@ -22,6 +22,18 @@
     "geom:latitude":46.608916,
     "geom:longitude":6.447004,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.608801,
     "lbl:longitude":6.445494,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5475",
+        "chgov:number_qualified":"2205475",
         "eg:gisco_id":"CH_CH5475",
         "eurostat:nuts_2021_id":"CH5475",
         "gn:id":8379139,
         "gp:id":20075580,
         "qs_pg:id":909174
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394297911
     ],
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404572287,
-    "wof:lastmodified":1684351768,
+    "wof:lastmodified":1695878963,
     "wof:name":"Chavannes-le-Veyron",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

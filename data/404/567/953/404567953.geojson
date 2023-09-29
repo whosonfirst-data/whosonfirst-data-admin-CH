@@ -22,6 +22,18 @@
     "geom:latitude":46.327982,
     "geom:longitude":7.410367,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.330413,
     "lbl:longitude":7.411165,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6082",
+        "chgov:number_qualified":"2306082",
         "eg:gisco_id":"CH_CH6082",
         "eurostat:nuts_2021_id":"CH6082",
         "gn:id":7285131,
         "gp:id":12682872,
         "qs_pg:id":671172
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404567953,
-    "wof:lastmodified":1684351708,
+    "wof:lastmodified":1695878894,
     "wof:name":"Ayent",
     "wof:parent_id":102062985,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.154857,
     "geom:longitude":8.9333,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.160621,
     "lbl:longitude":8.927058,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1346",
+        "chgov:number_qualified":"0501346",
         "eg:gisco_id":"CH_CH1346",
         "eurostat:nuts_2021_id":"CH1346",
         "gn:id":7287114,
         "gp:id":12684381,
         "qs_pg:id":43863
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404568303,
-    "wof:lastmodified":1684351716,
+    "wof:lastmodified":1695878902,
     "wof:name":"Sch\u00fcbelbach",
     "wof:parent_id":102062927,
     "wof:placetype":"localadmin",

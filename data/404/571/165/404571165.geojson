@@ -22,6 +22,18 @@
     "geom:latitude":46.834701,
     "geom:longitude":7.065865,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.835434,
     "lbl:longitude":7.063971,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2200",
+        "chgov:number_qualified":"1002200",
         "eg:gisco_id":"CH_CH2200",
         "eurostat:nuts_2021_id":"CH2200",
         "gn:id":7285985,
         "gp:id":12683605,
         "qs_pg:id":1015644
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125977865
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404571165,
-    "wof:lastmodified":1684351755,
+    "wof:lastmodified":1695878948,
     "wof:name":"Grolley",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",

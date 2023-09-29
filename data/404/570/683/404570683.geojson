@@ -22,6 +22,18 @@
     "geom:latitude":46.653361,
     "geom:longitude":6.4528,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.65313,
     "lbl:longitude":6.453163,
     "lbl:max_zoom":18.0,
@@ -101,12 +113,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5490",
+        "chgov:number_qualified":"2205490",
         "eg:gisco_id":"CH_CH5490",
         "eurostat:nuts_2021_id":"CH5490",
         "gn:id":7286515,
         "gp:id":12684752,
         "qs_pg:id":1040537
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1209446353
     ],
@@ -126,7 +144,7 @@
         }
     ],
     "wof:id":404570683,
-    "wof:lastmodified":1684351749,
+    "wof:lastmodified":1695878940,
     "wof:name":"Moiry",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.897644,
     "geom:longitude":7.091742,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.897384,
     "lbl:longitude":7.091593,
     "lbl:max_zoom":18.0,
@@ -137,11 +149,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0661",
+        "chgov:number_qualified":"0200661",
         "eg:gisco_id":"CH_CH0661",
         "eurostat:nuts_2021_id":"CH0661",
         "gp:id":20075399,
         "qs_pg:id":900174
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125944701
     ],
@@ -161,7 +179,7 @@
         }
     ],
     "wof:id":404573431,
-    "wof:lastmodified":1684351774,
+    "wof:lastmodified":1695878969,
     "wof:name":"Clavaleyres",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

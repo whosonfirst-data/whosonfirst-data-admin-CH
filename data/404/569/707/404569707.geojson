@@ -22,6 +22,18 @@
     "geom:latitude":46.488541,
     "geom:longitude":6.821636,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.488681,
     "lbl:longitude":6.824324,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5882",
+        "chgov:number_qualified":"2205882",
         "eg:gisco_id":"CH_CH5882",
         "eurostat:nuts_2021_id":"CH5882",
         "gn:id":7285475,
         "gp:id":12683172,
         "qs_pg:id":671230
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125773569
     ],
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404569707,
-    "wof:lastmodified":1684351737,
+    "wof:lastmodified":1695878926,
     "wof:name":"Chardonne",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",

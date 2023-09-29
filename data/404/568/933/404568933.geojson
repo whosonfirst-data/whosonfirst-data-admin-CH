@@ -22,6 +22,18 @@
     "geom:latitude":46.407603,
     "geom:longitude":7.78704,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.41429,
     "lbl:longitude":7.779978,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6202",
+        "chgov:number_qualified":"2306202",
         "eg:gisco_id":"CH_CH6202",
         "eurostat:nuts_2021_id":"CH6202",
         "gn:id":7287581,
         "gp:id":12684636,
         "qs_pg:id":671688
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125915151
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404568933,
-    "wof:lastmodified":1684351727,
+    "wof:lastmodified":1695878915,
     "wof:name":"Wiler",
     "wof:parent_id":102063037,
     "wof:placetype":"localadmin",

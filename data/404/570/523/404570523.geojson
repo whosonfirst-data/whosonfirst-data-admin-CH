@@ -22,6 +22,18 @@
     "geom:latitude":47.354208,
     "geom:longitude":8.041257,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.355001,
     "lbl:longitude":8.040671,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4010",
+        "chgov:number_qualified":"1904010",
         "eg:gisco_id":"CH_CH4010",
         "eurostat:nuts_2021_id":"CH4010",
         "gn:id":7286687,
         "gp:id":12683393,
         "qs_pg:id":209500
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854333
     ],
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404570523,
-    "wof:lastmodified":1684351747,
+    "wof:lastmodified":1695878937,
     "wof:name":"Oberentfelden",
     "wof:parent_id":102062989,
     "wof:placetype":"localadmin",

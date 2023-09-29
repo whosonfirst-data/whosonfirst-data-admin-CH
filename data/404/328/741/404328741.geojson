@@ -22,6 +22,18 @@
     "geom:latitude":47.43999,
     "geom:longitude":9.503312,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.443038,
     "lbl:longitude":9.510877,
     "lbl:max_zoom":18.0,
@@ -109,12 +121,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3031",
+        "chgov:number_qualified":"1503031",
         "eg:gisco_id":"CH_CH3031",
         "eurostat:nuts_2021_id":"CH3031",
         "gn:id":7285994,
         "gp:id":20075524,
         "qs_pg:id":263230
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125796839
     ],
@@ -134,7 +152,7 @@
         }
     ],
     "wof:id":404328741,
-    "wof:lastmodified":1684351700,
+    "wof:lastmodified":1695878884,
     "wof:name":"Grub",
     "wof:parent_id":1394137103,
     "wof:placetype":"localadmin",

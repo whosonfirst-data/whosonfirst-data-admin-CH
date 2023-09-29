@@ -22,6 +22,18 @@
     "geom:latitude":47.40039,
     "geom:longitude":7.423753,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.398865,
     "lbl:longitude":7.427889,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2788",
+        "chgov:number_qualified":"1302788",
         "eg:gisco_id":"CH_CH2788",
         "eurostat:nuts_2021_id":"CH2788",
         "gn:id":7286348,
         "gp:id":12683887,
         "qs_pg:id":538871
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404569211,
-    "wof:lastmodified":1684351732,
+    "wof:lastmodified":1695878920,
     "wof:name":"Liesberg",
     "wof:parent_id":102062757,
     "wof:placetype":"localadmin",

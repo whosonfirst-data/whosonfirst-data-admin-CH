@@ -22,6 +22,18 @@
     "geom:latitude":46.514001,
     "geom:longitude":6.493203,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.515226,
     "lbl:longitude":6.494482,
     "lbl:max_zoom":18.0,
@@ -185,12 +197,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5642",
+        "chgov:number_qualified":"2205642",
         "eg:gisco_id":"CH_CH5642",
         "eurostat:nuts_2021_id":"CH5642",
         "gn:id":7286554,
         "gp:id":12684023,
         "qs_pg:id":221385
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853887
     ],
@@ -210,7 +228,7 @@
         }
     ],
     "wof:id":404571775,
-    "wof:lastmodified":1684351763,
+    "wof:lastmodified":1695878957,
     "wof:name":"Morges",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.416458,
     "geom:longitude":8.186065,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.416421,
     "lbl:longitude":8.188919,
     "lbl:max_zoom":18.0,
@@ -139,9 +151,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4203",
+        "chgov:number_qualified":"1904203",
         "eg:gisco_id":"CH_CH4203",
         "eurostat:nuts_2021_id":"CH4203"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -157,7 +175,7 @@
         }
     ],
     "wof:id":404570705,
-    "wof:lastmodified":1684351749,
+    "wof:lastmodified":1695878940,
     "wof:name":"M\u00f6riken-Wildegg",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.184894,
     "geom:longitude":6.119617,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.184834,
     "lbl:longitude":6.119329,
     "lbl:max_zoom":18.0,
@@ -165,12 +177,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6628",
+        "chgov:number_qualified":"2506628",
         "eg:gisco_id":"CH_CH6628",
         "eurostat:nuts_2021_id":"CH6628",
         "gn:id":2660046,
         "gp:id":12683585,
         "qs_pg:id":204375
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -187,7 +205,7 @@
         }
     ],
     "wof:id":404328701,
-    "wof:lastmodified":1684351699,
+    "wof:lastmodified":1695878884,
     "wof:name":"Lancy",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",

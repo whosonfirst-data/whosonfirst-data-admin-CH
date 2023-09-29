@@ -22,6 +22,18 @@
     "geom:latitude":46.816021,
     "geom:longitude":7.510295,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.817451,
     "lbl:longitude":7.512902,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0876",
+        "chgov:number_qualified":"0200876",
         "eg:gisco_id":"CH_CH0876",
         "eurostat:nuts_2021_id":"CH0876",
         "gn:id":7286575,
         "gp:id":12684042,
         "qs_pg:id":671476
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126035679
     ],
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404572143,
-    "wof:lastmodified":1684351767,
+    "wof:lastmodified":1695878961,
     "wof:name":"M\u00fchlethurnen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

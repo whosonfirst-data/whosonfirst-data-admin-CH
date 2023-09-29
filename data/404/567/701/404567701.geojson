@@ -22,6 +22,18 @@
     "geom:latitude":46.150756,
     "geom:longitude":7.610708,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.160709,
     "lbl:longitude":7.595491,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6252",
+        "chgov:number_qualified":"2306252",
         "eg:gisco_id":"CH_CH6252",
         "eurostat:nuts_2021_id":"CH6252",
         "gn:id":7285081,
         "gp:id":56071077,
         "qs_pg:id":671159
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404567701,
-    "wof:lastmodified":1684351702,
+    "wof:lastmodified":1695878887,
     "wof:name":"Anniviers",
     "wof:parent_id":102062793,
     "wof:placetype":"localadmin",

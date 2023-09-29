@@ -22,6 +22,18 @@
     "geom:latitude":46.465059,
     "geom:longitude":7.06193,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.466395,
     "lbl:longitude":7.06192,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5842",
+        "chgov:number_qualified":"2205842",
         "eg:gisco_id":"CH_CH5842",
         "eurostat:nuts_2021_id":"CH5842",
         "gn:id":7286956,
         "gp:id":12683815,
         "qs_pg:id":248412
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125930167
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404568455,
-    "wof:lastmodified":1684351719,
+    "wof:lastmodified":1695878905,
     "wof:name":"Rossini\u00e8re",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",

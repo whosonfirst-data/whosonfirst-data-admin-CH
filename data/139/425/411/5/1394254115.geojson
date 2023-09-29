@@ -22,6 +22,18 @@
     "geom:latitude":46.720065,
     "geom:longitude":7.061833,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.720983,
     "lbl:longitude":7.065587,
     "lbl:max_zoom":18.0,
@@ -46,9 +58,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2236",
         "eg:gisco_id":"CH_CH2236",
         "eurostat:nuts_2021_id":"CH2236"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"fc560c83ef008c899b77072b5f1d6628",
     "wof:hierarchy":[
@@ -61,7 +75,7 @@
         }
     ],
     "wof:id":1394254115,
-    "wof:lastmodified":1684351781,
+    "wof:lastmodified":1695878978,
     "wof:name":"Gibloux",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",

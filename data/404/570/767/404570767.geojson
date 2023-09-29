@@ -22,6 +22,18 @@
     "geom:latitude":47.582542,
     "geom:longitude":8.745579,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.583529,
     "lbl:longitude":8.750232,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0039",
+        "chgov:number_qualified":"0100039",
         "eg:gisco_id":"CH_CH0039",
         "eurostat:nuts_2021_id":"CH0039",
         "gn:id":7287298,
         "gp:id":12684493,
         "qs_pg:id":671628
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394289127
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404570767,
-    "wof:lastmodified":1684351750,
+    "wof:lastmodified":1695878941,
     "wof:name":"Thalheim an der Thur",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",

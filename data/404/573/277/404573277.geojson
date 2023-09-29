@@ -22,6 +22,18 @@
     "geom:latitude":46.523362,
     "geom:longitude":6.539022,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.52304,
     "lbl:longitude":6.539198,
     "lbl:max_zoom":18.0,
@@ -112,9 +124,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5632",
+        "chgov:number_qualified":"2205632",
         "eg:gisco_id":"CH_CH5632",
         "eurostat:nuts_2021_id":"CH5632"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125793749
     ],
@@ -133,7 +151,7 @@
         }
     ],
     "wof:id":404573277,
-    "wof:lastmodified":1684351773,
+    "wof:lastmodified":1695878968,
     "wof:name":"Denges",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

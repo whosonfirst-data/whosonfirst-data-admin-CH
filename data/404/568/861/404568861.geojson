@@ -22,6 +22,18 @@
     "geom:latitude":47.357913,
     "geom:longitude":7.770961,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.358051,
     "lbl:longitude":7.778668,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2888",
+        "chgov:number_qualified":"1302888",
         "eg:gisco_id":"CH_CH2888",
         "eurostat:nuts_2021_id":"CH2888",
         "gn:id":7286257,
         "gp:id":12683830,
         "qs_pg:id":1091251
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125912913
     ],
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":404568861,
-    "wof:lastmodified":1684351726,
+    "wof:lastmodified":1695878914,
     "wof:name":"Langenbruck",
     "wof:parent_id":102062911,
     "wof:placetype":"localadmin",

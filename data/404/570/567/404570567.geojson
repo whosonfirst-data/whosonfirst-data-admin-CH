@@ -22,6 +22,18 @@
     "geom:latitude":46.738174,
     "geom:longitude":7.220606,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.732275,
     "lbl:longitude":7.227964,
     "lbl:max_zoom":18.0,
@@ -125,11 +137,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2303",
+        "chgov:number_qualified":"1002303",
         "eg:gisco_id":"CH_CH2303",
         "eurostat:nuts_2021_id":"CH2303",
         "gp:id":12684996,
         "qs_pg:id":1306497
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125912623
     ],
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":404570567,
-    "wof:lastmodified":1684351748,
+    "wof:lastmodified":1695878938,
     "wof:name":"St. Silvester",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.547987,
     "geom:longitude":8.854025,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.546586,
     "lbl:longitude":8.85443,
     "lbl:max_zoom":18.0,
@@ -142,9 +154,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4571",
+        "chgov:number_qualified":"2004571",
         "eg:gisco_id":"CH_CH4571",
         "eurostat:nuts_2021_id":"CH4571"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":404569825,
-    "wof:lastmodified":1684351739,
+    "wof:lastmodified":1695878928,
     "wof:name":"Gachnang",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",

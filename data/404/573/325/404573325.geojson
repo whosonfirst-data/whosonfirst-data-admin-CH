@@ -22,6 +22,18 @@
     "geom:latitude":46.769898,
     "geom:longitude":7.660831,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.769605,
     "lbl:longitude":7.661999,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0937",
+        "chgov:number_qualified":"0200937",
         "eg:gisco_id":"CH_CH0937",
         "eurostat:nuts_2021_id":"CH0937",
         "gn:id":7287127,
         "gp:id":20075422,
         "qs_pg:id":50231
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1242907483
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404573325,
-    "wof:lastmodified":1684351773,
+    "wof:lastmodified":1695878968,
     "wof:name":"Schwendibach",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",

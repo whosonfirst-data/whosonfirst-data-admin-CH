@@ -22,6 +22,18 @@
     "geom:latitude":46.697454,
     "geom:longitude":6.693924,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.697045,
     "lbl:longitude":6.694797,
     "lbl:max_zoom":18.0,
@@ -83,11 +95,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5534",
+        "chgov:number_qualified":"2205534",
         "eg:gisco_id":"CH_CH5534",
         "eurostat:nuts_2021_id":"CH5534",
         "gn:id":7286977,
         "qs_pg:id":671564
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1260214959
     ],
@@ -107,7 +125,7 @@
         }
     ],
     "wof:id":404573155,
-    "wof:lastmodified":1684351771,
+    "wof:lastmodified":1695878966,
     "wof:name":"Rueyres",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

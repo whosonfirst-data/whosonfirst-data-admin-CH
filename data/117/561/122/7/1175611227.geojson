@@ -22,6 +22,18 @@
     "geom:latitude":47.466658,
     "geom:longitude":9.379557,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.464961,
     "lbl:longitude":9.379718,
     "lbl:max_zoom":18.0,
@@ -130,12 +142,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3204",
+        "chgov:number_qualified":"1703204",
         "eg:gisco_id":"CH_CH3204",
         "eurostat:nuts_2021_id":"CH3204",
         "gn:id":7287596,
         "gp:id":12683788,
         "qs_pg:id":231525
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125775731
     ],
@@ -154,7 +172,7 @@
         }
     ],
     "wof:id":1175611227,
-    "wof:lastmodified":1684351776,
+    "wof:lastmodified":1695878972,
     "wof:name":"Wittenbach",
     "wof:parent_id":102062847,
     "wof:placetype":"localadmin",

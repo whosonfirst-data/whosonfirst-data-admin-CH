@@ -22,6 +22,18 @@
     "geom:latitude":46.158671,
     "geom:longitude":7.460341,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.166188,
     "lbl:longitude":7.459526,
     "lbl:max_zoom":18.0,
@@ -68,11 +80,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6087",
+        "chgov:number_qualified":"2306087",
         "eg:gisco_id":"CH_CH6087",
         "eurostat:nuts_2021_id":"CH6087",
         "gn:id":6691641,
         "qs_pg:id":643962
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -89,7 +107,7 @@
         }
     ],
     "wof:id":404568161,
-    "wof:lastmodified":1684351713,
+    "wof:lastmodified":1695878899,
     "wof:name":"Saint-Martin",
     "wof:parent_id":102062985,
     "wof:placetype":"localadmin",

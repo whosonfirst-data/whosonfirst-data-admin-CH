@@ -22,6 +22,18 @@
     "geom:latitude":46.725363,
     "geom:longitude":7.585779,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.724231,
     "lbl:longitude":7.58547,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0921",
+        "chgov:number_qualified":"0200921",
         "eg:gisco_id":"CH_CH0921",
         "eurostat:nuts_2021_id":"CH0921",
         "gn:id":7285074,
         "gp:id":12682796,
         "qs_pg:id":1015636
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126025241
     ],
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":404571371,
-    "wof:lastmodified":1684351758,
+    "wof:lastmodified":1695878951,
     "wof:name":"Amsoldingen",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",

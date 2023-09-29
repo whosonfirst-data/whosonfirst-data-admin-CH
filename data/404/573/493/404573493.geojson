@@ -20,6 +20,18 @@
     "geom:latitude":47.056078,
     "geom:longitude":7.079255,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.055308,
     "lbl:longitude":7.078066,
     "lbl:max_zoom":18.0,
@@ -58,9 +70,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"9150",
+        "chgov:number_qualified":"2409150",
         "eg:gisco_id":"CH_CH9150",
         "eurostat:nuts_2021_id":"CH9150"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -75,7 +93,7 @@
         }
     ],
     "wof:id":404573493,
-    "wof:lastmodified":1684351775,
+    "wof:lastmodified":1695878970,
     "wof:name":"Bielersee",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",

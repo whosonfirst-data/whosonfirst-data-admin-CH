@@ -22,6 +22,18 @@
     "geom:latitude":46.726565,
     "geom:longitude":6.714641,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.726485,
     "lbl:longitude":6.712871,
     "lbl:max_zoom":18.0,
@@ -113,11 +125,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5903",
+        "chgov:number_qualified":"2205903",
         "eg:gisco_id":"CH_CH5903",
         "eurostat:nuts_2021_id":"CH5903",
         "gn:id":7285250,
         "qs_pg:id":671194
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1344091177
     ],
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":404571575,
-    "wof:lastmodified":1684351760,
+    "wof:lastmodified":1695878954,
     "wof:name":"Bioley-Magnoux",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

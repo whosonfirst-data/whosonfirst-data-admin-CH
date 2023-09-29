@@ -22,6 +22,18 @@
     "geom:latitude":46.829972,
     "geom:longitude":6.830047,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.830088,
     "lbl:longitude":6.829327,
     "lbl:max_zoom":18.0,
@@ -161,12 +173,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2008",
+        "chgov:number_qualified":"1002008",
         "eg:gisco_id":"CH_CH2008",
         "eurostat:nuts_2021_id":"CH2008",
         "gn:id":7285482,
         "gp:id":20075445,
         "qs_pg:id":671232
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125850085
     ],
@@ -186,7 +204,7 @@
         }
     ],
     "wof:id":404573377,
-    "wof:lastmodified":1684351774,
+    "wof:lastmodified":1695878969,
     "wof:name":"Ch\u00e2tillon",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",

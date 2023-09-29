@@ -22,6 +22,18 @@
     "geom:latitude":46.9172,
     "geom:longitude":6.767075,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.915132,
     "lbl:longitude":6.766162,
     "lbl:max_zoom":18.0,
@@ -54,9 +66,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6417",
         "eg:gisco_id":"CH_CH6417",
         "eurostat:nuts_2021_id":"CH6417"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"57dcb6b9d7523705eeba1c2fbc54bebe",
     "wof:hierarchy":[
@@ -68,7 +82,7 @@
         }
     ],
     "wof:id":1394254061,
-    "wof:lastmodified":1684351780,
+    "wof:lastmodified":1695878976,
     "wof:name":"La Grande-B\u00e9roche",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",

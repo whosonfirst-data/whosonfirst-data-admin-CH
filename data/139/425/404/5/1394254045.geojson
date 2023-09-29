@@ -22,6 +22,18 @@
     "geom:latitude":47.187193,
     "geom:longitude":7.287676,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.189518,
     "lbl:longitude":7.29068,
     "lbl:max_zoom":18.0,
@@ -73,9 +85,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0449",
         "eg:gisco_id":"CH_CH0449",
         "eurostat:nuts_2021_id":"CH0449"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"4f1e97943b84a854a43d21ad92a195aa",
     "wof:hierarchy":[
@@ -88,7 +102,7 @@
         }
     ],
     "wof:id":1394254045,
-    "wof:lastmodified":1684351779,
+    "wof:lastmodified":1695878975,
     "wof:name":"Sauge",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",

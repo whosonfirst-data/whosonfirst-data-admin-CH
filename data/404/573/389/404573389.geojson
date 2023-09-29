@@ -22,6 +22,18 @@
     "geom:latitude":47.023062,
     "geom:longitude":7.606523,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.024432,
     "lbl:longitude":7.610294,
     "lbl:max_zoom":18.0,
@@ -82,9 +94,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0418",
+        "chgov:number_qualified":"0200418",
         "eg:gisco_id":"CH_CH0418",
         "eurostat:nuts_2021_id":"CH0418"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101875853
     ],
@@ -103,7 +121,7 @@
         }
     ],
     "wof:id":404573389,
-    "wof:lastmodified":1684351774,
+    "wof:lastmodified":1695878969,
     "wof:name":"Oberburg",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.020755,
     "geom:longitude":8.258852,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.021271,
     "lbl:longitude":8.258152,
     "lbl:max_zoom":18.0,
@@ -172,12 +184,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1059",
+        "chgov:number_qualified":"0301059",
         "eg:gisco_id":"CH_CH1059",
         "eurostat:nuts_2021_id":"CH1059",
         "gn:id":7286225,
         "gp:id":12683708,
         "qs_pg:id":1078613
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -194,7 +212,7 @@
         }
     ],
     "wof:id":404328217,
-    "wof:lastmodified":1684351692,
+    "wof:lastmodified":1695878875,
     "wof:name":"Kriens",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",

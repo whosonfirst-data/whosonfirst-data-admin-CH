@@ -22,6 +22,18 @@
     "geom:latitude":46.733987,
     "geom:longitude":6.510769,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.733796,
     "lbl:longitude":6.510448,
     "lbl:max_zoom":18.0,
@@ -115,9 +127,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5756",
+        "chgov:number_qualified":"2205756",
         "eg:gisco_id":"CH_CH5756",
         "eurostat:nuts_2021_id":"CH5756"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125964637
     ],
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":404572093,
-    "wof:lastmodified":1684351766,
+    "wof:lastmodified":1695878961,
     "wof:name":"Montcherand",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

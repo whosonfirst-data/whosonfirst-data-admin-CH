@@ -22,6 +22,18 @@
     "geom:latitude":46.624865,
     "geom:longitude":7.114566,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.625674,
     "lbl:longitude":7.113331,
     "lbl:max_zoom":18.0,
@@ -128,11 +140,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2123",
+        "chgov:number_qualified":"1002123",
         "eg:gisco_id":"CH_CH2123",
         "eurostat:nuts_2021_id":"CH2123",
         "gn:id":7285304,
         "qs_pg:id":380049
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":404571449,
-    "wof:lastmodified":1684351759,
+    "wof:lastmodified":1695878952,
     "wof:name":"Botterens",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",

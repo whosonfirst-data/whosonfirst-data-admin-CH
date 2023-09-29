@@ -22,6 +22,18 @@
     "geom:latitude":46.989303,
     "geom:longitude":6.867412,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.989024,
     "lbl:longitude":6.867416,
     "lbl:max_zoom":18.0,
@@ -115,12 +127,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6407",
+        "chgov:number_qualified":"2406407",
         "eg:gisco_id":"CH_CH6407",
         "eurostat:nuts_2021_id":"CH6407",
         "gn:id":7285551,
         "gp:id":12684853,
         "qs_pg:id":239626
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125800193
     ],
@@ -139,7 +157,7 @@
         }
     ],
     "wof:id":404571313,
-    "wof:lastmodified":1684351757,
+    "wof:lastmodified":1695878950,
     "wof:name":"Corcelles-Cormondr\u00e8che",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",

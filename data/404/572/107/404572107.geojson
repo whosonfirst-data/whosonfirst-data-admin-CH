@@ -22,6 +22,18 @@
     "geom:latitude":46.530872,
     "geom:longitude":6.440951,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.530671,
     "lbl:longitude":6.443777,
     "lbl:max_zoom":18.0,
@@ -119,11 +131,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5625",
+        "chgov:number_qualified":"2205625",
         "eg:gisco_id":"CH_CH5625",
         "eurostat:nuts_2021_id":"CH5625",
         "gp:id":12684739,
         "qs_pg:id":22219
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125919423
     ],
@@ -143,7 +161,7 @@
         }
     ],
     "wof:id":404572107,
-    "wof:lastmodified":1684351766,
+    "wof:lastmodified":1695878961,
     "wof:name":"Bussy-Chardonney",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

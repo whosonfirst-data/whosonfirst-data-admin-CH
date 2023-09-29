@@ -22,6 +22,18 @@
     "geom:latitude":46.82787,
     "geom:longitude":7.488662,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.826537,
     "lbl:longitude":7.485216,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0881",
+        "chgov:number_qualified":"0200881",
         "eg:gisco_id":"CH_CH0881",
         "eurostat:nuts_2021_id":"CH0881",
         "gn:id":7286984,
         "gp:id":12685027,
         "qs_pg:id":671566
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404571395,
-    "wof:lastmodified":1684351758,
+    "wof:lastmodified":1695878951,
     "wof:name":"R\u00fcmligen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

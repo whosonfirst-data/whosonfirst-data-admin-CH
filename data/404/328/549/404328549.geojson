@@ -22,6 +22,18 @@
     "geom:latitude":47.325941,
     "geom:longitude":7.796376,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.326087,
     "lbl:longitude":7.79593,
     "lbl:max_zoom":18.0,
@@ -142,12 +154,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2401",
+        "chgov:number_qualified":"1102401",
         "eg:gisco_id":"CH_CH2401",
         "eurostat:nuts_2021_id":"CH2401",
         "gn:id":7285701,
         "gp:id":12683497,
         "qs_pg:id":1154248
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125929051
     ],
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":404328549,
-    "wof:lastmodified":1684351697,
+    "wof:lastmodified":1695878881,
     "wof:name":"Egerkingen",
     "wof:parent_id":1394137097,
     "wof:placetype":"localadmin",

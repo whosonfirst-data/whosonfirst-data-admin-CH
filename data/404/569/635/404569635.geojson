@@ -22,6 +22,18 @@
     "geom:latitude":46.649282,
     "geom:longitude":7.11751,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.64933,
     "lbl:longitude":7.11513,
     "lbl:max_zoom":18.0,
@@ -119,11 +131,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2129",
+        "chgov:number_qualified":"1002129",
         "eg:gisco_id":"CH_CH2129",
         "eurostat:nuts_2021_id":"CH2129",
         "gp:id":12684842,
         "qs_pg:id":1250107
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -140,7 +158,7 @@
         }
     ],
     "wof:id":404569635,
-    "wof:lastmodified":1684351736,
+    "wof:lastmodified":1695878925,
     "wof:name":"Corbi\u00e8res",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",

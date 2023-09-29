@@ -22,6 +22,18 @@
     "geom:latitude":47.224956,
     "geom:longitude":7.552234,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.222421,
     "lbl:longitude":7.552069,
     "lbl:max_zoom":18.0,
@@ -127,12 +139,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2544",
+        "chgov:number_qualified":"1102544",
         "eg:gisco_id":"CH_CH2544",
         "eurostat:nuts_2021_id":"CH2544",
         "gn:id":7285803,
         "gp:id":12683449,
         "qs_pg:id":1293307
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":404328841,
-    "wof:lastmodified":1684351701,
+    "wof:lastmodified":1695878886,
     "wof:name":"Feldbrunnen-St. Niklaus",
     "wof:parent_id":1394137087,
     "wof:placetype":"localadmin",

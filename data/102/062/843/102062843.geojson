@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018257,
-    "geom:area_square_m":152653066.059117,
+    "geom:area_square_m":152653066.059111,
     "geom:bbox":"8.216266,47.370515,8.440359,47.547933",
     "geom:latitude":47.452852,
     "geom:longitude":8.306731,
@@ -189,12 +189,15 @@
         85682329
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"1902"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7772fc295dc74a03fa4402e4d9233db3",
+    "wof:geomhash":"4005595826b1c2457511749576fbdfc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":102062843,
-    "wof:lastmodified":1627521990,
+    "wof:lastmodified":1695886462,
     "wof:name":"Baden",
     "wof:parent_id":85682329,
     "wof:placetype":"county",

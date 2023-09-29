@@ -22,6 +22,18 @@
     "geom:latitude":47.141827,
     "geom:longitude":7.303117,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.141801,
     "lbl:longitude":7.302796,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0744",
+        "chgov:number_qualified":"0200744",
         "eg:gisco_id":"CH_CH0744",
         "eurostat:nuts_2021_id":"CH0744",
         "gn:id":7286753,
         "gp:id":12684164,
         "qs_pg:id":1109240
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125918401
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404571705,
-    "wof:lastmodified":1684351762,
+    "wof:lastmodified":1695878956,
     "wof:name":"Orpund",
     "wof:parent_id":102063041,
     "wof:placetype":"localadmin",

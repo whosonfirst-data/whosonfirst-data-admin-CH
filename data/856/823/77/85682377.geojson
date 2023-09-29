@@ -475,20 +475,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"04",
         "digitalenvoy:region_code":15948,
         "eurostat:nuts_2021_id":"CH062",
         "fips:code":"SZ21",
         "gn:id":2658226,
         "gp:id":2347103,
         "hasc:id":"CH.UR",
+        "iso:code":"CH-UR",
         "iso:id":"CH-UR",
         "wd:id":"Q12404"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"88e49363e9e06fc1b670283a6966eeaa",
+    "wof:geomhash":"5d4538268fc6bfa7352e26923e0b2a14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -510,7 +516,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865975,
+    "wof:lastmodified":1695885199,
     "wof:name":"Uri",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

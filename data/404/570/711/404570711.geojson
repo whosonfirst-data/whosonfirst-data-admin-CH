@@ -22,6 +22,18 @@
     "geom:latitude":47.394981,
     "geom:longitude":8.448836,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.394166,
     "lbl:longitude":8.449195,
     "lbl:max_zoom":18.0,
@@ -86,12 +98,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0247",
+        "chgov:number_qualified":"0100247",
         "eg:gisco_id":"CH_CH0247",
         "eurostat:nuts_2021_id":"CH0247",
         "gn:id":7287094,
         "gp:id":12684367,
         "qs_pg:id":1079239
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125836255
     ],
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":404570711,
-    "wof:lastmodified":1684351749,
+    "wof:lastmodified":1695878941,
     "wof:name":"Schlieren",
     "wof:parent_id":102062893,
     "wof:placetype":"localadmin",

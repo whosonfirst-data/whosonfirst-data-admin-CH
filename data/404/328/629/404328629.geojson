@@ -22,6 +22,18 @@
     "geom:latitude":47.476582,
     "geom:longitude":7.624283,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.476042,
     "lbl:longitude":7.624682,
     "lbl:max_zoom":18.0,
@@ -166,12 +178,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2473",
+        "chgov:number_qualified":"1102473",
         "eg:gisco_id":"CH_CH2473",
         "eurostat:nuts_2021_id":"CH2473",
         "gn:id":7285671,
         "gp:id":12683328,
         "qs_pg:id":900301
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125801913
     ],
@@ -191,7 +209,7 @@
         }
     ],
     "wof:id":404328629,
-    "wof:lastmodified":1684351698,
+    "wof:lastmodified":1695878883,
     "wof:name":"Dornach",
     "wof:parent_id":1394137115,
     "wof:placetype":"localadmin",

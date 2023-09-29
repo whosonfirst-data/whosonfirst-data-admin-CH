@@ -22,6 +22,18 @@
     "geom:latitude":47.324837,
     "geom:longitude":9.096464,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.327051,
     "lbl:longitude":9.094945,
     "lbl:max_zoom":18.0,
@@ -143,11 +155,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3374",
+        "chgov:number_qualified":"1703374",
         "eg:gisco_id":"CH_CH3374",
         "eurostat:nuts_2021_id":"CH3374",
         "gn:id":7286345,
         "qs_pg:id":671432
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":404572217,
-    "wof:lastmodified":1684351768,
+    "wof:lastmodified":1695878962,
     "wof:name":"Lichtensteig",
     "wof:parent_id":102062771,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.682813,
     "geom:longitude":6.606548,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.681138,
     "lbl:longitude":6.606553,
     "lbl:max_zoom":18.0,
@@ -113,12 +125,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5531",
+        "chgov:number_qualified":"2205531",
         "eg:gisco_id":"CH_CH5531",
         "eurostat:nuts_2021_id":"CH5531",
         "gn:id":8379147,
         "gp:id":12684787,
         "qs_pg:id":975187
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394296765
     ],
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":404571011,
-    "wof:lastmodified":1684351753,
+    "wof:lastmodified":1695878945,
     "wof:name":"Penth\u00e9r\u00e9az",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

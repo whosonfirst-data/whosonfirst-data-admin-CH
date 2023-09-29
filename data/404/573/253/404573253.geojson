@@ -22,6 +22,18 @@
     "geom:latitude":46.925169,
     "geom:longitude":7.143481,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.923656,
     "lbl:longitude":7.15068,
     "lbl:max_zoom":18.0,
@@ -175,9 +187,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2275",
+        "chgov:number_qualified":"1002275",
         "eg:gisco_id":"CH_CH2275",
         "eurostat:nuts_2021_id":"CH2275"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -193,7 +211,7 @@
         }
     ],
     "wof:id":404573253,
-    "wof:lastmodified":1684351772,
+    "wof:lastmodified":1695878967,
     "wof:name":"Murten",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",

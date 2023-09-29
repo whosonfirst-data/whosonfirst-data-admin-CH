@@ -22,6 +22,18 @@
     "geom:latitude":46.752026,
     "geom:longitude":7.682288,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.751921,
     "lbl:longitude":7.682283,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0927",
+        "chgov:number_qualified":"0200927",
         "eg:gisco_id":"CH_CH0927",
         "eurostat:nuts_2021_id":"CH0927",
         "gn:id":7286048,
         "gp:id":12683654,
         "qs_pg:id":989359
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125840291
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404571061,
-    "wof:lastmodified":1684351754,
+    "wof:lastmodified":1695878946,
     "wof:name":"Heiligenschwendi",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",

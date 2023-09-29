@@ -22,6 +22,18 @@
     "geom:latitude":47.382427,
     "geom:longitude":6.96355,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.390651,
     "lbl:longitude":6.987408,
     "lbl:max_zoom":18.0,
@@ -97,9 +109,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6809",
         "eg:gisco_id":"CH_CH6809",
         "eurostat:nuts_2021_id":"CH6809"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"a7999c915e7d9794447481dd72e36b0e",
     "wof:hierarchy":[
@@ -112,7 +126,7 @@
         }
     ],
     "wof:id":1394254073,
-    "wof:lastmodified":1684351780,
+    "wof:lastmodified":1695878977,
     "wof:name":"Haute-Ajoie",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",

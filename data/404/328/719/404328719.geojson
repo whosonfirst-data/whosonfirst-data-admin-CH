@@ -22,6 +22,18 @@
     "geom:latitude":47.280767,
     "geom:longitude":7.832735,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.280223,
     "lbl:longitude":7.833005,
     "lbl:max_zoom":18.0,
@@ -133,11 +145,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2575",
+        "chgov:number_qualified":"1102575",
         "eg:gisco_id":"CH_CH2575",
         "eurostat:nuts_2021_id":"CH2575",
         "gp:id":12683505,
         "qs_pg:id":32066
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125949897
     ],
@@ -157,7 +175,7 @@
         }
     ],
     "wof:id":404328719,
-    "wof:lastmodified":1684351699,
+    "wof:lastmodified":1695878884,
     "wof:name":"Fulenbach",
     "wof:parent_id":1394137091,
     "wof:placetype":"localadmin",

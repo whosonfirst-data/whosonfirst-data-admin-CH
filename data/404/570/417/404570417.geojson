@@ -22,6 +22,18 @@
     "geom:latitude":46.851035,
     "geom:longitude":6.669596,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.849806,
     "lbl:longitude":6.669307,
     "lbl:max_zoom":18.0,
@@ -113,11 +125,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5551",
+        "chgov:number_qualified":"2205551",
         "eg:gisco_id":"CH_CH5551",
         "eurostat:nuts_2021_id":"CH5551",
         "gn:id":7285294,
         "qs_pg:id":106537
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -134,7 +152,7 @@
         }
     ],
     "wof:id":404570417,
-    "wof:lastmodified":1684351746,
+    "wof:lastmodified":1695878936,
     "wof:name":"Bonvillars",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

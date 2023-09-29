@@ -22,6 +22,18 @@
     "geom:latitude":46.858858,
     "geom:longitude":7.492363,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.854335,
     "lbl:longitude":7.493415,
     "lbl:max_zoom":18.0,
@@ -134,11 +146,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0884",
+        "chgov:number_qualified":"0200884",
         "eg:gisco_id":"CH_CH0884",
         "eurostat:nuts_2021_id":"CH0884",
         "gp:id":12684503,
         "qs_pg:id":324146
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126015367
     ],
@@ -158,7 +176,7 @@
         }
     ],
     "wof:id":404571299,
-    "wof:lastmodified":1684351757,
+    "wof:lastmodified":1695878950,
     "wof:name":"Toffen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

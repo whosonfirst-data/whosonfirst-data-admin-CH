@@ -22,6 +22,18 @@
     "geom:latitude":47.105188,
     "geom:longitude":7.644248,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.104824,
     "lbl:longitude":7.644474,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0421",
+        "chgov:number_qualified":"0200421",
         "eg:gisco_id":"CH_CH0421",
         "eurostat:nuts_2021_id":"CH0421",
         "gn:id":7286980,
         "gp:id":20075375,
         "qs_pg:id":50227
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1193167849
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404572385,
-    "wof:lastmodified":1684351769,
+    "wof:lastmodified":1695878964,
     "wof:name":"Rumendingen",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",

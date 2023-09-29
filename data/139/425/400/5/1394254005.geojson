@@ -22,6 +22,18 @@
     "geom:latitude":47.061824,
     "geom:longitude":7.420552,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.0593,
     "lbl:longitude":7.421232,
     "lbl:max_zoom":18.0,
@@ -109,9 +121,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0310",
         "eg:gisco_id":"CH_CH0310",
         "eurostat:nuts_2021_id":"CH0310"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"f1445d80769bc9133e0617d5249b832a",
     "wof:hierarchy":[
@@ -124,7 +138,7 @@
         }
     ],
     "wof:id":1394254005,
-    "wof:lastmodified":1684351778,
+    "wof:lastmodified":1695878974,
     "wof:name":"Rapperswil",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",

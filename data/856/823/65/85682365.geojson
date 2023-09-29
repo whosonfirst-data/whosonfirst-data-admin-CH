@@ -469,20 +469,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"11",
         "digitalenvoy:region_code":10177,
         "eurostat:nuts_2021_id":"CH023",
         "fips:code":"SZ18",
         "gn:id":2658563,
         "gp:id":2347100,
         "hasc:id":"CH.SO",
+        "iso:code":"CH-SO",
         "iso:id":"CH-SO",
         "wd:id":"Q11929"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8dbc11768c87cbcbb164dd9b88cff8fc",
+    "wof:geomhash":"8003b9b8dda5c1d1c6760fba94392a40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -504,7 +510,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865972,
+    "wof:lastmodified":1695885199,
     "wof:name":"Solothurn",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

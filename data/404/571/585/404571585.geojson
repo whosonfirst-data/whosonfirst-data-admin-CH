@@ -22,6 +22,18 @@
     "geom:latitude":46.696639,
     "geom:longitude":6.976146,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.697629,
     "lbl:longitude":6.976404,
     "lbl:max_zoom":18.0,
@@ -119,11 +131,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2086",
+        "chgov:number_qualified":"1002086",
         "eg:gisco_id":"CH_CH2086",
         "eurostat:nuts_2021_id":"CH2086",
         "gn:id":7286452,
         "qs_pg:id":671451
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1209345783
     ],
@@ -143,7 +161,7 @@
         }
     ],
     "wof:id":404571585,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878954,
     "wof:name":"Massonnens",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",

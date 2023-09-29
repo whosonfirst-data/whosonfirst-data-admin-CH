@@ -22,6 +22,18 @@
     "geom:latitude":47.210477,
     "geom:longitude":7.495731,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.212237,
     "lbl:longitude":7.49606,
     "lbl:max_zoom":18.0,
@@ -130,12 +142,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2542",
+        "chgov:number_qualified":"1102542",
         "eg:gisco_id":"CH_CH2542",
         "eurostat:nuts_2021_id":"CH2542",
         "gn:id":7285185,
         "gp:id":12684915,
         "qs_pg:id":1286667
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125771887
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404328667,
-    "wof:lastmodified":1684351699,
+    "wof:lastmodified":1695878883,
     "wof:name":"Bellach",
     "wof:parent_id":1394137087,
     "wof:placetype":"localadmin",

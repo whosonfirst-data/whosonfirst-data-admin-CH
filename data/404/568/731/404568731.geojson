@@ -22,6 +22,18 @@
     "geom:latitude":47.190991,
     "geom:longitude":7.138628,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.196767,
     "lbl:longitude":7.138632,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0431",
+        "chgov:number_qualified":"0200431",
         "eg:gisco_id":"CH_CH0431",
         "eurostat:nuts_2021_id":"CH0431",
         "gn:id":7285556,
         "gp:id":12683240,
         "qs_pg:id":238785
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404568731,
-    "wof:lastmodified":1684351724,
+    "wof:lastmodified":1695878911,
     "wof:name":"Corg\u00e9mont",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",

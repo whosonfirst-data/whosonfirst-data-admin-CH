@@ -22,6 +22,18 @@
     "geom:latitude":46.617949,
     "geom:longitude":7.127808,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.617846,
     "lbl:longitude":7.128733,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2128",
+        "chgov:number_qualified":"1002128",
         "eg:gisco_id":"CH_CH2128",
         "eurostat:nuts_2021_id":"CH2128",
         "gn:id":7285480,
         "gp:id":20075475,
         "qs_pg:id":911121
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125818555
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404573137,
-    "wof:lastmodified":1684351771,
+    "wof:lastmodified":1695878966,
     "wof:name":"Ch\u00e2tel-sur-Montsalvens",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",

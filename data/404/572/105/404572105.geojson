@@ -22,6 +22,18 @@
     "geom:latitude":46.824971,
     "geom:longitude":6.573762,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.826382,
     "lbl:longitude":6.572497,
     "lbl:max_zoom":18.0,
@@ -119,11 +131,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5937",
+        "chgov:number_qualified":"2205937",
         "eg:gisco_id":"CH_CH5937",
         "eurostat:nuts_2021_id":"CH5937",
         "gp:id":20075653,
         "qs_pg:id":50527
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125949949
     ],
@@ -143,7 +161,7 @@
         }
     ],
     "wof:id":404572105,
-    "wof:lastmodified":1684351766,
+    "wof:lastmodified":1695878961,
     "wof:name":"Vugelles-La Mothe",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

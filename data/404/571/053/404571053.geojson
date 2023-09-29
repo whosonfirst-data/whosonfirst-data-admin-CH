@@ -22,6 +22,18 @@
     "geom:latitude":47.470576,
     "geom:longitude":7.765567,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.469862,
     "lbl:longitude":7.765272,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2828",
+        "chgov:number_qualified":"1302828",
         "eg:gisco_id":"CH_CH2828",
         "eurostat:nuts_2021_id":"CH2828",
         "gn:id":7286284,
         "gp:id":12683843,
         "qs_pg:id":1102326
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125979979
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404571053,
-    "wof:lastmodified":1684351754,
+    "wof:lastmodified":1695878946,
     "wof:name":"Lausen",
     "wof:parent_id":102062929,
     "wof:placetype":"localadmin",

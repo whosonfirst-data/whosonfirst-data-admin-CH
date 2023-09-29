@@ -22,6 +22,18 @@
     "geom:latitude":47.269551,
     "geom:longitude":8.968807,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.279555,
     "lbl:longitude":8.977579,
     "lbl:max_zoom":18.0,
@@ -100,9 +112,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3342",
         "eg:gisco_id":"CH_CH3342",
         "eurostat:nuts_2021_id":"CH3342"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"d446f07e9705f57d363eefb3b54ce4b8",
     "wof:hierarchy":[
@@ -115,7 +129,7 @@
         }
     ],
     "wof:id":1394253985,
-    "wof:lastmodified":1684351777,
+    "wof:lastmodified":1695878973,
     "wof:name":"Eschenbach",
     "wof:parent_id":102062815,
     "wof:placetype":"localadmin",

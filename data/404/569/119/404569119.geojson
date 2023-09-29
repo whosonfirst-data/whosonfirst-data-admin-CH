@@ -22,6 +22,18 @@
     "geom:latitude":46.686128,
     "geom:longitude":6.384175,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.682647,
     "lbl:longitude":6.380774,
     "lbl:max_zoom":18.0,
@@ -113,12 +125,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5765",
+        "chgov:number_qualified":"2205765",
         "eg:gisco_id":"CH_CH5765",
         "eurostat:nuts_2021_id":"CH5765",
         "gn:id":7287420,
         "gp:id":12683804,
         "qs_pg:id":671645
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126014769
     ],
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":404569119,
-    "wof:lastmodified":1684351730,
+    "wof:lastmodified":1695878918,
     "wof:name":"Vaulion",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.174596,
     "geom:longitude":8.062635,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.165596,
     "lbl:longitude":8.072879,
     "lbl:max_zoom":18.0,
@@ -103,12 +115,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1091",
+        "chgov:number_qualified":"0301091",
         "eg:gisco_id":"CH_CH1091",
         "eurostat:nuts_2021_id":"CH1091",
         "gn:id":7286463,
         "gp:id":12683954,
         "qs_pg:id":43683
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -125,7 +143,7 @@
         }
     ],
     "wof:id":404328525,
-    "wof:lastmodified":1684351697,
+    "wof:lastmodified":1695878881,
     "wof:name":"Mauensee",
     "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.537166,
     "geom:longitude":8.131677,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.53655,
     "lbl:longitude":8.132134,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4164",
+        "chgov:number_qualified":"1904164",
         "eg:gisco_id":"CH_CH4164",
         "eurostat:nuts_2021_id":"CH4164",
         "gn:id":7285893,
         "gp:id":12684960,
         "qs_pg:id":952960
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1243490237
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404570099,
-    "wof:lastmodified":1684351742,
+    "wof:lastmodified":1695878932,
     "wof:name":"Gansingen",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",

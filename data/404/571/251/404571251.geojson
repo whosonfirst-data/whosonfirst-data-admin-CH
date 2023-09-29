@@ -22,6 +22,18 @@
     "geom:latitude":46.141918,
     "geom:longitude":8.727345,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.145708,
     "lbl:longitude":8.718319,
     "lbl:max_zoom":18.0,
@@ -123,12 +135,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5125",
+        "chgov:number_qualified":"2105125",
         "eg:gisco_id":"CH_CH5125",
         "eurostat:nuts_2021_id":"CH5125",
         "gn:id":7286945,
         "gp:id":12684292,
         "qs_pg:id":1197355
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":404571251,
-    "wof:lastmodified":1684351756,
+    "wof:lastmodified":1695878949,
     "wof:name":"Ronco sopra Ascona",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",

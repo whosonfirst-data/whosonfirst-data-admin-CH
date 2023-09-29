@@ -22,6 +22,18 @@
     "geom:latitude":47.0149,
     "geom:longitude":8.487082,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.015174,
     "lbl:longitude":8.487499,
     "lbl:max_zoom":18.0,
@@ -142,12 +154,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1068",
+        "chgov:number_qualified":"0301068",
         "eg:gisco_id":"CH_CH1068",
         "eurostat:nuts_2021_id":"CH1068",
         "gn:id":7287489,
         "gp:id":12684590,
         "qs_pg:id":1095248
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125958315
     ],
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":404328397,
-    "wof:lastmodified":1684351695,
+    "wof:lastmodified":1695878879,
     "wof:name":"Vitznau",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",

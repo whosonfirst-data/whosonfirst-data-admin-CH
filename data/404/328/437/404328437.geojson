@@ -22,6 +22,18 @@
     "geom:latitude":47.195273,
     "geom:longitude":8.070906,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.196444,
     "lbl:longitude":8.074789,
     "lbl:max_zoom":18.0,
@@ -139,12 +151,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1089",
+        "chgov:number_qualified":"0301089",
         "eg:gisco_id":"CH_CH1089",
         "eurostat:nuts_2021_id":"CH1089",
         "gn:id":7286212,
         "gp:id":12683776,
         "qs_pg:id":238928
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -161,7 +179,7 @@
         }
     ],
     "wof:id":404328437,
-    "wof:lastmodified":1684351696,
+    "wof:lastmodified":1695878879,
     "wof:name":"Knutwil",
     "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",

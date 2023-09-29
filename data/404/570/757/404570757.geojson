@@ -22,6 +22,18 @@
     "geom:latitude":47.224458,
     "geom:longitude":8.462612,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.224069,
     "lbl:longitude":8.462215,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0007",
+        "chgov:number_qualified":"0100007",
         "eg:gisco_id":"CH_CH0007",
         "eurostat:nuts_2021_id":"CH0007",
         "gn:id":7286211,
         "gp:id":12683775,
         "qs_pg:id":1059674
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125980431
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404570757,
-    "wof:lastmodified":1684351750,
+    "wof:lastmodified":1695878941,
     "wof:name":"Knonau",
     "wof:parent_id":102062775,
     "wof:placetype":"localadmin",

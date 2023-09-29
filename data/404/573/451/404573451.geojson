@@ -22,6 +22,18 @@
     "geom:latitude":46.273807,
     "geom:longitude":8.863588,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.277621,
     "lbl:longitude":8.864237,
     "lbl:max_zoom":18.0,
@@ -127,9 +139,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5112",
+        "chgov:number_qualified":"2105112",
         "eg:gisco_id":"CH_CH5112",
         "eurostat:nuts_2021_id":"CH5112"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125912855
     ],
@@ -148,7 +166,7 @@
         }
     ],
     "wof:id":404573451,
-    "wof:lastmodified":1684351774,
+    "wof:lastmodified":1695878969,
     "wof:name":"Lavertezzo",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.068857,
     "geom:longitude":7.356343,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.069815,
     "lbl:longitude":7.355757,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0303",
+        "chgov:number_qualified":"0200303",
         "eg:gisco_id":"CH_CH0303",
         "eurostat:nuts_2021_id":"CH0303",
         "gn:id":7285988,
         "gp:id":12683610,
         "qs_pg:id":500342
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404568911,
-    "wof:lastmodified":1684351727,
+    "wof:lastmodified":1695878915,
     "wof:name":"Grossaffoltern",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",

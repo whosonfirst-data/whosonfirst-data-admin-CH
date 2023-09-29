@@ -22,6 +22,18 @@
     "geom:latitude":46.839566,
     "geom:longitude":7.496487,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.839034,
     "lbl:longitude":7.500736,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0869",
+        "chgov:number_qualified":"0200869",
         "eg:gisco_id":"CH_CH0869",
         "eurostat:nuts_2021_id":"CH0869",
         "gn:id":7286183,
         "gp:id":12683673,
         "qs_pg:id":1154278
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125970509
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404573127,
-    "wof:lastmodified":1684351771,
+    "wof:lastmodified":1695878966,
     "wof:name":"Kaufdorf",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

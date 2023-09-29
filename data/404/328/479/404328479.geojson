@@ -22,6 +22,18 @@
     "geom:latitude":47.267711,
     "geom:longitude":7.979016,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.266029,
     "lbl:longitude":7.975848,
     "lbl:max_zoom":18.0,
@@ -130,12 +142,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1147",
+        "chgov:number_qualified":"0301147",
         "eg:gisco_id":"CH_CH1147",
         "eurostat:nuts_2021_id":"CH1147",
         "gn:id":7287572,
         "gp:id":12684630,
         "qs_pg:id":952933
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":404328479,
-    "wof:lastmodified":1684351696,
+    "wof:lastmodified":1695878880,
     "wof:name":"Wikon",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.762127,
     "geom:longitude":6.586756,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.760743,
     "lbl:longitude":6.586982,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5930",
+        "chgov:number_qualified":"2205930",
         "eg:gisco_id":"CH_CH5930",
         "eurostat:nuts_2021_id":"CH5930",
         "gn:id":7287269,
         "gp:id":12684804,
         "qs_pg:id":908437
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1310040849
     ],
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404571631,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878954,
     "wof:name":"Susc\u00e9vaz",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

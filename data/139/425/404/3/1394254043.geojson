@@ -22,6 +22,18 @@
     "geom:latitude":45.978206,
     "geom:longitude":8.914025,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.977753,
     "lbl:longitude":8.912416,
     "lbl:max_zoom":18.0,
@@ -112,9 +124,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5236",
         "eg:gisco_id":"CH_CH5236",
         "eurostat:nuts_2021_id":"CH5236"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"c8c4290229269f891da9adc8e3a8423b",
     "wof:hierarchy":[
@@ -127,7 +141,7 @@
         }
     ],
     "wof:id":1394254043,
-    "wof:lastmodified":1684351779,
+    "wof:lastmodified":1695878975,
     "wof:name":"Collina d'Oro",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

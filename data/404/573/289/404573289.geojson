@@ -22,6 +22,18 @@
     "geom:latitude":47.532106,
     "geom:longitude":7.717179,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.530207,
     "lbl:longitude":7.721495,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2822",
+        "chgov:number_qualified":"1302822",
         "eg:gisco_id":"CH_CH2822",
         "eurostat:nuts_2021_id":"CH2822",
         "gn:id":7285117,
         "gp:id":12682854,
         "qs_pg:id":538413
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126025213
     ],
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":404573289,
-    "wof:lastmodified":1684351773,
+    "wof:lastmodified":1695878968,
     "wof:name":"Augst",
     "wof:parent_id":102062929,
     "wof:placetype":"localadmin",

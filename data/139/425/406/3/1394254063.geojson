@@ -22,6 +22,18 @@
     "geom:latitude":46.204391,
     "geom:longitude":9.019505,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.210428,
     "lbl:longitude":8.987315,
     "lbl:max_zoom":18.0,
@@ -247,9 +259,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5002",
         "eg:gisco_id":"CH_CH5002",
         "eurostat:nuts_2021_id":"CH5002"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"48d168e975031447d4bb616d05f804a1",
     "wof:hierarchy":[
@@ -262,7 +276,7 @@
         }
     ],
     "wof:id":1394254063,
-    "wof:lastmodified":1684351780,
+    "wof:lastmodified":1695878976,
     "wof:name":"Bellinzona",
     "wof:parent_id":102062991,
     "wof:placetype":"localadmin",

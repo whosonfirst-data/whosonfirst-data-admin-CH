@@ -22,6 +22,18 @@
     "geom:latitude":46.901232,
     "geom:longitude":6.684172,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.90576,
     "lbl:longitude":6.689571,
     "lbl:max_zoom":18.0,
@@ -272,12 +284,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5566",
+        "chgov:number_qualified":"2205566",
         "eg:gisco_id":"CH_CH5566",
         "eurostat:nuts_2021_id":"CH5566",
         "gn:id":7286840,
         "gp:id":20075598,
         "qs_pg:id":262931
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -294,7 +312,7 @@
         }
     ],
     "wof:id":404568235,
-    "wof:lastmodified":1684351714,
+    "wof:lastmodified":1695878900,
     "wof:name":"Provence",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

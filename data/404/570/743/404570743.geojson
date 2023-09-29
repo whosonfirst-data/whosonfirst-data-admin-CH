@@ -22,6 +22,18 @@
     "geom:latitude":47.245013,
     "geom:longitude":8.499001,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.246287,
     "lbl:longitude":8.503241,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0012",
+        "chgov:number_qualified":"0100012",
         "eg:gisco_id":"CH_CH0012",
         "eurostat:nuts_2021_id":"CH0012",
         "gn:id":7286912,
         "gp:id":12685087,
         "qs_pg:id":539118
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125809025
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404570743,
-    "wof:lastmodified":1684351750,
+    "wof:lastmodified":1695878941,
     "wof:name":"Rifferswil",
     "wof:parent_id":102062775,
     "wof:placetype":"localadmin",

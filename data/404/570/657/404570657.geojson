@@ -22,6 +22,18 @@
     "geom:latitude":46.427291,
     "geom:longitude":6.963851,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.420553,
     "lbl:longitude":6.94397,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5891",
+        "chgov:number_qualified":"2205891",
         "eg:gisco_id":"CH_CH5891",
         "eurostat:nuts_2021_id":"CH5891",
         "gn:id":7287449,
         "gp:id":12683559,
         "qs_pg:id":671657
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125808793
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404570657,
-    "wof:lastmodified":1684351749,
+    "wof:lastmodified":1695878940,
     "wof:name":"Veytaux",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",

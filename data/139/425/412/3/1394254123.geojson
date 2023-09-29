@@ -22,6 +22,18 @@
     "geom:latitude":47.058991,
     "geom:longitude":6.913091,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.064881,
     "lbl:longitude":6.931529,
     "lbl:max_zoom":18.0,
@@ -81,9 +93,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6487",
         "eg:gisco_id":"CH_CH6487",
         "eurostat:nuts_2021_id":"CH6487"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"511e078407ecaf67f1a9067b987e547d",
     "wof:hierarchy":[
@@ -95,7 +109,7 @@
         }
     ],
     "wof:id":1394254123,
-    "wof:lastmodified":1684351782,
+    "wof:lastmodified":1695878979,
     "wof:name":"Val-de-Ruz",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",

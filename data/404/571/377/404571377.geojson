@@ -22,6 +22,18 @@
     "geom:latitude":47.234801,
     "geom:longitude":8.429163,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.23565,
     "lbl:longitude":8.427489,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0008",
+        "chgov:number_qualified":"0100008",
         "eg:gisco_id":"CH_CH0008",
         "eurostat:nuts_2021_id":"CH0008",
         "gn:id":7286447,
         "gp:id":12683946,
         "qs_pg:id":911078
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125999327
     ],
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":404571377,
-    "wof:lastmodified":1684351758,
+    "wof:lastmodified":1695878951,
     "wof:name":"Maschwanden",
     "wof:parent_id":102062775,
     "wof:placetype":"localadmin",

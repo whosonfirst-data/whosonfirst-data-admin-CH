@@ -504,20 +504,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"24",
         "digitalenvoy:region_code":10173,
         "eurostat:nuts_2021_id":"CH024",
         "fips:code":"SZ12",
         "gn:id":2659495,
         "gp:id":2347094,
         "hasc:id":"CH.NE",
+        "iso:code":"CH-NE",
         "iso:id":"CH-NE",
         "wd:id":"Q12738"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e3567840f6562aeced213c2bf5e3b0ee",
+    "wof:geomhash":"9a6e39e0ad36fba890ccfc89426ba3c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -539,7 +545,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865969,
+    "wof:lastmodified":1695885199,
     "wof:name":"Neuchatel",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

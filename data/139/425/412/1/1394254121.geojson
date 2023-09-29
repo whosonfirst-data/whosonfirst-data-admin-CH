@@ -20,6 +20,18 @@
     "geom:latitude":46.638166,
     "geom:longitude":6.285947,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.638569,
     "lbl:longitude":6.286648,
     "lbl:max_zoom":18.0,
@@ -52,9 +64,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"9751",
         "eg:gisco_id":"CH_CH9751",
         "eurostat:nuts_2021_id":"CH9751"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"ba4980990e3359ee3b68a8129b443232",
     "wof:hierarchy":[
@@ -67,7 +81,7 @@
         }
     ],
     "wof:id":1394254121,
-    "wof:lastmodified":1684351782,
+    "wof:lastmodified":1695878978,
     "wof:name":"Lac de Joux",
     "wof:parent_id":1394212859,
     "wof:placetype":"localadmin",

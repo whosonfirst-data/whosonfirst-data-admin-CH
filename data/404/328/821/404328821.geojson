@@ -22,6 +22,18 @@
     "geom:latitude":47.094202,
     "geom:longitude":8.372648,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.093955,
     "lbl:longitude":8.372413,
     "lbl:max_zoom":18.0,
@@ -130,12 +142,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1053",
+        "chgov:number_qualified":"0301053",
         "eg:gisco_id":"CH_CH1053",
         "eurostat:nuts_2021_id":"CH1053",
         "gn:id":7285648,
         "gp:id":12685073,
         "qs_pg:id":903238
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126022377
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404328821,
-    "wof:lastmodified":1684351701,
+    "wof:lastmodified":1695878886,
     "wof:name":"Dierikon",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",

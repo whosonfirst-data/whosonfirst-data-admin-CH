@@ -22,6 +22,18 @@
     "geom:latitude":47.408311,
     "geom:longitude":8.331925,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.407954,
     "lbl:longitude":8.329816,
     "lbl:max_zoom":18.0,
@@ -136,9 +148,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4039",
+        "chgov:number_qualified":"1904039",
         "eg:gisco_id":"CH_CH4039",
         "eurostat:nuts_2021_id":"CH4039"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125771677
     ],
@@ -157,7 +175,7 @@
         }
     ],
     "wof:id":404571751,
-    "wof:lastmodified":1684351762,
+    "wof:lastmodified":1695878956,
     "wof:name":"Remetschwil",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",

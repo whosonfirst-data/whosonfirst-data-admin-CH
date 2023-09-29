@@ -22,6 +22,18 @@
     "geom:latitude":46.591199,
     "geom:longitude":6.567355,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.591225,
     "lbl:longitude":6.567347,
     "lbl:max_zoom":18.0,
@@ -110,12 +122,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5501",
+        "chgov:number_qualified":"2205501",
         "eg:gisco_id":"CH_CH5501",
         "eurostat:nuts_2021_id":"CH5501",
         "gn:id":7287260,
         "gp:id":12684683,
         "qs_pg:id":32143
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125968465
     ],
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":404571741,
-    "wof:lastmodified":1684351762,
+    "wof:lastmodified":1695878956,
     "wof:name":"Sullens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

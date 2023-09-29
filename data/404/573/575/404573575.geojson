@@ -22,6 +22,18 @@
     "geom:latitude":46.12376,
     "geom:longitude":8.693828,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.12517,
     "lbl:longitude":8.693326,
     "lbl:max_zoom":18.0,
@@ -136,9 +148,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5097",
+        "chgov:number_qualified":"2105097",
         "eg:gisco_id":"CH_CH5097",
         "eurostat:nuts_2021_id":"CH5097"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853213
     ],
@@ -157,7 +175,7 @@
         }
     ],
     "wof:id":404573575,
-    "wof:lastmodified":1684351775,
+    "wof:lastmodified":1695878970,
     "wof:name":"Brissago",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.294826,
     "geom:longitude":7.458093,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.279137,
     "lbl:longitude":7.455059,
     "lbl:max_zoom":18.0,
@@ -77,12 +89,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6240",
+        "chgov:number_qualified":"2306240",
         "eg:gisco_id":"CH_CH6240",
         "eurostat:nuts_2021_id":"CH6240",
         "gn:id":7286317,
         "gp:id":12683190,
         "qs_pg:id":32017
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -99,7 +117,7 @@
         }
     ],
     "wof:id":404569029,
-    "wof:lastmodified":1684351729,
+    "wof:lastmodified":1695878917,
     "wof:name":"Lens",
     "wof:parent_id":102062793,
     "wof:placetype":"localadmin",

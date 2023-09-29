@@ -22,6 +22,18 @@
     "geom:latitude":46.812342,
     "geom:longitude":8.599393,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.815458,
     "lbl:longitude":8.598134,
     "lbl:max_zoom":18.0,
@@ -146,9 +158,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1206",
+        "chgov:number_qualified":"0401206",
         "eg:gisco_id":"CH_CH1206",
         "eurostat:nuts_2021_id":"CH1206"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853907
     ],
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":404328149,
-    "wof:lastmodified":1684351690,
+    "wof:lastmodified":1695878873,
     "wof:name":"Erstfeld",
     "wof:parent_id":102062879,
     "wof:placetype":"localadmin",

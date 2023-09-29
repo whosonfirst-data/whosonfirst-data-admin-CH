@@ -20,6 +20,18 @@
     "geom:latitude":46.91855,
     "geom:longitude":7.056998,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.919398,
     "lbl:longitude":7.057484,
     "lbl:max_zoom":18.0,
@@ -59,9 +71,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"9296",
+        "chgov:number_qualified":"2209296",
         "eg:gisco_id":"CH_CH9296",
         "eurostat:nuts_2021_id":"CH9296"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -77,7 +95,7 @@
         }
     ],
     "wof:id":404570447,
-    "wof:lastmodified":1684351746,
+    "wof:lastmodified":1695878937,
     "wof:name":"Lac de Morat",
     "wof:parent_id":102063021,
     "wof:placetype":"localadmin",

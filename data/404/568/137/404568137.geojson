@@ -22,6 +22,18 @@
     "geom:latitude":46.346317,
     "geom:longitude":8.893989,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.345498,
     "lbl:longitude":8.893167,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5076",
+        "chgov:number_qualified":"2105076",
         "eg:gisco_id":"CH_CH5076",
         "eurostat:nuts_2021_id":"CH5076",
         "gn:id":7286783,
         "gp:id":12684194,
         "qs_pg:id":1001316
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1310140405
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404568137,
-    "wof:lastmodified":1684351712,
+    "wof:lastmodified":1695878898,
     "wof:name":"Personico",
     "wof:parent_id":102062931,
     "wof:placetype":"localadmin",

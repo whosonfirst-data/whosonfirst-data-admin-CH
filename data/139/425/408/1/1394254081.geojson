@@ -22,6 +22,18 @@
     "geom:latitude":46.882441,
     "geom:longitude":10.396125,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.865632,
     "lbl:longitude":10.415737,
     "lbl:max_zoom":18.0,
@@ -73,9 +85,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3764",
         "eg:gisco_id":"CH_CH3764",
         "eurostat:nuts_2021_id":"CH3764"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"28ff60e9719dcc820581f13dc087ef89",
     "wof:hierarchy":[
@@ -88,7 +102,7 @@
         }
     ],
     "wof:id":1394254081,
-    "wof:lastmodified":1684351780,
+    "wof:lastmodified":1695878977,
     "wof:name":"Valsot",
     "wof:parent_id":1394137067,
     "wof:placetype":"localadmin",

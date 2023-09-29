@@ -22,6 +22,18 @@
     "geom:latitude":47.142091,
     "geom:longitude":9.094045,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.142228,
     "lbl:longitude":9.096294,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3316",
+        "chgov:number_qualified":"1703316",
         "eg:gisco_id":"CH_CH3316",
         "eurostat:nuts_2021_id":"CH3316",
         "gn:id":7287551,
         "gp:id":12684614,
         "qs_pg:id":671681
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404570987,
-    "wof:lastmodified":1684351753,
+    "wof:lastmodified":1695878945,
     "wof:name":"Weesen",
     "wof:parent_id":102062815,
     "wof:placetype":"localadmin",

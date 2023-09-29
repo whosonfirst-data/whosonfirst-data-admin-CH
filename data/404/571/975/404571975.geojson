@@ -22,6 +22,18 @@
     "geom:latitude":46.454839,
     "geom:longitude":6.869246,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.455338,
     "lbl:longitude":6.869551,
     "lbl:max_zoom":18.0,
@@ -152,11 +164,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5889",
+        "chgov:number_qualified":"2205889",
         "eg:gisco_id":"CH_CH5889",
         "eurostat:nuts_2021_id":"CH5889",
         "gn:id":7286273,
         "qs_pg:id":671415
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101828593
     ],
@@ -176,7 +194,7 @@
         }
     ],
     "wof:id":404571975,
-    "wof:lastmodified":1684351765,
+    "wof:lastmodified":1695878959,
     "wof:name":"La Tour-de-Peilz",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",

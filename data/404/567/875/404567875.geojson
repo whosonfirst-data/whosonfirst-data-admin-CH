@@ -22,6 +22,18 @@
     "geom:latitude":46.402111,
     "geom:longitude":7.627671,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.405075,
     "lbl:longitude":7.633776,
     "lbl:max_zoom":18.0,
@@ -158,12 +170,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6111",
+        "chgov:number_qualified":"2306111",
         "eg:gisco_id":"CH_CH6111",
         "eurostat:nuts_2021_id":"CH6111",
         "gn:id":7286339,
         "gp:id":12683477,
         "qs_pg:id":1312574
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125846409
     ],
@@ -183,7 +201,7 @@
         }
     ],
     "wof:id":404567875,
-    "wof:lastmodified":1684351707,
+    "wof:lastmodified":1695878892,
     "wof:name":"Leukerbad",
     "wof:parent_id":102062761,
     "wof:placetype":"localadmin",

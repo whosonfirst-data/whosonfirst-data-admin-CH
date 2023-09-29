@@ -22,6 +22,18 @@
     "geom:latitude":46.623538,
     "geom:longitude":6.688669,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.624891,
     "lbl:longitude":6.688383,
     "lbl:max_zoom":18.0,
@@ -113,12 +125,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5533",
+        "chgov:number_qualified":"2205533",
         "eg:gisco_id":"CH_CH5533",
         "eurostat:nuts_2021_id":"CH5533",
         "gn:id":7286808,
         "gp:id":20075592,
         "qs_pg:id":106651
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1310536169
     ],
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":404571253,
-    "wof:lastmodified":1684351756,
+    "wof:lastmodified":1695878949,
     "wof:name":"Poliez-Pittet",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

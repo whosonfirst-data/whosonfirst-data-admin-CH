@@ -22,6 +22,18 @@
     "geom:latitude":46.311157,
     "geom:longitude":6.166382,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.309947,
     "lbl:longitude":6.175715,
     "lbl:max_zoom":18.0,
@@ -128,11 +140,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5729",
+        "chgov:number_qualified":"2205729",
         "eg:gisco_id":"CH_CH5729",
         "eurostat:nuts_2021_id":"CH5729",
         "gn:id":7287278,
         "qs_pg:id":1047663
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":404573219,
-    "wof:lastmodified":1684351772,
+    "wof:lastmodified":1695878967,
     "wof:name":"Tannay",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

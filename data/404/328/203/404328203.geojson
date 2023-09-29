@@ -22,6 +22,18 @@
     "geom:latitude":47.046962,
     "geom:longitude":8.310211,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.050579,
     "lbl:longitude":8.308551,
     "lbl:max_zoom":18.0,
@@ -193,12 +205,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1061",
+        "chgov:number_qualified":"0301061",
         "eg:gisco_id":"CH_CH1061",
         "eurostat:nuts_2021_id":"CH1061",
         "gn:id":7286409,
         "gp:id":12683921,
         "qs_pg:id":1188062
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101748451
     ],
@@ -218,7 +236,7 @@
         }
     ],
     "wof:id":404328203,
-    "wof:lastmodified":1684351691,
+    "wof:lastmodified":1695878875,
     "wof:name":"Luzern",
     "wof:parent_id":1394137117,
     "wof:placetype":"localadmin",

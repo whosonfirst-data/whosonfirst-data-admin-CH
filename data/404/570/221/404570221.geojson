@@ -22,6 +22,18 @@
     "geom:latitude":47.441758,
     "geom:longitude":8.006956,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.44231,
     "lbl:longitude":8.00907,
     "lbl:max_zoom":18.0,
@@ -101,12 +113,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4173",
+        "chgov:number_qualified":"1904173",
         "eg:gisco_id":"CH_CH4173",
         "eurostat:nuts_2021_id":"CH4173",
         "gn:id":7286695,
         "gp:id":12684948,
         "qs_pg:id":498941
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1210051013
     ],
@@ -126,7 +144,7 @@
         }
     ],
     "wof:id":404570221,
-    "wof:lastmodified":1684351744,
+    "wof:lastmodified":1695878934,
     "wof:name":"Oberhof",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",

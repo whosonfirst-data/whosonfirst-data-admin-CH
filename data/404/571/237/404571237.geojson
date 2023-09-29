@@ -22,6 +22,18 @@
     "geom:latitude":47.437488,
     "geom:longitude":8.290749,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.436378,
     "lbl:longitude":8.286608,
     "lbl:max_zoom":18.0,
@@ -137,11 +149,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4027",
+        "chgov:number_qualified":"1904027",
         "eg:gisco_id":"CH_CH4027",
         "eurostat:nuts_2021_id":"CH4027",
         "gp:id":12685246,
         "qs_pg:id":62114
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126044039
     ],
@@ -161,7 +179,7 @@
         }
     ],
     "wof:id":404571237,
-    "wof:lastmodified":1684351756,
+    "wof:lastmodified":1695878949,
     "wof:name":"Fislisbach",
     "wof:parent_id":102062843,
     "wof:placetype":"localadmin",

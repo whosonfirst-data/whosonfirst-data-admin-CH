@@ -22,6 +22,18 @@
     "geom:latitude":46.963873,
     "geom:longitude":9.811728,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.965726,
     "lbl:longitude":9.833737,
     "lbl:max_zoom":18.0,
@@ -124,9 +136,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3891",
         "eg:gisco_id":"CH_CH3891",
         "eurostat:nuts_2021_id":"CH3891"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"6b4e52baaa7a97c9afea0a06f0c748a2",
     "wof:hierarchy":[
@@ -139,7 +153,7 @@
         }
     ],
     "wof:id":1394254185,
-    "wof:lastmodified":1684351784,
+    "wof:lastmodified":1695878981,
     "wof:name":"Luzein",
     "wof:parent_id":102062803,
     "wof:placetype":"localadmin",

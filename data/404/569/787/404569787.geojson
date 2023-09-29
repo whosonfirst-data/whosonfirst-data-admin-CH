@@ -22,6 +22,18 @@
     "geom:latitude":47.439198,
     "geom:longitude":8.093385,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.439842,
     "lbl:longitude":8.09651,
     "lbl:max_zoom":18.0,
@@ -113,12 +125,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4117",
+        "chgov:number_qualified":"1904117",
         "eg:gisco_id":"CH_CH4117",
         "eurostat:nuts_2021_id":"CH4117",
         "gn:id":7287297,
         "gp:id":12684492,
         "qs_pg:id":539055
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126016139
     ],
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":404569787,
-    "wof:lastmodified":1684351738,
+    "wof:lastmodified":1695878927,
     "wof:name":"Thalheim",
     "wof:parent_id":102062993,
     "wof:placetype":"localadmin",

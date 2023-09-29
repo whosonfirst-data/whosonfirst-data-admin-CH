@@ -22,6 +22,18 @@
     "geom:latitude":46.003615,
     "geom:longitude":8.85571,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.999077,
     "lbl:longitude":8.86187,
     "lbl:max_zoom":18.0,
@@ -76,12 +88,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5181",
+        "chgov:number_qualified":"2105181",
         "eg:gisco_id":"CH_CH5181",
         "eurostat:nuts_2021_id":"CH5181",
         "gn:id":7285610,
         "gp:id":20075561,
         "qs_pg:id":1234162
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125879009
     ],
@@ -100,7 +118,7 @@
         }
     ],
     "wof:id":1175611229,
-    "wof:lastmodified":1684351776,
+    "wof:lastmodified":1695878972,
     "wof:name":"Curio",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

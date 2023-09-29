@@ -22,6 +22,18 @@
     "geom:latitude":47.066684,
     "geom:longitude":7.578633,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.070057,
     "lbl:longitude":7.580714,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0415",
+        "chgov:number_qualified":"0200415",
         "eg:gisco_id":"CH_CH0415",
         "eurostat:nuts_2021_id":"CH0415",
         "gn:id":7286411,
         "gp:id":12683923,
         "qs_pg:id":995407
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404570893,
-    "wof:lastmodified":1684351752,
+    "wof:lastmodified":1695878943,
     "wof:name":"Lyssach",
     "wof:parent_id":102062837,
     "wof:placetype":"localadmin",

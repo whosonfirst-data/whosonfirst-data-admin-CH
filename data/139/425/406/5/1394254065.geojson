@@ -22,6 +22,18 @@
     "geom:latitude":46.802991,
     "geom:longitude":7.091945,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.802267,
     "lbl:longitude":7.091466,
     "lbl:max_zoom":18.0,
@@ -109,9 +121,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2183",
         "eg:gisco_id":"CH_CH2183",
         "eurostat:nuts_2021_id":"CH2183"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"f8423b030305656cc6be0f57ec1f9418",
     "wof:hierarchy":[
@@ -124,7 +138,7 @@
         }
     ],
     "wof:id":1394254065,
-    "wof:lastmodified":1684351780,
+    "wof:lastmodified":1695878976,
     "wof:name":"Corminboeuf",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",

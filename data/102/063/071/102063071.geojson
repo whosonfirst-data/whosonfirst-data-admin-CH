@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010943,
-    "geom:area_square_m":91625193.106467,
+    "geom:area_square_m":91625193.106465,
     "geom:bbox":"8.448007,47.32022,8.625442,47.434666",
     "geom:latitude":47.381416,
     "geom:longitude":8.531369,
@@ -78,7 +78,10 @@
         85682309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"0112"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:coterminous":[
         1394254167,
         101748463
@@ -87,7 +90,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0b01b672223eb496149b14b26aac4d5f",
+    "wof:geomhash":"6200d3d96c1562297cf120075c7c7eb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":102063071,
-    "wof:lastmodified":1627522001,
+    "wof:lastmodified":1695886484,
     "wof:name":"Zurich",
     "wof:parent_id":85682309,
     "wof:placetype":"county",

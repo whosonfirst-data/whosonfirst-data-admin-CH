@@ -22,6 +22,18 @@
     "geom:latitude":46.646689,
     "geom:longitude":6.572959,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.646853,
     "lbl:longitude":6.57266,
     "lbl:max_zoom":18.0,
@@ -62,12 +74,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5529",
+        "chgov:number_qualified":"2205529",
         "eg:gisco_id":"CH_CH5529",
         "eurostat:nuts_2021_id":"CH5529",
         "gn:id":7286765,
         "gp:id":20075590,
         "qs_pg:id":671519
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126000927
     ],
@@ -87,7 +105,7 @@
         }
     ],
     "wof:id":404570947,
-    "wof:lastmodified":1684351752,
+    "wof:lastmodified":1695878944,
     "wof:name":"Oulens-sous-Echallens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

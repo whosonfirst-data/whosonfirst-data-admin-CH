@@ -22,6 +22,18 @@
     "geom:latitude":46.661653,
     "geom:longitude":9.108695,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.641181,
     "lbl:longitude":9.08679,
     "lbl:max_zoom":18.0,
@@ -76,9 +88,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3618",
         "eg:gisco_id":"CH_CH3618",
         "eurostat:nuts_2021_id":"CH3618"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"e312ad0b70c21cc5d05e5bdd05763ac3",
     "wof:hierarchy":[
@@ -91,7 +105,7 @@
         }
     ],
     "wof:id":1394254047,
-    "wof:lastmodified":1684351779,
+    "wof:lastmodified":1695878975,
     "wof:name":"Lumnezia",
     "wof:parent_id":102062773,
     "wof:placetype":"localadmin",

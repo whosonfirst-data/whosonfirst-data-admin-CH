@@ -22,6 +22,18 @@
     "geom:latitude":46.743531,
     "geom:longitude":8.623843,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.753822,
     "lbl:longitude":8.610784,
     "lbl:max_zoom":18.0,
@@ -135,12 +147,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1209",
+        "chgov:number_qualified":"0401209",
         "eg:gisco_id":"CH_CH1209",
         "eurostat:nuts_2021_id":"CH1209",
         "gn:id":7286010,
         "gp:id":12682797,
         "qs_pg:id":1093228
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -157,7 +175,7 @@
         }
     ],
     "wof:id":404328131,
-    "wof:lastmodified":1684351690,
+    "wof:lastmodified":1695878873,
     "wof:name":"Gurtnellen",
     "wof:parent_id":102062879,
     "wof:placetype":"localadmin",

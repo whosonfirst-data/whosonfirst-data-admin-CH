@@ -22,6 +22,18 @@
     "geom:latitude":45.972171,
     "geom:longitude":8.969803,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.971598,
     "lbl:longitude":8.969802,
     "lbl:max_zoom":18.0,
@@ -205,9 +217,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3040",
         "eg:gisco_id":"IT_013040",
         "eurostat:nuts_2021_id":"013040"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"d5b3e779e79502d4d57713dff1388bbb",
     "wof:hierarchy":[
@@ -220,7 +234,7 @@
         }
     ],
     "wof:id":1394254101,
-    "wof:lastmodified":1684351781,
+    "wof:lastmodified":1695878978,
     "wof:name":"Campione d'Italia",
     "wof:parent_id":85685235,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.914265,
     "geom:longitude":8.639334,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.913251,
     "lbl:longitude":8.628745,
     "lbl:max_zoom":18.0,
@@ -135,12 +147,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1207",
+        "chgov:number_qualified":"0401207",
         "eg:gisco_id":"CH_CH1207",
         "eurostat:nuts_2021_id":"CH1207",
         "gn:id":7285841,
         "gp:id":12683476,
         "qs_pg:id":1102290
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126015901
     ],
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":404328325,
-    "wof:lastmodified":1684351694,
+    "wof:lastmodified":1695878877,
     "wof:name":"Fl\u00fcelen",
     "wof:parent_id":102062879,
     "wof:placetype":"localadmin",

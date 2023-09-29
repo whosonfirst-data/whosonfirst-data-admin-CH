@@ -22,6 +22,18 @@
     "geom:latitude":46.849349,
     "geom:longitude":8.671271,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.850249,
     "lbl:longitude":8.671269,
     "lbl:max_zoom":18.0,
@@ -132,12 +144,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1213",
+        "chgov:number_qualified":"0401213",
         "eg:gisco_id":"CH_CH1213",
         "eurostat:nuts_2021_id":"CH1213",
         "gn:id":7287077,
         "gp:id":12684360,
         "qs_pg:id":1197359
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -154,7 +172,7 @@
         }
     ],
     "wof:id":404328309,
-    "wof:lastmodified":1684351693,
+    "wof:lastmodified":1695878877,
     "wof:name":"Schattdorf",
     "wof:parent_id":102062879,
     "wof:placetype":"localadmin",

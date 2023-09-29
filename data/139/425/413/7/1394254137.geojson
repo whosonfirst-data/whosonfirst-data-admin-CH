@@ -22,6 +22,18 @@
     "geom:latitude":46.251466,
     "geom:longitude":9.190134,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.24577,
     "lbl:longitude":9.177312,
     "lbl:max_zoom":18.0,
@@ -52,9 +64,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3832",
         "eg:gisco_id":"CH_CH3832",
         "eurostat:nuts_2021_id":"CH3832"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"691eedebeb3c0e67b0707670a7699937",
     "wof:hierarchy":[
@@ -67,7 +81,7 @@
         }
     ],
     "wof:id":1394254137,
-    "wof:lastmodified":1684351782,
+    "wof:lastmodified":1695878979,
     "wof:name":"Grono",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",

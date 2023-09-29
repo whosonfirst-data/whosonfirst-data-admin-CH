@@ -22,6 +22,18 @@
     "geom:latitude":46.853311,
     "geom:longitude":6.699891,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.852546,
     "lbl:longitude":6.699642,
     "lbl:max_zoom":18.0,
@@ -113,12 +125,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5555",
+        "chgov:number_qualified":"2205555",
         "eg:gisco_id":"CH_CH5555",
         "eurostat:nuts_2021_id":"CH5555",
         "gn:id":7285553,
         "gp:id":20075595,
         "qs_pg:id":671250
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":404571669,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878955,
     "wof:name":"Corcelles-pr\u00e8s-Concise",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

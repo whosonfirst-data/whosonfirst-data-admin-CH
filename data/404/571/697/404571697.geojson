@@ -22,6 +22,18 @@
     "geom:latitude":47.17117,
     "geom:longitude":7.770939,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.172055,
     "lbl:longitude":7.772037,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0340",
+        "chgov:number_qualified":"0200340",
         "eg:gisco_id":"CH_CH0340",
         "eurostat:nuts_2021_id":"CH0340",
         "gn:id":7287002,
         "gp:id":12685043,
         "qs_pg:id":1154304
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1226779037
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404571697,
-    "wof:lastmodified":1684351762,
+    "wof:lastmodified":1695878955,
     "wof:name":"R\u00fctschelen",
     "wof:parent_id":102063013,
     "wof:placetype":"localadmin",

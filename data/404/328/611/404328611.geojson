@@ -22,6 +22,18 @@
     "geom:latitude":47.713862,
     "geom:longitude":8.47337,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.713985,
     "lbl:longitude":8.474876,
     "lbl:max_zoom":18.0,
@@ -127,12 +139,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2972",
+        "chgov:number_qualified":"1402972",
         "eg:gisco_id":"CH_CH2972",
         "eurostat:nuts_2021_id":"CH2972",
         "gn:id":7286693,
         "gp:id":12684124,
         "qs_pg:id":1093301
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126025711
     ],
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":404328611,
-    "wof:lastmodified":1684351698,
+    "wof:lastmodified":1695878882,
     "wof:name":"Oberhallau",
     "wof:parent_id":1394137101,
     "wof:placetype":"localadmin",

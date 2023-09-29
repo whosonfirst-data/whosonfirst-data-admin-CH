@@ -22,6 +22,18 @@
     "geom:latitude":46.531895,
     "geom:longitude":9.235083,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.546664,
     "lbl:longitude":9.251553,
     "lbl:max_zoom":18.0,
@@ -61,9 +73,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3714",
         "eg:gisco_id":"CH_CH3714",
         "eurostat:nuts_2021_id":"CH3714"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"c9e5630a5740c1e20d663a1e9fe5d550",
     "wof:hierarchy":[
@@ -76,7 +90,7 @@
         }
     ],
     "wof:id":1394254091,
-    "wof:lastmodified":1684351781,
+    "wof:lastmodified":1695878977,
     "wof:name":"Rheinwald",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",

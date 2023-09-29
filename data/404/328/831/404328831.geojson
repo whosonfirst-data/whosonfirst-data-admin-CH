@@ -22,6 +22,18 @@
     "geom:latitude":46.18167,
     "geom:longitude":6.14036,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.181128,
     "lbl:longitude":6.139044,
     "lbl:max_zoom":18.0,
@@ -189,11 +201,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6608",
+        "chgov:number_qualified":"2506608",
         "eg:gisco_id":"CH_CH6608",
         "eurostat:nuts_2021_id":"CH6608",
         "gp:id":12682866,
         "qs_pg:id":248270
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125878761
     ],
@@ -213,7 +231,7 @@
         }
     ],
     "wof:id":404328831,
-    "wof:lastmodified":1684351701,
+    "wof:lastmodified":1695878886,
     "wof:name":"Carouge",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",

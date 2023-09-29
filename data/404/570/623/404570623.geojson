@@ -22,6 +22,18 @@
     "geom:latitude":46.802218,
     "geom:longitude":7.036525,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.802681,
     "lbl:longitude":7.030572,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2213",
+        "chgov:number_qualified":"1002213",
         "eg:gisco_id":"CH_CH2213",
         "eurostat:nuts_2021_id":"CH2213",
         "gn:id":7286659,
         "gp:id":12684095,
         "qs_pg:id":1102330
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125905561
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404570623,
-    "wof:lastmodified":1684351748,
+    "wof:lastmodified":1695878939,
     "wof:name":"Nor\u00e9az",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",

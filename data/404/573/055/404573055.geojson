@@ -22,6 +22,18 @@
     "geom:latitude":46.53888,
     "geom:longitude":6.605002,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.538623,
     "lbl:longitude":6.604413,
     "lbl:max_zoom":18.0,
@@ -152,11 +164,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5589",
+        "chgov:number_qualified":"2205589",
         "eg:gisco_id":"CH_CH5589",
         "eurostat:nuts_2021_id":"CH5589",
         "gn:id":7286839,
         "qs_pg:id":1040557
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394287499
     ],
@@ -176,7 +194,7 @@
         }
     ],
     "wof:id":404573055,
-    "wof:lastmodified":1684351770,
+    "wof:lastmodified":1695878965,
     "wof:name":"Prilly",
     "wof:parent_id":102062829,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":45.988996,
     "geom:longitude":8.955144,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.98824,
     "lbl:longitude":8.948176,
     "lbl:max_zoom":18.0,
@@ -93,12 +105,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5210",
+        "chgov:number_qualified":"2105210",
         "eg:gisco_id":"CH_CH5210",
         "eurostat:nuts_2021_id":"CH5210",
         "gn:id":7286771,
         "gp:id":12685161,
         "qs_pg:id":959084
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125885427
     ],
@@ -118,7 +136,7 @@
         }
     ],
     "wof:id":404573441,
-    "wof:lastmodified":1684351774,
+    "wof:lastmodified":1695878969,
     "wof:name":"Paradiso",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

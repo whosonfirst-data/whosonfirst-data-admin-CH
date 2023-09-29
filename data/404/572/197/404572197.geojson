@@ -22,6 +22,18 @@
     "geom:latitude":46.340045,
     "geom:longitude":6.154496,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.339971,
     "lbl:longitude":6.156071,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5707",
+        "chgov:number_qualified":"2205707",
         "eg:gisco_id":"CH_CH5707",
         "eurostat:nuts_2021_id":"CH5707",
         "gn:id":7285485,
         "gp:id":20075623,
         "qs_pg:id":1017777
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125906519
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404572197,
-    "wof:lastmodified":1684351768,
+    "wof:lastmodified":1695878962,
     "wof:name":"Chavannes-de-Bogis",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.410994,
     "geom:longitude":6.147925,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.410294,
     "lbl:longitude":6.152271,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5709",
+        "chgov:number_qualified":"2205709",
         "eg:gisco_id":"CH_CH5709",
         "eurostat:nuts_2021_id":"CH5709",
         "gn:id":7285502,
         "gp:id":12684771,
         "qs_pg:id":904144
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125942211
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404569667,
-    "wof:lastmodified":1684351736,
+    "wof:lastmodified":1695878925,
     "wof:name":"Ch\u00e9serex",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

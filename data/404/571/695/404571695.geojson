@@ -22,6 +22,18 @@
     "geom:latitude":46.784674,
     "geom:longitude":6.833367,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.785736,
     "lbl:longitude":6.83366,
     "lbl:max_zoom":18.0,
@@ -121,9 +133,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2035",
+        "chgov:number_qualified":"1002035",
         "eg:gisco_id":"CH_CH2035",
         "eurostat:nuts_2021_id":"CH2035"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125771567
     ],
@@ -142,7 +160,7 @@
         }
     ],
     "wof:id":404571695,
-    "wof:lastmodified":1684351762,
+    "wof:lastmodified":1695878955,
     "wof:name":"Nuvilly",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",

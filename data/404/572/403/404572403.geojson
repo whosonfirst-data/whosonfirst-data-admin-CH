@@ -22,6 +22,18 @@
     "geom:latitude":47.311691,
     "geom:longitude":8.192236,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.312444,
     "lbl:longitude":8.191984,
     "lbl:max_zoom":18.0,
@@ -135,12 +147,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4192",
+        "chgov:number_qualified":"1904192",
         "eg:gisco_id":"CH_CH4192",
         "eurostat:nuts_2021_id":"CH4192",
         "gn:id":7285292,
         "gp:id":12683009,
         "qs_pg:id":426054
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125911643
     ],
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":404572403,
-    "wof:lastmodified":1684351769,
+    "wof:lastmodified":1695878964,
     "wof:name":"Boniswil",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",

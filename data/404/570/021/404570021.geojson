@@ -22,6 +22,18 @@
     "geom:latitude":47.470672,
     "geom:longitude":8.827077,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.470778,
     "lbl:longitude":8.830331,
     "lbl:max_zoom":18.0,
@@ -110,11 +122,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0226",
+        "chgov:number_qualified":"0100226",
         "eg:gisco_id":"CH_CH0226",
         "eurostat:nuts_2021_id":"CH0226",
         "gn:id":7287090,
         "qs_pg:id":671594
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1242809205
     ],
@@ -134,7 +152,7 @@
         }
     ],
     "wof:id":404570021,
-    "wof:lastmodified":1684351741,
+    "wof:lastmodified":1695878932,
     "wof:name":"Schlatt",
     "wof:parent_id":102063055,
     "wof:placetype":"localadmin",

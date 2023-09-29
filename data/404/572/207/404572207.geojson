@@ -22,6 +22,18 @@
     "geom:latitude":45.9681,
     "geom:longitude":8.88045,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.973316,
     "lbl:longitude":8.879281,
     "lbl:max_zoom":18.0,
@@ -129,12 +141,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5171",
+        "chgov:number_qualified":"2105171",
         "eg:gisco_id":"CH_CH5171",
         "eurostat:nuts_2021_id":"CH5171",
         "gn:id":7285438,
         "gp:id":12683138,
         "qs_pg:id":1115133
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125851221
     ],
@@ -154,7 +172,7 @@
         }
     ],
     "wof:id":404572207,
-    "wof:lastmodified":1684351768,
+    "wof:lastmodified":1695878962,
     "wof:name":"Caslano",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

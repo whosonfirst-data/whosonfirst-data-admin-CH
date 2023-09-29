@@ -22,6 +22,18 @@
     "geom:latitude":46.031254,
     "geom:longitude":8.849427,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.031849,
     "lbl:longitude":8.849737,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5200",
+        "chgov:number_qualified":"2105200",
         "eg:gisco_id":"CH_CH5200",
         "eurostat:nuts_2021_id":"CH5200",
         "gn:id":7286508,
         "gp:id":12683985,
         "qs_pg:id":334358
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125805529
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404571209,
-    "wof:lastmodified":1684351756,
+    "wof:lastmodified":1695878948,
     "wof:name":"Miglieglia",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

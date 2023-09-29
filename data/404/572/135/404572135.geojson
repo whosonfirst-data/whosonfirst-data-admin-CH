@@ -22,6 +22,18 @@
     "geom:latitude":47.066951,
     "geom:longitude":7.246527,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.067108,
     "lbl:longitude":7.246271,
     "lbl:max_zoom":18.0,
@@ -107,11 +119,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0734",
+        "chgov:number_qualified":"0200734",
         "eg:gisco_id":"CH_CH0734",
         "eurostat:nuts_2021_id":"CH0734",
         "gp:id":20075405,
         "qs_pg:id":1017775
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1243208455
     ],
@@ -131,7 +149,7 @@
         }
     ],
     "wof:id":404572135,
-    "wof:lastmodified":1684351767,
+    "wof:lastmodified":1695878961,
     "wof:name":"B\u00fchl",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.553547,
     "geom:longitude":6.377973,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.554328,
     "lbl:longitude":6.377587,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5423",
+        "chgov:number_qualified":"2205423",
         "eg:gisco_id":"CH_CH5423",
         "eurostat:nuts_2021_id":"CH5423",
         "gn:id":2661633,
         "gp:id":12682891,
         "qs_pg:id":421324
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394348171
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404570155,
-    "wof:lastmodified":1684351743,
+    "wof:lastmodified":1695878933,
     "wof:name":"Ballens",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

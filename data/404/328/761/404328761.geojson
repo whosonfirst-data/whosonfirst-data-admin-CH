@@ -22,6 +22,18 @@
     "geom:latitude":46.158904,
     "geom:longitude":6.034006,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.158894,
     "lbl:longitude":6.033763,
     "lbl:max_zoom":18.0,
@@ -123,11 +135,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6627",
+        "chgov:number_qualified":"2506627",
         "eg:gisco_id":"CH_CH6627",
         "eurostat:nuts_2021_id":"CH6627",
         "gp:id":12684763,
         "qs_pg:id":285478
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125915305
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404328761,
-    "wof:lastmodified":1684351700,
+    "wof:lastmodified":1695878885,
     "wof:name":"Laconnex",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.224566,
     "geom:longitude":8.941963,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.225748,
     "lbl:longitude":8.946573,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3338",
+        "chgov:number_qualified":"1703338",
         "eg:gisco_id":"CH_CH3338",
         "eurostat:nuts_2021_id":"CH3338",
         "gn:id":2658720,
         "gp:id":12684369,
         "qs_pg:id":249613
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854243
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404570917,
-    "wof:lastmodified":1684351752,
+    "wof:lastmodified":1695878943,
     "wof:name":"Schmerikon",
     "wof:parent_id":102062815,
     "wof:placetype":"localadmin",

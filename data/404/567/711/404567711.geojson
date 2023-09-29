@@ -22,6 +22,18 @@
     "geom:latitude":46.545231,
     "geom:longitude":8.928426,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.544634,
     "lbl:longitude":8.92845,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5049",
+        "chgov:number_qualified":"2105049",
         "eg:gisco_id":"CH_CH5049",
         "eurostat:nuts_2021_id":"CH5049",
         "gn:id":7285270,
         "gp:id":28997183,
         "qs_pg:id":906863
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404567711,
-    "wof:lastmodified":1684351703,
+    "wof:lastmodified":1695878888,
     "wof:name":"Blenio",
     "wof:parent_id":102063035,
     "wof:placetype":"localadmin",

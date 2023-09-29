@@ -22,6 +22,18 @@
     "geom:latitude":45.997269,
     "geom:longitude":8.916473,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.998278,
     "lbl:longitude":8.915904,
     "lbl:max_zoom":18.0,
@@ -108,12 +120,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5205",
+        "chgov:number_qualified":"2105205",
         "eg:gisco_id":"CH_CH5205",
         "eurostat:nuts_2021_id":"CH5205",
         "gn:id":7286608,
         "gp:id":12685163,
         "qs_pg:id":248624
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125922315
     ],
@@ -133,7 +151,7 @@
         }
     ],
     "wof:id":404573311,
-    "wof:lastmodified":1684351773,
+    "wof:lastmodified":1695878968,
     "wof:name":"Muzzano",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

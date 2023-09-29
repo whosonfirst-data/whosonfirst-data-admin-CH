@@ -22,6 +22,18 @@
     "geom:latitude":46.77497,
     "geom:longitude":7.574591,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.774196,
     "lbl:longitude":7.569558,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0944",
+        "chgov:number_qualified":"0200944",
         "eg:gisco_id":"CH_CH0944",
         "eurostat:nuts_2021_id":"CH0944",
         "gn:id":7287363,
         "gp:id":12684534,
         "qs_pg:id":893028
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854111
     ],
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":404569745,
-    "wof:lastmodified":1684351738,
+    "wof:lastmodified":1695878927,
     "wof:name":"Uetendorf",
     "wof:parent_id":102063061,
     "wof:placetype":"localadmin",

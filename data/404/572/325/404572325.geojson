@@ -22,6 +22,18 @@
     "geom:latitude":47.550426,
     "geom:longitude":8.337929,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.550985,
     "lbl:longitude":8.337687,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4302",
+        "chgov:number_qualified":"1904302",
         "eg:gisco_id":"CH_CH4302",
         "eurostat:nuts_2021_id":"CH4302",
         "gn:id":7285274,
         "gp:id":12684973,
         "qs_pg:id":1261702
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1209646741
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404572325,
-    "wof:lastmodified":1684351769,
+    "wof:lastmodified":1695878963,
     "wof:name":"B\u00f6bikon",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",

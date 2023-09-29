@@ -22,6 +22,18 @@
     "geom:latitude":47.112579,
     "geom:longitude":7.302795,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.113391,
     "lbl:longitude":7.301435,
     "lbl:max_zoom":18.0,
@@ -74,12 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0749",
+        "chgov:number_qualified":"0200749",
         "eg:gisco_id":"CH_CH0749",
         "eurostat:nuts_2021_id":"CH0749",
         "gn:id":7287251,
         "gp:id":12684879,
         "qs_pg:id":671617
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1327462387
     ],
@@ -99,7 +117,7 @@
         }
     ],
     "wof:id":404572261,
-    "wof:lastmodified":1684351768,
+    "wof:lastmodified":1695878963,
     "wof:name":"Studen",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",

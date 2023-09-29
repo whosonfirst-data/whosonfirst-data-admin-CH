@@ -22,6 +22,18 @@
     "geom:latitude":47.461994,
     "geom:longitude":7.715637,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.460739,
     "lbl:longitude":7.714353,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2833",
+        "chgov:number_qualified":"1302833",
         "eg:gisco_id":"CH_CH2833",
         "eurostat:nuts_2021_id":"CH2833",
         "gn:id":7287143,
         "gp:id":12684394,
         "qs_pg:id":500398
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125984013
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404571893,
-    "wof:lastmodified":1684351764,
+    "wof:lastmodified":1695878958,
     "wof:name":"Seltisberg",
     "wof:parent_id":102062929,
     "wof:placetype":"localadmin",

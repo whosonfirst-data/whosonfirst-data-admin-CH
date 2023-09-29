@@ -22,6 +22,18 @@
     "geom:latitude":47.110646,
     "geom:longitude":6.903334,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.109392,
     "lbl:longitude":6.896485,
     "lbl:max_zoom":18.0,
@@ -110,12 +122,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0441",
+        "chgov:number_qualified":"0200441",
         "eg:gisco_id":"CH_CH0441",
         "eurostat:nuts_2021_id":"CH0441",
         "gn:id":7286884,
         "gp:id":12684253,
         "qs_pg:id":324000
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1293818551
     ],
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":404569181,
-    "wof:lastmodified":1684351731,
+    "wof:lastmodified":1695878919,
     "wof:name":"Renan",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",

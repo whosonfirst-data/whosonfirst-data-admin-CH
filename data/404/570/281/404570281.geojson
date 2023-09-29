@@ -22,6 +22,18 @@
     "geom:latitude":46.814613,
     "geom:longitude":6.644446,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.816825,
     "lbl:longitude":6.64394,
     "lbl:max_zoom":18.0,
@@ -68,12 +80,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5561",
+        "chgov:number_qualified":"2205561",
         "eg:gisco_id":"CH_CH5561",
         "eurostat:nuts_2021_id":"CH5561",
         "gn:id":7285961,
         "gp:id":12683590,
         "qs_pg:id":1310932
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -90,7 +108,7 @@
         }
     ],
     "wof:id":404570281,
-    "wof:lastmodified":1684351744,
+    "wof:lastmodified":1695878934,
     "wof:name":"Grandson",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

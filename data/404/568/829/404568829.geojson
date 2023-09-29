@@ -22,6 +22,18 @@
     "geom:latitude":47.528045,
     "geom:longitude":8.540674,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.528734,
     "lbl:longitude":8.540675,
     "lbl:max_zoom":18.0,
@@ -167,12 +179,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0053",
+        "chgov:number_qualified":"0100053",
         "eg:gisco_id":"CH_CH0053",
         "eurostat:nuts_2021_id":"CH0053",
         "gn:id":7285380,
         "gp:id":12683084,
         "qs_pg:id":1197044
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854385
     ],
@@ -192,7 +210,7 @@
         }
     ],
     "wof:id":404568829,
-    "wof:lastmodified":1684351725,
+    "wof:lastmodified":1695878913,
     "wof:name":"B\u00fclach",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",

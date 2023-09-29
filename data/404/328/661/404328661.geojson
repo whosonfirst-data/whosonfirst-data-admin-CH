@@ -22,6 +22,18 @@
     "geom:latitude":47.484571,
     "geom:longitude":7.446324,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.486658,
     "lbl:longitude":7.442156,
     "lbl:max_zoom":18.0,
@@ -127,12 +139,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2479",
+        "chgov:number_qualified":"1102479",
         "eg:gisco_id":"CH_CH2479",
         "eurostat:nuts_2021_id":"CH2479",
         "gn:id":7286926,
         "gp:id":12684280,
         "qs_pg:id":1112603
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125930109
     ],
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":404328661,
-    "wof:lastmodified":1684351699,
+    "wof:lastmodified":1695878883,
     "wof:name":"Rodersdorf",
     "wof:parent_id":1394137115,
     "wof:placetype":"localadmin",

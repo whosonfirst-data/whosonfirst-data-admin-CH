@@ -22,6 +22,18 @@
     "geom:latitude":47.487975,
     "geom:longitude":7.007581,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.487808,
     "lbl:longitude":7.005727,
     "lbl:max_zoom":18.0,
@@ -115,9 +127,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6774",
+        "chgov:number_qualified":"2606774",
         "eg:gisco_id":"CH_CH6774",
         "eurostat:nuts_2021_id":"CH6774"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125911677
     ],
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":404570009,
-    "wof:lastmodified":1684351741,
+    "wof:lastmodified":1695878931,
     "wof:name":"Boncourt",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",

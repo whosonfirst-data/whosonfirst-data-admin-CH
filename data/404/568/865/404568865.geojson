@@ -22,6 +22,18 @@
     "geom:latitude":46.672067,
     "geom:longitude":6.790964,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.669519,
     "lbl:longitude":6.790986,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5678",
+        "chgov:number_qualified":"2205678",
         "eg:gisco_id":"CH_CH5678",
         "eurostat:nuts_2021_id":"CH5678",
         "gn:id":7286565,
         "gp:id":12684033,
         "qs_pg:id":209503
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853857
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404568865,
-    "wof:lastmodified":1684351726,
+    "wof:lastmodified":1695878914,
     "wof:name":"Moudon",
     "wof:parent_id":102062969,
     "wof:placetype":"localadmin",

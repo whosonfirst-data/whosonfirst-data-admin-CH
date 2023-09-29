@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007652,
-    "geom:area_square_m":65066167.456117,
+    "geom:area_square_m":65066167.456128,
     "geom:bbox":"6.575462,46.504293,6.720814,46.602577",
     "geom:latitude":46.555595,
     "geom:longitude":6.643757,
@@ -363,12 +363,15 @@
         85682325
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"2225"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"75b7ee567b2366e2a26cdb665e8891a3",
+    "wof:geomhash":"49ad3c70ea5a1bc08624ee02efb3ac8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -378,7 +381,7 @@
         }
     ],
     "wof:id":102063009,
-    "wof:lastmodified":1612224522,
+    "wof:lastmodified":1695886478,
     "wof:name":"Lausanne",
     "wof:parent_id":85682325,
     "wof:placetype":"county",

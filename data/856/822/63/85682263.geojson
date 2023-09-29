@@ -551,20 +551,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"09",
         "digitalenvoy:region_code":10187,
         "eurostat:nuts_2021_id":"CH066",
         "fips:code":"SZ24",
         "gn:id":2657907,
         "gp:id":2347106,
         "hasc:id":"CH.ZG",
+        "iso:code":"CH-ZG",
         "iso:id":"CH-ZG",
         "wd:id":"Q11933"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c0018b84a5779ccc9d5bb7cd781653e5",
+    "wof:geomhash":"48744a13caae75b8c97b2448b2e5500a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -586,7 +592,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865982,
+    "wof:lastmodified":1695885193,
     "wof:name":"Zug",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

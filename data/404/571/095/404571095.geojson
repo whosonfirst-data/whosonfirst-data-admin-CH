@@ -22,6 +22,18 @@
     "geom:latitude":47.334148,
     "geom:longitude":8.626182,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.333139,
     "lbl:longitude":8.626508,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0160",
+        "chgov:number_qualified":"0100160",
         "eg:gisco_id":"CH_CH0160",
         "eurostat:nuts_2021_id":"CH0160",
         "gn:id":7287647,
         "gp:id":12684608,
         "qs_pg:id":671700
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126035571
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404571095,
-    "wof:lastmodified":1684351754,
+    "wof:lastmodified":1695878946,
     "wof:name":"Zumikon",
     "wof:parent_id":102062769,
     "wof:placetype":"localadmin",

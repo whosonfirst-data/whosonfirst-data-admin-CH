@@ -22,6 +22,18 @@
     "geom:latitude":47.569796,
     "geom:longitude":9.111954,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.567886,
     "lbl:longitude":9.115021,
     "lbl:max_zoom":18.0,
@@ -158,12 +170,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4946",
+        "chgov:number_qualified":"2004946",
         "eg:gisco_id":"CH_CH4946",
         "eurostat:nuts_2021_id":"CH4946",
         "gn:id":7287555,
         "gp:id":12684616,
         "qs_pg:id":1078631
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101854471
     ],
@@ -183,7 +201,7 @@
         }
     ],
     "wof:id":404568889,
-    "wof:lastmodified":1684351726,
+    "wof:lastmodified":1695878914,
     "wof:name":"Weinfelden",
     "wof:parent_id":102062955,
     "wof:placetype":"localadmin",

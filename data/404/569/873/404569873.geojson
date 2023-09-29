@@ -22,6 +22,18 @@
     "geom:latitude":47.462501,
     "geom:longitude":8.00041,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.46497,
     "lbl:longitude":7.998443,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4182",
+        "chgov:number_qualified":"1904182",
         "eg:gisco_id":"CH_CH4182",
         "eurostat:nuts_2021_id":"CH4182",
         "gn:id":7287606,
         "gp:id":12684644,
         "qs_pg:id":911087
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126001967
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404569873,
-    "wof:lastmodified":1684351739,
+    "wof:lastmodified":1695878929,
     "wof:name":"W\u00f6lflinswil",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",

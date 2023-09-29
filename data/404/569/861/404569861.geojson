@@ -22,6 +22,18 @@
     "geom:latitude":47.641866,
     "geom:longitude":8.68446,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.641834,
     "lbl:longitude":8.679336,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0040",
+        "chgov:number_qualified":"0100040",
         "eg:gisco_id":"CH_CH0040",
         "eurostat:nuts_2021_id":"CH0040",
         "gn:id":7287342,
         "gp:id":12684524,
         "qs_pg:id":106698
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404569861,
-    "wof:lastmodified":1684351739,
+    "wof:lastmodified":1695878929,
     "wof:name":"Tr\u00fcllikon",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",

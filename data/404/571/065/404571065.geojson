@@ -22,6 +22,18 @@
     "geom:latitude":45.935577,
     "geom:longitude":9.0003,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.934425,
     "lbl:longitude":9.004452,
     "lbl:max_zoom":18.0,
@@ -83,12 +95,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5219",
+        "chgov:number_qualified":"2105219",
         "eg:gisco_id":"CH_CH5219",
         "eurostat:nuts_2021_id":"CH5219",
         "gn:id":7286966,
         "gp:id":12683966,
         "qs_pg:id":221384
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125951179
     ],
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":404571065,
-    "wof:lastmodified":1684351754,
+    "wof:lastmodified":1695878946,
     "wof:name":"Rovio",
     "wof:parent_id":102062767,
     "wof:placetype":"localadmin",

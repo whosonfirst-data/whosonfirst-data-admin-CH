@@ -22,6 +22,18 @@
     "geom:latitude":45.885246,
     "geom:longitude":8.96804,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":45.872362,
     "lbl:longitude":8.959297,
     "lbl:max_zoom":18.0,
@@ -142,9 +154,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5254",
         "eg:gisco_id":"CH_CH5254",
         "eurostat:nuts_2021_id":"CH5254"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"cc878cff8a8aa1fbebe0fad281ab8d97",
     "wof:hierarchy":[
@@ -157,7 +171,7 @@
         }
     ],
     "wof:id":1394254051,
-    "wof:lastmodified":1684351779,
+    "wof:lastmodified":1695878975,
     "wof:name":"Mendrisio",
     "wof:parent_id":102063063,
     "wof:placetype":"localadmin",

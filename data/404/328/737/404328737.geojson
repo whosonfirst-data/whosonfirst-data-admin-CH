@@ -22,6 +22,18 @@
     "geom:latitude":47.373504,
     "geom:longitude":7.983946,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.373722,
     "lbl:longitude":7.98516,
     "lbl:max_zoom":18.0,
@@ -139,12 +151,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2495",
+        "chgov:number_qualified":"1102495",
         "eg:gisco_id":"CH_CH2495",
         "eurostat:nuts_2021_id":"CH2495",
         "gn:id":7286640,
         "gp:id":12683576,
         "qs_pg:id":1197134
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126013509
     ],
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":404328737,
-    "wof:lastmodified":1684351700,
+    "wof:lastmodified":1695878884,
     "wof:name":"Niederg\u00f6sgen",
     "wof:parent_id":1394137093,
     "wof:placetype":"localadmin",

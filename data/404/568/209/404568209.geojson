@@ -22,6 +22,18 @@
     "geom:latitude":46.560981,
     "geom:longitude":7.10613,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.564637,
     "lbl:longitude":7.123713,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2162",
+        "chgov:number_qualified":"1002162",
         "eg:gisco_id":"CH_CH2162",
         "eurostat:nuts_2021_id":"CH2162",
         "gn:id":7285162,
         "gp:id":28997173,
         "qs_pg:id":1164194
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404568209,
-    "wof:lastmodified":1684351714,
+    "wof:lastmodified":1695878900,
     "wof:name":"Bas-Intyamon",
     "wof:parent_id":102062999,
     "wof:placetype":"localadmin",

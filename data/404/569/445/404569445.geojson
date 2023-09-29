@@ -22,6 +22,18 @@
     "geom:latitude":47.074763,
     "geom:longitude":6.724747,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.075159,
     "lbl:longitude":6.722323,
     "lbl:max_zoom":18.0,
@@ -118,12 +130,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6431",
+        "chgov:number_qualified":"2406431",
         "eg:gisco_id":"CH_CH6431",
         "eurostat:nuts_2021_id":"CH6431",
         "gn:id":7286323,
         "gp:id":12683866,
         "qs_pg:id":1093286
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125915095
     ],
@@ -142,7 +160,7 @@
         }
     ],
     "wof:id":404569445,
-    "wof:lastmodified":1684351734,
+    "wof:lastmodified":1695878922,
     "wof:name":"Les Brenets",
     "wof:parent_id":85682359,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.429797,
     "geom:longitude":8.723585,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.423201,
     "lbl:longitude":8.72281,
     "lbl:max_zoom":18.0,
@@ -139,9 +151,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0296",
         "eg:gisco_id":"CH_CH0296",
         "eurostat:nuts_2021_id":"CH0296"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"b66f438f0c30beccc6aba20f6ad803c2",
     "wof:hierarchy":[
@@ -154,7 +168,7 @@
         }
     ],
     "wof:id":1394254029,
-    "wof:lastmodified":1684351779,
+    "wof:lastmodified":1695878975,
     "wof:name":"Illnau-Effretikon",
     "wof:parent_id":102062779,
     "wof:placetype":"localadmin",

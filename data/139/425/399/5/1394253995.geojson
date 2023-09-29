@@ -22,6 +22,18 @@
     "geom:latitude":47.239086,
     "geom:longitude":9.046236,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.248401,
     "lbl:longitude":9.030365,
     "lbl:max_zoom":18.0,
@@ -112,9 +124,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3341",
         "eg:gisco_id":"CH_CH3341",
         "eurostat:nuts_2021_id":"CH3341"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"1e193cc382f9a1db22833bf184e3dd36",
     "wof:hierarchy":[
@@ -127,7 +141,7 @@
         }
     ],
     "wof:id":1394253995,
-    "wof:lastmodified":1684351778,
+    "wof:lastmodified":1695878974,
     "wof:name":"Gommiswald",
     "wof:parent_id":102062815,
     "wof:placetype":"localadmin",

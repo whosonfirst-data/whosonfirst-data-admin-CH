@@ -22,6 +22,18 @@
     "geom:latitude":46.615101,
     "geom:longitude":6.662069,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.614469,
     "lbl:longitude":6.660439,
     "lbl:max_zoom":18.0,
@@ -113,12 +125,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5514",
+        "chgov:number_qualified":"2205514",
         "eg:gisco_id":"CH_CH5514",
         "eurostat:nuts_2021_id":"CH5514",
         "gn:id":7285302,
         "gp:id":12683019,
         "qs_pg:id":106538
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126040775
     ],
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":404570627,
-    "wof:lastmodified":1684351748,
+    "wof:lastmodified":1695878939,
     "wof:name":"Bottens",
     "wof:parent_id":102062949,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.266444,
     "geom:longitude":8.808169,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.265234,
     "lbl:longitude":8.810082,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0112",
+        "chgov:number_qualified":"0100112",
         "eg:gisco_id":"CH_CH0112",
         "eurostat:nuts_2021_id":"CH0112",
         "gn:id":7285363,
         "gp:id":12683069,
         "qs_pg:id":1112600
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404569421,
-    "wof:lastmodified":1684351734,
+    "wof:lastmodified":1695878922,
     "wof:name":"Bubikon",
     "wof:parent_id":102062967,
     "wof:placetype":"localadmin",

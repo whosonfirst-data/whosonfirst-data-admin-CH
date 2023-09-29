@@ -22,6 +22,18 @@
     "geom:latitude":46.584525,
     "geom:longitude":6.595513,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.585428,
     "lbl:longitude":6.593804,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5582",
+        "chgov:number_qualified":"2205582",
         "eg:gisco_id":"CH_CH5582",
         "eurostat:nuts_2021_id":"CH5582",
         "gn:id":7285501,
         "gp:id":20075601,
         "qs_pg:id":1198637
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404571423,
-    "wof:lastmodified":1684351758,
+    "wof:lastmodified":1695878951,
     "wof:name":"Cheseaux-sur-Lausanne",
     "wof:parent_id":102063009,
     "wof:placetype":"localadmin",

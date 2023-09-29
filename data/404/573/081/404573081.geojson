@@ -22,6 +22,18 @@
     "geom:latitude":46.487623,
     "geom:longitude":6.846548,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.487199,
     "lbl:longitude":6.847638,
     "lbl:max_zoom":18.0,
@@ -119,11 +131,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5885",
+        "chgov:number_qualified":"2205885",
         "eg:gisco_id":"CH_CH5885",
         "eurostat:nuts_2021_id":"CH5885",
         "gp:id":12684822,
         "qs_pg:id":62060
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125884685
     ],
@@ -143,7 +161,7 @@
         }
     ],
     "wof:id":404573081,
-    "wof:lastmodified":1684351770,
+    "wof:lastmodified":1695878965,
     "wof:name":"Jongny",
     "wof:parent_id":102062833,
     "wof:placetype":"localadmin",

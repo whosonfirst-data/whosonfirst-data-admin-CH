@@ -22,6 +22,18 @@
     "geom:latitude":46.313406,
     "geom:longitude":7.574755,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.317685,
     "lbl:longitude":7.571397,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6113",
+        "chgov:number_qualified":"2306113",
         "eg:gisco_id":"CH_CH6113",
         "eurostat:nuts_2021_id":"CH6113",
         "gn:id":7287042,
         "gp:id":12684335,
         "qs_pg:id":1019961
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125897387
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404569473,
-    "wof:lastmodified":1684351734,
+    "wof:lastmodified":1695878923,
     "wof:name":"Salgesch",
     "wof:parent_id":102062761,
     "wof:placetype":"localadmin",

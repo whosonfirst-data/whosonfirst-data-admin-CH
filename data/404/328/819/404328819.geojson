@@ -22,6 +22,18 @@
     "geom:latitude":46.184853,
     "geom:longitude":6.100509,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.185182,
     "lbl:longitude":6.100703,
     "lbl:max_zoom":18.0,
@@ -72,12 +84,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6631",
+        "chgov:number_qualified":"2506631",
         "eg:gisco_id":"CH_CH6631",
         "eurostat:nuts_2021_id":"CH6631",
         "gn:id":7286740,
         "gp:id":12683826,
         "qs_pg:id":248237
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125889217
     ],
@@ -97,7 +115,7 @@
         }
     ],
     "wof:id":404328819,
-    "wof:lastmodified":1684351701,
+    "wof:lastmodified":1695878885,
     "wof:name":"Onex",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",

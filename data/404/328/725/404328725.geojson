@@ -22,6 +22,18 @@
     "geom:latitude":47.162817,
     "geom:longitude":7.503081,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.164545,
     "lbl:longitude":7.504565,
     "lbl:max_zoom":18.0,
@@ -127,12 +139,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2455",
+        "chgov:number_qualified":"1102455",
         "eg:gisco_id":"CH_CH2455",
         "eurostat:nuts_2021_id":"CH2455",
         "gn:id":7286399,
         "gp:id":12684929,
         "qs_pg:id":500451
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":404328725,
-    "wof:lastmodified":1684351700,
+    "wof:lastmodified":1695878884,
     "wof:name":"L\u00fcterkofen-Ichertswil",
     "wof:parent_id":1394137095,
     "wof:placetype":"localadmin",

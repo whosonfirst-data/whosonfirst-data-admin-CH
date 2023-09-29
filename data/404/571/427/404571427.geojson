@@ -22,6 +22,18 @@
     "geom:latitude":46.550703,
     "geom:longitude":6.668509,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.550032,
     "lbl:longitude":6.668201,
     "lbl:max_zoom":18.0,
@@ -62,12 +74,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5584",
+        "chgov:number_qualified":"2205584",
         "eg:gisco_id":"CH_CH5584",
         "eurostat:nuts_2021_id":"CH5584",
         "gn:id":7285738,
         "gp:id":12683382,
         "qs_pg:id":43449
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125851281
     ],
@@ -87,7 +105,7 @@
         }
     ],
     "wof:id":404571427,
-    "wof:lastmodified":1684351758,
+    "wof:lastmodified":1695878951,
     "wof:name":"Epalinges",
     "wof:parent_id":102063009,
     "wof:placetype":"localadmin",

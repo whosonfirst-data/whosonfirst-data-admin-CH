@@ -22,6 +22,18 @@
     "geom:latitude":47.576031,
     "geom:longitude":8.940232,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.577532,
     "lbl:longitude":8.938135,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4561",
+        "chgov:number_qualified":"2004561",
         "eg:gisco_id":"CH_CH4561",
         "eurostat:nuts_2021_id":"CH4561",
         "gn:id":7285802,
         "gp:id":12683446,
         "qs_pg:id":392515
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394287195
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404570477,
-    "wof:lastmodified":1684351746,
+    "wof:lastmodified":1695878937,
     "wof:name":"Felben-Wellhausen",
     "wof:parent_id":102062869,
     "wof:placetype":"localadmin",

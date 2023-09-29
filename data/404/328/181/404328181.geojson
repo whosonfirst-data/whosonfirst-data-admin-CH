@@ -22,6 +22,18 @@
     "geom:latitude":46.996002,
     "geom:longitude":8.184334,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.997939,
     "lbl:longitude":8.185359,
     "lbl:max_zoom":18.0,
@@ -121,12 +133,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1066",
+        "chgov:number_qualified":"0301066",
         "eg:gisco_id":"CH_CH1066",
         "eurostat:nuts_2021_id":"CH1066",
         "gn:id":7287123,
         "gp:id":12683363,
         "qs_pg:id":43452
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -143,7 +161,7 @@
         }
     ],
     "wof:id":404328181,
-    "wof:lastmodified":1684351691,
+    "wof:lastmodified":1695878874,
     "wof:name":"Schwarzenberg",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",

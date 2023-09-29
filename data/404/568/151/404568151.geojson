@@ -22,6 +22,18 @@
     "geom:latitude":46.364765,
     "geom:longitude":8.757347,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.36501,
     "lbl:longitude":8.762613,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5129",
+        "chgov:number_qualified":"2105129",
         "eg:gisco_id":"CH_CH5129",
         "eurostat:nuts_2021_id":"CH5129",
         "gn:id":7287189,
         "gp:id":12683499,
         "qs_pg:id":43506
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126013251
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404568151,
-    "wof:lastmodified":1684351713,
+    "wof:lastmodified":1695878898,
     "wof:name":"Sonogno",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",

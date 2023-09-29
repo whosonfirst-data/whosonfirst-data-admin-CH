@@ -22,6 +22,18 @@
     "geom:latitude":47.3361,
     "geom:longitude":8.659966,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.33927,
     "lbl:longitude":8.66367,
     "lbl:max_zoom":18.0,
@@ -96,12 +108,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0195",
+        "chgov:number_qualified":"0100195",
         "eg:gisco_id":"CH_CH0195",
         "eurostat:nuts_2021_id":"CH0195",
         "gn:id":7286464,
         "gp:id":12683955,
         "qs_pg:id":1059677
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -118,7 +136,7 @@
         }
     ],
     "wof:id":404568719,
-    "wof:lastmodified":1684351723,
+    "wof:lastmodified":1695878911,
     "wof:name":"Maur",
     "wof:parent_id":102062933,
     "wof:placetype":"localadmin",

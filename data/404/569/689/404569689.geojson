@@ -22,6 +22,18 @@
     "geom:latitude":46.225832,
     "geom:longitude":7.270467,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.217035,
     "lbl:longitude":7.280222,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6025",
+        "chgov:number_qualified":"2306025",
         "eg:gisco_id":"CH_CH6025",
         "eurostat:nuts_2021_id":"CH6025",
         "gn:id":7287443,
         "gp:id":12683929,
         "qs_pg:id":1019958
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125806557
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404569689,
-    "wof:lastmodified":1684351737,
+    "wof:lastmodified":1695878926,
     "wof:name":"V\u00e9troz",
     "wof:parent_id":102062915,
     "wof:placetype":"localadmin",

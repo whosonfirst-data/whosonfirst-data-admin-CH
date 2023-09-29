@@ -22,6 +22,18 @@
     "geom:latitude":46.871618,
     "geom:longitude":7.670428,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.871489,
     "lbl:longitude":7.670116,
     "lbl:max_zoom":18.0,
@@ -131,11 +143,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0629",
+        "chgov:number_qualified":"0200629",
         "eg:gisco_id":"CH_CH0629",
         "eurostat:nuts_2021_id":"CH0629",
         "gn:id":7286698,
         "qs_pg:id":671501
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394297953
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404570905,
-    "wof:lastmodified":1684351752,
+    "wof:lastmodified":1695878943,
     "wof:name":"Oberh\u00fcnigen",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

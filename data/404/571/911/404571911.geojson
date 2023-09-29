@@ -22,6 +22,18 @@
     "geom:latitude":47.384496,
     "geom:longitude":8.215841,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.384395,
     "lbl:longitude":8.216146,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4198",
+        "chgov:number_qualified":"1904198",
         "eg:gisco_id":"CH_CH4198",
         "eurostat:nuts_2021_id":"CH4198",
         "gn:id":7286059,
         "gp:id":12683664,
         "qs_pg:id":538753
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126044183
     ],
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404571911,
-    "wof:lastmodified":1684351764,
+    "wof:lastmodified":1695878959,
     "wof:name":"Hendschiken",
     "wof:parent_id":102063017,
     "wof:placetype":"localadmin",

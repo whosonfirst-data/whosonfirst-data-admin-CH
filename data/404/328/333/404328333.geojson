@@ -22,6 +22,18 @@
     "geom:latitude":46.917335,
     "geom:longitude":8.364962,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.919744,
     "lbl:longitude":8.362504,
     "lbl:max_zoom":18.0,
@@ -138,12 +150,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1503",
+        "chgov:number_qualified":"0701503",
         "eg:gisco_id":"CH_CH1503",
         "eurostat:nuts_2021_id":"CH1503",
         "gn:id":7285618,
         "gp:id":12683287,
         "qs_pg:id":268990
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":404328333,
-    "wof:lastmodified":1684351694,
+    "wof:lastmodified":1695878878,
     "wof:name":"Dallenwil",
     "wof:parent_id":102062973,
     "wof:placetype":"localadmin",

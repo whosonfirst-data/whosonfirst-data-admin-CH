@@ -22,6 +22,18 @@
     "geom:latitude":47.227225,
     "geom:longitude":7.096791,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.226212,
     "lbl:longitude":7.107518,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0446",
+        "chgov:number_qualified":"0200446",
         "eg:gisco_id":"CH_CH0446",
         "eurostat:nuts_2021_id":"CH0446",
         "gn:id":7287322,
         "gp:id":12684509,
         "qs_pg:id":987932
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404568397,
-    "wof:lastmodified":1684351718,
+    "wof:lastmodified":1695878904,
     "wof:name":"Tramelan",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",

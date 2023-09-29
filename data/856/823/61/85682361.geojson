@@ -511,20 +511,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"13",
         "digitalenvoy:region_code":10162,
         "eurostat:nuts_2021_id":"CH032",
         "fips:code":"SZ03",
         "gn:id":2661603,
         "gp:id":2347085,
         "hasc:id":"CH.BL",
+        "iso:code":"CH-BL",
         "iso:id":"CH-BL",
         "wd:id":"Q12146"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e11a435ead94ab3d2da70de685cad9c",
+    "wof:geomhash":"5655ce15adb46ba7e7665e0a94284e12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -546,7 +552,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865968,
+    "wof:lastmodified":1695885199,
     "wof:name":"Basel-Country",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

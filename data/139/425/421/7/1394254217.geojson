@@ -22,6 +22,18 @@
     "geom:latitude":46.334232,
     "geom:longitude":7.517231,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.346993,
     "lbl:longitude":7.5213,
     "lbl:max_zoom":18.0,
@@ -103,9 +115,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6253",
         "eg:gisco_id":"CH_CH6253",
         "eurostat:nuts_2021_id":"CH6253"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"f1992dbc6ea1bb2783ca157ce4adc23f",
     "wof:hierarchy":[
@@ -118,7 +132,7 @@
         }
     ],
     "wof:id":1394254217,
-    "wof:lastmodified":1684351784,
+    "wof:lastmodified":1695878982,
     "wof:name":"Crans-Montana",
     "wof:parent_id":102062793,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.285314,
     "geom:longitude":7.452002,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.27323,
     "lbl:longitude":7.452334,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0691",
+        "chgov:number_qualified":"0200691",
         "eg:gisco_id":"CH_CH0691",
         "eurostat:nuts_2021_id":"CH0691",
         "gn:id":7285589,
         "gp:id":12683266,
         "qs_pg:id":1102285
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125859649
     ],
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404569905,
-    "wof:lastmodified":1684351739,
+    "wof:lastmodified":1695878929,
     "wof:name":"Cr\u00e9mines",
     "wof:parent_id":102062865,
     "wof:placetype":"localadmin",

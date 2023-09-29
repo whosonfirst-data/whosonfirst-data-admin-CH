@@ -22,6 +22,18 @@
     "geom:latitude":46.418903,
     "geom:longitude":6.196647,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.418028,
     "lbl:longitude":6.197009,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5730",
+        "chgov:number_qualified":"2205730",
         "eg:gisco_id":"CH_CH5730",
         "eurostat:nuts_2021_id":"CH5730",
         "gn:id":7287325,
         "gp:id":12684512,
         "qs_pg:id":235869
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125803977
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404570983,
-    "wof:lastmodified":1684351753,
+    "wof:lastmodified":1695878945,
     "wof:name":"Tr\u00e9lex",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

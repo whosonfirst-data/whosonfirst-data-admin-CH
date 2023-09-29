@@ -22,6 +22,18 @@
     "geom:latitude":46.189959,
     "geom:longitude":6.994964,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.19372,
     "lbl:longitude":6.997995,
     "lbl:max_zoom":18.0,
@@ -112,9 +124,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6217",
         "eg:gisco_id":"CH_CH6217",
         "eurostat:nuts_2021_id":"CH6217"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"a67be42c1dbcef23e87390a16f052d6c",
     "wof:hierarchy":[
@@ -127,7 +141,7 @@
         }
     ],
     "wof:id":1394254225,
-    "wof:lastmodified":1684351785,
+    "wof:lastmodified":1695878982,
     "wof:name":"Saint-Maurice",
     "wof:parent_id":102062965,
     "wof:placetype":"localadmin",

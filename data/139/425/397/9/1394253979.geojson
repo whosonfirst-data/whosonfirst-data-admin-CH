@@ -22,6 +22,18 @@
     "geom:latitude":46.304718,
     "geom:longitude":7.645496,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.286842,
     "lbl:longitude":7.630032,
     "lbl:max_zoom":18.0,
@@ -136,9 +148,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6110",
         "eg:gisco_id":"CH_CH6110",
         "eurostat:nuts_2021_id":"CH6110"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"fddf950518d6304fd02431f5ff69f59f",
     "wof:hierarchy":[
@@ -151,7 +165,7 @@
         }
     ],
     "wof:id":1394253979,
-    "wof:lastmodified":1684351777,
+    "wof:lastmodified":1695878973,
     "wof:name":"Leuk",
     "wof:parent_id":102062761,
     "wof:placetype":"localadmin",

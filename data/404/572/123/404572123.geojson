@@ -22,6 +22,18 @@
     "geom:latitude":47.56246,
     "geom:longitude":8.683709,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.562127,
     "lbl:longitude":8.683964,
     "lbl:max_zoom":18.0,
@@ -131,11 +143,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0031",
+        "chgov:number_qualified":"0100031",
         "eg:gisco_id":"CH_CH0031",
         "eurostat:nuts_2021_id":"CH0031",
         "gn:id":7286060,
         "qs_pg:id":671383
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125980445
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404572123,
-    "wof:lastmodified":1684351767,
+    "wof:lastmodified":1695878961,
     "wof:name":"Henggart",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",

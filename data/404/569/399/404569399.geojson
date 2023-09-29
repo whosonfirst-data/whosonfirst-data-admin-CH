@@ -22,6 +22,18 @@
     "geom:latitude":47.452357,
     "geom:longitude":7.095343,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.451228,
     "lbl:longitude":7.095863,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6781",
+        "chgov:number_qualified":"2606781",
         "eg:gisco_id":"CH_CH6781",
         "eurostat:nuts_2021_id":"CH6781",
         "gn:id":7285522,
         "gp:id":12683211,
         "qs_pg:id":1143458
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126007083
     ],
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404569399,
-    "wof:lastmodified":1684351734,
+    "wof:lastmodified":1695878922,
     "wof:name":"Coeuve",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",

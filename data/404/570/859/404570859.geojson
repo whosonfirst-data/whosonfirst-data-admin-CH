@@ -22,6 +22,18 @@
     "geom:latitude":46.650202,
     "geom:longitude":7.740249,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.65335,
     "lbl:longitude":7.738519,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0566",
+        "chgov:number_qualified":"0200566",
         "eg:gisco_id":"CH_CH0566",
         "eurostat:nuts_2021_id":"CH0566",
         "gn:id":7286220,
         "gp:id":12683783,
         "qs_pg:id":1310933
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125821977
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404570859,
-    "wof:lastmodified":1684351751,
+    "wof:lastmodified":1695878942,
     "wof:name":"Krattigen",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",

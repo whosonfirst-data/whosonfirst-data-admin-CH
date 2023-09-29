@@ -22,6 +22,18 @@
     "geom:latitude":46.711113,
     "geom:longitude":7.243718,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.709966,
     "lbl:longitude":7.254316,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2300",
+        "chgov:number_qualified":"1002300",
         "eg:gisco_id":"CH_CH2300",
         "eurostat:nuts_2021_id":"CH2300",
         "gn:id":7286804,
         "gp:id":12684206,
         "qs_pg:id":1102336
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404568699,
-    "wof:lastmodified":1684351723,
+    "wof:lastmodified":1695878911,
     "wof:name":"Plasselb",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",

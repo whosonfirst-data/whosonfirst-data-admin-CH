@@ -22,6 +22,18 @@
     "geom:latitude":46.671971,
     "geom:longitude":7.488306,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.674792,
     "lbl:longitude":7.488984,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0761",
+        "chgov:number_qualified":"0200761",
         "eg:gisco_id":"CH_CH0761",
         "eurostat:nuts_2021_id":"CH0761",
         "gn:id":7285626,
         "gp:id":12683293,
         "qs_pg:id":43432
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404568215,
-    "wof:lastmodified":1684351714,
+    "wof:lastmodified":1695878900,
     "wof:name":"D\u00e4rstetten",
     "wof:parent_id":102062831,
     "wof:placetype":"localadmin",

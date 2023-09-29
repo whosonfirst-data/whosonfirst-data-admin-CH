@@ -22,6 +22,18 @@
     "geom:latitude":46.327035,
     "geom:longitude":7.853674,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.327139,
     "lbl:longitude":7.855808,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6191",
+        "chgov:number_qualified":"2306191",
         "eg:gisco_id":"CH_CH6191",
         "eurostat:nuts_2021_id":"CH6191",
         "gn:id":7285119,
         "gp:id":12684234,
         "qs_pg:id":671170
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126028031
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404568919,
-    "wof:lastmodified":1684351727,
+    "wof:lastmodified":1695878915,
     "wof:name":"Ausserberg",
     "wof:parent_id":102063037,
     "wof:placetype":"localadmin",

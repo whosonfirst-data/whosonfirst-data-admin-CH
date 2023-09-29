@@ -22,6 +22,18 @@
     "geom:latitude":46.347284,
     "geom:longitude":6.20525,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.346876,
     "lbl:longitude":6.207221,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6610",
+        "chgov:number_qualified":"2506610",
         "eg:gisco_id":"CH_CH6610",
         "eurostat:nuts_2021_id":"CH6610",
         "gn:id":7285451,
         "gp:id":12683151,
         "qs_pg:id":1310929
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126045101
     ],
@@ -158,7 +176,7 @@
         }
     ],
     "wof:id":1175611175,
-    "wof:lastmodified":1684351775,
+    "wof:lastmodified":1695878971,
     "wof:name":"C\u00e9ligny",
     "wof:parent_id":102062917,
     "wof:placetype":"localadmin",

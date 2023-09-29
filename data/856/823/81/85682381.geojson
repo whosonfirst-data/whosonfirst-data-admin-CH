@@ -548,20 +548,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"02",
         "digitalenvoy:region_code":10159,
         "eurostat:nuts_2021_id":"CH021",
         "fips:code":"SZ05",
         "gn:id":2661551,
         "gp:id":2347087,
         "hasc:id":"CH.BE",
+        "iso:code":"CH-BE",
         "iso:id":"CH-BE",
         "wd:id":"Q11911"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3cb325540541b92de397d983148d2a48",
+    "wof:geomhash":"574b9a93a8c2b80342f47adc099de2fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -583,7 +589,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865971,
+    "wof:lastmodified":1695885200,
     "wof:name":"Bern",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

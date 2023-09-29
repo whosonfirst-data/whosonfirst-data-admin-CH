@@ -22,6 +22,18 @@
     "geom:latitude":46.676656,
     "geom:longitude":9.360702,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.678738,
     "lbl:longitude":9.360717,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3669",
+        "chgov:number_qualified":"1803669",
         "eg:gisco_id":"CH_CH3669",
         "eurostat:nuts_2021_id":"CH3669",
         "gn:id":7287344,
         "gp:id":12682862,
         "qs_pg:id":1102259
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126005073
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404568407,
-    "wof:lastmodified":1684351718,
+    "wof:lastmodified":1695878904,
     "wof:name":"Tschappina",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",

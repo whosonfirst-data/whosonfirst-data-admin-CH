@@ -22,6 +22,18 @@
     "geom:latitude":46.906955,
     "geom:longitude":7.622557,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.906595,
     "lbl:longitude":7.622148,
     "lbl:max_zoom":18.0,
@@ -109,9 +121,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0608",
         "eg:gisco_id":"CH_CH0608",
         "eurostat:nuts_2021_id":"CH0608"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"0bf6d016df7d7e03bdc3f11ce80d6c2f",
     "wof:hierarchy":[
@@ -124,7 +138,7 @@
         }
     ],
     "wof:id":1394254019,
-    "wof:lastmodified":1684351779,
+    "wof:lastmodified":1695878974,
     "wof:name":"Grossh\u00f6chstetten",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

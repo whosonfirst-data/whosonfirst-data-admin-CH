@@ -22,6 +22,18 @@
     "geom:latitude":47.388517,
     "geom:longitude":7.934756,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.390577,
     "lbl:longitude":7.937408,
     "lbl:max_zoom":18.0,
@@ -135,9 +147,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2493",
+        "chgov:number_qualified":"1102493",
         "eg:gisco_id":"CH_CH2493",
         "eurostat:nuts_2021_id":"CH2493"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125854773
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404328361,
-    "wof:lastmodified":1684351694,
+    "wof:lastmodified":1695878878,
     "wof:name":"Lostorf",
     "wof:parent_id":1394137093,
     "wof:placetype":"localadmin",

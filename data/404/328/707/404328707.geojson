@@ -22,6 +22,18 @@
     "geom:latitude":47.205753,
     "geom:longitude":7.563544,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.207863,
     "lbl:longitude":7.564965,
     "lbl:max_zoom":18.0,
@@ -130,12 +142,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2534",
+        "chgov:number_qualified":"1102534",
         "eg:gisco_id":"CH_CH2534",
         "eurostat:nuts_2021_id":"CH2534",
         "gn:id":7287642,
         "gp:id":12684666,
         "qs_pg:id":891652
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126045669
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404328707,
-    "wof:lastmodified":1684351699,
+    "wof:lastmodified":1695878884,
     "wof:name":"Zuchwil",
     "wof:parent_id":1394137123,
     "wof:placetype":"localadmin",

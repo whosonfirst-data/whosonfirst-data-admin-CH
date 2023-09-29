@@ -22,6 +22,18 @@
     "geom:latitude":46.731327,
     "geom:longitude":6.802588,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.731248,
     "lbl:longitude":6.802588,
     "lbl:max_zoom":18.0,
@@ -127,9 +139,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2038",
+        "chgov:number_qualified":"1002038",
         "eg:gisco_id":"CH_CH2038",
         "eurostat:nuts_2021_id":"CH2038"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125790691
     ],
@@ -148,7 +166,7 @@
         }
     ],
     "wof:id":404573225,
-    "wof:lastmodified":1684351772,
+    "wof:lastmodified":1695878967,
     "wof:name":"Pr\u00e9vondavaux",
     "wof:parent_id":102062945,
     "wof:placetype":"localadmin",

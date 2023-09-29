@@ -22,6 +22,18 @@
     "geom:latitude":47.067412,
     "geom:longitude":8.030475,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.08196,
     "lbl:longitude":8.041174,
     "lbl:max_zoom":18.0,
@@ -132,9 +144,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1136",
+        "chgov:number_qualified":"0301136",
         "eg:gisco_id":"CH_CH1136",
         "eurostat:nuts_2021_id":"CH1136"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404328205,
-    "wof:lastmodified":1684351691,
+    "wof:lastmodified":1695878875,
     "wof:name":"Menznau",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",

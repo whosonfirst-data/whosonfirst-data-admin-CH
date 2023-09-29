@@ -22,6 +22,18 @@
     "geom:latitude":46.89797,
     "geom:longitude":7.137902,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.899347,
     "lbl:longitude":7.137536,
     "lbl:max_zoom":18.0,
@@ -95,12 +107,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2257",
+        "chgov:number_qualified":"1002257",
         "eg:gisco_id":"CH_CH2257",
         "eurostat:nuts_2021_id":"CH2257",
         "gn:id":7285591,
         "gp:id":12683268,
         "qs_pg:id":671269
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126025275
     ],
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":404571625,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878954,
     "wof:name":"Cressier",
     "wof:parent_id":102062765,
     "wof:placetype":"localadmin",

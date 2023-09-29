@@ -22,6 +22,18 @@
     "geom:latitude":46.557331,
     "geom:longitude":9.370342,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.564052,
     "lbl:longitude":9.379072,
     "lbl:max_zoom":18.0,
@@ -137,12 +149,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3695",
+        "chgov:number_qualified":"1803695",
         "eg:gisco_id":"CH_CH3695",
         "eurostat:nuts_2021_id":"CH3695",
         "gn:id":7287256,
         "gp:id":12683557,
         "qs_pg:id":1297384
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125792095
     ],
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404568191,
-    "wof:lastmodified":1684351714,
+    "wof:lastmodified":1695878899,
     "wof:name":"Sufers",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",

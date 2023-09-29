@@ -22,6 +22,18 @@
     "geom:latitude":47.156703,
     "geom:longitude":8.165398,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.155221,
     "lbl:longitude":8.164908,
     "lbl:max_zoom":18.0,
@@ -88,12 +100,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1084",
+        "chgov:number_qualified":"0301084",
         "eg:gisco_id":"CH_CH1084",
         "eurostat:nuts_2021_id":"CH1084",
         "gn:id":7285712,
         "gp:id":12683361,
         "qs_pg:id":261672
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126035861
     ],
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":404328455,
-    "wof:lastmodified":1684351696,
+    "wof:lastmodified":1695878880,
     "wof:name":"Eich",
     "wof:parent_id":1394137077,
     "wof:placetype":"localadmin",

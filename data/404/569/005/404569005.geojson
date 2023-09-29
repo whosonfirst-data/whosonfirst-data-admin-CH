@@ -22,6 +22,18 @@
     "geom:latitude":47.618194,
     "geom:longitude":8.638204,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.621543,
     "lbl:longitude":8.643904,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0035",
+        "chgov:number_qualified":"0100035",
         "eg:gisco_id":"CH_CH0035",
         "eurostat:nuts_2021_id":"CH0035",
         "gn:id":7286442,
         "gp:id":12683369,
         "qs_pg:id":1040515
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125913375
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404569005,
-    "wof:lastmodified":1684351729,
+    "wof:lastmodified":1695878916,
     "wof:name":"Marthalen",
     "wof:parent_id":102062801,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.199419,
     "geom:longitude":8.582686,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.200934,
     "lbl:longitude":8.58453,
     "lbl:max_zoom":18.0,
@@ -132,11 +144,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1705",
+        "chgov:number_qualified":"0901705",
         "eg:gisco_id":"CH_CH1705",
         "eurostat:nuts_2021_id":"CH1705",
         "gp:id":12684071,
         "qs_pg:id":1092296
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126025359
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404328493,
-    "wof:lastmodified":1684351696,
+    "wof:lastmodified":1695878880,
     "wof:name":"Neuheim",
     "wof:parent_id":102063067,
     "wof:placetype":"localadmin",

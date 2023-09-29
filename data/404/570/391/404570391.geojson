@@ -22,6 +22,18 @@
     "geom:latitude":47.63676,
     "geom:longitude":9.046755,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.635875,
     "lbl:longitude":9.046357,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4846",
+        "chgov:number_qualified":"2004846",
         "eg:gisco_id":"CH_CH4846",
         "eurostat:nuts_2021_id":"CH4846",
         "gn:id":7286857,
         "gp:id":12684235,
         "qs_pg:id":671528
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125956171
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404570391,
-    "wof:lastmodified":1684351746,
+    "wof:lastmodified":1695878936,
     "wof:name":"Raperswilen",
     "wof:parent_id":102062953,
     "wof:placetype":"localadmin",

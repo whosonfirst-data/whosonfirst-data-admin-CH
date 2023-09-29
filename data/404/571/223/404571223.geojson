@@ -22,6 +22,18 @@
     "geom:latitude":47.492413,
     "geom:longitude":7.132812,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.491584,
     "lbl:longitude":7.129242,
     "lbl:max_zoom":18.0,
@@ -119,12 +131,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6773",
+        "chgov:number_qualified":"2606773",
         "eg:gisco_id":"CH_CH6773",
         "eurostat:nuts_2021_id":"CH6773",
         "gn:id":7285228,
         "gp:id":12684897,
         "qs_pg:id":671188
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125864239
     ],
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":404571223,
-    "wof:lastmodified":1684351756,
+    "wof:lastmodified":1695878948,
     "wof:name":"Beurnev\u00e9sin",
     "wof:parent_id":102063059,
     "wof:placetype":"localadmin",

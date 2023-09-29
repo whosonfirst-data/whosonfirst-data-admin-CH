@@ -22,6 +22,18 @@
     "geom:latitude":47.475628,
     "geom:longitude":9.494951,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.474353,
     "lbl:longitude":9.496059,
     "lbl:max_zoom":18.0,
@@ -107,12 +119,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3215",
+        "chgov:number_qualified":"1703215",
         "eg:gisco_id":"CH_CH3215",
         "eurostat:nuts_2021_id":"CH3215",
         "gn:id":7286950,
         "gp:id":12684296,
         "qs_pg:id":223857
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":404573239,
-    "wof:lastmodified":1684351772,
+    "wof:lastmodified":1695878967,
     "wof:name":"Rorschach",
     "wof:parent_id":102062855,
     "wof:placetype":"localadmin",

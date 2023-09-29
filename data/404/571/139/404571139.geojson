@@ -22,6 +22,18 @@
     "geom:latitude":46.730098,
     "geom:longitude":6.953764,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.74186,
     "lbl:longitude":6.965724,
     "lbl:max_zoom":18.0,
@@ -124,9 +136,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2116",
+        "chgov:number_qualified":"1002116",
         "eg:gisco_id":"CH_CH2116",
         "eurostat:nuts_2021_id":"CH2116"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -142,7 +160,7 @@
         }
     ],
     "wof:id":404571139,
-    "wof:lastmodified":1684351755,
+    "wof:lastmodified":1695878947,
     "wof:name":"La Folliaz",
     "wof:parent_id":102062867,
     "wof:placetype":"localadmin",

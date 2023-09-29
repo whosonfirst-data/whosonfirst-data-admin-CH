@@ -22,6 +22,18 @@
     "geom:latitude":47.568116,
     "geom:longitude":7.897923,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.568327,
     "lbl:longitude":7.899575,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4261",
+        "chgov:number_qualified":"1904261",
         "eg:gisco_id":"CH_CH4261",
         "eurostat:nuts_2021_id":"CH4261",
         "gn:id":7287527,
         "gp:id":12684950,
         "qs_pg:id":1208776
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125921253
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404571457,
-    "wof:lastmodified":1684351759,
+    "wof:lastmodified":1695878952,
     "wof:name":"Wallbach",
     "wof:parent_id":102062905,
     "wof:placetype":"localadmin",

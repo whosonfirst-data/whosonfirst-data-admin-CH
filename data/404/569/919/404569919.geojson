@@ -22,6 +22,18 @@
     "geom:latitude":46.50406,
     "geom:longitude":6.252188,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.491726,
     "lbl:longitude":6.263112,
     "lbl:max_zoom":18.0,
@@ -125,11 +137,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5429",
+        "chgov:number_qualified":"2205429",
         "eg:gisco_id":"CH_CH5429",
         "eurostat:nuts_2021_id":"CH5429",
         "gn:id":7286371,
         "qs_pg:id":671438
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125788043
     ],
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":404569919,
-    "wof:lastmodified":1684351740,
+    "wof:lastmodified":1695878929,
     "wof:name":"Longirod",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

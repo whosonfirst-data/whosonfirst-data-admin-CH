@@ -22,6 +22,18 @@
     "geom:latitude":46.888323,
     "geom:longitude":8.640996,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.886243,
     "lbl:longitude":8.640595,
     "lbl:max_zoom":18.0,
@@ -135,12 +147,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1201",
+        "chgov:number_qualified":"0401201",
         "eg:gisco_id":"CH_CH1201",
         "eurostat:nuts_2021_id":"CH1201",
         "gn:id":7285057,
         "gp:id":12682782,
         "qs_pg:id":511505
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853911
     ],
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":404328431,
-    "wof:lastmodified":1684351695,
+    "wof:lastmodified":1695878879,
     "wof:name":"Altdorf",
     "wof:parent_id":102062879,
     "wof:placetype":"localadmin",

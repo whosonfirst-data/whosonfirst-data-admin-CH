@@ -22,6 +22,18 @@
     "geom:latitude":47.280701,
     "geom:longitude":9.393023,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.279285,
     "lbl:longitude":9.394124,
     "lbl:max_zoom":18.0,
@@ -64,9 +76,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3105",
         "eg:gisco_id":"CH_CH3105",
         "eurostat:nuts_2021_id":"CH3105"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"deb848d6d6a221eb090eab5d4fdd5223",
     "wof:hierarchy":[
@@ -79,7 +93,7 @@
         }
     ],
     "wof:id":1394254227,
-    "wof:lastmodified":1684351785,
+    "wof:lastmodified":1695878982,
     "wof:name":"Schwende",
     "wof:parent_id":1394237541,
     "wof:placetype":"localadmin",

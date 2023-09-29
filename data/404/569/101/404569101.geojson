@@ -22,6 +22,18 @@
     "geom:latitude":46.545093,
     "geom:longitude":6.481713,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.541082,
     "lbl:longitude":6.487032,
     "lbl:max_zoom":18.0,
@@ -116,11 +128,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5634",
+        "chgov:number_qualified":"2205634",
         "eg:gisco_id":"CH_CH5634",
         "eurostat:nuts_2021_id":"CH5634",
         "gp:id":12684730,
         "qs_pg:id":493295
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":404569101,
-    "wof:lastmodified":1684351730,
+    "wof:lastmodified":1695878918,
     "wof:name":"Echichens",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

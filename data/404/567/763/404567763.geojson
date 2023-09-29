@@ -22,6 +22,18 @@
     "geom:latitude":46.933005,
     "geom:longitude":9.406915,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.927579,
     "lbl:longitude":9.409005,
     "lbl:max_zoom":18.0,
@@ -131,11 +143,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3294",
+        "chgov:number_qualified":"1703294",
         "eg:gisco_id":"CH_CH3294",
         "eurostat:nuts_2021_id":"CH3294",
         "gp:id":12682852,
         "qs_pg:id":895174
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":404567763,
-    "wof:lastmodified":1684351704,
+    "wof:lastmodified":1695878889,
     "wof:name":"Pf\u00e4fers",
     "wof:parent_id":102062963,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.777853,
     "geom:longitude":9.421173,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.78008,
     "lbl:longitude":9.420955,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3637",
+        "chgov:number_qualified":"1803637",
         "eg:gisco_id":"CH_CH3637",
         "eurostat:nuts_2021_id":"CH3637",
         "gn:id":7286958,
         "gp:id":12684301,
         "qs_pg:id":232040
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125951191
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404572079,
-    "wof:lastmodified":1684351766,
+    "wof:lastmodified":1695878960,
     "wof:name":"Rothenbrunnen",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",

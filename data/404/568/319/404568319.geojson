@@ -22,6 +22,18 @@
     "geom:latitude":47.126263,
     "geom:longitude":8.889345,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.130147,
     "lbl:longitude":8.885202,
     "lbl:max_zoom":18.0,
@@ -134,12 +146,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1348",
+        "chgov:number_qualified":"0501348",
         "eg:gisco_id":"CH_CH1348",
         "eurostat:nuts_2021_id":"CH1348",
         "gn:id":7287495,
         "gp:id":12684252,
         "qs_pg:id":466163
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126051223
     ],
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":404568319,
-    "wof:lastmodified":1684351716,
+    "wof:lastmodified":1695878902,
     "wof:name":"Vorderthal",
     "wof:parent_id":102062927,
     "wof:placetype":"localadmin",

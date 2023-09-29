@@ -22,6 +22,18 @@
     "geom:latitude":46.541962,
     "geom:longitude":8.599257,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.536961,
     "lbl:longitude":8.599238,
     "lbl:max_zoom":18.0,
@@ -146,12 +158,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5061",
+        "chgov:number_qualified":"2105061",
         "eg:gisco_id":"CH_CH5061",
         "eurostat:nuts_2021_id":"CH5061",
         "gn:id":7285044,
         "gp:id":12682740,
         "qs_pg:id":1196971
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853829
     ],
@@ -171,7 +189,7 @@
         }
     ],
     "wof:id":404567805,
-    "wof:lastmodified":1684351705,
+    "wof:lastmodified":1695878890,
     "wof:name":"Airolo",
     "wof:parent_id":102062931,
     "wof:placetype":"localadmin",

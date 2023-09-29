@@ -22,6 +22,18 @@
     "geom:latitude":47.27916,
     "geom:longitude":7.133856,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.279301,
     "lbl:longitude":7.13319,
     "lbl:max_zoom":18.0,
@@ -94,9 +106,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6750",
+        "chgov:number_qualified":"2606750",
         "eg:gisco_id":"CH_CH6750",
         "eurostat:nuts_2021_id":"CH6750"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125903725
     ],
@@ -115,7 +133,7 @@
         }
     ],
     "wof:id":404569221,
-    "wof:lastmodified":1684351732,
+    "wof:lastmodified":1695878920,
     "wof:name":"Lajoux",
     "wof:parent_id":102062875,
     "wof:placetype":"localadmin",

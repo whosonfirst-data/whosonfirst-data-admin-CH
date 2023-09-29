@@ -22,6 +22,18 @@
     "geom:latitude":47.070387,
     "geom:longitude":7.220113,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.071078,
     "lbl:longitude":7.22037,
     "lbl:max_zoom":18.0,
@@ -131,11 +143,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0735",
+        "chgov:number_qualified":"0200735",
         "eg:gisco_id":"CH_CH0735",
         "eurostat:nuts_2021_id":"CH0735",
         "gp:id":20075406,
         "qs_pg:id":59615
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126025817
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404571961,
-    "wof:lastmodified":1684351765,
+    "wof:lastmodified":1695878959,
     "wof:name":"Epsach",
     "wof:parent_id":102062909,
     "wof:placetype":"localadmin",

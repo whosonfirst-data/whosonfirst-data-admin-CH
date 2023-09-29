@@ -22,6 +22,18 @@
     "geom:latitude":46.757109,
     "geom:longitude":7.148803,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.755966,
     "lbl:longitude":7.148443,
     "lbl:max_zoom":18.0,
@@ -84,12 +96,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2189",
+        "chgov:number_qualified":"1002189",
         "eg:gisco_id":"CH_CH2189",
         "eurostat:nuts_2021_id":"CH2189",
         "gn:id":2660881,
         "gp:id":12683396,
         "qs_pg:id":407881
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1394297797
     ],
@@ -109,7 +127,7 @@
         }
     ],
     "wof:id":404571039,
-    "wof:lastmodified":1684351753,
+    "wof:lastmodified":1695878945,
     "wof:name":"Ependes",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",

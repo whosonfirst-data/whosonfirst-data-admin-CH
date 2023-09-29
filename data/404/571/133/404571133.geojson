@@ -22,6 +22,18 @@
     "geom:latitude":46.398561,
     "geom:longitude":8.104065,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.391398,
     "lbl:longitude":8.113772,
     "lbl:max_zoom":18.0,
@@ -89,12 +101,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6061",
+        "chgov:number_qualified":"2306061",
         "eg:gisco_id":"CH_CH6061",
         "eurostat:nuts_2021_id":"CH6061",
         "gn:id":7286293,
         "gp:id":12683846,
         "qs_pg:id":671417
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125979531
     ],
@@ -114,7 +132,7 @@
         }
     ],
     "wof:id":404571133,
-    "wof:lastmodified":1684351755,
+    "wof:lastmodified":1695878947,
     "wof:name":"Lax",
     "wof:parent_id":102063031,
     "wof:placetype":"localadmin",

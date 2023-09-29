@@ -22,6 +22,18 @@
     "geom:latitude":47.340414,
     "geom:longitude":7.471764,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.318948,
     "lbl:longitude":7.490513,
     "lbl:max_zoom":18.0,
@@ -76,9 +88,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6730",
         "eg:gisco_id":"CH_CH6730",
         "eurostat:nuts_2021_id":"CH6730"
     },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geomhash":"6a298805c17265c50b9589d71de4245f",
     "wof:hierarchy":[
@@ -91,7 +105,7 @@
         }
     ],
     "wof:id":1394254037,
-    "wof:lastmodified":1684351779,
+    "wof:lastmodified":1695878975,
     "wof:name":"Val Terbi",
     "wof:parent_id":102062791,
     "wof:placetype":"localadmin",

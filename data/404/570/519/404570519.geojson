@@ -22,6 +22,18 @@
     "geom:latitude":47.430235,
     "geom:longitude":7.937253,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.431104,
     "lbl:longitude":7.938851,
     "lbl:max_zoom":18.0,
@@ -131,11 +143,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2855",
+        "chgov:number_qualified":"1302855",
         "eg:gisco_id":"CH_CH2855",
         "eurostat:nuts_2021_id":"CH2855",
         "gp:id":12684945,
         "qs_pg:id":1092303
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125898059
     ],
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":404570519,
-    "wof:lastmodified":1684351747,
+    "wof:lastmodified":1695878937,
     "wof:name":"Oltingen",
     "wof:parent_id":102062819,
     "wof:placetype":"localadmin",

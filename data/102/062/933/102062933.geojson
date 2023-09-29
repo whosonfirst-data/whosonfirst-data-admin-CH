@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01336,
-    "geom:area_square_m":111914933.206421,
+    "geom:area_square_m":111914933.206424,
     "geom:bbox":"8.583051,47.27535,8.764599,47.430769",
     "geom:latitude":47.356592,
     "geom:longitude":8.680781,
@@ -204,12 +204,15 @@
         85682309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"0109"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ef02842a38f4f1a93f9bc20f6b4342d7",
+    "wof:geomhash":"0df29c020efdf54929a7d21660bee85c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":102062933,
-    "wof:lastmodified":1612224530,
+    "wof:lastmodified":1695886489,
     "wof:name":"Uster",
     "wof:parent_id":85682309,
     "wof:placetype":"county",

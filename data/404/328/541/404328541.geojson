@@ -22,6 +22,18 @@
     "geom:latitude":47.443476,
     "geom:longitude":9.597376,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.445634,
     "lbl:longitude":9.59689,
     "lbl:max_zoom":18.0,
@@ -139,12 +151,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3037",
+        "chgov:number_qualified":"1503037",
         "eg:gisco_id":"CH_CH3037",
         "eurostat:nuts_2021_id":"CH3037",
         "gn:id":7287538,
         "gp:id":12684609,
         "qs_pg:id":218702
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125920011
     ],
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":404328541,
-    "wof:lastmodified":1684351697,
+    "wof:lastmodified":1695878881,
     "wof:name":"Walzenhausen",
     "wof:parent_id":1394137103,
     "wof:placetype":"localadmin",

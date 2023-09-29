@@ -22,6 +22,18 @@
     "geom:latitude":47.55832,
     "geom:longitude":8.404738,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.559784,
     "lbl:longitude":8.405861,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4306",
+        "chgov:number_qualified":"1904306",
         "eg:gisco_id":"CH_CH4306",
         "eurostat:nuts_2021_id":"CH4306",
         "gn:id":7285832,
         "gp:id":12685104,
         "qs_pg:id":1314223
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125974631
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404570977,
-    "wof:lastmodified":1684351753,
+    "wof:lastmodified":1695878945,
     "wof:name":"Fisibach",
     "wof:parent_id":102062841,
     "wof:placetype":"localadmin",

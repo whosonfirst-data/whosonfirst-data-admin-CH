@@ -22,6 +22,18 @@
     "geom:latitude":46.831874,
     "geom:longitude":6.592463,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.831889,
     "lbl:longitude":6.592263,
     "lbl:max_zoom":18.0,
@@ -113,11 +125,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5564",
+        "chgov:number_qualified":"2205564",
         "eg:gisco_id":"CH_CH5564",
         "eurostat:nuts_2021_id":"CH5564",
         "gn:id":7286662,
         "qs_pg:id":671493
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125910227
     ],
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":404573125,
-    "wof:lastmodified":1684351771,
+    "wof:lastmodified":1695878966,
     "wof:name":"Novalles",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

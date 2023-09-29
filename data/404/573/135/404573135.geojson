@@ -22,6 +22,18 @@
     "geom:latitude":46.372884,
     "geom:longitude":6.189842,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.375532,
     "lbl:longitude":6.192692,
     "lbl:max_zoom":18.0,
@@ -121,9 +133,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5701",
+        "chgov:number_qualified":"2205701",
         "eg:gisco_id":"CH_CH5701",
         "eurostat:nuts_2021_id":"CH5701"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125767805
     ],
@@ -142,7 +160,7 @@
         }
     ],
     "wof:id":404573135,
-    "wof:lastmodified":1684351771,
+    "wof:lastmodified":1695878966,
     "wof:name":"Arnex-sur-Nyon",
     "wof:parent_id":102063049,
     "wof:placetype":"localadmin",

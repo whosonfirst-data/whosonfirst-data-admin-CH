@@ -22,6 +22,18 @@
     "geom:latitude":47.501635,
     "geom:longitude":8.062523,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.500348,
     "lbl:longitude":8.064538,
     "lbl:max_zoom":18.0,
@@ -86,11 +98,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4167",
+        "chgov:number_qualified":"1904167",
         "eg:gisco_id":"CH_CH4167",
         "eurostat:nuts_2021_id":"CH4167",
         "gp:id":12683707,
         "qs_pg:id":262498
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126049461
     ],
@@ -110,7 +128,7 @@
         }
     ],
     "wof:id":404570497,
-    "wof:lastmodified":1684351747,
+    "wof:lastmodified":1695878937,
     "wof:name":"Hornussen",
     "wof:parent_id":102062977,
     "wof:placetype":"localadmin",

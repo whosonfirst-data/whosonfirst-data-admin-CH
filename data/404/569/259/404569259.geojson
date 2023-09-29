@@ -22,6 +22,18 @@
     "geom:latitude":46.214289,
     "geom:longitude":8.826523,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.214362,
     "lbl:longitude":8.825875,
     "lbl:max_zoom":18.0,
@@ -122,12 +134,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5117",
+        "chgov:number_qualified":"2105117",
         "eg:gisco_id":"CH_CH5117",
         "eurostat:nuts_2021_id":"CH5117",
         "gn:id":7286489,
         "gp:id":12682951,
         "qs_pg:id":43290
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125919733
     ],
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":404569259,
-    "wof:lastmodified":1684351732,
+    "wof:lastmodified":1695878921,
     "wof:name":"Mergoscia",
     "wof:parent_id":102062975,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.315026,
     "geom:longitude":6.972495,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.311161,
     "lbl:longitude":6.958098,
     "lbl:max_zoom":18.0,
@@ -185,12 +197,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5401",
+        "chgov:number_qualified":"2205401",
         "eg:gisco_id":"CH_CH5401",
         "eurostat:nuts_2021_id":"CH5401",
         "gn:id":7285042,
         "gp:id":12682737,
         "qs_pg:id":1196972
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101853849
     ],
@@ -210,7 +228,7 @@
         }
     ],
     "wof:id":404568813,
-    "wof:lastmodified":1684351725,
+    "wof:lastmodified":1695878913,
     "wof:name":"Aigle",
     "wof:parent_id":102062783,
     "wof:placetype":"localadmin",

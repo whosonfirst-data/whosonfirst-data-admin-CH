@@ -22,6 +22,18 @@
     "geom:latitude":47.044908,
     "geom:longitude":8.374353,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.046136,
     "lbl:longitude":8.373815,
     "lbl:max_zoom":18.0,
@@ -145,12 +157,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1063",
+        "chgov:number_qualified":"0301063",
         "eg:gisco_id":"CH_CH1063",
         "eurostat:nuts_2021_id":"CH1063",
         "gn:id":7286468,
         "gp:id":12683959,
         "qs_pg:id":43689
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125918521
     ],
@@ -170,7 +188,7 @@
         }
     ],
     "wof:id":404328355,
-    "wof:lastmodified":1684351694,
+    "wof:lastmodified":1695878878,
     "wof:name":"Meggen",
     "wof:parent_id":1394137079,
     "wof:placetype":"localadmin",

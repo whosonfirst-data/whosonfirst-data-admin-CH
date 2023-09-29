@@ -505,20 +505,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"01",
         "digitalenvoy:region_code":10188,
         "eurostat:nuts_2021_id":"CH040",
         "fips:code":"SZ25",
         "gn:id":2657895,
         "gp:id":2347107,
         "hasc:id":"CH.ZH",
+        "iso:code":"CH-ZH",
         "iso:id":"CH-ZH",
         "wd:id":"Q11943"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"caa4255c5895f72566bed26a95ef6d63",
+    "wof:geomhash":"8776c34a3b055538ce1967cb4607a611",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -540,7 +546,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865972,
+    "wof:lastmodified":1695885195,
     "wof:name":"Zurich",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

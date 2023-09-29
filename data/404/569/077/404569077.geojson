@@ -22,6 +22,18 @@
     "geom:latitude":47.310133,
     "geom:longitude":7.040537,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.31103,
     "lbl:longitude":7.032537,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6759",
+        "chgov:number_qualified":"2606759",
         "eg:gisco_id":"CH_CH6759",
         "eurostat:nuts_2021_id":"CH6759",
         "gn:id":7287199,
         "gp:id":12684425,
         "qs_pg:id":106681
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125919943
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404569077,
-    "wof:lastmodified":1684351730,
+    "wof:lastmodified":1695878918,
     "wof:name":"Soubey",
     "wof:parent_id":102062875,
     "wof:placetype":"localadmin",

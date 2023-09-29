@@ -22,6 +22,18 @@
     "geom:latitude":46.625324,
     "geom:longitude":7.827891,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.624578,
     "lbl:longitude":7.827265,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0591",
+        "chgov:number_qualified":"0200591",
         "eg:gisco_id":"CH_CH0591",
         "eurostat:nuts_2021_id":"CH0591",
         "gn:id":7287068,
         "gp:id":12684356,
         "qs_pg:id":43851
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125951367
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404568637,
-    "wof:lastmodified":1684351722,
+    "wof:lastmodified":1695878909,
     "wof:name":"Saxeten",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",

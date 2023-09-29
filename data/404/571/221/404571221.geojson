@@ -22,6 +22,18 @@
     "geom:latitude":47.285148,
     "geom:longitude":8.003076,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.287153,
     "lbl:longitude":8.006833,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4273",
+        "chgov:number_qualified":"1904273",
         "eg:gisco_id":"CH_CH4273",
         "eurostat:nuts_2021_id":"CH4273",
         "gn:id":7285303,
         "gp:id":12683020,
         "qs_pg:id":1102267
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125873775
     ],
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":404571221,
-    "wof:lastmodified":1684351756,
+    "wof:lastmodified":1695878948,
     "wof:name":"Bottenwil",
     "wof:parent_id":102062851,
     "wof:placetype":"localadmin",

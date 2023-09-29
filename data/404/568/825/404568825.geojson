@@ -22,6 +22,18 @@
     "geom:latitude":46.869463,
     "geom:longitude":7.326402,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.873672,
     "lbl:longitude":7.327087,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2308",
+        "chgov:number_qualified":"1002308",
         "eg:gisco_id":"CH_CH2308",
         "eurostat:nuts_2021_id":"CH2308",
         "gn:id":7287358,
         "gp:id":12683532,
         "qs_pg:id":1315057
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125803993
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404568825,
-    "wof:lastmodified":1684351725,
+    "wof:lastmodified":1695878913,
     "wof:name":"Ueberstorf",
     "wof:parent_id":102062891,
     "wof:placetype":"localadmin",

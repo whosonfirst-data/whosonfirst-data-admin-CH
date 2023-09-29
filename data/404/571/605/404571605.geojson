@@ -22,6 +22,18 @@
     "geom:latitude":47.523748,
     "geom:longitude":7.778946,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.528994,
     "lbl:longitude":7.775186,
     "lbl:max_zoom":18.0,
@@ -101,11 +113,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4257",
+        "chgov:number_qualified":"1904257",
         "eg:gisco_id":"CH_CH4257",
         "eurostat:nuts_2021_id":"CH4257",
         "gp:id":12684938,
         "qs_pg:id":1306496
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126004343
     ],
@@ -125,7 +143,7 @@
         }
     ],
     "wof:id":404571605,
-    "wof:lastmodified":1684351761,
+    "wof:lastmodified":1695878954,
     "wof:name":"Olsberg",
     "wof:parent_id":102062905,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.707819,
     "geom:longitude":6.371402,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.71061,
     "lbl:longitude":6.372402,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5764",
+        "chgov:number_qualified":"2205764",
         "eg:gisco_id":"CH_CH5764",
         "eurostat:nuts_2021_id":"CH5764",
         "gn:id":7287412,
         "gp:id":12684558,
         "qs_pg:id":671642
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         101767405
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404568465,
-    "wof:lastmodified":1684351719,
+    "wof:lastmodified":1695878905,
     "wof:name":"Vallorbe",
     "wof:parent_id":102062813,
     "wof:placetype":"localadmin",

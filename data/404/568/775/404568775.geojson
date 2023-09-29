@@ -22,6 +22,18 @@
     "geom:latitude":47.280432,
     "geom:longitude":8.652448,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.275118,
     "lbl:longitude":8.654009,
     "lbl:max_zoom":18.0,
@@ -159,12 +171,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0156",
+        "chgov:number_qualified":"0100156",
         "eg:gisco_id":"CH_CH0156",
         "eurostat:nuts_2021_id":"CH0156",
         "gn:id":7286472,
         "gp:id":12683962,
         "qs_pg:id":1197249
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -181,7 +199,7 @@
         }
     ],
     "wof:id":404568775,
-    "wof:lastmodified":1684351724,
+    "wof:lastmodified":1695878912,
     "wof:name":"Meilen",
     "wof:parent_id":102062769,
     "wof:placetype":"localadmin",

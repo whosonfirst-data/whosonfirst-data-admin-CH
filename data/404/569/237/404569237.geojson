@@ -22,6 +22,18 @@
     "geom:latitude":46.643859,
     "geom:longitude":7.952171,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.648846,
     "lbl:longitude":7.953999,
     "lbl:max_zoom":18.0,
@@ -142,9 +154,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0586",
+        "chgov:number_qualified":"0200586",
         "eg:gisco_id":"CH_CH0586",
         "eurostat:nuts_2021_id":"CH0586"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1310140023
     ],
@@ -163,7 +181,7 @@
         }
     ],
     "wof:id":404569237,
-    "wof:lastmodified":1684351732,
+    "wof:lastmodified":1695878920,
     "wof:name":"L\u00fctschental",
     "wof:parent_id":102062759,
     "wof:placetype":"localadmin",

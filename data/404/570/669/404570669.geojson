@@ -22,6 +22,18 @@
     "geom:latitude":47.60735,
     "geom:longitude":9.261276,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.607265,
     "lbl:longitude":9.261271,
     "lbl:max_zoom":18.0,
@@ -140,12 +152,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4641",
+        "chgov:number_qualified":"2004641",
         "eg:gisco_id":"CH_CH4641",
         "eurostat:nuts_2021_id":"CH4641",
         "gn:id":7285062,
         "gp:id":12682790,
         "qs_pg:id":281535
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404570669,
-    "wof:lastmodified":1684351749,
+    "wof:lastmodified":1695878940,
     "wof:name":"Altnau",
     "wof:parent_id":102062953,
     "wof:placetype":"localadmin",

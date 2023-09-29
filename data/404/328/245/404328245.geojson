@@ -22,6 +22,18 @@
     "geom:latitude":47.142541,
     "geom:longitude":8.451953,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.145914,
     "lbl:longitude":8.462835,
     "lbl:max_zoom":18.0,
@@ -60,12 +72,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1707",
+        "chgov:number_qualified":"0901707",
         "eg:gisco_id":"CH_CH1707",
         "eurostat:nuts_2021_id":"CH1707",
         "gn:id":7286917,
         "gp:id":12683089,
         "qs_pg:id":190980
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -82,7 +100,7 @@
         }
     ],
     "wof:id":404328245,
-    "wof:lastmodified":1684351692,
+    "wof:lastmodified":1695878876,
     "wof:name":"Risch",
     "wof:parent_id":102063067,
     "wof:placetype":"localadmin",

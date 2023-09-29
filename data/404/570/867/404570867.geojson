@@ -22,6 +22,18 @@
     "geom:latitude":47.528454,
     "geom:longitude":8.508908,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.529061,
     "lbl:longitude":8.508564,
     "lbl:max_zoom":18.0,
@@ -113,12 +125,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0059",
+        "chgov:number_qualified":"0100059",
         "eg:gisco_id":"CH_CH0059",
         "eurostat:nuts_2021_id":"CH0059",
         "gn:id":7286092,
         "gp:id":12685106,
         "qs_pg:id":975188
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125804489
     ],
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":404570867,
-    "wof:lastmodified":1684351751,
+    "wof:lastmodified":1695878943,
     "wof:name":"Hochfelden",
     "wof:parent_id":102063019,
     "wof:placetype":"localadmin",

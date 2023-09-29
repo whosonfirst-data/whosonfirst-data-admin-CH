@@ -22,6 +22,18 @@
     "geom:latitude":46.8362,
     "geom:longitude":7.119431,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.838289,
     "lbl:longitude":7.113209,
     "lbl:max_zoom":18.0,
@@ -127,9 +139,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"2235",
+        "chgov:number_qualified":"1002235",
         "eg:gisco_id":"CH_CH2235",
         "eurostat:nuts_2021_id":"CH2235"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":404570595,
-    "wof:lastmodified":1684351748,
+    "wof:lastmodified":1695878939,
     "wof:name":"La Sonnaz",
     "wof:parent_id":102063029,
     "wof:placetype":"localadmin",

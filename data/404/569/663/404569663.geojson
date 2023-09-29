@@ -22,6 +22,18 @@
     "geom:latitude":47.297161,
     "geom:longitude":8.630158,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.295136,
     "lbl:longitude":8.625414,
     "lbl:max_zoom":18.0,
@@ -141,11 +153,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0152",
+        "chgov:number_qualified":"0100152",
         "eg:gisco_id":"CH_CH0152",
         "eurostat:nuts_2021_id":"CH0152",
         "gp:id":12683451,
         "qs_pg:id":1049662
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":404569663,
-    "wof:lastmodified":1684351736,
+    "wof:lastmodified":1695878925,
     "wof:name":"Herrliberg",
     "wof:parent_id":102062769,
     "wof:placetype":"localadmin",

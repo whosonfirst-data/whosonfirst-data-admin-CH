@@ -22,6 +22,18 @@
     "geom:latitude":47.28146,
     "geom:longitude":8.409443,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.281275,
     "lbl:longitude":8.409446,
     "lbl:max_zoom":18.0,
@@ -89,12 +101,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0011",
+        "chgov:number_qualified":"0100011",
         "eg:gisco_id":"CH_CH0011",
         "eurostat:nuts_2021_id":"CH0011",
         "gn:id":7286764,
         "gp:id":12684173,
         "qs_pg:id":1188076
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125944933
     ],
@@ -114,7 +132,7 @@
         }
     ],
     "wof:id":404571245,
-    "wof:lastmodified":1684351756,
+    "wof:lastmodified":1695878949,
     "wof:name":"Ottenbach",
     "wof:parent_id":102062775,
     "wof:placetype":"localadmin",

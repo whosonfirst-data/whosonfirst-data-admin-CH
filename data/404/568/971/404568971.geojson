@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002845,
-    "geom:area_square_m":24263574.711162,
+    "geom:area_square_m":24263574.711161,
     "geom:bbox":"6.77058663713,46.3471145503,6.85480607524,46.4271532565",
     "geom:latitude":46.382333,
     "geom:longitude":6.816992,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.373752,
     "lbl:longitude":6.819166,
     "lbl:max_zoom":18.0,
@@ -61,9 +73,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6155",
+        "chgov:number_qualified":"0806155",
         "gn:id":7287028,
         "qs_pg:id":671582
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125914701
     ],
@@ -72,7 +90,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"49d42b6dbecca1a303c030f7682c87aa",
+    "wof:geomhash":"c634c4ffb70c6076c1d6663f9f088501",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +101,7 @@
         }
     ],
     "wof:id":404568971,
-    "wof:lastmodified":1582223005,
+    "wof:lastmodified":1695878872,
     "wof:name":"Saint-Gingolph",
     "wof:parent_id":102063065,
     "wof:placetype":"localadmin",

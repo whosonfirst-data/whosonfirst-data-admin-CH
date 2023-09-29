@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011899,
-    "geom:area_square_m":102430219.619484,
+    "geom:area_square_m":102430219.61951,
     "geom:bbox":"8.912053,45.817972,9.088997,45.938405",
     "geom:latitude":45.878349,
     "geom:longitude":8.997377,
@@ -168,12 +168,15 @@
         85682269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"2106"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"95292422f365172e55cb9291897410e2",
+    "wof:geomhash":"5062a275d2134fc481f69f9e17496551",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":102063063,
-    "wof:lastmodified":1612224524,
+    "wof:lastmodified":1695886481,
     "wof:name":"Mendrisio",
     "wof:parent_id":85682269,
     "wof:placetype":"county",

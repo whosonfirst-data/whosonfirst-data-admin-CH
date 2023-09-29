@@ -22,6 +22,18 @@
     "geom:latitude":46.518062,
     "geom:longitude":6.380126,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.518235,
     "lbl:longitude":6.380469,
     "lbl:max_zoom":18.0,
@@ -119,11 +131,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"5435",
+        "chgov:number_qualified":"2205435",
         "eg:gisco_id":"CH_CH5435",
         "eurostat:nuts_2021_id":"CH5435",
         "gn:id":7287032,
         "qs_pg:id":671584
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125804209
     ],
@@ -143,7 +161,7 @@
         }
     ],
     "wof:id":404570233,
-    "wof:lastmodified":1684351744,
+    "wof:lastmodified":1695878934,
     "wof:name":"Saint-Livres",
     "wof:parent_id":102062873,
     "wof:placetype":"localadmin",

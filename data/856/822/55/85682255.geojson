@@ -517,20 +517,26 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"18",
         "digitalenvoy:region_code":10169,
         "eurostat:nuts_2021_id":"CH056",
         "fips:code":"SZ09",
         "gn:id":2660522,
         "gp:id":2347091,
         "hasc:id":"CH.GR",
+        "iso:code":"CH-GR",
         "iso:id":"CH-GR",
         "wd:id":"Q11925"
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f3a88727046fd37d1df6d73e983c3d92",
+    "wof:geomhash":"7990b4e159553b542b115653e031a6ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -552,7 +558,7 @@
         "ita",
         "roh"
     ],
-    "wof:lastmodified":1690865981,
+    "wof:lastmodified":1695885192,
     "wof:name":"Graubunden",
     "wof:parent_id":85633051,
     "wof:placetype":"region",

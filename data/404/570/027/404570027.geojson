@@ -22,6 +22,18 @@
     "geom:latitude":47.283072,
     "geom:longitude":8.038663,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.282862,
     "lbl:longitude":8.039157,
     "lbl:max_zoom":18.0,
@@ -143,12 +155,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"4284",
+        "chgov:number_qualified":"1904284",
         "eg:gisco_id":"CH_CH4284",
         "eurostat:nuts_2021_id":"CH4284",
         "gn:id":7287212,
         "gp:id":12684446,
         "qs_pg:id":1001325
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1126007465
     ],
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":404570027,
-    "wof:lastmodified":1684351742,
+    "wof:lastmodified":1695878932,
     "wof:name":"Staffelbach",
     "wof:parent_id":102062851,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":46.243029,
     "geom:longitude":7.940185,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.250118,
     "lbl:longitude":7.935233,
     "lbl:max_zoom":18.0,
@@ -125,12 +137,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"6298",
+        "chgov:number_qualified":"2306298",
         "eg:gisco_id":"CH_CH6298",
         "eurostat:nuts_2021_id":"CH6298",
         "gn:id":7287488,
         "gp:id":12684589,
         "qs_pg:id":106713
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125851533
     ],
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":404567983,
-    "wof:lastmodified":1684351709,
+    "wof:lastmodified":1695878894,
     "wof:name":"Visperterminen",
     "wof:parent_id":102062859,
     "wof:placetype":"localadmin",

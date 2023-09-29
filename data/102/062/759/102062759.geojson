@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144462,
-    "geom:area_square_m":1226116638.981293,
+    "geom:area_square_m":1226116638.981269,
     "geom:bbox":"7.744791,46.477258,8.455157,46.795671",
     "geom:latitude":46.654156,
     "geom:longitude":8.090089,
@@ -78,12 +78,15 @@
         85682381
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "chgov:number":"0250"
+    },
+    "wof:concordances_official":"chgov:number",
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"11cb346104020b97e45949f21e7c9615",
+    "wof:geomhash":"486d9245d8d4f8a87491301579904d5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":102062759,
-    "wof:lastmodified":1627521995,
+    "wof:lastmodified":1695886472,
     "wof:name":"Interlaken-Oberhasli",
     "wof:parent_id":85682381,
     "wof:placetype":"county",

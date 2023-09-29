@@ -22,6 +22,18 @@
     "geom:latitude":46.44684,
     "geom:longitude":9.53054,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.456701,
     "lbl:longitude":9.535965,
     "lbl:max_zoom":18.0,
@@ -146,11 +158,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3681",
+        "chgov:number_qualified":"1803681",
         "eg:gisco_id":"CH_CH3681",
         "eurostat:nuts_2021_id":"CH3681",
         "gp:id":12682793,
         "qs_pg:id":1169826
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":404567809,
-    "wof:lastmodified":1684351705,
+    "wof:lastmodified":1695878890,
     "wof:name":"Avers",
     "wof:parent_id":1394137069,
     "wof:placetype":"localadmin",

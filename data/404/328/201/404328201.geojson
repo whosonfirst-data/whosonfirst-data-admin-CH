@@ -22,6 +22,18 @@
     "geom:latitude":47.061699,
     "geom:longitude":7.955315,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.061497,
     "lbl:longitude":7.955945,
     "lbl:max_zoom":18.0,
@@ -139,12 +151,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1132",
+        "chgov:number_qualified":"0301132",
         "eg:gisco_id":"CH_CH1132",
         "eurostat:nuts_2021_id":"CH1132",
         "gn:id":7286066,
         "gp:id":12683669,
         "qs_pg:id":992829
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes_pg",
@@ -161,7 +179,7 @@
         }
     ],
     "wof:id":404328201,
-    "wof:lastmodified":1684351691,
+    "wof:lastmodified":1695878875,
     "wof:name":"Hergiswil bei Willisau",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",

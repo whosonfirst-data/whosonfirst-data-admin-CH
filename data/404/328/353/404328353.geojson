@@ -22,6 +22,18 @@
     "geom:latitude":47.135699,
     "geom:longitude":7.92627,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.136533,
     "lbl:longitude":7.931396,
     "lbl:max_zoom":18.0,
@@ -130,11 +142,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"1150",
+        "chgov:number_qualified":"0301150",
         "eg:gisco_id":"CH_CH1150",
         "eurostat:nuts_2021_id":"CH1150",
         "gn:id":7287628,
         "qs_pg:id":106725
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -151,7 +169,7 @@
         }
     ],
     "wof:id":404328353,
-    "wof:lastmodified":1684351694,
+    "wof:lastmodified":1695878878,
     "wof:name":"Zell",
     "wof:parent_id":1394137075,
     "wof:placetype":"localadmin",

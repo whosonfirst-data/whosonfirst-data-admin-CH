@@ -22,6 +22,18 @@
     "geom:latitude":47.031351,
     "geom:longitude":7.471088,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.031524,
     "lbl:longitude":7.471084,
     "lbl:max_zoom":18.0,
@@ -128,12 +140,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0553",
+        "chgov:number_qualified":"0200553",
         "eg:gisco_id":"CH_CH0553",
         "eurostat:nuts_2021_id":"CH0553",
         "gn:id":7287570,
         "gp:id":20075388,
         "qs_pg:id":59631
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1326664469
     ],
@@ -153,7 +171,7 @@
         }
     ],
     "wof:id":404573339,
-    "wof:lastmodified":1684351773,
+    "wof:lastmodified":1695878968,
     "wof:name":"Wiggiswil",
     "wof:parent_id":102062861,
     "wof:placetype":"localadmin",

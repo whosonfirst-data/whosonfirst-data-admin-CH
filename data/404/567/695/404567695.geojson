@@ -22,6 +22,18 @@
     "geom:latitude":46.753208,
     "geom:longitude":9.833061,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.759179,
     "lbl:longitude":9.835859,
     "lbl:max_zoom":18.0,
@@ -290,12 +302,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3851",
+        "chgov:number_qualified":"1803851",
         "eg:gisco_id":"CH_CH3851",
         "eurostat:nuts_2021_id":"CH3851",
         "gn:id":2661041,
         "gp:id":12682922,
         "qs_pg:id":575580
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:country":"CH",
     "wof:geom_alt":[
         "quattroshapes",
@@ -312,7 +330,7 @@
         }
     ],
     "wof:id":404567695,
-    "wof:lastmodified":1684351702,
+    "wof:lastmodified":1695878887,
     "wof:name":"Davos",
     "wof:parent_id":102062803,
     "wof:placetype":"localadmin",

@@ -22,6 +22,18 @@
     "geom:latitude":47.471932,
     "geom:longitude":8.406889,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":47.472525,
     "lbl:longitude":8.407191,
     "lbl:max_zoom":18.0,
@@ -131,12 +143,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"0082",
+        "chgov:number_qualified":"0100082",
         "eg:gisco_id":"CH_CH0082",
         "eurostat:nuts_2021_id":"CH0082",
         "gn:id":7285295,
         "gp:id":12685099,
         "qs_pg:id":1112607
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1125775761
     ],
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":404571707,
-    "wof:lastmodified":1684351762,
+    "wof:lastmodified":1695878956,
     "wof:name":"Boppelsen",
     "wof:parent_id":102062995,
     "wof:placetype":"localadmin",

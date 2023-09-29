@@ -22,6 +22,18 @@
     "geom:latitude":46.260764,
     "geom:longitude":9.130324,
     "iso:country":"CH",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:ita_x_preferred_placetype":[
+        "comune"
+    ],
     "lbl:latitude":46.257295,
     "lbl:longitude":9.130021,
     "lbl:max_zoom":18.0,
@@ -62,12 +74,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "chgov:number":"3805",
+        "chgov:number_qualified":"1803805",
         "eg:gisco_id":"CH_CH3805",
         "eurostat:nuts_2021_id":"CH3805",
         "gn:id":7285439,
         "gp:id":12683106,
         "qs_pg:id":106547
     },
+    "wof:concordances_official":"chgov:number",
+    "wof:concordances_official_alt":[
+        "chgov:number_qualified"
+    ],
     "wof:coterminous":[
         1293518917
     ],
@@ -87,7 +105,7 @@
         }
     ],
     "wof:id":404571711,
-    "wof:lastmodified":1684351762,
+    "wof:lastmodified":1695878956,
     "wof:name":"Castaneda",
     "wof:parent_id":102062903,
     "wof:placetype":"localadmin",
