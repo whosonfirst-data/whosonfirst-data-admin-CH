@@ -9,9 +9,24 @@
     "geom:bbox":"6.210101,46.285171,6.253002,46.311884",
     "geom:latitude":46.298823,
     "geom:longitude":6.232475,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"74",
+    "gn:admin3_code":"744",
+    "gn:admin4_code":"74070",
+    "gn:asciiname":"Hermance",
     "gn:country":"CH",
+    "gn:country_code":"FR",
+    "gn:dem":378,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3013436,
+    "gn:latitude":46.30313,
+    "gn:longitude":6.24487,
+    "gn:modification_date":"2016-12-10",
+    "gn:name":"Hermance",
     "gn:population":956,
+    "gn:timezone":"Europe/Paris",
     "iso:country":"CH",
     "lbl:latitude":46.30141,
     "lbl:longitude":6.24332,
@@ -23,6 +38,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "Hermance"
+    ],
     "name:bre_x_preferred":[
         "Hermance"
     ],
@@ -185,6 +203,11 @@
         "qs_pg:id":312643,
         "wd:id":"Q66200"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3013436
+        ]
+    },
     "wof:coterminous":[
         404328691
     ],
@@ -205,7 +228,7 @@
         }
     ],
     "wof:id":1126022077,
-    "wof:lastmodified":1690866277,
+    "wof:lastmodified":1706239387,
     "wof:name":"Hermance",
     "wof:parent_id":404328691,
     "wof:placetype":"locality",
@@ -213,7 +236,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310443945
+    ],
     "wof:tags":[]
 },
   "bbox": [

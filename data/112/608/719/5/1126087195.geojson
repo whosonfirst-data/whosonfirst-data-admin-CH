@@ -61,16 +61,24 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633051,
-        102063055,
         404567873,
+        85633051,
         101748461,
+        102063055,
         85682309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6295112,
         "qs_pg:id":621019
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6295181
+        ],
+        "qs_pg:id":[
+            621057
+        ]
     },
     "wof:country":"CH",
     "wof:created":1497312992,
@@ -87,7 +95,7 @@
         }
     ],
     "wof:id":1126087195,
-    "wof:lastmodified":1598921424,
+    "wof:lastmodified":1706239388,
     "wof:name":"Waldegg",
     "wof:parent_id":101748461,
     "wof:placetype":"neighbourhood",
@@ -95,7 +103,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1394403901
+    ],
     "wof:tags":[]
 },
   "bbox": [

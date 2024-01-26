@@ -9,9 +9,23 @@
     "geom:bbox":"7.35593,46.97113,7.35593,46.97113",
     "geom:latitude":46.97113,
     "geom:longitude":7.35593,
+    "gn:admin1_code":"BE",
+    "gn:admin2_code":"246.0",
+    "gn:admin3_code":"360.0",
+    "gn:asciiname":"Unter-Wohlen",
     "gn:country":"CH",
+    "gn:country_code":"CH",
+    "gn:dem":545,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2658229,
+    "gn:latitude":46.97082,
+    "gn:longitude":7.35526,
+    "gn:modification_date":"2012-04-21",
+    "gn:name":"Unter-Wohlen",
     "gn:population":0,
+    "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "lbl:bbox":"7.35093,46.96613,7.36093,46.97613",
     "lbl:latitude":46.97113,
@@ -293,6 +307,11 @@
         "qs_pg:id":250171,
         "wd:id":"Q67613"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2658229
+        ]
+    },
     "wof:country":"CH",
     "wof:created":1497300765,
     "wof:geomhash":"f43f7a47580e282972f56f71831e8187",
@@ -308,14 +327,15 @@
         }
     ],
     "wof:id":1394396053,
-    "wof:lastmodified":1690866044,
+    "wof:lastmodified":1706239388,
     "wof:name":"Unter-Wohlen",
     "wof:parent_id":101854073,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1126019829
+        1126019829,
+        1394407263
     ],
     "wof:tags":[]
 },

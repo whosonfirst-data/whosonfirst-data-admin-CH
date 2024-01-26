@@ -9,7 +9,11 @@
     "geom:bbox":"-72.318486,-41.513461,-72.283563,-41.479008",
     "geom:latitude":-41.496236,
     "geom:longitude":-72.301025,
+    "gn:country":"CL",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CH",
+    "lbl:bbox":"-72.32789,-41.51752,-72.28789,-41.47752",
     "lbl:latitude":-41.496235,
     "lbl:longitude":-72.301025,
     "lbl:max_zoom":18.0,
@@ -19,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0648\u0634\u0627\u0645\u0648"
     ],
@@ -108,10 +113,34 @@
     "qs:pop":0,
     "qs:source":"Lquattroshapes",
     "qs:type":"Town",
+    "qs_pg:aaroncc":"CL",
+    "qs_pg:gn_country":"CL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3894504,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cocham\u00f3",
+    "qs_pg:name_adm0":"Chile",
+    "qs_pg:name_adm1":"Los Lagos",
+    "qs_pg:photos":466,
+    "qs_pg:photos_1k":94,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":466,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":905776,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424782,
+    "qs_pg:woe_id":350009,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":329,
+    "woe:adm0_id":23424782,
+    "woe:name_adm0":"Chile",
+    "woe:name_adm1":"Los Lagos",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191577
     ],
@@ -122,6 +151,20 @@
         "qs_pg:id":905776,
         "wd:id":"Q3797",
         "wk:page":"Cocham\u00f3"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3894504
+        ],
+        "gp:id":[
+            350009
+        ],
+        "qs_pg:id":[
+            905776
+        ],
+        "wd:id":[
+            "Q3797"
+        ]
     },
     "wof:country":"CH",
     "wof:geomhash":"70394fe0d5aa90f685d7522645940366",
@@ -134,13 +177,15 @@
         }
     ],
     "wof:id":102017801,
-    "wof:lastmodified":1690865961,
+    "wof:lastmodified":1706239387,
     "wof:name":"Cocham\u00f3",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126043297
+    ],
     "wof:tags":[]
 },
   "bbox": [
