@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"8.68878,47.61527,8.68878,47.61527",
@@ -28,7 +30,7 @@
     "lbl:bbox":"8.68378,47.61027,8.69378,47.62027",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Waldegg"
@@ -54,10 +56,10 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        85633051,
-        102062801,
         404569713,
+        85633051,
         1126051093,
+        102062801,
         85682309
     ],
     "wof:breaches":[],
@@ -78,12 +80,14 @@
         }
     ],
     "wof:id":1394401109,
-    "wof:lastmodified":1598917121,
+    "wof:lastmodified":1706239388,
     "wof:name":"Waldegg",
     "wof:parent_id":1126051093,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ch",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394398113
+    ],
     "wof:supersedes":[
         1209649461
     ],

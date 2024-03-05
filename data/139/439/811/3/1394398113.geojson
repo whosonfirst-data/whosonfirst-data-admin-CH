@@ -9,9 +9,23 @@
     "geom:bbox":"8.68931,47.61502,8.68931,47.61502",
     "geom:latitude":47.61502,
     "geom:longitude":8.68931,
+    "gn:admin1_code":"ZH",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"33.0",
+    "gn:asciiname":"Waldegg",
     "gn:country":"CH",
+    "gn:country_code":"CH",
+    "gn:dem":412,
     "gn:fcode":"HSE",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11569069,
+    "gn:latitude":47.61527,
+    "gn:longitude":8.68878,
+    "gn:modification_date":"2017-07-27",
+    "gn:name":"Waldegg",
     "gn:population":3,
+    "gn:timezone":"Europe/Zurich",
     "iso:country":"CH",
     "lbl:bbox":"8.68431,47.61002,8.69431,47.62002",
     "lbl:latitude":47.61502,
@@ -28,6 +42,18 @@
         "Waldegg"
     ],
     "name:eng_x_preferred":[
+        "Waldegg"
+    ],
+    "name:epo_x_preferred":[
+        "Waldegg"
+    ],
+    "name:ita_x_preferred":[
+        "Waldegg"
+    ],
+    "name:nds_x_preferred":[
+        "Waldegg"
+    ],
+    "name:pol_x_preferred":[
         "Waldegg"
     ],
     "name:swe_x_preferred":[
@@ -61,6 +87,11 @@
         "qs_pg:id":617567,
         "wd:id":"Q7961388"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11569069
+        ]
+    },
     "wof:country":"CH",
     "wof:created":1497469241,
     "wof:geomhash":"63ffef92e27ceab774ec09db52769599",
@@ -76,7 +107,7 @@
         }
     ],
     "wof:id":1394398113,
-    "wof:lastmodified":1566640527,
+    "wof:lastmodified":1706239388,
     "wof:name":"Waldegg",
     "wof:parent_id":1126051093,
     "wof:placetype":"neighbourhood",
@@ -85,7 +116,8 @@
     "wof:repo":"whosonfirst-data-admin-ch",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1126112055
+        1126112055,
+        1394401109
     ],
     "wof:tags":[]
 },
